@@ -1,0 +1,65 @@
+{
+  "meta": {
+    "generated_at": "2026-03-12T01:00:00Z",
+    "date": "2026-03-12",
+    "version": "1.0"
+  },
+  "notion_todos": [
+    {
+      "id": "sample-todo-1",
+      "source": "notion",
+      "name": "回覆重要訊息",
+      "status": "待處理",
+      "due_date": "2026-03-12",
+      "priority": "High",
+      "category": "工作",
+      "points": 20,
+      "notes": "這是來自 Notion 的範例代辦事項"
+    },
+    {
+      "id": "sample-todo-2",
+      "source": "notion",
+      "name": "閱讀 30 分鐘",
+      "status": "待處理",
+      "due_date": "2026-03-12",
+      "priority": "Medium",
+      "category": "學習",
+      "points": 15,
+      "notes": ""
+    }
+  ],
+  "notion_content": [
+    {
+      "id": "sample-content-1",
+      "topic": "如何用 AI 工具提升工作效率",
+      "status": "構思中",
+      "planned_date": "2026-03-15",
+      "platform": "YouTube",
+      "tags": ["AI", "工作效率", "工具"],
+      "notes": "介紹 Claude、Notion AI 等工具"
+    },
+    {
+      "id": "sample-content-2",
+      "topic": "每日晨間習慣分享",
+      "status": "準備中",
+      "planned_date": "2026-03-20",
+      "platform": "Instagram",
+      "tags": ["生活", "習慣", "晨間routine"],
+      "notes": ""
+    }
+  ],
+  "rss_news": [
+    {
+      "feed_name": "範例新聞來源",
+      "feed_url": "",
+      "items": [
+        {
+          "title": "這裡將顯示你訂閱的 RSS 新聞",
+          "link": "#",
+          "published": "2026-03-12T08:00:00+08:00",
+          "summary": "設定 RSS_FEED_URLS Secret 後，GitHub Actions 每天早上九點會自動抓取最新新聞顯示於此。"
+        }
+      ]
+    }
+  ]
+}
