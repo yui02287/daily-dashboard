@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>每日任務板</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+  <!-- Google Identity Services (for Google Calendar OAuth) -->
+  <script src="https://accounts.google.com/gsi/client" async defer></script>
+</head>
+<body>
+  <!-- ===== TOP BAR ===== -->
+  <header class="topbar">
+    <div class="topbar__left">
+      <span class="topbar__date" id="topbar-date"></span>
+      <span class="topbar__greeting" id="topbar-greeting"></span>
+    </div>
+    <div class="topbar__right">
+      <button class="btn-icon btn-icon--settings" id="settings-btn" title="API 設定">⚙️</button>
+      <div class="streak-badge" id="streak-badge" title="連續天數">
+        <span class="streak-badge__flame">🔥</span>
+        <span class="streak-badge__count" id="streak-count">0</span>
+        <span class="streak-badge__label">天連續</span>
+      </div>
+      <div class="level-badge" id="level-badge">
+        <span class="level-badge__label">Lv</span>
+        <span class="level-badge__num" id="level-num">1</span>
+      </div>
+      <div class="xp-display">
+        <span class="xp-display__icon">⭐</span>
+        <span class="xp-display__pts" id="xp-total">0</span>
+        <span class="xp-display__label">XP</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- ===== XP PROGRESS BAR ===== -->
+  <div class="xp-bar-wrap">
+    <div class="xp-bar" id="xp-bar">
+      <div class="xp-bar__fill" id="xp-bar-fill" style="width:0%"></div>
+      <span class="xp-bar__text" id="xp-bar-text">0 / 100 XP</span>
+    </div>
+  </div>
+
+  <!-- ===== DAILY PROGRESS ===== -->
+  <div class="progress-wrap">
+    <div class="progress-header">
+      <span class="progress-header__title">今日完成進度</span>
+      <span class="progress-header__fraction" id="progress-fraction">0 / 0</span>
+    </div>
+    <div class="progress-bar">
+      <div class="progress-bar__fill" id="progress-fill" style="width:0%"></div>
+    </div>
+  </div>
+
+  <!-- ===== MAIN GRID ===== -->
+  <main class="dashboard-grid">
+
+    <!-- ---- WEATHER CARD ---- -->
+    <section class="card card--weather" id="weather-card" style="--card-index:0">
+      <div class="card__header">
+        <h2 class="card__title">🌤 今日天氣</h2>
+        <button class="btn-icon" id="weather-refresh" title="重新整理天氣">↻</button>
+      </div>
+      <div class="weather-body" id="weather-body">
+        <div class="weather-loading">
+          <div class="spinner"></div>
+          <p>取得位置中…</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- ---- NEWS CARD ---- -->
+    <section class="card card--news card--wide" id="news-card" style="--card-index:1">
+      <div class="card__header">
+        <h2 class="card__title">📰 今日新聞</h2>
+        <span class="card__meta" id="news-updated"></span>
+      </div>
+      <div class="news-body" id="news-body">
+        <div class="empty-state">載入新聞中…</div>
+      </div>
+    </section>
+
+    <!-- ---- GAMIFICATION CARD ---- -->
+    <section class="card card--game" id="game-card" style="--card-index:2">
+      <div class="card__header">
+        <h2 class="card__title">🏆 成就徽章</h2>
+        <button class="btn-text" id="achievements-toggle">查看全部</button>
+      </div>
+      <div class="achievements-grid" id="achievements-grid">
+        <!-- 由 JS 渲染 -->
+      </div>
+    </section>
+
+    <!-- ---- TODOS CARD ---- -->
+    <section class="card card--todos card--wide" id="todos-card" style="--card-index:3">
+      <div class="card__header">
+        <h2 class="card__title">📋 今日代辦</h2>
+        <div class="card__header-actions">
+          <button class="btn-secondary" id="gcal-btn">
+            <span id="gcal-btn-text">📅 連結 Google 日曆</span>
+          </button>
+          <button class="btn-secondary" id="sync-open-btn" title="跨裝置同步">📲 同步</button>
+        </div>
+      </div>
+
+      <!-- 新增代辦表單 -->
+      <form class="add-todo-form" id="add-todo-form">
+        <input
+          type="text"
+          class="add-todo-form__input"
+          id="todo-input"
+          placeholder="新增代辦事項…"
+          autocomplete="off"
+        />
+        <input
+          type="date"
+          class="add-todo-form__date"
+          id="todo-deadline"
+        />
+        <select class="add-todo-form__priority" id="todo-priority">
+          <option value="Low">低</option>
+          <option value="Medium" selected>中</option>
+          <option value="High">高</option>
+        </select>
+        <button type="submit" class="btn-primary">新增</button>
+      </form>
+
+      <!-- 代辦清單 -->
+      <div class="todo-list" id="todo-list">
+        <div class="empty-state" id="todo-empty">暫無代辦事項，新增一個吧！</div>
+      </div>
+    </section>
+
+    <!-- ---- CONTENT / VIDEO TOPICS CARD ---- -->
+    <section class="card card--content card--wide" id="content-card" style="--card-index:4">
+      <div class="card__header">
+        <h2 class="card__title">🎬 自媒體影片題材</h2>
+      </div>
+
+      <!-- 新增影片題材表單 -->
+      <form class="add-content-form" id="add-content-form">
+        <input
+          type="text"
+          class="add-content-form__input"
+          id="content-topic-input"
+          placeholder="影片題材…"
+          autocomplete="off"
+        />
+        <input
+          type="date"
+          class="add-content-form__date"
+          id="content-date-input"
+        />
+        <select class="add-content-form__platform" id="content-platform-input">
+          <option value="YouTube">YouTube</option>
+          <option value="TikTok">TikTok</option>
+          <option value="Instagram">Instagram</option>
+          <option value="Blog">Blog</option>
+          <option value="其他">其他</option>
+        </select>
+        <button type="submit" class="btn-primary">新增</button>
+      </form>
+
+      <!-- 影片題材清單 -->
+      <div class="content-list" id="content-list">
+        <div class="empty-state" id="content-empty">暫無題材，新增一個吧！</div>
+      </div>
+    </section>
+
+    <!-- ---- COMPLETED ZONE ---- -->
+    <section class="card card--completed card--wide" id="completed-card" style="--card-index:5">
+      <div class="card__header" id="completed-toggle" role="button" tabindex="0" style="cursor:pointer">
+        <h2 class="card__title">✅ 已完成</h2>
+        <span class="completed-count badge" id="completed-count">0</span>
+        <span class="completed-chevron" id="completed-chevron">▼</span>
+      </div>
+      <div class="completed-list" id="completed-list">
+        <div class="empty-state" id="completed-empty">完成代辦後會顯示在這裡</div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ===== Gist 同步設定 MODAL ===== -->
+  <div class="sync-overlay" id="sync-overlay" style="display:none">
+    <div class="sync-box">
+      <!-- 未連結狀態 -->
+      <div id="sync-setup-panel">
+        <h2 class="sync-box__title">📲 跨裝置自動同步</h2>
+        <p class="sync-box__desc">使用 GitHub Gist 免費自動同步，換裝置也能保留所有資料。</p>
+        <ol class="sync-box__steps">
+          <li>前往 <a href="https://github.com/settings/tokens/new" target="_blank" rel="noopener">GitHub → Settings → Tokens → New classic token</a></li>
+          <li>勾選 <strong>gist</strong> 權限，其他不用勾</li>
+          <li>產生後複製 Token 貼到下方</li>
+        </ol>
+        <input
+          type="password"
+          class="sync-box__input"
+          id="sync-pat-input"
+          placeholder="ghp_xxxxxxxxxxxxxxxx"
+          autocomplete="off"
+        />
+        <div class="sync-box__actions">
+          <button class="btn-primary" id="sync-connect-btn">連結 Gist</button>
+          <button class="btn-icon" id="sync-close-btn" title="關閉">✕</button>
+        </div>
+        <p class="sync-box__hint" id="sync-hint"></p>
+      </div>
+
+      <!-- 已連結狀態 -->
+      <div id="sync-connected-panel" style="display:none">
+        <h2 class="sync-box__title">✅ Gist 已連結</h2>
+        <p class="sync-box__desc" id="sync-last-time">上次同步：—</p>
+        <div class="sync-box__actions">
+          <button class="btn-primary" id="sync-now-btn">立即同步</button>
+          <button class="btn-secondary" id="sync-pull-btn">從雲端拉取</button>
+          <button class="btn-secondary" id="sync-disconnect-btn">中斷連結</button>
+          <button class="btn-icon" id="sync-close-btn2" title="關閉">✕</button>
+        </div>
+        <p class="sync-box__hint" id="sync-hint2"></p>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== 設定 MODAL ===== -->
+  <div class="sync-overlay" id="settings-overlay" style="display:none">
+    <div class="sync-box">
+      <h2 class="sync-box__title">⚙️ API 設定</h2>
+      <p class="sync-box__desc">填入 API 金鑰，儲存於本機瀏覽器，不會寫入程式碼或上傳。</p>
+      <label class="sync-box__label">OpenWeatherMap API Key</label>
+      <input
+        type="password"
+        class="sync-box__input"
+        id="settings-owm-input"
+        placeholder="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+        autocomplete="off"
+      />
+      <label class="sync-box__label">Google Calendar Client ID</label>
+      <input
+        type="text"
+        class="sync-box__input"
+        id="settings-gcal-input"
+        placeholder="xxxx.apps.googleusercontent.com"
+        autocomplete="off"
+      />
+      <div class="sync-box__actions">
+        <button class="btn-primary" id="settings-save-btn">儲存</button>
+        <button class="btn-icon" id="settings-close-btn" title="關閉">✕</button>
+      </div>
+      <p class="sync-box__hint" id="settings-hint"></p>
+    </div>
+  </div>
+
+  <!-- ===== TOAST NOTIFICATION ===== -->
+  <div class="toast" id="toast" aria-live="polite"></div>
+
+  <!-- ===== LEVEL UP OVERLAY ===== -->
+  <div class="levelup-overlay" id="levelup-overlay" style="display:none">
+    <div class="levelup-box">
+      <div class="levelup-box__star">⭐</div>
+      <h2 class="levelup-box__title">升等了！</h2>
+      <p class="levelup-box__level" id="levelup-text">Lv 2</p>
+      <button class="btn-primary" id="levelup-close">繼續加油！</button>
+    </div>
+  </div>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

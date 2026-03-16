@@ -1,0 +1,52 @@
+name: 每日資料更新
+
+on:
+  schedule:
+    # 台灣時間早上 09:00 = UTC 01:00
+    - cron: '0 1 * * *'
+  # 允許在 Actions 頁面手動觸發
+  workflow_dispatch:
+
+permissions:
+  contents: write   # 需要 push daily.json 回 repo
+
+jobs:
+  fetch-and-update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout 程式碼
+        uses: actions/checkout@v4
+
+      - name: 設定 Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: 安裝 Python 依賴
+        run: |
+          pip install --quiet \
+            requests \
+            feedparser \
+            python-dateutil \
+            notion-client
+
+      - name: 執行資料抓取腳本
+        env:
+          NOTION_API_KEY:       ${{ secrets.NOTION_API_KEY }}
+          NOTION_TODO_DB_ID:    ${{ secrets.NOTION_TODO_DB_ID }}
+          NOTION_CONTENT_DB_ID: ${{ secrets.NOTION_CONTENT_DB_ID }}
+          RSS_FEED_URLS:        ${{ secrets.RSS_FEED_URLS }}
+        run: python scripts/fetch_daily.py
+
+      - name: Commit 並 push daily.json
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/daily.json
+          # 若無變更則不 commit（避免空 commit）
+          git diff --staged --quiet || \
+            git commit -m "chore: 每日資料更新 $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
