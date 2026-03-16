@@ -1,63 +1,135 @@
 {
   "meta": {
-    "generated_at": "2026-03-12T01:00:00Z",
-    "date": "2026-03-12",
+    "generated_at": "2026-03-16T16:11:47.715994+00:00",
+    "date": "2026-03-16",
     "version": "1.0"
   },
-  "notion_todos": [
-    {
-      "id": "sample-todo-1",
-      "source": "notion",
-      "name": "回覆重要訊息",
-      "status": "待處理",
-      "due_date": "2026-03-12",
-      "priority": "High",
-      "category": "工作",
-      "points": 20,
-      "notes": "這是來自 Notion 的範例代辦事項"
-    },
-    {
-      "id": "sample-todo-2",
-      "source": "notion",
-      "name": "閱讀 30 分鐘",
-      "status": "待處理",
-      "due_date": "2026-03-12",
-      "priority": "Medium",
-      "category": "學習",
-      "points": 15,
-      "notes": ""
-    }
-  ],
-  "notion_content": [
-    {
-      "id": "sample-content-1",
-      "topic": "如何用 AI 工具提升工作效率",
-      "status": "構思中",
-      "planned_date": "2026-03-15",
-      "platform": "YouTube",
-      "tags": ["AI", "工作效率", "工具"],
-      "notes": "介紹 Claude、Notion AI 等工具"
-    },
-    {
-      "id": "sample-content-2",
-      "topic": "每日晨間習慣分享",
-      "status": "準備中",
-      "planned_date": "2026-03-20",
-      "platform": "Instagram",
-      "tags": ["生活", "習慣", "晨間routine"],
-      "notes": ""
-    }
-  ],
+  "notion_todos": [],
+  "notion_content": [],
   "rss_news": [
     {
-      "feed_name": "範例新聞來源",
-      "feed_url": "",
+      "feed_name": "TechOrange 科技報橘",
+      "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "這裡將顯示你訂閱的 RSS 新聞",
-          "link": "#",
-          "published": "2026-03-12T08:00:00+08:00",
-          "summary": "設定 RSS_FEED_URLS Secret 後，GitHub Actions 每天早上九點會自動抓取最新新聞顯示於此。"
+          "title": "會翻跟斗的機器人沒必要？Rivian CEO：最重要的其實是「手」",
+          "link": "https://techorange.com/2026/03/16/rivian-ceo-mind-robotics-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-16T09:21:11+00:00",
+          "summary": "近年來，人形機器人影片在網路上頻頻爆紅，不論是會翻跟斗或能跳舞的機器人，看似展現驚人的技術能力，但在電動車公司 Rivian 執行長 RJ Scaringe 看來，這些炫技展示未必代表機器人真正的產業價值。 Scaringe 最近創立了新的機器人公司 Mind Robotics，並完成了由 Accel 和 Andreessen Horowitz 兩家創投公司共同領投的 5 億美元 A 輪融資，目前"
+        },
+        {
+          "title": "HBM 吃掉 30% 資本支出、台積電 N3 產能逼近極限：SemiAnalysis 創辦人揭 AI 狂飆後半導體的真正瓶頸",
+          "link": "https://techorange.com/2026/03/16/semianalysis-dylan-patel/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-16T08:17:09+00:00",
+          "summary": "當外界以為 AI 競賽已從 H100 走向 Blackwell，舊一代 GPU 的價值應該隨時間下滑時，SemiAnalysis 創辦人 Dylan Patel 卻在近日受訪時，拋出一個反直覺的判斷：H100 今天的價值，可能比 3 年前還高。 Dylan Patel 指出，目前真正限制 AI 發展的，已經不只是模型能力，還有更底層的基礎建設，分別是邏輯晶片、記憶體與電力。同時，SemiAnaly"
+        },
+        {
+          "title": "睡前交辦 AI、醒來驗收成果：矽谷工程師變成「AI 代理主管」，Google、Amazon 都在發生",
+          "link": "https://techorange.com/2026/03/16/ai-coding-programming-jobs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-16T07:00:00+00:00",
+          "summary": "矽谷工程師的日常，正在被 AI 代理重新改寫：愈來愈多人開始把寫程式、安排行事曆、回覆 email 等繁瑣工作，交給 Claude Code、OpenClaw 等工具處理，自己則習慣在睡前、出門參加派對前先把任務交辦出去，隔天醒來第一件事，就是檢查 AI 昨晚替自己完成了多少進度。 這股變化不只出現在講求速度的新創圈，也已滲透到 Google、Amazon 等大型科技公司。當 AI 開始逐步接手執"
+        },
+        {
+          "title": "【AWS 找上 Cerebras】AI 推理晶片戰開打，挑戰 NVIDIA GPU 主導地位",
+          "link": "https://techorange.com/2026/03/16/aws-cerebras-ai-inference/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-16T05:47:05+00:00",
+          "summary": "生成式 AI 的算力競賽正進入新階段。過去幾年，科技巨頭競相投入大量 GPU 訓練大型模型，但隨著 AI 應用快速普及，市場焦點正逐漸從「模型訓練」轉向「推理運算」。 亞馬遜雲端服務（AWS）近日宣布，將在資料中心部署 AI 晶片新創 Cerebras Systems 的處理器，用於支援 AI 推理（inference）工作負載。《華爾街日報》指出，這項多年合作協議，被視為 AI 算力市場的重要轉"
+        },
+        {
+          "title": "中國版 Amazon 正式登陸歐洲！京東推 Joybuy，先從物流戰切入 Amazon 核心優勢",
+          "link": "https://techorange.com/2026/03/16/jd-european-joybuy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-16T04:48:54+00:00",
+          "summary": "京東近日正式在英國、德國、法國、荷蘭、比利時與盧森堡上線零售平台 Joybuy，販售超過 10 萬種商品，涵蓋 Apple、Samsung 等品牌，以及家電、玩具、美妝、雜貨與生鮮食品等類別，並以「數小時內送達」作為主要賣點。 這不僅是京東迄今最大規模的海外擴張，也是京東在中國本土經濟成長放緩、消費需求疲軟與競爭加劇之際，試圖尋找新成長動能、降低對國內市場依賴，並透過把物流、倉儲與履約能力整套搬進"
+        },
+        {
+          "title": "【無人客服神話破滅】盲目裁員導致知識流失，2028 企業將重新僱用人類客服人員？",
+          "link": "https://techorange.com/2026/03/16/human-customer-service-agents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-16T02:53:51+00:00",
+          "summary": "生成式 AI 近年快速進入企業客服體系，許多公司以聊天機器人與虛擬客服取代部分人工服務，希望藉此降低成本並提供全天候回應。然而，研究顯示，這股全面自動化的趨勢可能很快面臨修正。 研究機構 Gartner 指出，到 2028 年，部分曾以人工智慧取代人工客服的企業，可能因為 AI 無法有效處理複雜客戶問題，而重新聘回人類客服。 企業逐漸發現，過度依賴 AI 的客服模式不僅難以完全解決問題，還可能帶來"
+        }
+      ]
+    },
+    {
+      "feed_name": "遠見雜誌 - 前進的動力",
+      "feed_url": "https://www.gvm.com.tw/rss",
+      "items": [
+        {
+          "title": "川習會恐生變！川普施壓中國，要求護航荷姆茲海峽",
+          "link": "https://www.gvm.com.tw/article/128723",
+          "published": "2026-03-16T12:15:00",
+          "summary": "川普下令轟炸伊朗哈格島軍事目標，警告若封鎖荷姆茲海峽，將摧毀能源設施，導致布蘭特原油飆破103美元。美方呼籲中日韓英法派艦護航，各國態度審慎。中東局勢劇震，伊朗石油出口與全球能源安全，面臨嚴峻挑戰。目錄● 哈格島成美伊博弈核心● 川普籲各國派艦護航● 關鍵QA美國總統川普（Donald Trump）日前下令，「徹底摧毀」伊朗哈格島（Kharg Island）全部的軍事目標，中東局勢及國際油價再度陷"
+        },
+        {
+          "title": "馬英九基金會人事地震！蕭旭岑離職、戴遐齡任執行長",
+          "link": "https://www.gvm.com.tw/article/128721",
+          "published": "2026-03-16T11:54:00",
+          "summary": "馬英九基金會今天表示，聘請馬英九基金會前任董事、台北市立大學教授戴遐齡擔任執行長；前執行長蕭旭岑及前員工王光慈均已於2月底完成離職交接手續。未來兩人的個人言論及行為，均不能代表馬英九基金會及前總統馬英九的立場。馬英九基金會今天上午發出新聞稿表示，馬英九文教基金會董事長馬英九發布聲明，聘請戴遐齡擔任執行長。戴遐齡人品端正、操守清廉，曾任台北市立大學校長、行政院體委會主委等職務，其才能卓越、學術交流及"
+        },
+        {
+          "title": "杜拜機場現況：無人機襲擊周邊燃料槽起火！航班全面停飛",
+          "link": "https://www.gvm.com.tw/article/128720",
+          "published": "2026-03-16T11:42:00",
+          "summary": "杜拜市政府今天表示，一起無人機相關事件引發杜拜國際機場附近的火災。在此同時，伊朗正針對這座波斯灣金融中心發動攻擊，此衝突源於上個月底爆發的中東戰爭。法新社報導，杜拜媒體辦公室（Dubai Media Office）在社群平台X發文表示：「當局目前正處理無人機相關事件引起、發生在杜拜國際機場附近的火災。當局正採取一切必要措施，以確保所有人員的安全。」聲明補充道：「杜拜國際機場周邊發生的無人機事故，波"
+        },
+        {
+          "title": "2026WBC經典賽》經典賽8強名單正式出爐！4強確定為多明尼加、美國、義大利、委內瑞拉！各組戰力一次看！",
+          "link": "https://www.gvm.com.tw/article/128637",
+          "published": "2026-03-16T11:40:00",
+          "summary": "2026世界棒球經典賽，美國率先擊敗多明尼加晉級冠軍戰。最終8強名單正式出爐！分別為加拿大、波多黎各、義大利、美國、日本、韓國、多明尼加、委內瑞拉。賽程比分資訊請看：2026經典賽》世界棒球經典賽賽程資訊全攻略。一起回顧台灣對澳洲之戰、台灣對日本之戰、台灣對捷克之戰、台灣對韓國之戰。所有賽程全更新台灣時間！歡迎把此網頁加入書籤列或儲存網址，賽事資訊不斷更新。本屆賽事正式於2026年3月5日至3月1"
+        },
+        {
+          "title": "301調查風暴，成台灣半導體業的關稅試煉",
+          "link": "https://www.gvm.com.tw/article/128719",
+          "published": "2026-03-16T11:21:00",
+          "summary": "編按：301調查再起，美國、川普將矛頭指向台灣半導體。隨著對美順差擴大，台積電等台廠被納入審視，可能面臨關稅與供應鏈重組壓力。當貿易戰從中國擴大到盟友，台灣如何在依賴美國市場與維持產業優勢之間取得平衡，成為關鍵。美國貿易代表署於2026年3月11日重啟301條款調查，象徵全球經貿戰場已從單純的圍堵中國，演變為全方位關稅保護，這場針對結構性產能過剩的突擊，將台灣與中國、歐盟、日、韓並列，打破過往友岸"
+        },
+        {
+          "title": "教練之道！善用利他思惟，帶團隊一起贏",
+          "link": "https://www.gvm.com.tw/article/128718",
+          "published": "2026-03-16T11:14:00",
+          "summary": "編按：在專業分工明確的企業裡，領導者不一定要比員工更懂專業，而是要懂得如何讓每個人發揮最大潛力。透過教練式領導，以提問與傾聽協助同仁釐清問題、找到解方，不只提升個人成長，也讓團隊在共同目標下持續突破，打造一起贏的企業文化。很多人問我，為什麼要在企業裡面推動教練體系？其實，在我接觸企業教練之前，我做人做事的底層邏輯，就和「教練」不謀而合。2022年，集結我所寫文章出版的書，書名就是《讓別人贏》。「利"
+        }
+      ]
+    },
+    {
+      "feed_name": "Google Alert - 氣候變遷 OR 碳中和 OR 淨零 OR \"Climate change\" OR \"carbon neutrality\" OR \"net zero\"",
+      "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
+      "items": [
+        {
+          "title": "熱線追蹤-梳理600年古籍探討氣候變化 - YouTube",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DdFh2nO7QCMg&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3gjIU8NyM13xIxwHFFFbvE",
+          "published": "2026-03-16T14:02:32+00:00",
+          "summary": "隨著極端氣候來臨，氣候研究備受關注，其中每年夏季侵襲的颱風，時常造成重大災害，但現代觀測資料，大多僅侷限於近百年，早期紀錄相對缺乏，使得颱風長期變化趨勢&nbsp;..."
+        },
+        {
+          "title": "從國際舞臺回歸鄉土，在田野中奏響永續之聲    「大甲愛樂室內樂團」的返鄉實踐紀實",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://storystudio.tw/article/gushi/dajia-philharmonic-rice-paddy-concert-sustainability-net-zero&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2zirBQCajcCy5B5RQxsaOv",
+          "published": "2026-03-16T14:02:30+00:00",
+          "summary": "大甲愛樂室內樂團」就在這片地圖上搜尋不到的稻田間，舉行了一場專業的音樂演出。 從場地選擇到硬體搭設，樂團始終尊重自然氣候，貫徹永續低碳的理念，將環境保護與&nbsp;..."
+        },
+        {
+          "title": "當中東局勢衝擊油氣供應，台灣能源安全如何重新佈局？ - CSRone 永續智庫",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://csrone.com/news/9825&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3msZ7CQk83xDuYDDVjG-ug",
+          "published": "2026-03-16T13:45:20+00:00",
+          "summary": "2026年3 月11 日 台灣氣候行動網絡研究中心總監／國立臺灣大學氣候變遷與永續發展國際學位學程兼任助理教授趙家緯 ... Energy and Climate Change, 2, 100022. [2]&nbsp;..."
+        },
+        {
+          "title": "<b>氣候變遷</b>下小琉球罕見海龜冬季低溫卵窩有望成為海龜雄性稚龜的重要來源 - 墨新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://more-news.tw/553138/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1TjUQtbLxiv7aC8QNWPLNy",
+          "published": "2026-03-16T13:39:37+00:00",
+          "summary": "全球暖化持續改變海洋環境，海溫上升與季節變化對海龜繁殖行為的影響備受關注。海洋委員會海洋保育署表示，先前於小琉球蛤板灣紀錄到冬季母龜上岸產卵案例，&nbsp;..."
+        },
+        {
+          "title": "高雄市(2027-2028年)碳預算（草案）說明會 - 高雄市政府環境保護局",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ksepb.kcg.gov.tw/AuditAnnouncement/news%3FPageType%3D1%26id%3D7f3457ba-f731-4e38-af01-1d25066d790f&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3BhsXOxfAEi4Snp7WXyOYK",
+          "published": "2026-03-16T13:24:40+00:00",
+          "summary": "依據「高雄市淨零城市發展自治條例」第4條第2項第5款規定(略以)：「前款碳預算擬定前應邀集有關機關、學者、專家、民間團體舉辦座談會，或以其他適當方法廣&nbsp;..."
+        },
+        {
+          "title": "無懼極端氣候，自然界首次發現「進化拯救」物種 - TechNews 科技新報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://technews.tw/2026/03/16/evolution-save-under-extremely-climate/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2mnHoeuc5IYKk7bK8M7JET",
+          "published": "2026-03-16T13:20:17+00:00",
+          "summary": "至少對世代週期短的生物而言，答案是肯定的。最新的證據來自一種名為猩紅猴面花 (Mimulus cardinalis) 的野生植物，成功在 2012~2015 年加州遭受的特大乾旱中進化&nbsp;..."
         }
       ]
     }
