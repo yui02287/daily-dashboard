@@ -805,6 +805,9 @@ a:hover { text-decoration: underline; }
 .kanban-col__items { display: flex; flex-direction: column; gap: var(--space-2); }
 
 .kanban-item {
+  -webkit-user-select: none;
+  user-select: none;
+  -webkit-touch-callout: none;
   background: var(--color-surface);
   border-radius: var(--radius-md);
   border: 2px solid var(--color-border);
