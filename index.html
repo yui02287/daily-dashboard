@@ -215,6 +215,36 @@
     <button class="mobile-nav__item" data-target="game-card">🏆 <span>成就</span></button>
   </nav>
 
+  <!-- ===== 影片發想詳細視窗 ===== -->
+  <div class="sync-overlay" id="content-detail-modal" style="display:none">
+    <div class="sync-box">
+      <div class="sync-box__header">
+        <h2 class="sync-box__title">✍️ 影片發想</h2>
+        <button class="btn-icon" id="cd-close" title="關閉">✕</button>
+      </div>
+      <label class="sync-box__label">標題</label>
+      <input type="text" class="sync-box__input" id="cd-title" placeholder="影片題材名稱" autocomplete="off" />
+      <div class="cd-row">
+        <div class="cd-col">
+          <label class="sync-box__label">平台</label>
+          <input type="text" class="sync-box__input" id="cd-platform" readonly />
+        </div>
+        <div class="cd-col">
+          <label class="sync-box__label">預計日期</label>
+          <input type="date" class="sync-box__input" id="cd-date" />
+        </div>
+      </div>
+      <label class="sync-box__label">目前狀態</label>
+      <div class="cd-status-display" id="cd-status"></div>
+      <label class="sync-box__label">詳細內文 / 腳本構思</label>
+      <textarea class="sync-box__textarea" id="cd-notes" placeholder="在這裡記錄腳本、靈感、參考資料…" rows="8"></textarea>
+      <div class="sync-box__actions" style="margin-top:var(--space-5)">
+        <button class="btn-primary" id="cd-save">儲存</button>
+        <button class="btn-secondary" id="cd-close2" onclick="document.getElementById('content-detail-modal').style.display='none'">取消</button>
+      </div>
+    </div>
+  </div>
+
   <!-- ===== 成就全覽 MODAL ===== -->
   <div class="sync-overlay" id="achievements-modal" style="display:none">
     <div class="sync-box sync-box--wide">

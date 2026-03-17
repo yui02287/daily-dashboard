@@ -4,27 +4,27 @@
 
 /* ---------- CSS 變數 ---------- */
 :root {
-  --color-primary:        #3D9970;
-  --color-primary-light:  #E6F5EE;
-  --color-primary-dark:   #2C7A55;
+  --color-primary:        #27AE60;
+  --color-primary-light:  #E9F7EF;
+  --color-primary-dark:   #1E8449;
   --color-accent:         #F5C842;
   --color-accent-light:   #FEF8DC;
-  --color-success:        #52B788;
-  --color-success-light:  #E6F5EE;
-  --color-danger:         #FF6B6B;
-  --color-danger-light:   #FFECEC;
-  --color-warning:        #F5A623;
-  --color-warning-light:  #FEF3DC;
+  --color-success:        #27AE60;
+  --color-success-light:  #E9F7EF;
+  --color-danger:         #E74C3C;
+  --color-danger-light:   #FDEDEC;
+  --color-warning:        #F39C12;
+  --color-warning-light:  #FEF5E7;
   --color-pink:           #F0A8C6;
   --color-pink-light:     #FDE8F3;
 
-  --color-bg:             #EDF7F2;
-  --color-surface:        #F5FBF8;
-  --color-border:         #A8D8C0;
-  --pixel-border:         #7BC4A0;
-  --color-text-primary:   #2C3E50;
-  --color-text-secondary: #5A6E8A;
-  --color-text-muted:     #8FA3BE;
+  --color-bg:             #F4FBF7;
+  --color-surface:        #FFFFFF;
+  --color-border:         #D5EDE0;
+  --pixel-border:         #B0D8C4;
+  --color-text-primary:   #1C2B20;
+  --color-text-secondary: #4A6355;
+  --color-text-muted:     #8AA898;
 
   --font-body:  'Noto Sans TC', system-ui, -apple-system, sans-serif;
   --font-pixel: 'Press Start 2P', monospace;
@@ -83,7 +83,7 @@ a:hover { text-decoration: underline; }
   position: sticky;
   top: 0;
   z-index: 100;
-  background: linear-gradient(135deg, #B8E8D0 0%, #D5F0E5 60%, #EDF7F2 100%);
+  background: linear-gradient(135deg, #FFFFFF 0%, #F0FAF4 60%, #E6F7ED 100%);
   border-bottom: 2px solid var(--color-border);
   padding: var(--space-3) var(--space-6);
   display: flex;
@@ -1291,6 +1291,42 @@ a:hover { text-decoration: underline; }
   transition: border-color var(--transition);
 }
 .sync-box__input:focus { border-color: var(--color-primary); }
+/* Content detail modal */
+.sync-box__textarea {
+  width: 100%;
+  padding: var(--space-3);
+  border: 2px solid var(--color-border);
+  border-radius: var(--radius-md);
+  background: var(--color-bg);
+  font-family: var(--font-body);
+  font-size: var(--size-sm);
+  color: var(--color-text-primary);
+  resize: vertical;
+  outline: none;
+  line-height: 1.6;
+  margin-bottom: var(--space-2);
+  transition: border-color var(--transition);
+}
+.sync-box__textarea:focus { border-color: var(--color-primary); }
+.cd-row { display: flex; gap: var(--space-3); margin-bottom: var(--space-2); }
+.cd-col { flex: 1; min-width: 0; }
+.cd-status-display {
+  display: inline-block;
+  padding: var(--space-1) var(--space-3);
+  background: var(--color-primary-light);
+  color: var(--color-primary-dark);
+  border: 2px solid var(--color-primary);
+  border-radius: var(--radius-md);
+  font-size: var(--size-xs);
+  font-weight: 600;
+  margin-bottom: var(--space-4);
+}
+.kanban-item__topic--link {
+  cursor: pointer;
+  transition: color var(--transition);
+}
+.kanban-item__topic--link:hover { color: var(--color-primary); text-decoration: underline; }
+
 .sync-box__actions {
   display: flex;
   gap: var(--space-3);

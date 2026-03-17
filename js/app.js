@@ -53,6 +53,7 @@ class StateManager {
       GCAL_TOKEN:        'ddash_gcal_token',
       CONTENT_ADDITIONS: 'ddash_content_additions',
       CONTENT_OVERRIDES: 'ddash_notion_content_status_overrides',
+      CONTENT_NOTES:     'ddash_content_notes',
       WEATHER_CITY:      'ddash_weather_city',
       TODO_SORT:         'ddash_todo_sort',
       PERFECT_DAYS:      'ddash_perfect_days',
@@ -85,6 +86,12 @@ class StateManager {
   saveContentAdditions(v){ this._write(this.KEYS.CONTENT_ADDITIONS, v); }
   getContentOverrides()  { return this._read(this.KEYS.CONTENT_OVERRIDES, {}); }
   saveContentOverrides(v){ this._write(this.KEYS.CONTENT_OVERRIDES, v); }
+  getContentNotes()      { return this._read(this.KEYS.CONTENT_NOTES, {}); }
+  saveContentNote(id, note) {
+    const notes = this.getContentNotes();
+    if (note) notes[id] = note; else delete notes[id];
+    this._write(this.KEYS.CONTENT_NOTES, notes);
+  }
   getWeatherCity()       { return this._read(this.KEYS.WEATHER_CITY, ''); }
   saveWeatherCity(v)     { this._write(this.KEYS.WEATHER_CITY, v); }
   getTodoSort()          { return this._read(this.KEYS.TODO_SORT, 'priority'); }
@@ -686,7 +693,9 @@ class UIRenderer {
     const dots  = document.querySelectorAll('.news-carousel__dot');
     if (!track) return;
 
-    const getIdx    = () => Math.round(track.scrollLeft / (track.offsetWidth || 1));
+    const total    = () => track.children.length;
+    const getIdx   = () => Math.round(track.scrollLeft / (track.offsetWidth || 1));
+    const goTo     = (n) => track.scrollTo({ left: ((n % total() + total()) % total()) * track.offsetWidth, behavior: 'smooth' });
     const updateDots = () => {
       const idx = getIdx();
       dots.forEach((d, i) => d.classList.toggle('news-carousel__dot--active', i === idx));
@@ -695,18 +704,25 @@ class UIRenderer {
     let scrollTimer;
     track.addEventListener('scroll', () => { clearTimeout(scrollTimer); scrollTimer = setTimeout(updateDots, 100); }, { passive: true });
 
-    const total = () => track.children.length;
-    document.getElementById('news-prev')?.addEventListener('click', () => {
-      const n = (getIdx() - 1 + total()) % total();
-      track.scrollTo({ left: n * track.offsetWidth, behavior: 'smooth' });
-    });
-    document.getElementById('news-next')?.addEventListener('click', () => {
-      const n = (getIdx() + 1) % total();
-      track.scrollTo({ left: n * track.offsetWidth, behavior: 'smooth' });
-    });
-    dots.forEach((d, i) => {
-      d.addEventListener('click', () => { track.scrollTo({ left: i * track.offsetWidth, behavior: 'smooth' }); });
-    });
+    document.getElementById('news-prev')?.addEventListener('click', () => goTo(getIdx() - 1));
+    document.getElementById('news-next')?.addEventListener('click', () => goTo(getIdx() + 1));
+    dots.forEach((d, i) => d.addEventListener('click', () => goTo(i)));
+
+    // 自動輪播：每 5 秒前進一張，hover 或 touch 時暫停
+    let paused = false;
+    const autoTimer = setInterval(() => { if (!paused && total() > 1) goTo(getIdx() + 1); }, 5000);
+    const card = document.getElementById('news-card');
+    if (card) {
+      card.addEventListener('mouseenter', () => { paused = true; });
+      card.addEventListener('mouseleave', () => { paused = false; });
+      card.addEventListener('touchstart',  () => { paused = true; },  { passive: true });
+      card.addEventListener('touchend',    () => { setTimeout(() => { paused = false; }, 3000); }, { passive: true });
+    }
+    // 頁面隱藏時暫停（省電）
+    document.addEventListener('visibilitychange', () => { paused = document.hidden; });
+    // 元素從 DOM 移除時清除 timer（re-render 時）
+    new MutationObserver(() => { if (!document.getElementById('news-carousel-track')) clearInterval(autoTimer); })
+      .observe(document.getElementById('news-body') || document.body, { childList: true });
   }
 
   renderTodos(allTodos) {
@@ -799,7 +815,8 @@ class UIRenderer {
             ${items.length === 0 ? '<div class="kanban-col__empty">空</div>' : ''}
             ${items.map(c => `
               <div class="kanban-item" data-cid="${c.id}">
-                <div class="kanban-item__topic">${this._esc(c.topic)}</div>
+                <div class="kanban-item__topic kanban-item__topic--link"
+                     data-action="open-detail" data-cid="${c.id}">${this._esc(c.topic)}</div>
                 <div class="kanban-item__meta">
                   ${c.plannedDate ? `<span class="kanban-item__date">📅 ${c.plannedDate}</span>` : ''}
                   <span class="platform-badge">${this._esc(c.platform || '')}</span>
@@ -815,6 +832,19 @@ class UIRenderer {
         </div>
       `;
     }).join('');
+  }
+
+  openContentDetail(item, note) {
+    const modal = document.getElementById('content-detail-modal');
+    if (!modal) return;
+    document.getElementById('cd-title').value    = item.topic || '';
+    document.getElementById('cd-platform').value = item.platform || '';
+    document.getElementById('cd-date').value     = item.plannedDate || '';
+    document.getElementById('cd-status').textContent = item.status || '構思中';
+    document.getElementById('cd-notes').value    = note || '';
+    document.getElementById('cd-save').dataset.cid = item.id;
+    modal.style.display = 'flex';
+    setTimeout(() => document.getElementById('cd-notes')?.focus(), 100);
   }
 
   renderAchievements() {
@@ -1270,6 +1300,43 @@ class DashboardApp {
         this._refreshContent();
         this.renderer.showToast('題材已刪除');
       }
+
+      if (action === 'open-detail' && cid) {
+        const items = this.todoManager.mergeContentItems();
+        const item  = items.find(c => c.id === cid);
+        if (item) {
+          const note = this.stateManager.getContentNotes()[cid] || '';
+          this.renderer.openContentDetail(item, note);
+        }
+      }
+    });
+
+    // 影片詳細視窗儲存/關閉
+    const closeDetail = () => { document.getElementById('content-detail-modal').style.display = 'none'; };
+    document.getElementById('content-detail-modal')?.addEventListener('click', (e) => {
+      if (e.target.id === 'content-detail-modal') closeDetail();
+    });
+    document.getElementById('cd-close')?.addEventListener('click', closeDetail);
+    document.getElementById('cd-save')?.addEventListener('click', () => {
+      const cid      = document.getElementById('cd-save').dataset.cid;
+      const newTopic = document.getElementById('cd-title').value.trim();
+      const newDate  = document.getElementById('cd-date').value;
+      const note     = document.getElementById('cd-notes').value;
+      if (!cid) return;
+      // 儲存筆記
+      this.stateManager.saveContentNote(cid, note);
+      // 若是手動新增，更新 topic & date
+      if (cid.startsWith('manual_c_')) {
+        this.stateManager.saveContentAdditions(
+          this.stateManager.getContentAdditions().map(c =>
+            c.id === cid ? { ...c, topic: newTopic || c.topic, plannedDate: newDate || c.plannedDate } : c
+          )
+        );
+      }
+      this._refreshContent();
+      this.gistSync.schedulePush();
+      closeDetail();
+      this.renderer.showToast('已儲存 ✅', 'success');
     });
 
     // Platform filter
