@@ -63,7 +63,7 @@
 
 /* ---------- Reset ---------- */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-html { scroll-behavior: smooth; }
+html { scroll-behavior: smooth; overflow-x: hidden; }
 body {
   font-family: var(--font-body);
   font-size: var(--size-base);
@@ -71,6 +71,7 @@ body {
   color: var(--color-text-primary);
   line-height: 1.6;
   min-height: 100vh;
+  overflow-x: hidden;
 }
 button { cursor: pointer; border: none; background: none; font-family: inherit; }
 input, select { font-family: inherit; }
@@ -1298,10 +1299,17 @@ a:hover { text-decoration: underline; }
   .progress-wrap { padding-left: var(--space-4); padding-right: var(--space-4); }
   .dashboard-grid {
     grid-template-columns: 1fr;
-    padding: var(--space-4);
-    gap: var(--space-4);
+    padding: var(--space-3);
+    gap: var(--space-3);
+    width: 100%;
+    box-sizing: border-box;
   }
   .card--wide { grid-column: span 1; }
+  .card { width: 100%; max-width: 100%; box-sizing: border-box; }
+  /* 卡片 shadow 縮小，避免右側溢出 */
+  .card { box-shadow: 2px 2px 0 var(--pixel-border); padding: var(--space-4); }
+  .card:hover { transform: none; box-shadow: 2px 2px 0 var(--pixel-border); }
+
   .add-todo-form,
   .add-content-form { flex-direction: column; }
   .add-todo-form__input,
@@ -1322,6 +1330,15 @@ a:hover { text-decoration: underline; }
 
   /* Kanban 欄位收窄 */
   .kanban-col { min-width: 130px; }
+
+  /* 天氣 details 不超出卡片 */
+  .weather-details { grid-template-columns: 1fr 1fr; width: 100%; }
+  .weather-main { flex-wrap: wrap; }
+
+  /* 各元素最大寬度限制 */
+  .news-carousel__track { max-width: 100%; }
+  .news-carousel__slide { max-width: 100%; min-width: 100%; }
+  select, input { max-width: 100%; }
 }
 
 @media (max-width: 400px) {
