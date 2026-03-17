@@ -277,6 +277,9 @@ a:hover { text-decoration: underline; }
   animation: slideInUp 400ms ease-out both;
   animation-delay: calc(var(--card-index, 0) * 60ms);
   transition: box-shadow var(--transition), transform var(--transition);
+  /* 關鍵：防止 grid/flex item 超出容器寬度 */
+  min-width: 0;
+  overflow: hidden;
 }
 .card:hover {
   box-shadow: var(--shadow-hover);
@@ -289,6 +292,8 @@ a:hover { text-decoration: underline; }
   align-items: center;
   gap: var(--space-3);
   margin-bottom: var(--space-5);
+  min-width: 0;
+  flex-wrap: wrap;
 }
 .card__title {
   font-family: var(--font-pixel);
@@ -397,8 +402,12 @@ a:hover { text-decoration: underline; }
 .news-carousel__track::-webkit-scrollbar { display: none; }
 .news-carousel__slide {
   flex: 0 0 100%;
+  width: 100%;
+  min-width: 0;
   scroll-snap-align: start;
-  padding: 0 var(--space-8);
+  padding: 0 var(--space-4);
+  box-sizing: border-box;
+  overflow: hidden;
 }
 .news-carousel__feed-name {
   font-family: var(--font-pixel);
@@ -433,6 +442,8 @@ a:hover { text-decoration: underline; }
   font-weight: 500;
   color: var(--color-text-primary);
   line-height: 1.4;
+  word-break: break-word;
+  overflow-wrap: break-word;
 }
 .news-carousel__item a:hover { color: var(--color-primary); text-decoration: none; }
 .news-carousel__meta {
