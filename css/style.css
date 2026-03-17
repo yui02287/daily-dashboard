@@ -4,13 +4,13 @@
 
 /* ---------- CSS 變數 ---------- */
 :root {
-  --color-primary:        #5B8DEF;
-  --color-primary-light:  #E8F0FD;
-  --color-primary-dark:   #3D6DD4;
+  --color-primary:        #3D9970;
+  --color-primary-light:  #E6F5EE;
+  --color-primary-dark:   #2C7A55;
   --color-accent:         #F5C842;
   --color-accent-light:   #FEF8DC;
-  --color-success:        #6DC86B;
-  --color-success-light:  #E8F8E8;
+  --color-success:        #52B788;
+  --color-success-light:  #E6F5EE;
   --color-danger:         #FF6B6B;
   --color-danger-light:   #FFECEC;
   --color-warning:        #F5A623;
@@ -18,10 +18,10 @@
   --color-pink:           #F0A8C6;
   --color-pink-light:     #FDE8F3;
 
-  --color-bg:             #EEF3FF;
-  --color-surface:        #FAFCFF;
-  --color-border:         #B8C8E8;
-  --pixel-border:         #9AADD0;
+  --color-bg:             #EDF7F2;
+  --color-surface:        #F5FBF8;
+  --color-border:         #A8D8C0;
+  --pixel-border:         #7BC4A0;
   --color-text-primary:   #2C3E50;
   --color-text-secondary: #5A6E8A;
   --color-text-muted:     #8FA3BE;
@@ -83,7 +83,7 @@ a:hover { text-decoration: underline; }
   position: sticky;
   top: 0;
   z-index: 100;
-  background: linear-gradient(135deg, #C8DAFF 0%, #E8F0FF 60%, #F5F8FF 100%);
+  background: linear-gradient(135deg, #B8E8D0 0%, #D5F0E5 60%, #EDF7F2 100%);
   border-bottom: 2px solid var(--color-border);
   padding: var(--space-3) var(--space-6);
   display: flex;
@@ -139,7 +139,7 @@ a:hover { text-decoration: underline; }
   width: 48px;
   height: 48px;
   border-radius: var(--radius-md);
-  background: linear-gradient(135deg, var(--color-primary), #7C5FF7);
+  background: linear-gradient(135deg, var(--color-primary), #27AE60);
   color: white;
   flex-direction: column;
   border: 2px solid var(--color-primary-dark);
@@ -1079,7 +1079,7 @@ a:hover { text-decoration: underline; }
   font-family: var(--font-pixel);
   font-size: 1.5rem;
   font-weight: 400;
-  background: linear-gradient(135deg, var(--color-primary), #7C5FF7);
+  background: linear-gradient(135deg, var(--color-primary), #27AE60);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
@@ -1363,10 +1363,8 @@ a:hover { text-decoration: underline; }
   .news-carousel__slide { padding: 0 var(--space-2); }
 
   /* 代辦 header 按鈕精簡 */
-  #gcal-btn { display: none; }
-  #sync-open-btn { font-size: 0; padding: var(--space-1) var(--space-2); }
-  #sync-open-btn::before { content: '📲'; font-size: var(--size-base); }
-  .card__header-actions { gap: var(--space-1); }
+  #gcal-btn { font-size: 0.75rem; padding: var(--space-1) var(--space-2); }
+  .card__header-actions { gap: var(--space-1); flex-wrap: wrap; }
 
   /* 成就網格行動版收緊 */
   .achievements-grid { grid-template-columns: repeat(auto-fill, minmax(56px, 1fr)); gap: var(--space-2); }

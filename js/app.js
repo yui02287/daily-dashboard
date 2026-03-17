@@ -695,11 +695,14 @@ class UIRenderer {
     let scrollTimer;
     track.addEventListener('scroll', () => { clearTimeout(scrollTimer); scrollTimer = setTimeout(updateDots, 100); }, { passive: true });
 
+    const total = () => track.children.length;
     document.getElementById('news-prev')?.addEventListener('click', () => {
-      track.scrollTo({ left: (getIdx() - 1) * track.offsetWidth, behavior: 'smooth' });
+      const n = (getIdx() - 1 + total()) % total();
+      track.scrollTo({ left: n * track.offsetWidth, behavior: 'smooth' });
     });
     document.getElementById('news-next')?.addEventListener('click', () => {
-      track.scrollTo({ left: (getIdx() + 1) * track.offsetWidth, behavior: 'smooth' });
+      const n = (getIdx() + 1) % total();
+      track.scrollTo({ left: n * track.offsetWidth, behavior: 'smooth' });
     });
     dots.forEach((d, i) => {
       d.addEventListener('click', () => { track.scrollTo({ left: i * track.offsetWidth, behavior: 'smooth' }); });
@@ -1519,29 +1522,7 @@ class DashboardApp {
   }
 
   _injectDecorativeElements() {
-    [{ emoji: '🌱', cls: '1' }, { emoji: '🌿', cls: '2' }, { emoji: '🍀', cls: '3' }].forEach(p => {
-      const el = document.createElement('div');
-      el.className = `pixel-plant pixel-plant--${p.cls}`;
-      el.textContent = p.emoji;
-      el.setAttribute('aria-hidden', 'true');
-      document.body.appendChild(el);
-    });
-
-    const mascot = document.createElement('div');
-    mascot.className = 'pixel-mascot';
-    mascot.textContent = '🤖';
-    mascot.title = '點我！';
-    mascot.setAttribute('aria-hidden', 'true');
-    document.body.appendChild(mascot);
-
-    [[8,20],[28,65],[72,12],[88,38],[18,78],[62,22],[92,68],[44,88],[55,45]].forEach(([l, t], i) => {
-      const s = document.createElement('div');
-      s.className = 'pixel-star';
-      s.textContent = '✨';
-      s.setAttribute('aria-hidden', 'true');
-      s.style.cssText = `left:${l}%;top:${t}%;animation-delay:${i * 0.28}s`;
-      document.body.appendChild(s);
-    });
+    // 裝飾元素已停用（避免畫面雜亂）
   }
 }
 
