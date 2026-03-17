@@ -817,6 +817,15 @@ a:hover { text-decoration: underline; }
   box-shadow: 3px 3px 0 var(--color-primary);
   border-color: var(--color-primary);
 }
+.kanban-item--dragging {
+  opacity: 0.35;
+  transform: scale(0.97);
+}
+.kanban-col--drag-over {
+  background: var(--color-primary-light);
+  border: 2px dashed var(--color-primary);
+  border-radius: var(--radius-md);
+}
 .kanban-item__topic {
   font-size: var(--size-sm);
   font-weight: 500;

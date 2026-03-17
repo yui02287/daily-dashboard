@@ -346,6 +346,18 @@ class TodoManager {
     this.state.saveContentOverrides(overrides);
   }
 
+  setContentStatus(id, newStatus) {
+    if (!this.CONTENT_STATUSES.includes(newStatus)) return;
+    const overrides = this.state.getContentOverrides();
+    overrides[id] = newStatus;
+    this.state.saveContentOverrides(overrides);
+    if (id.startsWith('manual_c_')) {
+      this.state.saveContentAdditions(
+        this.state.getContentAdditions().map(c => c.id === id ? { ...c, status: newStatus } : c)
+      );
+    }
+  }
+
   cycleContentStatus(id) {
     const all  = this.mergeContentItems();
     const item = all.find(c => c.id === id);
@@ -690,27 +702,65 @@ class UIRenderer {
 
   _initNewsCarousel() {
     const track = document.getElementById('news-carousel-track');
-    const dots  = document.querySelectorAll('.news-carousel__dot');
-    if (!track) return;
+    const dots  = [...document.querySelectorAll('.news-carousel__dot')];
+    if (!track || track.children.length === 0) return;
 
-    const total    = () => track.children.length;
-    const getIdx   = () => Math.round(track.scrollLeft / (track.offsetWidth || 1));
-    const goTo     = (n) => track.scrollTo({ left: ((n % total() + total()) % total()) * track.offsetWidth, behavior: 'smooth' });
+    const origCount = track.children.length;
+    if (origCount > 1) {
+      // 首尾各插入一個 clone，實現無縫循環
+      track.insertBefore(track.children[origCount - 1].cloneNode(true), track.children[0]);
+      track.appendChild(track.children[1].cloneNode(true)); // children[1] = real first (after prepend)
+      // 跳到真正的第一張（index 1）
+      track.style.scrollBehavior = 'auto';
+      track.scrollLeft = track.offsetWidth;
+      track.style.scrollBehavior = '';
+    }
+
+    const realCount  = origCount;
+    const getVisIdx  = () => Math.round(track.scrollLeft / (track.offsetWidth || 1));
+    const getRealIdx = () => Math.max(0, Math.min(realCount - 1, getVisIdx() - 1));
+
     const updateDots = () => {
-      const idx = getIdx();
-      dots.forEach((d, i) => d.classList.toggle('news-carousel__dot--active', i === idx));
+      const r = getRealIdx();
+      dots.forEach((d, i) => d.classList.toggle('news-carousel__dot--active', i === r));
     };
 
-    let scrollTimer;
-    track.addEventListener('scroll', () => { clearTimeout(scrollTimer); scrollTimer = setTimeout(updateDots, 100); }, { passive: true });
+    const goTo = (visIdx) => {
+      track.scrollTo({ left: visIdx * track.offsetWidth, behavior: 'smooth' });
+    };
 
-    document.getElementById('news-prev')?.addEventListener('click', () => goTo(getIdx() - 1));
-    document.getElementById('news-next')?.addEventListener('click', () => goTo(getIdx() + 1));
-    dots.forEach((d, i) => d.addEventListener('click', () => goTo(i)));
+    // 滾動後偵測是否到 clone，靜默跳回真實位置
+    let jumping = false, scrollTimer;
+    track.addEventListener('scroll', () => {
+      if (jumping) return;
+      clearTimeout(scrollTimer);
+      scrollTimer = setTimeout(() => {
+        const vi = getVisIdx();
+        if (vi === 0) {
+          jumping = true;
+          track.style.scrollBehavior = 'auto';
+          track.scrollLeft = realCount * track.offsetWidth;
+          track.style.scrollBehavior = '';
+          requestAnimationFrame(() => { jumping = false; updateDots(); });
+        } else if (vi === realCount + 1) {
+          jumping = true;
+          track.style.scrollBehavior = 'auto';
+          track.scrollLeft = track.offsetWidth;
+          track.style.scrollBehavior = '';
+          requestAnimationFrame(() => { jumping = false; updateDots(); });
+        } else {
+          updateDots();
+        }
+      }, 120);
+    }, { passive: true });
 
-    // 自動輪播：每 5 秒前進一張，hover 或 touch 時暫停
+    document.getElementById('news-prev')?.addEventListener('click', () => goTo(getVisIdx() - 1));
+    document.getElementById('news-next')?.addEventListener('click', () => goTo(getVisIdx() + 1));
+    dots.forEach((d, i) => d.addEventListener('click', () => goTo(i + 1)));
+
+    // 自動輪播：每 5 秒前進一張
     let paused = false;
-    const autoTimer = setInterval(() => { if (!paused && total() > 1) goTo(getIdx() + 1); }, 5000);
+    const autoTimer = setInterval(() => { if (!paused && realCount > 1) goTo(getVisIdx() + 1); }, 5000);
     const card = document.getElementById('news-card');
     if (card) {
       card.addEventListener('mouseenter', () => { paused = true; });
@@ -718,9 +768,7 @@ class UIRenderer {
       card.addEventListener('touchstart',  () => { paused = true; },  { passive: true });
       card.addEventListener('touchend',    () => { setTimeout(() => { paused = false; }, 3000); }, { passive: true });
     }
-    // 頁面隱藏時暫停（省電）
     document.addEventListener('visibilitychange', () => { paused = document.hidden; });
-    // 元素從 DOM 移除時清除 timer（re-render 時）
     new MutationObserver(() => { if (!document.getElementById('news-carousel-track')) clearInterval(autoTimer); })
       .observe(document.getElementById('news-body') || document.body, { childList: true });
   }
@@ -814,7 +862,7 @@ class UIRenderer {
           <div class="kanban-col__items">
             ${items.length === 0 ? '<div class="kanban-col__empty">空</div>' : ''}
             ${items.map(c => `
-              <div class="kanban-item" data-cid="${c.id}">
+              <div class="kanban-item" data-cid="${c.id}" draggable="true">
                 <div class="kanban-item__topic kanban-item__topic--link"
                      data-action="open-detail" data-cid="${c.id}">${this._esc(c.topic)}</div>
                 <div class="kanban-item__meta">
@@ -1505,6 +1553,7 @@ class DashboardApp {
 
     this._initTodoSwipe();
     this._initPullToRefresh();
+    this._initKanbanDrag();
 
     if (!CONFIG.OPENWEATHER_API_KEY && !CONFIG.GOOGLE_CLIENT_ID) {
       setTimeout(() => this.renderer.showToast('首次使用請點 ⚙️ 填入 API 金鑰', 'error'), 1200);
@@ -1526,47 +1575,95 @@ class DashboardApp {
   }
 
   _initTodoSwipe() {
-    let startX = 0, startY = 0, swipeTarget = null;
-    const list = document.getElementById('todo-list');
-    if (!list) return;
+    // 已停用左右滑動手勢（改用按鈕操作）
+  }
 
-    list.addEventListener('touchstart', e => {
-      startX = e.touches[0].clientX; startY = e.touches[0].clientY;
-      swipeTarget = e.target.closest('.todo-item');
-    }, { passive: true });
+  _initKanbanDrag() {
+    const kanban = document.getElementById('content-kanban');
+    if (!kanban) return;
 
-    list.addEventListener('touchmove', e => {
-      if (!swipeTarget) return;
-      const dx = e.touches[0].clientX - startX;
-      const dy = Math.abs(e.touches[0].clientY - startY);
-      if (dy > 20) { swipeTarget = null; return; }
-      const clamped = Math.max(-90, Math.min(90, dx));
-      swipeTarget.style.transform = `translateX(${clamped}px)`;
-      swipeTarget.classList.toggle('todo-item--swipe-left',  dx < -30);
-      swipeTarget.classList.toggle('todo-item--swipe-right', dx > 30);
-    }, { passive: true });
+    let dragCid = null;
 
-    list.addEventListener('touchend', e => {
-      if (!swipeTarget) return;
-      const dx = e.changedTouches[0].clientX - startX;
-      swipeTarget.style.transform = '';
-      swipeTarget.style.transition = 'transform 200ms ease';
-      swipeTarget.classList.remove('todo-item--swipe-left', 'todo-item--swipe-right');
-      setTimeout(() => { if (swipeTarget) swipeTarget.style.transition = ''; }, 200);
-      const id = swipeTarget.dataset.id;
-      if (dx < -60 && id?.startsWith('manual_')) {
-        this.todoManager.removeManualTodo(id);
-        this._refreshTodos();
-        this.renderer.showToast('代辦已刪除');
-      } else if (dx > 60) {
-        const todo = this._allTodos.find(t => t.id === id);
-        if (todo && !todo.completed) {
-          const pts = this.todoManager.completeTodo(todo);
-          this._refreshTodos();
-          this.renderer.showToast(`完成！+${pts} XP ⭐`, 'points');
-        }
+    /* ── Desktop: HTML5 drag & drop ── */
+    kanban.addEventListener('dragstart', e => {
+      const item = e.target.closest('.kanban-item');
+      if (!item) return;
+      dragCid = item.dataset.cid;
+      e.dataTransfer.effectAllowed = 'move';
+      item.classList.add('kanban-item--dragging');
+    });
+    kanban.addEventListener('dragend', () => {
+      dragCid = null;
+      kanban.querySelectorAll('.kanban-item--dragging, .kanban-col--drag-over')
+        .forEach(el => el.classList.remove('kanban-item--dragging', 'kanban-col--drag-over'));
+    });
+    kanban.addEventListener('dragover', e => {
+      e.preventDefault();
+      const col = e.target.closest('.kanban-col');
+      kanban.querySelectorAll('.kanban-col--drag-over').forEach(el => el.classList.remove('kanban-col--drag-over'));
+      if (col) col.classList.add('kanban-col--drag-over');
+    });
+    kanban.addEventListener('drop', e => {
+      e.preventDefault();
+      const col = e.target.closest('.kanban-col');
+      if (!col || !dragCid) return;
+      const newStatus = col.dataset.status;
+      if (newStatus) {
+        this.todoManager.setContentStatus(dragCid, newStatus);
+        this._refreshContent();
+        this.gistSync.schedulePush();
       }
-      swipeTarget = null;
+    });
+
+    /* ── Mobile: touch drag ── */
+    let touchCid = null, touchGhost = null, touchSrc = null;
+
+    kanban.addEventListener('touchstart', e => {
+      const item = e.target.closest('.kanban-item');
+      if (!item) return;
+      touchCid = item.dataset.cid;
+      touchSrc = item;
+      const rect = item.getBoundingClientRect();
+      touchGhost = item.cloneNode(true);
+      Object.assign(touchGhost.style, {
+        position: 'fixed', left: rect.left + 'px', top: rect.top + 'px',
+        width: rect.width + 'px', opacity: '0.85', pointerEvents: 'none',
+        zIndex: '9999', transform: 'scale(1.04)',
+        boxShadow: '0 8px 24px rgba(0,0,0,0.18)', transition: 'none',
+      });
+      document.body.appendChild(touchGhost);
+      item.style.opacity = '0.3';
+    }, { passive: true });
+
+    kanban.addEventListener('touchmove', e => {
+      if (!touchGhost) return;
+      const t = e.touches[0];
+      touchGhost.style.left = (t.clientX - touchGhost.offsetWidth / 2) + 'px';
+      touchGhost.style.top  = (t.clientY - 30) + 'px';
+      touchGhost.style.display = 'none';
+      const under = document.elementFromPoint(t.clientX, t.clientY);
+      touchGhost.style.display = '';
+      const col = under?.closest('.kanban-col');
+      kanban.querySelectorAll('.kanban-col--drag-over').forEach(el => el.classList.remove('kanban-col--drag-over'));
+      if (col) col.classList.add('kanban-col--drag-over');
+    }, { passive: true });
+
+    kanban.addEventListener('touchend', e => {
+      if (!touchGhost) return;
+      const t = e.changedTouches[0];
+      touchGhost.style.display = 'none';
+      const under = document.elementFromPoint(t.clientX, t.clientY);
+      const col   = under?.closest('.kanban-col');
+      if (col?.dataset.status && touchCid) {
+        this.todoManager.setContentStatus(touchCid, col.dataset.status);
+        this._refreshContent();
+        this.gistSync.schedulePush();
+      } else {
+        if (touchSrc) touchSrc.style.opacity = '';
+      }
+      touchGhost.remove();
+      kanban.querySelectorAll('.kanban-col--drag-over').forEach(el => el.classList.remove('kanban-col--drag-over'));
+      touchGhost = null; touchCid = null; touchSrc = null;
     });
   }
 
