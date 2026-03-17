@@ -758,6 +758,10 @@ a:hover { text-decoration: underline; }
   padding-bottom: var(--space-3);
   scrollbar-width: thin;
   scrollbar-color: var(--color-border) transparent;
+  /* 整個看板禁止文字選取，避免長壓框選 */
+  -webkit-user-select: none;
+  user-select: none;
+  -webkit-touch-callout: none;
 }
 .content-kanban::-webkit-scrollbar { height: 4px; }
 .content-kanban::-webkit-scrollbar-track { background: transparent; }

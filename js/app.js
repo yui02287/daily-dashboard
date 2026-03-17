@@ -1570,8 +1570,9 @@ class DashboardApp {
     const kanban = document.getElementById('content-kanban');
     if (!kanban) return;
 
-    // 阻止長壓觸發瀏覽器右鍵選單 / 文字選取框
+    // 阻止長壓觸發瀏覽器右鍵選單 / 文字選取框 / 選取事件
     kanban.addEventListener('contextmenu', e => e.preventDefault());
+    kanban.addEventListener('selectstart', e => e.preventDefault());
 
     let dragCid = null;
 
