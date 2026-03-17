@@ -1637,16 +1637,30 @@ class DashboardApp {
 
     kanban.addEventListener('touchmove', e => {
       if (!dragActive || !touchGhost) return;
+      e.preventDefault(); // 拖曳中接管滾動，阻止瀏覽器原生橫滑
+
       const t = e.touches[0];
       touchGhost.style.left = (t.clientX - touchGhost.offsetWidth / 2) + 'px';
       touchGhost.style.top  = (t.clientY - 30) + 'px';
+
+      // 偵測目標欄位
       touchGhost.style.display = 'none';
       const under = document.elementFromPoint(t.clientX, t.clientY);
       touchGhost.style.display = '';
       const col = under?.closest('.kanban-col');
       kanban.querySelectorAll('.kanban-col--drag-over').forEach(el => el.classList.remove('kanban-col--drag-over'));
       if (col) col.classList.add('kanban-col--drag-over');
-    }, { passive: true });
+
+      // 邊緣自動滾動：手指靠近左右邊緣時滾動面板
+      const rect = kanban.getBoundingClientRect();
+      const edge = 72; // px，邊緣感應區
+      const speed = 10; // px per event
+      if (t.clientX < rect.left + edge) {
+        kanban.scrollLeft -= speed;
+      } else if (t.clientX > rect.right - edge) {
+        kanban.scrollLeft += speed;
+      }
+    }, { passive: false });
 
     kanban.addEventListener('touchend', e => {
       clearTimeout(longPressTimer); longPressTimer = null;
