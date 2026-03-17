@@ -1309,6 +1309,19 @@ a:hover { text-decoration: underline; }
   .level-badge { width: 40px; height: 40px; }
   .news-carousel__arrow { display: none; }
   .news-carousel__slide { padding: 0 var(--space-2); }
+
+  /* 代辦 header 按鈕精簡 */
+  #gcal-btn { display: none; }
+  #sync-open-btn { font-size: 0; padding: var(--space-1) var(--space-2); }
+  #sync-open-btn::before { content: '📲'; font-size: var(--size-base); }
+  .card__header-actions { gap: var(--space-1); }
+
+  /* 成就網格行動版收緊 */
+  .achievements-grid { grid-template-columns: repeat(auto-fill, minmax(56px, 1fr)); gap: var(--space-2); }
+  .achievement-badge__name { font-size: 0.4rem; }
+
+  /* Kanban 欄位收窄 */
+  .kanban-col { min-width: 130px; }
 }
 
 @media (max-width: 400px) {

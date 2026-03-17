@@ -487,11 +487,16 @@ class WeatherWidget {
   }
 
   async fetchWeatherByCity(city) {
-    try {
-      const res = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${encodeURIComponent(city)}&appid=${CONFIG.OPENWEATHER_API_KEY}&units=${CONFIG.WEATHER_UNITS}&lang=${CONFIG.WEATHER_LANG}`);
-      if (!res.ok) throw new Error('城市名稱錯誤或 HTTP ' + res.status);
-      return this._normalize(await res.json());
-    } catch (e) { this.renderError('找不到城市：' + e.message); return null; }
+    // 若未指定國碼，先試 TW（台灣），避免誤抓中國同名城市
+    const queries = city.includes(',') ? [city] : [city + ',TW', city];
+    for (const q of queries) {
+      try {
+        const res = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${encodeURIComponent(q)}&appid=${CONFIG.OPENWEATHER_API_KEY}&units=${CONFIG.WEATHER_UNITS}&lang=${CONFIG.WEATHER_LANG}`);
+        if (res.ok) return this._normalize(await res.json());
+      } catch {}
+    }
+    this.renderError('找不到城市，請確認名稱（如 Taoyuan,TW）');
+    return null;
   }
 
   async fetchWeatherByIP() {
@@ -527,7 +532,7 @@ class WeatherWidget {
             <button class="btn-text" id="weather-city-edit">✏️ 變更城市</button>
           </div>
           <div class="weather-city-input" id="weather-city-input" style="display:none">
-            <input type="text" id="weather-city-text" placeholder="如 Taipei" value="${this.state.getWeatherCity() || ''}" />
+            <input type="text" id="weather-city-text" placeholder="如 Taoyuan 或 Taipei,TW" value="${this.state.getWeatherCity() || ''}" />
             <button class="btn-primary" id="weather-city-save">確定</button>
             <button class="btn-secondary" id="weather-city-cancel">✕</button>
           </div>
