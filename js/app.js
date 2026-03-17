@@ -758,19 +758,7 @@ class UIRenderer {
     document.getElementById('news-next')?.addEventListener('click', () => goTo(getVisIdx() + 1));
     dots.forEach((d, i) => d.addEventListener('click', () => goTo(i + 1)));
 
-    // 自動輪播：每 5 秒前進一張
-    let paused = false;
-    const autoTimer = setInterval(() => { if (!paused && realCount > 1) goTo(getVisIdx() + 1); }, 5000);
-    const card = document.getElementById('news-card');
-    if (card) {
-      card.addEventListener('mouseenter', () => { paused = true; });
-      card.addEventListener('mouseleave', () => { paused = false; });
-      card.addEventListener('touchstart',  () => { paused = true; },  { passive: true });
-      card.addEventListener('touchend',    () => { setTimeout(() => { paused = false; }, 3000); }, { passive: true });
-    }
-    document.addEventListener('visibilitychange', () => { paused = document.hidden; });
-    new MutationObserver(() => { if (!document.getElementById('news-carousel-track')) clearInterval(autoTimer); })
-      .observe(document.getElementById('news-body') || document.body, { childList: true });
+    // 無自動輪播，僅手動操作
   }
 
   renderTodos(allTodos) {
@@ -1615,28 +1603,40 @@ class DashboardApp {
       }
     });
 
-    /* ── Mobile: touch drag ── */
+    /* ── Mobile: long-press (350ms) to drag，短按不干擾橫向滾動 ── */
     let touchCid = null, touchGhost = null, touchSrc = null;
+    let longPressTimer = null, dragActive = false;
+
+    const cancelTouchDrag = () => {
+      clearTimeout(longPressTimer); longPressTimer = null;
+      if (touchGhost) { touchGhost.remove(); touchGhost = null; }
+      if (touchSrc)   { touchSrc.style.visibility = ''; touchSrc = null; }
+      kanban.querySelectorAll('.kanban-col--drag-over').forEach(el => el.classList.remove('kanban-col--drag-over'));
+      touchCid = null; dragActive = false;
+    };
 
     kanban.addEventListener('touchstart', e => {
       const item = e.target.closest('.kanban-item');
       if (!item) return;
       touchCid = item.dataset.cid;
       touchSrc = item;
-      const rect = item.getBoundingClientRect();
-      touchGhost = item.cloneNode(true);
-      Object.assign(touchGhost.style, {
-        position: 'fixed', left: rect.left + 'px', top: rect.top + 'px',
-        width: rect.width + 'px', opacity: '0.85', pointerEvents: 'none',
-        zIndex: '9999', transform: 'scale(1.04)',
-        boxShadow: '0 8px 24px rgba(0,0,0,0.18)', transition: 'none',
-      });
-      document.body.appendChild(touchGhost);
-      item.style.opacity = '0.3';
+      longPressTimer = setTimeout(() => {
+        dragActive = true;
+        const rect = item.getBoundingClientRect();
+        touchGhost = item.cloneNode(true);
+        Object.assign(touchGhost.style, {
+          position: 'fixed', left: rect.left + 'px', top: rect.top + 'px',
+          width: rect.width + 'px', opacity: '0.9', pointerEvents: 'none',
+          zIndex: '9999', transform: 'scale(1.05)',
+          boxShadow: '0 8px 24px rgba(0,0,0,0.25)', transition: 'none',
+        });
+        document.body.appendChild(touchGhost);
+        item.style.visibility = 'hidden';
+      }, 350);
     }, { passive: true });
 
     kanban.addEventListener('touchmove', e => {
-      if (!touchGhost) return;
+      if (!dragActive || !touchGhost) return;
       const t = e.touches[0];
       touchGhost.style.left = (t.clientX - touchGhost.offsetWidth / 2) + 'px';
       touchGhost.style.top  = (t.clientY - 30) + 'px';
@@ -1649,22 +1649,21 @@ class DashboardApp {
     }, { passive: true });
 
     kanban.addEventListener('touchend', e => {
-      if (!touchGhost) return;
+      clearTimeout(longPressTimer); longPressTimer = null;
+      if (!dragActive) { touchCid = null; touchSrc = null; return; }
       const t = e.changedTouches[0];
-      touchGhost.style.display = 'none';
+      if (touchGhost) touchGhost.style.display = 'none';
       const under = document.elementFromPoint(t.clientX, t.clientY);
       const col   = under?.closest('.kanban-col');
       if (col?.dataset.status && touchCid) {
         this.todoManager.setContentStatus(touchCid, col.dataset.status);
         this._refreshContent();
         this.gistSync.schedulePush();
-      } else {
-        if (touchSrc) touchSrc.style.opacity = '';
       }
-      touchGhost.remove();
-      kanban.querySelectorAll('.kanban-col--drag-over').forEach(el => el.classList.remove('kanban-col--drag-over'));
-      touchGhost = null; touchCid = null; touchSrc = null;
+      cancelTouchDrag();
     });
+
+    kanban.addEventListener('touchcancel', cancelTouchDrag, { passive: true });
   }
 
   _initPullToRefresh() {
