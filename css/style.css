@@ -1216,6 +1216,39 @@ a:hover { text-decoration: underline; }
   padding: var(--space-8);
   width: min(480px, 92vw);
   box-shadow: 8px 8px 0 var(--pixel-border);
+  max-height: 88vh;
+  overflow-y: auto;
+}
+.sync-box--wide { width: min(680px, 92vw); }
+.sync-box__header {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  margin-bottom: var(--space-5);
+}
+.sync-box__header .sync-box__title { margin-bottom: 0; }
+.sync-box__subtitle {
+  font-size: var(--size-xs);
+  color: var(--color-text-muted);
+  flex: 1;
+}
+.sync-box__divider {
+  border: none;
+  border-top: 2px solid var(--color-border);
+  margin: var(--space-6) 0;
+}
+.sync-box__section-title {
+  font-family: var(--font-pixel);
+  font-size: 0.5rem;
+  color: var(--color-text-secondary);
+  margin-bottom: var(--space-3);
+  letter-spacing: 0.04em;
+}
+.sync-box__desc--success { color: var(--color-success); }
+.achievements-grid--modal {
+  grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
+  max-height: 60vh;
+  overflow-y: auto;
 }
 .sync-box__title {
   font-family: var(--font-pixel);

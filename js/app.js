@@ -818,12 +818,29 @@ class UIRenderer {
     const earned = new Set(this.state.getAchievements());
     const el = document.getElementById('achievements-grid');
     if (!el) return;
-    el.innerHTML = this.gamify.ACHIEVEMENTS.map(a => `
-      <div class="achievement-badge${earned.has(a.id) ? '' : ' achievement-badge--locked'}" title="${this._esc(a.desc)}">
-        <span class="achievement-badge__icon">${a.icon}</span>
-        <span class="achievement-badge__name">${a.name}</span>
-      </div>
-    `).join('');
+    // 顯示前 8 個（先顯示已解鎖的）
+    const sorted = [...this.gamify.ACHIEVEMENTS].sort((a, b) => (earned.has(b.id) ? 1 : 0) - (earned.has(a.id) ? 1 : 0));
+    el.innerHTML = sorted.slice(0, 8).map(a => this._achBadgeHTML(a, earned)).join('');
+  }
+
+  _achBadgeHTML(a, earned) {
+    return `<div class="achievement-badge${earned.has(a.id) ? '' : ' achievement-badge--locked'}" title="${this._esc(a.desc)}">
+      <span class="achievement-badge__icon">${a.icon}</span>
+      <span class="achievement-badge__name">${a.name}</span>
+    </div>`;
+  }
+
+  showAchievementsModal() {
+    const earned = new Set(this.state.getAchievements());
+    const sorted = [...this.gamify.ACHIEVEMENTS].sort((a, b) => (earned.has(b.id) ? 1 : 0) - (earned.has(a.id) ? 1 : 0));
+    const earnedCount = [...earned].length;
+    const modal = document.getElementById('achievements-modal');
+    const grid  = document.getElementById('achievements-modal-grid');
+    const count = document.getElementById('achievements-modal-count');
+    if (!modal || !grid) return;
+    if (count) count.textContent = `${earnedCount} / ${this.gamify.ACHIEVEMENTS.length} 已解鎖`;
+    grid.innerHTML = sorted.map(a => this._achBadgeHTML(a, earned)).join('');
+    modal.style.display = 'flex';
   }
 
   /* Achievement animations */
@@ -1064,9 +1081,8 @@ class DashboardApp {
     if (this.gistSync.isConfigured()) await this.gistSync.pull(this);
     this.gistSync.refreshStatusBadge();
 
-    this.calClient.init();
-    this.renderer.updateGCalButton(this.calClient.isConnected());
-    if (this.calClient.isConnected()) this._gcalEvents = await this.calClient.fetchTodayEvents();
+    // GCal：嘗試同步恢復（等 GIS 載入最多 5 秒）
+    this._autoConnectGCal();
 
     this._refreshTodos();
     this.renderer.renderNews(dailyData);
@@ -1076,6 +1092,20 @@ class DashboardApp {
 
     this._attachListeners();
     this._injectDecorativeElements();
+  }
+
+  async _autoConnectGCal() {
+    // 等待 GIS 載入（最多 5 秒）
+    for (let i = 0; i < 25; i++) {
+      if (this.calClient.isReady()) break;
+      await new Promise(r => setTimeout(r, 200));
+    }
+    this.calClient.init();
+    this.renderer.updateGCalButton(this.calClient.isConnected());
+    if (this.calClient.isConnected()) {
+      this._gcalEvents = await this.calClient.fetchTodayEvents();
+      this._refreshTodos();
+    }
   }
 
   _renderDailyQuote() {
@@ -1316,50 +1346,20 @@ class DashboardApp {
       if (e.target.id === 'levelup-overlay') document.getElementById('levelup-overlay').style.display = 'none';
     });
 
-    // 同步 Modal
-    document.getElementById('sync-open-btn')?.addEventListener('click', () => {
-      this.gistSync.refreshModal();
-      document.getElementById('sync-overlay').style.display = 'flex';
+    // 成就查看全部 Modal
+    document.getElementById('achievements-toggle')?.addEventListener('click', () => {
+      this.renderer.showAchievementsModal();
     });
-    const closeSync = () => { document.getElementById('sync-overlay').style.display = 'none'; };
-    document.getElementById('sync-close-btn')?.addEventListener('click', closeSync);
-    document.getElementById('sync-close-btn2')?.addEventListener('click', closeSync);
-    document.getElementById('sync-overlay')?.addEventListener('click', (e) => { if (e.target.id === 'sync-overlay') closeSync(); });
+    const closeAchModal = () => { document.getElementById('achievements-modal').style.display = 'none'; };
+    document.getElementById('achievements-modal-close')?.addEventListener('click', closeAchModal);
+    document.getElementById('achievements-modal')?.addEventListener('click', (e) => { if (e.target.id === 'achievements-modal') closeAchModal(); });
 
-    document.getElementById('sync-connect-btn')?.addEventListener('click', async () => {
-      const pat = document.getElementById('sync-pat-input').value.trim();
-      if (!pat) return;
-      document.getElementById('sync-hint').textContent = '連結中…';
-      const ok = await this.gistSync.connect(pat);
-      if (ok) { await this.gistSync.pull(this); this.gistSync.refreshModal(); this.renderer.showToast('Gist 同步已啟用 ✅', 'success'); }
-      else    { document.getElementById('sync-hint').textContent = '❌ Token 無效，請確認已勾選 gist 權限'; }
-    });
-
-    document.getElementById('sync-now-btn')?.addEventListener('click', async () => {
-      document.getElementById('sync-hint2').textContent = '同步中…';
-      await this.gistSync.push();
-      document.getElementById('sync-hint2').textContent = '✅ 已同步至 Gist';
-      this.gistSync.refreshModal();
-    });
-
-    document.getElementById('sync-pull-btn')?.addEventListener('click', async () => {
-      document.getElementById('sync-hint2').textContent = '拉取中…';
-      const ok = await this.gistSync.pull(this);
-      if (ok) { closeSync(); this.renderer.showToast('已從 Gist 還原資料 ✅', 'success'); }
-      else    { document.getElementById('sync-hint2').textContent = '❌ 拉取失敗'; }
-    });
-
-    document.getElementById('sync-disconnect-btn')?.addEventListener('click', () => {
-      this.gistSync.disconnect();
-      this.gistSync.refreshModal();
-      this.renderer.showToast('已中斷 Gist 同步');
-    });
-
-    // ⚙️ 設定 Modal
+    // ⚙️ 設定 Modal（整合 Gist 自動同步設定）
     const openSettings  = () => {
       document.getElementById('settings-owm-input').value  = localStorage.getItem('ddash_owm_key') || '';
       document.getElementById('settings-gcal-input').value = localStorage.getItem('ddash_gcal_client_id') || '';
       document.getElementById('settings-hint').textContent = '';
+      this._refreshGistSettingsPanel();
       document.getElementById('settings-overlay').style.display = 'flex';
     };
     const closeSettings = () => { document.getElementById('settings-overlay').style.display = 'none'; };
@@ -1374,6 +1374,27 @@ class DashboardApp {
       closeSettings();
       this.renderer.showToast('設定已儲存 ✅', 'success');
       if (owm) this.weather.refresh();
+      if (gcal) this._autoConnectGCal();
+    });
+
+    // Gist 自動同步（整合在 settings 內）
+    document.getElementById('gist-connect-btn')?.addEventListener('click', async () => {
+      const pat = document.getElementById('gist-pat-input').value.trim();
+      if (!pat) return;
+      document.getElementById('gist-hint').textContent = '連結中…';
+      const ok = await this.gistSync.connect(pat);
+      if (ok) {
+        await this.gistSync.pull(this);
+        this._refreshGistSettingsPanel();
+        this.renderer.showToast('跨裝置自動同步已啟用 ✅', 'success');
+      } else {
+        document.getElementById('gist-hint').textContent = '❌ Token 無效，請確認已勾選 gist 權限';
+      }
+    });
+    document.getElementById('gist-disconnect-btn')?.addEventListener('click', () => {
+      this.gistSync.disconnect();
+      this._refreshGistSettingsPanel();
+      this.renderer.showToast('已停用自動同步');
     });
 
     // 行動版底部導覽
@@ -1418,6 +1439,20 @@ class DashboardApp {
     if (!CONFIG.OPENWEATHER_API_KEY && !CONFIG.GOOGLE_CLIENT_ID) {
       setTimeout(() => this.renderer.showToast('首次使用請點 ⚙️ 填入 API 金鑰', 'error'), 1200);
     }
+  }
+
+  _refreshGistSettingsPanel() {
+    const configured = this.gistSync.isConfigured();
+    const setupEl    = document.getElementById('gist-setup');
+    const statusEl   = document.getElementById('gist-status');
+    if (setupEl)  setupEl.style.display  = configured ? 'none' : '';
+    if (statusEl) statusEl.style.display = configured ? '' : 'none';
+    if (configured) {
+      const t = localStorage.getItem('ddash_gist_synced_at');
+      const timeEl = document.getElementById('gist-last-sync');
+      if (timeEl) timeEl.textContent = t ? '上次同步：' + new Date(t).toLocaleString('zh-TW') : '尚未同步';
+    }
+    this.gistSync.refreshStatusBadge();
   }
 
   _initTodoSwipe() {

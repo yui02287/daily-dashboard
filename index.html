@@ -113,7 +113,6 @@
           <button class="btn-secondary" id="gcal-btn">
             <span id="gcal-btn-text">📅 連結 Google 日曆</span>
           </button>
-          <button class="btn-secondary" id="sync-open-btn" title="跨裝置同步">📲 同步</button>
         </div>
       </div>
 
@@ -154,10 +153,11 @@
       <!-- 平台篩選 -->
       <div class="content-filters" id="content-filters">
         <button class="content-filter content-filter--active" data-platform="all">全部</button>
-        <button class="content-filter" data-platform="YouTube">YouTube</button>
-        <button class="content-filter" data-platform="TikTok">TikTok</button>
-        <button class="content-filter" data-platform="Instagram">Instagram</button>
+        <button class="content-filter" data-platform="Threads">Threads</button>
+        <button class="content-filter" data-platform="貼文">貼文</button>
         <button class="content-filter" data-platform="Blog">Blog</button>
+        <button class="content-filter" data-platform="Reels">Reels</button>
+        <button class="content-filter" data-platform="YouTube">YouTube</button>
       </div>
 
       <!-- 進度摘要 -->
@@ -178,10 +178,11 @@
           id="content-date-input"
         />
         <select class="add-content-form__platform" id="content-platform-input">
-          <option value="YouTube">YouTube</option>
-          <option value="TikTok">TikTok</option>
-          <option value="Instagram">Instagram</option>
+          <option value="Threads">Threads</option>
+          <option value="貼文">貼文</option>
           <option value="Blog">Blog</option>
+          <option value="Reels">Reels</option>
+          <option value="YouTube">YouTube</option>
           <option value="其他">其他</option>
         </select>
         <button type="submit" class="btn-primary">新增</button>
@@ -214,44 +215,15 @@
     <button class="mobile-nav__item" data-target="game-card">🏆 <span>成就</span></button>
   </nav>
 
-  <!-- ===== Gist 同步設定 MODAL ===== -->
-  <div class="sync-overlay" id="sync-overlay" style="display:none">
-    <div class="sync-box">
-      <!-- 未連結狀態 -->
-      <div id="sync-setup-panel">
-        <h2 class="sync-box__title">📲 跨裝置自動同步</h2>
-        <p class="sync-box__desc">使用 GitHub Gist 免費自動同步，換裝置也能保留所有資料。</p>
-        <ol class="sync-box__steps">
-          <li>前往 <a href="https://github.com/settings/tokens/new" target="_blank" rel="noopener">GitHub → Settings → Tokens → New classic token</a></li>
-          <li>勾選 <strong>gist</strong> 權限，其他不用勾</li>
-          <li>產生後複製 Token 貼到下方</li>
-        </ol>
-        <input
-          type="password"
-          class="sync-box__input"
-          id="sync-pat-input"
-          placeholder="ghp_xxxxxxxxxxxxxxxx"
-          autocomplete="off"
-        />
-        <div class="sync-box__actions">
-          <button class="btn-primary" id="sync-connect-btn">連結 Gist</button>
-          <button class="btn-icon" id="sync-close-btn" title="關閉">✕</button>
-        </div>
-        <p class="sync-box__hint" id="sync-hint"></p>
+  <!-- ===== 成就全覽 MODAL ===== -->
+  <div class="sync-overlay" id="achievements-modal" style="display:none">
+    <div class="sync-box sync-box--wide">
+      <div class="sync-box__header">
+        <h2 class="sync-box__title">🏆 所有成就</h2>
+        <span class="sync-box__subtitle" id="achievements-modal-count"></span>
+        <button class="btn-icon" id="achievements-modal-close" title="關閉">✕</button>
       </div>
-
-      <!-- 已連結狀態 -->
-      <div id="sync-connected-panel" style="display:none">
-        <h2 class="sync-box__title">✅ Gist 已連結</h2>
-        <p class="sync-box__desc" id="sync-last-time">上次同步：—</p>
-        <div class="sync-box__actions">
-          <button class="btn-primary" id="sync-now-btn">立即同步</button>
-          <button class="btn-secondary" id="sync-pull-btn">從雲端拉取</button>
-          <button class="btn-secondary" id="sync-disconnect-btn">中斷連結</button>
-          <button class="btn-icon" id="sync-close-btn2" title="關閉">✕</button>
-        </div>
-        <p class="sync-box__hint" id="sync-hint2"></p>
-      </div>
+      <div class="achievements-grid achievements-grid--modal" id="achievements-modal-grid"></div>
     </div>
   </div>
 
@@ -281,6 +253,27 @@
         <button class="btn-icon" id="settings-close-btn" title="關閉">✕</button>
       </div>
       <p class="sync-box__hint" id="settings-hint"></p>
+
+      <hr class="sync-box__divider" />
+
+      <h3 class="sync-box__section-title">☁️ 跨裝置自動同步（GitHub Gist）</h3>
+      <!-- 未設定 -->
+      <div id="gist-setup">
+        <p class="sync-box__desc">設定後，每次操作都會自動同步至雲端，換裝置也能保留資料。</p>
+        <ol class="sync-box__steps">
+          <li>前往 <a href="https://github.com/settings/tokens/new" target="_blank" rel="noopener">GitHub → Settings → Tokens → New classic token</a></li>
+          <li>勾選 <strong>gist</strong> 權限後產生並複製</li>
+        </ol>
+        <input type="password" class="sync-box__input" id="gist-pat-input" placeholder="ghp_xxxxxxxxxxxxxxxx" autocomplete="off" />
+        <button class="btn-primary" id="gist-connect-btn">啟用自動同步</button>
+        <p class="sync-box__hint" id="gist-hint"></p>
+      </div>
+      <!-- 已設定 -->
+      <div id="gist-status" style="display:none">
+        <p class="sync-box__desc sync-box__desc--success">✅ 自動同步已啟用</p>
+        <p class="sync-box__desc" id="gist-last-sync"></p>
+        <button class="btn-secondary" id="gist-disconnect-btn">停用同步</button>
+      </div>
     </div>
   </div>
 
