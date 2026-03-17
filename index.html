@@ -6,8 +6,9 @@
   <title>每日任務板</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300;400;500;700&family=JetBrains+Mono:wght@400;600&family=Press+Start+2P&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="css/pixel.css" />
   <!-- Google Identity Services (for Google Calendar OAuth) -->
   <script src="https://accounts.google.com/gsi/client" async defer></script>
 </head>
@@ -34,6 +35,7 @@
         <span class="xp-display__pts" id="xp-total">0</span>
         <span class="xp-display__label">XP</span>
       </div>
+      <div class="sync-status-badge" id="sync-status-badge">☁️ <span id="sync-status-text">未同步</span></div>
     </div>
   </header>
 
@@ -55,6 +57,9 @@
       <div class="progress-bar__fill" id="progress-fill" style="width:0%"></div>
     </div>
   </div>
+
+  <!-- ===== DAILY QUOTE ===== -->
+  <div class="daily-quote" id="daily-quote"></div>
 
   <!-- ===== MAIN GRID ===== -->
   <main class="dashboard-grid">
@@ -100,6 +105,11 @@
       <div class="card__header">
         <h2 class="card__title">📋 今日代辦</h2>
         <div class="card__header-actions">
+          <select class="todo-sort" id="todo-sort" title="排序方式">
+            <option value="priority">優先度排序</option>
+            <option value="due">截止日排序</option>
+            <option value="added">新增順序</option>
+          </select>
           <button class="btn-secondary" id="gcal-btn">
             <span id="gcal-btn-text">📅 連結 Google 日曆</span>
           </button>
@@ -141,6 +151,18 @@
         <h2 class="card__title">🎬 自媒體影片題材</h2>
       </div>
 
+      <!-- 平台篩選 -->
+      <div class="content-filters" id="content-filters">
+        <button class="content-filter content-filter--active" data-platform="all">全部</button>
+        <button class="content-filter" data-platform="YouTube">YouTube</button>
+        <button class="content-filter" data-platform="TikTok">TikTok</button>
+        <button class="content-filter" data-platform="Instagram">Instagram</button>
+        <button class="content-filter" data-platform="Blog">Blog</button>
+      </div>
+
+      <!-- 進度摘要 -->
+      <div class="content-progress" id="content-progress"></div>
+
       <!-- 新增影片題材表單 -->
       <form class="add-content-form" id="add-content-form">
         <input
@@ -165,10 +187,8 @@
         <button type="submit" class="btn-primary">新增</button>
       </form>
 
-      <!-- 影片題材清單 -->
-      <div class="content-list" id="content-list">
-        <div class="empty-state" id="content-empty">暫無題材，新增一個吧！</div>
-      </div>
+      <!-- Kanban 看板 -->
+      <div class="content-kanban" id="content-kanban"></div>
     </section>
 
     <!-- ---- COMPLETED ZONE ---- -->
@@ -177,6 +197,7 @@
         <h2 class="card__title">✅ 已完成</h2>
         <span class="completed-count badge" id="completed-count">0</span>
         <span class="completed-chevron" id="completed-chevron">▼</span>
+        <button class="btn-text btn-text--danger" id="clear-completed-btn" title="清除全部完成" onclick="event.stopPropagation()">清除</button>
       </div>
       <div class="completed-list" id="completed-list">
         <div class="empty-state" id="completed-empty">完成代辦後會顯示在這裡</div>
@@ -184,6 +205,14 @@
     </section>
 
   </main>
+
+  <!-- ===== 行動版底部導覽 ===== -->
+  <nav class="mobile-nav" aria-label="快速導覽">
+    <button class="mobile-nav__item" data-target="progress-wrap">📊 <span>今日進度</span></button>
+    <button class="mobile-nav__item" data-target="todos-card">📋 <span>代辦</span></button>
+    <button class="mobile-nav__item" data-target="content-card">🎬 <span>影片</span></button>
+    <button class="mobile-nav__item" data-target="game-card">🏆 <span>成就</span></button>
+  </nav>
 
   <!-- ===== Gist 同步設定 MODAL ===== -->
   <div class="sync-overlay" id="sync-overlay" style="display:none">
