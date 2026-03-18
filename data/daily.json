@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-03-17T03:33:38.913121+00:00",
-    "date": "2026-03-17",
+    "generated_at": "2026-03-18T03:40:17.419475+00:00",
+    "date": "2026-03-18",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "五角大廈如何在紅色供應鏈中，透過「Blue UAS」清單精準挑選美軍所需的無人機？",
-          "link": "https://techorange.com/2026/03/17/blue-uas/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-17T01:51:35+00:00",
-          "summary": "在現代戰爭的演變過程中，無人機系統（UAS）已從單純的偵察工具，快速演變為決定戰局勝負的關鍵力量。面對全球地緣政治局勢的劇烈變動，美國國防部以前所未有的速度推動低成本無人機的大規模部署，並將無人機系統供應鏈安全視為國家防禦的核心命題。 這場轉型的核心，是由國防部統籌、近期移交至國防合約管理局（DCMA）主導的「藍色無人機系統」（Blue UAS）計畫。這個計畫不僅是一個核准採購的清單，更是美國試圖"
+          "title": "【超越釣魚信成最大破口】數位廣告將取代 Email 成為最大攻擊來源，企業該怎麼防禦？",
+          "link": "https://techorange.com/2026/03/18/malvertising-is-coming-for-your-browser/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-18T02:48:05+00:00",
+          "summary": "隨著企業長期將資安防護重心放在電子郵件與端點防護上，惡意軟體的傳播路徑卻正在悄然轉移。過去二十多年來，網路釣魚郵件與惡意附件一直是主要攻擊載體，但最新研究顯示，支撐開放網路運作的數位廣告基礎設施，正逐漸成為新的入侵入口。 進一步的數據也指出，惡意廣告在整體惡意軟體與網路釣魚活動中的占比已超過 60%，且透過程式化管道散布的惡意程式數量年增達 45%，顯示廣告生態系正快速成為攻擊者優先滲透的目標。 "
         },
         {
-          "title": "將螢幕錄影化為 AI 代理訓練素材，Guidde 用「影片教學」讓 AI 學會模仿人類操作",
-          "link": "https://techorange.com/2026/03/17/visual-imitation-learning-guidde-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-17T01:51:09+00:00",
-          "summary": "傳統訓練 AI 代理的方式不同，Guidde 藉由捕捉「真實人類專家」使用複雜軟體時的操作軌跡，建構成一條帶有豐富資訊流的「影片基準資料」，進一步投入 AI 代理進行訓練。"
+          "title": "鴻海人形機器人細節首度曝光！盤點 GTC 2026 台廠如何搶攻黃仁勳「實體 AI」商機",
+          "link": "https://techorange.com/2026/03/18/nvidia-gtc-robotics-taiwan/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-18T02:45:11+00:00",
+          "summary": "台灣廠商積極切入 AI 機器人供應鏈，在今年 NVIDIA GTC 展會上展示不少機器人相關解決方案，要加速 NVIDIA 執行長黃仁勳口中的「實體 AI」（Physical AI）落地，讓 AI 代理（AI Agent）從虛擬走向物理世界。 以下盤點鴻海、達明機器人、新漢、研華、英業達與益登等 6 家亮點廠商，在本次 GTC 的機器人相關技術布局。 鴻海：首度揭露在美工業級人形機器人細節 鴻海今"
         },
         {
-          "title": "為什麼這個角落的商品賣不掉？看懂線下熱點，用 WiFi 數據拯救門市冷門區位",
-          "link": "https://techorange.com/2026/03/17/wifi-analytics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-17T01:35:39+00:00",
-          "summary": "過去，零售門市的營運判斷多半依賴直覺與經驗。商場管理者會透過人流計數器、抽樣觀察或租戶回報，試圖理解顧客動線與消費行為；如今，越來越多零售商開始把目光投向另一種資料來源：顧客手機所發出的 WiFi 訊號。透過分析這些訊號，門市得以建立類似「線下版 Google Analytics」的數據系統，讓原本難以量化的顧客行為變得可被觀察、分析與優化。 透過 WiFi 數據分析停留時長與熱點圖、解構顧客意圖"
+          "title": "輸送帶卡住誰來修？Walmart 結合 AI 與任務管理，打造敏捷人機協作倉儲現場",
+          "link": "https://techorange.com/2026/03/18/walmart-ai-digital-twins/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-18T00:04:00+00:00",
+          "summary": "全球零售巨頭 Walmart 正在進行密集的供應鏈自動化升級。目前全美共有 42 個區域配送中心（Regional Distribution Center, RDC），其中已有 23 個正進行自動化改造。隨著改造持續推進，公司目標是將所有配送中心升級為高度自動化設施。這些投資已逐步展現成效：目前其約 60% 的美國門市能夠接收來自自動化配送中心的貨物，而電商履約中心的訂單處理量也有約一半透過自動化"
         },
         {
-          "title": "【科技早餐】Meta 鎖五年算力、豪砸 270 億美元，AI 基建戰正式進入長約時代",
-          "link": "https://techorange.com/2026/03/17/meta-nebius-agree-27-billion-ai-infrastructure-pact/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-16T22:50:00+00:00",
-          "summary": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊Meta 一口氣鎖五年算力，270 億美元把 AI 基建再往前推 Meta 最新與 AI 基礎設施供應商 Nebius 簽下總價值 270 億美元、為期五年的合作協議。根據《路透社》報導，合約包括 120 億美元的專屬算力部署，並保留最高 150 億美元的額外採購彈性。Nebius 將採用 NVIDIA 下一代 Vera Rubin 平台，預計今"
+          "title": "【科技早餐】黃仁勳在 GTC 一次攤開 AI 下一輪戰場：推論、代理、機器人全面啟動",
+          "link": "https://techorange.com/2026/03/18/nvidia-gtc-2026-jensen-huang-keynote/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-17T22:50:00+00:00",
+          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊黃仁勳完整攤牌 AI 下一步：從推論工廠、代理系統到機器人全面啟動 NVIDIA 執行長黃仁勳在 GTC 2026 主題演講中，把整場重心從大模型訓練，明確推向推論、代理型 AI、實體 AI 與 AI 工廠。他表示，過去兩年 AI 運算需求已暴增約 100 萬倍，而資料中心不再只是存放檔案的地方，而是生產代幣的工廠。黃仁勳也把先前對 AI 基礎設"
         },
         {
-          "title": "會翻跟斗的機器人沒必要？Rivian CEO：最重要的其實是「手」",
-          "link": "https://techorange.com/2026/03/16/rivian-ceo-mind-robotics-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-16T09:21:11+00:00",
-          "summary": "近年來，人形機器人影片在網路上頻頻爆紅，不論是會翻跟斗或能跳舞的機器人，看似展現驚人的技術能力，但在電動車公司 Rivian 執行長 RJ Scaringe 看來，這些炫技展示未必代表機器人真正的產業價值。 Scaringe 最近創立了新的機器人公司 Mind Robotics，並完成了由 Accel 和 Andreessen Horowitz 兩家創投公司共同領投的 5 億美元 A 輪融資，目前"
+          "title": "群聯發表 aiDAPTIV 多層級記憶體架構技術，重新定義邊緣 AI 推論能力",
+          "link": "https://techorange.com/2026/03/17/phison-nvidia-gtc-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-17T10:19:57+00:00",
+          "summary": "NAND 控制晶片暨 NAND 儲存解決方案整合服務領導廠商群聯電子 (Phison; 8299TT) 於今日 (2026/03/17) 宣布將於 GTC 展會 119 號攤位展示其 aiDAPTIVTM 多層級記憶體架構技術 (multi-tier memory architecture)，如何在由 NVIDIA 平台驅動的本地邊緣 AI 系統中，支援更大型 AI 模型與長上下文（long-co"
         },
         {
-          "title": "HBM 吃掉 30% 資本支出、台積電 N3 產能逼近極限：SemiAnalysis 創辦人揭 AI 狂飆後半導體的真正瓶頸",
-          "link": "https://techorange.com/2026/03/16/semianalysis-dylan-patel/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-16T08:17:09+00:00",
-          "summary": "當外界以為 AI 競賽已從 H100 走向 Blackwell，舊一代 GPU 的價值應該隨時間下滑時，SemiAnalysis 創辦人 Dylan Patel 卻在近日受訪時，拋出一個反直覺的判斷：H100 今天的價值，可能比 3 年前還高。 Dylan Patel 指出，目前真正限制 AI 發展的，已經不只是模型能力，還有更底層的基礎建設，分別是邏輯晶片、記憶體與電力。同時，SemiAnaly"
+          "title": "2026 AI 資本支出迎來黃金交叉！Gartner 預測「AI 推理」投資將正式超越模型訓練",
+          "link": "https://techorange.com/2026/03/17/what-is-ai-inference/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-17T10:16:20+00:00",
+          "summary": "過去五年，AI 產業的競爭核心是誰能訓練出更大的模型。但現在，這個戰場正在快速轉移。根據《華爾街日報》報導，隨著企業開始大規模部署 AI 代理、將生成式 AI 工具導入實際業務流程，市場焦點已從「訓練模型」轉向「使用模型」，也就是所謂的「推理」（inference）。這代表 AI 正從研發競賽，進入商業化與規模化應用的新階段。 這個轉變，將反映在資本支出結構上。市場研究機構 Gartner 預測，"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "花蓮與農共好 邁向永續城市",
-          "link": "https://www.gvm.com.tw/article/128728",
-          "published": "2026-03-17T00:00:00",
-          "summary": "說到花蓮，想到友善農業。花蓮倚山臨海、幅員遼闊，擁有得天獨厚的自然資源、豐富多樣性的動植物生態以及多元族群文化，加上沒有工業污染，在在構成發展農業絕佳的先天優勢。臺灣1980年代推動有機農業以來，花蓮一直走在最前面。花蓮是全國唯二有機驗證面積超過3千公頃的縣市，全縣有機農耕面積達3,725公頃，占全臺五分之一，有機驗證農戶數逾783戶，永續農業與環境都是全國典範；論友善農作、休閒農業、環境永續各面"
+          "title": "跨國心理學研究發現台灣人最愛嚴以律己？內耗背後原因是「這3個字」",
+          "link": "https://www.gvm.com.tw/article/128775",
+          "published": "2026-03-17T20:19:00",
+          "summary": "最近一項跨文化研究，發現在儒家倫理觀念根深蒂固的台灣，人們深信「自我批評」是一股具有激勵效果的力量。在這個崇尚競爭與完美的時代，我們往往被教導要更努力、更成功、更出色，卻很少有人教我們——如何對自己慈悲。（本文節錄自《自我慈悲》一書，作者：克莉絲汀．聶夫，馬可孛羅出版，以下為摘文。）為什麼我們很難停止自責？或許比「渴望感覺良好」更令人費解的，是我們同樣強烈的自我批評傾向。正如英國小說家安東尼．鮑威"
         },
         {
-          "title": "讓全世界都憐愛：爆紅日本小猴Punch品種原來是「桃太郎跟班原型」",
-          "link": "https://www.gvm.com.tw/article/128741",
-          "published": "2026-03-16T18:31:00",
-          "summary": "日本市川市動植物園一隻幼猴「Punch」（亦讀Panchi、パンチくん、胖奇）因出生後遭母親遺棄，先由園方以人工方式飼育，後續在IKEA紅毛猩猩絨毛玩偶的陪伴下重返猴山區，努力適應猴群生活的勵志過程打動無數網友而在全球社群爆紅。Punch的品種其實是「日本獼猴」，據說桃太郎故事中的猴子跟班就是日本獼猴喔！（本文節錄自《令人大開眼界的猿猴圖鑑》一書，作者：日本猿猴中心，美藝學苑社出版，以下為摘文。）"
+          "title": "美軍一聲不響撤走韓國薩德！下一個輪到台灣？",
+          "link": "https://www.gvm.com.tw/article/128766",
+          "published": "2026-03-17T18:50:00",
+          "summary": "回望今年元月加拿大總理卡尼發出震聾發聵的警告：「不在餐桌上，就在菜單上」。這番話猶在耳邊，未料隨著美、以、伊三方戰火蔓延，他關於中等國家命運的預言，已在東亞冷酷現形。韓國斥資數十億美元採購的「薩德」（THAAD）與「愛國者」飛彈，美軍一聲不響就連夜運往中東。這項突襲不僅瞬間撕裂南韓的防空網，更是對卡尼「秩序斷裂論」最血淋淋的印證。人們不禁屏息：下一個會輪到台灣嗎？在強權博弈的棋局中，我們真的有說「"
         },
         {
-          "title": "竹科火災！「竹科重要供電設施」台電變電所竄濃煙，消防出動搶救",
-          "link": "https://www.gvm.com.tw/article/128737",
-          "published": "2026-03-16T17:50:00",
-          "summary": "新竹市科學園區力行路的台灣電力公司竹園超高壓變電所，今天下午3時許發生火警意外，現場火光伴隨大量黑煙冒出，情況一度危急，消防局派遣車組前往搶救，目前火勢仍在撲滅中。新竹市消防局指出，今天下午15時27分受理報案，指稱東區力行路18號「竹園超高壓變電所」傳出火警。消防局第一時間派遣中山、埔頂、光復、金山車組趕赴現場，隨後再加派二大隊、三民61及朝山61水庫車前往支援。現場目擊畫面顯示，變電所上方不斷"
+          "title": "愈內向愈成功的祕訣？Google媒體關係總監：建立人脈像耕作而非打獵",
+          "link": "https://www.gvm.com.tw/article/128770",
+          "published": "2026-03-17T18:48:00",
+          "summary": "許多內向者都覺得自己是職場社交苦手：「有目的性的交談感覺很假，交談是為了達到目的，而不是為了建立聯繫。」但是你卻不知道，「內向者」其實也能在社交上脫穎而出，因為內向者是優秀的傾聽者、具有超群的觀察力、都是「好奇寶寶」。（本文節錄自《越內向，越成功》一書，作者：凱倫•維克爾，商周出版，以下為摘文。）我們大多數人都把經營人脈視為雜務，是我們有所需要時才去執行的苦差事，好比說要找新工作、得到更好的職涯指"
         },
         {
-          "title": "「跳脫舒適圈」快變另類毒雞湯？心理師教你用「冒險」重建安全感",
-          "link": "https://www.gvm.com.tw/article/128740",
-          "published": "2026-03-16T17:43:00",
-          "summary": "當多數人認為心理諮商僅限於室內對談，諮商心理師徐堅璽卻帶領個案走進山林、攀上高樹，在汗水與挑戰中重新編織心靈。對他而言，心理工作的起點是重新審視一句人人掛在嘴邊的話：「跳脫舒適圈」。這句看似正向的勵志金句，在某些時刻，為何可能成為傷人的刀刃？徐堅璽指出，對曾受創傷的人來說，「舒適圈」並非懶散的溫床，而是費盡心力才築起的心理避風港。若一味要求受創者拋棄安全感，轉而跳向未知，無異於在傷口上補刀。他主張"
+          "title": "LINE付費訂閱制來了！瞄準換機焦慮與社交痛點，「LINE Premium」165元擁5大新功能",
+          "link": "https://www.gvm.com.tw/article/128769",
+          "published": "2026-03-17T18:31:00",
+          "summary": "作為台灣滲透率最高的通訊軟體，LINE在台灣不斷擴張版圖，如今服務橫跨企業服務、影視、電商與媒體等事業，其商業模式也即將在今年迎來重大轉變。LINE台灣執行長陳立人宣告，LINE的老本行通訊軟體付費訂閱制「LINE Premium」，繼日本、泰國後，即將在台灣上線。在今日（3/17）媒體春酒上，LINE台灣執行長陳立人表示，除了陸續推出AI行銷應用、完成LINE TV與KKTV的整合，以及下半年將"
         },
         {
-          "title": "批判性思考，AI時代最難被取代的能力",
-          "link": "https://www.gvm.com.tw/article/128710",
-          "published": "2026-03-16T17:11:00",
-          "summary": "「你知道嗎，生成式AI連 1+1=2都不會算！」再次採訪前麥肯錫顧問、台大熱門課程教授李聖珉，他用這句話做為開場。（本文作者為遠見天下文化「領導影響力學院」執行長）台灣大學熱門課程教授李聖珉解釋：大語言模型的知識全來自網路，1+1=2 這個答案之所以正確，不是因為它會算，而是因為網路上這個答案出現太多次，它判斷「這最有可能是對的」。本質上，它在做的是機率推斷，不是邏輯推理。「所以AI的邊界在哪裡？"
+          "title": "「輝達版龍蝦」NemoClaw來了！黃仁勳：讓OpenClaw更安全穩定",
+          "link": "https://www.gvm.com.tw/article/128768",
+          "published": "2026-03-17T18:25:00",
+          "summary": "輝達（NVIDIA）宣布推出適用於 OpenClaw 代理平台的 NVIDIA NemoClaw。輝達表示，NemoClaw僅需單一指令即可完成安裝，為安全、全天候運作的 AI 助理增添安全與隱私保護。黃仁勳形容，OpenClaw就像個人AI的作業系統，而NemoClaw則要把這股浪潮帶進企業環境。GTC 開發者大會主題演講中，輝達（Nvidia）執行長黃仁勳說，每間公司都需要一套可作為AI代理人"
         },
         {
-          "title": "竹科火災！台電竹園超高壓變電所火災釀2傷、1命危，台電：不影響竹科供電",
-          "link": "https://www.gvm.com.tw/article/128738",
-          "published": "2026-03-16T17:08:00",
-          "summary": "新竹市東區力行路上的台灣電力公司竹園超高壓變電所今天發生火警，竹市消防局說，現場一度傳出爆炸聲並冒出濃煙，有2人受傷、1人呈現OHCA（到院前心肺功能停止），均送醫。沈姓目擊民眾告訴中央社記者說，變電所上方不斷竄出漆黑濃煙，遮蔽園區半邊天空，而此處應為竹科重要供電設施，發生火警讓人憂心。新竹市消防局透過訊息指出，今天下午3時27分接獲民眾通報，在台電竹園超高壓變電所疑似發生爆炸並有煙火竄出，且不確"
+          "title": "2026最新旅遊補助出爐！地方加碼最高可領10000元，申請條件一次看",
+          "link": "https://www.gvm.com.tw/article/128767",
+          "published": "2026-03-17T18:20:00",
+          "summary": "經歷了近幾年的觀光轉型，為了解決國旅「假日人擠人、平日冷清清」的結構性困境，並進一步振興國內旅遊市場，2026年的「最新旅遊補助」正式報到！今年交通部觀光署不僅祭出史上最有感的「5大國旅補助方案」，主打平日出遊最高可疊加領取3200元；地方政府如高雄市也攜手連江縣，推出最高可領10000元的高雄馬祖團體旅遊補助計畫。身為精打細算的聰明旅客，該怎麼申請？有哪些條件限制？本篇為您整理了最完整的2026"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "熱線追蹤-梳理600年古籍探討氣候變化 - YouTube",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DdFh2nO7QCMg&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3gjIU8NyM13xIxwHFFFbvE",
-          "published": "2026-03-16T14:02:32+00:00",
-          "summary": "隨著極端氣候來臨，氣候研究備受關注，其中每年夏季侵襲的颱風，時常造成重大災害，但現代觀測資料，大多僅侷限於近百年，早期紀錄相對缺乏，使得颱風長期變化趨勢&nbsp;..."
+          "title": "智慧城市展覽今登場聚焦<b>淨零</b>排放與AI運用｜20260317 公視午間新聞 - YouTube",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D0gohLadr65g&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1Xd8dkwCkTvV7-QmY0eqGh",
+          "published": "2026-03-17T13:18:14+00:00",
+          "summary": "2026智慧城市論壇暨展覽今（17）日登場，各縣市得獎的作品觸及民眾日常食衣住行育樂，甚至觸角延伸到了民眾的健康，從能自動導航的無人養殖船，到協助醫師問診的AI&nbsp;..."
         },
         {
-          "title": "從國際舞臺回歸鄉土，在田野中奏響永續之聲    「大甲愛樂室內樂團」的返鄉實踐紀實",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://storystudio.tw/article/gushi/dajia-philharmonic-rice-paddy-concert-sustainability-net-zero&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2zirBQCajcCy5B5RQxsaOv",
-          "published": "2026-03-16T14:02:30+00:00",
-          "summary": "大甲愛樂室內樂團」就在這片地圖上搜尋不到的稻田間，舉行了一場專業的音樂演出。 從場地選擇到硬體搭設，樂團始終尊重自然氣候，貫徹永續低碳的理念，將環境保護與&nbsp;..."
+          "title": "打造城市主權AI 智慧暨<b>淨零</b>城市展開幕｜新聞快訊 - 永豐金證券",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/69b8fbf9b4c429633498b99c&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0I6wP1CtPntQj1R68r4Q63",
+          "published": "2026-03-17T13:02:12+00:00",
+          "summary": "隨後登場的「淨零城市國際峰會」主論壇，更吸引超過3,000位國內外貴賓與會。葉俊顯於致詞時表示，當前城市面臨氣候變遷衝擊與公共服務需求攀升的雙重壓力&nbsp;..."
         },
         {
-          "title": "當中東局勢衝擊油氣供應，台灣能源安全如何重新佈局？ - CSRone 永續智庫",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://csrone.com/news/9825&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3msZ7CQk83xDuYDDVjG-ug",
-          "published": "2026-03-16T13:45:20+00:00",
-          "summary": "2026年3 月11 日 台灣氣候行動網絡研究中心總監／國立臺灣大學氣候變遷與永續發展國際學位學程兼任助理教授趙家緯 ... Energy and Climate Change, 2, 100022. [2]&nbsp;..."
+          "title": "歐洲<b>淨零</b>轉型卡關城市創新與能源韌性成破局關鍵 - Yahoo股市",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%25AD%2590%25E6%25B4%25B2%25E6%25B7%25A8%25E9%259B%25B6%25E8%25BD%2589%25E5%259E%258B%25E5%258D%25A1%25E9%2597%259C-%25E5%259F%258E%25E5%25B8%2582%25E5%2589%25B5%25E6%2596%25B0%25E8%2588%2587%25E8%2583%25BD%25E6%25BA%2590%25E9%259F%258C%25E6%2580%25A7%25E6%2588%2590%25E7%25A0%25B4%25E5%25B1%2580%25E9%2597%259C%25E9%258D%25B5-122200701.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1I9St8-PMk8AjRVTR2_OJn",
+          "published": "2026-03-17T12:58:54+00:00",
+          "summary": "商傳媒｜葉安庭／綜合外電報導歐洲多年來被視為全球淨零轉型的重要領跑者，但在進入新階段後，挑戰已從「能否減碳」轉向「如何兼顧成長、安全與競爭力」。"
         },
         {
-          "title": "<b>氣候變遷</b>下小琉球罕見海龜冬季低溫卵窩有望成為海龜雄性稚龜的重要來源 - 墨新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://more-news.tw/553138/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1TjUQtbLxiv7aC8QNWPLNy",
-          "published": "2026-03-16T13:39:37+00:00",
-          "summary": "全球暖化持續改變海洋環境，海溫上升與季節變化對海龜繁殖行為的影響備受關注。海洋委員會海洋保育署表示，先前於小琉球蛤板灣紀錄到冬季母龜上岸產卵案例，&nbsp;..."
+          "title": "內政部攜手產業共築2050<b>淨零</b>願景 - Yahoo新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%2585%25A7%25E6%2594%25BF%25E9%2583%25A8%25E6%2594%259C%25E6%2589%258B%25E7%2594%25A2%25E6%25A5%25AD-%25E5%2585%25B1%25E7%25AF%25892050%25E6%25B7%25A8%25E9%259B%25B6%25E9%25A1%2598%25E6%2599%25AF-100900147.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3zNUYSjS1e5K2wSOQTwn-r",
+          "published": "2026-03-17T12:49:24+00:00",
+          "summary": "內政部展區也邀請多家領先企業共同參展，包括樺康智雲、冠軍建材、土星永續、豐譽工程、睿田能源、永達能源、中和製漆及潤弘精密工程等業者，分別在智慧建築、低碳&nbsp;..."
         },
         {
-          "title": "高雄市(2027-2028年)碳預算（草案）說明會 - 高雄市政府環境保護局",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ksepb.kcg.gov.tw/AuditAnnouncement/news%3FPageType%3D1%26id%3D7f3457ba-f731-4e38-af01-1d25066d790f&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3BhsXOxfAEi4Snp7WXyOYK",
-          "published": "2026-03-16T13:24:40+00:00",
-          "summary": "依據「高雄市淨零城市發展自治條例」第4條第2項第5款規定(略以)：「前款碳預算擬定前應邀集有關機關、學者、專家、民間團體舉辦座談會，或以其他適當方法廣&nbsp;..."
+          "title": "<b>淨零</b>城市展國發會：AI為減碳、強化韌性核心 - 中央社CNA",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/news/afe/202603170339.aspx&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw05RhtTKQ2Ww1tzh2_WJDQF",
+          "published": "2026-03-17T12:46:43+00:00",
+          "summary": "淨零城市展今天登場，國發會主委葉俊顯表示，面對氣候變遷衝擊日益加劇，唯有善用智慧科技，才能有效回應複雜挑戰，人工智慧（AI）不僅是提升治理效率的工具，&nbsp;..."
         },
         {
-          "title": "無懼極端氣候，自然界首次發現「進化拯救」物種 - TechNews 科技新報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://technews.tw/2026/03/16/evolution-save-under-extremely-climate/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2mnHoeuc5IYKk7bK8M7JET",
-          "published": "2026-03-16T13:20:17+00:00",
-          "summary": "至少對世代週期短的生物而言，答案是肯定的。最新的證據來自一種名為猩紅猴面花 (Mimulus cardinalis) 的野生植物，成功在 2012~2015 年加州遭受的特大乾旱中進化&nbsp;..."
+          "title": "歐洲<b>淨零</b>轉型卡關城市創新與能源韌性成破局關鍵 - 商傳媒",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://sunmedia.tw/news/finance/1773727113-%25E6%25AD%2590%25E6%25B4%25B2%25E6%25B7%25A8%25E9%259B%25B6%25E8%25BD%2589%25E5%259E%258B%25E5%258D%25A1%25E9%2597%259C-%25E5%259F%258E%25E5%25B8%2582%25E5%2589%25B5%25E6%2596%25B0%25E8%2588%2587%25E8%2583%25BD%25E6%25BA%2590%25E9%259F%258C%25E6%2580%25A7%25E6%2588%2590%25E7%25A0%25B4%25E5%25B1%2580%25E9%2597%259C%25E9%258D%25B5&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2fylhG9mQkTLF0lNKpOApF",
+          "published": "2026-03-17T12:40:32+00:00",
+          "summary": "在能源需求快速成長的背景下，資本正轉向能夠快速、可靠提供電力的領域，若缺乏創新和資金，單靠氣候目標將難以實現。 歐洲多年來被視為全球淨零轉型的重要領跑者，&nbsp;..."
         }
       ]
     }
