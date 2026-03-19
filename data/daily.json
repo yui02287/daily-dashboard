@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-03-18T03:40:17.419475+00:00",
-    "date": "2026-03-18",
+    "generated_at": "2026-03-19T03:40:13.828810+00:00",
+    "date": "2026-03-19",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "【超越釣魚信成最大破口】數位廣告將取代 Email 成為最大攻擊來源，企業該怎麼防禦？",
-          "link": "https://techorange.com/2026/03/18/malvertising-is-coming-for-your-browser/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-18T02:48:05+00:00",
-          "summary": "隨著企業長期將資安防護重心放在電子郵件與端點防護上，惡意軟體的傳播路徑卻正在悄然轉移。過去二十多年來，網路釣魚郵件與惡意附件一直是主要攻擊載體，但最新研究顯示，支撐開放網路運作的數位廣告基礎設施，正逐漸成為新的入侵入口。 進一步的數據也指出，惡意廣告在整體惡意軟體與網路釣魚活動中的占比已超過 60%，且透過程式化管道散布的惡意程式數量年增達 45%，顯示廣告生態系正快速成為攻擊者優先滲透的目標。 "
+          "title": "當好萊塢還在爭論 AI，Netflix 已先買下 AI 製片新創：不只為了省成本，更想提早卡位影劇 AI 工作流",
+          "link": "https://techorange.com/2026/03/19/netflix-interpositive/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-19T02:48:14+00:00",
+          "summary": "Netflix 共同執行長 Ted Sarandos 近日表示，在這個「媒體史上競爭最激烈的時代」，AI 的價值不在於讓內容變得更快、更便宜，而在於能否幫助影視作品變得更好。 與此同時，Netflix 近期收購了由知名演員兼導演 Ben Affleck 所創辦的 AI 製片技術公司 InterPositive，顯示 Netflix 希望進一步將 AI 相關技術納入平台布局的企圖心。這並非單純的內容"
         },
         {
-          "title": "鴻海人形機器人細節首度曝光！盤點 GTC 2026 台廠如何搶攻黃仁勳「實體 AI」商機",
-          "link": "https://techorange.com/2026/03/18/nvidia-gtc-robotics-taiwan/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-18T02:45:11+00:00",
-          "summary": "台灣廠商積極切入 AI 機器人供應鏈，在今年 NVIDIA GTC 展會上展示不少機器人相關解決方案，要加速 NVIDIA 執行長黃仁勳口中的「實體 AI」（Physical AI）落地，讓 AI 代理（AI Agent）從虛擬走向物理世界。 以下盤點鴻海、達明機器人、新漢、研華、英業達與益登等 6 家亮點廠商，在本次 GTC 的機器人相關技術布局。 鴻海：首度揭露在美工業級人形機器人細節 鴻海今"
+          "title": "【省下 50% 農藥成本】AgZen 靠電腦視覺與 AI，顛覆數百億美元的農業噴灑市場",
+          "link": "https://techorange.com/2026/03/19/agzen-demonstrated/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-19T02:39:02+00:00",
+          "summary": "長期以來，農民只能依靠個人經驗與粗略的操作準則，決定農藥的「每英畝施用量」，至於其中有多少比例真正接觸到植物葉面、發揮藥效，長期缺乏精準量化方式。 這種模糊性帶來的代價遠比想像中高昂。全球每年在農作物保護與噴灑上的支出達數百億美元規模，其中大量農藥因飄散、逕流或根本未能附著於葉面而白白流失，最終滲入土壤、進入河川，形成難以逆轉的環境污染。 農業噴灑從來就不是一項噴了就等同完成任務的工作，它牽涉作業"
         },
         {
-          "title": "輸送帶卡住誰來修？Walmart 結合 AI 與任務管理，打造敏捷人機協作倉儲現場",
-          "link": "https://techorange.com/2026/03/18/walmart-ai-digital-twins/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-18T00:04:00+00:00",
-          "summary": "全球零售巨頭 Walmart 正在進行密集的供應鏈自動化升級。目前全美共有 42 個區域配送中心（Regional Distribution Center, RDC），其中已有 23 個正進行自動化改造。隨著改造持續推進，公司目標是將所有配送中心升級為高度自動化設施。這些投資已逐步展現成效：目前其約 60% 的美國門市能夠接收來自自動化配送中心的貨物，而電商履約中心的訂單處理量也有約一半透過自動化"
+          "title": "【科技早餐】黃仁勳證實：NVIDIA 重啟中國 AI 晶片供應，H200 恢復接單",
+          "link": "https://techorange.com/2026/03/19/jensen-huang-says-china-approves-h200-ai-chip-sales/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-18T22:50:00+00:00",
+          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊NVIDIA 重啟中國 AI 晶片生產，H200 恢復接單 NVIDIA 執行長黃仁勳 (Jensen Huang) 在 GTC 會後記者會證實，公司已取得美國政府出口許可，重新啟動可銷往中國市場的 H200 晶片生產，並且已經開始接受訂單。他表示，和兩三週前相比，情況已經完全不同，供應鏈現在已經重新動起來。 另外，《路透社》報導，NVIDIA "
         },
         {
-          "title": "【科技早餐】黃仁勳在 GTC 一次攤開 AI 下一輪戰場：推論、代理、機器人全面啟動",
-          "link": "https://techorange.com/2026/03/18/nvidia-gtc-2026-jensen-huang-keynote/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-17T22:50:00+00:00",
-          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊黃仁勳完整攤牌 AI 下一步：從推論工廠、代理系統到機器人全面啟動 NVIDIA 執行長黃仁勳在 GTC 2026 主題演講中，把整場重心從大模型訓練，明確推向推論、代理型 AI、實體 AI 與 AI 工廠。他表示，過去兩年 AI 運算需求已暴增約 100 萬倍，而資料中心不再只是存放檔案的地方，而是生產代幣的工廠。黃仁勳也把先前對 AI 基礎設"
+          "title": "Mastercard 斥資 18 億美元收購 BVNK：拆解背後把穩定幣正式納入傳統支付軌道的關鍵盤算",
+          "link": "https://techorange.com/2026/03/18/mastercard-bvnk-stablecoin/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-18T10:21:23+00:00",
+          "summary": "Mastercard 近日宣布將以最高 18 億美元收購總部位於倫敦的穩定幣基礎設施新創 BVNK，交易預計於 2026 年底完成。Mastercard 表示，這筆交易的目的，是要把鏈上支付與法幣支付軌道緊密連接起來，讓企業與金融機構能更容易處理穩定幣、代幣化存款與其他數位資產相關的支付流程。 這筆交易超越了 Stripe 在 2025 年 2 月以 11 億美元收購 Bridge 的金額，成為加"
         },
         {
-          "title": "群聯發表 aiDAPTIV 多層級記憶體架構技術，重新定義邊緣 AI 推論能力",
-          "link": "https://techorange.com/2026/03/17/phison-nvidia-gtc-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-17T10:19:57+00:00",
-          "summary": "NAND 控制晶片暨 NAND 儲存解決方案整合服務領導廠商群聯電子 (Phison; 8299TT) 於今日 (2026/03/17) 宣布將於 GTC 展會 119 號攤位展示其 aiDAPTIVTM 多層級記憶體架構技術 (multi-tier memory architecture)，如何在由 NVIDIA 平台驅動的本地邊緣 AI 系統中，支援更大型 AI 模型與長上下文（long-co"
+          "title": "輝達 GTC 背後的兆元落地戰！新漢董座林茂昌：越強的雲端 AI 越需要邊緣 AI",
+          "link": "https://techorange.com/2026/03/18/gtc-2026-nexcom-robotics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-18T06:23:27+00:00",
+          "summary": "在 NVIDIA GTC 2026 上，執行長黃仁勳長達近兩個半小時的主題演講，釋出大量 AI 基礎設施與實體 AI（Physical AI）相關訊號。對於台灣 AI 機器人與邊緣 AI 業者而言，這更牽動著未來產業的發展方向。 在展會期間，《TechOrange》專訪邊緣運算與 AI 機器人公司新漢董事長林茂昌，從台廠角度解讀這場演講的關鍵意義，以及 AI 產業鏈的下一步。 NVIDIA「兆元美"
         },
         {
-          "title": "2026 AI 資本支出迎來黃金交叉！Gartner 預測「AI 推理」投資將正式超越模型訓練",
-          "link": "https://techorange.com/2026/03/17/what-is-ai-inference/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-17T10:16:20+00:00",
-          "summary": "過去五年，AI 產業的競爭核心是誰能訓練出更大的模型。但現在，這個戰場正在快速轉移。根據《華爾街日報》報導，隨著企業開始大規模部署 AI 代理、將生成式 AI 工具導入實際業務流程，市場焦點已從「訓練模型」轉向「使用模型」，也就是所謂的「推理」（inference）。這代表 AI 正從研發競賽，進入商業化與規模化應用的新階段。 這個轉變，將反映在資本支出結構上。市場研究機構 Gartner 預測，"
+          "title": "11 家科技巨頭為何罕見聯手？國際刑警組織示警：AI 正把金融詐騙推向工業化",
+          "link": "https://techorange.com/2026/03/18/tech-companies-scam-accord-google-meta-amazon/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-18T05:47:06+00:00",
+          "summary": "Google、Amazon、Meta、Microsoft、OpenAI 等 11 家科技巨頭近日簽署一項新的反詐協議，承諾分享詐騙者如何濫用其服務的威脅情報。 根據 FBI 統計，2024 年消費者因詐騙與網路犯罪造成的損失已超過 160 億美元，美國政府近期甚至發布行政命令，指示關鍵政府機構必須將打擊國際詐騙集團列為優先事項。同一時間，國際刑警組織（INTERPOL）在最新發布的《2026 Gl"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "跨國心理學研究發現台灣人最愛嚴以律己？內耗背後原因是「這3個字」",
-          "link": "https://www.gvm.com.tw/article/128775",
-          "published": "2026-03-17T20:19:00",
-          "summary": "最近一項跨文化研究，發現在儒家倫理觀念根深蒂固的台灣，人們深信「自我批評」是一股具有激勵效果的力量。在這個崇尚競爭與完美的時代，我們往往被教導要更努力、更成功、更出色，卻很少有人教我們——如何對自己慈悲。（本文節錄自《自我慈悲》一書，作者：克莉絲汀．聶夫，馬可孛羅出版，以下為摘文。）為什麼我們很難停止自責？或許比「渴望感覺良好」更令人費解的，是我們同樣強烈的自我批評傾向。正如英國小說家安東尼．鮑威"
+          "title": "「我曾以為努力就能被看見！」科技大廠前人資長揭職場真相：懂人，才能成事",
+          "link": "https://www.gvm.com.tw/article/128765",
+          "published": "2026-03-18T22:05:00",
+          "summary": "「走進職場之初，我曾經以為，只要努力，就能被看見。」鴻海富智康FIH的前人資長薛雅齡體悟：隨著腳步踏進跨國組織，與不同文化的團隊合作，一路從人資現場走進營運團隊、高層決策圈，甚至參與董事會的深度互動後，慢慢明白：光有努力，並不足以支撐一段長期而穩定的成長。（本文節錄自《啟動成就引擎》一書，作者：薛雅齡，時報出版，以下為摘文。）在高度變動的環境裡，真正需要的，不只是技能與經驗，更是一種能理解人心、連"
         },
         {
-          "title": "美軍一聲不響撤走韓國薩德！下一個輪到台灣？",
-          "link": "https://www.gvm.com.tw/article/128766",
-          "published": "2026-03-17T18:50:00",
-          "summary": "回望今年元月加拿大總理卡尼發出震聾發聵的警告：「不在餐桌上，就在菜單上」。這番話猶在耳邊，未料隨著美、以、伊三方戰火蔓延，他關於中等國家命運的預言，已在東亞冷酷現形。韓國斥資數十億美元採購的「薩德」（THAAD）與「愛國者」飛彈，美軍一聲不響就連夜運往中東。這項突襲不僅瞬間撕裂南韓的防空網，更是對卡尼「秩序斷裂論」最血淋淋的印證。人們不禁屏息：下一個會輪到台灣嗎？在強權博弈的棋局中，我們真的有說「"
+          "title": "萬金股王狂飆！信驊上演「同花順」驚奇大戲，高盛喊15000",
+          "link": "https://www.gvm.com.tw/article/128802",
+          "published": "2026-03-18T18:26:00",
+          "summary": "股王信驊（5274）漲停飆上12345元新天價，12345剛好湊了一個「同花順」，股民嘖嘖稱奇！大摩再喊出15000元目標價，「萬金股」信驊有何底氣，憑什麼一張股票換一間房子？台股今天又寫下歷史性的一頁，台股股王的信驊（5274）股價漲停飆上12345元新天價，上演了令市場驚呼的「同花順」戲碼，更精準呼應之前摩根史坦利給出的目標價12345元。然而，買一張股票超過1200萬，等於一間房子，讓信驊穩"
         },
         {
-          "title": "愈內向愈成功的祕訣？Google媒體關係總監：建立人脈像耕作而非打獵",
-          "link": "https://www.gvm.com.tw/article/128770",
-          "published": "2026-03-17T18:48:00",
-          "summary": "許多內向者都覺得自己是職場社交苦手：「有目的性的交談感覺很假，交談是為了達到目的，而不是為了建立聯繫。」但是你卻不知道，「內向者」其實也能在社交上脫穎而出，因為內向者是優秀的傾聽者、具有超群的觀察力、都是「好奇寶寶」。（本文節錄自《越內向，越成功》一書，作者：凱倫•維克爾，商周出版，以下為摘文。）我們大多數人都把經營人脈視為雜務，是我們有所需要時才去執行的苦差事，好比說要找新工作、得到更好的職涯指"
+          "title": "全球「AI減系潮」來襲！重寫高教版圖，你選對科系了嗎？",
+          "link": "https://www.gvm.com.tw/article/128801",
+          "published": "2026-03-18T18:02:00",
+          "summary": "AI對全球高等教育帶來的衝擊一波又一波，由於AI在短短兩年內，無論是生成文字、影音創作或是邏輯推理都快速且全面成熟，大學校園要面對的問題不再只是「如何使用AI」，而已是更殘酷的科系存亡。2026年3月，中國傳媒大學宣布一口氣裁撤16個科系，包括翻譯、攝影、漫畫及視覺傳達設計在內，其背後原因正是AI的強大。面臨AI時代的考驗，什麼科系受衝擊最重？各國情況如何？擔心「畢業即失業」的台灣學生，又該怎麼因"
         },
         {
-          "title": "LINE付費訂閱制來了！瞄準換機焦慮與社交痛點，「LINE Premium」165元擁5大新功能",
-          "link": "https://www.gvm.com.tw/article/128769",
-          "published": "2026-03-17T18:31:00",
-          "summary": "作為台灣滲透率最高的通訊軟體，LINE在台灣不斷擴張版圖，如今服務橫跨企業服務、影視、電商與媒體等事業，其商業模式也即將在今年迎來重大轉變。LINE台灣執行長陳立人宣告，LINE的老本行通訊軟體付費訂閱制「LINE Premium」，繼日本、泰國後，即將在台灣上線。在今日（3/17）媒體春酒上，LINE台灣執行長陳立人表示，除了陸續推出AI行銷應用、完成LINE TV與KKTV的整合，以及下半年將"
+          "title": "2026春假日韓旅遊神卡大評比：最高11%回饋！無腦刷、高回饋優缺點有哪些？",
+          "link": "https://www.gvm.com.tw/article/128800",
+          "published": "2026-03-18T17:42:00",
+          "summary": "隨著春假腳步逼近，日、韓無疑是國人出國度假的熱門首選。不過，2026年各家銀行的信用卡權益大洗牌，部分昔日神卡悄悄縮水，也誕生了許多新的回饋黑馬。為了讓大家在享受假期的同時守住荷包，本篇特別彙整了2026最新、最實用的日韓刷卡攻略，幫你快速找出最適合自己消費習慣的「出國神卡」。【目錄】&nbsp;• 2026日本旅遊刷卡比較• 2026韓國旅遊刷卡比較• 日韓行動支付推薦2026日本旅遊刷卡比較信"
         },
         {
-          "title": "「輝達版龍蝦」NemoClaw來了！黃仁勳：讓OpenClaw更安全穩定",
-          "link": "https://www.gvm.com.tw/article/128768",
-          "published": "2026-03-17T18:25:00",
-          "summary": "輝達（NVIDIA）宣布推出適用於 OpenClaw 代理平台的 NVIDIA NemoClaw。輝達表示，NemoClaw僅需單一指令即可完成安裝，為安全、全天候運作的 AI 助理增添安全與隱私保護。黃仁勳形容，OpenClaw就像個人AI的作業系統，而NemoClaw則要把這股浪潮帶進企業環境。GTC 開發者大會主題演講中，輝達（Nvidia）執行長黃仁勳說，每間公司都需要一套可作為AI代理人"
+          "title": "備戰九合一！藍白政黨合作協議拍板，「5大重點項目」有什麼？",
+          "link": "https://www.gvm.com.tw/article/128799",
+          "published": "2026-03-18T17:11:00",
+          "summary": "備戰2026九合一選舉，國民黨、民眾黨政黨合作協議今天拍板，民眾黨發言人張彤表示，在新北市、嘉義市、宜蘭縣的兩黨協商工作小組將馬上啟動，朝全民調的方向前進；至於民調樣本數、抽樣方式及加權方法等具體執行方式及細節，由雙方另行議定。台灣民眾黨透過新聞稿表示，為促進人民福祉、整合在野力量，民眾黨與國民黨經多次磋商，研擬「台灣民眾黨與中國國民黨2026年聯合治理暨地方選舉合作協議」，今天經民眾黨中央委員會"
         },
         {
-          "title": "2026最新旅遊補助出爐！地方加碼最高可領10000元，申請條件一次看",
-          "link": "https://www.gvm.com.tw/article/128767",
-          "published": "2026-03-17T18:20:00",
-          "summary": "經歷了近幾年的觀光轉型，為了解決國旅「假日人擠人、平日冷清清」的結構性困境，並進一步振興國內旅遊市場，2026年的「最新旅遊補助」正式報到！今年交通部觀光署不僅祭出史上最有感的「5大國旅補助方案」，主打平日出遊最高可疊加領取3200元；地方政府如高雄市也攜手連江縣，推出最高可領10000元的高雄馬祖團體旅遊補助計畫。身為精打細算的聰明旅客，該怎麼申請？有哪些條件限制？本篇為您整理了最完整的2026"
+          "title": "攻伊破口？反恐高官請辭「無法昧良心」，川普嗆他「不聰明」",
+          "link": "https://www.gvm.com.tw/article/128798",
+          "published": "2026-03-18T16:37:00",
+          "summary": "美國國家反恐中心主任肯特17日請辭，抗議對伊朗開戰，痛批決策受以色列及美國遊說集團誤導，且背離「美國優先」。川普反嗆肯特「國安立場軟弱、不聰明」。此舉凸顯MAGA 陣營內部分裂，知名保守派評論員卡爾森等名嘴轉向質疑外交路線，美國外交政策陷入信任危機。極右翼的美國國家反恐中心主任肯特（Joe Kent）17日宣布辭職，成為川普（Donald Trump）政府內部抗議伊朗戰爭的「第一槍」。45歲的肯特"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "智慧城市展覽今登場聚焦<b>淨零</b>排放與AI運用｜20260317 公視午間新聞 - YouTube",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D0gohLadr65g&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1Xd8dkwCkTvV7-QmY0eqGh",
-          "published": "2026-03-17T13:18:14+00:00",
-          "summary": "2026智慧城市論壇暨展覽今（17）日登場，各縣市得獎的作品觸及民眾日常食衣住行育樂，甚至觸角延伸到了民眾的健康，從能自動導航的無人養殖船，到協助醫師問診的AI&nbsp;..."
+          "title": "「2026智慧城市展暨<b>淨零</b>城市展」交流晚宴全球城市領袖齊聚對話 - 中央社",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/postwrite/chi/428365&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3kxYTsX_vd2xVu-lGZ3ZTK",
+          "published": "2026-03-18T14:17:50+00:00",
+          "summary": "經濟部龔明鑫部長、外交部林佳龍部長昨（17）日晚間於台北南港展覽館共同主持「2026智慧城市展暨淨零城市展－台灣之夜」交流晚宴，邀請來自全球20餘國中央部會&nbsp;..."
         },
         {
-          "title": "打造城市主權AI 智慧暨<b>淨零</b>城市展開幕｜新聞快訊 - 永豐金證券",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/69b8fbf9b4c429633498b99c&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0I6wP1CtPntQj1R68r4Q63",
-          "published": "2026-03-17T13:02:12+00:00",
-          "summary": "隨後登場的「淨零城市國際峰會」主論壇，更吸引超過3,000位國內外貴賓與會。葉俊顯於致詞時表示，當前城市面臨氣候變遷衝擊與公共服務需求攀升的雙重壓力&nbsp;..."
+          "title": "AI<b>淨零</b>／碩達捐永續<b>淨零</b>平台助東吳大學掌握碳排熱點 - 中央社",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/news/ahel/202603180274.aspx&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2fU9z2pEO0jbSE7KPZkFvB",
+          "published": "2026-03-18T13:51:53+00:00",
+          "summary": "碩達系統捐贈「N-Cour永續淨零平台」給東吳大學，協助東吳推動「智慧淨零校園」，從依賴人工表單的作業模式，轉型為系統化、數據化的治理，精準掌握碳排熱點。"
         },
         {
-          "title": "歐洲<b>淨零</b>轉型卡關城市創新與能源韌性成破局關鍵 - Yahoo股市",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%25AD%2590%25E6%25B4%25B2%25E6%25B7%25A8%25E9%259B%25B6%25E8%25BD%2589%25E5%259E%258B%25E5%258D%25A1%25E9%2597%259C-%25E5%259F%258E%25E5%25B8%2582%25E5%2589%25B5%25E6%2596%25B0%25E8%2588%2587%25E8%2583%25BD%25E6%25BA%2590%25E9%259F%258C%25E6%2580%25A7%25E6%2588%2590%25E7%25A0%25B4%25E5%25B1%2580%25E9%2597%259C%25E9%258D%25B5-122200701.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1I9St8-PMk8AjRVTR2_OJn",
-          "published": "2026-03-17T12:58:54+00:00",
-          "summary": "商傳媒｜葉安庭／綜合外電報導歐洲多年來被視為全球淨零轉型的重要領跑者，但在進入新階段後，挑戰已從「能否減碳」轉向「如何兼顧成長、安全與競爭力」。"
+          "title": "政府的氣候變化計劃被提交至高等法院審理| 新西蘭 - 大紀元",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.epochtimes.com/b5/26/3/18/n14721857.htm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0x8AVn2rOPcV3DGtTFQypQ",
+          "published": "2026-03-18T13:36:29+00:00",
+          "summary": "目前的目標包括：到2050年實現二氧化碳及其它長期溫室氣體淨零排放；到2050年將甲烷排放量比2017年水平減少14%至24%。 此外，還有一個2030年階段性目標&nbsp;..."
         },
         {
-          "title": "內政部攜手產業共築2050<b>淨零</b>願景 - Yahoo新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%2585%25A7%25E6%2594%25BF%25E9%2583%25A8%25E6%2594%259C%25E6%2589%258B%25E7%2594%25A2%25E6%25A5%25AD-%25E5%2585%25B1%25E7%25AF%25892050%25E6%25B7%25A8%25E9%259B%25B6%25E9%25A1%2598%25E6%2599%25AF-100900147.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3zNUYSjS1e5K2wSOQTwn-r",
-          "published": "2026-03-17T12:49:24+00:00",
-          "summary": "內政部展區也邀請多家領先企業共同參展，包括樺康智雲、冠軍建材、土星永續、豐譽工程、睿田能源、永達能源、中和製漆及潤弘精密工程等業者，分別在智慧建築、低碳&nbsp;..."
+          "title": "經濟部產業技術司「智慧城市暨<b>淨零</b>城市展」推出8大科技亮點 - MoneyDJ理財網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D13acaeb0-0d52-4b62-9cec-da814fd9e828&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3JW33LoJu8ForpPQzGGwqz",
+          "published": "2026-03-18T13:34:11+00:00",
+          "summary": "此外，針對現代人最在意的網路速度與算力，現場也將展出臺灣首款「1.6 Tbps矽光子光引擎模組」。這項被譽為「AI算力心臟」的技術，效能已達國際最高水準，能大幅提升&nbsp;..."
         },
         {
-          "title": "<b>淨零</b>城市展國發會：AI為減碳、強化韌性核心 - 中央社CNA",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/news/afe/202603170339.aspx&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw05RhtTKQ2Ww1tzh2_WJDQF",
-          "published": "2026-03-17T12:46:43+00:00",
-          "summary": "淨零城市展今天登場，國發會主委葉俊顯表示，面對氣候變遷衝擊日益加劇，唯有善用智慧科技，才能有效回應複雜挑戰，人工智慧（AI）不僅是提升治理效率的工具，&nbsp;..."
+          "title": "海狸築壩助力碳儲存成應對<b>氣候變遷</b>新希望| GeneOnline News",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://geneonline.news/%25E6%25B5%25B7%25E7%258B%25B8%25E7%25AF%2589%25E5%25A3%25A9%25E5%258A%25A9%25E5%258A%259B%25E7%25A2%25B3%25E5%2584%25B2%25E5%25AD%2598%25E6%2588%2590%25E6%2587%2589%25E5%25B0%258D%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E6%2596%25B0%25E5%25B8%258C%25E6%259C%259B/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1kA-yzqpXM9vI5Gk-k1gO-",
+          "published": "2026-03-18T13:08:15+00:00",
+          "summary": "海狸，這種以築壩聞名的嚙齒動物，正逐漸被科學家們視為應對氣候變遷的潛在盟友。最新的研究顯示，海狸透過改造河道，"
         },
         {
-          "title": "歐洲<b>淨零</b>轉型卡關城市創新與能源韌性成破局關鍵 - 商傳媒",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://sunmedia.tw/news/finance/1773727113-%25E6%25AD%2590%25E6%25B4%25B2%25E6%25B7%25A8%25E9%259B%25B6%25E8%25BD%2589%25E5%259E%258B%25E5%258D%25A1%25E9%2597%259C-%25E5%259F%258E%25E5%25B8%2582%25E5%2589%25B5%25E6%2596%25B0%25E8%2588%2587%25E8%2583%25BD%25E6%25BA%2590%25E9%259F%258C%25E6%2580%25A7%25E6%2588%2590%25E7%25A0%25B4%25E5%25B1%2580%25E9%2597%259C%25E9%258D%25B5&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2fylhG9mQkTLF0lNKpOApF",
-          "published": "2026-03-17T12:40:32+00:00",
-          "summary": "在能源需求快速成長的背景下，資本正轉向能夠快速、可靠提供電力的領域，若缺乏創新和資金，單靠氣候目標將難以實現。 歐洲多年來被視為全球淨零轉型的重要領跑者，&nbsp;..."
+          "title": "領航數位綠色雙軸轉型鈺祥企業2026智慧城市展展現<b>淨零</b>循環實力 - 鉅亨網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6388929&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw24RnAmB1Z-Gc9iznHsctEa",
+          "published": "2026-03-18T13:00:55+00:00",
+          "summary": "此項技術不僅定義了綠色過濾新標準，更成功取代傳統一次性濾網，讓廢棄物減量與碳中和不再只是口號。 隨著2050 淨零碳排成為全球共識，智慧城市展（SCSE）自2023 年&nbsp;..."
         }
       ]
     }
