@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-03-20T03:30:16.693338+00:00",
-    "date": "2026-03-20",
+    "generated_at": "2026-03-21T03:21:58.144398+00:00",
+    "date": "2026-03-21",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "【亞馬遜發起內部重組】力抗微軟、Google，AWS 諮詢部門朝 AI 轉型要搶回企業大單",
-          "link": "https://techorange.com/2026/03/20/amazon-aws-professional-services-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-20T02:52:02+00:00",
-          "summary": "在 AI 時代下，亞馬遜 AWS 正在發起近年來最具野心的內部轉型，透過重組擁有上千名員工的專業服務與諮詢部門，全面投入人工智慧領域。"
+          "title": "【Google 雲端威脅展望報告】攻擊空窗期縮至數天，企業如何轉向「自動化調度」確保營運韌性？",
+          "link": "https://techorange.com/2026/03/21/cloud-threat/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-20T22:29:00+00:00",
+          "summary": "企業對雲端的依賴持續加深，但攻擊者的行動速度與策略也正在同步升級。Google Cloud 最新發布的《Cloud Threat Horizons Report H1 2026》報告顯示，資安風險已不再只是技術問題，而是牽動營運穩定與決策節奏的關鍵變數。 從入侵手法的轉移、資料外洩模式的變化，到攻擊逐步滲透開發流程與雲端基礎設施，整體威脅輪廓正出現明顯重組。這份報告的價值不在於單一數據，而在於揭示"
         },
         {
-          "title": "【零售 AI 戰線升級】Walmart 不只要把自家 AI 聊天機器人送進 ChatGPT，還要讓 AI 輔助定價",
-          "link": "https://techorange.com/2026/03/20/walmart-secures-machine-learning-patents-for-pricing-items/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-20T02:28:48+00:00",
-          "summary": "從 2025 年 11 月起，Walmart 讓部分 ChatGPT 用戶可以直接在 OpenAI 聊天介面中購買部分商品，不必離開對話視窗，當時約有 20 萬項商品可直接在對話回覆中顯示並下單。 OpenAI 原先希望透過 ChatGPT 內的購買抽成來增加營收，並與 Walmart、Etsy 等零售商合作推出名為 Instant Checkout 的代理商務（agentic commerce）"
+          "title": "Uber 為何押注尚未量產的 Rivian R2？一場 12.5 億美元合作揭開 Robotaxi 新戰局",
+          "link": "https://techorange.com/2026/03/20/uber-rivian-robotaxi-investment-deal/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-20T09:05:10+00:00",
+          "summary": "Uber 與 Rivian 近日宣布一項總額最高 12.5 億美元的合作，雙方將以 Rivian 尚未量產的 R2 平台布局 Robotaxi 車隊。這筆交易也被視為 Uber 在 2020 年出售旗下自駕部門 ATG（Advanced Technologies Group）六年後，再度明確推進「自己營運 Robotaxi」的方向。 根據已公開的規劃，Uber 將先投資 3 億美元、部署 1 萬台"
         },
         {
-          "title": "【科技早餐】美光營收暴增近 2 倍，記憶體正式成為 AI 戰略資產",
-          "link": "https://techorange.com/2026/03/20/micron-2026-q2-revenue-double/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-19T22:50:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊美光營收暴增近 2 倍，AI 記憶體供給更緊了 美光（Micron）公布截至 2 月底的 2026 會計年度第二季財報，受惠 AI 帶動 HBM 與 DRAM 需求升溫，單季營收達 238.6 億美元，年增 196%；淨利達 138 億美元，年增 770%；毛利率則由去年同期的 36.8% 大幅升至 74.4%，表現明顯優於市場預期。 美光董事長"
+          "title": "亞馬遜收購 Rivr：用會爬樓梯的送貨機器人，瞄準物流最後一哩痛點",
+          "link": "https://techorange.com/2026/03/20/amazon-startup-rivr-test-robots-delivery/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-20T08:40:09+00:00",
+          "summary": "這筆交易最初由《The Information》率先披露。綜合外媒報導，亞馬遜已於本週低調收購總部位於蘇黎世、前身為 Swiss-Mile 的瑞士機器人公司 Rivr，該公司專門研發能「送貨上門」的機器人，而亞馬遜最初並未對外聲張此收購案。 機器人大軍再升級！亞馬遜望提升配送效率與安全 Rivr 執行長兼創辦人 Marko Bjelonic 形容自家機器人是「穿著滑輪鞋的狗」，核心技術是四輪爬樓梯"
         },
         {
-          "title": "AI Agent 支付戰開打！Stripe 推 MPP、Coinbase 擴大佈局 x402，搶當下一代網路交易底層",
-          "link": "https://techorange.com/2026/03/19/ai-agent-stripe-mpp-coinbase-x402/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-19T09:53:50+00:00",
-          "summary": "金融科技巨頭 Stripe 聯手其孵化的區塊鏈新創 Tempo，在 3 月 18 日推出 Machine Payments Protocol（MPP），並宣布 Tempo 區塊鏈主網正式上線。這代表，AI Agent 支付正從想像中的應用場景，走入基礎設施階段。另一方面，加密貨幣交易所 Coinbase 也正加速打造讓 AI Agent 能夠付款的底層能力，並將 AI 代理支付（Agentic p"
+          "title": "【創業。天使。趴- t.Hub 的榮耀專場！】從 0 到 IPO 實戰專場！想募資？拚公發？尋找下一匹黑馬？",
+          "link": "https://techorange.com/2026/03/20/t-hub-event/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-20T06:38:43+00:00",
+          "summary": "t. Hub 宏匯集團內科創新基地訂下星期三（3/25），下午三點，舉辦三月份的「創業。天使。趴」邀請進駐基地的優質團隊發表，與專業的投資機構及企業一對一媒合交流。 甫上任的執行長蘇拾忠說：「我一月來 t. Hub 就發現這裡臥虎藏龍、高手如雲。所以我把我們三月份的活動聚焦推薦 t. Hub 的優質團隊給我熟悉的投資圈。」 3/25 下午的活動，發表的廠商包括：【關鍵 300 秒】的台灣智能機器人"
         },
         {
-          "title": "48小時就能開公司？歐盟推「EU Inc」力抗矽谷吸金力，讓創業不必跑 27 國",
-          "link": "https://techorange.com/2026/03/19/eu-inc-innovation-startup-creation/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-19T08:58:44+00:00",
-          "summary": "《Reuters》報導， 歐盟提出新提案，允許企業在最短48小時內完成設立，並依據規範在27個成員國範圍內營運，以縮小歐洲與美國在新創企業上的差距。 推新制度防人才與新創企業外流，歐盟加速強化競爭力 這項提案是歐盟提升區域競爭力的一環，目的在於減少人才與新創企業流向美國，因為許多歐洲新創企業為了進入更大的市場，往往選擇在美國註冊企業，以享受公司法規的便利。 《Reuters》提及，新提出的 EU "
+          "title": "AI 寫程式更便宜了？Cursor 推 Composer 2，正面挑戰 OpenAI 與 Anthropic",
+          "link": "https://techorange.com/2026/03/20/ai-coding-startup-cursor-new-model-anthropic-openai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-20T06:34:30+00:00",
+          "summary": "AI 程式開發新創 Cursor 正計劃推出一款更高效率的 AI 模型，藉此與 Anthropic PBC、OpenAI 等 AI 巨頭展開競爭。 Composer 2 登場：專注程式開發、低成本 AI 代理 《Bloomberg》報導，Cursor 預計發布名為「Composer 2」的新產品。這款 AI 代理工具能替使用者執行長時間的程式撰寫任務。Cursor 共同創辦人兼研究負責人 Aman"
         },
         {
-          "title": "iPhone 安全神話遭挑戰：駭客工具擴散，多國用戶與加密貨幣成攻擊目標",
-          "link": "https://techorange.com/2026/03/19/apple-iphone-users-update-software-hacking-google/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-19T05:37:55+00:00",
-          "summary": "《NBCNews》報導，根據最新資安研究，俄羅斯情報機構、中國網路犯罪集團及其他駭客，正利用 DarkSword 與 Coruna 的工具，入侵使用舊版 iOS 系統的 iPhone。這些工具屬於漏洞利用工具（exploit kits），Google 與資安公司 iVerify、Lookout 揭露，這可能讓駭客遠端存取受害者手機，並檢索其中資料。 DarkSword 能「看光一切」？隱蔽攻擊讓用"
+          "title": "OpenAI 為何搶買 Astral？真正想掌握的不只是模型，而是開發者工作流",
+          "link": "https://techorange.com/2026/03/20/openai-to-acquire-python-startup-astral-expanding-push-into-coding/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-20T04:11:54+00:00",
+          "summary": "OpenAI 宣布將收購 Python 工具新創公司 Astral。交易完成後，Astral 團隊將加入 OpenAI 的 Codex 部門，旗下開源工具也將在 OpenAI 的支持下持續發展。這起收購被視為 OpenAI 在快速成長的程式開發與開發者服務市場中的最新戰略布局，目標不僅是強化 AI 寫程式的能力，更是為了將 Codex 推向更廣泛的開發者基礎設施平台。 Astral 旗下擁有三大核"
         }
       ]
     },
@@ -54,47 +54,84 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "3/20土地公生日頭牙補財庫：拜拜也有先後順序！別對神明失禮才有好運",
-          "link": "https://www.gvm.com.tw/article/54848",
-          "published": "2026-03-19T19:59:00",
-          "summary": "3/20（農曆2/2）頭牙土地公生日適逢春分節氣，是求財運、事業運的最佳日期：一般進廟的拜拜，最講究的還是誠意與心意！所謂「心誠則靈」是適用於各種宗教的通理。（本文節錄自《台灣多奇廟，遊出好運道》一書，楊逢元著，時報出版。）那麼，什麼是「誠意」？廣義來說就是拜拜的禮儀，行禮如儀、進退有據，旨在展現對神明的尊敬與謙卑。什麼是「心意」？廣義來說是拜拜的供品，像是牲禮、水果、糕餅、香燭及金箔等，以此做為"
+          "title": "伊朗石油與台灣半導體：資源詛咒或戰略優勢",
+          "link": "https://www.gvm.com.tw/article/128853",
+          "published": "2026-03-20T18:32:00",
+          "summary": "編按：石油與半導體，分別形塑了伊朗與台灣的國家命運，一個因資源陷入地緣政治風暴，一個憑科技站上全球供應鏈核心。從歷史脈絡觀察，兩者如何在不同時代面對大國競逐與發展選擇，值得深入理解。歷史有時不是從戰爭開始，而是從一個看似微不足道的商業契約開始。1901年，一個英國商人敲開了波斯王宮的大門。他名叫威廉．諾克斯．達西（William Knox D'Arcy），是一位在世界各地尋找石油的投資者。當時的波"
         },
         {
-          "title": "44歲中年男子尾道日記：景色更美的地方很多，我為何愛上「這小鎮」",
-          "link": "https://www.gvm.com.tw/article/128823",
-          "published": "2026-03-19T19:28:00",
-          "summary": "我想，尾道是一個這樣的地方，努力不一定用在拚命成功，而是怎樣更幽默。如果人生是場馬拉松，有人的成功是站上頒獎台，有人的成功是「直到最後都沒有用走的」，而在這裡的我覺得，多快多慢，都沒關係，如果跑累了，就停下來休息，用散步的也可以。看看風景，伸伸懶腰，不一定要走到終點呢。（本文節錄自《思考人生大哉問的早上醒來就要去買菜》一書，作者：劉揚銘，堡壘文化出版，以下為摘文。）要是你問我來這裡幹嘛，最簡單的說"
+          "title": "中國2027不攻台了？美情報直指「北京避免動武」，葛來儀點出原因",
+          "link": "https://www.gvm.com.tw/article/128852",
+          "published": "2026-03-20T17:53:00",
+          "summary": "美國國家情報總監辦公室最新報告指出，中國未規劃於2027年攻台，亦無統一明確時程。儘管持續強化軍力，北京仍傾向避免動武，主因在於兩棲作戰風險高、國際干預變數大，以及經濟代價沉重。專家葛來儀也認為，中國短期較可能採取審慎觀望策略，未來幾年內不太可能對台灣採取軍事行動。根據美國國家情報總監辦公室（ODNI）18日發布《2026美國情報界年度威脅評估》（2026 Annual Threat Assess"
         },
         {
-          "title": "物價飆漲47％怎麼活？看當年台灣如何熬過通膨",
-          "link": "https://www.gvm.com.tw/article/128820",
-          "published": "2026-03-19T18:52:00",
-          "summary": "消費者物價指數（CPI）2％就讓大家叫苦連天，但1973年第一次石油危機席捲全球時，台灣的物價曾飆升至47.5％！面對高通膨壓力，當時的政府非但未緊縮，反而逆勢祭出「一次漲足」的猛藥，更大舉籌錢推動「十大建設」。看似冒險的舉措，不僅迅速穩定物價，更為台灣的經濟奇蹟奠定基石。在能源威脅再起的今日，這場半世紀前的決策智慧，無疑為現代治理提供了一帖參考藥方。美以伊戰爭自2月28日開打以來，毫無停戰跡象，"
+          "title": "大學申請，二階書審怎麼準備？頂大教授：AI請聰明用、排版會加分",
+          "link": "https://www.gvm.com.tw/article/128596",
+          "published": "2026-03-20T17:44:00",
+          "summary": "隨著115學年度學測成績公布，高中生們紛紛進入大學申請入學的第二階段，也就是至關重要的「學習歷程檔案」書審與面試環節。面對各校系不同的要求，許多學生與家長深感焦慮，究竟頂尖大學的教授們，在審查申請入學資料時，最看重什麼？用AI幫忙生成可以嗎？考生該如何在書審脫穎而出？有無最佳範本可參考？《遠見》特別採訪多位國內頂大教授，提供第一手觀察。建議學習歷程檔案清晰條列，切忌「流水帳」台灣大學生化科技學系研"
         },
         {
-          "title": "升主管好開心？美國商管大師：5件領導者無法逃避的「苦差事」",
-          "link": "https://www.gvm.com.tw/article/128822",
-          "published": "2026-03-19T18:45:00",
-          "summary": "成為主管好開心，從此工作部屬做、責任不用扛？小心！你把當主管想得太過輕鬆美好了。身為主管，在職場上除了展現專業能力之外，更重要的是管理能力。許多主管都在迴避管理職責，以致於讓原本可以達到90分的團隊，一直交出60分的成績單。（本文節錄自《不逃避的領導力》一書，作者：派屈克．蘭奇歐尼，樂金文化出版，以下為摘文。）主管苦差事1：發展領導團隊我幾乎每一個領導者都會在口頭上支持建立主管團隊的重要性，這也是"
+          "title": "《高雄有顆藍寶石》帶著觀眾回到豬哥亮的黃金年代！見證秀場文化的燦爛傳奇",
+          "link": "https://www.gvm.com.tw/article/128851",
+          "published": "2026-03-20T17:32:00",
+          "summary": "紀錄片電影《高雄有顆藍寶石》由楊力州執導，不僅以擬真AI技術復活秀場天王豬哥亮，更帶領觀眾回到曾紅遍全台的「藍寶石大歌廳」年代。金馬獎導演楊力州最新紀錄片電影《高雄有顆藍寶石》，即將正式和觀眾見面，主視覺海報以其極具戲劇張力的筆觸，重現當年秀場舞台的當紅巨星，畫面中匯聚豬哥亮、高凌風、賀一航、羅霈穎、鳳飛飛、許不了、林沖等巨星身影，濃縮出70、80年代南台灣最璀璨的娛樂記憶。《高雄有顆藍寶石》不僅"
         },
         {
-          "title": "央行利率連8凍、信用管制鬆綁！自然人第2戶貸款成數上限放寬至六成",
-          "link": "https://www.gvm.com.tw/article/128819",
-          "published": "2026-03-19T17:00:00",
-          "summary": "中央銀行今天理監事會決議政策利率維持不變，符合預期，但放寬房市管制，出乎市場意料。央行指出，基於3大原因考量之下，適度調整全國自然人第2戶購屋貸款的成數上限，由5成調升為6成，新措施將於3月20日起實施。央行決議利率「連8凍」，重貼現率、擔保放款融通利率及短期融通利率，分別維持年息2%、2.375%及4.25%。房市管制方面，央行指出，全體銀行不動產貸款占總放款比率（不動產貸款集中度）從2024年"
+          "title": "你吃的苦瓜胜肽有活性定量嗎？苦瓜胜肽挑選指南",
+          "link": "https://www.gvm.com.tw/article/128848",
+          "published": "2026-03-20T17:13:00",
+          "summary": "根據國健署調查，台灣糖尿病前期族群龐大且有年輕化趨勢，但絕大多數人毫無警覺；其實中午吃的滷肉飯、下午喝的珍珠奶茶，還有久坐辦公室的生活常態，都是釀成代謝危機的無聲殺手！因此，越來越多人把苦瓜胜肽當作澱粉醣類的餐前管理工具，但在選購前，不妨先看看苦瓜胜肽推薦指南，認識什麼是苦瓜胜肽。目錄1.苦瓜胜肽是什麼？跟直接吃苦瓜有什麼差別？2.苦瓜胜肽的四大功效3.苦瓜胜肽適合補充的6大族群4.何時吃苦瓜胜肽"
         },
         {
-          "title": "全球自由度報告：台灣93分亞洲第2、美國跌至81分與南非同分",
-          "link": "https://www.gvm.com.tw/article/128818",
-          "published": "2026-03-19T16:48:00",
-          "summary": "美國倡議團體「自由之家」今天表示，隨著美國總統川普積極行使行政權力，美國在總分100分中滑落到81分，為自50多年前開始評比以來最低分。台灣獲得93分，在亞洲僅次於日本。法新社報導，總部設於華府的「自由之家」（Freedom House）表示，2025年全球自由度連續第20年下滑，稱這是「令人沉痛的里程碑」。美國仍被列為「自由」國家，但分數滑落到100分中的81分，為自1972年發布報告以來的最低"
+          "title": "貓會做夢嗎？獸醫爆料貓夢8大真相：「別以為牠會夢到主人」",
+          "link": "https://www.gvm.com.tw/article/128812",
+          "published": "2026-03-20T17:05:00",
+          "summary": "以下場景曾經出現在你家嗎？某個半夜被一陣奇怪的聲響吵醒，打開房門，只見愛貓四肢小抽搐、尾巴會抖動、嘴裡還發出輕微咕嚕聲，眼皮卻緊閉。是癲癇？還是牠的身體出問題？動物科學家、獸醫和飼主的經驗會告訴你，愛貓可能是在做夢。而且牠們不但會做夢，還會做惡夢，偶爾春夢也會造訪。總之在睡夢中，貓的小腦袋很可能正在「追片」──牠一天的生活片段。貓夢有貓膩 1：貓也有快速動眼睡眠（REM）。根據法國神經科學家米歇爾"
         }
       ]
     },
     {
       "feed_name": "Google Alert - 氣候變遷 OR 碳中和 OR 淨零 OR \"Climate change\" OR \"carbon neutrality\" OR \"net zero\"",
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
-      "items": []
+      "items": [
+        {
+          "title": "「環境部<b>淨零</b>綠領人才培育課程」首推勞工專班在職勞工最多可享全額12000元學費補助",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/page/3b3c62c78849f32f/81f2e4c3-e2dc-4d54-ad50-b49f3ca4b3db&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0VnFD1MhqkOyOCz8VVGiaq",
+          "published": "2026-03-21T02:02:42+00:00",
+          "summary": "雲科大主辦本次勞工專班的江鴻龍教授指出，學員報名反應極為熱烈，40位名額開放報名不到一週即額滿，顯見基層勞工對淨零政策與專業技能的高度需求。據統計，本屆學員&nbsp;..."
+        },
+        {
+          "title": "渣打報告：全球仍需注資6.5兆美元推動循環經濟 - 台視",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ttv.com.tw/finance/view/03202621062994343F53A571467298A66B6A6FC13AA578A8/587&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0PvCYjp8fug9xv1CQivLWT",
+          "published": "2026-03-21T00:21:41+00:00",
+          "summary": "... 氣候變遷的重點策略，但驅動循環經濟的資金需求仍有極大缺口，預估至2035年 ... 淨零碳排不可或缺的一環，強化循環經濟作為減碳與自然解方的策略定位&nbsp;..."
+        },
+        {
+          "title": "台灣港務公司參與智慧城市展期打造智慧港口 - MSN",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/news/national/%25E5%258F%25B0%25E7%2581%25A3%25E6%25B8%25AF%25E5%258B%2599%25E5%2585%25AC%25E5%258F%25B8%25E5%258F%2583%25E8%2588%2587%25E6%2599%25BA%25E6%2585%25A7%25E5%259F%258E%25E5%25B8%2582%25E5%25B1%2595%25E6%259C%259F%25E6%2589%2593%25E9%2580%25A0%25E6%2599%25BA%25E6%2585%25A7%25E6%25B8%25AF%25E5%258F%25A3/ar-AA1YTjcL%3Fapiversion%3Dv2%26domshim%3D1%26noservercache%3D1%26noservertelemetry%3D1%26batchservertelemetry%3D1%26renderwebcomponents%3D1%26wcseo%3D1&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3lnKWvnwhzYMGdszm7V3tA",
+          "published": "2026-03-20T23:50:26+00:00",
+          "summary": "[NOWnews今日新聞]台灣港務公司於17日至20日，參加在台北市南港展覽館2館所舉辦的2026智慧城市展及淨零城市展，以AI科技守護港灣安全，期打造智慧永續港口。"
+        },
+        {
+          "title": "渣打報告：全球仍需注資6.5兆美元推動循環經濟- 新聞- MoneyDJ理財網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/z/DJA/News/DJANewsDetail_315479DE-E6E7-4D3E-ACCA-1F7D399C69EC.djhtm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0O5ASTqE_vvLcaazLLVejS",
+          "published": "2026-03-20T22:47:36+00:00",
+          "summary": "渣打集團昨(20)日發布「2026循環經濟金融驅動力」報告並指出，循環經濟(Circular Economy)逐漸成為全球推動永續發展與因應氣候變遷 ... 淨零碳排不可或缺的&nbsp;..."
+        },
+        {
+          "title": "特朗普拒絕向伊朗停火稱霍爾木茲海峽最終能恢復通行 - AASTOCKS.com",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.aastocks.com/tc/stocks/news/aafn-news/NOW.1511071/2&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw36aHrJwEcUOm9VXUxMiG30",
+          "published": "2026-03-20T20:18:31+00:00",
+          "summary": "相關內容中國碳中和(01372.HK)擬於東盟市場開展碳中和業務 他同時批評軍事盟友未有協助疏通霍爾木茲海峽，包括北大西洋公約組織成員國和中國，指相關國家未&nbsp;..."
+        },
+        {
+          "title": "<b>Net-zero</b> innovations take center stage at Taiwan tech expo#智慧城市展#<b>淨零</b>解方#SHORTS",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DfsFCFH8wrDY&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3jOYRiPu2C3mxihINixnk_",
+          "published": "2026-03-20T19:25:38+00:00",
+          "summary": "The 2026 Smart City Summit &amp; Expo in Taipei highlights Taiwan's strides in smart tech and net-zero goals. Discover innovations in AI, energy,&nbsp;..."
+        }
+      ]
     }
   ]
 }
