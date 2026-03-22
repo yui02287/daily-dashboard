@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-03-21T03:21:58.144398+00:00",
-    "date": "2026-03-21",
+    "generated_at": "2026-03-22T03:38:45.976581+00:00",
+    "date": "2026-03-22",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -16,36 +16,6 @@
           "link": "https://techorange.com/2026/03/21/cloud-threat/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
           "published": "2026-03-20T22:29:00+00:00",
           "summary": "企業對雲端的依賴持續加深，但攻擊者的行動速度與策略也正在同步升級。Google Cloud 最新發布的《Cloud Threat Horizons Report H1 2026》報告顯示，資安風險已不再只是技術問題，而是牽動營運穩定與決策節奏的關鍵變數。 從入侵手法的轉移、資料外洩模式的變化，到攻擊逐步滲透開發流程與雲端基礎設施，整體威脅輪廓正出現明顯重組。這份報告的價值不在於單一數據，而在於揭示"
-        },
-        {
-          "title": "Uber 為何押注尚未量產的 Rivian R2？一場 12.5 億美元合作揭開 Robotaxi 新戰局",
-          "link": "https://techorange.com/2026/03/20/uber-rivian-robotaxi-investment-deal/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-20T09:05:10+00:00",
-          "summary": "Uber 與 Rivian 近日宣布一項總額最高 12.5 億美元的合作，雙方將以 Rivian 尚未量產的 R2 平台布局 Robotaxi 車隊。這筆交易也被視為 Uber 在 2020 年出售旗下自駕部門 ATG（Advanced Technologies Group）六年後，再度明確推進「自己營運 Robotaxi」的方向。 根據已公開的規劃，Uber 將先投資 3 億美元、部署 1 萬台"
-        },
-        {
-          "title": "亞馬遜收購 Rivr：用會爬樓梯的送貨機器人，瞄準物流最後一哩痛點",
-          "link": "https://techorange.com/2026/03/20/amazon-startup-rivr-test-robots-delivery/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-20T08:40:09+00:00",
-          "summary": "這筆交易最初由《The Information》率先披露。綜合外媒報導，亞馬遜已於本週低調收購總部位於蘇黎世、前身為 Swiss-Mile 的瑞士機器人公司 Rivr，該公司專門研發能「送貨上門」的機器人，而亞馬遜最初並未對外聲張此收購案。 機器人大軍再升級！亞馬遜望提升配送效率與安全 Rivr 執行長兼創辦人 Marko Bjelonic 形容自家機器人是「穿著滑輪鞋的狗」，核心技術是四輪爬樓梯"
-        },
-        {
-          "title": "【創業。天使。趴- t.Hub 的榮耀專場！】從 0 到 IPO 實戰專場！想募資？拚公發？尋找下一匹黑馬？",
-          "link": "https://techorange.com/2026/03/20/t-hub-event/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-20T06:38:43+00:00",
-          "summary": "t. Hub 宏匯集團內科創新基地訂下星期三（3/25），下午三點，舉辦三月份的「創業。天使。趴」邀請進駐基地的優質團隊發表，與專業的投資機構及企業一對一媒合交流。 甫上任的執行長蘇拾忠說：「我一月來 t. Hub 就發現這裡臥虎藏龍、高手如雲。所以我把我們三月份的活動聚焦推薦 t. Hub 的優質團隊給我熟悉的投資圈。」 3/25 下午的活動，發表的廠商包括：【關鍵 300 秒】的台灣智能機器人"
-        },
-        {
-          "title": "AI 寫程式更便宜了？Cursor 推 Composer 2，正面挑戰 OpenAI 與 Anthropic",
-          "link": "https://techorange.com/2026/03/20/ai-coding-startup-cursor-new-model-anthropic-openai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-20T06:34:30+00:00",
-          "summary": "AI 程式開發新創 Cursor 正計劃推出一款更高效率的 AI 模型，藉此與 Anthropic PBC、OpenAI 等 AI 巨頭展開競爭。 Composer 2 登場：專注程式開發、低成本 AI 代理 《Bloomberg》報導，Cursor 預計發布名為「Composer 2」的新產品。這款 AI 代理工具能替使用者執行長時間的程式撰寫任務。Cursor 共同創辦人兼研究負責人 Aman"
-        },
-        {
-          "title": "OpenAI 為何搶買 Astral？真正想掌握的不只是模型，而是開發者工作流",
-          "link": "https://techorange.com/2026/03/20/openai-to-acquire-python-startup-astral-expanding-push-into-coding/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-20T04:11:54+00:00",
-          "summary": "OpenAI 宣布將收購 Python 工具新創公司 Astral。交易完成後，Astral 團隊將加入 OpenAI 的 Codex 部門，旗下開源工具也將在 OpenAI 的支持下持續發展。這起收購被視為 OpenAI 在快速成長的程式開發與開發者服務市場中的最新戰略布局，目標不僅是強化 AI 寫程式的能力，更是為了將 Codex 推向更廣泛的開發者基礎設施平台。 Astral 旗下擁有三大核"
         }
       ]
     },
@@ -54,40 +24,22 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "伊朗石油與台灣半導體：資源詛咒或戰略優勢",
-          "link": "https://www.gvm.com.tw/article/128853",
-          "published": "2026-03-20T18:32:00",
-          "summary": "編按：石油與半導體，分別形塑了伊朗與台灣的國家命運，一個因資源陷入地緣政治風暴，一個憑科技站上全球供應鏈核心。從歷史脈絡觀察，兩者如何在不同時代面對大國競逐與發展選擇，值得深入理解。歷史有時不是從戰爭開始，而是從一個看似微不足道的商業契約開始。1901年，一個英國商人敲開了波斯王宮的大門。他名叫威廉．諾克斯．達西（William Knox D'Arcy），是一位在世界各地尋找石油的投資者。當時的波"
+          "title": "化療會吐還頭髮掉光？醫破解迷思「恐懼來自錯誤想像力」",
+          "link": "https://www.gvm.com.tw/article/128835",
+          "published": "2026-03-21T16:00:00",
+          "summary": "衛福部台北醫院18日宣導表示，癌症治療已進入個人化醫療時代，應破解化療會吐、頭髮掉光等迷思，因藥物的種類、劑量、給藥方式，會依癌別、病期、病人體質及基因特性調整。台北醫院新聞稿表示，癌症治療上讓病人感到崩潰的，往往不是治療本身，而是對化療的錯誤想像，事實上，隨著醫療科技進步與治療策略的精準化，應破解「化療一定會吐到不行、一定會掉光頭髮」等迷思，這些刻板印象早已不再適用於所有病人。癌症中心主任陳建銘"
         },
         {
-          "title": "中國2027不攻台了？美情報直指「北京避免動武」，葛來儀點出原因",
-          "link": "https://www.gvm.com.tw/article/128852",
-          "published": "2026-03-20T17:53:00",
-          "summary": "美國國家情報總監辦公室最新報告指出，中國未規劃於2027年攻台，亦無統一明確時程。儘管持續強化軍力，北京仍傾向避免動武，主因在於兩棲作戰風險高、國際干預變數大，以及經濟代價沉重。專家葛來儀也認為，中國短期較可能採取審慎觀望策略，未來幾年內不太可能對台灣採取軍事行動。根據美國國家情報總監辦公室（ODNI）18日發布《2026美國情報界年度威脅評估》（2026 Annual Threat Assess"
+          "title": "北捷藍色代幣要沒了！單程票7月大改版，全數轉換紙本「QR單程票」",
+          "link": "https://www.gvm.com.tw/article/128831",
+          "published": "2026-03-21T11:00:00",
+          "summary": "推動票券行動化，台北捷運公司宣布，全線車站售票機18日起販售紙本QR單程票，藍色塑膠代幣則預計今年7月退場，同時鼓勵使用「台北捷運Go」App購買單程票。台北捷運公司發布新聞稿表示，為推動「一機在手、處處暢行」的乘車方式，並達成票券行動化最終目標，「台北捷運Go」App已可透過信用卡或多元支付方式購買QR單程票，使用QR碼感應閘門進出站。北捷表示，考量可能仍有旅客不方便使用手機購票，明天起全線車站"
         },
         {
-          "title": "大學申請，二階書審怎麼準備？頂大教授：AI請聰明用、排版會加分",
-          "link": "https://www.gvm.com.tw/article/128596",
-          "published": "2026-03-20T17:44:00",
-          "summary": "隨著115學年度學測成績公布，高中生們紛紛進入大學申請入學的第二階段，也就是至關重要的「學習歷程檔案」書審與面試環節。面對各校系不同的要求，許多學生與家長深感焦慮，究竟頂尖大學的教授們，在審查申請入學資料時，最看重什麼？用AI幫忙生成可以嗎？考生該如何在書審脫穎而出？有無最佳範本可參考？《遠見》特別採訪多位國內頂大教授，提供第一手觀察。建議學習歷程檔案清晰條列，切忌「流水帳」台灣大學生化科技學系研"
-        },
-        {
-          "title": "《高雄有顆藍寶石》帶著觀眾回到豬哥亮的黃金年代！見證秀場文化的燦爛傳奇",
-          "link": "https://www.gvm.com.tw/article/128851",
-          "published": "2026-03-20T17:32:00",
-          "summary": "紀錄片電影《高雄有顆藍寶石》由楊力州執導，不僅以擬真AI技術復活秀場天王豬哥亮，更帶領觀眾回到曾紅遍全台的「藍寶石大歌廳」年代。金馬獎導演楊力州最新紀錄片電影《高雄有顆藍寶石》，即將正式和觀眾見面，主視覺海報以其極具戲劇張力的筆觸，重現當年秀場舞台的當紅巨星，畫面中匯聚豬哥亮、高凌風、賀一航、羅霈穎、鳳飛飛、許不了、林沖等巨星身影，濃縮出70、80年代南台灣最璀璨的娛樂記憶。《高雄有顆藍寶石》不僅"
-        },
-        {
-          "title": "你吃的苦瓜胜肽有活性定量嗎？苦瓜胜肽挑選指南",
-          "link": "https://www.gvm.com.tw/article/128848",
-          "published": "2026-03-20T17:13:00",
-          "summary": "根據國健署調查，台灣糖尿病前期族群龐大且有年輕化趨勢，但絕大多數人毫無警覺；其實中午吃的滷肉飯、下午喝的珍珠奶茶，還有久坐辦公室的生活常態，都是釀成代謝危機的無聲殺手！因此，越來越多人把苦瓜胜肽當作澱粉醣類的餐前管理工具，但在選購前，不妨先看看苦瓜胜肽推薦指南，認識什麼是苦瓜胜肽。目錄1.苦瓜胜肽是什麼？跟直接吃苦瓜有什麼差別？2.苦瓜胜肽的四大功效3.苦瓜胜肽適合補充的6大族群4.何時吃苦瓜胜肽"
-        },
-        {
-          "title": "貓會做夢嗎？獸醫爆料貓夢8大真相：「別以為牠會夢到主人」",
-          "link": "https://www.gvm.com.tw/article/128812",
-          "published": "2026-03-20T17:05:00",
-          "summary": "以下場景曾經出現在你家嗎？某個半夜被一陣奇怪的聲響吵醒，打開房門，只見愛貓四肢小抽搐、尾巴會抖動、嘴裡還發出輕微咕嚕聲，眼皮卻緊閉。是癲癇？還是牠的身體出問題？動物科學家、獸醫和飼主的經驗會告訴你，愛貓可能是在做夢。而且牠們不但會做夢，還會做惡夢，偶爾春夢也會造訪。總之在睡夢中，貓的小腦袋很可能正在「追片」──牠一天的生活片段。貓夢有貓膩 1：貓也有快速動眼睡眠（REM）。根據法國神經科學家米歇爾"
+          "title": "打破刻板印象！老化不是一路衰退，耶魯研究：心態可以逆轉老化",
+          "link": "https://www.gvm.com.tw/article/128828",
+          "published": "2026-03-21T07:00:00",
+          "summary": "人們通常認為老化是一個「穩定下滑」的過程，身體和認知能力都會逐漸衰退，但一項大型研究發現，對許多人來說，情況恰恰相反。老化並不一定是不可逆的過程，只要能夠保持樂觀，認知或身體機能，反而會出現明顯改善。耶魯大學分析一項超過&nbsp;11,000&nbsp;名老年人，追蹤十多年的健康資料庫，發現近一半&nbsp;65&nbsp;歲及以上的成年人，在老化的過程中，認知功能、身體功能或兩者均有可衡量的改"
         }
       ]
     },
@@ -96,40 +48,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "「環境部<b>淨零</b>綠領人才培育課程」首推勞工專班在職勞工最多可享全額12000元學費補助",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/page/3b3c62c78849f32f/81f2e4c3-e2dc-4d54-ad50-b49f3ca4b3db&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0VnFD1MhqkOyOCz8VVGiaq",
-          "published": "2026-03-21T02:02:42+00:00",
-          "summary": "雲科大主辦本次勞工專班的江鴻龍教授指出，學員報名反應極為熱烈，40位名額開放報名不到一週即額滿，顯見基層勞工對淨零政策與專業技能的高度需求。據統計，本屆學員&nbsp;..."
+          "title": "南科永續管理交流攜手領先企業共築綠色供應鏈 - 大成報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://greatnews.com.tw/news_pagein.php%3FiType%3D1011%26n_id%3D310172&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw25L4xmwSsp90OZyIX17qwe",
+          "published": "2026-03-21T23:13:26+00:00",
+          "summary": "... 淨零排放路徑」及環境部的碳費徵收，南科管理局啟動廠商永續風險管理工作，旨在協助園區企業強化營運競爭力，邁向永續經營。 南科鄭秀絨局長致詞表示，隨著國家淨零&nbsp;..."
         },
         {
-          "title": "渣打報告：全球仍需注資6.5兆美元推動循環經濟 - 台視",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ttv.com.tw/finance/view/03202621062994343F53A571467298A66B6A6FC13AA578A8/587&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0PvCYjp8fug9xv1CQivLWT",
-          "published": "2026-03-21T00:21:41+00:00",
-          "summary": "... 氣候變遷的重點策略，但驅動循環經濟的資金需求仍有極大缺口，預估至2035年 ... 淨零碳排不可或缺的一環，強化循環經濟作為減碳與自然解方的策略定位&nbsp;..."
+          "title": "富邦<b>淨零</b>ESG50(009809)- - 券商分點進出買賣統計｜股市爆料同學會 - 理財寶",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/stock/009809%3Fs%3Dbroker%26agent%3D989F&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0PueHF1AeSbvW68y0nUwvv",
+          "published": "2026-03-21T21:20:35+00:00",
+          "summary": "富邦淨零ESG50(009809)-進出買賣統計，觀察該券商分點對富邦淨零ESG50(009809)每日買張、買價、賣張、賣價、買賣超張、均價等資訊，藉此追蹤每日買賣超變化，&nbsp;..."
         },
         {
-          "title": "台灣港務公司參與智慧城市展期打造智慧港口 - MSN",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/news/national/%25E5%258F%25B0%25E7%2581%25A3%25E6%25B8%25AF%25E5%258B%2599%25E5%2585%25AC%25E5%258F%25B8%25E5%258F%2583%25E8%2588%2587%25E6%2599%25BA%25E6%2585%25A7%25E5%259F%258E%25E5%25B8%2582%25E5%25B1%2595%25E6%259C%259F%25E6%2589%2593%25E9%2580%25A0%25E6%2599%25BA%25E6%2585%25A7%25E6%25B8%25AF%25E5%258F%25A3/ar-AA1YTjcL%3Fapiversion%3Dv2%26domshim%3D1%26noservercache%3D1%26noservertelemetry%3D1%26batchservertelemetry%3D1%26renderwebcomponents%3D1%26wcseo%3D1&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3lnKWvnwhzYMGdszm7V3tA",
-          "published": "2026-03-20T23:50:26+00:00",
-          "summary": "[NOWnews今日新聞]台灣港務公司於17日至20日，參加在台北市南港展覽館2館所舉辦的2026智慧城市展及淨零城市展，以AI科技守護港灣安全，期打造智慧永續港口。"
+          "title": "國環院<b>淨零</b>綠領人才培育課程首推勞工專班 - Yahoo新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%259C%258B%25E7%2592%25B0%25E9%2599%25A2%25E6%25B7%25A8%25E9%259B%25B6%25E7%25B6%25A0%25E9%25A0%2598%25E4%25BA%25BA%25E6%2589%258D%25E5%259F%25B9%25E8%2582%25B2%25E8%25AA%25B2%25E7%25A8%258B-%25E9%25A6%2596%25E6%258E%25A8%25E5%258B%259E%25E5%25B7%25A5%25E5%25B0%2588%25E7%258F%25AD-131421298.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0mrvqsjApVSLTpLu77Nrzu",
+          "published": "2026-03-21T19:26:11+00:00",
+          "summary": "本班學員也以製造業及營造業背景者為大宗，更涵蓋醫療、金融、運輸及水產等領域從業人員。凸顯淨零轉型浪潮下，綠色技能已逐步成為勞工強化職場競爭力與跨領域轉型&nbsp;..."
         },
         {
-          "title": "渣打報告：全球仍需注資6.5兆美元推動循環經濟- 新聞- MoneyDJ理財網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/z/DJA/News/DJANewsDetail_315479DE-E6E7-4D3E-ACCA-1F7D399C69EC.djhtm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0O5ASTqE_vvLcaazLLVejS",
-          "published": "2026-03-20T22:47:36+00:00",
-          "summary": "渣打集團昨(20)日發布「2026循環經濟金融驅動力」報告並指出，循環經濟(Circular Economy)逐漸成為全球推動永續發展與因應氣候變遷 ... 淨零碳排不可或缺的&nbsp;..."
+          "title": "第三屆城市氣候峰會登場陳其邁：高雄積極與全球對話、同築<b>淨零</b>共好城市",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/society/tristarmedia/20260321/index-77409815826907310002.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2lCLEmfUR88fsGgpMz5ytv",
+          "published": "2026-03-21T19:19:59+00:00",
+          "summary": "(記者李靜音/高雄報導)由高雄市政府攜手ICLEI舉辦的第三屆「CITY COP城市氣候峰會｣，今(21)日在高雄展覽館匯聚10個國家、12個城市代表盛大揭幕，高雄市長&nbsp;..."
         },
         {
-          "title": "特朗普拒絕向伊朗停火稱霍爾木茲海峽最終能恢復通行 - AASTOCKS.com",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.aastocks.com/tc/stocks/news/aafn-news/NOW.1511071/2&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw36aHrJwEcUOm9VXUxMiG30",
-          "published": "2026-03-20T20:18:31+00:00",
-          "summary": "相關內容中國碳中和(01372.HK)擬於東盟市場開展碳中和業務 他同時批評軍事盟友未有協助疏通霍爾木茲海峽，包括北大西洋公約組織成員國和中國，指相關國家未&nbsp;..."
+          "title": "高雄智慧城市展大創綠能吸引外賓與政府指定參訪成焦點",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.allnews.tw/news/87732&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0YX-67D3RE6dFucIynfF23",
+          "published": "2026-03-21T18:59:04+00:00",
+          "summary": "台灣民眾電子報| 【本報記者楊雅晴高雄報導】2026高雄智慧城市展今(21)日進入第二天，在「城市主權AI」與淨零轉型交織的趨勢下，能源角色正被重新定義。"
         },
         {
-          "title": "<b>Net-zero</b> innovations take center stage at Taiwan tech expo#智慧城市展#<b>淨零</b>解方#SHORTS",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DfsFCFH8wrDY&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3jOYRiPu2C3mxihINixnk_",
-          "published": "2026-03-20T19:25:38+00:00",
-          "summary": "The 2026 Smart City Summit &amp; Expo in Taipei highlights Taiwan's strides in smart tech and net-zero goals. Discover innovations in AI, energy,&nbsp;..."
+          "title": "紡織業面臨3大挑戰關鍵轉型期經濟部攜紡織公協會導入AI應用 - 壹蘋新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.nextapple.com/finance/20260321/10165CABE7F5BBC44EC3E339242AE91F&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1-ySOO5oBAgNJo4-XXkizv",
+          "published": "2026-03-21T16:27:22+00:00",
+          "summary": "【記者許麗珍／台北報導】全球供應鏈重組、淨零碳排與數位轉型趨勢下，經濟部中小及新創企業署長李冠志表示，紡織產業正處於關鍵轉型期，雖具備上游材料研發及&nbsp;..."
         }
       ]
     }
