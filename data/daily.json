@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-03-22T03:38:45.976581+00:00",
-    "date": "2026-03-22",
+    "generated_at": "2026-03-23T03:43:25.905664+00:00",
+    "date": "2026-03-23",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,10 +12,10 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "【Google 雲端威脅展望報告】攻擊空窗期縮至數天，企業如何轉向「自動化調度」確保營運韌性？",
-          "link": "https://techorange.com/2026/03/21/cloud-threat/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-20T22:29:00+00:00",
-          "summary": "企業對雲端的依賴持續加深，但攻擊者的行動速度與策略也正在同步升級。Google Cloud 最新發布的《Cloud Threat Horizons Report H1 2026》報告顯示，資安風險已不再只是技術問題，而是牽動營運穩定與決策節奏的關鍵變數。 從入侵手法的轉移、資料外洩模式的變化，到攻擊逐步滲透開發流程與雲端基礎設施，整體威脅輪廓正出現明顯重組。這份報告的價值不在於單一數據，而在於揭示"
+          "title": "【科技早餐】OpenAI 不只做模型，桌面超級 App 開始搶工作入口",
+          "link": "https://techorange.com/2026/03/23/openai-desktop-super-app/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-22T22:50:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊OpenAI 收攏產品線，桌面超級 App 成形 OpenAI 證實，正規劃把自家瀏覽器、ChatGPT 應用程式，以及 Codex 程式碼工具，整合為一個「電腦端超級應用程式」(Desktop Super App)。這項調整的核心目的是減少產品碎片化，並集中資源押注最有機會放大的高生產力場景。相關計畫由 OpenAI 應用執行長西莫 (Fidj"
         }
       ]
     },
@@ -24,22 +24,22 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "化療會吐還頭髮掉光？醫破解迷思「恐懼來自錯誤想像力」",
-          "link": "https://www.gvm.com.tw/article/128835",
-          "published": "2026-03-21T16:00:00",
-          "summary": "衛福部台北醫院18日宣導表示，癌症治療已進入個人化醫療時代，應破解化療會吐、頭髮掉光等迷思，因藥物的種類、劑量、給藥方式，會依癌別、病期、病人體質及基因特性調整。台北醫院新聞稿表示，癌症治療上讓病人感到崩潰的，往往不是治療本身，而是對化療的錯誤想像，事實上，隨著醫療科技進步與治療策略的精準化，應破解「化療一定會吐到不行、一定會掉光頭髮」等迷思，這些刻板印象早已不再適用於所有病人。癌症中心主任陳建銘"
+          "title": "從單打獨鬥，到「互相漏氣求進步」的臺灣青農",
+          "link": "https://www.gvm.com.tw/article/128255",
+          "published": "2026-03-23T00:00:00",
+          "summary": "迎來高齡化社會的臺灣，從小一路做到中年再步入老年的「老農」已經不是農田裡的唯一景象，過往跟著家裡務農、長大後在外繞了一圈又回到家鄉耕作的「青農」，整逐漸撐起臺灣的農業。對於這群人而言，務農不再只是「日出而作、日落而息」的勞動，更是一場關於經營管理與重新定位的升級旅程。&nbsp;宜蘭：精準計算的務農實踐&nbsp;「如果是跑100公尺，無論是走直線、還是S型，甚至是跳著跑，有很多方式，但只要會到終"
         },
         {
-          "title": "北捷藍色代幣要沒了！單程票7月大改版，全數轉換紙本「QR單程票」",
-          "link": "https://www.gvm.com.tw/article/128831",
-          "published": "2026-03-21T11:00:00",
-          "summary": "推動票券行動化，台北捷運公司宣布，全線車站售票機18日起販售紙本QR單程票，藍色塑膠代幣則預計今年7月退場，同時鼓勵使用「台北捷運Go」App購買單程票。台北捷運公司發布新聞稿表示，為推動「一機在手、處處暢行」的乘車方式，並達成票券行動化最終目標，「台北捷運Go」App已可透過信用卡或多元支付方式購買QR單程票，使用QR碼感應閘門進出站。北捷表示，考量可能仍有旅客不方便使用手機購票，明天起全線車站"
+          "title": "自然界罕見！無懼極端氣候，科學家首次發現「進化拯救」物種",
+          "link": "https://www.gvm.com.tw/article/128839",
+          "published": "2026-03-22T11:00:00",
+          "summary": "過去五億年間，地球氣候經歷從遠比現在炎熱到遠比現在寒冷的劇烈變化，動植物為了適應氣候變化，不得不進行適應性進化和遷移。這次也不例外，在加州千年特大乾旱期間，科學家首次發現一些野花種群，藉由「進化拯救」奇蹟般的挺過難關。科學家所知地球歷史上最快速度的氣候變化，是發生在約&nbsp;5,600&nbsp;萬年前古新世–始新世極熱事件，當時氣溫在約&nbsp;2&nbsp;萬年的時間裡上升&nbsp;5"
         },
         {
-          "title": "打破刻板印象！老化不是一路衰退，耶魯研究：心態可以逆轉老化",
-          "link": "https://www.gvm.com.tw/article/128828",
-          "published": "2026-03-21T07:00:00",
-          "summary": "人們通常認為老化是一個「穩定下滑」的過程，身體和認知能力都會逐漸衰退，但一項大型研究發現，對許多人來說，情況恰恰相反。老化並不一定是不可逆的過程，只要能夠保持樂觀，認知或身體機能，反而會出現明顯改善。耶魯大學分析一項超過&nbsp;11,000&nbsp;名老年人，追蹤十多年的健康資料庫，發現近一半&nbsp;65&nbsp;歲及以上的成年人，在老化的過程中，認知功能、身體功能或兩者均有可衡量的改"
+          "title": "全台約1/6人帶有「失智基因」！國衛院研究：認知退化加速「70歲是轉折點」",
+          "link": "https://www.gvm.com.tw/article/128833",
+          "published": "2026-03-22T07:00:00",
+          "summary": "APOEε4基因型因被證實與阿茲海默症有關，近年受到學界高度關注。國衛院最新研究首度以台灣族群確認，攜帶此「失智」基因的長者認知功能退化加速較明顯，研究登上國際重要醫學期刊。此研究由國家衛生研究院副院長、神經及精神醫學研究中心特聘研究員陳為堅領導跨單位研究團隊進行，成果已在今年發表於國際重要醫學期刊「美國醫學會網絡開放期刊」（JAMA Network Open）。國衛院國家高齡醫學暨健康福祉研究中"
         }
       ]
     },
@@ -48,40 +48,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "南科永續管理交流攜手領先企業共築綠色供應鏈 - 大成報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://greatnews.com.tw/news_pagein.php%3FiType%3D1011%26n_id%3D310172&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw25L4xmwSsp90OZyIX17qwe",
-          "published": "2026-03-21T23:13:26+00:00",
-          "summary": "... 淨零排放路徑」及環境部的碳費徵收，南科管理局啟動廠商永續風險管理工作，旨在協助園區企業強化營運競爭力，邁向永續經營。 南科鄭秀絨局長致詞表示，隨著國家淨零&nbsp;..."
+          "title": "永豐餘現身高雄智慧城市展秀智慧能源解方實績- 台視財經",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ttv.com.tw/finance/view/default.asp%3Fi%3D03202623093003D49A60C53E4EFBB7893E51E41C30BDAADF%26from%3D588&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0Qj3JrID_jOBVIYpoFmHIT",
+          "published": "2026-03-23T03:03:52+00:00",
+          "summary": "MoneyDJ新聞2026-03-23 09:30:19 新聞中心發佈淨零減碳浪潮下，全球企業走向「碳產業」範疇，永豐餘(1907)攜手旗下永餘智能與三越企業，參與「2026高雄智慧城市&nbsp;..."
         },
         {
-          "title": "富邦<b>淨零</b>ESG50(009809)- - 券商分點進出買賣統計｜股市爆料同學會 - 理財寶",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/stock/009809%3Fs%3Dbroker%26agent%3D989F&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0PueHF1AeSbvW68y0nUwvv",
-          "published": "2026-03-21T21:20:35+00:00",
-          "summary": "富邦淨零ESG50(009809)-進出買賣統計，觀察該券商分點對富邦淨零ESG50(009809)每日買張、買價、賣張、賣價、買賣超張、均價等資訊，藉此追蹤每日買賣超變化，&nbsp;..."
+          "title": "響應世界森林日民團呼籲搶救糖廠百頃森林反對橋科聯外道路切割 - 環境資訊中心",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://e-info.org.tw/node/243210&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1GCYLpr8lKZO5mNhFKT20u",
+          "published": "2026-03-23T03:02:05+00:00",
+          "summary": "... 淨零防洪等重要價值。民團直指新市鎮三期計畫不合時宜，應重新審視都市計畫 ... 保護整體的生態系統對於目前全球高度重視的生物多樣性及氣候變遷減碳&nbsp;..."
         },
         {
-          "title": "國環院<b>淨零</b>綠領人才培育課程首推勞工專班 - Yahoo新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%259C%258B%25E7%2592%25B0%25E9%2599%25A2%25E6%25B7%25A8%25E9%259B%25B6%25E7%25B6%25A0%25E9%25A0%2598%25E4%25BA%25BA%25E6%2589%258D%25E5%259F%25B9%25E8%2582%25B2%25E8%25AA%25B2%25E7%25A8%258B-%25E9%25A6%2596%25E6%258E%25A8%25E5%258B%259E%25E5%25B7%25A5%25E5%25B0%2588%25E7%258F%25AD-131421298.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0mrvqsjApVSLTpLu77Nrzu",
-          "published": "2026-03-21T19:26:11+00:00",
-          "summary": "本班學員也以製造業及營造業背景者為大宗，更涵蓋醫療、金融、運輸及水產等領域從業人員。凸顯淨零轉型浪潮下，綠色技能已逐步成為勞工強化職場競爭力與跨領域轉型&nbsp;..."
+          "title": "2050年<b>淨零</b>轉型打造碳封存示範場【熱線追蹤】 - YouTube",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dfc-BHZnndwc&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3WIQhZel0Mrzjs3jXuWVzd",
+          "published": "2026-03-23T02:31:52+00:00",
+          "summary": "淨零碳排#減碳#二氧化碳2026.03.23【熱線追蹤】面對氣候變遷壓力升溫，台灣已宣示2050年「淨零碳排」 目標，減碳不再只是口號，而是攸關產業轉型與國家競爭力的&nbsp;..."
         },
         {
-          "title": "第三屆城市氣候峰會登場陳其邁：高雄積極與全球對話、同築<b>淨零</b>共好城市",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/society/tristarmedia/20260321/index-77409815826907310002.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2lCLEmfUR88fsGgpMz5ytv",
-          "published": "2026-03-21T19:19:59+00:00",
-          "summary": "(記者李靜音/高雄報導)由高雄市政府攜手ICLEI舉辦的第三屆「CITY COP城市氣候峰會｣，今(21)日在高雄展覽館匯聚10個國家、12個城市代表盛大揭幕，高雄市長&nbsp;..."
+          "title": "澳洲部分地區出現「油荒」 政府勸民眾勿恐慌囤油 - AASTOCKS.com",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.aastocks.com/tc/stocks/news/anue-news/AN6393841/1&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1dI_HUAONjWyT96Rbno5gQ",
+          "published": "2026-03-23T02:07:25+00:00",
+          "summary": "澳洲氣候變化與能源部長鮑恩在一段電視採訪中說，截至21 日澳洲的汽油、柴油和航空燃油的儲備分別夠用38 天、30 天和30 天，同時燃料供應依舊強勁。 鮑恩表示：「&nbsp;..."
         },
         {
-          "title": "高雄智慧城市展大創綠能吸引外賓與政府指定參訪成焦點",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.allnews.tw/news/87732&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0YX-67D3RE6dFucIynfF23",
-          "published": "2026-03-21T18:59:04+00:00",
-          "summary": "台灣民眾電子報| 【本報記者楊雅晴高雄報導】2026高雄智慧城市展今(21)日進入第二天，在「城市主權AI」與淨零轉型交織的趨勢下，能源角色正被重新定義。"
+          "title": "澳洲部分地區出現「油荒」 政府勸民眾勿恐慌囤油",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.aastocks.com/tc/stocks/news/anue-news/AN6393841/1&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0OeFTCZ4Dw-pA6x8ev-qVe",
+          "published": "2026-03-23T02:03:03+00:00",
+          "summary": "澳洲政府周日（22 日）表示，雖然燃料進口受到伊朗戰爭衝擊，但供應尚充足，暫無定量配給打算。針對少數地區出現的搶購汽油現象，政府敦促民眾理性加油。 澳洲氣候變化&nbsp;..."
         },
         {
-          "title": "紡織業面臨3大挑戰關鍵轉型期經濟部攜紡織公協會導入AI應用 - 壹蘋新聞網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.nextapple.com/finance/20260321/10165CABE7F5BBC44EC3E339242AE91F&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1-ySOO5oBAgNJo4-XXkizv",
-          "published": "2026-03-21T16:27:22+00:00",
-          "summary": "【記者許麗珍／台北報導】全球供應鏈重組、淨零碳排與數位轉型趨勢下，經濟部中小及新創企業署長李冠志表示，紡織產業正處於關鍵轉型期，雖具備上游材料研發及&nbsp;..."
+          "title": "從“雙碳”目標到生態環境法典（美麗中國）",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=http://zj.people.com.cn/BIG5/n2/2026/0323/c186327-41530649.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw17nJDf7TqiOpwlMDou8S2E",
+          "published": "2026-03-23T02:00:27+00:00",
+          "summary": "北京首創生態環保集團股份有限公司副總經理黃綿鬆表示，通過法治化手段將氣候治理從政策驅動升級為制度引領，為實現“雙碳”目標提供法治保障。 實現碳達峰碳中和，是&nbsp;..."
         }
       ]
     }
