@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-03-23T03:43:25.905664+00:00",
-    "date": "2026-03-23",
+    "generated_at": "2026-03-24T03:34:31.432840+00:00",
+    "date": "2026-03-24",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,10 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "【科技早餐】OpenAI 不只做模型，桌面超級 App 開始搶工作入口",
-          "link": "https://techorange.com/2026/03/23/openai-desktop-super-app/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-22T22:50:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊OpenAI 收攏產品線，桌面超級 App 成形 OpenAI 證實，正規劃把自家瀏覽器、ChatGPT 應用程式，以及 Codex 程式碼工具，整合為一個「電腦端超級應用程式」(Desktop Super App)。這項調整的核心目的是減少產品碎片化，並集中資源押注最有機會放大的高生產力場景。相關計畫由 OpenAI 應用執行長西莫 (Fidj"
+          "title": "【引導 AI 推薦自家產品】萊雅、聯合利華宣布採用，解析 Azoma 為 AI 代理打造的 AMP 平台",
+          "link": "https://techorange.com/2026/03/24/ai-azoma-amp-e-commerce/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-24T01:12:38+00:00",
+          "summary": "AI 新創公司 Azoma，近日宣布推出「代理商家協議（Agentic Merchant Protocol，AMP）」平台，希望為零售業者提供一套整合性的解決方案，應對 AI 代理購物的行銷需求。"
+        },
+        {
+          "title": "【初級工程師工作轉變】不再需要改 bug、寫測試，聽起來很好卻很危險",
+          "link": "https://techorange.com/2026/03/24/entry-level-engineers-work/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-24T01:12:18+00:00",
+          "summary": "隨著生成式 AI 快速滲透軟體開發流程，工程師的工作內容正出現明顯轉變。一名 23 歲、任職於紐約新創公司的軟體工程師 Ben Zabihi 表示，如果是在五年前入行，他的工作大多會花在撰寫程式碼與文件上；但現在，他大量時間都投入在使用 AI 工具，不只用來生成程式碼，也作為研究助手，協助理解產業知識與業務術語。 這樣的變化並非個例。AI 正逐步滲透工程師的整個工作流程，從功能設計、程式碼生成，到"
+        },
+        {
+          "title": "AI 讓所有網站自然流量下跌？CYBERBIZ 點 AIO 真正戰場在「SSR 渲染」與「動態標籤」",
+          "link": "https://techorange.com/2026/03/24/aio-llms-txt-ssr/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-24T00:00:00+00:00",
+          "summary": "文／CYBERBIZ 營運長 葉隆斌 最近這幾個月，許多品牌老闆與電商平台大概都被「AI 流量恐慌」相關的焦慮給塞滿了，「我們的網站加上 llms.txt 了嗎？」、「要不要改 robots.txt 讓 ChatGPT 來爬？」、「如果不趕快做 GEO（生成式引擎優化），我的自然流量是不是會直接歸零？」 剛結束的 2026 NRF 零售大展與各大論壇，把「GenAI」與「代理商務（Agentic "
+        },
+        {
+          "title": "【科技早餐】祖克柏替自己做 AI 代理，Meta 開始重寫公司的工作方式",
+          "link": "https://techorange.com/2026/03/24/meta-mark-zuckerberg-is-building-an-ai-agent-help-him-be-ceo/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-23T22:50:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊祖克柏替自己做 AI 代理，Meta 把 AI 推進公司工作核心 根據《華爾街日報》報導，Meta 執行長祖克柏 (Mark Zuckerberg) 正在打造一個「執行長 AI 代理」，協助自己更快取得公司內部資訊，縮短原本需要透過多層員工才能完成的流程。報導也指出，Meta 內部已有員工使用可存取聊天紀錄與工作檔案的個人代理工具，讓 AI 不只"
+        },
+        {
+          "title": "從寫程式到數兆美元市場：Claude、Codex 與 Cursor 為何都想搶知識工作入口？",
+          "link": "https://techorange.com/2026/03/23/claude-code-cursor-codex-coding/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-23T10:13:40+00:00",
+          "summary": "過去一年，儘管外界對 Claude Code、Codex 與 Cursor 等 AI 工具的討論，多半聚焦於程式開發與除錯效率的提升，但《華爾街日報》指出，這場競爭的本質已經被改寫，因為 AI 正從單純的寫程式輔助者，進化為能接手更廣泛工作與日常任務的「半自主 AI 代理」。 如今，這些工具的應用早已超越單一的開發場景，讓完全不懂撰寫程式的人也能輕鬆將任務交辦給 AI 執行。使用者不僅能拿這些 A"
+        },
+        {
+          "title": "矽谷新福利：工程師每天狂產上億代幣，卻可能只是一場效率幻象？",
+          "link": "https://techorange.com/2026/03/23/ai-tokens-technology-ai-agents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-23T09:53:40+00:00",
+          "summary": "《The New York Times》報導，OpenAI 的一名工程師在過去一週內，透過公司的 AI 模型處理了 2,100 億個「代幣」，足夠填滿 33 次的維基百科頁面，這也是該公司員工的最高紀錄。在 Anthropic，甚至有單一用戶使用該公司的 AI 寫程式系統 Claude Code，在一個月內累積了超過 15 萬美元的帳單。而在 Meta 和 Shopify 等科技公司，主管們已經開"
         }
       ]
     },
@@ -24,22 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "從單打獨鬥，到「互相漏氣求進步」的臺灣青農",
-          "link": "https://www.gvm.com.tw/article/128255",
-          "published": "2026-03-23T00:00:00",
-          "summary": "迎來高齡化社會的臺灣，從小一路做到中年再步入老年的「老農」已經不是農田裡的唯一景象，過往跟著家裡務農、長大後在外繞了一圈又回到家鄉耕作的「青農」，整逐漸撐起臺灣的農業。對於這群人而言，務農不再只是「日出而作、日落而息」的勞動，更是一場關於經營管理與重新定位的升級旅程。&nbsp;宜蘭：精準計算的務農實踐&nbsp;「如果是跑100公尺，無論是走直線、還是S型，甚至是跳著跑，有很多方式，但只要會到終"
+          "title": "台股創盤中第八大跌點！專家：投資撐過亂世靠「兩心態」",
+          "link": "https://www.gvm.com.tw/article/128916",
+          "published": "2026-03-23T19:05:00",
+          "summary": "中東美伊戰爭愈演愈烈，重創全球股市，台股今（23）日開低走低，一度大跌超過1000點，最低來到3萬2461點、重挫1082.79點，為盤中第八大跌點。加權指數終場收在3萬2722.5點、大跌821.38點，大盤指數失守3萬3000點大關。美伊戰爭持續升溫，今（23）日台股再次跳水千點！伊朗持續扼住能源運輸要道荷姆茲海峽，美國總統川普對其限期48小時，若不開放則揚言轟炸伊朗最大電廠。對此，台股三大法"
         },
         {
-          "title": "自然界罕見！無懼極端氣候，科學家首次發現「進化拯救」物種",
-          "link": "https://www.gvm.com.tw/article/128839",
-          "published": "2026-03-22T11:00:00",
-          "summary": "過去五億年間，地球氣候經歷從遠比現在炎熱到遠比現在寒冷的劇烈變化，動植物為了適應氣候變化，不得不進行適應性進化和遷移。這次也不例外，在加州千年特大乾旱期間，科學家首次發現一些野花種群，藉由「進化拯救」奇蹟般的挺過難關。科學家所知地球歷史上最快速度的氣候變化，是發生在約&nbsp;5,600&nbsp;萬年前古新世–始新世極熱事件，當時氣溫在約&nbsp;2&nbsp;萬年的時間裡上升&nbsp;5"
+          "title": "中東戰火燒向AI晶片！卡達氦氣斷供衝擊台積電？",
+          "link": "https://www.gvm.com.tw/article/128915",
+          "published": "2026-03-23T18:40:00",
+          "summary": "如果你以為中東戰爭僅涉及油價上漲，害大家得漏夜排隊去加油，就大錯特錯了。真正讓台積電、三星等科技巨頭不安的是，隱藏在天然氣背後的「關鍵資源」，而這把火已經從加油站滲透到半導體先進製程與餐桌上。人口僅310萬的彈丸之地卡達，如何憑藉「非關聯氣田」優勢，卡住全球AI產業與糧食的命脈？一文帶你透視中東小國的驚人威力。卡達面積不及台灣1／3、人口比新北市還少。然而這個中東「小巨人」卻憑藉地緣優勢與天然氣的"
         },
         {
-          "title": "全台約1/6人帶有「失智基因」！國衛院研究：認知退化加速「70歲是轉折點」",
-          "link": "https://www.gvm.com.tw/article/128833",
-          "published": "2026-03-22T07:00:00",
-          "summary": "APOEε4基因型因被證實與阿茲海默症有關，近年受到學界高度關注。國衛院最新研究首度以台灣族群確認，攜帶此「失智」基因的長者認知功能退化加速較明顯，研究登上國際重要醫學期刊。此研究由國家衛生研究院副院長、神經及精神醫學研究中心特聘研究員陳為堅領導跨單位研究團隊進行，成果已在今年發表於國際重要醫學期刊「美國醫學會網絡開放期刊」（JAMA Network Open）。國衛院國家高齡醫學暨健康福祉研究中"
+          "title": "大改款迎戰美製車！賓士全新CLA強勢登台，祭「油電同價」187萬搶豪華入門市場",
+          "link": "https://www.gvm.com.tw/article/128901",
+          "published": "2026-03-23T17:41:00",
+          "summary": "在全球電動車成長放緩、關稅波動的動盪期，德國豪華汽車品牌賓士發表全新純電CLA系列車款，祭出「油電同價」187萬搶市。台灣賓士迎來全新世代的CLA車系，德國豪華汽車品牌賓士發表全新純電CLA系列車款，包括2款純電動力與2款燃油動力車款同步抵台，新一代CLA大幅降價，開出極具競爭力的187萬元「油電同價」策略，震撼台灣200萬級距豪華車市場。首度採用專為電動及燃油車款設計的MMA模組化平台，並開出極"
+        },
+        {
+          "title": "西瓜卡大變革〉日本Suica搶當全能電子錢包，儲值上限將提高至30萬日圓",
+          "link": "https://www.gvm.com.tw/article/128913",
+          "published": "2026-03-23T16:44:00",
+          "summary": "有去過日本的人，應該都有買過當地的交通 IC 卡 Suica（俗稱西瓜卡）!你有注意過上面那隻總是帶著微笑表情的企鵝嗎？這隻陪著我們穿梭東京山手線、在便利商店買飯糰的「Suica 企鵝」，即將在 2026 年底正式畢業，不只是更換吉祥物，我們熟悉的西瓜卡正要迎來史上最大的變革，包括秋季起儲值上限從2萬日圓直接拉高到30萬日圓，轉型為真正的「全能電子錢包」。對於台灣旅客而言，這不只是日本的新聞，更是"
+        },
+        {
+          "title": "Terafab是什麼？馬斯克複製台積模式？半導體界分析出爐：這件事恐成破口",
+          "link": "https://www.gvm.com.tw/article/128912",
+          "published": "2026-03-23T16:35:00",
+          "summary": "特斯拉執行長馬斯克再拋半導體震撼彈，宣告Terafab超大型晶圓廠計畫將啟動，並描繪出將邏輯、記憶體與先進封裝整合在同一屋簷下的大藍圖。消息一出，半導體圈議論紛紛，相關業者直言，若以2奈米先進製程為起點，Terafab難度極高，短期內要複製台積電模式幾乎不可能。但市場也認為，若特斯拉藉由封裝、供應鏈整合，以及與三星、英特爾合作逐步切入，長期仍可能改變全球晶片供應權力版圖，對台積電形成新的戰略壓力。"
+        },
+        {
+          "title": "外送市場大洗牌！Grab集團收購台灣foodpanda事業",
+          "link": "https://www.gvm.com.tw/article/128911",
+          "published": "2026-03-23T16:02:00",
+          "summary": "東南亞領先的超級應用程式Grab Holdings Limited（NASDAQ：GRAB，以下簡稱「Grab」），與&nbsp;Delivery Hero SE（FSE：DHER，以下簡稱「Delivery Hero」）宣布達成協議，Grab&nbsp;將以6億美元估價現金收購Delivery Hero旗下&nbsp;foodpanda&nbsp;在台灣的外送事業。本交易以不包含現金及金融負債的"
         }
       ]
     },
@@ -48,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "永豐餘現身高雄智慧城市展秀智慧能源解方實績- 台視財經",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ttv.com.tw/finance/view/default.asp%3Fi%3D03202623093003D49A60C53E4EFBB7893E51E41C30BDAADF%26from%3D588&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0Qj3JrID_jOBVIYpoFmHIT",
-          "published": "2026-03-23T03:03:52+00:00",
-          "summary": "MoneyDJ新聞2026-03-23 09:30:19 新聞中心發佈淨零減碳浪潮下，全球企業走向「碳產業」範疇，永豐餘(1907)攜手旗下永餘智能與三越企業，參與「2026高雄智慧城市&nbsp;..."
+          "title": "最新消息-活動新訊 - 雲林縣環境保護局全球資訊網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ylepb.gov.tw/latestevent/index-1.asp%3FParser%3D10,3,17,,,,1956&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0FtPzcTLZaeQQ9kO76AB-v",
+          "published": "2026-03-24T01:04:46+00:00",
+          "summary": "(二)中低收入戶、低收入戶、身心障礙身分者，享全額優惠新臺幣12,000元。 三、11547期環境部淨零綠領人才培育課程相關資訊如下： (一)招生對象：一般民眾。"
         },
         {
-          "title": "響應世界森林日民團呼籲搶救糖廠百頃森林反對橋科聯外道路切割 - 環境資訊中心",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://e-info.org.tw/node/243210&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1GCYLpr8lKZO5mNhFKT20u",
-          "published": "2026-03-23T03:02:05+00:00",
-          "summary": "... 淨零防洪等重要價值。民團直指新市鎮三期計畫不合時宜，應重新審視都市計畫 ... 保護整體的生態系統對於目前全球高度重視的生物多樣性及氣候變遷減碳&nbsp;..."
+          "title": "台灣首家入列AI30觀察名單！睿田能源獲AIH選定進軍美國市場 - 警政時報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tcpttw.com/other/other_industrial/2026/03/24/257066/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3ZqHjkz7-5xT0GidohZInj",
+          "published": "2026-03-24T00:19:16+00:00",
+          "summary": "【Lai傳媒、記者爆料網/張哲維/台中報導】. 台灣淨零建築技術正式躍上國際舞台。AIH Foundation於3月19日「2026智慧城市展暨淨零城市展」期間，攜手睿田能源&nbsp;..."
         },
         {
-          "title": "2050年<b>淨零</b>轉型打造碳封存示範場【熱線追蹤】 - YouTube",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dfc-BHZnndwc&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3WIQhZel0Mrzjs3jXuWVzd",
-          "published": "2026-03-23T02:31:52+00:00",
-          "summary": "淨零碳排#減碳#二氧化碳2026.03.23【熱線追蹤】面對氣候變遷壓力升溫，台灣已宣示2050年「淨零碳排」 目標，減碳不再只是口號，而是攸關產業轉型與國家競爭力的&nbsp;..."
+          "title": "機關消息 - 澎湖縣政府",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.penghu.gov.tw/ch/home.jsp%3Fid%3D10088%26act%3Dview%26dataserno%3D202603240002%26mserno%3D201112190001&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1qOKBe7k-9-IRSw4ppnM-c",
+          "published": "2026-03-24T00:16:22+00:00",
+          "summary": "一、為推動我國高級中等學校（以下簡稱高中）氣候變遷教育，奠定達成我國「2050淨零排放」目標之基礎，環境部及教育部專為高中生量身打造本線上課程，以充實高中&nbsp;..."
         },
         {
-          "title": "澳洲部分地區出現「油荒」 政府勸民眾勿恐慌囤油 - AASTOCKS.com",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.aastocks.com/tc/stocks/news/anue-news/AN6393841/1&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1dI_HUAONjWyT96Rbno5gQ",
-          "published": "2026-03-23T02:07:25+00:00",
-          "summary": "澳洲氣候變化與能源部長鮑恩在一段電視採訪中說，截至21 日澳洲的汽油、柴油和航空燃油的儲備分別夠用38 天、30 天和30 天，同時燃料供應依舊強勁。 鮑恩表示：「&nbsp;..."
+          "title": "南投縣政府環境保護局全球資訊網-最新消息-環保新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ntepb.gov.tw/news/Details.aspx%3FParser%3D9,3,19,,,,15926&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3IQoJspY8ZlQA5ONMTD_Hf",
+          "published": "2026-03-24T00:10:11+00:00",
+          "summary": "2026-03-24 公布單位：廢棄物管理科隨著全球邁向2050 淨零轉型目標，資源循環已成為減碳路徑中不可或缺的一環。南投縣作為觀光大縣，每日產生的廢棄物中，餐盤、&nbsp;..."
         },
         {
-          "title": "澳洲部分地區出現「油荒」 政府勸民眾勿恐慌囤油",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.aastocks.com/tc/stocks/news/anue-news/AN6393841/1&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0OeFTCZ4Dw-pA6x8ev-qVe",
-          "published": "2026-03-23T02:03:03+00:00",
-          "summary": "澳洲政府周日（22 日）表示，雖然燃料進口受到伊朗戰爭衝擊，但供應尚充足，暫無定量配給打算。針對少數地區出現的搶購汽油現象，政府敦促民眾理性加油。 澳洲氣候變化&nbsp;..."
+          "title": "氣候變化加劇花粉濃度美國過敏季節生存指南 - 星島日報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.singtaousa.com/2026/03/23/lifestyle/health/welcome-to-allergy-season-heres-how-to-protect-yourself/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3qXlCxFEx3NML458EzavLH",
+          "published": "2026-03-23T23:41:51+00:00",
+          "summary": "隨著春季到來，美國數千萬民眾正迎來一年一度的過敏季節，流鼻涕、眼睛發癢和打噴嚏等症狀嚴重影響生活。專家警告，受氣候變化影響，今年的過敏季節不僅更長，&nbsp;..."
         },
         {
-          "title": "從“雙碳”目標到生態環境法典（美麗中國）",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=http://zj.people.com.cn/BIG5/n2/2026/0323/c186327-41530649.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw17nJDf7TqiOpwlMDou8S2E",
-          "published": "2026-03-23T02:00:27+00:00",
-          "summary": "北京首創生態環保集團股份有限公司副總經理黃綿鬆表示，通過法治化手段將氣候治理從政策驅動升級為制度引領，為實現“雙碳”目標提供法治保障。 實現碳達峰碳中和，是&nbsp;..."
+          "title": "醫療與氣候團體舉辦講堂探討台灣健康永續治理 - 僑務電子報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ocacnews.net/article/422789&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2YmIYp6vz3ZkIlAfPfxPqI",
+          "published": "2026-03-23T23:04:34+00:00",
+          "summary": "林口長庚紀念醫院院長陳建宗說，醫院積極推動淨零醫療策略，導入智慧能源管理系統與節能設備，透過AI技術進行電力需量預測與設備優化，提升能源使用效率，並進行節能&nbsp;..."
         }
       ]
     }
