@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-03-26T03:47:40.570156+00:00",
-    "date": "2026-03-26",
+    "generated_at": "2026-03-27T03:49:14.889811+00:00",
+    "date": "2026-03-27",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "【不是問 ChatGPT 就好】哪款 AI 最適合回答醫療問題？史丹佛實測 31 款模型",
-          "link": "https://techorange.com/2026/03/26/clinical-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-26T02:34:52+00:00",
-          "summary": "AI 工具進入醫療場域的速度，正在超越多數人的預期。美國每天有數百萬人透過 ChatGPT 等工具詢問醫療問題，約三分之二的美國醫師表示會定期使用大型語言模型，其中約五分之一會就病患照護問題諮詢 AI。 截至 2025 年，已有超過 1,200 種 AI 醫療工具獲得 FDA 批准，整個產業規模已達數十億美元。 但在這波快速擴張中，有一個問題始終沒有被認真回答：這些系統在真實臨床情境裡，到底有多可"
+          "title": "駕馭混合雲挑戰：透過 Apigee X 與 Cloud DNS 打造金融級現代化架構",
+          "link": "https://techorange.com/2026/03/27/cloudmile-apigee-cloud-dns/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-27T02:55:44+00:00",
+          "summary": "在當前的金融科技（Fintech）浪潮中，傳統銀行正處於數位轉型的關鍵十字路口。 隨著 Open Banking 與 API Economy 的興起，金融機構面臨雙重壓力：一方面需快速迭代以滿足客戶對數位服務的期待，另一方面則必須在極度嚴苛的合規監管下，確保核心銀行系統（Core Banking）的穩定與安全。目前市場上的主要痛點在於「混合雲（Hybrid Cloud）架構」的落地難題，即是如何讓"
         },
         {
-          "title": "【軟體將不再為人而寫】Box 執行長強調「API 優先」，下一代程式要替 AI 代理服務",
-          "link": "https://techorange.com/2026/03/26/box-aaron-levie-api-first-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-26T01:28:06+00:00",
-          "summary": "Box 執行長 Aaron Levie 指出，AI 代理技術的快速發展，將會徹底改變下個世代的軟體樣貌，不僅一切都會以 API 為優先，AI 代理更會成為程式最主要的使用者。"
+          "title": "讓送貨機器人獲「公分級」精準定位，《Pokémon Go》數據意外成為機器人導航關鍵",
+          "link": "https://techorange.com/2026/03/27/niantic-pokemon-go-ai-world-model/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-27T02:21:11+00:00",
+          "summary": "Niantic Spatial 利用《Pokémon Go》遊戲玩家蒐集的超高精度城市地標影像，打造視覺定位系統用於 Coco Robotics 的 AI 送貨機器人，並希望結合大型語言模型（LLM）創造世界模型。"
         },
         {
-          "title": "【從適樂膚到嗨啾】零售品牌如何透過「融入遊戲」，在虛擬世界建立長期記憶？",
-          "link": "https://techorange.com/2026/03/26/how-brands-are-playing-the-long-game-in-virtual-worlds/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-26T00:00:00+00:00",
-          "summary": "當玩家沉浸在自己打造的遊戲世界中，一邊與虛擬角色互動，一邊自然地獲得一份 Wendy&#8217;s 薯條，或穿上 Puma 的最新球衣，這種過去看似違和的品牌體驗，如今正成為主流。2026 年，虛擬世界已不再是實驗性的行銷場域，而是品牌與年輕世代建立深度關係的核心管道。 虛擬世界不是行銷測試場，而是瞄準年輕受眾的主戰場 數據分析公司 GEEIQ 發布的《State of Brands in Vi"
+          "title": "AI 資料中心能成為穩定電網的資產嗎？NVIDIA、Oracle 實測軟體動態調度，尖峰用電降 25%",
+          "link": "https://techorange.com/2026/03/27/how-ai-data-centers-stabilize-the-power-grid/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-26T23:52:00+00:00",
+          "summary": "隨著 AI 計算需求爆炸式成長，資料中心逐漸從數位基礎設施，轉變為電力系統中的關鍵變數。尤其是在美國維吉尼亞州北部這類高密度部署區域，資料中心用電已占全州電力需求逾四分之一，遠高於全美平均。2024 年夏天，一次雷擊導致輸電系統異常，數十座資料中心同時切換至備援電源，瞬間產生約 1,500MW 的負載落差，險些引發區域性停電，也暴露出資料中心長期以來 24 小時滿載運行的剛性用電問題。 AI 調度"
         },
         {
-          "title": "【科技早餐】SK 海力士赴美上市，先進記憶體競爭進入資本戰",
-          "link": "https://techorange.com/2026/03/26/sk-hynix-us-adr-listing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-25T22:50:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊SK 海力士赴美上市，先進記憶體競爭進入資本戰 SK 海力士 (SK Hynix) 已正式啟動美國上市程序，向美國證券交易委員會以非公開方式提交美國存託憑證（ADR）上市申請，目標在 2026 年內完成。公司表示，募資規模、方式與時程尚未確定，是否上市仍將視監管審查、市場狀況與需求預測而定，但業界普遍認為，這項布局是為了強化海外融資能力。 市場預"
+          "title": "【科技早餐】川普組 AI 核心顧問團，祖克柏、黃仁勳、蘇姿丰全進白宮決策圈",
+          "link": "https://techorange.com/2026/03/27/white-house-ai-panel-mark-zuckerberg-jensen-huang-lisa-su/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-26T22:50:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊川普找來祖克柏、黃仁勳、蘇姿丰，AI 決策桌直接搬進科技業 白宮宣布，美國總統川普將任命首波 13 名產業與科技界成員，加入總統科技顧問會議，也就是總統科技顧問會議 (President’s Council of Advisors on Science and Technology，PCAST)。首批名單包括 Meta 執行長祖克柏 (Mark "
         },
         {
-          "title": "Amazon 為何收購 Fauna Robotics？看上的是更安全、能走進家庭的人形機器人",
-          "link": "https://techorange.com/2026/03/25/amazon-fauna-robotics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-25T10:11:58+00:00",
-          "summary": "近日《Bloomberg》報導，Amazon 已收購成立兩年的紐約新創 Fauna Robotics，標誌著 Amazon 正式踏入消費型人形機器人市場。這家由前 Meta 與 Google 工程師共同創立的新創公司，先前已從 Kleiner Perkins、Quiet Capital 與 Lux Capital 等創投手中募得至少 3,000 萬美元的資金。 Fauna Robotics 旗下開"
+          "title": "台灣無人機產業如何突圍？漢翔用 AI 接手關鍵製程，雷虎靠非紅供應鏈打開新戰局",
+          "link": "https://techorange.com/2026/03/26/tmts-2026-aidc-thunder-tiger/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-26T10:48:58+00:00",
+          "summary": "在全球地緣政治震盪與供應鏈重組的嚴峻考驗下，台灣無人機與航太產業要如何在國際市場突圍？在今（3/26）日由經濟部產業發展署、TMBA 工具機公會、TechOrange 科技報橘、PMC 精機中心共同舉辦的「2026 智慧大工廠論壇──台灣國際工具機展特別場」中，特別邀請到漢翔航空工業總經理莊秀美與雷虎科技技術長楊富森同台分享。 作為在台灣無人機聯盟中互為「革命夥伴、生命共同體」的指標企業，漢翔與雷"
         },
         {
-          "title": "拿 2 萬套機器人幫 Gemini 練兵！拆解 Google 合作 Agile Robots 背後的實體 AI 數據飛輪",
-          "link": "https://techorange.com/2026/03/25/google-deepmind-agile-robots-gemini/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-25T08:28:56+00:00",
-          "summary": "隨著生成式 AI 從雲端模型逐步走向實體世界應用，機器人正成為科技巨頭競逐的新戰場。根據《TechCrunch》報導，Agile Robots 與 Google DeepMind 已建立策略研究合作夥伴關係，將導入 Gemini Robotics 模型，並將其應用於電子製造、汽車、資料中心與物流等工業場景。雙方將共同測試與部署具備 AI 推理能力的機器人系統，同時將實際運作數據回饋至模型訓練，持續"
+          "title": "AI 機器人進入「自我設計」時代：西北大學研發模組化機體，解鎖斷肢仍能運作的極限",
+          "link": "https://techorange.com/2026/03/26/ai-agile-legged-locomotion-in-robots/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-26T09:16:46+00:00",
+          "summary": "當多數機器人仍依賴人類工程師設計結構、再由 AI 控制行為時，其基本外觀形態在設計完成後幾乎無法改變。然而，一項來自西北大學的研究，正在顛覆這種長期以來的分工模式。 根據《TechRadar》報導，西北大學的研究團隊開發出一種如同樂高般可拼接的模組化機器人，這些機器人沒有傳統的人形外觀，也沒有頭部與視覺系統，卻能在野外環境中行動，甚至在受損後仍能繼續運作。這款被稱為「legged metamach"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "第一次真正聽懂〈戀曲1990〉：羅大佑寫的不只是愛情，而是整個時代的漂泊",
-          "link": "https://www.gvm.com.tw/article/128997",
-          "published": "2026-03-25T20:04:00",
-          "summary": "第一次真正聽懂〈戀曲1990〉，並不是在它最流行的年代，而是在某一個城市夜晚的轉角。風穿過高樓的縫隙，像一封遲到多年的信，忽然打開了我心裡那個被層層封存的抽屜。街燈昏黃，時間彷彿放慢了腳步，那一刻我才明白，這首歌從來不只是情歌，還有對時代的茫然和不安定感。彷彿有人右手批判現實，左手歌唱愛情，它是一首屬於整個時代的遷徙之歌。（本文節錄自《漂泊時代》一書，作者：鄭如晴，時報出版 ，以下為摘文。）「蒼茫"
+          "title": "北院認定柯文哲涉京華城案收賄「未正視自己的錯誤」！完整判決理由一次看",
+          "link": "https://www.gvm.com.tw/article/129025",
+          "published": "2026-03-26T18:41:00",
+          "summary": "前台北市長柯文哲捲入的京華城案，台北地方法院今（26）日一審結果出爐，到底如何認定柯文哲收賄？當年柯文哲與沈慶京的會面後，有哪些不法行為？完整說法一次看。前台北市長柯文哲捲入的京華城案，台北地方法院今（26）日一審結果出爐，認定柯文哲曾收受威京集團主席沈慶京賄賂210萬、侵占民眾黨政治獻金600萬、以木可公司名義侵占總統副總統政治獻金專戶逾6千萬，並挪用眾望基金會公款827餘萬元支付競總員工薪資，"
         },
         {
-          "title": "髒亂的家，財神爺進來也會跌倒！收納整理師：乾淨的家一定會有好事發生",
-          "link": "https://www.gvm.com.tw/article/128996",
-          "published": "2026-03-25T19:27:00",
-          "summary": "整理，是一種讓自己重新出發的練習，我們以為整理只是把東西放好，卻在收與放之間，看見生命的重量與痕跡。整理物品的過程不僅是表面上的秩序重建，還是心靈的療癒過程。（本文節錄自《內在整理》一書，作者：廖心筠，鄧惠文，商周出版，以下為摘文。）乾淨舒服的家，也是給孩子的一種愛通常來預約的都是媽媽、女兒、姊妹，這次很特別，竟然是先生主動來預約。第一次見面，就感受到余先生親切爽朗，又不時搞笑的個性，他見到我們非"
+          "title": "韓團如何談AI？2AM林瑟雍：在韓國我們不跟AI說半語",
+          "link": "https://www.gvm.com.tw/article/129024",
+          "published": "2026-03-26T18:35:00",
+          "summary": "這週OpenAI的Sora關閉，令人意識到也許AI還不到可以取代影音娛樂內容的時刻。那麼身為全球娛樂業頂尖的一群，韓國人氣男團2AM成員林瑟雍又怎麼看人工智慧？在AI Expo中，他以娛樂從業者身份親自分享，第一手使用AI的心得，以及ChatGPT這類科技在韓國造成的風潮。他看好哪些娛樂產業的AI應用？又認為哪些人類價值仍無法取代？為何他說韓國人不能跟AI說半語？科技產業仍緊鑼密鼓押注人工智慧，建"
         },
         {
-          "title": "別亂發脾氣！回家前調整好心情，是婚姻裡最基本的自律",
-          "link": "https://www.gvm.com.tw/article/70951",
-          "published": "2026-03-25T19:02:00",
-          "summary": "編按：在婚姻裡有自律心的人，不會將最差的情緒留給最愛的人，他們會在回家路上盡量消化掉負面情緒。把一天的消極情緒全部關在門外，帶著熱情和歡樂回家，好奇對方今天過得怎樣，分享自己這一天的見聞，長久以來保持下去，才能維持高品質的婚姻。 （本文摘自《當你又忙又美，何懼患得患失》一書，以下為摘文。）我一直在回味我與女同事某次閒聊的內容。 有天她下班回家，從樓下取了4、5個快遞，美滋滋地上了電梯。可在電梯上行"
+          "title": "「房價會不會漲」是問錯問題！專家：房市將出現這奇特現象",
+          "link": "https://www.gvm.com.tw/article/129023",
+          "published": "2026-03-26T18:28:00",
+          "summary": "房市趨勢專家李同榮26日表示，近年「K型經濟」和「M型社會」同時發生，台灣房市正在快速分化，房市最重要的問題，不再是房價會不會漲，而是哪裡會漲？哪裡會停滯？哪裡會衰退？他表示，在房市大分化時代，市場可能出現「交易量一波比一波低，房價一波比一波高」的奇特現象，最終則形成一種「量縮價分化」新的市場結構，房價在不同城市與區域之間，將出現更大的差距。李同榮表示，近年高科技業快速發展，全球經濟呈現K型化，部"
         },
         {
-          "title": "史丹佛教授王智弘：AI的強大在效率，領導人的強大在於「有人願意追隨」",
-          "link": "https://www.gvm.com.tw/article/128709",
-          "published": "2026-03-25T17:59:00",
-          "summary": "當AI模型以驚人的速度更新迭代，許多領導者心中不免產生焦慮：過去我們深信的管理原則，是否即將過時？史丹佛大學教授王智弘精確地拆解了AI如何改寫分工，卻也同時提醒我們：AI能放大資訊量，卻無法取代最終的「判斷力」。錄這集 Podcast 前，我心裡其實有一個預設。我以為 AI 來了，領導力應該會被整個重寫，甚至很多我們過去相信的管理原則，可能都會過時。畢竟這幾個月，市場上幾乎所有討論都在講同一件事："
+          "title": "路易莎併購再下一城！從傑克牛排到吃到飽，多品牌發展的背後盤算？",
+          "link": "https://www.gvm.com.tw/article/129021",
+          "published": "2026-03-26T17:31:00",
+          "summary": "台灣本土連鎖咖啡龍頭路易莎（2758）宣布收購全台有三家分店的傑克牛排，成為旗下第10個子品牌。路易莎餐飲版圖橫跨牛排、茶館、吃到飽、蔬食到健身房，為何從咖啡品牌走向不同業態的餐飲併購之路？「路易莎邁向更多元的全時段餐飲！」路易莎董事長黃銘賢指出。路易莎宣布接手2016年創立的「傑克兄弟牛排」，在台北、台中、高雄共三家分店。路易莎指出，集團接手後將進一步優化餐點內容，開闢早午餐結合西餐的經營策略，"
         },
         {
-          "title": "賴清德已定調核電重啟？綠委：非核家園未跳票，目前沒有要轉彎",
-          "link": "https://www.gvm.com.tw/article/128995",
-          "published": "2026-03-25T17:50:00",
-          "summary": "台灣能源政策再有大變化，總統賴清德上週六在磐石會會長交接典禮時指出，政府將朝多元電力發展方向推進，立法院已通過「核管法」，政府將依法行政，經濟部已回文台電，認定核二、核三具備重啟條件，預計於3月底將重啟計畫送交核安會審查。非核家園轉彎、賴清德重啟核電的說法不脛而走，綠營內部支持者炸鍋，但也有人認為是在為年底選舉「拆彈」，引發強烈的政治海嘯。到底真相如何？還沒定調嗎？一文完整拆解。賴清德強調，在未啟"
+          "title": "Meta傳裁員數百人，以彌補AI成本！外媒：涉及「這3個」部門",
+          "link": "https://www.gvm.com.tw/article/129019",
+          "published": "2026-03-26T16:36:00",
+          "summary": "1名知情人士告訴路透社，臉書（Facebook）母公司Meta今天裁員數百人，影響多個團隊。The Information稍早報導，這波裁員涉及的部門有Reality Labs、社群媒體和招聘。路透社指出，Meta正尋求彌補在人工智慧（AI）進行龐大投資帶來的成本攀升，以及砸大錢聘僱頂尖AI人才使得人事費用增加。Meta已預估，今年在AI項目總花費將達到1620億至1690億美元（約新台幣5兆17"
         },
         {
-          "title": "2026機票漲價了！漲什麼？各航空新價格生效日？精省攻略一次看",
-          "link": "https://www.gvm.com.tw/article/128994",
-          "published": "2026-03-25T17:27:00",
-          "summary": "2026年受到近期國際戰火推升油價的影響，國內外航空業者正迎來一波劇烈的燃油成本攀升。不僅4月起燃油附加費將迎來新一波調漲，長程航線票價狂飆，連低成本航空也難以維持以往的破盤低價。當「便宜機票」逐漸成為時代的眼淚，身為熱愛探索世界的旅人，我們該如何自救？本文拆解到底漲哪些費用？哪一天是新價格生效日？並提供實戰級的省錢心法與神卡清單。【目錄】•&nbsp;2026為何機票會大漲？• 到底是漲哪些費用"
+          "title": "56歲機長的失智症告白，阿茲海默患者的重塑之路",
+          "link": "https://www.gvm.com.tw/article/129014",
+          "published": "2026-03-26T15:33:00",
+          "summary": "這位曾掌控幾百人生命的駕駛艙王者，被突如其來的記憶風暴擊落，但他偏偏用行動推翻命運給的劇本：原來握不住方向盤之後，還是可以試圖找到另一種握緊生活的方式。坐過777系列的飛機嗎？那是波音最受歡迎的寬體飛機，在世界上最長的 20 條商業航線中，有一半是由 777 在飛。鏡頭來到駕駛艙裡，機長這位靈魂人物的大腦，要同時處理導航、油耗、氣象雲圖，還有身後500多名乘客的安全，堪比一台超級電腦。對當了機長2"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "中國<b>碳中和</b>(01372)股價下跌5%，現價港幣$1.14AASTOCKS市場異動- 所有",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.aastocks.com/tc/stocks/news/aamm-content/AAD2603261729/aamm-all-category&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3Q4ZODCK9GMb9-A2xTQQzS",
-          "published": "2026-03-26T03:00:16+00:00",
-          "summary": "[下跌股]中國碳中和(01372) 股價在上午10:40比前收市價下跌5%，現股價為港幣$1.14。至目前為止，今日最高價為$1.2，而最低價為$1.14。總成交量為28.2萬股，總&nbsp;..."
+          "title": "陳茂波：港善用獨特優勢引領綠色轉型 - 香港商報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hkcd.com.hk/hkcdweb/content/2026/03/27/content_8747010.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Wxfo5thKEDuT3UPiLdHnn",
+          "published": "2026-03-27T02:14:40+00:00",
+          "summary": "由香港大學氣候與碳中和研究院發起並主辦、為期七天的「香港氣候周2026」昨日（3月26日）揭幕，主題為「從減緩轉向適應——聚焦轉折點，部署切實行動」，旨在發揮&nbsp;..."
         },
         {
-          "title": "躍昇中小企業領航者第35屆國家磐石獎徵件開跑 - 經濟部",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.moea.gov.tw/Mns/populace/news/News.aspx%3Fkind%3D1%26menu_id%3D40%26news_id%3D122210&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2ztMkNaNg6LPZAlUntTLQB",
-          "published": "2026-03-26T02:32:51+00:00",
-          "summary": "中企署進一步說明，磐石獎以選拔經營績效穩健和財務狀況穩定之優秀企業為主軸，在面對全球供應鏈重組與2050淨零碳排挑戰，本屆評選機制將納入永續經營關鍵指標。"
+          "title": "市政新聞-新北響應2026 Earth Hour 3月28日點亮永續信念",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ntpc.gov.tw/ch/home.jsp%3Fid%3De8ca970cde5c00e1%26dataserno%3Db1604f8839124c4d77f2bc89734abe97&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw08FRCVTKCkgyd_OkVm7hjH",
+          "published": "2026-03-27T02:10:14+00:00",
+          "summary": "市長侯友宜表示，面對全球氣候變遷挑戰，須仰賴全民共同參與，新北市於2022年發布「新北市2050淨零路徑暨氣候行動白皮書」，務實規劃淨零轉型策略，並訂定氣候變遷&nbsp;..."
         },
         {
-          "title": "家登加入TRE 100 承諾推動再生能源使用",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/69c49329b4c42963348ebbf5&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2AKjbZgzhQFV73Ww5RSy7f",
-          "published": "2026-03-26T02:04:40+00:00",
-          "summary": "... 淨零行動。 在制度設計上，TRE100鼓勵企業逐年提高再生能源使用比例，並公開 ... 家登精密表示，面對氣候變遷與產業轉型挑戰，公司已將節能減碳與再生&nbsp;..."
+          "title": "環境部<b>淨零</b>綠領人才培育聯盟再升級！推出「資源循環」加值課程，報名開跑",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/page/3b3c62c78849f32f/30db55fe-16a3-4a45-8577-f6aa3a40f13e&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0-iFXDmnLB42wwqEnGRnk5",
+          "published": "2026-03-27T02:08:30+00:00",
+          "summary": "整體訓練共計12小時，涵蓋了政策法規、生活面資源循環及源頭減量、產業四大物料資源循環，以及資源回收數位及綠色雙軸轉型等四大核心科目。特別值得一提的是，本&nbsp;..."
         },
         {
-          "title": "能源大師洛文斯來台演講：不靠新科技，靠「整合設計」實踐節能 - 環境資訊中心",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://e-info.org.tw/node/243235&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3rAbL7xYJbvz472W2oxrnJ",
-          "published": "2026-03-26T02:04:33+00:00",
-          "summary": "透過設計順序的改變，不依賴高級技術，也有可能改善人類生活嗎？3月18日，「2026智慧城市展與淨零城市展」邀請史丹佛大學能源效率專家洛文斯（Amory Bloch&nbsp;..."
+          "title": "<b>氣候變遷</b>，日本降雪越來越嚴重 - 草根影響力新視野",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://grinews.com/news/%3Fp%3D207451&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3gio1cMgBIWSV0PL7ODjI7",
+          "published": "2026-03-27T01:59:12+00:00",
+          "summary": "對76歲的東島洋子來說，如今的冬天格外難熬。「也許是因為我年紀大了，但感覺今年的雪下得比以前更猛烈了。夏天一個人住還好，但冬天因為下雪就非常難熬了。」她說&nbsp;..."
         },
         {
-          "title": "家登加入TRE 100 承諾推動再生能源使用 - 國泰證券",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20260326%26CSeqNO%3DE9403796&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1fsGh0-OWml2h6K3xlEz2Z",
-          "published": "2026-03-26T01:56:23+00:00",
-          "summary": "在全球半導體產業加速邁向淨零排放與低碳供應鏈的趨勢下，家登（3680）近日宣布正式加入「TRE100倡議」，宣告於2040年前達到RE100的目標，成為TRE100創始會員之一&nbsp;..."
+          "title": "活動專區 - 高雄市政府環境保護局",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ksepb.kcg.gov.tw/auditeventannouncement/activity/4c765286-4d9d-4b2c-bd81-18512670e509&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2JP74OL-aXyzuy14SpxZpK",
+          "published": "2026-03-27T00:40:52+00:00",
+          "summary": "經濟部能源署為推動節能減碳、建立完善能源管理機制，鼓勵自主推動具體節能措施，以提升能源使用效率並降低二氧化碳排放，特委託工研院辦理，遴選並表揚具實質&nbsp;..."
         },
         {
-          "title": "拚減碳環團喊2030碳費1200元|半導體|產業新聞 - IEK產業情報網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D5%26nsl_id%3Dd503f19aacf44714b05b567498539279&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2J-VAvbA15HG5el5icDGUe",
-          "published": "2026-03-26T01:06:52+00:00",
-          "summary": "... 淨零幣引導民眾行為改變。 不過中央研究院經濟研究所兼任研究員蕭代基認為，現行碳費 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
+          "title": "慈大附中用行動打造永續校園展現教育影響力",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tcnews.com.tw/education/item/28932.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3G35znoHdO4qJQAWt5-mnS",
+          "published": "2026-03-27T00:29:11+00:00",
+          "summary": "對內以「淨零綠生活由慈大附小做起」為核心，打造可移動的永續教室，透過行動環保教育車的多媒體互動與體驗學習，引導學生從認識氣候變遷與碳足跡到實踐綠&nbsp;..."
         }
       ]
     }
