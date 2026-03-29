@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-03-28T03:36:22.207344+00:00",
-    "date": "2026-03-28",
+    "generated_at": "2026-03-29T03:54:58.984774+00:00",
+    "date": "2026-03-29",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -16,36 +16,6 @@
           "link": "https://techorange.com/2026/03/28/sovereign-ai-mckinsey/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
           "published": "2026-03-27T22:29:00+00:00",
           "summary": "麥肯錫發布報告《Sovereign AI: Building ecosystems for strategic resilience and impact》，預估到了 2030 年，主權 AI 將撼動全球高達 6,000 億美元的市場商機。 然而現況是，高達 72% 的企業雖將主權 AI 納入發展藍圖，卻深陷「必須全端自建」的迷思，導致專案淪為缺乏預算的紙上談兵。 這份報告從市場規模、企業導入痛點"
-        },
-        {
-          "title": "從傳統工序走向 AI 導入，百德機械總經理謝天昕：我們的目標是和別人做一樣的事，卻與眾不同",
-          "link": "https://techorange.com/2026/03/27/quaser-machine-tools/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-27T10:57:18+00:00",
-          "summary": "「現在每個人都在談論 AI，但像是刮削、測量、組裝這些日常的基礎工作，我們想要做到的目標是，和別人『做一樣的事』，卻『與眾不同』，」百德機械今（3/27）在大甲總部舉辦 Open House 活動，總經理謝天昕向國際記者參訪團表示，相較於將焦點完全放在 AI 應用，百德機械一直以來更強調的是製造現場的基本功，並試圖將創新做法導入既有工序之中。 回顧百德機械的發展歷程，謝天昕表示，自己從 1999 "
-        },
-        {
-          "title": "簡立峰看台灣企業出海：台積電示範「以硬帶軟」轉型、人型機器人是下個關鍵產業",
-          "link": "https://techorange.com/2026/03/27/taiwan-future-ai-robotics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-27T10:05:08+00:00",
-          "summary": "TechOrange 編輯部推薦好書：《出海：台灣企業大未來》台灣正站在轉型的關鍵十字路口：面對高齡化與少子化、地緣政治的抉擇、軟硬整合的挑戰，加上行政院推動「AI 新十大建設計畫」將矽光子、量子科技與機器人等技術納入關鍵發展方向，台灣如何以更寬廣的視角來看待自己的定位？作者 Google 台灣前董事總經理簡立峰指出，台灣面對「五缺」（水、電、工、地、人才）現況，必然會走向以軟實力為核心的高附加價"
-        },
-        {
-          "title": "蘋果 AI 戰略大轉彎？Siri 擬升級多模型路由平台，解析終端入口戰的變現大局",
-          "link": "https://techorange.com/2026/03/27/apple-plans-to-open-up-siri-to-rival-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-27T05:01:57+00:00",
-          "summary": "當諸多科技巨頭還在比誰能做出更強的模型時，蘋果似乎正準備走另一條路：不一定自己做出最強的 AI，但是要成為所有 AI 進入消費者日常生活的第一個入口。 《Bloomberg》根據知情人士消息報導，蘋果正計劃在 iOS 27 作業系統中大幅改造 Siri，讓使用者可直接在 Siri 內接入第三方 AI 助理，例如 Google 的 Gemini、Anthropic 的 Claude 等。 這代表 S"
-        },
-        {
-          "title": "駕馭混合雲挑戰：透過 Apigee X 與 Cloud DNS 打造金融級現代化架構",
-          "link": "https://techorange.com/2026/03/27/cloudmile-apigee-cloud-dns/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-27T02:55:44+00:00",
-          "summary": "在當前的金融科技（Fintech）浪潮中，傳統銀行正處於數位轉型的關鍵十字路口。 隨著 Open Banking 與 API Economy 的興起，金融機構面臨雙重壓力：一方面需快速迭代以滿足客戶對數位服務的期待，另一方面則必須在極度嚴苛的合規監管下，確保核心銀行系統（Core Banking）的穩定與安全。目前市場上的主要痛點在於「混合雲（Hybrid Cloud）架構」的落地難題，即是如何讓"
-        },
-        {
-          "title": "讓送貨機器人獲「公分級」精準定位，《Pokémon Go》數據意外成為機器人導航關鍵",
-          "link": "https://techorange.com/2026/03/27/niantic-pokemon-go-ai-world-model/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-27T02:21:11+00:00",
-          "summary": "Niantic Spatial 利用《Pokémon Go》遊戲玩家蒐集的超高精度城市地標影像，打造視覺定位系統用於 Coco Robotics 的 AI 送貨機器人，並希望結合大型語言模型（LLM）創造世界模型。"
         }
       ]
     },
@@ -54,40 +24,34 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "每四隻犬貓，就有一隻老了！高齡毛孩照護一次解答",
-          "link": "https://www.gvm.com.tw/article/129061",
-          "published": "2026-03-27T18:30:00",
-          "summary": "台灣正式邁入超高齡社會，伴隨而來的是少子化與單身化浪潮。當「生不如死」的人口負成長成為常態，情感的寄託正大量轉向毛小孩。然而，不只人老了，寵物也老了，全台已有超過26% 的犬貓進入7歲以上的「熟齡期」。在《遠見 on air》Podcast 節目中，adGeek營運長暨共同創辦人黃英哲便一針見血地點出，這股強勢崛起的「陪伴經濟」，正推動寵物市場走向史無前例的精品化與擬人化升級，寵物商機的規模與深度"
+          "title": "「168減重」要選對時間！台大研究：搭配傍晚7點前吃完更有效",
+          "link": "https://www.gvm.com.tw/article/129033",
+          "published": "2026-03-28T11:30:00",
+          "summary": "台灣大學公共衛生學院26日公布最新研究發現，若想透過限時進食（TRE）減重，關鍵可能不止是「吃多久」 ，而是「吃對時間」 。為減重，不少人採取168等限時進食法，台大研究，搭配「吃對時間」更有效，整合全球41項隨機對照試驗、2287名成人資料，傍晚7時前吃完最後一餐，可多降1公斤、腰圍少3公分。依據世界肥胖聯盟估計，2035年全球肥胖人口數將達到19億人，相當每4人就有1人肥胖，代謝症候群成重要公"
         },
         {
-          "title": "清明連假後閉展快來看！2026台北6大展覽、快閃店總整理",
-          "link": "https://www.gvm.com.tw/article/129060",
-          "published": "2026-03-27T18:12:00",
-          "summary": "2026年的清明連假即將到來，長達四天的假期，大家規劃好要去哪裡走走了嗎？如果不想去戶外知名景點人擠人、怕塞車，或者正好有返鄉計畫，那麼「看展覽」與參與「期間限定活動」絕對是充實假期的好選擇！近期台北有多個超人氣動漫、藝術展覽以及特色節慶活動，且展期都只到清明連假結束，錯過就沒了！因此本文整理了連假台北必看展覽與快閃店懶人包，趕快揪親朋好友，把握最後的朝聖時光吧！【目錄】• 七龍珠英雄崛起－台北•"
+          "title": "拒絕無效聚餐！我靠延遲滿足省錢法，存到人生第一桶金",
+          "link": "https://www.gvm.com.tw/article/129041",
+          "published": "2026-03-28T11:00:00",
+          "summary": "幾年前，我的人生遭逢巨變，原本習慣在家吃飯的我，瞬間變成三餐外食的台北職場人士。講實話，在台北餐餐外食的伙食費相當驚人。後來仔細檢討，我發現消費黑洞，和許多不得不的聚餐、或者省時早餐有關係。如何減少？我運用了延遲滿足省錢法，珍貴的社交人脈一樣維持著，但是也省下人生第一桶金。幾年前，我的人生遭逢巨變，原本習慣在家吃飯的我，瞬間變成三餐外食的台北職場人士。講實話，在台北餐餐外食的伙食費相當驚人。起初我"
         },
         {
-          "title": "馬斯克Terafab招募半導體人才！年薪最高破千萬元，但要符合「這些」嚴格條件",
-          "link": "https://www.gvm.com.tw/article/129059",
-          "published": "2026-03-27T18:08:00",
-          "summary": "在全球首富馬斯克發表超大型晶片製造廠「Terafab」計畫後，特斯拉（Tesla）與SpaceX正擴大招募半導體人才，所開出的年薪底薪最高超過33萬美元，換算成新台幣超過1,000萬元。特斯拉官網的職缺列表顯示，特斯拉正在加州帕羅奧圖和德州奧斯汀招募Terafab工程師，加州的工程師職缺為具微影專業的模組製程工程師，年薪底薪介於8萬8,000美元-24萬美元（約新台幣281萬-765萬元），依經驗"
+          "title": "當代福爾摩斯謝幕！國際鑑識傳奇李昌鈺自宅辭世，享壽87歲",
+          "link": "https://www.gvm.com.tw/article/129062",
+          "published": "2026-03-28T08:55:00",
+          "summary": "被譽為「華人神探」與「當代福爾摩斯」的全球鑑識界指標人物李昌鈺博士（Dr. Henry C. Lee），於美國時間27日在內華達州自宅中安詳離世，享壽87歲。李博士一生致力於法醫科學，透過精確的鑑識技術讓物證「開口說話」，不僅翻轉了無數重案的走向，更對現代司法公正產生了深遠影響。從「太平輪」遺族到台灣最年輕警長李昌鈺的傳奇人生始於江蘇如皋，1938年出生於富庶之家的他，命運在1949年隨母遷台時發"
         },
         {
-          "title": "台積電在日挺進3奈米！專家揭日本矽島夢的「兩大隱憂」",
-          "link": "https://www.gvm.com.tw/article/128923",
-          "published": "2026-03-27T17:51:00",
-          "summary": "2024年2月，台積電熊本一廠開幕，前首相岸田文雄錄影致詞表示，日本政府將以「史前無例」的力道，支持國內建構先進製程半導體的生產基礎，2026年2月日本眾議院選前，台積電董事長暨總裁魏哲家與日本首相高市早苗同框畫面成真，魏哲家當場宣布，熊本二廠將投入生產3奈米晶片。台積電的海外投資布局近日公布2025年財報，呈現美日兩樣情。美國亞歷桑納廠轉虧為盈，2024年時虧損新台幣142億元，但2025年度翻"
+          "title": "窮忙族無法瘦瘦針，如何控血糖？研究：這動作免錢有效！完整教學",
+          "link": "https://www.gvm.com.tw/article/129043",
+          "published": "2026-03-28T07:05:00",
+          "summary": "當猛健樂等瘦瘦針療法在台灣逐漸風行，高昂成本也引來一些人批評，是否這就是富人特權？如果每天只能在辦公室窮忙、無暇運動或者花大錢養生的上班族，已有糖尿病前期風險也有辦法控血糖嗎？2022年有一位美國學者找到，坐在椅子上就能降血糖的運動，在辦公室就能做。2025年匈牙利團隊跟進小型研究證實有效！論文怎麼說？怎麼做？效果是輕微還是明顯？正確姿勢教學一次看懂。目錄&nbsp;●&nbsp;懶人椅子運動如何"
         },
         {
-          "title": "Google Stitch是什麼？用講的免費做個人網頁！全攻略",
-          "link": "https://www.gvm.com.tw/article/129056",
-          "published": "2026-03-27T17:47:00",
-          "summary": "Google推出的AI設計工具Stitch近期迎來重大更新，打造「氛圍設計」（vibe design）體驗，推出五項主要升級，包括AI原生畫布（AI-Native Canvas）、更聰明的設計代理、即時語音對話功能等。此波更新推出後，設計工具Figma的股價在兩天內下跌12%，究竟Stitch的新功能有哪些？每天免費使用上限為何？可以怎麼用？本文實測個人簡介網頁，零程式碼只要告知AI你的履歷內容秒"
-        },
-        {
-          "title": "《絕命毒師》華特懷特的房子成交了！新屋主打算將其改造為《絕命毒師》體驗博物館",
-          "link": "https://www.gvm.com.tw/article/129053",
-          "published": "2026-03-27T17:25:00",
-          "summary": "影集《絕命毒師》播出至今，它依然是許多影迷們心中無可取代的完美神作，而劇中華特懷特的那棟房子，在歷經各種旅客「朝聖」後，屋主也正式將其賣出，告別50多年來的生活。《絕命毒師》（Breaking Bad）自2008年1月第1季上映，一直到2013年9月播出第5季，它數次被各大評論媒體列為影史最偉大的影集之一，而且至今依然是許多人心中永遠無可取代的神作。《絕命毒師》劇情，講述高中化學教師華特懷特的犯罪"
+          "title": "蚊子找人只憑兩大訊號！美國科學家追蹤數百隻蚊子曝結果：深色與二氧化碳濃度",
+          "link": "https://www.gvm.com.tw/article/129027",
+          "published": "2026-03-28T07:00:00",
+          "summary": "蚊子真的會盯上某個人。美國科學家追蹤數百隻圍繞人類受試者盤旋的蚊子，並分析 5 千萬個數據點，發現蚊子依據顏色與二氧化碳濃度這兩個信號，來決定是否要攻擊人類，只要掌握這兩個訊號，就可以預測蚊子的飛行規律。蚊子不只令人厭煩，還會傳播瘧疾、黃熱病和寨卡病毒等危險疾病，這些疾病每年造成超過70萬人死亡。美國喬治亞大學科學家表示，先前研究發現視覺線索和二氧化碳會吸引蚊子，但不知道它們是如何將這些線索結合起"
         }
       ]
     },
@@ -96,40 +60,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "俯瞰神州｜大力發展綠色經濟推進碳達峰<b>碳中和</b>五年累計碳強度降17% - 無綫新聞TVB News",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.tvb.com/tc/greaterchina/69ae65d12dd2502b58763de0/%25E5%2585%25A9%25E5%25B2%25B8-%25E4%25BF%25AF%25E7%259E%25B0%25E7%25A5%259E%25E5%25B7%259E%25EF%25BD%259C%25E5%25A4%25A7%25E5%258A%259B%25E7%2599%25BC%25E5%25B1%2595%25E7%25B6%25A0%25E8%2589%25B2%25E7%25B6%2593%25E6%25BF%259F-%25E6%258E%25A8%25E9%2580%25B2%25E7%25A2%25B3%25E9%2581%2594%25E5%25B3%25B0%25E7%25A2%25B3%25E4%25B8%25AD%25E5%2592%258C-%25E4%25BA%2594%25E5%25B9%25B4%25E7%25B4%25AF%25E8%25A8%2588%25E7%25A2%25B3%25E5%25BC%25B7%25E5%25BA%25A6%25E9%2599%258D17&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0L_1Y_PfgLxMj2Cmg3nqrJ",
-          "published": "2026-03-28T00:03:45+00:00",
-          "summary": "國務院總理李強在第十四屆全國人民代表大會第四次會議開幕會上發表政府工作報告，提出2026至2030年期間，單位國內生產總值二氧化碳排放累計下降17%，&nbsp;..."
+          "title": "吳仁作打開新格局硬體維護走向顧問服務|半導體 - IEK產業情報網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D0%26nsl_id%3D276b8f63fd624883b97b00335648742a&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0vBA-f-aIsznyY6zZ7l58U",
+          "published": "2026-03-29T00:53:45+00:00",
+          "summary": "... 淨零減碳成為剛需，特別在2021年歐盟提出碳邊境調整機制（CBAM）， ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
         },
         {
-          "title": "環保展台嘉許35展商 - 澳門日報電子版",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.macaodaily.com/html/2026-03/28/content_1897721.htm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1QSlCg3FP4t-IaxsM-cg2U",
-          "published": "2026-03-27T21:27:29+00:00",
-          "summary": "... 碳中和會展活動案例徵集等。 國際會議產業聯席委員會執行總監阿勒斯、貿易發展與標準合作組織秘書長姚歆，圍繞推動“淨零”會展活動標準的落實、實現全球對接&nbsp;..."
+          "title": "展綠科技業節能外掛來了|半導體|產業新聞|產科國際所【IEK產業情報網】",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D3%26nsl_id%3D52340a5a98ea42b5aa719b699c221a77&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0sTW171njMgD9ggqzbwjz1",
+          "published": "2026-03-28T23:15:09+00:00",
+          "summary": "直到2022年，地緣政治因素導致能源原物料飆漲、台灣電費連續上升，歐盟強制淨零排碳 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
         },
         {
-          "title": "CTIMES/SmartAuto - 從燃油到機體設計航空業全鏈結啟動<b>淨零</b>碳排新藍圖",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ctimes.com.tw/DispNews/tw/%25E6%25B7%25A8%25E9%259B%25B6%25E7%25A2%25B3%25E6%258E%2592/%25E7%2592%25B0%25E5%25A2%2583%25E9%2583%25A8/%25E4%25B8%25AD%25E7%25A0%2594%25E9%2599%25A2/26032717413V.shtml&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3b3IKedEQUyo6yWQlV_4zk",
-          "published": "2026-03-27T20:38:24+00:00",
-          "summary": "在全球氣候變遷與淨零碳排壓力持續升溫的背景下，航空產業正面臨前所未有的轉型挑戰。「航空產業淨零碳排永續發展研討會」近日登場，由中華民國民航飛行員協會&nbsp;..."
+          "title": "臺南市美術館響應Earth Hour關燈行動點亮城市<b>淨零</b>願望- 預約系統-demo",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://demo.52salon.com/uninews_view.php%3Fnew_sn%3D122986&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1-jBZIF3k-KEcFU3JRcCB7",
+          "published": "2026-03-28T20:21:06+00:00",
+          "summary": "... 淨零願望」的理念。 環保局長許仁澤表示，今年透過文化場館與市民的共同參與，讓關燈行動不只是象徵性的節能活動，更是一種城市共同面對氣候變遷、實踐低碳&nbsp;..."
         },
         {
-          "title": "化肥產業碳排放| RECC<b>淨零</b>百科",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.reccessary.com/zh-tw/reccpedia/carbon-emissions/fertilizer-industry-carbon-emissions&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2tjY7jaiWPGzaoprs3Y2qy",
-          "published": "2026-03-27T20:04:26+00:00",
-          "summary": "據聯合國政府間氣候變化專門委員會（IPCC）指出，中國及印度占全球農地排放量 ... In Special Report on Climate Change and Land. IEA, 2021: Ammonia&nbsp;..."
+          "title": "從風險到價值中租攜手產業鏈領跑ESG #廣編企劃#shorts - YouTube",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/rZS4igfcDa4&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3FmO1vwSSbDyidzHw88i3i",
+          "published": "2026-03-28T19:16:19+00:00",
+          "summary": "永續發展不再只是口號，中租將持續與產業鏈並肩作戰， 運用創新金融與產業經驗，協助企業在綠色轉型的浪潮中， 穩健邁向淨零未來！ #ESG #永續發展#數位轉型#淨零&nbsp;..."
         },
         {
-          "title": "極地氣候研究應對氣候衝擊冰下科研潛水員成稀缺人才 - 公視新聞網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pts.org.tw/article/800931&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3n2t7rHj_NYrhhUF2nelRi",
-          "published": "2026-03-27T19:29:36+00:00",
-          "summary": "您能夠想像在厚達80公分的冰層底下潛水嗎？聽起來像極限運動，但在氣候變遷日益嚴重的時代，在極地冰下進行研究任務的科學潛水員，是協助科學家預測並保護地球&nbsp;..."
+          "title": "世界關燈日! 2大超商、飯店、百貨今晚8:30起關燈1小時 - MSN",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/news/living/%25E4%25B8%2596%25E7%2595%258C%25E9%2597%259C%25E7%2587%2588%25E6%2597%25A5-2%25E5%25A4%25A7%25E8%25B6%2585%25E5%2595%2586-%25E9%25A3%25AF%25E5%25BA%2597-%25E7%2599%25BE%25E8%25B2%25A8%25E4%25BB%258A%25E6%2599%259A8-30%25E8%25B5%25B7%25E9%2597%259C%25E7%2587%25881%25E5%25B0%258F%25E6%2599%2582/ar-AA1ZAoBd%3Fcvid%3D69c8261a5394493fa88907b1e3252a9b%26ocid%3Dwindirect&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3YbfRg5Lf6T8y06zvNLDhI",
+          "published": "2026-03-28T19:14:19+00:00",
+          "summary": "今年3月28日為「世界關燈日」，台灣2大超商、電商、多家飯店今晚將關閉招牌燈1小時，7-ELEVEN更自主延長關燈2小時，以實際行動關注氣候變遷議題。(賴俊佑)"
         },
         {
-          "title": "<b>淨零</b>學院」及「<b>淨零</b>城市發展自治條例」等措施，預計在2025年達成何種氣候治理的里程碑？",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gvm.com.tw/aigc/%25E9%25AB%2598%25E9%259B%2584%25E9%2580%258F%25E9%2581%258E%25E7%2594%25A2%25E6%25A5%25AD-26277692&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw37TpdQuUlEQEp67Xd9xb48",
-          "published": "2026-03-27T18:51:23+00:00",
-          "summary": "高雄的淨零政策與措施高雄近年來積極轉型，透過成立「產業淨零大聯盟」、成立「淨零學院」、公布「淨零城市發展自治條例」等措施，逐步完善氣候治理的輪廓。"
+          "title": "討論牆| 家登加入TRE100倡議加速邁向<b>淨零</b>排放 - LINE TODAY",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/vXOpOvl&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw373wXh-QsZ6vQ28G7dTaGg",
+          "published": "2026-03-28T17:52:10+00:00",
+          "summary": "0則貼文| 快來參與LINE TODAY討論牆上的討論| 家登加入TRE100倡議加速邁向淨零排放."
         }
       ]
     }
