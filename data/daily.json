@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-03-29T03:54:58.984774+00:00",
-    "date": "2026-03-29",
+    "generated_at": "2026-03-30T03:58:42.866329+00:00",
+    "date": "2026-03-30",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,10 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "麥肯錫：72% 企業將主權 AI 納入 2026 年發展，推動主權 AI 須執行的 3 階段藍圖是什麼？",
-          "link": "https://techorange.com/2026/03/28/sovereign-ai-mckinsey/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-27T22:29:00+00:00",
-          "summary": "麥肯錫發布報告《Sovereign AI: Building ecosystems for strategic resilience and impact》，預估到了 2030 年，主權 AI 將撼動全球高達 6,000 億美元的市場商機。 然而現況是，高達 72% 的企業雖將主權 AI 納入發展藍圖，卻深陷「必須全端自建」的迷思，導致專案淪為缺乏預算的紙上談兵。 這份報告從市場規模、企業導入痛點"
+          "title": "多數歐企 AI 停在摘要信件層次？AWS 報告分析企業深度採用 AI 的三大門檻",
+          "link": "https://techorange.com/2026/03/30/europe-ai-transformation-race/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-30T03:17:24+00:00",
+          "summary": "歐洲企業的 AI 採用率在近兩年內從 42% 跳升至 54%，技術投資年增 26%，數字看起來相當亮眼，但 AWS《解鎖歐洲 AI 潛力》報告一個數字讓人難以忽視：在這跳升到 54% 的企業中，真正以具變革性方式應用 AI 的只有 22%。 採用率在成長，但深度沒有。這種困境並非歐洲獨有，從澳洲到亞太，各地政府與企業都面對 AI 競爭窗口正在收窄，而多數人還沒準備好的壓力。 多數企業卡在基礎應用，"
+        },
+        {
+          "title": "汽車業的「Nokia 時刻」來了？比亞迪、吉利重寫造車節奏，歐洲車廠被迫重整中國戰略",
+          "link": "https://techorange.com/2026/03/30/china-ev-boom-sees-byd-geely-leapmotor-rewriting-global-auto-industry-rules/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-30T02:51:48+00:00",
+          "summary": "過去數十年來，全球汽車製造商多半以德國的工程技術、美國底特律的生產規模，或是日本的可靠性作為衡量標準。然而，如今新的業界基準已轉向中國，市場將此稱為「中國速度」（China Speed）：這意味著更快的開發週期、軟體優先的設計理念、深度的供應鏈整合，以及持續壓低成本的造車模式。 這波變革已不再只限於理論或單純賣出更多電動車，而是由比亞迪（BYD）、吉利（Geely）與零跑汽車（Leapmotor）"
+        },
+        {
+          "title": "蘋果 AI 轉型真的落後？手握 25 億台消費端裝置，專家揭蘋果佈局",
+          "link": "https://techorange.com/2026/03/30/apple-ai-bet-on-customer-base/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-30T02:20:59+00:00",
+          "summary": "蘋果似乎正在錯失 AI 所帶來的科技革命良機，但專家指出，真實情況是蘋果非常清楚，這場全球資本主義史上最狂熱的 AI 軍備競賽，最終將無法為公司帶來足夠回報。"
+        },
+        {
+          "title": "當對手也用 AI，你的品牌還剩什麼？拆解 2026 行銷生存戰：人性化敘事才是最後護城河",
+          "link": "https://techorange.com/2026/03/30/is-ai-worth-what-it-costs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-30T01:54:09+00:00",
+          "summary": "隨著 2026 年進入第二季，AI 的發展呈現出一種明顯落差。一方面，它被視為世代級的技術轉折點，快速滲透各個產業；另一方面，市場對其期待也出現過熱現象。《Inc.》報導指出，大型科技公司持續加碼投資，試圖主導未來 AI 產業的競爭版圖，但在企業現場，特別是中小型公司與行銷產業，討論的焦點已明顯轉向一個更務實的問題：AI 究竟帶來多少實際回報。 AI 代理接管營運前線，人均生產力迎來 15% 成長"
+        },
+        {
+          "title": "【DEAT 專欄】一個 App 串起生活各種需求，數位政策該如何同步？",
+          "link": "https://techorange.com/2026/03/30/deat-app-policy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-30T01:30:00+00:00",
+          "summary": "早上用共享機車趕上捷運，中午透過外送平台解決用餐，下午在咖啡廳借一顆行動電源撐完會議，晚上再打開通訊軟體協調隔天行程。這些行為分別落在交通、物流、租賃與通訊服務之中，但對使用者而言，它們早已自然地串連在同一段生活流程裡。 這樣的改變，也反映在數位平台本身。許多平台已不再只是單一服務的提供者，而是同時涵蓋交易、媒合、資料處理與即時調度等多重功能，並在不同場景之間持續延伸。當服務邊界逐漸模糊，平台的角"
+        },
+        {
+          "title": "【科技早餐】Meta 不只做 AI，是把整間公司改造成 AI 原生組織",
+          "link": "https://techorange.com/2026/03/30/meta-reality-lab-https-www-meta-com-brand-resources-meta-company-brand-shifts-to-ai-builder-project/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-29T22:50:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Meta 不只做 AI，是把整間公司改造成 AI 原生組織 在宣布中止累計虧損逾 800 億美元的元宇宙事業後，Meta 正加速把 AI 推進公司內部運作。根據外媒取得的內部備忘錄，Reality Labs 旗下開發者工具部門已啟動試點，約 1,000 名員工將被重新命名為 AI Builder、AI Pod Lead 與 AI Org Lead"
         }
       ]
     },
@@ -24,34 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "「168減重」要選對時間！台大研究：搭配傍晚7點前吃完更有效",
-          "link": "https://www.gvm.com.tw/article/129033",
-          "published": "2026-03-28T11:30:00",
-          "summary": "台灣大學公共衛生學院26日公布最新研究發現，若想透過限時進食（TRE）減重，關鍵可能不止是「吃多久」 ，而是「吃對時間」 。為減重，不少人採取168等限時進食法，台大研究，搭配「吃對時間」更有效，整合全球41項隨機對照試驗、2287名成人資料，傍晚7時前吃完最後一餐，可多降1公斤、腰圍少3公分。依據世界肥胖聯盟估計，2035年全球肥胖人口數將達到19億人，相當每4人就有1人肥胖，代謝症候群成重要公"
+          "title": "睡前小酌破壞深層睡眠？專家建議不如從「3營養」下手",
+          "link": "https://www.gvm.com.tw/article/129040",
+          "published": "2026-03-29T16:00:00",
+          "summary": "不少民眾為了助眠，習慣在睡前小酌，但可能半夜3、4時左右容易醒來，甚至難以再次入睡。營養師提醒，小酒助入睡，反使睡眠整夜都破碎；真要助眠，可從3大營養下手。小酌看似助眠，開業診所營養師范睿珉今天透過新聞稿說明，這是因為酒精在體內達到一定濃度時，具有神經抑制作用，會讓人感到放鬆與昏昏欲睡；然而隨著酒精在體內代謝、交感神經的反彈回升，將導致提早清醒，睡眠容易淺而零碎，而深層睡眠比例下降，影響夜間身體修"
         },
         {
-          "title": "拒絕無效聚餐！我靠延遲滿足省錢法，存到人生第一桶金",
-          "link": "https://www.gvm.com.tw/article/129041",
-          "published": "2026-03-28T11:00:00",
-          "summary": "幾年前，我的人生遭逢巨變，原本習慣在家吃飯的我，瞬間變成三餐外食的台北職場人士。講實話，在台北餐餐外食的伙食費相當驚人。後來仔細檢討，我發現消費黑洞，和許多不得不的聚餐、或者省時早餐有關係。如何減少？我運用了延遲滿足省錢法，珍貴的社交人脈一樣維持著，但是也省下人生第一桶金。幾年前，我的人生遭逢巨變，原本習慣在家吃飯的我，瞬間變成三餐外食的台北職場人士。講實話，在台北餐餐外食的伙食費相當驚人。起初我"
+          "title": "理解自己一無所知，就是一種智慧！森林智者傳授魔法箴言：我可能錯了",
+          "link": "https://www.gvm.com.tw/article/129011",
+          "published": "2026-03-29T14:48:00",
+          "summary": "26歲事業有成的比約恩，在即將成為跨國大企業最年輕的財務長時，選擇拋下一切到泰國森林展開17年的出家生活。在森林寺院中，他被授予了稱號Natthiko──意思是「在智慧中成長的人」。而「我可能錯了」這句話，正是比約恩在寺院中汲取到最關鍵的智慧。（本文節錄自《我可能錯了》一書，作者：比約恩．納提科．林德布勞，卡洛琳．班克勒，納維德．莫迪里／繪者：托馬斯．桑切斯，先覺出版 ，以下為摘文。）「今晚，我要"
         },
         {
-          "title": "當代福爾摩斯謝幕！國際鑑識傳奇李昌鈺自宅辭世，享壽87歲",
-          "link": "https://www.gvm.com.tw/article/129062",
-          "published": "2026-03-28T08:55:00",
-          "summary": "被譽為「華人神探」與「當代福爾摩斯」的全球鑑識界指標人物李昌鈺博士（Dr. Henry C. Lee），於美國時間27日在內華達州自宅中安詳離世，享壽87歲。李博士一生致力於法醫科學，透過精確的鑑識技術讓物證「開口說話」，不僅翻轉了無數重案的走向，更對現代司法公正產生了深遠影響。從「太平輪」遺族到台灣最年輕警長李昌鈺的傳奇人生始於江蘇如皋，1938年出生於富庶之家的他，命運在1949年隨母遷台時發"
+          "title": "散戶在市場上永遠只有被宰的份？想贏過大盤，反而要避開「高效率市場」",
+          "link": "https://www.gvm.com.tw/article/128964",
+          "published": "2026-03-29T14:44:00",
+          "summary": "散戶在市場上永遠只有被宰的份？之所以會輸錢，是不夠了解自身的優缺點。當你停止追逐市場焦點，找出適合自己的戰場，才是轉虧為盈的關鍵。對於散戶而言，如果我們希望「以小搏大」，那我們必須避開「高效率市場」，選擇被忽略、資訊相對不透明、可能存在價格與價值錯配的「低效率市場」。（本文節錄自《邏輯投資》一書，作者：邏輯投資（劉冠宏），天下文化出版，以下為摘文。）與高效率市場相反，低效率市場通常具備以下特徵：特"
         },
         {
-          "title": "窮忙族無法瘦瘦針，如何控血糖？研究：這動作免錢有效！完整教學",
-          "link": "https://www.gvm.com.tw/article/129043",
-          "published": "2026-03-28T07:05:00",
-          "summary": "當猛健樂等瘦瘦針療法在台灣逐漸風行，高昂成本也引來一些人批評，是否這就是富人特權？如果每天只能在辦公室窮忙、無暇運動或者花大錢養生的上班族，已有糖尿病前期風險也有辦法控血糖嗎？2022年有一位美國學者找到，坐在椅子上就能降血糖的運動，在辦公室就能做。2025年匈牙利團隊跟進小型研究證實有效！論文怎麼說？怎麼做？效果是輕微還是明顯？正確姿勢教學一次看懂。目錄&nbsp;●&nbsp;懶人椅子運動如何"
+          "title": "無論在哪讀都興味盎然！蔡康永推薦《萬物的名字》：這本書啟發我想像",
+          "link": "https://www.gvm.com.tw/article/128939",
+          "published": "2026-03-29T14:43:00",
+          "summary": "林奈是一名醫師，出身瑞典貧困家庭，用盡方法才得以接受教育，他相信生命應該被歸納進整齊、靜態的分類中；布豐則是貴族出身的通才，管理著皇家植物園，他將生命視為動態流轉的複雜集合，對萬物的態度更文學和存在主義。這兩位個性迥異的奇男子，都選擇將一生奉獻給當時最艱鉅的任務──辨識並描述地球上所有的生命。（本文節錄自《萬物的名字》一書，作者：傑森．羅伯茲，麥田出版，以下為摘文。）布豐與林奈同於一七○七年出生，"
         },
         {
-          "title": "蚊子找人只憑兩大訊號！美國科學家追蹤數百隻蚊子曝結果：深色與二氧化碳濃度",
-          "link": "https://www.gvm.com.tw/article/129027",
-          "published": "2026-03-28T07:00:00",
-          "summary": "蚊子真的會盯上某個人。美國科學家追蹤數百隻圍繞人類受試者盤旋的蚊子，並分析 5 千萬個數據點，發現蚊子依據顏色與二氧化碳濃度這兩個信號，來決定是否要攻擊人類，只要掌握這兩個訊號，就可以預測蚊子的飛行規律。蚊子不只令人厭煩，還會傳播瘧疾、黃熱病和寨卡病毒等危險疾病，這些疾病每年造成超過70萬人死亡。美國喬治亞大學科學家表示，先前研究發現視覺線索和二氧化碳會吸引蚊子，但不知道它們是如何將這些線索結合起"
+          "title": "當戰爭發生、金融系統失效：你該準備哪些能在混亂中流通的「準貨幣」？",
+          "link": "https://www.gvm.com.tw/article/128932",
+          "published": "2026-03-29T14:41:00",
+          "summary": "全球戰事頻傳，我沒有多餘的錢，還需要學「地緣風險理財」嗎？事實上，愈是預算緊迫、沒錢的人，才愈需要提前準備！在極端情境下，錢不夠的人會愈沒錢（幣值下跌）、愈買不起東西（物價飆漲）。但如果平時就儲備了足夠的必需品，就代表危機時刻的「現金需求」較低，自然也就比較不受惡性通膨的影響。（本文節錄自《地緣風險理財課》一書，作者：劉玉皙，三采出版，以下為摘文。）很多人可能沒想過，現在我們用便宜的價格儲備的糧食"
+        },
+        {
+          "title": "乾淨的家一定會有好事發生！收納整理師：髒亂的家，財神爺進來也會跌倒",
+          "link": "https://www.gvm.com.tw/article/128996",
+          "published": "2026-03-29T14:38:00",
+          "summary": "整理，是一種讓自己重新出發的練習，我們以為整理只是把東西放好，卻在收與放之間，看見生命的重量與痕跡。整理物品的過程不僅是表面上的秩序重建，還是心靈的療癒過程。（本文節錄自《內在整理》一書，作者：廖心筠，鄧惠文，商周出版，以下為摘文。）乾淨舒服的家，也是給孩子的一種愛通常來預約的都是媽媽、女兒、姊妹，這次很特別，竟然是先生主動來預約。第一次見面，就感受到余先生親切爽朗，又不時搞笑的個性，他見到我們非"
         }
       ]
     },
@@ -60,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "吳仁作打開新格局硬體維護走向顧問服務|半導體 - IEK產業情報網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D0%26nsl_id%3D276b8f63fd624883b97b00335648742a&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0vBA-f-aIsznyY6zZ7l58U",
-          "published": "2026-03-29T00:53:45+00:00",
-          "summary": "... 淨零減碳成為剛需，特別在2021年歐盟提出碳邊境調整機制（CBAM）， ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
+          "title": "北醫大榮獲節能標竿金獎智慧校園節電逾180萬度成亮點 - 經濟部",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.moea.gov.tw/Mns/populace/news/News.aspx%3Fkind%3D1%26menu_id%3D40%26news_id%3D122240&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0eISufVCnr3tLex9oJj278",
+          "published": "2026-03-30T03:51:58+00:00",
+          "summary": "校方亦推動「綠色實驗室」專案，將能源永續策略深化至實驗室，展現邁向淨零排放的決心與執行力。相較於基準年，校園年用電量減少逾180萬，不僅減少851公噸的&nbsp;..."
         },
         {
-          "title": "展綠科技業節能外掛來了|半導體|產業新聞|產科國際所【IEK產業情報網】",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D3%26nsl_id%3D52340a5a98ea42b5aa719b699c221a77&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0sTW171njMgD9ggqzbwjz1",
-          "published": "2026-03-28T23:15:09+00:00",
-          "summary": "直到2022年，地緣政治因素導致能源原物料飆漲、台灣電費連續上升，歐盟強制淨零排碳 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
+          "title": "中石油發佈2025年度ESG報告摘要聚焦氣候變化、安全生產及科技創新三大關鍵議題",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sl886.com/newstrading/4394942&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0A0vVGiulxvWUonBJ5ghbk",
+          "published": "2026-03-30T03:42:49+00:00",
+          "summary": "中國石油(00857.HK)(601857.SH)發佈2025年度環境、社會和治理(ESG)報告摘要  。報告經董事會審議通過，並獲香港品質保證局出具獨立有限保證鑒證報告。"
         },
         {
-          "title": "臺南市美術館響應Earth Hour關燈行動點亮城市<b>淨零</b>願望- 預約系統-demo",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://demo.52salon.com/uninews_view.php%3Fnew_sn%3D122986&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1-jBZIF3k-KEcFU3JRcCB7",
-          "published": "2026-03-28T20:21:06+00:00",
-          "summary": "... 淨零願望」的理念。 環保局長許仁澤表示，今年透過文化場館與市民的共同參與，讓關燈行動不只是象徵性的節能活動，更是一種城市共同面對氣候變遷、實踐低碳&nbsp;..."
+          "title": "ESG永續台灣高峰會》這兩大轉型決定台灣國力！國發會高仙桂點名「3項制度創新」是綠色競爭力關鍵",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.businessnews.com.tw/33151&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1IfNFIn0l-ghBfc5oPLGMn",
+          "published": "2026-03-30T02:48:44+00:00",
+          "summary": "... 淨零與數位轉型的關鍵因素。(圖片/今周刊提供). 台灣達成淨零、能源轉型3項關鍵. 為實現淨零轉型，去（2025）年總統府氣候變遷對策委員會上，國發會提出「台灣&nbsp;..."
         },
         {
-          "title": "從風險到價值中租攜手產業鏈領跑ESG #廣編企劃#shorts - YouTube",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/rZS4igfcDa4&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3FmO1vwSSbDyidzHw88i3i",
-          "published": "2026-03-28T19:16:19+00:00",
-          "summary": "永續發展不再只是口號，中租將持續與產業鏈並肩作戰， 運用創新金融與產業經驗，協助企業在綠色轉型的浪潮中， 穩健邁向淨零未來！ #ESG #永續發展#數位轉型#淨零&nbsp;..."
+          "title": "請支援復原：極端氣候加劇災損，農業保險10年覆蓋率為何仍難提升？ - 報導者The Reporter",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.twreporter.org/a/taiwan-agricultural-insurance-decade-of-struggles&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0ZVSHEiqcYKFmj6FVVikCJ",
+          "published": "2026-03-30T02:34:40+00:00",
+          "summary": "為了分散風險，農業部自2015年起推動農業保險，希望讓農民在災害發生後仍有基本保障。不過，10年過去，整體發展不如預期，多數作物投保率偏低，保單品項開發也面臨不少&nbsp;..."
         },
         {
-          "title": "世界關燈日! 2大超商、飯店、百貨今晚8:30起關燈1小時 - MSN",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/news/living/%25E4%25B8%2596%25E7%2595%258C%25E9%2597%259C%25E7%2587%2588%25E6%2597%25A5-2%25E5%25A4%25A7%25E8%25B6%2585%25E5%2595%2586-%25E9%25A3%25AF%25E5%25BA%2597-%25E7%2599%25BE%25E8%25B2%25A8%25E4%25BB%258A%25E6%2599%259A8-30%25E8%25B5%25B7%25E9%2597%259C%25E7%2587%25881%25E5%25B0%258F%25E6%2599%2582/ar-AA1ZAoBd%3Fcvid%3D69c8261a5394493fa88907b1e3252a9b%26ocid%3Dwindirect&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3YbfRg5Lf6T8y06zvNLDhI",
-          "published": "2026-03-28T19:14:19+00:00",
-          "summary": "今年3月28日為「世界關燈日」，台灣2大超商、電商、多家飯店今晚將關閉招牌燈1小時，7-ELEVEN更自主延長關燈2小時，以實際行動關注氣候變遷議題。(賴俊佑)"
+          "title": "響應全球「關燈一小時」！竹市串聯在地企業與學校共創減碳綠生活 - 中央社",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/postwrite/chi/429392&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1PsCm9Vi5LYdR-Q4sB0EqO",
+          "published": "2026-03-30T02:24:42+00:00",
+          "summary": "... 氣候變遷等問題，更感謝民眾共同支持，讓竹市今夜星空分外璀璨，也讓地球 ... 淨零綠生活的舒適環境，逐步邁向幸福友善的城市願景。"
         },
         {
-          "title": "討論牆| 家登加入TRE100倡議加速邁向<b>淨零</b>排放 - LINE TODAY",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/vXOpOvl&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw373wXh-QsZ6vQ28G7dTaGg",
-          "published": "2026-03-28T17:52:10+00:00",
-          "summary": "0則貼文| 快來參與LINE TODAY討論牆上的討論| 家登加入TRE100倡議加速邁向淨零排放."
+          "title": "新華絲路：從共識到行動，全球南方推動國際資本綠色流動 - 美通社",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://hk.prnasia.com/story/527235-2.shtml&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2pCt6maseQXN7-UKYeEhih",
+          "published": "2026-03-30T02:07:28+00:00",
+          "summary": "北京2026年3月30日/美通社/ -- 25日，2026全球南方金融家論壇在北京國家金融信息大廈開幕。來自全球30多個國家和地區的政府部門、金融機構、企業、媒體及國際&nbsp;..."
         }
       ]
     }
