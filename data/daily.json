@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-03-30T03:58:42.866329+00:00",
-    "date": "2026-03-30",
+    "generated_at": "2026-03-31T03:49:46.525480+00:00",
+    "date": "2026-03-31",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "多數歐企 AI 停在摘要信件層次？AWS 報告分析企業深度採用 AI 的三大門檻",
-          "link": "https://techorange.com/2026/03/30/europe-ai-transformation-race/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-30T03:17:24+00:00",
-          "summary": "歐洲企業的 AI 採用率在近兩年內從 42% 跳升至 54%，技術投資年增 26%，數字看起來相當亮眼，但 AWS《解鎖歐洲 AI 潛力》報告一個數字讓人難以忽視：在這跳升到 54% 的企業中，真正以具變革性方式應用 AI 的只有 22%。 採用率在成長，但深度沒有。這種困境並非歐洲獨有，從澳洲到亞太，各地政府與企業都面對 AI 競爭窗口正在收窄，而多數人還沒準備好的壓力。 多數企業卡在基礎應用，"
+          "title": "告別關鍵字堆砌：2026 零售行銷新戰場，如何餵養 AI 想要的評論數據？",
+          "link": "https://techorange.com/2026/03/31/comments-in-ai-search-era/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-31T01:59:21+00:00",
+          "summary": "近期，電商平台巨頭 Amazon 先後封鎖 OpenAI 以及 Perplexity 的 AI 爬蟲後，實際上切斷了 AI 獲取品牌口碑的渠道，揭示了一個對零售品牌行銷上迫切的問題：當最完整、最有價值的評論資料被鎖進電商平台的圍牆中，品牌該如何重新佈局，才能在 AI 建議的搜尋結果中，持續保持競爭力與能見度？ 開放的社群、去中心化評論布局，成 AI 搜尋新戰場 《Modern Retail》報導指"
         },
         {
-          "title": "汽車業的「Nokia 時刻」來了？比亞迪、吉利重寫造車節奏，歐洲車廠被迫重整中國戰略",
-          "link": "https://techorange.com/2026/03/30/china-ev-boom-sees-byd-geely-leapmotor-rewriting-global-auto-industry-rules/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-30T02:51:48+00:00",
-          "summary": "過去數十年來，全球汽車製造商多半以德國的工程技術、美國底特律的生產規模，或是日本的可靠性作為衡量標準。然而，如今新的業界基準已轉向中國，市場將此稱為「中國速度」（China Speed）：這意味著更快的開發週期、軟體優先的設計理念、深度的供應鏈整合，以及持續壓低成本的造車模式。 這波變革已不再只限於理論或單純賣出更多電動車，而是由比亞迪（BYD）、吉利（Geely）與零跑汽車（Leapmotor）"
+          "title": "【受遊戲《模擬市民》啟發】Simile 訓練 AI 模擬人類做市調，老牌民調公司蓋洛普也買單",
+          "link": "https://techorange.com/2026/03/31/ai-digital-twins-for-market-research/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-31T01:49:26+00:00",
+          "summary": "AI 新創公司 Simile 提出大膽假設，透過人工智慧模型徹底模擬和預測人類行為，並以 AI 取代人力進行民意調查和市場研究，打造消費者的 AI 代理數位分身。"
         },
         {
-          "title": "蘋果 AI 轉型真的落後？手握 25 億台消費端裝置，專家揭蘋果佈局",
-          "link": "https://techorange.com/2026/03/30/apple-ai-bet-on-customer-base/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-30T02:20:59+00:00",
-          "summary": "蘋果似乎正在錯失 AI 所帶來的科技革命良機，但專家指出，真實情況是蘋果非常清楚，這場全球資本主義史上最狂熱的 AI 軍備競賽，最終將無法為公司帶來足夠回報。"
+          "title": "高齡者成詐騙首要目標，美國退休金融機構如何利用 AI 保護老年人",
+          "link": "https://techorange.com/2026/03/31/older-adults-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-31T01:41:30+00:00",
+          "summary": "根據美國退休金融機構 TIAA 報告指出，到 2030 年代，65 歲以上的老年人口將首次超過 18 歲以下的年輕人口。這場大規模的人口轉型，不僅是社會福利體系的挑戰，也對金融機構提出了新的課題。 當越來越多的客戶進入大腦認知衰退風險的年紀，如何確保他們的財富不因判斷力下降而受損？而 TIAA，也試圖用 AI 回答這個問題。 高齡化浪潮下的財務脆弱性 老年期的財務管理，從來就不是一件輕鬆的事。退休"
         },
         {
-          "title": "當對手也用 AI，你的品牌還剩什麼？拆解 2026 行銷生存戰：人性化敘事才是最後護城河",
-          "link": "https://techorange.com/2026/03/30/is-ai-worth-what-it-costs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-30T01:54:09+00:00",
-          "summary": "隨著 2026 年進入第二季，AI 的發展呈現出一種明顯落差。一方面，它被視為世代級的技術轉折點，快速滲透各個產業；另一方面，市場對其期待也出現過熱現象。《Inc.》報導指出，大型科技公司持續加碼投資，試圖主導未來 AI 產業的競爭版圖，但在企業現場，特別是中小型公司與行銷產業，討論的焦點已明顯轉向一個更務實的問題：AI 究竟帶來多少實際回報。 AI 代理接管營運前線，人均生產力迎來 15% 成長"
+          "title": "【科技早餐】軟銀獲 400 億美元無擔保貸款，支應對 OpenAI 的 300 億美元投資計畫",
+          "link": "https://techorange.com/2026/03/31/softbank-secure-40-billion-bridge-loan-for-openai-sake/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-30T22:50:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊SoftBank 借 400 億美元加碼 OpenAI，持股上看 13% 根據外媒最新消息，軟銀已取得 400 億美元過渡性融資，主要用途是支應對 OpenAI 承諾的 300 億美元追加投資，以及其他一般企業用途。這筆貸款為軟銀集團歷來規模最大的單一美元計價融資，無擔保、期限 12 個月，承辦銀行包括摩根大通（JPMorgan）、高盛（Gold"
         },
         {
-          "title": "【DEAT 專欄】一個 App 串起生活各種需求，數位政策該如何同步？",
-          "link": "https://techorange.com/2026/03/30/deat-app-policy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-30T01:30:00+00:00",
-          "summary": "早上用共享機車趕上捷運，中午透過外送平台解決用餐，下午在咖啡廳借一顆行動電源撐完會議，晚上再打開通訊軟體協調隔天行程。這些行為分別落在交通、物流、租賃與通訊服務之中，但對使用者而言，它們早已自然地串連在同一段生活流程裡。 這樣的改變，也反映在數位平台本身。許多平台已不再只是單一服務的提供者，而是同時涵蓋交易、媒合、資料處理與即時調度等多重功能，並在不同場景之間持續延伸。當服務邊界逐漸模糊，平台的角"
+          "title": "AI 下一個 10 億用戶怎麼來？a16z 點「信任牆」命題，解析中介時代的三大結構轉變",
+          "link": "https://techorange.com/2026/03/30/ai-adoption-gap-a16z/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-30T10:21:58+00:00",
+          "summary": "當生成式 AI 在短短 3 年內從實驗室走向大眾市場，一個關鍵門檻已經被跨越：根據微軟《Global AI Adoption 2025》報告，目前全球已有約 16.3% 人口使用過生成式 AI，相當於每 6 人就有 1 人使用。若以全球人口換算，生成式 AI 的使用者規模已逼近 10 億人門檻，但真正的問題才剛開始：當第一個 10 億用戶已經出現，下一個 10 億人，會從哪裡來？又是什麼，阻擋了他"
         },
         {
-          "title": "【科技早餐】Meta 不只做 AI，是把整間公司改造成 AI 原生組織",
-          "link": "https://techorange.com/2026/03/30/meta-reality-lab-https-www-meta-com-brand-resources-meta-company-brand-shifts-to-ai-builder-project/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-29T22:50:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Meta 不只做 AI，是把整間公司改造成 AI 原生組織 在宣布中止累計虧損逾 800 億美元的元宇宙事業後，Meta 正加速把 AI 推進公司內部運作。根據外媒取得的內部備忘錄，Reality Labs 旗下開發者工具部門已啟動試點，約 1,000 名員工將被重新命名為 AI Builder、AI Pod Lead 與 AI Org Lead"
+          "title": "AI 用電暴增，核能卻還困在「類比時代」：微軟、 NVIDIA 如何用 AI 與數位孿生改寫核電交付流程？",
+          "link": "https://techorange.com/2026/03/30/nuclear-energy-microsoft-nvidia/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-03-30T08:59:58+00:00",
+          "summary": "當 AI 資料中心擴張、製造業升級與供應鏈重組同步發生，企業對全天候、穩定且低碳電力的需求也持續激增，在這樣的背景下，核能一再被視為可以支撐未來用電的關鍵選項。然而，一直以來核電廠卻面臨「蓋得太慢」的致命傷，正如微軟全球能源與資源產業企業副總裁 Darryl Willis 所言：「全球正競相滿足歷史性的電力需求激增，但核能產業使用的卻是為類比時代所建置的基礎設施管線，核能是支撐這個未來不可或缺的骨"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "睡前小酌破壞深層睡眠？專家建議不如從「3營養」下手",
-          "link": "https://www.gvm.com.tw/article/129040",
-          "published": "2026-03-29T16:00:00",
-          "summary": "不少民眾為了助眠，習慣在睡前小酌，但可能半夜3、4時左右容易醒來，甚至難以再次入睡。營養師提醒，小酒助入睡，反使睡眠整夜都破碎；真要助眠，可從3大營養下手。小酌看似助眠，開業診所營養師范睿珉今天透過新聞稿說明，這是因為酒精在體內達到一定濃度時，具有神經抑制作用，會讓人感到放鬆與昏昏欲睡；然而隨著酒精在體內代謝、交感神經的反彈回升，將導致提早清醒，睡眠容易淺而零碎，而深層睡眠比例下降，影響夜間身體修"
+          "title": "中東荷姆茲影響大，台灣海峽一旦封鎖更致命？",
+          "link": "https://www.gvm.com.tw/article/129107",
+          "published": "2026-03-30T18:40:00",
+          "summary": "當全球正在為中東荷姆茲海峽的關閉捏一把冷汗時，一份來自《經濟學人》的最新報告投下震撼的深水炸彈：論及對全球經濟的殺傷力，荷姆茲封鎖並不是最嚴峻的，一旦台海衝突引發亞洲航道連鎖封閉，全球船舶將被迫到南半球大繞道，航程長度將暴增58％，堪稱是足以讓全球供應鏈「心肌梗塞」的末日演習，致命程度遠超乎大家想像。打開世界地圖，全球有數百條的海峽，較知名的約數十條。最新出刊的《經濟學人》自建一套模型，選出13條"
         },
         {
-          "title": "理解自己一無所知，就是一種智慧！森林智者傳授魔法箴言：我可能錯了",
-          "link": "https://www.gvm.com.tw/article/129011",
-          "published": "2026-03-29T14:48:00",
-          "summary": "26歲事業有成的比約恩，在即將成為跨國大企業最年輕的財務長時，選擇拋下一切到泰國森林展開17年的出家生活。在森林寺院中，他被授予了稱號Natthiko──意思是「在智慧中成長的人」。而「我可能錯了」這句話，正是比約恩在寺院中汲取到最關鍵的智慧。（本文節錄自《我可能錯了》一書，作者：比約恩．納提科．林德布勞，卡洛琳．班克勒，納維德．莫迪里／繪者：托馬斯．桑切斯，先覺出版 ，以下為摘文。）「今晚，我要"
+          "title": "清明連假沒有好天氣？中部以北防大雨，一週3波鋒面襲台「雷雨灌全台」",
+          "link": "https://www.gvm.com.tw/article/129106",
+          "published": "2026-03-30T18:35:00",
+          "summary": "氣象署表示，未來一週預估有3波鋒面接力，易有陣雨或雷雨；清明連假期間，4月4日起幾乎全台有雨，其中以4日雨勢最大，中部以北、宜蘭注意局部大雨。中央氣象署預報員賴欣國表示，未來一週預計會有3波鋒面接力，鋒面影響期間全台有雨，並要留意有局部陣雨或雷雨發生。賴欣國解釋，明天首波鋒面接近，北部、東北部率先變天，4月1日鋒面通過及東北季風增強，各地都有機會下雨，中部以北有較大雨勢；4月2日鋒面逐漸離開，東北"
         },
         {
-          "title": "散戶在市場上永遠只有被宰的份？想贏過大盤，反而要避開「高效率市場」",
-          "link": "https://www.gvm.com.tw/article/128964",
-          "published": "2026-03-29T14:44:00",
-          "summary": "散戶在市場上永遠只有被宰的份？之所以會輸錢，是不夠了解自身的優缺點。當你停止追逐市場焦點，找出適合自己的戰場，才是轉虧為盈的關鍵。對於散戶而言，如果我們希望「以小搏大」，那我們必須避開「高效率市場」，選擇被忽略、資訊相對不透明、可能存在價格與價值錯配的「低效率市場」。（本文節錄自《邏輯投資》一書，作者：邏輯投資（劉冠宏），天下文化出版，以下為摘文。）與高效率市場相反，低效率市場通常具備以下特徵：特"
+          "title": "2026高雄兒童節「恐龍酷樂園」4/3登場！日本擬真恐龍看點？完整開箱",
+          "link": "https://www.gvm.com.tw/article/129101",
+          "published": "2026-03-30T17:02:00",
+          "summary": "2026年的兒童節連假（4/3～4/6）還不知道帶家裡的小朋友去哪裡放電嗎？今年高雄市政府祭出史詩級超強企劃，直接把衛武營國家藝術文化中心變成超大型的「恐龍酷樂園」！本次活動最受矚目的，莫過於重磅引進日本頂尖的「DINO-A-LIVE」擬真恐龍秀首度來台。此外，還有高達6公尺的珍貴化石展、讓孩子化身考古學家的挖掘體驗，以及超過百攤的「掠食者市集」。最棒的是，活動統統免門票自由入場！跟著我們的腳步，"
         },
         {
-          "title": "無論在哪讀都興味盎然！蔡康永推薦《萬物的名字》：這本書啟發我想像",
-          "link": "https://www.gvm.com.tw/article/128939",
-          "published": "2026-03-29T14:43:00",
-          "summary": "林奈是一名醫師，出身瑞典貧困家庭，用盡方法才得以接受教育，他相信生命應該被歸納進整齊、靜態的分類中；布豐則是貴族出身的通才，管理著皇家植物園，他將生命視為動態流轉的複雜集合，對萬物的態度更文學和存在主義。這兩位個性迥異的奇男子，都選擇將一生奉獻給當時最艱鉅的任務──辨識並描述地球上所有的生命。（本文節錄自《萬物的名字》一書，作者：傑森．羅伯茲，麥田出版，以下為摘文。）布豐與林奈同於一七○七年出生，"
+          "title": "中鋼虧損擴大，50元商品卡又惹怒137萬股東！谷底反轉訊號悄悄浮現？",
+          "link": "https://www.gvm.com.tw/article/129100",
+          "published": "2026-03-30T16:55:00",
+          "summary": "曾經讓股東搶破頭的紀念品，如今只剩50元商品卡，中鋼一夕之間變成輿論箭靶。然而，更嚴峻的現實還在後頭，2月自結數字3月30日出爐，虧損不僅擴大，更出現由盈轉虧的警訊。當市場情緒與基本面同時探底，中鋼是否已走到營運谷底？又有哪些跡象，正在悄悄透露反轉的可能？擁有超過137萬名股東的鋼鐵龍頭中鋼，今年股東會還沒開，氣氛卻已降到冰點。起因來自一張「50元超商商品卡」。中鋼宣布，今年股東會紀念品為50元超"
         },
         {
-          "title": "當戰爭發生、金融系統失效：你該準備哪些能在混亂中流通的「準貨幣」？",
-          "link": "https://www.gvm.com.tw/article/128932",
-          "published": "2026-03-29T14:41:00",
-          "summary": "全球戰事頻傳，我沒有多餘的錢，還需要學「地緣風險理財」嗎？事實上，愈是預算緊迫、沒錢的人，才愈需要提前準備！在極端情境下，錢不夠的人會愈沒錢（幣值下跌）、愈買不起東西（物價飆漲）。但如果平時就儲備了足夠的必需品，就代表危機時刻的「現金需求」較低，自然也就比較不受惡性通膨的影響。（本文節錄自《地緣風險理財課》一書，作者：劉玉皙，三采出版，以下為摘文。）很多人可能沒想過，現在我們用便宜的價格儲備的糧食"
+          "title": "如何接受自己變老，同時維持幸福感？日本社造大師宮崎清這麼說",
+          "link": "https://www.gvm.com.tw/article/129095",
+          "published": "2026-03-30T16:05:00",
+          "summary": "如何讓人們在逐漸變老的過程中，依然能夠感到幸福快樂？比台灣更早開始面對超高齡社會的日本，可說是最好的借鏡。被譽為「台日社區總體營造的靈魂人物」的日本千葉大學榮譽教授宮崎清，於2026年3月底訪台，他對高齡議題有一番全新的觀察與建議。為何說好的社區共生，就是答案？奶奶那一代做的東西，為何我們應該要更感受到它的價值？如何接受自己一天天變老，依然幸福不變？高齡逾80歲的宮崎清，此行應福智佛教學院邀約前來"
         },
         {
-          "title": "乾淨的家一定會有好事發生！收納整理師：髒亂的家，財神爺進來也會跌倒",
-          "link": "https://www.gvm.com.tw/article/128996",
-          "published": "2026-03-29T14:38:00",
-          "summary": "整理，是一種讓自己重新出發的練習，我們以為整理只是把東西放好，卻在收與放之間，看見生命的重量與痕跡。整理物品的過程不僅是表面上的秩序重建，還是心靈的療癒過程。（本文節錄自《內在整理》一書，作者：廖心筠，鄧惠文，商周出版，以下為摘文。）乾淨舒服的家，也是給孩子的一種愛通常來預約的都是媽媽、女兒、姊妹，這次很特別，竟然是先生主動來預約。第一次見面，就感受到余先生親切爽朗，又不時搞笑的個性，他見到我們非"
+          "title": "美伊開戰，台灣更危險還是更安全？專家解析2026台海變數",
+          "link": "https://www.gvm.com.tw/article/129094",
+          "published": "2026-03-30T15:47:00",
+          "summary": "美伊開戰牽動全球戰略重組，台海局勢也隨之升高不確定性，台灣民眾該怎麼因應？需要預備好物資或者做好理財嗎？本文解析美軍兵力調動、軍售延宕與威懾變化，並評估中國對動武的風險權衡。整體而言，短期內中國趨於克制，但長期仍受美中博弈、能源與經濟壓力影響，台海安全的不確定性將隨大國競逐而持續升高。美伊衝突下，台灣是否更危險？，這個問題的答案，不再取決於單純的武力對比，而是在於美國深陷中東戰爭而分心與北京對實戰"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "北醫大榮獲節能標竿金獎智慧校園節電逾180萬度成亮點 - 經濟部",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.moea.gov.tw/Mns/populace/news/News.aspx%3Fkind%3D1%26menu_id%3D40%26news_id%3D122240&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0eISufVCnr3tLex9oJj278",
-          "published": "2026-03-30T03:51:58+00:00",
-          "summary": "校方亦推動「綠色實驗室」專案，將能源永續策略深化至實驗室，展現邁向淨零排放的決心與執行力。相較於基準年，校園年用電量減少逾180萬，不僅減少851公噸的&nbsp;..."
+          "title": "新北友善建築工地評選4月開跑！聚焦<b>淨零</b>碳排與智慧科技 - 中華日報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cdns.com.tw/articles/1380601&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3yMtzA4hF4y3zdnqB7vv9J",
+          "published": "2026-03-31T03:13:58+00:00",
+          "summary": "新北市工務局長馮兆麟表示，隨著全球氣候變遷與SDGs（環境、社會、公司治理）浪潮，建築產業作為城市發展的重要基礎，肩負減碳責任。本次評選特別納入低碳&nbsp;..."
         },
         {
-          "title": "中石油發佈2025年度ESG報告摘要聚焦氣候變化、安全生產及科技創新三大關鍵議題",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sl886.com/newstrading/4394942&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0A0vVGiulxvWUonBJ5ghbk",
-          "published": "2026-03-30T03:42:49+00:00",
-          "summary": "中國石油(00857.HK)(601857.SH)發佈2025年度環境、社會和治理(ESG)報告摘要  。報告經董事會審議通過，並獲香港品質保證局出具獨立有限保證鑒證報告。"
+          "title": "舊物變新寶彰化縣環保<b>淨零</b>嘉年華邀您體驗「以物易物」的樂趣",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.chcg.gov.tw/ch2/newsdetail.aspx%3Fbull_id%3D428232%26utm_source%3Dwebsite%26utm_medium%3Dindex%26utm_campaign%3Dnews01&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw25q0xawxs37DF_J4HHldsR",
+          "published": "2026-03-31T02:52:05+00:00",
+          "summary": "現場特別規劃二手物交換及再生家具展售攤位，邀請民眾攜帶家中閒置物品參與交換，在挖寶樂趣中實踐資源循環再利用。 彰化縣環境保護局表示，本次活動現場將準備書籍&nbsp;..."
         },
         {
-          "title": "ESG永續台灣高峰會》這兩大轉型決定台灣國力！國發會高仙桂點名「3項制度創新」是綠色競爭力關鍵",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.businessnews.com.tw/33151&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1IfNFIn0l-ghBfc5oPLGMn",
-          "published": "2026-03-30T02:48:44+00:00",
-          "summary": "... 淨零與數位轉型的關鍵因素。(圖片/今周刊提供). 台灣達成淨零、能源轉型3項關鍵. 為實現淨零轉型，去（2025）年總統府氣候變遷對策委員會上，國發會提出「台灣&nbsp;..."
+          "title": "台經社解析：<b>氣候變遷</b>衝擊海洋生態、糧食供應、人口健康、產業發展 - 中央社",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/postwrite/chi/429572&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2h0uPfzaam_4PJ08WRZKzr",
+          "published": "2026-03-31T02:20:33+00:00",
+          "summary": "台灣經濟研究社永續政策研究中心表示，世界氣象組織（WMO）發布《2025年全球氣候狀況》顯示，全球氣候風險持續累積，並逐步轉化為經濟體系的實質衝擊。2025年&nbsp;..."
         },
         {
-          "title": "請支援復原：極端氣候加劇災損，農業保險10年覆蓋率為何仍難提升？ - 報導者The Reporter",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.twreporter.org/a/taiwan-agricultural-insurance-decade-of-struggles&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0ZVSHEiqcYKFmj6FVVikCJ",
-          "published": "2026-03-30T02:34:40+00:00",
-          "summary": "為了分散風險，農業部自2015年起推動農業保險，希望讓農民在災害發生後仍有基本保障。不過，10年過去，整體發展不如預期，多數作物投保率偏低，保單品項開發也面臨不少&nbsp;..."
+          "title": "凍土植被百年才能重生港大研究破解全球暖化密碼 - 華僑時報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.chinesepress.com/archives/139316&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3UDod3I-zvPaC3Cq_DQRXG",
+          "published": "2026-03-31T02:03:14+00:00",
+          "summary": "有關發現可望為緩解凍土中碳釋放引緻的氣候變化加劇問題，提供重要的科學支撐。 是次研究由港中大地球與環境科學系副教授劉琳，伊利諾伊大學厄巴納香檳分校&nbsp;..."
         },
         {
-          "title": "響應全球「關燈一小時」！竹市串聯在地企業與學校共創減碳綠生活 - 中央社",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/postwrite/chi/429392&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1PsCm9Vi5LYdR-Q4sB0EqO",
-          "published": "2026-03-30T02:24:42+00:00",
-          "summary": "... 氣候變遷等問題，更感謝民眾共同支持，讓竹市今夜星空分外璀璨，也讓地球 ... 淨零綠生活的舒適環境，逐步邁向幸福友善的城市願景。"
+          "title": "汽車電動化浪潮來襲，傳統保修產業是否跟上「油電轉型」？ - 報導者The Reporter",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.twreporter.org/a/auto-repair-industry-under-eletric-vehicles-trend-1&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2nA39N9fXpaNhwdVpF93M8",
+          "published": "2026-03-31T02:00:49+00:00",
+          "summary": "機油的黑色與零件的鐵鏽味，曾是黑手職人的勳章，也是燃油車時代保修產業最熟悉的日常。隨著淨零轉型成為國家路線，習慣處理機械運作的手，如今須戴上絕緣手套，&nbsp;..."
         },
         {
-          "title": "新華絲路：從共識到行動，全球南方推動國際資本綠色流動 - 美通社",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://hk.prnasia.com/story/527235-2.shtml&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2pCt6maseQXN7-UKYeEhih",
-          "published": "2026-03-30T02:07:28+00:00",
-          "summary": "北京2026年3月30日/美通社/ -- 25日，2026全球南方金融家論壇在北京國家金融信息大廈開幕。來自全球30多個國家和地區的政府部門、金融機構、企業、媒體及國際&nbsp;..."
+          "title": "新北「友善建築工地評選」4/1起跑聚焦<b>淨零</b>與智慧營建拚低碳轉型 - 自由時報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.ltn.com.tw/news/life/breakingnews/5388047&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1K1yQhTGAKscQUkVf1yUi5",
+          "published": "2026-03-31T01:55:57+00:00",
+          "summary": "工務局長馮兆麟指出，隨著全球氣候變遷與SDGs（環境、社會、公司治理）浪潮，建築產業作為城市發展的重要基礎，肩負減碳責任。此次評選特別納入低碳施工策略&nbsp;..."
         }
       ]
     }
