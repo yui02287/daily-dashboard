@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-04-01T04:11:47.525547+00:00",
-    "date": "2026-04-01",
+    "generated_at": "2026-04-02T03:43:15.951962+00:00",
+    "date": "2026-04-02",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "【資安事件真正破口：身分】攻擊者拿著合法帳號在 29 分鐘內攻陷系統，決策者如何應對？",
-          "link": "https://techorange.com/2026/04/01/identity-resilience/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-01T02:37:57+00:00",
-          "summary": "資安事件發生後，多數組織的第一反應是搶救資料、重建伺服器、重設密碼。但這套思維正在讓企業陷入更大的風險。 根據網路安全公司 Palo Alto Networks Unit 42 全球事件回應報告，近 90% 的資安事件調查可追溯至身分遭入侵。攻擊者通常不是利用技術漏洞破門而入，而是拿著偷來的憑證，以合法使用者的身分走進來。 電信與資安服務提供商 Verizon 的資料外洩調查報告（DBIR），分析"
+          "title": "首屆 iKala Connection Day 登場！全新 GEO 平台 Chroma 與「企業龍蝦」iKala Nexus首屆 iKala Connection Day 登場！共築 AI 新視野",
+          "link": "https://techorange.com/2026/04/02/ikala-connection-day-geo-chroma-ikala-nexus/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-02T02:50:51+00:00",
+          "summary": "跨國 AI 公司 iKala 今日盛大舉辦首屆「iKala Connection Day」，以「數據共生・串聯企業核心的 AI 轉型實踐」為核心主題 ，邀集 Google Cloud、CloudAD、 momo 富邦媒體科技及輝葉按摩椅等產業領袖 ，深度剖析 AI 驅動的企業轉型架構 。會中正式亮相全新 AI 應用平台 iKala Foundry，其旗下產品 Chroma 針對 GEO（生成式引擎"
         },
         {
-          "title": "廣告主放手才是贏家？從可口可樂開放 AI 二創到 HBO 收編粉絲，拆解參與式行銷大局",
-          "link": "https://techorange.com/2026/04/01/inside-retailers-ai-strategies/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-01T01:51:48+00:00",
-          "summary": "在 AI 與 Gen Z（Z 世代）交織的時代，品牌的角色已從內容的唯一生產者，轉型為創意的基礎設施。過去，品牌的核心任務是控制訊息與敘事一致性；但如今，面對一個內容極度充沛、注意力極度稀缺的環境，完全掌控反而成為限制。取而代之的是，品牌開始透過 AI 技術降低創作門檻，將自身的經典資產轉化為可被調用的素材庫，邀請用戶進入品牌生態系，參與、延伸甚至重寫故事。 Character.AI 執行長 Ka"
+          "title": "Replit Agent 4 用「數位畫布」重新定義氛圍編碼，將程式開發變成平面設計",
+          "link": "https://techorange.com/2026/04/02/replit-vibe-coding-amjad-masad/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-02T02:49:20+00:00",
+          "summary": "AI 雲端程式開發平台 Replit 的 Agent 4 ，透過數位畫布（digital canvas）新功能，重新定義矽谷軟體圈的氛圍編碼（Vibe coding）概念，將 AI 代理輔助程式開發推向更高層次。"
         },
         {
-          "title": "【科技早餐】NVIDIA 本益比跌回 2019 低點，AI 熱潮走進重估期",
-          "link": "https://techorange.com/2026/04/01/nvidia-pe-sinks-low-since-2019/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-31T22:50:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊NVIDIA 本益比跌回 2019 低點，AI 熱潮走進重估期 根據《路透社》報導，隨著中東局勢升溫、油價與通膨疑慮擴大，加上投資人開始擔心 AI 基礎設施支出的回收期拉長，全球市值龍頭 NVIDIA 的 12 個月預估本益比已降到約 19.6 倍，來到 2019 年初以來低點，甚至低於目前約 20 倍的標普 500 綜合本益比，股價也較去年 1"
+          "title": "寫加工程式從 1 小時縮減至 4 分鐘：拆解日本 ARUM 導入對話式 AI 的精密加工實戰",
+          "link": "https://techorange.com/2026/04/02/japans-arum-turns-craftsmanship-into-scalable-ai-for-precision-manufacturing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-02T01:48:23+00:00",
+          "summary": "在日本石川縣金澤的一間工廠裡，工程師只需站在一台如同金屬小屋般的設備前，點擊螢幕，便能與一個虛擬角色對話，完成複雜的加工設定。這個名為「KAYA」的對話式 AI，正是日本精密製造商 ARUM Inc. 最新推出的核心技術之一，目標是重新定義精密加工的人才門檻與生產效率。 對話式 AI 助手「KAYA」降低精密製造門檻 KAYA 是一套建構自微軟 Azure OpenAI 與語音技術上的人機介面，並"
         },
         {
-          "title": "3 個月產能抵過去 3 年！Agibot 出貨破萬台，中國人形機器人競賽轉向製造效率戰",
-          "link": "https://techorange.com/2026/03/31/agibot-humanoid-robot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-31T10:26:46+00:00",
-          "summary": "上海人形機器人公司智元機器人（Agibot）近日宣布，累計製造的人形機器人數量已正式突破 1 萬台。更值得注意的是，Agibot 在過去 3 個月內就出貨了高達 5,000 台，等於在極短時間內，就超越了前三年累積的總出貨量。 與此同時，中國首條年產能達「萬台」級的人形機器人自動化產線，也於近日正式啟用，反映整體供應鏈、製造能力與生產基礎設施的提升，正同步將中國人形機器人產業，推向大規模量產的新階"
+          "title": "【科技早餐】甲骨文裁員上限恐達 3 萬人，AI 基建壓力開始反映在人力上",
+          "link": "https://techorange.com/2026/04/02/oracle-layoff-works-turns-to-heavy-ai-investment/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-01T22:50:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊甲骨文啟動大規模裁員，AI 基建壓力開始反映在人力上 甲骨文 (Oracle) 3 月 31 日正式啟動新一波裁員。根據外媒報導，這波裁員已波及美國、印度等多地員工，其中目前確認將裁減 491 名遠端與西雅圖員工。雖然公司尚未公布全球總裁員數字，但市場估計，若甲骨文大幅精簡人力，規模上限可能達 2 萬到 3 萬人，約占總員工數近兩成。 多家外媒指"
         },
         {
-          "title": "【Google Cloud 林書平專欄】從追求效率轉向衡量自主性：生成式 AI 顛覆營運邏輯的 3 大底層轉變",
-          "link": "https://techorange.com/2026/03/31/ai-rethinking-software-google-cloud/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-31T08:47:44+00:00",
-          "summary": "文 / Google Cloud 台灣技術總經理 林書平 根據 Google Cloud 內部調查，台灣導入生成式 AI 的企業中，有 78% 表示正在採用 AI 代理。這個比例已顯著高於亞太地區的平均值 64%，但我們發現許多企業仍在導入過程中感受到阻力。 可以理解的是，我們正在經歷軟體史上最劇烈的一次變革交鋒。這源於過去五十年來，企業習慣以「確定性模型」（deterministic model"
+          "title": "AI 原生企業崛起：為什麼 Jack Dorsey、祖克柏都在重寫公司架構設計？",
+          "link": "https://techorange.com/2026/04/01/ai-native-company-jack-dorsey-zuckberg/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-01T11:55:41+00:00",
+          "summary": "當 AI 從聊天機器人、寫程式助手，進一步滲入產品開發、資訊流動與日常決策流程，企業真正被改變的，可能不只是員工效率，而是公司本身怎麼被設計。近期，從 Block 執行長 Jack Dorsey、紅杉資本合夥人 Roelof Botha，到紅點創投與 Meta 執行長祖克柏都接連釋出相同訊號：一種「AI 原生企業」的組織型態正在浮現。 今年 2 月，Dorsey 主導的 Block 宣布裁減約 4"
         },
         {
-          "title": "用 AI 不必再選邊站！微軟 Copilot Cowork 上線，拆解導入多模型協作的背後盤算",
-          "link": "https://techorange.com/2026/03/31/ai-microsoft-copilot-researcher-critique-council/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-03-31T05:04:45+00:00",
-          "summary": "當生成式 AI 從「寫內容」走向「做事情」，企業對於 AI 的期待也正在快速轉變；最新一波轉折來自微軟。微軟不再只強化單一模型能力，而是讓不同 AI 模型在同一工作流程中協作，試圖解決 AI 準確性、效率與可控性等長期痛點。 微軟宣布，全新代理工具 Copilot Cowork 已正式透過 Frontier 早期計畫上線，該工具是專為長時間、多步驟工作而設計，旨在實現 Copilot 生態系統的自"
+          "title": "製造業如何擺脫 AI 單點優化？IBM 拆解常見的「5S」挑戰，揭開規模化導入 AI 的轉型路徑",
+          "link": "https://techorange.com/2026/04/01/ibm-ai-ready-forum/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-01T11:01:34+00:00",
+          "summary": "隨著 AI 技術快速演進，AI 已從傳統負責精準分析與輔助決策的單一任務工具，逐步進化為具備自主規劃、資料收集和行動能力的「Agent」，並成為企業內部能獨當一面的數位員工。然而，儘管 AI 技術取得巨大突破，多數企業在實際導入時卻仍面臨轉型瓶頸。 在 TechOrange 科技報橘近日舉辦的「AI Ready 數據治理論壇」中，台灣 IBM 諮詢 AI 與數據服務協理林桂如指出，目前多數企業的 "
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "從精準衛教到在地培力！長庚大學用溫暖與創新築起原鄉健康防護網",
-          "link": "https://www.gvm.com.tw/article/128887",
-          "published": "2026-04-01T00:00:00",
-          "summary": "從巡迴醫療、社區衛教到人才培育，長庚大學USR計畫深耕桃園復興山區，不只送資源上山，更要在部落種下健康與永續的希望。很難想像離台北不遠的桃園山區部落，居民得舟車勞頓兩小時才能就診。看見偏鄉醫療資源的匱乏，長庚大學護理學系副教授連心瑜帶領學生走入復興區八年不輟，從第一線的健康篩檢、生活衛教，到扎根原鄉的自主照護量能，逐步建構長期健康守護模式，讓醫療真正貼近最需要的人群。預防兒少肥胖，照護糖尿病患足健"
+          "title": "兒童節看芬蘭教育觀點：童年很短暫，請給他們時間當真正的小孩",
+          "link": "https://www.gvm.com.tw/article/72657",
+          "published": "2026-04-01T19:39:00",
+          "summary": "兒童節連假即將到來，你與你的孩子打算怎麼安排？孩子的腦需要適當休息，給他們一些喘息的機會，去奔跑、去唱歌、去畫畫。因為童年很短暫，要讓他們有時間當真正的小孩。（本文摘自《你的管教，能讓孩子成為更好的大人》一書，以下為摘文。）我曾看過一部印象十分深刻的影片，是美國製片麥可摩爾紀錄片〈下一個入侵是甚麼？〉(Where to invade next？) ，擷取關於芬蘭教育世界第一探索。以前，看到台灣太多"
         },
         {
-          "title": "政大開辦IFRS S2工作坊，助企業2027年接軌氣候揭露評鑑",
-          "link": "https://www.gvm.com.tw/article/128890",
-          "published": "2026-04-01T00:00:00",
-          "summary": "在全球氣候變遷風險日益加劇與永續治理要求持續提升趨勢下，企業氣候相關揭露的透明度與完整性已成為利害關係人關注的核心。隨著我國推動接軌國際永續準則，特別是IFRS S2氣候相關揭露規範的導入，企業面臨從既有TCFD架構轉型的時刻。國立政治大學企業永續管理研究中心規劃工作坊，透過專業指引與實務分享，提升企業因應氣候風險與機會能力。金管會於112年發布我國接軌IFRS永續準則藍圖，上市上櫃公司將依資本額"
+          "title": "專業諮商心理師：一個人戴什麼帽子，洩漏他不想為人所知的內心世界",
+          "link": "https://www.gvm.com.tw/article/129172",
+          "published": "2026-04-01T19:28:00",
+          "summary": "你有沒有注意過，有些人出門一定要戴帽子，有些人則無論太陽多大、頭髮多亂，都堅決不戴帽子？看起來只是穿搭習慣，背後卻可能藏著一個人如何保護自己、表達自己，甚至與世界保持距離的方式。帽子不只是造型配件，也像是一種「心理的盔甲」，默默透露出我們的性格輪廓與內在需求。（本文節錄自《從裝扮洞察人心》一書，作者：林萃芬／時報出版，以下為摘文。）帽子既是一種心理界線，也是一種表達方式，有些人戴帽子是為了遮陽，有"
         },
         {
-          "title": "RICHARD MILLE以極致製錶美學   詮釋足球競技的永恆瞬間",
-          "link": "https://www.gvm.com.tw/article/128712",
-          "published": "2026-04-01T00:00:00",
-          "summary": "在綠茵場上，時間是節奏、激越與熱血的推進。當終場哨聲劃破空氣，比分凝結成記憶，時間是最誠實的見證者。RICHARD MILLE以高級製錶之名，將運動競技的瞬間藝術，精鍊於腕間——RM 41-01足球陀飛輪腕錶，與你開展品味與機械美學的深度對話。延續品牌與足球世界的淵源、歷經5年潛心研發，RICHARD MILLE推出最新RM 41-01足球陀飛輪腕錶，成為品牌迄今最為複雜的錶款之一，亦是對足球競技"
+          "title": "LINE台哥大用戶遭盜用、登出！台灣大哥大、LINE都回應了",
+          "link": "https://www.gvm.com.tw/article/129166",
+          "published": "2026-04-01T18:53:00",
+          "summary": "LINE傳出大規模遭登出、被盜災情，且多為台灣大用戶，疑與「語音信箱」遠端聽取的預設密碼漏洞有關；台灣大哥大表示，用戶於首次使用遠端聽取時，系統皆強制要求自行設定密碼，針對原台灣之星用戶，即日起已全面取消預設密碼機制。同時，台灣大哥大也建議用戶，採取落實語音信箱密碼管理、通訊軟體帳號安全檢查、保持高度資安覺察。社群平台LINE在3月31日晚間陸續傳出大規模登入異常、帳戶盜用的情形，且不少為台灣大哥"
         },
         {
-          "title": "淡江大學75 週年雙軸轉型奏效!  培育新世代AI 及綠領跨域人才 開創智造教育新局",
-          "link": "https://www.gvm.com.tw/article/129009",
-          "published": "2026-04-01T00:00:00",
-          "summary": "淡江大學建校75週年，盛大舉辦「Intelligent Tamsui Forum：AI智造教育新浪潮」論壇。教育部部長鄭英耀致詞時，肯定淡江大學為臺灣高等教育的指標，不僅長年蟬聯「企業最愛私立大學」全國第一，更將AI、雲端與永續發展目標（SDGs）深度整合，也是「臺灣大專院校人工智慧學程聯盟」的成員之一。隨後，專題演講由環境部部長彭啓明揭示綠領人才商機。淡江學生們得以從兩位部長所勾勒的AI與永續人"
+          "title": "太魯閣號事故五週年，化傷痕為紀念之光！奪國際四大獎背後省思",
+          "link": "https://www.gvm.com.tw/article/129170",
+          "published": "2026-04-01T18:33:00",
+          "summary": "2021年的太魯閣號列車出軌事故已邁入五週年，一台工程車從邊坡滑落軌道，高速行駛的列車迎頭撞上，多個車廂受擠壓被壓扁，釀成49人罹難、309人輕重傷的重大事件，是台鐵近60年來最嚴重的事故。這場事故，距離18人死亡的普悠瑪號出軌意外更只有短短不到3年，兩起事件讓社會形塑對台鐵加速改革的共識。而為了紀念5年前的那場意外，台鐵在花蓮和仁、清水、崇德三處隧道設置「0402太魯閣號事故紀念燈光」，這項裝置"
         },
         {
-          "title": "從換肝權威到思考「沒有手術的醫療」！鄭隆賓：下一場醫療革命可能不在手術室",
-          "link": "https://www.gvm.com.tw/article/128837",
-          "published": "2026-04-01T00:00:00",
-          "summary": "「如果有一天，醫學可以讓病人不必開刀，那才是真正的進步。」生涯累積超過1,800例肝臟移植手術，2025年更榮獲台灣外科醫學會終身成就獎的換肝權威鄭隆賓醫師，帶領中國醫藥大學附設醫院肝臟移植團隊成為世界標竿中心的他，近年卻拋出「消滅手術」的口號。如此驚人的轉變，這位外科權威心中的未來醫療是什麼？中國醫藥大學校院務發展委員會執行長鄭隆賓，投入肝臟移植領域40餘年，不斷挑戰外科極限的他，突破B肝肝衰竭"
+          "title": "福特野馬一次降超過20萬元！美製車「零關稅」產品布局曝光",
+          "link": "https://www.gvm.com.tw/article/129168",
+          "published": "2026-04-01T18:04:00",
+          "summary": "福特六和1日正式宣布全新品牌溝通主軸「GO BOLD GO FORD」，並同步展開美製車產品布局，美國在台協會處長谷立言出席表示：「美台夥伴關係的穩健，在福特六和的發展歷程中得到了最好的印證。隨著台美對等貿易協定（ART）的推動與雙方供應鏈的深度整合，將持續以實際行動深化這份合作，積極擴大美國優質車款在台灣市場的陣容，並為美台經濟的共同繁榮開創更多機遇。」隨著市場環境持續與國際接軌，台美貿易協定的"
         },
         {
-          "title": "1萬元就能當輝達股東！元大009820精選30檔美科技股4/8開募",
-          "link": "https://www.gvm.com.tw/article/129141",
-          "published": "2026-03-31T18:23:00",
-          "summary": "美國科技巨頭近年受惠於AI風潮，掀起全球市場攻勢，雖然近期股價因中東戰事而屢屢下跌，卻仍是下一波投資的布局焦點。近日元大投信就與美股指標Nasdaq指數公司聯手，推出全新「元大納斯達克精選ETF（009820）」，發行價10元，於4月8日展開募集。號稱「1萬元就能當輝達股東」的009820有哪些指數邏輯？成分股又包含哪些？一文看懂。AI浪潮席捲全球，美國科技巨頭成市場關注焦點，投資人該如何捕捉下一"
+          "title": "AI算力賽拐點！Google釋出的TurboQuant是什麼？記憶體需求消失中？業界解析",
+          "link": "https://www.gvm.com.tw/article/129152",
+          "published": "2026-04-01T17:52:00",
+          "summary": "AI 算力競賽出現重大技術拐點！全球搜尋引擎巨頭 Google 於近日無預警釋出全新 AI 記憶體壓縮技術 「TurboQuant」，宣稱能在不犧牲模型精準度的前提下，將生成式 AI 推理階段最吃資源的「鍵值快取（KV Cache）」空間需求大砍 6 倍，並讓運算速度暴增 8 倍。此項突破性算法被視為 AI 成本曲線的「破壞者」，卻也引發市場對硬體需求萎縮的疑慮。消息傳出後，美股記憶體族群集體跳水"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "合作推動教育和可持續發展 - Siemens",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.siemens.com/zh-tw/content/gutech-partnering-to-drive-education-and-sustainability/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3Vx-PjSRMc637qY0r1FLes",
-          "published": "2026-03-31T20:08:42+00:00",
-          "summary": "... 淨零目標。 阿曼首個重大能源效益項目. 集成物聯網設備、資料驅動的洞察、智慧建築技術和可再生能源的整合系統提供能源效率，對於使基礎設施能夠適應、彈性和&nbsp;..."
+          "title": "新聞訊息| 中研院推進<b>淨零</b>能源地熱與海洋能Alpha計畫再達里程碑",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sinica.edu.tw/news_content/55/3729&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3CCeohdWhWKuL3X_0VklyH",
+          "published": "2026-04-02T02:19:20+00:00",
+          "summary": "中央研究院昨(1)日頒授「中研院富邦金控暨台灣大哥大淨零 ... 台灣大哥大林之晨總經理表示，全球能源情勢變化與氣候變遷挑戰，使企業更加重視能源安全與永續發展。"
         },
         {
-          "title": "第一金擴大永續金融影響力接棒第四屆先行者聯盟主席 - 國泰證券",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20260401%26CSeqNO%3DE9415096&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1UD7WmOYFywIEeMB50Ykz1",
-          "published": "2026-03-31T19:15:20+00:00",
-          "summary": "金管會於2022年成立永續金融先行者聯盟，由國內六家金控齊力推動淨零排放 ... 淨零推動工作平台」整合各方資源，持續透過「政策與指引」、「資金與統計&nbsp;..."
+          "title": "「超錯」器材反而影到「世一」？攝影師首次在南極拍到羅斯海豹水下相！ - DCFever.com",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.dcfever.com/news/readnews.php%3Fid%3D41140&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2jjf390kEtGU72EM6854ny",
+          "published": "2026-04-02T01:04:21+00:00",
+          "summary": "這輯照片不僅是Justin Hofman 攝影生涯的巔峰，更是對全球氣候變化的一種「無言例證」。雖然拍到前所未見的影像，但他深知這個機會是源於海冰減少與氣候暖化，其實&nbsp;..."
         },
         {
-          "title": "第一金：企業<b>淨零</b>…走向實務| 金融脈動 - 經濟日報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5613/9415097&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0QYGh71_lFBWgF9VR1nxv6",
-          "published": "2026-03-31T18:47:57+00:00",
-          "summary": "第一金控昨（31）日啟動第四屆「永續金融先行者聯盟」，指出企業淨零轉型已由理念走向實務，在能源風險升溫下，減碳與能源韌性將成為產業競爭力核心。"
+          "title": "輔英科大第三屆「<b>淨零</b>碳排與智慧綠生活」全國創意競賽十三校近五十件作品角逐AI與永續創意齊發",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://taidaily.com/2026/04/01/569891/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0e1hGNUnbP3V1L3x_jIGyW",
+          "published": "2026-04-01T19:39:16+00:00",
+          "summary": "大專組及高中職組最終分別由臺中科大「智動分類×碳索未來：玩轉永續大富翁的循環行動」及高雄高工「儲熱儲冰節能系統」奪冠。校長林爵士表示，期盼Z世代青年結合AI&nbsp;..."
         },
         {
-          "title": "第一金：企業<b>淨零</b>…走向實務| 金融脈動 - 經濟日報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5613/9415097%3Ffrom%3Dedn_related_storybottom&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3avEOi0aHlxU5xYkQuUHfm",
-          "published": "2026-03-31T18:08:04+00:00",
-          "summary": "第一金總經理方螢基說，去年參訪兩家低碳轉型案例，包括黑松公司與石門水庫。其中，黑松透過建置太陽能板、導入能源管理系統及汰換設備，成為飲料業首家取得綠色工廠&nbsp;..."
+          "title": "討論牆| 彭啟明：將在<b>淨零</b>減碳做最大努力讓台灣與國際接軌| LINE TODAY",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/3NnQ7xk&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2AhNSKkD7O-11ZZMsHPeNo",
+          "published": "2026-04-01T19:24:26+00:00",
+          "summary": "0則貼文| 快來參與LINE TODAY討論牆上的討論| 彭啟明：將在淨零減碳做最大努力讓台灣與國際接軌."
         },
         {
-          "title": "台灣大揪伴組永續生態圈｜新聞快訊 - 永豐金證券",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/69cbfd99b4c4296334dbebc3&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw11_QABL4tfO1EHJjf-O0Ql",
-          "published": "2026-03-31T17:06:07+00:00",
-          "summary": "全球氣候變遷與淨零轉型議題升溫，碳管理能力不僅是企業長期的核心競爭力，更是「企業剛需」。根據Grand View Horizon研究指出，亞太地區碳盤查軟體市場規模&nbsp;..."
+          "title": "慈心基金會「點亮臺灣．點亮海洋」校園減塑計畫溪洲國小「教育局長X bb 特殊 ... - CNMA新聞聯合網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cnma.org.tw/page/news/show.aspx%3Fnum%3D50885%26kind%3D13&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2YZHYPxIICmu4cHPz4He5p",
+          "published": "2026-04-01T18:47:21+00:00",
+          "summary": "點亮海洋」校園減塑計畫溪洲國小「教育局長X bb 特殊任務」 校園減塑新世代打造淨零綠生活願景. 記者:徐泰澤新北報導 「小小的行動，也能發揮巨大的影響力&nbsp;..."
         },
         {
-          "title": "聚焦<b>淨零</b>碳排與智慧工地新北友善建築評選開跑 - 民眾日報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.mypeoplevol.com/2026/life/83518&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3nookb-VWvMCjj85lLQezH",
-          "published": "2026-03-31T16:45:26+00:00",
-          "summary": "工務局長馮兆麟表示，面對全球氣候變遷挑戰與ESG永續趨勢，建築產業肩負重要減碳責任。本次評選特別納入低碳施工策略與智慧化管理成果，鼓勵施工單位採用低&nbsp;..."
+          "title": "國際貿易署更新戰略性高科技貨品出口實體管理名單| 中央社訊息平台",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/postwrite/chi/429805&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw17a3GbeEcUP1IzVQvYs-i2",
+          "published": "2026-04-01T18:38:46+00:00",
+          "summary": "國際貿易署近日召開跨部會出口實體清單審查會議，基於防止武器擴散、國際制裁考量，於本（4）月1日發布，新增俄羅斯、海地、土耳其、中國大陸、阿拉伯聯合大公國等67&nbsp;..."
         }
       ]
     }
