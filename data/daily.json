@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-04-02T03:43:15.951962+00:00",
-    "date": "2026-04-02",
+    "generated_at": "2026-04-03T03:44:41.362629+00:00",
+    "date": "2026-04-03",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "首屆 iKala Connection Day 登場！全新 GEO 平台 Chroma 與「企業龍蝦」iKala Nexus首屆 iKala Connection Day 登場！共築 AI 新視野",
-          "link": "https://techorange.com/2026/04/02/ikala-connection-day-geo-chroma-ikala-nexus/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-02T02:50:51+00:00",
-          "summary": "跨國 AI 公司 iKala 今日盛大舉辦首屆「iKala Connection Day」，以「數據共生・串聯企業核心的 AI 轉型實踐」為核心主題 ，邀集 Google Cloud、CloudAD、 momo 富邦媒體科技及輝葉按摩椅等產業領袖 ，深度剖析 AI 驅動的企業轉型架構 。會中正式亮相全新 AI 應用平台 iKala Foundry，其旗下產品 Chroma 針對 GEO（生成式引擎"
+          "title": "「數據會成為國家與企業的護城河。」數發部次長侯宜秀點出 AI Ready 發展的關鍵底層與上層",
+          "link": "https://techorange.com/2026/04/02/ai-ready-foxconn-deat-fanruan-netapp-deloitte/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-02T11:26:30+00:00",
+          "summary": "「AI Agent 需要有很多的管理和調教，最底層感知和資料層，和最上面的測試和治理層，是台灣非常好的機會，必須有足夠的在地資料，還有企業內部重要的資料，這些數據會成為國家與企業的護城河，」數發部次長侯宜秀在 TechOrange 科技報橘日前舉辦的「AI Ready 數據治理論壇」致詞時強調。 從企業、城市到國家，要打造專屬於自己的 AI 發展模式，數據已成為具備明確規格且不可或缺的核心基礎。 "
         },
         {
-          "title": "Replit Agent 4 用「數位畫布」重新定義氛圍編碼，將程式開發變成平面設計",
-          "link": "https://techorange.com/2026/04/02/replit-vibe-coding-amjad-masad/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-02T02:49:20+00:00",
-          "summary": "AI 雲端程式開發平台 Replit 的 Agent 4 ，透過數位畫布（digital canvas）新功能，重新定義矽谷軟體圈的氛圍編碼（Vibe coding）概念，將 AI 代理輔助程式開發推向更高層次。"
+          "title": "Anthropic 逾 50 萬行原始碼外洩的警訊：拆解部署烏龍與 AI 時代的內部治理盲區",
+          "link": "https://techorange.com/2026/04/02/anthropic-leak/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-02T11:25:05+00:00",
+          "summary": "Anthropic 近日因部署流程失誤，意外外洩其 AI 工具 Claude Code 約 50 萬行原始碼。雖然該公司強調事件未涉及模型權重或客戶資料，但外流內容卻揭露其關鍵的 AI 代理運作方式與任務流程設計，使這起事故迅速從單純資安事件，升級為涉及產品策略的風險事件。 事件發生後，Anthropic 緊急向 GitHub 提出大規模下架請求，一度要求移除超過 8,000 個相關程式碼副本與衍"
         },
         {
-          "title": "寫加工程式從 1 小時縮減至 4 分鐘：拆解日本 ARUM 導入對話式 AI 的精密加工實戰",
-          "link": "https://techorange.com/2026/04/02/japans-arum-turns-craftsmanship-into-scalable-ai-for-precision-manufacturing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-02T01:48:23+00:00",
-          "summary": "在日本石川縣金澤的一間工廠裡，工程師只需站在一台如同金屬小屋般的設備前，點擊螢幕，便能與一個虛擬角色對話，完成複雜的加工設定。這個名為「KAYA」的對話式 AI，正是日本精密製造商 ARUM Inc. 最新推出的核心技術之一，目標是重新定義精密加工的人才門檻與生產效率。 對話式 AI 助手「KAYA」降低精密製造門檻 KAYA 是一套建構自微軟 Azure OpenAI 與語音技術上的人機介面，並"
+          "title": "百度無人計程車在高速公路停駛數小時！Apollo Go 事件揭自駕商業化考驗",
+          "link": "https://techorange.com/2026/04/02/apollo-go-robotaxi-breakdown-riders-safety-concerns/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-02T09:19:20+00:00",
+          "summary": "《南華早報》報導，中國科技巨頭百度的自動駕駛車輛 Apollo Go 在武漢發生故障，導致多名乘客在交通繁忙的高速公路上滯留數小時，此次車輛在中國中部城市突然停駛，對這家科技巨頭的自駕計程車全球擴張計畫造成打擊。 自駕車失靈誰來救？百度 Apollo Go 在武漢故障，應變能力受考驗 根據武漢市交通部門的公告，受影響的乘客自三月三十一日晚上 8 點 57 分起，紛紛撥打交通警察求助電話，交通警察與"
         },
         {
-          "title": "【科技早餐】甲骨文裁員上限恐達 3 萬人，AI 基建壓力開始反映在人力上",
-          "link": "https://techorange.com/2026/04/02/oracle-layoff-works-turns-to-heavy-ai-investment/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-01T22:50:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊甲骨文啟動大規模裁員，AI 基建壓力開始反映在人力上 甲骨文 (Oracle) 3 月 31 日正式啟動新一波裁員。根據外媒報導，這波裁員已波及美國、印度等多地員工，其中目前確認將裁減 491 名遠端與西雅圖員工。雖然公司尚未公布全球總裁員數字，但市場估計，若甲骨文大幅精簡人力，規模上限可能達 2 萬到 3 萬人，約占總員工數近兩成。 多家外媒指"
+          "title": "史上最大 IPO 要來了？SpaceX 目標估值上看 1.75 兆美元，市場買單的不只是火箭",
+          "link": "https://techorange.com/2026/04/02/ipo-spacex-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-02T08:22:22+00:00",
+          "summary": "在 IPO 市場沉寂數年之後，一筆可能改寫歷史的上市案正在醞釀當中。根據《Reuters》與《Bloomberg》報導，SpaceX 已秘密向美國監管機構提交 IPO 申請，目標估值上看 1.75 兆美元，募資規模可能達 500 億至 750 億美元，一舉超越 2019 年 Saudi Aramco 的紀錄，成為史上最大 IPO。 但對市場來說，這場上市的關鍵早已不只是火箭。真正決定 SpaceX"
         },
         {
-          "title": "AI 原生企業崛起：為什麼 Jack Dorsey、祖克柏都在重寫公司架構設計？",
-          "link": "https://techorange.com/2026/04/01/ai-native-company-jack-dorsey-zuckberg/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-01T11:55:41+00:00",
-          "summary": "當 AI 從聊天機器人、寫程式助手，進一步滲入產品開發、資訊流動與日常決策流程，企業真正被改變的，可能不只是員工效率，而是公司本身怎麼被設計。近期，從 Block 執行長 Jack Dorsey、紅杉資本合夥人 Roelof Botha，到紅點創投與 Meta 執行長祖克柏都接連釋出相同訊號：一種「AI 原生企業」的組織型態正在浮現。 今年 2 月，Dorsey 主導的 Block 宣布裁減約 4"
+          "title": "在新加坡上路了！東南亞首家 Robotaxi 叫車平台：Grab 結盟 WeRide 望翻轉獲利困局",
+          "link": "https://techorange.com/2026/04/02/robotaxi-grab-weride-launch-singapores-first-autonomous-public-ride-service/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-02T05:38:36+00:00",
+          "summary": "東南亞的「超級App」 Grab 與中國自動駕駛公司 WeRide 合作，成為東南亞首家推出無人駕駛服務的叫車平台。《Bloomberg》報導，Grab 押注這項技術有助於降低成本，並在高密度城市交通中驗證自動駕駛計程車（robotaxi）的可行性。 千名乘客、3 萬公里測試後上線！Grab 司機轉型「安全操作員」 Grab 與 WeRide 在新加坡 Punggol 社區的兩條核准路線上，啟動自"
         },
         {
-          "title": "製造業如何擺脫 AI 單點優化？IBM 拆解常見的「5S」挑戰，揭開規模化導入 AI 的轉型路徑",
-          "link": "https://techorange.com/2026/04/01/ibm-ai-ready-forum/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-01T11:01:34+00:00",
-          "summary": "隨著 AI 技術快速演進，AI 已從傳統負責精準分析與輔助決策的單一任務工具，逐步進化為具備自主規劃、資料收集和行動能力的「Agent」，並成為企業內部能獨當一面的數位員工。然而，儘管 AI 技術取得巨大突破，多數企業在實際導入時卻仍面臨轉型瓶頸。 在 TechOrange 科技報橘近日舉辦的「AI Ready 數據治理論壇」中，台灣 IBM 諮詢 AI 與數據服務協理林桂如指出，目前多數企業的 "
+          "title": "東吳大學攜手 NVIDIA 利用 AI 與 XR 實境技術，打造跨域智慧學習基地",
+          "link": "https://techorange.com/2026/04/02/soochow-university-nvidia-ai-xr/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-02T03:19:45+00:00",
+          "summary": "在 AI 浪潮席捲全球的當下，高等教育同時面臨著人才定義的翻轉。「如果培育人才只著重於技術能力的提升，很容易讓人才只會寫程式，但缺乏對於社會的關懷。」東吳大學資料科學系副教授兼系主任蘇明祥表示，教育部近年積極推動校園的數位人文轉型，希望未來職場對人才的需求不僅須具備撰寫程式的硬實力，同時更需具備對環境與社會脈絡的敏銳洞察力。 東吳大學詹乾隆校長也進一步提出「人文關懷心，科技應用腦」的人才願景，期許"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "兒童節看芬蘭教育觀點：童年很短暫，請給他們時間當真正的小孩",
-          "link": "https://www.gvm.com.tw/article/72657",
-          "published": "2026-04-01T19:39:00",
-          "summary": "兒童節連假即將到來，你與你的孩子打算怎麼安排？孩子的腦需要適當休息，給他們一些喘息的機會，去奔跑、去唱歌、去畫畫。因為童年很短暫，要讓他們有時間當真正的小孩。（本文摘自《你的管教，能讓孩子成為更好的大人》一書，以下為摘文。）我曾看過一部印象十分深刻的影片，是美國製片麥可摩爾紀錄片〈下一個入侵是甚麼？〉(Where to invade next？) ，擷取關於芬蘭教育世界第一探索。以前，看到台灣太多"
+          "title": "川普手握四大終戰劇本，投資人一次看懂利弊得失",
+          "link": "https://www.gvm.com.tw/article/129202",
+          "published": "2026-04-02T18:59:00",
+          "summary": "2026年4月2日早上9點，美國總統川普發表談話，宣稱「對伊朗軍事行動已取得壓倒性勝利。」理論上，全球股市應對此利多開出慶祝行情，但從日本、韓國、台灣、香港、上海到新加坡等亞洲主要股市都陷入一片慘綠。原來所謂「勝利宣言」的背後並非和平的停火協議，而是「戰爭2.0」全面開啟的序幕。目前川普手握四大終戰劇本，每一套都牽動投資人的敏感神經，本文將解析其核心邏輯與利弊得失。分析川普這場記者會的談話內容，字"
         },
         {
-          "title": "專業諮商心理師：一個人戴什麼帽子，洩漏他不想為人所知的內心世界",
-          "link": "https://www.gvm.com.tw/article/129172",
-          "published": "2026-04-01T19:28:00",
-          "summary": "你有沒有注意過，有些人出門一定要戴帽子，有些人則無論太陽多大、頭髮多亂，都堅決不戴帽子？看起來只是穿搭習慣，背後卻可能藏著一個人如何保護自己、表達自己，甚至與世界保持距離的方式。帽子不只是造型配件，也像是一種「心理的盔甲」，默默透露出我們的性格輪廓與內在需求。（本文節錄自《從裝扮洞察人心》一書，作者：林萃芬／時報出版，以下為摘文。）帽子既是一種心理界線，也是一種表達方式，有些人戴帽子是為了遮陽，有"
+          "title": "台股震盪劇烈！國安基金例會4/13召開，市場關注進場護盤",
+          "link": "https://www.gvm.com.tw/article/129206",
+          "published": "2026-04-02T18:53:00",
+          "summary": "中東衝突情勢持續，台股近期上下震盪劇烈，市場高度關注國安基金動向。國安基金官員今天說明，預計4月13日召開例會，先前已發出開會通知，將討論國內外政經情勢、股市狀況等議題。為因應國內、外重大事件，維持資本市場及其他金融市場穩定，確保國家安定，國安基金每季均會召開例會，最近一次將在4月13日登場。國安基金官員說明，每次國安基金例會都會討論國內外政經情勢、股市等議題，近期市場主要受到美伊戰爭影響，將以不"
         },
         {
-          "title": "LINE台哥大用戶遭盜用、登出！台灣大哥大、LINE都回應了",
-          "link": "https://www.gvm.com.tw/article/129166",
-          "published": "2026-04-01T18:53:00",
-          "summary": "LINE傳出大規模遭登出、被盜災情，且多為台灣大用戶，疑與「語音信箱」遠端聽取的預設密碼漏洞有關；台灣大哥大表示，用戶於首次使用遠端聽取時，系統皆強制要求自行設定密碼，針對原台灣之星用戶，即日起已全面取消預設密碼機制。同時，台灣大哥大也建議用戶，採取落實語音信箱密碼管理、通訊軟體帳號安全檢查、保持高度資安覺察。社群平台LINE在3月31日晚間陸續傳出大規模登入異常、帳戶盜用的情形，且不少為台灣大哥"
+          "title": "真正的自信不是盲目的自滿！全球知名冥想教練：「自信」的5大要素",
+          "link": "https://www.gvm.com.tw/article/129205",
+          "published": "2026-04-02T18:45:00",
+          "summary": "真正的自信不是盲目的自滿，不代表你相信自己完美無缺、不會犯錯、總是成功，而是即使跌倒，仍相信自己有力量站起來；對於自己的價值與無限潛能，抱持不動搖的信念。所謂明智的自信，源自內在的整合與一致。即使感到害怕、不安，仍能選擇與自己站在同一陣線，在不確定中維持方向，在困境中持續前行。（本文節錄自《正向自信》一書，作者：喬瓦尼・迪恩斯特曼／高寶出版，以下為摘文。）聽到自信這個詞，你會聯想到哪些特質？你會聯"
         },
         {
-          "title": "太魯閣號事故五週年，化傷痕為紀念之光！奪國際四大獎背後省思",
-          "link": "https://www.gvm.com.tw/article/129170",
-          "published": "2026-04-01T18:33:00",
-          "summary": "2021年的太魯閣號列車出軌事故已邁入五週年，一台工程車從邊坡滑落軌道，高速行駛的列車迎頭撞上，多個車廂受擠壓被壓扁，釀成49人罹難、309人輕重傷的重大事件，是台鐵近60年來最嚴重的事故。這場事故，距離18人死亡的普悠瑪號出軌意外更只有短短不到3年，兩起事件讓社會形塑對台鐵加速改革的共識。而為了紀念5年前的那場意外，台鐵在花蓮和仁、清水、崇德三處隧道設置「0402太魯閣號事故紀念燈光」，這項裝置"
+          "title": "GTC會後〉NVIDIA整合Groq LPU，那是什麼？ASIC晶片將被顛覆？",
+          "link": "https://www.gvm.com.tw/article/129204",
+          "published": "2026-04-02T18:25:00",
+          "summary": "在AI競賽邁入推論時代之際，「秒回」正成為新的勝負關鍵，也讓自研ASIC晶片的競爭全面升溫。NVIDIA在2025年底以200億美元整合Groq公司的LPU（Language Processing Unit，語言處理單元）技術，正面迎戰雲端巨頭的自研布局。「導入LPU，最直接的改變就是速度，回應可以快上約35倍，讓互動更接近真人對話，」NVIDIA AI與資料中心GPU產品行銷總監夏爾．納拉辛漢（"
         },
         {
-          "title": "福特野馬一次降超過20萬元！美製車「零關稅」產品布局曝光",
-          "link": "https://www.gvm.com.tw/article/129168",
-          "published": "2026-04-01T18:04:00",
-          "summary": "福特六和1日正式宣布全新品牌溝通主軸「GO BOLD GO FORD」，並同步展開美製車產品布局，美國在台協會處長谷立言出席表示：「美台夥伴關係的穩健，在福特六和的發展歷程中得到了最好的印證。隨著台美對等貿易協定（ART）的推動與雙方供應鏈的深度整合，將持續以實際行動深化這份合作，積極擴大美國優質車款在台灣市場的陣容，並為美台經濟的共同繁榮開創更多機遇。」隨著市場環境持續與國際接軌，台美貿易協定的"
+          "title": "時間別花在沒必要的人身上！創業後她才懂：思維差距就是財富差距",
+          "link": "https://www.gvm.com.tw/article/97589",
+          "published": "2026-04-02T17:56:00",
+          "summary": "創造財富的過程，比起獨善其身地完全靠自己打拚，不如善用彼此的資源發揮綜效，不但可以為他人帶來好處，也讓自己的人生更輕鬆。（本文摘自《打造被動收入最重要的事》一書，作者為蕾咪（Rami），以下為摘文。）巴菲特說：人生最重要的決定是「找對的伴侶」！在這裡，我們一樣延續之前討論的「可累積性」，聊聊各種關係的選擇，如何造就生命財富的可累積性。在多數情況下，「人際關係」是人生中一道難解的習題。記得，當年我剛"
         },
         {
-          "title": "AI算力賽拐點！Google釋出的TurboQuant是什麼？記憶體需求消失中？業界解析",
-          "link": "https://www.gvm.com.tw/article/129152",
-          "published": "2026-04-01T17:52:00",
-          "summary": "AI 算力競賽出現重大技術拐點！全球搜尋引擎巨頭 Google 於近日無預警釋出全新 AI 記憶體壓縮技術 「TurboQuant」，宣稱能在不犧牲模型精準度的前提下，將生成式 AI 推理階段最吃資源的「鍵值快取（KV Cache）」空間需求大砍 6 倍，並讓運算速度暴增 8 倍。此項突破性算法被視為 AI 成本曲線的「破壞者」，卻也引發市場對硬體需求萎縮的疑慮。消息傳出後，美股記憶體族群集體跳水"
+          "title": "70歲奶奶用行李箱代替拐杖：要活得讓兒女覺得「爸媽此生很不賴」",
+          "link": "https://www.gvm.com.tw/article/102766",
+          "published": "2026-04-02T17:52:00",
+          "summary": "70歲，有些病痛也依舊美好的年紀，來到人生下半場，或許曾見證許多人的離去，更將與另一半、孩子道別，因此更應該充實地度過自己精彩的人生，不是為了子女無條件地犧牲奉獻，而是去實踐想做的事、品嚐想吃的食物、看遍想看的風景，暢享生命、愛護自己直到最後一刻。（本文節錄自《花漾奶奶熟旅行》一書，作者：金原姬，以下為摘文。）我在護照到期前6個月左右就前去申請換發。負責的職員詢問，近來新推出的護照有兩種，一種較薄"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "新聞訊息| 中研院推進<b>淨零</b>能源地熱與海洋能Alpha計畫再達里程碑",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sinica.edu.tw/news_content/55/3729&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3CCeohdWhWKuL3X_0VklyH",
-          "published": "2026-04-02T02:19:20+00:00",
-          "summary": "中央研究院昨(1)日頒授「中研院富邦金控暨台灣大哥大淨零 ... 台灣大哥大林之晨總經理表示，全球能源情勢變化與氣候變遷挑戰，使企業更加重視能源安全與永續發展。"
+          "title": "世界萬象｜英國展出55公斤復活蛋朱古力價格為何3年內升超過六成？ | 无线新闻TVB News",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.tvb.com/sc/world/69ca06e26aac604991111dee/%25E5%259B%25BD%25E9%2599%2585-%25E4%25B8%2596%25E7%2595%258C%25E8%2590%25AC%25E8%25B1%25A1%25EF%25BD%259C%25E8%258B%25B1%25E5%259C%258B%25E5%25B1%2595%25E5%2587%25BA55%25E5%2585%25AC%25E6%2596%25A4%25E5%25BE%25A9%25E6%25B4%25BB%25E8%259B%258B---%25E6%259C%25B1%25E5%258F%25A4%25E5%258A%259B%25E5%2583%25B9%25E6%25A0%25BC%25E7%2582%25BA%25E4%25BD%25953%25E5%25B9%25B4%25E5%2585%25A7%25E5%258D%2587%25E8%25B6%2585%25E9%2581%258E%25E5%2585%25AD%25E6%2588%2590&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0vWO5I_2hUhWMDr-l4EbZK",
+          "published": "2026-04-03T00:03:38+00:00",
+          "summary": "為慶祝復活節，英國食品生產商製造了一顆重達55公斤、高約70厘米的朱古力蛋，放在旅遊景點展示。有研究指，氣候變化推高可可豆成本，朱古力價格在過去3年上漲三&nbsp;..."
         },
         {
-          "title": "「超錯」器材反而影到「世一」？攝影師首次在南極拍到羅斯海豹水下相！ - DCFever.com",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.dcfever.com/news/readnews.php%3Fid%3D41140&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2jjf390kEtGU72EM6854ny",
-          "published": "2026-04-02T01:04:21+00:00",
-          "summary": "這輯照片不僅是Justin Hofman 攝影生涯的巔峰，更是對全球氣候變化的一種「無言例證」。雖然拍到前所未見的影像，但他深知這個機會是源於海冰減少與氣候暖化，其實&nbsp;..."
+          "title": "馬克龍晤日皇德仁又參觀太空企業與高市早苗會面齊擺「龜波氣功」甫士 - Now 新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.now.com/home/international/player%3FnewsId%3D642327&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3Us95GYvQe2ChTxZIZxRzt",
+          "published": "2026-04-02T22:42:31+00:00",
+          "summary": "【Now新聞台】法國總統馬克龍結束訪日行程，他離開日本前分別與日皇德仁會面，以及與日本首相高市早苗參觀民間太空企業，期望推進合作。"
         },
         {
-          "title": "輔英科大第三屆「<b>淨零</b>碳排與智慧綠生活」全國創意競賽十三校近五十件作品角逐AI與永續創意齊發",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://taidaily.com/2026/04/01/569891/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0e1hGNUnbP3V1L3x_jIGyW",
-          "published": "2026-04-01T19:39:16+00:00",
-          "summary": "大專組及高中職組最終分別由臺中科大「智動分類×碳索未來：玩轉永續大富翁的循環行動」及高雄高工「儲熱儲冰節能系統」奪冠。校長林爵士表示，期盼Z世代青年結合AI&nbsp;..."
+          "title": "范建得觀點：2028 重啟核能是轉機還是僵局？台灣<b>淨零</b>政策的「三大現實盲點」 - 風傳媒",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.storm.mg/article/11116506&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3IYs708Pek1qTV8OE73hJ6",
+          "published": "2026-04-02T22:00:40+00:00",
+          "summary": "... Climate Change 2023】. 一旦這個現實能被承認，政策邏輯可能就必需調整 ... Net Zero Emissions By or Around Mid Century, and Revises Carbon Tax&nbsp;..."
         },
         {
-          "title": "討論牆| 彭啟明：將在<b>淨零</b>減碳做最大努力讓台灣與國際接軌| LINE TODAY",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/3NnQ7xk&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2AhNSKkD7O-11ZZMsHPeNo",
-          "published": "2026-04-01T19:24:26+00:00",
-          "summary": "0則貼文| 快來參與LINE TODAY討論牆上的討論| 彭啟明：將在淨零減碳做最大努力讓台灣與國際接軌."
+          "title": "台灣大、富邦集團與中研院頒發「<b>淨零</b>科技研發講座」 - Yahoo新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%258F%25B0%25E7%2581%25A3%25E5%25A4%25A7-%25E5%25AF%258C%25E9%2582%25A6%25E9%259B%2586%25E5%259C%2598%25E8%2588%2587%25E4%25B8%25AD%25E7%25A0%2594%25E9%2599%25A2%25E9%25A0%2592%25E7%2599%25BC-%25E6%25B7%25A8%25E9%259B%25B6%25E7%25A7%2591%25E6%258A%2580%25E7%25A0%2594%25E7%2599%25BC%25E8%25AC%259B%25E5%25BA%25A7-211814811.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2AwLwRGohJUfwNX0U-w3ny",
+          "published": "2026-04-02T21:30:30+00:00",
+          "summary": "(記者謝政儒綜合報導)台灣淨零轉型與國家能源韌性邁向新里程！台灣大哥大、富邦集團與中央研究院（以下稱中研院）自2023 年7 月起簽署「淨零科技研發獎勵合作&nbsp;..."
         },
         {
-          "title": "慈心基金會「點亮臺灣．點亮海洋」校園減塑計畫溪洲國小「教育局長X bb 特殊 ... - CNMA新聞聯合網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cnma.org.tw/page/news/show.aspx%3Fnum%3D50885%26kind%3D13&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2YZHYPxIICmu4cHPz4He5p",
-          "published": "2026-04-01T18:47:21+00:00",
-          "summary": "點亮海洋」校園減塑計畫溪洲國小「教育局長X bb 特殊任務」 校園減塑新世代打造淨零綠生活願景. 記者:徐泰澤新北報導 「小小的行動，也能發揮巨大的影響力&nbsp;..."
+          "title": "富邦金力挺中研院推進<b>淨零</b>能源技術- 日報- 工商時報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260403700154-439901&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0Soas1VsDeB7Av3zqwRvHr",
+          "published": "2026-04-02T19:12:33+00:00",
+          "summary": "面對全球氣候變遷與能源轉型挑戰，建立穩定且可自主的低碳能源體系，已成為攸關經濟韌性與國家能源發展的重要課題。富邦金控與台灣大哥大自2023年起攜手，&nbsp;..."
         },
         {
-          "title": "國際貿易署更新戰略性高科技貨品出口實體管理名單| 中央社訊息平台",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/postwrite/chi/429805&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw17a3GbeEcUP1IzVQvYs-i2",
-          "published": "2026-04-01T18:38:46+00:00",
-          "summary": "國際貿易署近日召開跨部會出口實體清單審查會議，基於防止武器擴散、國際制裁考量，於本（4）月1日發布，新增俄羅斯、海地、土耳其、中國大陸、阿拉伯聯合大公國等67&nbsp;..."
+          "title": "台灣大<b>淨零</b>科技助力能源轉型- 日報- 工商時報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260403700160-439901&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3rK0GQ14ybH3cgbe7VI23T",
+          "published": "2026-04-02T19:12:33+00:00",
+          "summary": "中研院1日舉行「淨零科技研發講座頒發儀式」，表彰「地熱能Alpha計畫」及「海洋能Alpha計畫」共32名績優研發人員，成功達成全台首口深層地熱井鑽探，&nbsp;..."
         }
       ]
     }
