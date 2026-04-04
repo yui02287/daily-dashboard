@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-04-03T03:44:41.362629+00:00",
-    "date": "2026-04-03",
+    "generated_at": "2026-04-04T03:33:16.691709+00:00",
+    "date": "2026-04-04",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,10 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "「數據會成為國家與企業的護城河。」數發部次長侯宜秀點出 AI Ready 發展的關鍵底層與上層",
-          "link": "https://techorange.com/2026/04/02/ai-ready-foxconn-deat-fanruan-netapp-deloitte/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-02T11:26:30+00:00",
-          "summary": "「AI Agent 需要有很多的管理和調教，最底層感知和資料層，和最上面的測試和治理層，是台灣非常好的機會，必須有足夠的在地資料，還有企業內部重要的資料，這些數據會成為國家與企業的護城河，」數發部次長侯宜秀在 TechOrange 科技報橘日前舉辦的「AI Ready 數據治理論壇」致詞時強調。 從企業、城市到國家，要打造專屬於自己的 AI 發展模式，數據已成為具備明確規格且不可或缺的核心基礎。 "
-        },
-        {
-          "title": "Anthropic 逾 50 萬行原始碼外洩的警訊：拆解部署烏龍與 AI 時代的內部治理盲區",
-          "link": "https://techorange.com/2026/04/02/anthropic-leak/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-02T11:25:05+00:00",
-          "summary": "Anthropic 近日因部署流程失誤，意外外洩其 AI 工具 Claude Code 約 50 萬行原始碼。雖然該公司強調事件未涉及模型權重或客戶資料，但外流內容卻揭露其關鍵的 AI 代理運作方式與任務流程設計，使這起事故迅速從單純資安事件，升級為涉及產品策略的風險事件。 事件發生後，Anthropic 緊急向 GitHub 提出大規模下架請求，一度要求移除超過 8,000 個相關程式碼副本與衍"
-        },
-        {
-          "title": "百度無人計程車在高速公路停駛數小時！Apollo Go 事件揭自駕商業化考驗",
-          "link": "https://techorange.com/2026/04/02/apollo-go-robotaxi-breakdown-riders-safety-concerns/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-02T09:19:20+00:00",
-          "summary": "《南華早報》報導，中國科技巨頭百度的自動駕駛車輛 Apollo Go 在武漢發生故障，導致多名乘客在交通繁忙的高速公路上滯留數小時，此次車輛在中國中部城市突然停駛，對這家科技巨頭的自駕計程車全球擴張計畫造成打擊。 自駕車失靈誰來救？百度 Apollo Go 在武漢故障，應變能力受考驗 根據武漢市交通部門的公告，受影響的乘客自三月三十一日晚上 8 點 57 分起，紛紛撥打交通警察求助電話，交通警察與"
-        },
-        {
-          "title": "史上最大 IPO 要來了？SpaceX 目標估值上看 1.75 兆美元，市場買單的不只是火箭",
-          "link": "https://techorange.com/2026/04/02/ipo-spacex-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-02T08:22:22+00:00",
-          "summary": "在 IPO 市場沉寂數年之後，一筆可能改寫歷史的上市案正在醞釀當中。根據《Reuters》與《Bloomberg》報導，SpaceX 已秘密向美國監管機構提交 IPO 申請，目標估值上看 1.75 兆美元，募資規模可能達 500 億至 750 億美元，一舉超越 2019 年 Saudi Aramco 的紀錄，成為史上最大 IPO。 但對市場來說，這場上市的關鍵早已不只是火箭。真正決定 SpaceX"
-        },
-        {
-          "title": "在新加坡上路了！東南亞首家 Robotaxi 叫車平台：Grab 結盟 WeRide 望翻轉獲利困局",
-          "link": "https://techorange.com/2026/04/02/robotaxi-grab-weride-launch-singapores-first-autonomous-public-ride-service/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-02T05:38:36+00:00",
-          "summary": "東南亞的「超級App」 Grab 與中國自動駕駛公司 WeRide 合作，成為東南亞首家推出無人駕駛服務的叫車平台。《Bloomberg》報導，Grab 押注這項技術有助於降低成本，並在高密度城市交通中驗證自動駕駛計程車（robotaxi）的可行性。 千名乘客、3 萬公里測試後上線！Grab 司機轉型「安全操作員」 Grab 與 WeRide 在新加坡 Punggol 社區的兩條核准路線上，啟動自"
-        },
-        {
-          "title": "東吳大學攜手 NVIDIA 利用 AI 與 XR 實境技術，打造跨域智慧學習基地",
-          "link": "https://techorange.com/2026/04/02/soochow-university-nvidia-ai-xr/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-02T03:19:45+00:00",
-          "summary": "在 AI 浪潮席捲全球的當下，高等教育同時面臨著人才定義的翻轉。「如果培育人才只著重於技術能力的提升，很容易讓人才只會寫程式，但缺乏對於社會的關懷。」東吳大學資料科學系副教授兼系主任蘇明祥表示，教育部近年積極推動校園的數位人文轉型，希望未來職場對人才的需求不僅須具備撰寫程式的硬實力，同時更需具備對環境與社會脈絡的敏銳洞察力。 東吳大學詹乾隆校長也進一步提出「人文關懷心，科技應用腦」的人才願景，期許"
+          "title": "【封殺 AI 流量將錯失商機】AI 流量成長速度是人類八倍，企業如何兼顧營收並防禦詐欺？",
+          "link": "https://techorange.com/2026/04/04/ai-traffic-cyberthreat-benchmark-report/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-03T22:29:00+00:00",
+          "summary": "當企業還在思考如何導入 AI 提升效率時，網際網路的底層生態已悄悄變天：2025 年，網路上跑的 AI 流量，成長速度是真人流量的八倍。 由網路安全公司 HUMAN Security 近期發布的《AI 流量與網路威脅基準報告（The 2026 State of AI Traffic &amp; Cyberthreat Benchmark Report）》，不僅揭露 AI 代理（Agentic AI"
         }
       ]
     },
@@ -54,40 +24,22 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "川普手握四大終戰劇本，投資人一次看懂利弊得失",
-          "link": "https://www.gvm.com.tw/article/129202",
-          "published": "2026-04-02T18:59:00",
-          "summary": "2026年4月2日早上9點，美國總統川普發表談話，宣稱「對伊朗軍事行動已取得壓倒性勝利。」理論上，全球股市應對此利多開出慶祝行情，但從日本、韓國、台灣、香港、上海到新加坡等亞洲主要股市都陷入一片慘綠。原來所謂「勝利宣言」的背後並非和平的停火協議，而是「戰爭2.0」全面開啟的序幕。目前川普手握四大終戰劇本，每一套都牽動投資人的敏感神經，本文將解析其核心邏輯與利弊得失。分析川普這場記者會的談話內容，字"
+          "title": "為何Y、Z世代會在28、29歲經歷超級低潮？",
+          "link": "https://www.gvm.com.tw/article/129151",
+          "published": "2026-04-03T16:00:00",
+          "summary": "最近在Threads上看到一篇推測是Z世代網友的貼文，身為Y世代，剛過30歲的我完全懂。人到20幾歲後半，最痛的常常不是你真的很失敗，而是你明明已經很努力，卻發現人生根本不照你當初以為的劇本走。同時似乎因為科技的影響，Y、Z世代面對三十大關的低潮感往往更嚴重，老想要快速重塑人生。到底為什麼？怎麼解決？就來談我曾有的三十而立卡關地獄，最後是這三件事救回來。最近在Threads上看到一篇應該是Z世代年"
         },
         {
-          "title": "台股震盪劇烈！國安基金例會4/13召開，市場關注進場護盤",
-          "link": "https://www.gvm.com.tw/article/129206",
-          "published": "2026-04-02T18:53:00",
-          "summary": "中東衝突情勢持續，台股近期上下震盪劇烈，市場高度關注國安基金動向。國安基金官員今天說明，預計4月13日召開例會，先前已發出開會通知，將討論國內外政經情勢、股市狀況等議題。為因應國內、外重大事件，維持資本市場及其他金融市場穩定，確保國家安定，國安基金每季均會召開例會，最近一次將在4月13日登場。國安基金官員說明，每次國安基金例會都會討論國內外政經情勢、股市等議題，近期市場主要受到美伊戰爭影響，將以不"
+          "title": "衛福部砸10億救產科！重症接生費最高調漲3倍，最快下半年上路",
+          "link": "https://www.gvm.com.tw/article/129175",
+          "published": "2026-04-03T11:00:00",
+          "summary": "台灣面臨生育率寒冬，產科醫療院所現倒閉潮，衛福部長石崇良（圖）30日宣布，將全面調高生產相關給付費用，挹注逾新台幣10億元，拚今年下半年上路。衛生福利部長石崇良宣布，全面調高生產相關給付費用，自然產或剖腹產接生費皆調升50%、高風險妊娠與困難重症剖腹產加碼2至3倍，挹注逾新台幣10億元，拚今年下半年上路。台灣面臨生育率寒冬，去年新生兒數驟降，僅剩約10萬人，醫界估今年新生兒數量剩8萬至9萬人，婦產"
         },
         {
-          "title": "真正的自信不是盲目的自滿！全球知名冥想教練：「自信」的5大要素",
-          "link": "https://www.gvm.com.tw/article/129205",
-          "published": "2026-04-02T18:45:00",
-          "summary": "真正的自信不是盲目的自滿，不代表你相信自己完美無缺、不會犯錯、總是成功，而是即使跌倒，仍相信自己有力量站起來；對於自己的價值與無限潛能，抱持不動搖的信念。所謂明智的自信，源自內在的整合與一致。即使感到害怕、不安，仍能選擇與自己站在同一陣線，在不確定中維持方向，在困境中持續前行。（本文節錄自《正向自信》一書，作者：喬瓦尼・迪恩斯特曼／高寶出版，以下為摘文。）聽到自信這個詞，你會聯想到哪些特質？你會聯"
-        },
-        {
-          "title": "GTC會後〉NVIDIA整合Groq LPU，那是什麼？ASIC晶片將被顛覆？",
-          "link": "https://www.gvm.com.tw/article/129204",
-          "published": "2026-04-02T18:25:00",
-          "summary": "在AI競賽邁入推論時代之際，「秒回」正成為新的勝負關鍵，也讓自研ASIC晶片的競爭全面升溫。NVIDIA在2025年底以200億美元整合Groq公司的LPU（Language Processing Unit，語言處理單元）技術，正面迎戰雲端巨頭的自研布局。「導入LPU，最直接的改變就是速度，回應可以快上約35倍，讓互動更接近真人對話，」NVIDIA AI與資料中心GPU產品行銷總監夏爾．納拉辛漢（"
-        },
-        {
-          "title": "時間別花在沒必要的人身上！創業後她才懂：思維差距就是財富差距",
-          "link": "https://www.gvm.com.tw/article/97589",
-          "published": "2026-04-02T17:56:00",
-          "summary": "創造財富的過程，比起獨善其身地完全靠自己打拚，不如善用彼此的資源發揮綜效，不但可以為他人帶來好處，也讓自己的人生更輕鬆。（本文摘自《打造被動收入最重要的事》一書，作者為蕾咪（Rami），以下為摘文。）巴菲特說：人生最重要的決定是「找對的伴侶」！在這裡，我們一樣延續之前討論的「可累積性」，聊聊各種關係的選擇，如何造就生命財富的可累積性。在多數情況下，「人際關係」是人生中一道難解的習題。記得，當年我剛"
-        },
-        {
-          "title": "70歲奶奶用行李箱代替拐杖：要活得讓兒女覺得「爸媽此生很不賴」",
-          "link": "https://www.gvm.com.tw/article/102766",
-          "published": "2026-04-02T17:52:00",
-          "summary": "70歲，有些病痛也依舊美好的年紀，來到人生下半場，或許曾見證許多人的離去，更將與另一半、孩子道別，因此更應該充實地度過自己精彩的人生，不是為了子女無條件地犧牲奉獻，而是去實踐想做的事、品嚐想吃的食物、看遍想看的風景，暢享生命、愛護自己直到最後一刻。（本文節錄自《花漾奶奶熟旅行》一書，作者：金原姬，以下為摘文。）我在護照到期前6個月左右就前去申請換發。負責的職員詢問，近來新推出的護照有兩種，一種較薄"
+          "title": "杜拜巧克力爆紅特別在哪？營養師：吃一片等於1.5個排骨飯「這成分最邪惡」",
+          "link": "https://www.gvm.com.tw/article/129173",
+          "published": "2026-04-03T07:00:00",
+          "summary": "編按：你的社群，最近也被杜拜巧克力洗版了嗎？從杜拜巧克力Q餅、杜拜巧克力蛋糕，到杜拜巧克力千層蛋糕…，相關產品接連推出。但你知道近來風靡甜點界的，杜拜巧克力是什麼嗎？想知道正宗杜拜巧克力作法，杜拜巧克力、杜拜巧克力Q餅熱量為何？楊斯涵營養師特別撰文，拆解這款話題甜點的真面目，並提供 4 指南教你如何聰明分食、避開糖分、熱量地雷，在跟風嚐鮮的同時，也能守護健康體態！最近滑社群媒體或新聞，你是不是也常"
         }
       ]
     },
@@ -96,40 +48,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "世界萬象｜英國展出55公斤復活蛋朱古力價格為何3年內升超過六成？ | 无线新闻TVB News",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.tvb.com/sc/world/69ca06e26aac604991111dee/%25E5%259B%25BD%25E9%2599%2585-%25E4%25B8%2596%25E7%2595%258C%25E8%2590%25AC%25E8%25B1%25A1%25EF%25BD%259C%25E8%258B%25B1%25E5%259C%258B%25E5%25B1%2595%25E5%2587%25BA55%25E5%2585%25AC%25E6%2596%25A4%25E5%25BE%25A9%25E6%25B4%25BB%25E8%259B%258B---%25E6%259C%25B1%25E5%258F%25A4%25E5%258A%259B%25E5%2583%25B9%25E6%25A0%25BC%25E7%2582%25BA%25E4%25BD%25953%25E5%25B9%25B4%25E5%2585%25A7%25E5%258D%2587%25E8%25B6%2585%25E9%2581%258E%25E5%2585%25AD%25E6%2588%2590&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0vWO5I_2hUhWMDr-l4EbZK",
-          "published": "2026-04-03T00:03:38+00:00",
-          "summary": "為慶祝復活節，英國食品生產商製造了一顆重達55公斤、高約70厘米的朱古力蛋，放在旅遊景點展示。有研究指，氣候變化推高可可豆成本，朱古力價格在過去3年上漲三&nbsp;..."
+          "title": "麥塊不是只能蓋房子如何在遊戲中學<b>氣候變遷</b>？ | ESG創新| 倡議家",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ubrand.udn.com/ubrand/story/123640/9416017&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2XijveALNeUDR1rDMgzIpi",
+          "published": "2026-04-04T00:57:39+00:00",
+          "summary": "Local Gov（2025年10月6日），CoastCraft: Minecraft launches climate change game ... 淨零好球帶？"
         },
         {
-          "title": "馬克龍晤日皇德仁又參觀太空企業與高市早苗會面齊擺「龜波氣功」甫士 - Now 新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.now.com/home/international/player%3FnewsId%3D642327&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3Us95GYvQe2ChTxZIZxRzt",
-          "published": "2026-04-02T22:42:31+00:00",
-          "summary": "【Now新聞台】法國總統馬克龍結束訪日行程，他離開日本前分別與日皇德仁會面，以及與日本首相高市早苗參觀民間太空企業，期望推進合作。"
+          "title": "生物炭效應受土壤類型影響對<b>氣候變遷</b>緩解提出挑戰 - GeneOnline News",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://geneonline.news/%25E7%2594%259F%25E7%2589%25A9%25E7%2582%25AD%25E6%2595%2588%25E6%2587%2589%25E5%258F%2597%25E5%259C%259F%25E5%25A3%25A4%25E9%25A1%259E%25E5%259E%258B%25E5%25BD%25B1%25E9%259F%25BF%25E5%25B0%258D%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E7%25B7%25A9%25E8%25A7%25A3%25E6%258F%2590%25E5%2587%25BA%25E6%258C%2591/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2KF3v_UgNeYatICQSCVDbt",
+          "published": "2026-04-03T23:38:19+00:00",
+          "summary": "氣候變遷日益嚴峻，土壤作為重要的碳儲存庫，其溫室氣體排放問題備受關注。近年來，生物炭（Biochar）作為一種."
         },
         {
-          "title": "范建得觀點：2028 重啟核能是轉機還是僵局？台灣<b>淨零</b>政策的「三大現實盲點」 - 風傳媒",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.storm.mg/article/11116506&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3IYs708Pek1qTV8OE73hJ6",
-          "published": "2026-04-02T22:00:40+00:00",
-          "summary": "... Climate Change 2023】. 一旦這個現實能被承認，政策邏輯可能就必需調整 ... Net Zero Emissions By or Around Mid Century, and Revises Carbon Tax&nbsp;..."
+          "title": "迎永續<b>淨零</b>吳立森：啟動高市校園<b>淨零</b>ESG - MSN",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.msn.com/zh-tw/news/national/%25E8%25BF%258E%25E6%25B0%25B8%25E7%25BA%258C%25E6%25B7%25A8%25E9%259B%25B6-%25E5%2590%25B3%25E7%25AB%258B%25E6%25A3%25AE-%25E5%2595%259F%25E5%258B%2595%25E9%25AB%2598%25E5%25B8%2582%25E6%25A0%25A1%25E5%259C%2592%25E6%25B7%25A8%25E9%259B%25B6esg/ar-AA1NgMW3%3Fapiversion%3Dv2%26domshim%3D1%26noservercache%3D1%26noservertelemetry%3D1%26batchservertelemetry%3D1%26renderwebcomponents%3D1%26wcseo%3D1&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0aer0h9GQeWgiVxMZYyqu4",
+          "published": "2026-04-03T22:04:40+00:00",
+          "summary": "現場200多位校長，與教育局長吳立森共同宣示簽署「淨零永續宣言」，並以AI設計製作「淨零永續宣言」卡片，寫下自己淨零永續堅定承諾，一起貼在巨大的NET ZERO（淨零&nbsp;..."
         },
         {
-          "title": "台灣大、富邦集團與中研院頒發「<b>淨零</b>科技研發講座」 - Yahoo新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%258F%25B0%25E7%2581%25A3%25E5%25A4%25A7-%25E5%25AF%258C%25E9%2582%25A6%25E9%259B%2586%25E5%259C%2598%25E8%2588%2587%25E4%25B8%25AD%25E7%25A0%2594%25E9%2599%25A2%25E9%25A0%2592%25E7%2599%25BC-%25E6%25B7%25A8%25E9%259B%25B6%25E7%25A7%2591%25E6%258A%2580%25E7%25A0%2594%25E7%2599%25BC%25E8%25AC%259B%25E5%25BA%25A7-211814811.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2AwLwRGohJUfwNX0U-w3ny",
-          "published": "2026-04-02T21:30:30+00:00",
-          "summary": "(記者謝政儒綜合報導)台灣淨零轉型與國家能源韌性邁向新里程！台灣大哥大、富邦集團與中央研究院（以下稱中研院）自2023 年7 月起簽署「淨零科技研發獎勵合作&nbsp;..."
+          "title": "INFORM框架多維度風險評估助力人道危機預測與應對 - GeneOnline News",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://geneonline.news/inform%25E6%25A1%2586%25E6%259E%25B6%25E5%25A4%259A%25E7%25B6%25AD%25E5%25BA%25A6%25E9%25A2%25A8%25E9%259A%25AA%25E8%25A9%2595%25E4%25BC%25B0%25E5%258A%25A9%25E5%258A%259B%25E4%25BA%25BA%25E9%2581%2593%25E5%258D%25B1%25E6%25A9%259F%25E9%25A0%2590%25E6%25B8%25AC%25E8%2588%2587%25E6%2587%2589%25E5%25B0%258D/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0b6NBGcdfhP-ydE8sEFuAx",
+          "published": "2026-04-03T19:44:46+00:00",
+          "summary": "危害與暴露：. 評估自然災害（如乾旱、洪水、地震）和人為衝突的頻率、強度以及人口和資產的暴露程度。氣候變遷&nbsp;..."
         },
         {
-          "title": "富邦金力挺中研院推進<b>淨零</b>能源技術- 日報- 工商時報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260403700154-439901&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0Soas1VsDeB7Av3zqwRvHr",
-          "published": "2026-04-02T19:12:33+00:00",
-          "summary": "面對全球氣候變遷與能源轉型挑戰，建立穩定且可自主的低碳能源體系，已成為攸關經濟韌性與國家能源發展的重要課題。富邦金控與台灣大哥大自2023年起攜手，&nbsp;..."
+          "title": "商鵬飛訪華聚焦金融服務中國仍對加拿大豬肉徵收關稅",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.singtao.ca/7465298/2026-04-03/news-%25E5%2595%2586%25E9%25B5%25AC%25E9%25A3%259B%25E8%25A8%25AA%25E8%258F%25AF%25E8%2581%259A%25E7%2584%25A6%25E9%2587%2591%25E8%259E%258D%25E6%259C%258D%25E5%258B%2599&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Fxjksh6z-xx5OQJPsUxJw",
+          "published": "2026-04-03T19:03:56+00:00",
+          "summary": "在隨附調查結果的聲明中指出：「加拿大和美國民眾對人為氣候變遷的認知差異在2026年達到了前所未有的高度。」 「雖然13%的美國受訪者認為氣候變遷是一種未經證實&nbsp;..."
         },
         {
-          "title": "台灣大<b>淨零</b>科技助力能源轉型- 日報- 工商時報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260403700160-439901&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3rK0GQ14ybH3cgbe7VI23T",
-          "published": "2026-04-02T19:12:33+00:00",
-          "summary": "中研院1日舉行「淨零科技研發講座頒發儀式」，表彰「地熱能Alpha計畫」及「海洋能Alpha計畫」共32名績優研發人員，成功達成全台首口深層地熱井鑽探，&nbsp;..."
+          "title": "加拿大人和美國人對<b>氣候變遷</b>看法分歧加劇 - 星島日報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.singtao.ca/7465294/2026-04-03/news-%25E5%258A%25A0%25E6%258B%25BF%25E5%25A4%25A7%25E4%25BA%25BA%25E5%2592%258C%25E7%25BE%258E%25E5%259C%258B%25E4%25BA%25BA%25E5%25B0%258D%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E7%259C%258B%25E6%25B3%2595%25E5%2588%2586%25E6%25AD%25A7%25E5%258A%25A0%25E5%258A%2587-st-topic/%3Fvariant%3Dzh-sg&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw33sXFf6hlVoRQtC9-rOJb1",
+          "published": "2026-04-03T17:55:35+00:00",
+          "summary": "海德計劃於今年秋季率領加拿大商業代表團再次訪問中國，屆時中國將在深圳主辦2026年亞太經合組織峰會。 至於加拿大公司關注的具體領域，永明金融執行長斯&nbsp;..."
         }
       ]
     }
