@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-04-06T03:57:42.602611+00:00",
-    "date": "2026-04-06",
+    "generated_at": "2026-04-07T03:48:27.255694+00:00",
+    "date": "2026-04-07",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -10,52 +10,102 @@
     {
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
-      "items": []
+      "items": [
+        {
+          "title": "【對抗單一 LLM 幻覺】CollectivIQ 統合各大模型，用「AI 共識引擎」提升回應精確度",
+          "link": "https://techorange.com/2026/04/07/ai-consensus-platform-collectiviq/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-07T01:36:39+00:00",
+          "summary": "CollectivIQ 開發了一款「AI 共識平台」，它能同時查詢多個大型語言模型（LLM），包括來自 OpenAI、Anthropic、Google 及 xAI 的運算結果，並且統合、彙整為最終的答案。"
+        },
+        {
+          "title": "伊朗衝突敲響警鐘，油價震盪如何凸顯電動車能源安全價值？",
+          "link": "https://techorange.com/2026/04/07/why-electric-vehicles-protect-consumers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-07T01:36:19+00:00",
+          "summary": "伊朗衝突爆發後，全球油價應聲震盪，美國全國汽油均價跳漲，創下俄羅斯入侵烏克蘭以來最大單週漲幅。對許多美國家庭而言，這不是只存於國際新聞的外交事件，而是每天駕車上下班時會被影響的現實。 美國的交通運輸成本受制於全球市場 石油作為一種全球性大宗商品，其價格並非由美國單方面決定，而是受制於全球供需動態以及外國政府的政治決策。這意味著美國的交通運輸成本，在很大程度上受制於全球市場。 目前的統計數據就可以體"
+        },
+        {
+          "title": "【科技早餐】中國本土 AI 晶片逼近 41%，NVIDIA 在中國不再一家獨大",
+          "link": "https://techorange.com/2026/04/07/idc-china-local-ai-chip-41-nvidia-not-the-only-one/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-06T22:50:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊中國本土 AI 晶片逼近 41%，NVIDIA 在中國不再一家獨大 根據國際數據資訊（IDC）數據，2025 年中國 AI 加速器伺服器市場中，本土 GPU 與 AI 晶片廠商合計市占已逼近 41%。NVIDIA 雖仍以約 220 萬片出貨、55% 市占居冠，但領先幅度明顯縮小，反映在美國出口管制與中國「晶片國產化」政策推動下，中國市場結構正快速"
+        }
+      ]
     },
     {
       "feed_name": "遠見雜誌 - 前進的動力",
       "feed_url": "https://www.gvm.com.tw/rss",
-      "items": []
+      "items": [
+        {
+          "title": "給深陷「冒牌者症候群」的你：當羞恥感成為職場負擔，要有「無恥」的勇氣",
+          "link": "https://www.gvm.com.tw/article/129211",
+          "published": "2026-04-06T15:12:00",
+          "summary": "職場上的羞恥感，一種讓你覺得「我這樣好像不太行」的感覺，會以焦慮、自我批評、尷尬與壓力的形式出現，不斷內耗我們的心理和情緒能量，剝奪我們享受生活的能力。當正面肯定、甚至是客觀事實，都無法治癒冒牌者症候群，你只剩下一個選項。（本文節錄自《放膽追求》一書，作者：珍妮．伍德／時報出版，以下為摘文。）無恥（形容詞）：對不光彩的行為感到無所謂。無恥新解：為自身努力與能力背書的勇氣。你上一次在工作中感到羞恥是"
+        },
+        {
+          "title": "他如何從台積電離職成功轉換跑道？瓦基：別跳脫舒適圈，要找到伸展圈",
+          "link": "https://www.gvm.com.tw/article/129209",
+          "published": "2026-04-06T15:09:00",
+          "summary": "跳脫派說「不突破怎麼成長？」但留守派也說得對「在恐懼中怎麼學習？」一邊告訴你要勇敢冒險，一邊告訴你要珍惜安全感。到底該聽誰的？其實，這兩派共同的局限在於：他們都習慣把世界切分成「裡面」與「外面」，彷彿你只能二選一。（本文節錄自《情境智慧》一書，作者：瓦基（莊勝翔）／天下文化出版，以下為摘文。）但我後來發現，眞正的關鍵在於怎麼做、做多少，以及什麼時候做。我們應該追求的是找到兩者之間的甜蜜點，這就是為"
+        },
+        {
+          "title": "獨居而不孤獨、年老卻不衰老：6個快樂老後實踐主張",
+          "link": "https://www.gvm.com.tw/article/129125",
+          "published": "2026-04-06T15:07:00",
+          "summary": "一項關於英國長期老化的研究統計分析發現，與「自覺年輕者」相比，「自覺年老」這組的死亡率高了41％，而且以心血管疾病最為顯著。能活到老，是種福報，因為不是人人都有機會長壽。怎麼想，就會怎麼做，最後達到你所想像的結果。（本文節錄自《你怎麼看待老年，它就怎麼回應你》一書，作者：劉秀枝／寶瓶文化出版，以下為摘文。）你看自己是幾歲？才踏入捷運車廂，立刻有一位老先生從博愛座起身讓位。看他的年紀跟我沒差多少，動"
+        },
+        {
+          "title": "說「這句話」就好！高明的工作者拒絕時不尷尬的溝通術",
+          "link": "https://www.gvm.com.tw/article/129156",
+          "published": "2026-04-06T15:05:00",
+          "summary": "拒絕工作的理由有很多，例如「忙不過來」、「沒自信」、「覺得不適合自己」等。從委託者的角度來看，有些拒絕方式過於粗糙，有些則讓人覺得非常高明。我在觀察眾多拒絕方式的過程中，發現了一句魔法般的咒語。只要說出這句話，一切都能解決。（本文節錄自《讓別人替你做更多》一書，作者：山本涉／遠流出版，以下為摘文。）偷吃步的拒絕技巧&nbsp;有時候「不接受工作」是非常重要的。雖然理解這一點，但想必還是有許多人會覺"
+        },
+        {
+          "title": "投資不配息多賺「這倍數」：連股神巴菲特都後悔的決定",
+          "link": "https://www.gvm.com.tw/article/129081",
+          "published": "2026-04-06T15:04:00",
+          "summary": "投資真正拉開差距的關鍵，往往不是技巧，而是複利。其實，有關於養好你的財富樹，什麼專有名詞都不懂沒關係，但一定要懂得複利效應。最好用來觀察的是巴菲特的波克夏A股，自從它出生以來，只配過一次微薄的股利，配股利了之後，巴菲特還後悔了。（本文節錄自《財商》一書，作者：吳淡如，時報出版，以下為摘文。）他想一想，覺得配股不對，從此不管股東們怎麼哀嚎，他都不配股利。除了這樣才有複利作用的理由外，巴菲特也很在意，"
+        }
+      ]
     },
     {
       "feed_name": "Google Alert - 氣候變遷 OR 碳中和 OR 淨零 OR \"Climate change\" OR \"carbon neutrality\" OR \"net zero\"",
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "新北友善建築工地評選開跑環保局納低碳與性平指標 - 蕃新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20260405849350&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1R3oUWItqK9LHvEBnM9-Sr",
-          "published": "2026-04-05T21:36:35+00:00",
-          "summary": "環保局長程大維指出，今年活動聚焦「科技減污」與「智慧工地」，並回應淨零碳排趨勢，納入低碳建材、預鑄工法、再生材料、電動機具及循環經濟等評選項目；同時鼓勵&nbsp;..."
+          "title": "半導體綠色製程新契機！ 鉅為擴展「尾氣處理」助<b>淨零</b>碳排 - 中央社",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/postwrite/chi/430069&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1R9B_RzgSv1QifF7AfOmsI",
+          "published": "2026-04-07T02:36:55+00:00",
+          "summary": "其中六氟化硫（SF₆）有極高的全球暖化潛勢值（GWP），根據聯合國政府間氣候變遷專門委員會（IPCC）第6次評估報告（AR6）為二氧化碳的2萬4300倍，名列已知&nbsp;..."
         },
         {
-          "title": "保羅馬歇爾與<b>淨零</b>排放的真相|氣候危機 - ARCH雅趣",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.arch-web.com.tw/%25E4%25B8%2596%25E7%2595%258C%25E6%2596%25B0%25E8%2581%259E/%25E4%25BF%259D%25E7%25BE%2585%25E9%25A6%25AC%25E6%25AD%2587%25E7%2588%25BE%25E8%2588%2587%25E6%25B7%25A8%25E9%259B%25B6%25E6%258E%2592%25E6%2594%25BE%25E7%259A%2584%25E7%259C%259F%25E7%259B%25B8-%25E6%25B0%25A3%25E5%2580%2599%25E5%258D%25B1%25E6%25A9%259F/604588/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw05Y2Y0GZmqY8Z69rmk3eYI",
-          "published": "2026-04-05T20:24:45+00:00",
-          "summary": "上週，我和120 多位基督教領袖一樣，在《衛報》報道的一封公開信中，就其新聞頻道上的氣候錯誤信息對保羅·馬歇爾爵士提出質疑。保羅馬歇爾爵士是一名公開的基督&nbsp;..."
+          "title": "從水泥到永續！東華大學攜欣欣水泥開啟<b>淨零</b>轉型新篇章 - 經濟日報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5723/9419224%3Ffrom%3Dedn_subcatelist_cate&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1-zCs_2y5MzF89KBuxylMt",
+          "published": "2026-04-07T02:07:08+00:00",
+          "summary": "在全球淨零排放與永續轉型趨勢下，國立東華大學在校長徐輝明積極推動永續發展策略引領下，整合教學、研究與實務應用，全面布局碳管理與環境教育。該校碳中和&nbsp;..."
         },
         {
-          "title": "環境部發警告：今日陽光燦爛但周一將出現強風",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.singtao.ca/7466682/2026-04-05/news-%25E7%2592%25B0%25E5%25A2%2583%25E9%2583%25A8%25E7%2599%25BC%25E8%25AD%25A6%25E5%2591%258A%25EF%25BC%259A%25E4%25BB%258A%25E6%2597%25A5%25E9%2599%25BD%25E5%2585%2589%25E7%2587%25A6%25E7%2588%259B%2B%2B%25E4%25BD%2586%25E5%2591%25A8%25E4%25B8%2580%25E5%25B0%2587%25E5%2587%25BA%25E7%258F%25BE%25E5%25BC%25B7%25E9%25A2%25A8/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3y0nZmNDfO2dkcffA6BXH1",
-          "published": "2026-04-05T18:48:26+00:00",
-          "summary": "【星島綜合報道】儘管星期日陽光燦爛，但針對卑詩省南海岸地區已有特別天氣預警，預計從周一開始將出現「強風和陣風」。 加拿大環境與氣候變遷部表示，&nbsp;..."
+          "title": "邱吉爾讓位給一隻獾？ 英國新鈔改版向大自然招手 - 環境資訊中心",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://e-info.org.tw/node/243252&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw10ka6Kxdx2cRimKIG8xQL9",
+          "published": "2026-04-07T01:31:28+00:00",
+          "summary": "50年來，登上英國紙鈔背面的都是響噹噹的歷史人物，從大文豪莎士比亞、發明家瓦特、經濟學家亞當斯密，到英國前首相邱吉爾、數學家圖靈、《傲慢與偏見》作者珍‧&nbsp;..."
         },
         {
-          "title": "AI拉麵職人現身！廢棄舊衣靠「再生紡織」華麗變身機能服經濟部產業技術司2026智慧城市暨<b>淨</b> ...",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.moea.gov.tw/mns/populace/videos/VideoRss.aspx%3FKind%3DP%26menu_id%3D3874%26video_id%3D21471&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2My6vw7KTcqp64cSHAXhfW",
-          "published": "2026-04-05T18:32:11+00:00",
-          "summary": "活動內容： 經濟部產業技術司今（17）日「2026智慧城市展暨淨零城市展」中推出8大科技亮點，&nbsp;..."
+          "title": "華南銀行ESG成果豐獲金管會肯定|半導體|產業新聞|產科國際所【IEK產業情報網】",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D0%26nsl_id%3D40060cd4514943368d149037ac062140&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2AaSgH3qpby-UvT2SrB36R",
+          "published": "2026-04-07T00:37:33+00:00",
+          "summary": "透過將環境、社會及公司治理（ESG）納入授信評估流程，並藉由差異化融資條件、永續專案融資及產業輔導機制，協助客戶淨零轉型。 ... Net-Zero Sustainability2022｜樂淨&nbsp;..."
         },
         {
-          "title": "千人獅友齊聚台中宣誓投入公益盧秀燕市長：愛與善的開始 - 台灣華報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.kingtop.com.tw/detail.php%3Ftype%3Dlastest%26id%3D48224&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1URMA0KXN_XteV3Xr57BJs",
-          "published": "2026-04-05T17:40:12+00:00",
-          "summary": "從校園點亮淨零未來. 雲林縣政府教育處兒童節廣告. 樂園優惠一覽，速速 ... 綜合新聞 &middot; 劉世芳視察旗美污水處理廠預計年底可達碳中和目標 &middot; 陳信銘; 2025年一&nbsp;..."
+          "title": "元大金控集團3子公司優良金融業標竿|半導體|產業新聞|產科國際所【IEK產業情報網】",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D0%26nsl_id%3D534372faa9ff495db3ca8a9dea488ee1&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw109FzXqPb2fqWeZ9sWe8YG",
+          "published": "2026-04-07T00:35:46+00:00",
+          "summary": "依循元大金控集團永續發展策略藍圖，元大證券、元大銀行及元大投信將永續經營理念融入企業文化與營運策略，以「減碳營運，邁向淨零 ... Net-Zero Sustainability2022｜&nbsp;..."
         },
         {
-          "title": "科教館「回到未來」 重新思索生活與環境| 青年日報 - LINE TODAY",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/2D3rWDB&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw21V1f_v9EkPNpOI_0LNaou",
-          "published": "2026-04-05T16:30:36+00:00",
-          "summary": "科教館館長劉火欽表示，面對氣候變遷與永續發展的全球挑戰，科學不僅是 ... 淨零轉型概念轉化為貼近生活的科普內容，期望讓不同年齡層觀眾都能在探索與&nbsp;..."
+          "title": "捷克「電力共享」興起太陽能餘電媒合需求不浪費",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://netzero.cna.com.tw/news/202604070017/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1qwYZagQ4mDnr499gwHHGK",
+          "published": "2026-04-07T00:22:31+00:00",
+          "summary": "... 淨零趨勢、法令與科技新知，帶領讀者與國際社會同步，邁向低碳未來 ... 歐盟氣候監測機構哥白尼氣候變遷服務（Copernicus Climate Change Service, C3S）&nbsp;..."
         }
       ]
     }
