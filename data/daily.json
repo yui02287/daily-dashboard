@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-04-07T03:48:27.255694+00:00",
-    "date": "2026-04-07",
+    "generated_at": "2026-04-08T03:50:59.376451+00:00",
+    "date": "2026-04-08",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,22 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "【對抗單一 LLM 幻覺】CollectivIQ 統合各大模型，用「AI 共識引擎」提升回應精確度",
-          "link": "https://techorange.com/2026/04/07/ai-consensus-platform-collectiviq/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-07T01:36:39+00:00",
-          "summary": "CollectivIQ 開發了一款「AI 共識平台」，它能同時查詢多個大型語言模型（LLM），包括來自 OpenAI、Anthropic、Google 及 xAI 的運算結果，並且統合、彙整為最終的答案。"
+          "title": "【速度與治理如何並存】花旗銀行如何在高度監管環境下，同時追求 AI 規模化與負責任部署？",
+          "link": "https://techorange.com/2026/04/08/citi-on-scaling-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-08T02:45:45+00:00",
+          "summary": "花旗銀行服務近 180 個國家的客戶，每天流動的資金規模以兆美元計。在這樣的組織下，AI 不是一個可以慢慢實驗的選項，而是必須在嚴格治理框架內快速落地的策略工具。 2025 年 9 月接任花旗全球 AI 主管的 Shobhit Varshney，用一句話概括他的任務：「做對的 AI，以及把 AI 做對」，這兩件事看似相近，對一家全球銀行來說卻有截然不同的含義。 不從技術出發，從價值出發 花旗的 A"
         },
         {
-          "title": "伊朗衝突敲響警鐘，油價震盪如何凸顯電動車能源安全價值？",
-          "link": "https://techorange.com/2026/04/07/why-electric-vehicles-protect-consumers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-07T01:36:19+00:00",
-          "summary": "伊朗衝突爆發後，全球油價應聲震盪，美國全國汽油均價跳漲，創下俄羅斯入侵烏克蘭以來最大單週漲幅。對許多美國家庭而言，這不是只存於國際新聞的外交事件，而是每天駕車上下班時會被影響的現實。 美國的交通運輸成本受制於全球市場 石油作為一種全球性大宗商品，其價格並非由美國單方面決定，而是受制於全球供需動態以及外國政府的政治決策。這意味著美國的交通運輸成本，在很大程度上受制於全球市場。 目前的統計數據就可以體"
+          "title": "開發產出暴增 10 倍的代價：AI 程式碼湧現，企業如何防堵資安與技術債漏洞？",
+          "link": "https://techorange.com/2026/04/08/ai-code-overload/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-08T02:07:17+00:00",
+          "summary": "2026 年，企業面對的 AI 問題，已經不再只是能否更快寫出程式，而是寫得太快之後，誰來收拾後果？ 隨著 Cursor、Claude Code、Codex 等 AI 寫程式工具快速普及，AI 正在把軟體開發從人力瓶頸推向另一種極端，也就是程式碼產出暴增，但理解、審查與維護能力卻跟不上，技術債也因此加速累積。 《紐約時報》就描述了一個典型的案例：一家金融服務公司導入 Cursor 後，每月產出的程"
         },
         {
-          "title": "【科技早餐】中國本土 AI 晶片逼近 41%，NVIDIA 在中國不再一家獨大",
-          "link": "https://techorange.com/2026/04/07/idc-china-local-ai-chip-41-nvidia-not-the-only-one/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-06T22:50:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊中國本土 AI 晶片逼近 41%，NVIDIA 在中國不再一家獨大 根據國際數據資訊（IDC）數據，2025 年中國 AI 加速器伺服器市場中，本土 GPU 與 AI 晶片廠商合計市占已逼近 41%。NVIDIA 雖仍以約 220 萬片出貨、55% 市占居冠，但領先幅度明顯縮小，反映在美國出口管制與中國「晶片國產化」政策推動下，中國市場結構正快速"
+          "title": "【科技早餐】三星一季獲利暴增 755%，AI 記憶體先把上游財報推上新高",
+          "link": "https://techorange.com/2026/04/08/samsung-projects-2026-q1-profit-us-37-9-billion/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-07T22:50:00+00:00",
+          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊三星首季獲利年增 755%，一季就超過去年全年 三星電子 (Samsung Electronics) 公布第一季初步財報，營業利益達 57.2 兆韓元，年增約 755%，營收則來到 133 兆韓元，兩項數字都高於市場預期。這不只超過三星 2025 全年營業利益，也刷新去年第四季 20 兆韓元的單季高點，讓 AI 記憶體與資料中心需求再度成為市場焦"
+        },
+        {
+          "title": "Anduril 和 Palantir 都在做：為什麼離線 AI 正在成為下一個關鍵戰場？",
+          "link": "https://techorange.com/2026/04/07/offline-ai-palantir-anduril/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-07T10:58:39+00:00",
+          "summary": "當企業談 AI 基礎架構，過去幾年主流想像幾乎都圍繞著同一套前提：穩定網路、充足電力，以及靠近資料中心的雲端環境。但這套假設，正越來越難支撐 AI 進入真實世界後的需求。 從軍事、航運到能源產業，愈來愈多高風險場景都在提醒一件事：當延遲、斷線與基礎設施不穩定成為常態，AI 如果仍仰賴雲端往返運算，就可能在最需要它的時刻失效。這也是為什麼，Palantir、Anduril 與新一代邊緣 AI 業者，"
+        },
+        {
+          "title": "日本如何佈局實體 AI 新戰場？大企業和新創發展「新模式」補勞動缺",
+          "link": "https://techorange.com/2026/04/07/japan-experimental-physical-ai-world/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-07T10:03:19+00:00",
+          "summary": "「在日本，機器人並非來取代你的工作，而是去完成沒有人願意做的工作。」《TechCrunch》報導，實體 AI 正逐漸成為下一個產業戰場，而日本推動這項技術是因為隨著勞動力縮減以及維持生產力的壓力增加，越來越多企業在工廠、倉庫及關鍵基礎設施中部署 AI 驅動的機器人。 日本經濟產業省（METI）於 2026 年 3 月表示，目標在國內建立實體 AI 產業，並於 2040 年前取得全球市場 30% 的"
+        },
+        {
+          "title": "OpenAI 發表 AI 政策藍圖：從機器人稅到 4 天工作制",
+          "link": "https://techorange.com/2026/04/07/openai-industrial-policy-for-the-intelligence-age/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-07T05:42:42+00:00",
+          "summary": "OpenAI 週一發布了迎接超級智慧（superintelligence）世界的政策提案。在這份長達 13 頁、名為《Industrial Policy for the Intelligence Age》（智慧時代的產業政策）的白皮書中，OpenAI 建議政府應如何監管 AI 以及如何分享該技術快速發展下帶來的經濟效益。《華爾街日報》指出，這些想法可能代表著數兆美元的新政府計畫，但也引發質疑聲浪。"
         }
       ]
     },
@@ -36,34 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "給深陷「冒牌者症候群」的你：當羞恥感成為職場負擔，要有「無恥」的勇氣",
-          "link": "https://www.gvm.com.tw/article/129211",
-          "published": "2026-04-06T15:12:00",
-          "summary": "職場上的羞恥感，一種讓你覺得「我這樣好像不太行」的感覺，會以焦慮、自我批評、尷尬與壓力的形式出現，不斷內耗我們的心理和情緒能量，剝奪我們享受生活的能力。當正面肯定、甚至是客觀事實，都無法治癒冒牌者症候群，你只剩下一個選項。（本文節錄自《放膽追求》一書，作者：珍妮．伍德／時報出版，以下為摘文。）無恥（形容詞）：對不光彩的行為感到無所謂。無恥新解：為自身努力與能力背書的勇氣。你上一次在工作中感到羞恥是"
+          "title": "AI時代韌體更重要！它不保恐癱瘓國防？Eclypsium提警訊",
+          "link": "https://www.gvm.com.tw/article/129241",
+          "published": "2026-04-07T18:26:00",
+          "summary": "在地緣緊張局勢、AI應用深入各大領域的現下，AI資料中心成為不能停機的國家關鍵基礎建設，也更可能成為資安攻擊標的。耕耘「硬體信任」多年的美國新創Eclypsium如何看待珍貴的GPU防護策略？又為何認為韌體是「下一個成本最低的攻擊領域」？韌體（firmware）。這個一般使用者很少接觸、過往也不常被駭客鎖定的軟體，即將成為資安產業的關鍵戰場？在3月於舊金山剛落幕不久的國際資安展會RSA Confe"
         },
         {
-          "title": "他如何從台積電離職成功轉換跑道？瓦基：別跳脫舒適圈，要找到伸展圈",
-          "link": "https://www.gvm.com.tw/article/129209",
-          "published": "2026-04-06T15:09:00",
-          "summary": "跳脫派說「不突破怎麼成長？」但留守派也說得對「在恐懼中怎麼學習？」一邊告訴你要勇敢冒險，一邊告訴你要珍惜安全感。到底該聽誰的？其實，這兩派共同的局限在於：他們都習慣把世界切分成「裡面」與「外面」，彷彿你只能二選一。（本文節錄自《情境智慧》一書，作者：瓦基（莊勝翔）／天下文化出版，以下為摘文。）但我後來發現，眞正的關鍵在於怎麼做、做多少，以及什麼時候做。我們應該追求的是找到兩者之間的甜蜜點，這就是為"
+          "title": "全台刷卡機霸主將上櫃！精誠金融如何「毛利為王」稱霸支付界？",
+          "link": "https://www.gvm.com.tw/article/129239",
+          "published": "2026-04-07T18:15:00",
+          "summary": "刷卡機上「嗶」的一聲，交易瞬間完成，這背後隱藏著一家隱形冠軍公司──精誠金融科技。精誠金融科技的前身是嘉利科技，2023年改為現名，預計將於5月下旬掛牌上櫃，見證台灣信用卡從磁條走向晶片、從實體走向線上的活歷史，也構築出深厚產業護城河。不論是在百貨公司血拚、連鎖超商結帳，店員總是熟練地接過信用卡，在刷卡機上「嗶」的一聲，交易瞬間完成。這再也熟悉不過的日常，背後隱藏著一家隱形冠軍公司──精誠金融科技"
         },
         {
-          "title": "獨居而不孤獨、年老卻不衰老：6個快樂老後實踐主張",
-          "link": "https://www.gvm.com.tw/article/129125",
-          "published": "2026-04-06T15:07:00",
-          "summary": "一項關於英國長期老化的研究統計分析發現，與「自覺年輕者」相比，「自覺年老」這組的死亡率高了41％，而且以心血管疾病最為顯著。能活到老，是種福報，因為不是人人都有機會長壽。怎麼想，就會怎麼做，最後達到你所想像的結果。（本文節錄自《你怎麼看待老年，它就怎麼回應你》一書，作者：劉秀枝／寶瓶文化出版，以下為摘文。）你看自己是幾歲？才踏入捷運車廂，立刻有一位老先生從博愛座起身讓位。看他的年紀跟我沒差多少，動"
+          "title": "70歲學跳鋼管舞、發個人虛幣，乖了一輩子這才開始叛逆",
+          "link": "https://www.gvm.com.tw/article/129238",
+          "published": "2026-04-07T18:14:00",
+          "summary": "誰說70歲不能學跳鋼管舞？美國一位曾經為別人活了一輩子的賢妻良母，突破自己，決定利用1年的時間嘗試之前從未做過的事。高空駕駛小飛機、拍攝大尺度的私密寫真、發行自己的虛擬貨幣，用一個又一個的「人生第一次」，向世界宣告：人生真正的盛放，真的是古稀之年才開始。「這是一根冰冷的鋼管，而我正試圖讓自己繞著它旋轉。」如果時光倒流回數年前，住在美國阿肯色州小石城的艾莉絲．約翰斯頓（Alese Johnston）"
         },
         {
-          "title": "說「這句話」就好！高明的工作者拒絕時不尷尬的溝通術",
-          "link": "https://www.gvm.com.tw/article/129156",
-          "published": "2026-04-06T15:05:00",
-          "summary": "拒絕工作的理由有很多，例如「忙不過來」、「沒自信」、「覺得不適合自己」等。從委託者的角度來看，有些拒絕方式過於粗糙，有些則讓人覺得非常高明。我在觀察眾多拒絕方式的過程中，發現了一句魔法般的咒語。只要說出這句話，一切都能解決。（本文節錄自《讓別人替你做更多》一書，作者：山本涉／遠流出版，以下為摘文。）偷吃步的拒絕技巧&nbsp;有時候「不接受工作」是非常重要的。雖然理解這一點，但想必還是有許多人會覺"
+          "title": "鄭麗文訪中見習近平，會發生什麼事？專家：國民黨得先贏得這個",
+          "link": "https://www.gvm.com.tw/article/129237",
+          "published": "2026-04-07T17:51:00",
+          "summary": "國民黨主席鄭麗文今天展開為期6天的赴中行，預計將走訪南京、上海、北京三地。特別是形成後段的北京行，外界預判鄭麗文將與中共總書記習近平進行「鄭習會」，成為睽違近10年後，再與中共總書記會見的藍營黨魁，其後續激發的政治效應，引發外界關注。鄭麗文出發前在國民黨中央召開記者會，強調當年國際環境動盪不安，台灣更一直被視為最危險的地方，必須極盡一切努力避免戰爭發生。她坦言，台灣社會對她此次率團訪中「很多人充滿"
         },
         {
-          "title": "投資不配息多賺「這倍數」：連股神巴菲特都後悔的決定",
-          "link": "https://www.gvm.com.tw/article/129081",
-          "published": "2026-04-06T15:04:00",
-          "summary": "投資真正拉開差距的關鍵，往往不是技巧，而是複利。其實，有關於養好你的財富樹，什麼專有名詞都不懂沒關係，但一定要懂得複利效應。最好用來觀察的是巴菲特的波克夏A股，自從它出生以來，只配過一次微薄的股利，配股利了之後，巴菲特還後悔了。（本文節錄自《財商》一書，作者：吳淡如，時報出版，以下為摘文。）他想一想，覺得配股不對，從此不管股東們怎麼哀嚎，他都不配股利。除了這樣才有複利作用的理由外，巴菲特也很在意，"
+          "title": "少子化時代，明星私中為何更加搶破頭？",
+          "link": "https://www.gvm.com.tw/article/129236",
+          "published": "2026-04-07T17:42:00",
+          "summary": "少子化已經是台灣多年來不可逆的趨勢，也顯現在各級學生人數的持續減少，理應讓學生進入優秀公立學校的機會變得更高，但目前的現況卻是私立中學、小學的入學競爭愈加激烈，原因是什麼呢？私立學校提供了什麼樣的條件，令家長們趨之若鶩？而像這樣，經濟狀況較寬裕的家庭爭相將孩子送入昂貴私校的普遍情形，會不會使得教育資源的階級差異更嚴重呢？私中入學的高度競爭無論是北部、中部，還是南部的私立明星學校，在入學考試時的3月"
+        },
+        {
+          "title": "台中棒球隊狼師案：受害學童再增加，最小僅8歲！綠議員批教育局調查失能",
+          "link": "https://www.gvm.com.tw/article/129235",
+          "published": "2026-04-07T17:19:00",
+          "summary": "台中某國小棒球教練長年性侵、猥褻男童偷拍性影像，檢方第三波起訴，被害人持續增加，年紀最小僅8歲。台中市議會今召開教育文化委員會，民進黨市議員會中痛批該案受害人數增加，犯行次數增加，教育局調查失能，要求教育局長蔣偉民離席，改由副局長列席報告，否則拒絕審查，場內氣氛緊繃，會議更一度中斷5分鐘，主席李中議員協調後，要求教育局明天大會前提送狼師案專案報告。台中市議員江和樹踢爆某國小棒球隊教練對多名男童伸狼"
         }
       ]
     },
@@ -72,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "半導體綠色製程新契機！ 鉅為擴展「尾氣處理」助<b>淨零</b>碳排 - 中央社",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/postwrite/chi/430069&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1R9B_RzgSv1QifF7AfOmsI",
-          "published": "2026-04-07T02:36:55+00:00",
-          "summary": "其中六氟化硫（SF₆）有極高的全球暖化潛勢值（GWP），根據聯合國政府間氣候變遷專門委員會（IPCC）第6次評估報告（AR6）為二氧化碳的2萬4300倍，名列已知&nbsp;..."
+          "title": "一太整體衛浴佈局全台：2026基隆總部啟用，以「台式規格」解決缺工並助攻<b>淨零</b>建築 - 住展雜誌",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.myhousing.com.tw/l/l05/268475/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0O9IqTMEUXLpniZugWsGwu",
+          "published": "2026-04-08T01:00:50+00:00",
+          "summary": "極速完工與穩定品質：採乾式施工，現場組裝最快僅需1 至2天即可完工，較傳統工法縮短逾三週工期，顯著降低工地風險與營管成本。"
         },
         {
-          "title": "從水泥到永續！東華大學攜欣欣水泥開啟<b>淨零</b>轉型新篇章 - 經濟日報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5723/9419224%3Ffrom%3Dedn_subcatelist_cate&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1-zCs_2y5MzF89KBuxylMt",
-          "published": "2026-04-07T02:07:08+00:00",
-          "summary": "在全球淨零排放與永續轉型趨勢下，國立東華大學在校長徐輝明積極推動永續發展策略引領下，整合教學、研究與實務應用，全面布局碳管理與環境教育。該校碳中和&nbsp;..."
+          "title": "南投縣政府拚<b>淨零</b>許淑華宣布電動車補貼加碼",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/society/news586/20260408/index-77560437788780290002.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3RfuXH0XHSC2ktm2eEPJKx",
+          "published": "2026-04-08T00:28:35+00:00",
+          "summary": "【News586／總社長孫崇文報導】 為有效改善大氣品質並落實淨零轉型，南投縣政府積極布建低碳交通網絡。縣長許淑華於4月7日親自主持「淘汰老舊換新電動、充電&nbsp;..."
         },
         {
-          "title": "邱吉爾讓位給一隻獾？ 英國新鈔改版向大自然招手 - 環境資訊中心",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://e-info.org.tw/node/243252&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw10ka6Kxdx2cRimKIG8xQL9",
-          "published": "2026-04-07T01:31:28+00:00",
-          "summary": "50年來，登上英國紙鈔背面的都是響噹噹的歷史人物，從大文豪莎士比亞、發明家瓦特、經濟學家亞當斯密，到英國前首相邱吉爾、數學家圖靈、《傲慢與偏見》作者珍‧&nbsp;..."
+          "title": "南投縣政府拚<b>淨零</b>許淑華宣布電動車補貼加碼 - 是新聞YesMedia",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.yesmedia.com.tw/%25E5%258D%2597%25E6%258A%2595%25E7%25B8%25A3%25E6%2594%25BF%25E5%25BA%259C%25E6%258B%259A%25E6%25B7%25A8%25E9%259B%25B6-%25E8%25A8%25B1%25E6%25B7%2591%25E8%258F%25AF%25E5%25AE%25A3%25E5%25B8%2583%25E9%259B%25BB%25E5%258B%2595%25E8%25BB%258A%25E8%25A3%259C%25E8%25B2%25BC%25E5%258A%25A0%25E7%25A2%25BC/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw18SE9pBktNkR8D3MTCHl7E",
+          "published": "2026-04-07T23:35:58+00:00",
+          "summary": "【News586／總社長孫崇文報導】. 為有效改善大氣品質並落實淨零轉型，南投縣政府積極布建低碳交通網絡。縣長許淑華於4月7日親自主持「淘汰老舊換新電動、充電&nbsp;..."
         },
         {
-          "title": "華南銀行ESG成果豐獲金管會肯定|半導體|產業新聞|產科國際所【IEK產業情報網】",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D0%26nsl_id%3D40060cd4514943368d149037ac062140&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2AaSgH3qpby-UvT2SrB36R",
-          "published": "2026-04-07T00:37:33+00:00",
-          "summary": "透過將環境、社會及公司治理（ESG）納入授信評估流程，並藉由差異化融資條件、永續專案融資及產業輔導機制，協助客戶淨零轉型。 ... Net-Zero Sustainability2022｜樂淨&nbsp;..."
+          "title": "生技ESG革命》財報納永續揭露跨國藥廠力推供應鏈減碳 - IEK產業情報網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D1%26nsl_id%3D3ad1ae28d0314dfe8a73ffaf7616cdeb&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2ankWOvfVJ_P198cuzpQcG",
+          "published": "2026-04-07T22:42:55+00:00",
+          "summary": "未來企業須揭露範疇一、範疇二與範疇三溫室氣體排放量，以及氣候變遷對營運、現金流 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
         },
         {
-          "title": "元大金控集團3子公司優良金融業標竿|半導體|產業新聞|產科國際所【IEK產業情報網】",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D0%26nsl_id%3D534372faa9ff495db3ca8a9dea488ee1&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw109FzXqPb2fqWeZ9sWe8YG",
-          "published": "2026-04-07T00:35:46+00:00",
-          "summary": "依循元大金控集團永續發展策略藍圖，元大證券、元大銀行及元大投信將永續經營理念融入企業文化與營運策略，以「減碳營運，邁向淨零 ... Net-Zero Sustainability2022｜&nbsp;..."
+          "title": "富邦攜台灣大推<b>淨零</b>科技",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%25AF%258C%25E9%2582%25A6%25E6%2594%259C%25E5%258F%25B0%25E7%2581%25A3%25E5%25A4%25A7-%25E6%258E%25A8%25E6%25B7%25A8%25E9%259B%25B6%25E7%25A7%2591%25E6%258A%2580-201000918.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1mJd7l91iRbyHTvgTT9gBA",
+          "published": "2026-04-07T22:08:36+00:00",
+          "summary": "富邦金控與台灣大哥大自2023年起攜手支持中央研究院「淨零科技研發計畫」，實質挹注前瞻能源研究，並已促成「地熱」與「海洋能」兩項關鍵淨零 ... 面對全球氣候變遷&nbsp;..."
         },
         {
-          "title": "捷克「電力共享」興起太陽能餘電媒合需求不浪費",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://netzero.cna.com.tw/news/202604070017/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1qwYZagQ4mDnr499gwHHGK",
-          "published": "2026-04-07T00:22:31+00:00",
-          "summary": "... 淨零趨勢、法令與科技新知，帶領讀者與國際社會同步，邁向低碳未來 ... 歐盟氣候監測機構哥白尼氣候變遷服務（Copernicus Climate Change Service, C3S）&nbsp;..."
+          "title": "華南銀行深耕ESG 獲永續金融評鑑肯定 - 財富自由",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://stock.ltn.com.tw/article/ksvkq3w5def3&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2c5Z1-sssGatJsSFZivaJ4",
+          "published": "2026-04-07T21:35:30+00:00",
+          "summary": "透過將環境、社會及公司治理（ESG）納入授信評估流程，並藉由差異化融資條件、永續專案融資及產業輔導機制，協助客戶淨零轉型。2025年11月更發行「可持續&nbsp;..."
         }
       ]
     }
