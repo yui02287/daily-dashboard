@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-04-08T03:50:59.376451+00:00",
-    "date": "2026-04-08",
+    "generated_at": "2026-04-09T03:47:20.762609+00:00",
+    "date": "2026-04-09",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "【速度與治理如何並存】花旗銀行如何在高度監管環境下，同時追求 AI 規模化與負責任部署？",
-          "link": "https://techorange.com/2026/04/08/citi-on-scaling-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-08T02:45:45+00:00",
-          "summary": "花旗銀行服務近 180 個國家的客戶，每天流動的資金規模以兆美元計。在這樣的組織下，AI 不是一個可以慢慢實驗的選項，而是必須在嚴格治理框架內快速落地的策略工具。 2025 年 9 月接任花旗全球 AI 主管的 Shobhit Varshney，用一句話概括他的任務：「做對的 AI，以及把 AI 做對」，這兩件事看似相近，對一家全球銀行來說卻有截然不同的含義。 不從技術出發，從價值出發 花旗的 A"
+          "title": "AI 催生「新雲端」崛起，Neocloud 如何成為企業 AI 算力配置的新選項？",
+          "link": "https://techorange.com/2026/04/09/neocloud-and-ai-transforming-market/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-09T02:54:36+00:00",
+          "summary": "有別於傳統服務的新雲端（Neocloud）因為 AI 應運而生，期望解決電力供應、硬體供應、資料引力與資料主權問題，讓企業 AI 算力配置轉向混合環境。"
         },
         {
-          "title": "開發產出暴增 10 倍的代價：AI 程式碼湧現，企業如何防堵資安與技術債漏洞？",
-          "link": "https://techorange.com/2026/04/08/ai-code-overload/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-08T02:07:17+00:00",
-          "summary": "2026 年，企業面對的 AI 問題，已經不再只是能否更快寫出程式，而是寫得太快之後，誰來收拾後果？ 隨著 Cursor、Claude Code、Codex 等 AI 寫程式工具快速普及，AI 正在把軟體開發從人力瓶頸推向另一種極端，也就是程式碼產出暴增，但理解、審查與維護能力卻跟不上，技術債也因此加速累積。 《紐約時報》就描述了一個典型的案例：一家金融服務公司導入 Cursor 後，每月產出的程"
+          "title": "AI 時代的資安信任危機：企業如何在效率與資料安全之間找到平衡",
+          "link": "https://techorange.com/2026/04/09/galaxy-software-services-infosec-2026-amt-vital/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-09T02:00:00+00:00",
+          "summary": "AMT 亞太行銷數位轉型聯盟協會日前主辦『2026 AMT 亞太品牌峰會』，匯聚逾 300 位品牌決策者與產學專家，深入探討企業如何借助 AI 創造商業價值與驅動創新。 在座談環節中，叡揚資訊群總胡瑞柔指出，人力不足的挑戰迫使臺灣企業快速導入 AI，期待藉此打破資訊孤島、快速整合客戶資料、捕捉隱性需求，讓管理團隊做出更精準的判斷與服務。然而，轉型浪潮之下，企業也正面臨一個潛伏的核心危機：資料安全。"
         },
         {
-          "title": "【科技早餐】三星一季獲利暴增 755%，AI 記憶體先把上游財報推上新高",
-          "link": "https://techorange.com/2026/04/08/samsung-projects-2026-q1-profit-us-37-9-billion/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-07T22:50:00+00:00",
-          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊三星首季獲利年增 755%，一季就超過去年全年 三星電子 (Samsung Electronics) 公布第一季初步財報，營業利益達 57.2 兆韓元，年增約 755%，營收則來到 133 兆韓元，兩項數字都高於市場預期。這不只超過三星 2025 全年營業利益，也刷新去年第四季 20 兆韓元的單季高點，讓 AI 記憶體與資料中心需求再度成為市場焦"
+          "title": "告別廣告代操中間商：AI 代理人如何重構程序化廣告市場？",
+          "link": "https://techorange.com/2026/04/09/ai-programmatic-will-fade/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-09T01:58:34+00:00",
+          "summary": "2026 年，數位廣告產業面臨結構性轉折。過去二十年來，以程序化廣告為核心的交易模式，建立在第三方數據、即時競價與大規模曝光之上，撐起了數百億美元的產業規模。然而，在零售媒體網絡（Retail Media Networks, RMN）快速崛起、隱私監管趨嚴，以及 AI 技術進入執行層的背景下，這套體系即將重構。 廣告技術去中介化，零售商正以代理式 AI 重構廣告成本 《Smart Brief》報導"
         },
         {
-          "title": "Anduril 和 Palantir 都在做：為什麼離線 AI 正在成為下一個關鍵戰場？",
-          "link": "https://techorange.com/2026/04/07/offline-ai-palantir-anduril/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-07T10:58:39+00:00",
-          "summary": "當企業談 AI 基礎架構，過去幾年主流想像幾乎都圍繞著同一套前提：穩定網路、充足電力，以及靠近資料中心的雲端環境。但這套假設，正越來越難支撐 AI 進入真實世界後的需求。 從軍事、航運到能源產業，愈來愈多高風險場景都在提醒一件事：當延遲、斷線與基礎設施不穩定成為常態，AI 如果仍仰賴雲端往返運算，就可能在最需要它的時刻失效。這也是為什麼，Palantir、Anduril 與新一代邊緣 AI 業者，"
+          "title": "【科技早餐】Uber 押注 AWS 自研晶片，AI 算力正式接進叫車與外送核心",
+          "link": "https://techorange.com/2026/04/09/uber-bets-amazon-custome-ai-chip/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-08T22:50:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Uber 押注 AWS 自研晶片，AI 算力正式接進叫車與外送核心 Uber 宣布擴大與亞馬遜網路服務（AWS）合作，導入 Graviton 處理器用於叫車配對、路徑規劃與物流配送等日常營運，並部署 Trainium 晶片在大規模 AI 模型訓練，目標是在成本與效能之間取得更好平衡。 對 Uber 來說，提升的 AI 算力將直接反映於用戶體驗，包"
         },
         {
-          "title": "日本如何佈局實體 AI 新戰場？大企業和新創發展「新模式」補勞動缺",
-          "link": "https://techorange.com/2026/04/07/japan-experimental-physical-ai-world/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-07T10:03:19+00:00",
-          "summary": "「在日本，機器人並非來取代你的工作，而是去完成沒有人願意做的工作。」《TechCrunch》報導，實體 AI 正逐漸成為下一個產業戰場，而日本推動這項技術是因為隨著勞動力縮減以及維持生產力的壓力增加，越來越多企業在工廠、倉庫及關鍵基礎設施中部署 AI 驅動的機器人。 日本經濟產業省（METI）於 2026 年 3 月表示，目標在國內建立實體 AI 產業，並於 2040 年前取得全球市場 30% 的"
+          "title": "從網路攻防走向實體干擾：伊朗駭客鎖定 PLC、SCADA，OT 安全升級成國安議題",
+          "link": "https://techorange.com/2026/04/08/iran-linked-hackers-are-sabotaging-us-energy-and-water-infrastructure/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-08T10:37:35+00:00",
+          "summary": "近日，美國聯邦調查局（FBI）、國防部、國家安全局（NSA）、能源部與網路安全暨基礎設施安全局（CISA）、美國國家環境保護局（EPA）與美國網路司令部國家任務部隊，共同發布一項聯合警報，指出自 2026 年 3 月以來，與伊朗相關的駭客組織已大幅升高對美國關鍵基礎設施的網路攻擊。這波行動，也被美方官員直接置於當前美伊軍事衝突不斷升溫的脈絡中解讀。 最值得警惕的是，這波攻擊瞄準的並非一般企業 IT"
         },
         {
-          "title": "OpenAI 發表 AI 政策藍圖：從機器人稅到 4 天工作制",
-          "link": "https://techorange.com/2026/04/07/openai-industrial-policy-for-the-intelligence-age/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-07T05:42:42+00:00",
-          "summary": "OpenAI 週一發布了迎接超級智慧（superintelligence）世界的政策提案。在這份長達 13 頁、名為《Industrial Policy for the Intelligence Age》（智慧時代的產業政策）的白皮書中，OpenAI 建議政府應如何監管 AI 以及如何分享該技術快速發展下帶來的經濟效益。《華爾街日報》指出，這些想法可能代表著數兆美元的新政府計畫，但也引發質疑聲浪。"
+          "title": "13 億美元重押實體 AI：從純軟體走向硬科技，拆解創投 Eclipse 破紀錄募資背後的資本轉向",
+          "link": "https://techorange.com/2026/04/08/eclipse-physical-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-08T10:08:11+00:00",
+          "summary": "隨著 AI 的發展，科技投資的目光正逐漸從純軟體應用轉向真實世界。知名創投公司 Eclipse 近期宣布，已成功籌集 13 億美元的最新基金，將專注於支援實體 AI（Physical AI）新創公司，投資領域涵蓋機器人技術、AI 基礎設施、製造業與國防科技。 這筆高達 13 億美元的新資金，不僅是 Eclipse 迄今為止規模最大的一筆募資，更超越了該公司在 2023 年籌集的 12.3 億美元紀"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "AI時代韌體更重要！它不保恐癱瘓國防？Eclypsium提警訊",
-          "link": "https://www.gvm.com.tw/article/129241",
-          "published": "2026-04-07T18:26:00",
-          "summary": "在地緣緊張局勢、AI應用深入各大領域的現下，AI資料中心成為不能停機的國家關鍵基礎建設，也更可能成為資安攻擊標的。耕耘「硬體信任」多年的美國新創Eclypsium如何看待珍貴的GPU防護策略？又為何認為韌體是「下一個成本最低的攻擊領域」？韌體（firmware）。這個一般使用者很少接觸、過往也不常被駭客鎖定的軟體，即將成為資安產業的關鍵戰場？在3月於舊金山剛落幕不久的國際資安展會RSA Confe"
+          "title": "你會交什麼朋友早就注定？生物社會學家：「物以類聚」是基因驅動",
+          "link": "https://www.gvm.com.tw/article/129275",
+          "published": "2026-04-08T19:36:00",
+          "summary": "社交生活是一場大型排序分類遊戲，人們往往會與在任意數量的可觀察層面上類似自己的人交朋友，這種社會排序分類有個專業術語：同質性，意思是物以類聚。這種現象不僅發生在我們周遭的社會網路，也發生在更大範圍內。事實上，我們的整個社會都以這種方式進行排序分類。（本文節錄自《社會也是一個基因體》一書，作者：康利／天下文化出版 ，以下為摘文。）這裡有份作業給你：請坐在公園長椅上觀察別人。請特別注意似乎是成對或成群"
         },
         {
-          "title": "全台刷卡機霸主將上櫃！精誠金融如何「毛利為王」稱霸支付界？",
-          "link": "https://www.gvm.com.tw/article/129239",
-          "published": "2026-04-07T18:15:00",
-          "summary": "刷卡機上「嗶」的一聲，交易瞬間完成，這背後隱藏著一家隱形冠軍公司──精誠金融科技。精誠金融科技的前身是嘉利科技，2023年改為現名，預計將於5月下旬掛牌上櫃，見證台灣信用卡從磁條走向晶片、從實體走向線上的活歷史，也構築出深厚產業護城河。不論是在百貨公司血拚、連鎖超商結帳，店員總是熟練地接過信用卡，在刷卡機上「嗶」的一聲，交易瞬間完成。這再也熟悉不過的日常，背後隱藏著一家隱形冠軍公司──精誠金融科技"
+          "title": "大人都做不到卻期待孩子做？親子溝通第一步：允許「這件事」發生",
+          "link": "https://www.gvm.com.tw/article/129273",
+          "published": "2026-04-08T19:03:00",
+          "summary": "我們不妨自問：「我們有給孩子時間改變嗎？我們願意給孩子多久時間改變呢？」事實上，大人只要將注意力從孩子身上轉移到自己身上，就會發現改變何其不易！我們自己多少次立志要減肥、運動、不再罵小孩等等，哪一次真正做到了？大人想改變自己都如此不易，卻期待孩子能快速改變自己，這種期待不僅不合理，簡直超現實。（本文節錄自《對話，是生命最好的禮物》一書，作者：羅志仲／究竟出版，以下為摘文。）覺察你對孩子的期待「所以"
         },
         {
-          "title": "70歲學跳鋼管舞、發個人虛幣，乖了一輩子這才開始叛逆",
-          "link": "https://www.gvm.com.tw/article/129238",
-          "published": "2026-04-07T18:14:00",
-          "summary": "誰說70歲不能學跳鋼管舞？美國一位曾經為別人活了一輩子的賢妻良母，突破自己，決定利用1年的時間嘗試之前從未做過的事。高空駕駛小飛機、拍攝大尺度的私密寫真、發行自己的虛擬貨幣，用一個又一個的「人生第一次」，向世界宣告：人生真正的盛放，真的是古稀之年才開始。「這是一根冰冷的鋼管，而我正試圖讓自己繞著它旋轉。」如果時光倒流回數年前，住在美國阿肯色州小石城的艾莉絲．約翰斯頓（Alese Johnston）"
+          "title": "「瘦瘦丸」來了！禮來口服減重藥上市，價格僅需針劑1／7",
+          "link": "https://www.gvm.com.tw/article/129271",
+          "published": "2026-04-08T18:51:00",
+          "summary": "美國禮來公司口服減重藥Foundayo獲FDA核准上市，免空腹、使用更便利，價格最低每月僅149美元（約新台幣4732元）。對比諾和諾德Wegovy，兩者在藥效與便利性各有優勢，市場競爭升溫，並瞄準未開發的龐大減重族群與全球商機。&nbsp;目錄&nbsp;● 瘦瘦丸是什麼？● 瘦瘦丸、週纖達：藥效與便利性對決● 價格布局搶攻新客群● 商機與市場前景● 關鍵FAQ瘦瘦丸是什麼？美國禮來公司（Eli"
         },
         {
-          "title": "鄭麗文訪中見習近平，會發生什麼事？專家：國民黨得先贏得這個",
-          "link": "https://www.gvm.com.tw/article/129237",
-          "published": "2026-04-07T17:51:00",
-          "summary": "國民黨主席鄭麗文今天展開為期6天的赴中行，預計將走訪南京、上海、北京三地。特別是形成後段的北京行，外界預判鄭麗文將與中共總書記習近平進行「鄭習會」，成為睽違近10年後，再與中共總書記會見的藍營黨魁，其後續激發的政治效應，引發外界關注。鄭麗文出發前在國民黨中央召開記者會，強調當年國際環境動盪不安，台灣更一直被視為最危險的地方，必須極盡一切努力避免戰爭發生。她坦言，台灣社會對她此次率團訪中「很多人充滿"
+          "title": "只要改變一句日常用語！全球最強團隊都在用的「心理安全感」溝通",
+          "link": "https://www.gvm.com.tw/article/129272",
+          "published": "2026-04-08T18:39:00",
+          "summary": "這個與團隊成果及生產力息息相關的心理安全感，經常會被誤解為「意指團隊感情很好」。然而，心理安全感並不是單純地指團隊成員的感情好。心理安全感高的團隊，成員間的關係既不會「糟過頭」，也不至於「好得超過」，而是一個會為了目標或成果進行「健康的意見衝突」的團隊。（本文節錄自《全球最強團隊都在用的「心理安全感」溝通用語55》一書，作者：原田將嗣／方舟文化出版，以下為摘文。）什麼是「心理安全感」？這個詞出現於"
         },
         {
-          "title": "少子化時代，明星私中為何更加搶破頭？",
-          "link": "https://www.gvm.com.tw/article/129236",
-          "published": "2026-04-07T17:42:00",
-          "summary": "少子化已經是台灣多年來不可逆的趨勢，也顯現在各級學生人數的持續減少，理應讓學生進入優秀公立學校的機會變得更高，但目前的現況卻是私立中學、小學的入學競爭愈加激烈，原因是什麼呢？私立學校提供了什麼樣的條件，令家長們趨之若鶩？而像這樣，經濟狀況較寬裕的家庭爭相將孩子送入昂貴私校的普遍情形，會不會使得教育資源的階級差異更嚴重呢？私中入學的高度競爭無論是北部、中部，還是南部的私立明星學校，在入學考試時的3月"
+          "title": "燃油附加費催出購票潮！2026旅遊趨勢公開，三大寶藏城市上榜",
+          "link": "https://www.gvm.com.tw/article/129270",
+          "published": "2026-04-08T18:27:00",
+          "summary": "中東戰火連帶影響油價波動，出國變貴已成定局。在預算不變下，2026旅遊型態出現哪些變化？又有哪些寶藏城市可探訪？請見一文解析。中東戰火未歇，根據台灣中油股份有限公司公告最新油價，國籍航空公司台灣出發國際航線客運燃油附加費調漲，短程航線從17.5美元（約新台幣559元），調漲為45美元（約新台幣1438元）；長程航線則從45.5美元（約新台幣1454元）調整至117美元（約新台幣3739元）。中東戰"
         },
         {
-          "title": "台中棒球隊狼師案：受害學童再增加，最小僅8歲！綠議員批教育局調查失能",
-          "link": "https://www.gvm.com.tw/article/129235",
-          "published": "2026-04-07T17:19:00",
-          "summary": "台中某國小棒球教練長年性侵、猥褻男童偷拍性影像，檢方第三波起訴，被害人持續增加，年紀最小僅8歲。台中市議會今召開教育文化委員會，民進黨市議員會中痛批該案受害人數增加，犯行次數增加，教育局調查失能，要求教育局長蔣偉民離席，改由副局長列席報告，否則拒絕審查，場內氣氛緊繃，會議更一度中斷5分鐘，主席李中議員協調後，要求教育局明天大會前提送狼師案專案報告。台中市議員江和樹踢爆某國小棒球隊教練對多名男童伸狼"
+          "title": "為什麼朋友都不願在社群發文了？零貼文風潮漸起，貼文倦怠讓人際關係更私人且深刻",
+          "link": "https://www.gvm.com.tw/article/129267",
+          "published": "2026-04-08T17:35:00",
+          "summary": "試著回想，你有多久沒在個人社群媒體發文了？隨著近年來零貼文風潮漸起，貼文倦怠讓許多曾經愛發文的人都不再願意分享生活瑣事和點滴，究竟，為什麼會有這樣的變化？曾幾何時，社群媒體曾是一片熱鬧而真實的生活映照，從早晨的一杯咖啡、午餐的便當照，到深夜一段無意義的心情抒發，當年人們習慣將日常瑣碎攤開在平台上，與朋友、甚至陌生人分享。那是一個發文本身沒什麼包袱的年代，不需要精心構圖、不講求演算法青睞、文筆未必要"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "一太整體衛浴佈局全台：2026基隆總部啟用，以「台式規格」解決缺工並助攻<b>淨零</b>建築 - 住展雜誌",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.myhousing.com.tw/l/l05/268475/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0O9IqTMEUXLpniZugWsGwu",
-          "published": "2026-04-08T01:00:50+00:00",
-          "summary": "極速完工與穩定品質：採乾式施工，現場組裝最快僅需1 至2天即可完工，較傳統工法縮短逾三週工期，顯著降低工地風險與營管成本。"
+          "title": "全球慢性發炎疾病加劇<b>氣候變遷</b>是原因之一 - 環境資訊中心",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://e-info.org.tw/node/243286&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0MXVXaDhbsL5bI0oosKdKW",
+          "published": "2026-04-09T03:06:45+00:00",
+          "summary": "然而，大會並未就健康問題設置專門的談判管道。 不過，負責組織氣候大會的聯合國氣候變遷框架公約（UN Framework Convention on Climate Change，簡稱UNFCCC&nbsp;..."
         },
         {
-          "title": "南投縣政府拚<b>淨零</b>許淑華宣布電動車補貼加碼",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/society/news586/20260408/index-77560437788780290002.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3RfuXH0XHSC2ktm2eEPJKx",
-          "published": "2026-04-08T00:28:35+00:00",
-          "summary": "【News586／總社長孫崇文報導】 為有效改善大氣品質並落實淨零轉型，南投縣政府積極布建低碳交通網絡。縣長許淑華於4月7日親自主持「淘汰老舊換新電動、充電&nbsp;..."
+          "title": "臺灣碳健檢估值1億鎂黑石擬收購結合新北綠盟打造亞洲永續供應鏈生態系 - 中央社",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/postwrite/chi/430240&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw29B2Cxxdgq9g5PeLe24D1Y",
+          "published": "2026-04-09T02:36:32+00:00",
+          "summary": "日前新北市綠色能源產業聯盟正式調整新北市碳政策計劃業務，升格導入AI能源大模型升級為臺灣碳健檢。 一、 碳捕捉與能源診斷技術：淨零轉型的關鍵引擎. 根據市場&nbsp;..."
         },
         {
-          "title": "南投縣政府拚<b>淨零</b>許淑華宣布電動車補貼加碼 - 是新聞YesMedia",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.yesmedia.com.tw/%25E5%258D%2597%25E6%258A%2595%25E7%25B8%25A3%25E6%2594%25BF%25E5%25BA%259C%25E6%258B%259A%25E6%25B7%25A8%25E9%259B%25B6-%25E8%25A8%25B1%25E6%25B7%2591%25E8%258F%25AF%25E5%25AE%25A3%25E5%25B8%2583%25E9%259B%25BB%25E5%258B%2595%25E8%25BB%258A%25E8%25A3%259C%25E8%25B2%25BC%25E5%258A%25A0%25E7%25A2%25BC/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw18SE9pBktNkR8D3MTCHl7E",
-          "published": "2026-04-07T23:35:58+00:00",
-          "summary": "【News586／總社長孫崇文報導】. 為有效改善大氣品質並落實淨零轉型，南投縣政府積極布建低碳交通網絡。縣長許淑華於4月7日親自主持「淘汰老舊換新電動、充電&nbsp;..."
+          "title": "鐵道局揭減碳藍圖16座新站拚化身<b>淨零</b>智慧車站 - 芋傳媒",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://taronews.tw/2026/04/08/1170646/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1bqbB-az7kgV4FQuR5eCmG",
+          "published": "2026-04-08T21:40:03+00:00",
+          "summary": "隨著全球氣候變遷加劇，淨零排放已成為國際共識，鐵道局今天舉辦「 PAS 2080 碳管理暨永續鐵道車站研討會」，發表鐵道工程減碳參考指引及鐵道車站概念設計指引。"
         },
         {
-          "title": "生技ESG革命》財報納永續揭露跨國藥廠力推供應鏈減碳 - IEK產業情報網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D1%26nsl_id%3D3ad1ae28d0314dfe8a73ffaf7616cdeb&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2ankWOvfVJ_P198cuzpQcG",
-          "published": "2026-04-07T22:42:55+00:00",
-          "summary": "未來企業須揭露範疇一、範疇二與範疇三溫室氣體排放量，以及氣候變遷對營運、現金流 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
+          "title": "高雄婦人持假鑽詐騙百貨專櫃得手逾400萬元二度上門遭逮 - 台灣華報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.kingtop.com.tw/detail.php%3Ftype%3Dlastest%26id%3D48303&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0pFwGKh8d-Kk1h7pnmqsb6",
+          "published": "2026-04-08T19:11:37+00:00",
+          "summary": "警方受理後立即展開調查，得知犯嫌將於2月12日再次前來交易，警方隨即與店家合作，部署埋伏查緝行動，犯嫌於當日夜間7時許攜帶15顆假鑽石進入店內兜售，員警見時機&nbsp;..."
         },
         {
-          "title": "富邦攜台灣大推<b>淨零</b>科技",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%25AF%258C%25E9%2582%25A6%25E6%2594%259C%25E5%258F%25B0%25E7%2581%25A3%25E5%25A4%25A7-%25E6%258E%25A8%25E6%25B7%25A8%25E9%259B%25B6%25E7%25A7%2591%25E6%258A%2580-201000918.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1mJd7l91iRbyHTvgTT9gBA",
-          "published": "2026-04-07T22:08:36+00:00",
-          "summary": "富邦金控與台灣大哥大自2023年起攜手支持中央研究院「淨零科技研發計畫」，實質挹注前瞻能源研究，並已促成「地熱」與「海洋能」兩項關鍵淨零 ... 面對全球氣候變遷&nbsp;..."
+          "title": "115年度臺南市校園<b>淨零</b>綠生活推廣計畫",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://web.tainan.gov.tw/epb/News_Content.aspx%3Fn%3D34631%26sms%3D24655%26s%3D8803732&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw14hVfr8ANe9P2lTOiC_epg",
+          "published": "2026-04-08T19:08:34+00:00",
+          "summary": "... 淨零綠生活有關之環境教育計畫，特擴大辦理旨揭計畫，以精進大專校園綠生活作為。讓學生將理念轉化為行動力，予以貫徹實踐，向2050淨零碳排之目標邁進。 二&nbsp;..."
         },
         {
-          "title": "華南銀行深耕ESG 獲永續金融評鑑肯定 - 財富自由",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://stock.ltn.com.tw/article/ksvkq3w5def3&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2c5Z1-sssGatJsSFZivaJ4",
-          "published": "2026-04-07T21:35:30+00:00",
-          "summary": "透過將環境、社會及公司治理（ESG）納入授信評估流程，並藉由差異化融資條件、永續專案融資及產業輔導機制，協助客戶淨零轉型。2025年11月更發行「可持續&nbsp;..."
+          "title": "Pingtung farmers grow new jicama variety resembling pears - Formosa News - 民視新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://english.ftvnews.com.tw/news/2026408W08EA&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0vWopeNfQhnVJDRskc77K-",
+          "published": "2026-04-08T18:48:19+00:00",
+          "summary": "To combat climate change, the Jiuru Township Farmers' Association in ... 為了對抗氣候變遷，屏東縣九如鄉農會嘗試種植新品種的豆薯，結果種出比&nbsp;..."
         }
       ]
     }
