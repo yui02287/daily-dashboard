@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-04-11T03:36:45.123882+00:00",
-    "date": "2026-04-11",
+    "generated_at": "2026-04-12T04:10:52.817548+00:00",
+    "date": "2026-04-12",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -16,36 +16,6 @@
           "link": "https://techorange.com/2026/04/11/bridging-washington-and-silicon-valley/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
           "published": "2026-04-10T22:29:00+00:00",
           "summary": "華府剛落幕的 2026 年「Hill &amp; Valley Forum 2026 國會山莊與矽谷論壇」，揭示了美國國安與科技戰略的重大歷史轉向：大國博弈的戰場，從虛擬的軟體演算法延伸至實體的造船廠、發電廠與無人機生產線。 華府決策圈與矽谷巨頭達成戰略共識，美國必須重新找回實體製造的肌肉，才能應對日益嚴峻的地緣政治危機。 以下摘要 Hill &amp; Valley Forum 2026 論壇內"
-        },
-        {
-          "title": "聯手 Google 擴大開發 IPU！Intel 瞄準 AI 推論，將晶片戰局拉向系統架構之爭",
-          "link": "https://techorange.com/2026/04/10/intel-google-deepen-collaboration-cpu-ipu/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-10T10:23:15+00:00",
-          "summary": "AI 應用的逐漸擴散，推動了對傳統運算晶片的新需求。根據《Reuters》等多家外媒報導，Intel 與 Google 最新宣布擴大合作，將持續採用 Xeon 處理器，並擴大基於 ASIC 的客製化基礎設施處理器（IPU）共同開發，顯示 AI 運算架構正在從單一加速器導向，轉向更複雜的系統競爭。 Intel 指出，透過這項合作，Intel 與 Google 將在多個世代的 Intel Xeon 處"
-        },
-        {
-          "title": "亞馬遜股東信沒提賣家、少談購物體驗：傳統零售走向邊緣，AI 與晶片已成核心戰略",
-          "link": "https://techorange.com/2026/04/10/what-amazon-ceo-andy-jassys-annual-letter-to-shareholders-didnt-say/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-10T10:15:01+00:00",
-          "summary": "亞馬遜（Amazon）近日發布執行長 Andy Jassy 的年度股東信。在今年 2 月，亞馬遜宣布 2026 年將投入高達 2,000 億美元的資本支出，主要用於建置 AI 基礎設施。這項消息一出，市場曾出現恐慌性拋售，導致公司市值蒸發超過 4,500 億美元。 在這樣的背景下，這封超過 5,000 字的股東信中，Andy Jassy 明顯把重點放在 AI、AWS、晶片與巨額資本支出的合理性上，"
-        },
-        {
-          "title": "建立跨域共學連結，「papa 照」強化社區照護的數位基礎",
-          "link": "https://techorange.com/2026/04/10/galaxy-software-services-papa-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-10T09:30:02+00:00",
-          "summary": "當台灣的社區照護走向轉型，現場真正需要補上的，已不只是人力與服務量能，而是跨領域之間更緊密的共學與連結。和鄰長照認為，唯有重新梳理醫療端、照護端與家庭支持之間的分工與銜接，社區照護模式才有機會從都會延伸至偏鄉，成為更多家庭可以依靠的日常。 和鄰長照執行長邱青萸指出，當長者出院、病況改變或功能退化時，家屬往往需要重新尋找資源、重新理解流程。然而，在資訊分散、品質不一的情況下，要找到符合當下情境的照護"
-        },
-        {
-          "title": "泓格科技 4/23 舉辦台中研討會：AIoT × ESG × 工業資安-智慧邊緣布局，助攻中部製造穩健升級",
-          "link": "https://techorange.com/2026/04/10/icpdas-aiot-esg-ics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-10T08:59:27+00:00",
-          "summary": "在缺工成為常態、能源成本波動加劇與工業資安風險升高的背景下，製造業面臨前所未有的營運壓力。數位轉型不再只是效率提升的選項，而是維持競爭力的必要條件。泓格科技將於 4 月 23 日（四）在台中林酒店舉辦「智慧邊緣 ‧ 永續工廠：AIoT 全方位解決方案」研討會，聚焦智慧能源管理、設備預測維護與工安監控與 ICS 工控資安等議題，分享 AIoT 技術在製造場域的實務應用，協助企業提升生產效率並降低營運"
-        },
-        {
-          "title": "【2026 企業 IT 成本優化】數據驅動的硬體投資決策：應對漲價潮與 Windows 11 轉型",
-          "link": "https://techorange.com/2026/04/10/gamania-cloudforce-windows-11-ciro/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-10T07:58:27+00:00",
-          "summary": "現狀挑戰：高昂採購成本與 IT 維運困境 在 Windows 10 終止支援與全球供應鏈不穩定的雙重壓力下，企業面臨三大決策難題： CIRO AIoT 解決方案：從「猜測採購」轉向「量化管理」 CIRO 提供24/7矩陣式效能監控，協助管理者透過精準數據優化 IT 資產管理 (ITAM)。 1. 量化效能分析與根因分析 (Root Cause Analysis) 2. 精準採購建議與 ROI 優化"
         }
       ]
     },
@@ -54,40 +24,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "好市多黑鑽卡回饋激省千元！會員揭「隱藏版好康」保險、旅遊全包",
-          "link": "https://www.gvm.com.tw/article/129291",
-          "published": "2026-04-10T18:26:00",
-          "summary": "美式賣場好市多（Costco）的收費會員制回饋機制持續受關注，先前有會員討論黑鑽卡回饋結帳激省千元，驚覺回饋金累積的威力。又有會員熱議，除既有消費回饋機制外，隨著使用經驗累積，多元專屬優惠，從保險、旅遊到日常生活服務，直呼隱藏好康太值。近期有黑鑽卡會員重新檢視官方會員資料後發現，過去多將黑鑽卡定位於「高額消費回饋工具」，實際上其延伸服務涵蓋面向更廣，包括海外住宿方案、專屬保險產品及多項跨界合作優惠"
+          "title": "睡前喝牛奶會長不高？醫曝1關鍵：喝錯種類是致命傷「阻礙孩子生長隱形殺手」",
+          "link": "https://www.gvm.com.tw/article/129289",
+          "published": "2026-04-11T16:00:00",
+          "summary": "許多家長盼著孩子長高，近期卻有短影音宣稱睡前喝牛奶會讓孩子長不高。醫師指出，調味乳或含糖蛋白飲、奶粉中的精製糖，可能干擾夜間生長激素分泌，牛奶攝取量也要注意。開業診所兒童內分泌科醫師王律婷透過新聞稿指出，國際期刊「細胞」（Cells）上的研究顯示，約70%生長激素會在夜間分泌，意即長高有很大一部分其實是在睡眠中完成。且生長激素並不是持續穩定分泌，在特定時間會出現高峰，其中又以第一段深層睡眠最為集中"
         },
         {
-          "title": "AI新關鍵CPO進度？日月光吳田玉：今年有望量產",
-          "link": "https://www.gvm.com.tw/article/129330",
-          "published": "2026-04-10T18:05:00",
-          "summary": "今（10）日全球封測龍頭日月光在高雄仁武舉行新廠動土典禮，儀式結束後，執行長吳田玉接受媒體採訪。他直言，「AI才剛剛開始，但真正的瓶頸，已經不在軟體，而在硬體」，而台灣供應鏈正站上全球關鍵位置。「AI競賽正進入新的階段，關鍵不再只是模型，而是底層硬體能力。」隨著生成式AI快速落地，產業競爭已從看不見的演算法，轉向看得見的算力與製造能力。從先進封裝、散熱到電力供應，硬體正成為限制AI發展的核心瓶頸。"
+          "title": "全聯林敏雄首談抵制風波，砸40億導入電子標籤贏回信任",
+          "link": "https://www.gvm.com.tw/article/129335",
+          "published": "2026-04-11T15:57:00",
+          "summary": "超市龍頭全聯去年歷經標價爭議，在社群引發抵制，全聯董事長林敏雄10日首度回應此事。全聯業績是否受影響？面對家樂福量販店關店潮，大全聯如何因應？「領導和誠信是我們的基石，全聯不會做有的沒的事情！」全聯董事長林敏雄回應近期網路抵制聲浪，表示去年全聯業務有成長，但也有不少網路討論與提醒，全聯會虛心檢討、持續精進。全聯去年業績達2200億元，店數突破1250間、電商會員人數達700萬，三項指標均較前年成長"
         },
         {
-          "title": "命理老師追劇推薦！8部必看Disney+正能量片單，也許看完就能充滿希望",
-          "link": "https://www.gvm.com.tw/article/129305",
-          "published": "2026-04-10T17:29:00",
-          "summary": "讓我們一起看看Disney+上必看的正能量影集片單，這些由命理老師推薦的作品，也許能幫你迎向能量不同的轉機。農曆3月瘋媽祖，台灣一年一度的媽祖遶境即將在4月中旬陸續登場。隨著媽祖鑾轎出巡，萬人齊心祈福，這段期間不只是宗教盛事，更是年度能量最集中、磁場最安定的「黃金補運期」。Disney+特別邀請在社群上經常以淺顯易懂的方式分享命理觀念、深受年輕粉絲們喜愛的命理老師「王老師幫幫我」，從專業視角出發，"
+          "title": "為何馬斯克媽媽窮養，可以教出富一代？",
+          "link": "https://www.gvm.com.tw/article/129319",
+          "published": "2026-04-11T14:00:00",
+          "summary": "最近一位富千金朋友，送我一本馬斯克媽媽的自傳，讀了甚為有感。原來富一代是這樣教導出來的，窮養不一定會比富養差，讓小資家庭出身的我很認同。也想分享給當下許多抱怨不花錢做軍備競賽，就無法好好培育下一代的爸媽。我個人成長經驗，來看馬斯克的媽媽窮養觀，可以找出五個相當優異的地方。在這個富養風潮盛行的時代，家長們恨不得把全世界最好的資源都堆到孩子面前。我想起相識十年的閨蜜。她從小生活無虞，畢業後可以隨心所欲"
         },
         {
-          "title": "對話，是生命最好的禮物：父母如何調整對孩子的期待？",
-          "link": "https://www.gvm.com.tw/article/129273",
-          "published": "2026-04-10T17:06:00",
-          "summary": "我們不妨自問：「我們有給孩子時間改變嗎？我們願意給孩子多久時間改變呢？」事實上，大人只要將注意力從孩子身上轉移到自己身上，就會發現改變何其不易！我們自己多少次立志要減肥、運動、不再罵小孩等等，哪一次真正做到了？大人想改變自己都如此不易，卻期待孩子能快速改變自己，這種期待不僅不合理，簡直超現實。（本文節錄自《對話，是生命最好的禮物》一書，作者：羅志仲／究竟出版，以下為摘文。）覺察你對孩子的期待「所以"
+          "title": "鄭習會分析〉習近平談話展現彈性！專家：兩岸距離戰爭應沒這麼近了",
+          "link": "https://www.gvm.com.tw/article/129334",
+          "published": "2026-04-11T13:06:00",
+          "summary": "睽違10年後，國共兩黨主席於清明時節再次會晤，於北京進行「鄭習會」，相互確認「九二共識、反台獨」為共同政治基礎，其中「中華民族」四字，為中國國家主席習近平談話核心，而國民黨主席鄭麗文則提出「建構兩岸和平發展長期機制」的明確訴求。專家分析，習近平的談話展現彈性，雖然藍營的願望清單不一定全都能實現，但從雙方的良好互動來看，「兩岸距離戰爭應該沒那麼近了。」4月10日登場的鄭習會，在公開致詞的部分，中國國"
         },
         {
-          "title": "「一句話」改變工作績效！全球最強團隊都在用的「心理安全感」溝通",
-          "link": "https://www.gvm.com.tw/article/129272",
-          "published": "2026-04-10T17:04:00",
-          "summary": "這個與團隊成果及生產力息息相關的心理安全感，經常會被誤解為「意指團隊感情很好」。然而，心理安全感並不是單純地指團隊成員的感情好。心理安全感高的團隊，成員間的關係既不會「糟過頭」，也不至於「好得超過」，而是一個會為了目標或成果進行「健康的意見衝突」的團隊。（本文節錄自《全球最強團隊都在用的「心理安全感」溝通用語55》一書，作者：原田將嗣／方舟文化出版，以下為摘文。）什麼是「心理安全感」？這個詞出現於"
+          "title": "童子賢：荷姆茲海峽危機應讓台灣覺醒，不應再過度依賴天然氣",
+          "link": "https://www.gvm.com.tw/article/129333",
+          "published": "2026-04-11T12:15:00",
+          "summary": "過去十年政府反核，又為了減碳，逐漸加大天然氣進口，從2015年使用30％，2026年已達50%，遠高日、韓。每次戰爭就帶動天然氣價格飆漲，更讓台灣能源轉型政策顯得脆弱。和碩董事長童子賢提醒，近期伊朗戰爭引爆荷姆茲海峽封鎖的能源危機，可給台灣什麼覺醒？持續戰亂的伊朗與荷姆茲海峽衝突引發全球能源危機，造成能源價格飆漲，能源供應不穩定，我近期常被問起如何看待時局。截至目前為止，危機難以善了：美國總統川普"
         },
         {
-          "title": "從台大教授到實戰7年奪50%市占率：熱愛產品只是基本，沒「這能力」終究被市場淘汰",
-          "link": "https://www.gvm.com.tw/article/129257",
-          "published": "2026-04-10T17:02:00",
-          "summary": "作者曾任台大教授，因研究計畫而接觸長照產業，看見現場作業的痛點，讓他毅然離開講台，創辦智齡科技，從零開始打造產品與團隊。創業7年來，智齡科技已拿下50%市占率，累積2,700家機構客戶，平台服務33萬名專業照顧者，協助115萬件照護個案。（本文節錄自《從好技術到好生意》一書，作者：康仕仲／商周出版，以下為摘文。）新創的生存考驗：你會賣嗎？新創的雙引擎：技術讓你起飛，銷售讓你續航在技術型創業中，第一"
+          "title": "AI就算說錯你也相信？研究：逾7成使用者盲目埋單，陷入「不批判」的思維陷阱",
+          "link": "https://www.gvm.com.tw/article/129288",
+          "published": "2026-04-11T11:00:00",
+          "summary": "在當今的數位時代，人工智慧（AI）已經成為許多人的日常工具，但最近的研究揭示一個令人擔憂的現象：使用者對 AI 的過度依賴，導致他們放棄獨立的邏輯思考，這種現象被稱為「認知投降」（Cognitive surrender）。根據賓夕法尼亞大學（University of Pennsylvania）的研究，AI使用者大致可分為兩類：一類是將AI視為強大但有時會出錯的工具，需謹慎監督和檢查其回應中的推理"
         }
       ]
     },
@@ -96,40 +66,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "技術賦能治理新典範！「文字探勘與數位轉型服務產學聯盟」與「OSCAR <b>淨零</b>排放韌性供應鏈 ...",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.allnews.tw/news/88509&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0IWuVBRE_dt6b7N0JImekP",
-          "published": "2026-04-11T00:43:45+00:00",
-          "summary": "台灣民眾電子報| 【本報記者綜合報導】搶佔全球生成式AI 產業革命與淨零轉型兩大趨勢先機，「文字探勘與數位轉型服務產學聯盟」與「OSCAR 淨零排放韌性供應鏈&nbsp;..."
+          "title": "環境部攜手大葉大學2026<b>淨零</b>綠領人才培訓開放報名 - 互傳媒",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://hoomedia.com.tw/2026/04/12/135197/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3Zkl_WjtNlfN-TvtuADfFl",
+          "published": "2026-04-12T00:26:51+00:00",
+          "summary": "... ／記者林明佑／彰化報導】因應全球淨零轉型與永續發展趨勢，環境部持續推動綠領人才培育，攜手大葉大學辦理「2026淨零 ... 課程總時數為48小時，內容涵蓋氣候變遷與溫室&nbsp;..."
         },
         {
-          "title": "AI與<b>淨零</b>雙軸並進兩大聯盟攜手強化台灣產業韌性 - 波新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bo6s.com.tw/news_detail.php%3FNewsID%3D110434&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0dsJCwoWFUeDkzpFrKCqfd",
-          "published": "2026-04-11T00:37:24+00:00",
-          "summary": "國立中山大學管理學院10日舉行產學結盟儀式，由「文字探勘與數位轉型服務產學聯盟」與「OSCAR 淨零排放韌性供應鏈聯盟」正式簽署策略合作協議，象徵產業發展將由&nbsp;..."
+          "title": "台糖80週年吳明昌：實踐健康及綠色產業標竿企業 - 芋傳媒",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://taronews.tw/2026/04/11/1172193/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2zCxJftkoQYknt6gGGAU6o",
+          "published": "2026-04-11T21:15:43+00:00",
+          "summary": "台糖董事長吳明昌表示，近年台糖已將循環經濟、新農業及淨零排放的理念融入營運核心，台糖正穩步實踐「亞太地區健康及綠色產業標竿企業」的願景。 台糖今天&nbsp;..."
         },
         {
-          "title": "<b>氣候變遷</b>評比東元首奪最高A評級 - Yahoo新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E8%25A9%2595%25E6%25AF%2594-%25E6%259D%25B1%25E5%2585%2583%25E9%25A6%2596%25E5%25A5%25AA%25E6%259C%2580%25E9%25AB%2598a%25E8%25A9%2595%25E7%25B4%259A-201000474.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw32O__U3fqkGejjcf_fe9TY",
-          "published": "2026-04-10T21:41:30+00:00",
-          "summary": "東元表示，全集團已訂定2050年淨零排放以及重要據點2030營運減排50％的目標，截至去年減排幅度已逾40％。 廣告. 廣告. 近年東元更將低碳與循環思維導入營運及核心&nbsp;..."
+          "title": "議員：滿足<b>碳中和</b>與控制電價成挑戰- 香港文匯網 - 文匯報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.wenweipo.com/a/202604/12/AP69dab24ee4b0b49ad1b67935.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0ZGowLDspz40tDA5ynFTv9",
+          "published": "2026-04-11T20:45:50+00:00",
+          "summary": "立法會議員葛珮帆表示，這套機制過去有效保障了香港的電力可靠度，但隨着發電燃料從煤轉向天然氣及零碳能源，環保轉型成本已成為影響電價的重要因素。如何在滿足碳&nbsp;..."
         },
         {
-          "title": "遠傳榮獲CDP<b>氣候變遷</b>「領導A級」 | 中央社訊息平台",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/postwrite/chi/430466&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0BjzrTULjsfgQMcamCN8ZJ",
-          "published": "2026-04-10T21:25:33+00:00",
-          "summary": "國際環保非營利組織CDP（Carbon Disclosure Project，碳揭露專案）今（10）日舉辦「CDP評分成績台灣發表會」，遠傳於「氣候變遷」（Climate Change）類別榮獲最高&nbsp;..."
+          "title": "南極海冰加速融化皇帝企鵝改列瀕危",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.singtao.ca/7472071/2026-04-10/news-%25E5%258D%2597%25E6%25A5%25B5%25E6%25B5%25B7%25E5%2586%25B0%25E5%258A%25A0%25E9%2580%259F%25E8%259E%258D%25E5%258C%2596%2B%25E7%259A%2587%25E5%25B8%259D%25E4%25BC%2581%25E9%25B5%259D%25E6%2594%25B9%25E5%2588%2597%25E7%2580%2595%25E5%258D%25B1/%3Fvariant%3Dzh-hk&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0PtjwrM60yc_tzGFsYS6Wu",
+          "published": "2026-04-11T19:06:27+00:00",
+          "summary": "氣候變化導致南極象徵物種「皇帝企鵝」更接近滅絕。全球瀕危野生動物權威機構世界自然保育聯盟周四宣布，由於南極地區的氣候變化，皇帝企鵝和南極毛皮海獅已被&nbsp;..."
         },
         {
-          "title": "研討會探建築領域綠色能源創新與發展 - 新華澳報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.waou.com.mo/2026/04/11/%25E7%25A0%2594%25E8%25A8%258E%25E6%259C%2583%25E6%258E%25A2%25E5%25BB%25BA%25E7%25AF%2589%25E9%25A0%2598%25E5%259F%259F%25E7%25B6%25A0%25E8%2589%25B2%25E8%2583%25BD%25E6%25BA%2590%25E5%2589%25B5%25E6%2596%25B0%25E8%2588%2587%25E7%2599%25BC%25E5%25B1%2595/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1wy9TImamox5yEffHpTqIT",
-          "published": "2026-04-10T19:57:56+00:00",
-          "summary": "隨後，Arup氣候變化及可持續發展主任陳曉希工程師主講《如何利用AI邁向 ... 淨零碳路徑》；本地能源及環境專家及獨立顧問朱嘉傑工程師主講《澳門建築業&nbsp;..."
+          "title": "中國能源轉型尋求經濟與環境平衡面臨挑戰與機遇| GeneOnline News",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://geneonline.news/%25E4%25B8%25AD%25E5%259C%258B%25E8%2583%25BD%25E6%25BA%2590%25E8%25BD%2589%25E5%259E%258B%25E5%25B0%258B%25E6%25B1%2582%25E7%25B6%2593%25E6%25BF%259F%25E8%2588%2587%25E7%2592%25B0%25E5%25A2%2583%25E5%25B9%25B3%25E8%25A1%25A1%25E9%259D%25A2%25E8%2587%25A8%25E6%258C%2591%25E6%2588%25B0%25E8%2588%2587%25E6%25A9%259F%25E9%2581%2587/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3qPArv7aOHc1XEQwDp9s4g",
+          "published": "2026-04-11T18:15:34+00:00",
+          "summary": "碳達峰是指在某個時間點，碳排放量達到峰值後開始下降；碳中和是指通過植樹造林、碳捕獲等方式，抵消自身產生的碳排放，實現淨零排放。 其次，在能源結構的轉型上，&nbsp;..."
         },
         {
-          "title": "衛生福利部永續發展推動委員會設置要點",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.mohw.gov.tw/dl-99938-c2bc6097-e9c2-4e6c-bb82-955a276bcf1f.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw10gCy8CFnB4fZzMHeJAwvC",
-          "published": "2026-04-10T19:24:38+00:00",
-          "summary": "一、衛生福利部（以下簡稱本部）為促進國民健康福祉，實現社會公平，確. 保資源永續利用，建構具氣候韌性之衛生福利體系，推動本部主管之醫."
+          "title": "科博館、成大攜手《時空丈量師》特展將跨世紀典藏轉化為<b>氣候變遷</b>關鍵證據 - 元丰傳媒",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.yuanfengmedia.tw/detail.php%3Ftype%3Dlastest%26id%3D54750&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1-MvgjyymnpljElR72RDm7",
+          "published": "2026-04-11T17:21:48+00:00",
+          "summary": "【記者張原銘、張皓傑台中報導】全球氣候變遷正如何改變生物的命運？由國立自然科學博物館與國立成功大學合作推出的《時空丈量師：從自然史典藏看氣候變遷》特&nbsp;..."
         }
       ]
     }
