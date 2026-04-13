@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-04-12T04:10:52.817548+00:00",
-    "date": "2026-04-12",
+    "generated_at": "2026-04-13T04:19:45.259039+00:00",
+    "date": "2026-04-13",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,10 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "【Hill &#038; Valley Forum 2026】美國正重寫科技冷戰規則，台灣為何成為難以替代的關鍵盟友？",
-          "link": "https://techorange.com/2026/04/11/bridging-washington-and-silicon-valley/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-10T22:29:00+00:00",
-          "summary": "華府剛落幕的 2026 年「Hill &amp; Valley Forum 2026 國會山莊與矽谷論壇」，揭示了美國國安與科技戰略的重大歷史轉向：大國博弈的戰場，從虛擬的軟體演算法延伸至實體的造船廠、發電廠與無人機生產線。 華府決策圈與矽谷巨頭達成戰略共識，美國必須重新找回實體製造的肌肉，才能應對日益嚴峻的地緣政治危機。 以下摘要 Hill &amp; Valley Forum 2026 論壇內"
+          "title": "AI 時代只剩四種人能留下來？科技職場留人邏輯的根本轉變",
+          "link": "https://techorange.com/2026/04/13/four-jobs-left-in-tech/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-13T02:44:31+00:00",
+          "summary": "科技公司裡哪些人會被 AI 取代、哪些人會留下來？這個問題最近在創投與創辦人圈引發了一場討論。起點是產品與成長營運者 Yoav Rechtman 轉發的一個論點：隨著 AI 承接越來越多科技公司的內部工作，最終能留下來的角色將只剩四種原型。 四種原型，押注底層能力而非職稱 Rechtman 的框架完全捨棄職稱，改用底層能力來定義誰能留下來。 第一種是高速交付的產品工程師與通才建造者，靠著善用 AI"
+        },
+        {
+          "title": "「一家企業使用 AI 的上限，取決於數據的下限。」台灣帆軟打破數據孤島，助半導體企業將每日資料匯整降至 10 分鐘",
+          "link": "https://techorange.com/2026/04/13/taiwan-fanruan-finedatalink-aiready/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-13T02:10:31+00:00",
+          "summary": "在 TechOrange 科技報橘日前舉辦的 AI Ready 數據治理論壇，台灣帆軟客戶經理張姿敏以「打破數據孤島，透過一站式治理，打造 AI Ready 環境」為主題發表演講，她引用 Gartner 的調查數據指出，68% 企業 AI 提案因數據問題無法推進。 「許多企業看起來像在做 AI，但底層數據卻仍仰賴人工以 Excel 整理，缺乏統一標準，導致專案在數據梳理階段就停滯不前，」張姿敏指出"
+        },
+        {
+          "title": "盲目呼叫 API 太耗算力？鴻海打造 CityGPT，以 AI Agent 賦能智慧城市數據治理",
+          "link": "https://techorange.com/2026/04/13/foxconn-technology-api-citygpt-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-13T02:08:12+00:00",
+          "summary": "從企業、城市到國家，要打造專屬於自己的 AI 發展模式，數據已成為具備明確規格且不可或缺的核心基礎。在 TechOrange 科技報橘日前舉辦的「AI Ready 數據治理論壇」，鴻海科技集團以「整合碎裂數據，建立 AI Ready 智慧城市大腦」為題，分享鴻海在推動 CityGPT 與智慧城市應用的實戰經驗與觀察，解析如何透過標準化數據治理與 AI Agent 協作，整合碎片化數據，推動 Cit"
+        },
+        {
+          "title": "Costco 的 RMN 變革：放棄流量變現思維，如何靠封閉式數據實現「廣告到購買」？",
+          "link": "https://techorange.com/2026/04/13/costco-rmn/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-13T01:45:15+00:00",
+          "summary": "今年 3 月，Costco 宣布升級旗下零售媒體平台 Costco Velocity，在自家網站上推出 AI 驅動的「預留展示位（Reserved Display）」。這項新功能預計於今年第二季先行測試，並逐步擴展至首頁與搜尋頁等高流量版位，被 Costco 形容為線上的「數位端架」。 從貨架邏輯出發，把逛賣場變成一種演算法體驗 在實體門市中，「端架（end cap）」一向是刺激衝動購買與新品曝光"
+        },
+        {
+          "title": "單一提示詞已不夠用，企業如何透過提示鏈讓 AI 輸出真正可信賴？",
+          "link": "https://techorange.com/2026/04/13/prompt-chaining-with-ai-tool-use/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-13T01:40:53+00:00",
+          "summary": "在提示鏈的架構下，透過將任務明確分解成多個「階段」或「步驟」，就能夠讓 AI 獲得更理想的輸出；而對於企業來說，提示鏈可以有效提升決策信心，並且增加 AI 協作流程的可靠性。"
+        },
+        {
+          "title": "【科技早餐】Anthropic 新模型引發資安警戒，美國財長與聯準會主席急召銀行高層",
+          "link": "https://techorange.com/2026/04/13/bessent-powell-warn-bank0ceos-about-anthropic-model-risk/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-12T22:50:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Anthropic 新模型引發資安警戒，美國財長與聯準會主席急召銀行高層 《路透社》引述知情人士報導，美國財政部長貝森特 (Scott Bessent) 與聯準會主席鮑爾 (Jerome Powell) 本週緊急召集多家大型銀行執行長開會，討論 Anthropic 最新模型 Mythos 可能帶來的資安風險。Anthropic 目前並未全面開放這"
         }
       ]
     },
@@ -24,40 +54,22 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "睡前喝牛奶會長不高？醫曝1關鍵：喝錯種類是致命傷「阻礙孩子生長隱形殺手」",
-          "link": "https://www.gvm.com.tw/article/129289",
-          "published": "2026-04-11T16:00:00",
-          "summary": "許多家長盼著孩子長高，近期卻有短影音宣稱睡前喝牛奶會讓孩子長不高。醫師指出，調味乳或含糖蛋白飲、奶粉中的精製糖，可能干擾夜間生長激素分泌，牛奶攝取量也要注意。開業診所兒童內分泌科醫師王律婷透過新聞稿指出，國際期刊「細胞」（Cells）上的研究顯示，約70%生長激素會在夜間分泌，意即長高有很大一部分其實是在睡眠中完成。且生長激素並不是持續穩定分泌，在特定時間會出現高峰，其中又以第一段深層睡眠最為集中"
+          "title": "核能國家隊拚了！台灣啟動SMR新核能研究，盼2035年發出第1度電",
+          "link": "https://www.gvm.com.tw/article/129296",
+          "published": "2026-04-12T16:00:00",
+          "summary": "國家原子能科技研究院今年啟動小型模組化反應器（SMR）研究計畫，國原院已初步盤點3種SMR技術可讓高階核廢料大減逾7成；另外，若確認國際輕水式SMR商用產品運轉無虞，經國外授權生產，估國內最快2035年可發出第1度SMR電力。台電3月27日正式提交核三廠再運轉計畫至核安會審查，除了檢討核電廠是否重啟，總統賴清德日前表示，政府對於先進的核能，包括「核融合」或是SMR會持續關注，未來只要符合條件，政府"
         },
         {
-          "title": "全聯林敏雄首談抵制風波，砸40億導入電子標籤贏回信任",
-          "link": "https://www.gvm.com.tw/article/129335",
-          "published": "2026-04-11T15:57:00",
-          "summary": "超市龍頭全聯去年歷經標價爭議，在社群引發抵制，全聯董事長林敏雄10日首度回應此事。全聯業績是否受影響？面對家樂福量販店關店潮，大全聯如何因應？「領導和誠信是我們的基石，全聯不會做有的沒的事情！」全聯董事長林敏雄回應近期網路抵制聲浪，表示去年全聯業務有成長，但也有不少網路討論與提醒，全聯會虛心檢討、持續精進。全聯去年業績達2200億元，店數突破1250間、電商會員人數達700萬，三項指標均較前年成長"
+          "title": "日本2026年度總預算案成立！122兆日圓史上最大規模，國防預算增至新高",
+          "link": "https://www.gvm.com.tw/article/129295",
+          "published": "2026-04-12T11:00:00",
+          "summary": "一般會計總額達122兆3092億日圓（約新台幣24.9兆元）的日本2026年度中央政府總預算案，在執政黨、日本保守黨、無黨籍議員的贊成之下，7日在日本參議院全體會議通過並成立。「每日新聞」報導，日本首相高市早苗原本的目標是在今年3月31日結束的2025年度內通過新年度的中央政府總預算案，但執政黨在參議院的席次並未過半，審議並未照她的計畫進行，預算案較她的目標晚一週成立。參議院之中，自民黨與執政聯盟"
         },
         {
-          "title": "為何馬斯克媽媽窮養，可以教出富一代？",
-          "link": "https://www.gvm.com.tw/article/129319",
-          "published": "2026-04-11T14:00:00",
-          "summary": "最近一位富千金朋友，送我一本馬斯克媽媽的自傳，讀了甚為有感。原來富一代是這樣教導出來的，窮養不一定會比富養差，讓小資家庭出身的我很認同。也想分享給當下許多抱怨不花錢做軍備競賽，就無法好好培育下一代的爸媽。我個人成長經驗，來看馬斯克的媽媽窮養觀，可以找出五個相當優異的地方。在這個富養風潮盛行的時代，家長們恨不得把全世界最好的資源都堆到孩子面前。我想起相識十年的閨蜜。她從小生活無虞，畢業後可以隨心所欲"
-        },
-        {
-          "title": "鄭習會分析〉習近平談話展現彈性！專家：兩岸距離戰爭應沒這麼近了",
-          "link": "https://www.gvm.com.tw/article/129334",
-          "published": "2026-04-11T13:06:00",
-          "summary": "睽違10年後，國共兩黨主席於清明時節再次會晤，於北京進行「鄭習會」，相互確認「九二共識、反台獨」為共同政治基礎，其中「中華民族」四字，為中國國家主席習近平談話核心，而國民黨主席鄭麗文則提出「建構兩岸和平發展長期機制」的明確訴求。專家分析，習近平的談話展現彈性，雖然藍營的願望清單不一定全都能實現，但從雙方的良好互動來看，「兩岸距離戰爭應該沒那麼近了。」4月10日登場的鄭習會，在公開致詞的部分，中國國"
-        },
-        {
-          "title": "童子賢：荷姆茲海峽危機應讓台灣覺醒，不應再過度依賴天然氣",
-          "link": "https://www.gvm.com.tw/article/129333",
-          "published": "2026-04-11T12:15:00",
-          "summary": "過去十年政府反核，又為了減碳，逐漸加大天然氣進口，從2015年使用30％，2026年已達50%，遠高日、韓。每次戰爭就帶動天然氣價格飆漲，更讓台灣能源轉型政策顯得脆弱。和碩董事長童子賢提醒，近期伊朗戰爭引爆荷姆茲海峽封鎖的能源危機，可給台灣什麼覺醒？持續戰亂的伊朗與荷姆茲海峽衝突引發全球能源危機，造成能源價格飆漲，能源供應不穩定，我近期常被問起如何看待時局。截至目前為止，危機難以善了：美國總統川普"
-        },
-        {
-          "title": "AI就算說錯你也相信？研究：逾7成使用者盲目埋單，陷入「不批判」的思維陷阱",
-          "link": "https://www.gvm.com.tw/article/129288",
-          "published": "2026-04-11T11:00:00",
-          "summary": "在當今的數位時代，人工智慧（AI）已經成為許多人的日常工具，但最近的研究揭示一個令人擔憂的現象：使用者對 AI 的過度依賴，導致他們放棄獨立的邏輯思考，這種現象被稱為「認知投降」（Cognitive surrender）。根據賓夕法尼亞大學（University of Pennsylvania）的研究，AI使用者大致可分為兩類：一類是將AI視為強大但有時會出錯的工具，需謹慎監督和檢查其回應中的推理"
+          "title": "鮮為人知的水果「迷你奇異果」，日本最新研究：可能有助預防肺癌",
+          "link": "https://www.gvm.com.tw/article/129293",
+          "published": "2026-04-12T07:00:00",
+          "summary": "「迷你奇異果」不是奇異果小號，而是奇異果近親品種，它比葡萄再大一些，重點是外皮沒有毛，洗乾淨就可以連皮帶肉一起吃。最近日本研究人員在小鼠實驗進一步發現，迷你奇異果的汁液似乎能抑制肺癌發展。迷你奇異果（學名：Actinidia arguta）是一種多年生藤本植物，原產於日本、韓國、中國北部、俄羅斯遠東地區野生果樹，對台灣來說屬於「期間限定」水果，外型小巧可愛，切開來裡面跟一般奇異果一模一樣，有著綠色"
         }
       ]
     },
@@ -66,40 +78,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "環境部攜手大葉大學2026<b>淨零</b>綠領人才培訓開放報名 - 互傳媒",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://hoomedia.com.tw/2026/04/12/135197/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3Zkl_WjtNlfN-TvtuADfFl",
-          "published": "2026-04-12T00:26:51+00:00",
-          "summary": "... ／記者林明佑／彰化報導】因應全球淨零轉型與永續發展趨勢，環境部持續推動綠領人才培育，攜手大葉大學辦理「2026淨零 ... 課程總時數為48小時，內容涵蓋氣候變遷與溫室&nbsp;..."
+          "title": "115年度環境保護志(義)工特殊訓練第3場次(活動花絮",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ylepb.gov.tw/gallery/index-1.asp%3FParser%3D3,3,26,,,,,633&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3BhGr3mm0u1JgzvuJKCf94",
+          "published": "2026-04-13T01:58:05+00:00",
+          "summary": "淨零綠生活｜張淑觀環教志工 惜食愛地球：從校園實踐談惜食文化與 ... 氣候變遷的關鍵教育實踐。  ♻️. 大合照 &middot; 環境現況與資源循環 &middot; 做環保救地球 &middot; 淨零綠生活."
         },
         {
-          "title": "台糖80週年吳明昌：實踐健康及綠色產業標竿企業 - 芋傳媒",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://taronews.tw/2026/04/11/1172193/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2zCxJftkoQYknt6gGGAU6o",
-          "published": "2026-04-11T21:15:43+00:00",
-          "summary": "台糖董事長吳明昌表示，近年台糖已將循環經濟、新農業及淨零排放的理念融入營運核心，台糖正穩步實踐「亞太地區健康及綠色產業標竿企業」的願景。 台糖今天&nbsp;..."
+          "title": "影音/打造低碳生活新未來彰化縣環保<b>淨零</b>嘉年華熱鬧登場 - PChome Online 新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/society/thehubnews/20260412/index-77599326376865306009.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3TsBTL_53vZEZzsJxZt6RV",
+          "published": "2026-04-13T01:44:21+00:00",
+          "summary": "記者蕭麗鳳/彰化報導為響應國家2050淨零排放政策，彰化縣政府與成美文化園、頂新和德文教基金會、彰化縣機車商業同業公會、臺灣智慧移動產業協會等單位合作，&nbsp;..."
         },
         {
-          "title": "議員：滿足<b>碳中和</b>與控制電價成挑戰- 香港文匯網 - 文匯報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.wenweipo.com/a/202604/12/AP69dab24ee4b0b49ad1b67935.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0ZGowLDspz40tDA5ynFTv9",
-          "published": "2026-04-11T20:45:50+00:00",
-          "summary": "立法會議員葛珮帆表示，這套機制過去有效保障了香港的電力可靠度，但隨着發電燃料從煤轉向天然氣及零碳能源，環保轉型成本已成為影響電價的重要因素。如何在滿足碳&nbsp;..."
+          "title": "《ESG》永續成果亮眼臻鼎-KY兩領域獲CDP最高A級",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20260413900117-420101&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw37r9gA459pNlCCWW0SVzKi",
+          "published": "2026-04-13T01:15:31+00:00",
+          "summary": "【時報記者張漢綺台北報導】全球第一大PCB廠臻鼎-KY(4958)於2025年CDP評級中，在「氣候變遷（Climate Change）」及「水安全(Water Security）」兩大領域雙獲最高&nbsp;..."
         },
         {
-          "title": "南極海冰加速融化皇帝企鵝改列瀕危",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.singtao.ca/7472071/2026-04-10/news-%25E5%258D%2597%25E6%25A5%25B5%25E6%25B5%25B7%25E5%2586%25B0%25E5%258A%25A0%25E9%2580%259F%25E8%259E%258D%25E5%258C%2596%2B%25E7%259A%2587%25E5%25B8%259D%25E4%25BC%2581%25E9%25B5%259D%25E6%2594%25B9%25E5%2588%2597%25E7%2580%2595%25E5%258D%25B1/%3Fvariant%3Dzh-hk&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0PtjwrM60yc_tzGFsYS6Wu",
-          "published": "2026-04-11T19:06:27+00:00",
-          "summary": "氣候變化導致南極象徵物種「皇帝企鵝」更接近滅絕。全球瀕危野生動物權威機構世界自然保育聯盟周四宣布，由於南極地區的氣候變化，皇帝企鵝和南極毛皮海獅已被&nbsp;..."
+          "title": "建物強制設置太陽光電8月實施 - 好房網News",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.housefun.com.tw/news/article/amp/145099483563.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1B4sBMVeiuBWHM_fLt6lQZ",
+          "published": "2026-04-13T01:03:56+00:00",
+          "summary": "為落實2050淨零排放，內政部推動「近零碳建築政策」已邁入全面 ... 內政部表示，後續會由建研所提出「老宅延壽碳權的方法學」，並由環境部氣候變遷署審議。"
         },
         {
-          "title": "中國能源轉型尋求經濟與環境平衡面臨挑戰與機遇| GeneOnline News",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://geneonline.news/%25E4%25B8%25AD%25E5%259C%258B%25E8%2583%25BD%25E6%25BA%2590%25E8%25BD%2589%25E5%259E%258B%25E5%25B0%258B%25E6%25B1%2582%25E7%25B6%2593%25E6%25BF%259F%25E8%2588%2587%25E7%2592%25B0%25E5%25A2%2583%25E5%25B9%25B3%25E8%25A1%25A1%25E9%259D%25A2%25E8%2587%25A8%25E6%258C%2591%25E6%2588%25B0%25E8%2588%2587%25E6%25A9%259F%25E9%2581%2587/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3qPArv7aOHc1XEQwDp9s4g",
-          "published": "2026-04-11T18:15:34+00:00",
-          "summary": "碳達峰是指在某個時間點，碳排放量達到峰值後開始下降；碳中和是指通過植樹造林、碳捕獲等方式，抵消自身產生的碳排放，實現淨零排放。 其次，在能源結構的轉型上，&nbsp;..."
+          "title": "響應低碳生活彰化縣環保<b>淨零</b>嘉年華熱鬧登場 - 警政時報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tcpttw.com/other/other_life/2026/04/13/263318/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0ioOR7tuEvTCen1GZmjRFf",
+          "published": "2026-04-13T00:53:48+00:00",
+          "summary": "【賴傳媒、記者爆料網／曾厚銘／彰化報導】. 彰化縣政府與成美文化園、頂新和德文教基金會、彰化縣機車商業同業公會、臺灣智慧移動產業協會等單位，12日在成美&nbsp;..."
         },
         {
-          "title": "科博館、成大攜手《時空丈量師》特展將跨世紀典藏轉化為<b>氣候變遷</b>關鍵證據 - 元丰傳媒",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.yuanfengmedia.tw/detail.php%3Ftype%3Dlastest%26id%3D54750&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1-MvgjyymnpljElR72RDm7",
-          "published": "2026-04-11T17:21:48+00:00",
-          "summary": "【記者張原銘、張皓傑台中報導】全球氣候變遷正如何改變生物的命運？由國立自然科學博物館與國立成功大學合作推出的《時空丈量師：從自然史典藏看氣候變遷》特&nbsp;..."
+          "title": "響應低碳生活彰化縣環保<b>淨零</b>嘉年華熱鬧登場 - ENN台灣電報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enn.tw/711749/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2wPd7b8UwGkV5mpA2UC8MD",
+          "published": "2026-04-13T00:41:39+00:00",
+          "summary": "賴傳媒、記者爆料網／曾厚銘／彰化報導】 彰化縣政府與成美文化園、頂新和德文教基金會、彰化縣機車商業同業公會、臺灣智慧移動產業協會等單位，12日在成美文化&nbsp;..."
         }
       ]
     }
