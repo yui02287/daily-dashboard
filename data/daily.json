@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-04-14T04:09:15.969817+00:00",
-    "date": "2026-04-14",
+    "generated_at": "2026-04-15T04:08:19.540461+00:00",
+    "date": "2026-04-15",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "【不是從零開始】為何自動駕駛走過的漫長彎路，成了機器人產業珍貴的競爭資產？",
-          "link": "https://techorange.com/2026/04/14/avs-for-autonomous-robots/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-14T01:44:38+00:00",
-          "summary": "自動駕駛汽車（AV）曾被各種科幻片視為必定到來的未來，然而現實遠比現實複雜，市場、法規與技術的多重挑戰，讓這條路走得比多數人預期的都還要漫長。 儘管如此，十多年來在自動駕駛領域累積的龐大投資並未白費，它可以說是推動新世代自主機器人的核心技術基礎。 兩種機器，同一套技術需求 傳統工業機器人已在製造場域服務超過四十年，但它們依賴剛性機械結構與硬編碼程式，本質上是精密的自動化工具，而非真正意義上的自主機"
+          "title": "當 AI 每半年就進化一個世代：陳良基剖析推論時代的硬體分工邏輯，拆解台灣半導體的下一波優勢",
+          "link": "https://techorange.com/2026/04/15/chen-liang-gee-podcast/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-15T03:16:34+00:00",
+          "summary": "專訪：戴季全撰稿：李昀蔚 這幾年，從 ChatGPT 在 2022 年底問世、2023 年快速爆發，到 2026 年 AI 出現百花齊放的局面，AI 競爭也一路從模型能力，延伸到晶片、算力與推論架構的全面較勁。尤其在 NVIDIA GTC 2026 之後，當產業焦點逐漸從訓練轉向推論，整個 AI 發展的節奏，又進入下一個階段。 本集《全新一週》特別邀請國立臺灣大學電機工程學系名譽教授、前科技部長陳"
         },
         {
-          "title": "【聊天機器人填不滿的缺口】AI 開始有臉，數位人如何以擬人介面重建與用戶的信任？",
-          "link": "https://techorange.com/2026/04/14/ai-digital-humans/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-14T01:43:24+00:00",
-          "summary": "語音機器人已經不新鮮，文字客服也早已習以為常，但當 AI 開始有了臉、有了眼神、有了能夠表達各種情緒的表情，這將如何改變 AI 與用戶之間的互動邏輯？ 這正是 UneeQ 創辦人 Danny Tomsett 所看好的未來，不是用 AI 取代人類，而是讓 AI 以人的樣貌出現。 語音和文字之外，AI 開始有了臉 AI 語音助理和聊天機器人的普及，解決了部分重複性工作的壓力，卻始終無法填補一個關鍵缺口"
+          "title": "有人用 AI，沒人為 AI 負責：500 位全球高管調查揭示企業 AI 部署的結構性危機",
+          "link": "https://techorange.com/2026/04/15/enterprises-ai-strategy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-15T02:47:30+00:00",
+          "summary": "AI 市場規模不斷擴大，錢在流動，系統在上線。但根據一份涵蓋全球 500 位以上資深主管、橫跨 Global 2000 組織五大產業的調查，沒有人真正弄清楚，當 AI 做出錯誤決策時該由誰負責。 數字背後的問題有多嚴重？ 根據全球研究與顧問公司發佈的《Humans at the Helm of AI》報告數據，只有 14% 的企業有文件化的 AI 策略且設有明確目標；80% 的企業表示責任歸屬不清"
         },
         {
-          "title": "影子 AI 2.0 來臨？專家揭「設備端推理」為何成為資安長新盲點",
-          "link": "https://techorange.com/2026/04/14/shadow-ai-2-on-device-inference/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-14T00:00:00+00:00",
-          "summary": "過去 18 個月，多數企業資安長對生成式 AI 的治理邏輯其實相對清楚：只要守住瀏覽器與網路出口，就能掌握大部分風險。企業透過 CASB、DLP、代理閘道與端點政策，監控員工是否把敏感資料貼進外部 AI 服務。這套模式的核心前提很簡單：只要資料離開企業網路、送往外部 API，企業就有機會看見、記錄，甚至攔截。然而，這道防線正在崩解。 問題在於，不只是員工更常用 AI，而是 AI 的執行位置正在改變"
+          "title": "【科技早餐】全球晶片設備支出衝上 1,351 億美元，台灣年增 90% 創新高",
+          "link": "https://techorange.com/2026/04/15/global-semiconductor-equipment-reach-135-billion-in-2025/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-14T22:50:00+00:00",
+          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊全球晶片設備支出衝上 1,351 億美元，台灣年增 90% 創新高 國際半導體產業協會（SEMI）公布，2025 年全球半導體製造設備銷售總額達 1,351 億美元，年增 15%，創下歷史新高。成長動能主要來自先進邏輯、記憶體，以及 AI 相關產能擴張。前段設備中，晶圓製程設備銷售年增 12%，其他前段設備也成長 13%；後段則因 AI 裝置與高"
         },
         {
-          "title": "【科技早餐】台積電法說會前夕，AI 晶片需求還能撐多強",
-          "link": "https://techorange.com/2026/04/14/tsmc-earnings-call-likely-to-book-profit-on-insatiable-ai-demand/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-13T22:50:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊台積電法說會前夕，AI 晶片需求還能撐多強 台積電將在 4 月 16 日召開法人說明會，公布第一季財報與第二季展望。市場除了關注獲利表現，也在看 2 奈米量產進度、先進封裝產能，以及 AI 客戶訂單動能能不能延續到下半年。《路透》報導，市場預估台積電第一季淨利有望年增約五成，挑戰連四季創高；而台積電先前已公布第一季營收達新台幣 1.13 兆元，年"
+          "title": "2026 車電產值將破 6,000 億！直擊車用電子大展，AI、自駕技術亮點一次看",
+          "link": "https://techorange.com/2026/04/14/360-mobility-mega-shows-ai-autonomous/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-14T11:04:08+00:00",
+          "summary": "亞洲汽機車零配件與移動產業的盛會「360° MOBILITY Mega Shows」今（14 日）在南港展覽館登場，整合台北國際汽機車零配件展、台灣國際智慧移動展與台北國際車用電子展三展，串聯移動產業上下游供應鏈，共有來自 16 國、近 900 家廠商參展，當中更可見「智慧化」已成共同趨勢。 經濟部產業技術司司長郭肇中在 TARC 主題館開幕致詞時表示，AI 技術的整合應用與新能源動力系統的融合，"
         },
         {
-          "title": "泰富國際網絡聯手 Cato Networks，助企業透過 SASE 架構破解「影子 AI」治理難題",
-          "link": "https://techorange.com/2026/04/13/taifu-international-network-cato-sase-shadowai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-13T10:47:45+00:00",
-          "summary": "「上班打開電腦後就會開啟瀏覽器，使用各種雲端工具，但在使用這些工具時，沒有經過 IT 的授權跟審核，就會造成所謂的影子 IT 或是影子 AI，」泰富國際網絡產品行銷經理薛宇志近日在科技報橘主辦的「AI Ready 數據治理論壇」中表示，當企業內部員工對生成式 AI 的使用需求呈現爆發式成長，一場隱形的資安風暴也正在企業內部悄悄蔓延。 面對不受控的 AI 工具所帶來的風險，泰富國際網絡攜手 Cato"
+          "title": "工研院「2026 VLSI TSA國際研討會」登場 首度深探量子架構與 AI 智慧醫療 揭示半導體產業新格局",
+          "link": "https://techorange.com/2026/04/14/itri-2026-vlsi-tsa-semiconductors/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-14T10:28:05+00:00",
+          "summary": "在經濟部產業技術司支持下，由工研院主辦、邁入第 43 年的半導體盛會「2026 國際超大型積體電路技術、系統暨應用研討會」（VLSI TSA）登場，匯聚全球逾 800 位半導體專業人士參與，聚焦「生成式 AI 推論加速、晶圓級運算、太赫茲無線通訊」等次世代核心領域，並首度深入探討量子電腦系統架構，也將半導體觸角延伸至 AI 心律分析等智慧醫療的創新應用。與會者指出，期盼藉由全球 AI 浪潮與市場推"
         },
         {
-          "title": "Amazon 推動 Project Houdini：資料中心伺服器安裝時程從 15 週壓縮到 2 週，揭 AI 算力交付新模式",
-          "link": "https://techorange.com/2026/04/13/amazon-project-houdini/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-13T09:17:33+00:00",
-          "summary": "在 AI 基礎設施競賽持續升溫的背景下，據《Business Insider》取得的內部文件顯示，Amazon 正在推動一項代號為「Project Houdini」的新計畫，核心是將資料中心機房的大量施工轉移至工廠，改以大型預組裝模組來加快 AWS 新算力的上線速度。 Project Houdini 之所以受到高度關注，是因為 Amazon 正面臨 AI 需求暴增的龐大壓力。為了解決這個痛點，Am"
+          "title": "KYC 與簡訊驗證淪為駭客武器：柬埔寨園區如何發動工業級金融攻擊行動？",
+          "link": "https://techorange.com/2026/04/14/cambodia-scam-compounds-linked-to-mobile-banking-fraud/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-14T07:27:53+00:00",
+          "summary": "近年東南亞詐騙園區的犯罪手法持續演進，早已超越傳統的社交工程或話術誘騙。近期資安業者 Infoblox Threat Intel 與越南非營利組織 Chong Lua Dao 展開一項跨國資安調查，透過追蹤客戶網路中異常的 DNS 流量，發現一個先前未曾被記錄的「惡意軟體即服務」（malware-as-a-service，MaaS）平台。這項調查的指標性意義在於，研究人員首次掌握確切證據，將柬埔寨"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "白沙屯媽祖「粉紅超跑」直衝大甲鎮瀾宮！2大台灣傳統盛事11個不同特色一次看",
-          "link": "https://www.gvm.com.tw/article/120046",
-          "published": "2026-04-13T20:09:00",
-          "summary": "4/12深夜，白沙屯媽祖已乘「粉紅超跑」展開8天7夜進香旅程，進香首日停駕大甲鎮瀾宮，形成罕見「四媽相會」景象，信眾們無不感到興奮喜悅，而大甲媽祖也即將在4/17晚間正式起駕。媽祖誕辰是農曆3月23日，在農曆3月時節，媽祖慶典相關活動特別多，所以有3月痟（瘋）媽祖的說法。（本文節錄自《三月瘋媽祖》一書，作者：王惠光，皇冠出版，以下為摘文。）如果要講台灣最美的風景是人，則支撐這美麗風景的人情味確實在"
+          "title": "寵物急診無藥可用？一文拆解誇大的斷藥真相",
+          "link": "https://www.gvm.com.tw/article/129386",
+          "published": "2026-04-14T19:12:00",
+          "summary": "全台犬貓數量突破340萬大關，寵物已是許多家庭不可或缺的成員。然而，原本旨在規範藥品流向、提升用藥安全的《動物用藥新制》，卻在預告上路前夕引發集體焦慮。從獸醫師擔憂急診斷藥，到飼主恐慌、藥師自清並非搶飯碗，甚至演變成政治風暴。究竟「動保藥」的變革，卡到誰的利益？又為何讓藥商興趣缺缺？《遠見》訪查第一線從業者，為讀者還原「三方皆輸」政策背後的癥結所在。過去，《藥事法》規定藥商不得將「人用」藥賣給無藥"
         },
         {
-          "title": "從做鞋墊，到做半導體研磨墊！頌勝如何搭上先進封裝AI鏈？",
-          "link": "https://www.gvm.com.tw/article/129358",
-          "published": "2026-04-13T18:20:00",
-          "summary": "從消費型材料轉型半導體，頌勝（7768）走過專利戰、零訂單陪跑，到AI帶動需求爆發。預計5月中旬掛牌上市，目前承銷價130元，由於切入了近期最夯的先進封裝、晶圓薄化概念，話題火熱。董事長朱明癸與智勝科技總經理楊偉文專訪親揭，台廠如何在先進封裝供應鏈中站穩腳步？從做鞋墊，他們如何一路挑戰「做難做的事」切入半導體研磨墊？「很難做的東西，才值得做。」談起當年跨入半導體的決定，頌勝董事長朱明癸語氣依舊篤定"
+          "title": "台北都更市場凍結，成本失控成最大隱憂？胡偉良：背後隱藏「這問題」",
+          "link": "https://www.gvm.com.tw/article/129220",
+          "published": "2026-04-14T18:28:00",
+          "summary": "最近，有一位地主跟我說一句話：「現在這個條件，我寧可不改建。」這句話，表面上只是個案，但其實是整個市場的縮影。今年初，我就已預判，在「土方之亂」與「台北市綠容率上路」雙重衝擊下，都更與危老的申請量一定會大幅滑落。如今數據出來，不只是下滑，而是斷崖式崩跌。最新統計顯示：台北市危老申請案：從去年同期43件 → 今年只剩4件（暴跌超過9成）；都更核定案：36件 → 4件（同樣腰斬再腰斬）；全國核定量：9"
         },
         {
-          "title": "115國中教育會考將至！時程、科目攻略與升學管道總整理",
-          "link": "https://www.gvm.com.tw/article/129357",
-          "published": "2026-04-13T18:12:00",
-          "summary": "國中教育會考即將於2026年5月16日、17日舉行，目前進入最後倒數階段，准考證已在4月10日寄發給總計超過18萬名報名考生。會考對考生來說，不僅是檢視國中三年學習成果的重要指標，更是高中職免試入學超額比序的關鍵依據。究竟，有哪些必須牢記的重大時程？有哪些備考重點？升高中有哪些主要管道？「免試入學」又是怎麼回事呢？目錄&nbsp;● 什麼是會考？&nbsp;● 115年會考重要時程表&nbsp;●"
+          "title": "真的不愛了嗎？為什麼夫妻之間的愛情，往往都會隨著時間而消逝？",
+          "link": "https://www.gvm.com.tw/article/129383",
+          "published": "2026-04-14T18:27:00",
+          "summary": "有時候，熱戀中的伴侶常常會有關係逐漸平淡的時刻，夫妻也會從剛結婚的新婚甜蜜期，慢慢到結婚多年後的日常，但，這真的是不愛了嗎？自古以來「七年之癢」的說法流傳已久，是否真有那麼一個時間點，讓幸福的感情都會慢慢變得乏味，或讓那份火花徹底消失？這個問題始終令人著迷。或許，你曾在過往的戀情中親身體會過愛情逐漸褪色的過程，或許你正陷入熱戀，希望這份親密能長久維繫，但也卻怕感情逐漸變質。無論身處哪個階段，人們對"
         },
         {
-          "title": "比藥物更有用？哈佛醫學教授研究：身體承受「這種壓力」反而更健康",
-          "link": "https://www.gvm.com.tw/article/129354",
-          "published": "2026-04-13T17:51:00",
-          "summary": "一直以來普遍觀念，都認為過多的壓力會對人體造成危害。但最新的研究成果卻揭露了一個顛覆性的事實：沒有任何壓力，跟過度壓力一樣有害！適當的壓力可以促進細胞的修復成長，更是維持健康的必要條件。壓力對韌性的培養來說不可或缺，這正是讓我們活得更長久、更健康，也更有活力的關鍵所在。（本文節錄自《壓力是人生的特效藥》一書，作者：雪倫．博奎斯特醫師／平安文化出版，以下為摘文。）我和營養師、運動生理學及正念領域的專"
+          "title": "看TVBS裁員有感：當職場求安穩都難，你如何優雅轉身？",
+          "link": "https://www.gvm.com.tw/article/129394",
+          "published": "2026-04-14T18:13:00",
+          "summary": "這兩天，TVBS傳出裁員消息，雖然名義上或許是傳媒轉型或人力優化，但對於許多在螢光幕前耕耘數十載的前主播、老媒體人來說，無疑是一記悶雷。同時在其他領域，我發現許多高階精英也非常有感，紛紛在社群上發言，畢竟現在這年代，中年人在職場常常連求個安穩都難。我剛好也認識一位轉行成功的前媒體精英，他懂得的，是在最好的時刻優雅轉身。到底如何認清你在職場最好的價值？又該如何挑對時機，建立離開的資本？以下是我從人資"
         },
         {
-          "title": "李貞秀遭民眾黨開除黨籍，喪失不分區立委資格！中評會聲明指：連續違紀",
-          "link": "https://www.gvm.com.tw/article/129355",
-          "published": "2026-04-13T17:37:00",
-          "summary": "民眾黨立委李貞秀近期爭議不斷，中評會今天下午開會，決定將李貞秀開除黨籍，即日起生效，李貞秀也將因此失去不分區立委資格。陸配李貞秀身陷國籍及立委資格爭議，日前直播又提及新竹市長高虹安拿民眾黨創黨主席柯文哲新台幣700萬元，遭移送民眾黨中央評議委員會裁處。民眾黨主席黃國昌上午接受專訪時說，不分區立委要能回應支持者期待與要求，實踐對選民承諾，不是幫個人爭取權益；至於李貞秀是否達到這個標準，黃國昌說，「沒"
+          "title": "如何讓錢替你賺錢？高盛首席投資專家揭密「1%有錢人」的投資智慧",
+          "link": "https://www.gvm.com.tw/article/129395",
+          "published": "2026-04-14T18:12:00",
+          "summary": "本書作者曾親身經歷「雷曼風暴」的裁員危機，卻在高盛集團深耕長達17年，而且一路晉升。他在近距離觀察金字塔頂端的「1%有錢人」後發現，他們的成功不是因為天賦或靠時間換取微薄薪水，而是懂得「讓錢為自己工作」。（本文節錄自《讓錢替你賺錢》一書，作者：田中 溪／平安文化出版，以下為摘文。）區分「值得借」跟「不該借」的錢借錢，有分「值得借」和「不該借」兩種。也就是說，雖然都是借錢，但並非全都是不好的。作為「"
         },
         {
-          "title": "穩定幣交易量超車美國GDP！奧丁丁攜手Visa打通數位美元「最後一哩路」",
-          "link": "https://www.gvm.com.tw/article/129353",
-          "published": "2026-04-13T17:21:00",
-          "summary": "擁有美國 41 州支付執照、歐盟與日本的相關資格，讓奧丁丁在監管趨嚴的環境下，反而成了傳統金融機構最放心的盟友。近日，奧丁丁與Visa宣布擴大合作，進一步將 Visa Direct 整合至奧丁丁的支付基礎建設中，全美符合資格的簽帳金融卡用戶（不論是 Visa 或 Mastercard）可直接透過簽帳金融卡獲取 USDC 美元穩定幣，無須經過虛擬貨幣交易所的繁瑣流程，大幅降低使用門檻。如果你問現在最"
+          "title": "中壢烤肉店爆集體食物中毒！如何推測致病因子？毒物科專業醫：根據「這件事」",
+          "link": "https://www.gvm.com.tw/article/111485",
+          "published": "2026-04-14T18:08:00",
+          "summary": "中壢烤肉店爆集體食物中毒，用餐民眾出現上吐下瀉症狀，人數攀升至61人。中國醫藥大學附設醫院急症暨外傷中心毒物科主任洪東榮醫師提醒：在食物中毒事件處理中，我們常需要注意所謂「潛伏期」，也就是從暴露後到出現症狀中間延遲多久時間？根據潛伏期，來推測可能的致病因子是什麼。（本文節錄自《然後，你就中毒了》一書，作者：洪東榮，創意市集出版，以下為摘文。）2003年，台中市民組成的旅行團到南部旅遊最後一天，打算"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "全球<b>氣候變遷</b>加劇各國強化海岸防禦初見成效| GeneOnline News",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://geneonline.news/%25E5%2585%25A8%25E7%2590%2583%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E5%258A%25A0%25E5%258A%2587-%25E5%2590%2584%25E5%259C%258B%25E5%25BC%25B7%25E5%258C%2596%25E6%25B5%25B7%25E5%25B2%25B8%25E9%2598%25B2%25E7%25A6%25A6%25E5%2588%259D%25E8%25A6%258B%25E6%2588%2590%25E6%2595%2588/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3afJVIwfX_iVUTlMt-Jcw_",
-          "published": "2026-04-13T19:48:02+00:00",
-          "summary": "全球氣候變遷加劇，海平面上升、極端天氣事件頻發，海岸線面臨前所未有的威脅。同時，人為因素如過度開發、污染等也加."
+          "title": "「起萌行動」日文版問世台灣<b>淨零</b>沙盒經驗前進日本(圖) - Yahoo新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E8%25B5%25B7%25E8%2590%258C%25E8%25A1%258C%25E5%258B%2595-%25E6%2597%25A5%25E6%2596%2587%25E7%2589%2588%25E5%2595%258F%25E4%25B8%2596-%25E5%258F%25B0%25E7%2581%25A3%25E6%25B7%25A8%25E9%259B%25B6%25E6%25B2%2599%25E7%259B%2592%25E7%25B6%2593%25E9%25A9%2597%25E5%2589%258D%25E9%2580%25B2%25E6%2597%25A5%25E6%259C%25AC-%25E5%259C%2596-010816299.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2U2ewubRHZ2rNhCsXVAyNm",
+          "published": "2026-04-15T02:14:34+00:00",
+          "summary": "起萌行動：公民零碳實驗室」日文版14日晚間在東京舉行專書發表會，聚焦台灣以「淨零沙盒」為核心的區域實證模式，探討如何透過公民團體、企業與政府協作，&nbsp;..."
         },
         {
-          "title": "強化能源韌性系列報導》吳珮瑜：環境部變身推手<b>淨零</b>落地 - 工商時報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260414700062-439901&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3NZnoOtSjBLHlwYbc8Il6S",
-          "published": "2026-04-13T19:15:42+00:00",
-          "summary": "「綠色戰略辦公室」即是在此轉型時機於2024年成立，採取由上而下之氣候治理模式，專責整合協調環境部及所屬機關推動氣候變遷與淨零轉型相關業務，並強化跨部會合作&nbsp;..."
+          "title": "北京市重點領域綠色低碳轉型取得顯著成效“十四五”降碳目標完成“十五五”提升氣候應變能力",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.beijing.gov.cn/gate/big5/www.beijing.gov.cn/ywdt/gzdt/202604/t20260415_4582143.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3h8lJs7NJToPeCY7fGmqH-",
+          "published": "2026-04-15T01:00:06+00:00",
+          "summary": "4月14日，北京市生態環境局召開應對氣候變化工作主題新聞發佈會。據了解，“十四五”時期，全市重點領域綠色低碳轉型取得顯著成效，碳排放總量穩中有降，&nbsp;..."
         },
         {
-          "title": "越南與日本簽訂500億日圓(約3.2億美元)之貸款協議 - 經濟部國際貿易署",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.trade.gov.tw/Pages/Detail.aspx%3FnodeID%3D45%26pid%3D813622%26areaID%3D2%26infotype%3D1%26country%3D6LaK5Y2X%26history%3D%26PointWork%3D1&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Aw1Xy9UT5kSrg_QxChG6U",
-          "published": "2026-04-13T18:20:08+00:00",
-          "summary": "根據協議，JICA將透過金融支持與政策對話之雙重模式，協助越南政府完善與綠色增長相關之投資與財政激勵政策，建立並實施國家自定貢獻(NDC)政策，並加強越南應對氣候&nbsp;..."
+          "title": "英國拚「潔淨能源超級強國」目標引爭議能... - 經貿透視",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.trademag.org.tw/page/newsid1/%3Fid%3D7926246%26iz%3D6&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3KVTUL98fmdMjNDG58xMhd",
+          "published": "2026-04-15T00:56:18+00:00",
+          "summary": "英國能源安全暨淨零排放大臣Ed Miliband 長期主張，能源去碳化不僅是氣候責任，更能帶動經濟成長與國家安全。然而從實際發展來看，英國雖在減碳表現領先全球，但能源&nbsp;..."
         },
         {
-          "title": "澎湖縣推動減碳行動應對<b>氣候變遷</b>守護海島生態 - 澎湖e傳媒",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.phnes.net/%25E6%25BE%258E%25E6%25B9%2596%25E7%25B8%25A3%25E6%258E%25A8%25E5%258B%2595%25E6%25B8%259B%25E7%25A2%25B3%25E8%25A1%258C%25E5%258B%2595-%25E6%2587%2589%25E5%25B0%258D%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E5%25AE%2588%25E8%25AD%25B7%25E6%25B5%25B7%25E5%25B3%25B6%25E7%2594%259F%25E6%2585%258B&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1GXv87hs820QeFk9jQUmTW",
-          "published": "2026-04-13T16:06:14+00:00",
-          "summary": "... 淨零排放願景。同時辦理環境教育宣導活動，提升民眾對氣候變遷的認知與參與。透過公私協力，逐步打造低碳永續的離島示範縣。 環保局強調，氣候變遷不僅是&nbsp;..."
+          "title": "保挺永續創辦人徐德徽輔導兼教育助力企業建置永續治理體系因應<b>淨零</b>挑戰 - 墨新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://more-news.tw/585114/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3zaewEzUvNO2ILpiBmganN",
+          "published": "2026-04-15T00:53:41+00:00",
+          "summary": "她說，不同產業對碳中和的需求各異，保挺永續的服務核心在於建立具備第三方查證標準的碳管理體系，透過顧問輔導，企業能精確掌握碳排放數據，並將其納入經營&nbsp;..."
         },
         {
-          "title": "45億碳費怎麼用？ETS何時跟上較適合？「<b>淨零</b>幣」可以是氣候治理的下一步？ - CSR@天下",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://csr.cw.com.tw/article/44652&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1imTbAqcDoI4UFtbDs2pSQ",
-          "published": "2026-04-13T16:04:52+00:00",
-          "summary": "台灣通過《氣候變遷因應法》已滿三年，各項氣候治理法規陸續到位。其中，最具減碳成效的碳費搭配自主減量計畫制度，將在今年5月正式收費。"
+          "title": "「起萌行動」日文版問世台灣<b>淨零</b>沙盒經驗前進日本 - 經濟日報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5599/9442276&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0bGYN_FFg7ez_SjNG8fPQe",
+          "published": "2026-04-15T00:36:39+00:00",
+          "summary": "周素卿表示，2023年萌生推動沙盒計畫的念頭，來自對氣候變遷議題的深刻反思。她指出，傳統由政府主導、由上而下的政策設計，難以及時回應在地需求，也難以&nbsp;..."
         },
         {
-          "title": "邁向智慧永續－數位科技加速醫療<b>淨零</b>轉型 - FIND 趨勢",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.find.org.tw/indus_trend/browse/d3c028c7f7626ce431b0e55ca144f63a&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3InFDrmEfP63RzcwZSEF87",
-          "published": "2026-04-13T16:01:55+00:00",
-          "summary": "2. 衛生福利部(2025)。114年度推動醫療機構淨零排放政策研析計畫成果報告。 3. NHS England.（2022）, Delivering a Net Zero&nbsp;..."
+          "title": "守護高雄老宅！湯詠瑜提出「老屋延壽」對接<b>淨零</b>排放，市府允納入具體配套 - 天天上新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://mknews.com.tw/2026/04/936051/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3moTmwoz4ITcNWMpNppiq2",
+          "published": "2026-04-15T00:13:16+00:00",
+          "summary": "對接「2050淨零排放」：將隔熱建材、屋頂光電等納入補助加權，降低空調用電並落實減碳。 就安康路20巷道路開闢工程，她強調受影響建物為合法且早於道路用地的編定，&nbsp;..."
         }
       ]
     }
