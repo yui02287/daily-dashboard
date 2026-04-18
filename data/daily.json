@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-04-17T04:12:02.017983+00:00",
-    "date": "2026-04-17",
+    "generated_at": "2026-04-18T03:47:33.458520+00:00",
+    "date": "2026-04-18",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -11,6 +11,24 @@
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
       "items": [
+        {
+          "title": "【2026 訂閱制市場實戰數據】免費試用越短、轉換率越低？用 10 億筆交易紀錄拆解訂閱制迷思",
+          "link": "https://techorange.com/2026/04/18/state-of-subscription-apps/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-17T22:29:00+00:00",
+          "summary": "應用程式開發的門檻已經被 AI 抹平，但賺錢的難度沒有跟著下降，反而更集中在少數玩家手上？ 打造一款軟體產品已非難事，真正的戰場在於「如何讓使用者持續買單」。訂閱數據平台 RevenueCat 發布的《2026 訂閱制應用程式現況》（State of Subscription Apps 2026）報告，內容透過龐大的底層營運紀錄，客觀檢視產品的變現體質。 以下摘要梳理報告的關鍵發現，剖析驅動留存與"
+        },
+        {
+          "title": "Anthropic 發表新 AI 模型 Claude Opus 4.7，攻向「可控 AI」新戰場",
+          "link": "https://techorange.com/2026/04/17/anthropic-claude-opus-4-7/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-17T04:17:02+00:00",
+          "summary": "Anthropic 推出最新通用 AI 模型 Claude Opus 4.7。表面上看，這是一次例行的旗艦模型升級；但若對照 Anthropic 近日才公開、卻暫不對外全面釋出的 Mythos Preview，就會發現這次發表真正想回答的問題，不只是模型有沒有更強，而是模型夠不夠可控。 根據 Anthropic 官方說法，Opus 4.7 在進階軟體工程、長時間任務執行、指令遵循與高解析視覺理解上"
+        },
+        {
+          "title": "搶在曝光前攔下 99% 惡意廣告威脅！Google 如何以 Gemini 分析百億訊號，迎戰 AI 詐騙工業化危機？",
+          "link": "https://techorange.com/2026/04/17/2025-ads-safety-report/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-17T04:10:31+00:00",
+          "summary": "Google 在最新發布的《2025 廣告安全報告》（2025 Ads Safety Report），揭示數位廣告生態的關鍵轉變：生成式 AI 的普及已成為雙面刃，讓惡意人士得以用史無前例的速度與規模，大量產製垃圾內容與詐騙廣告。 為了應對這波由科技驅動的數位威脅，Google 全面升級防線，將自家 AI 模型 Gemini 深度整合至系統中，主動在使用者接觸到惡意內容前進行精準攔截。因此，這份報"
+        },
         {
           "title": "AI 軍備競賽轉向低成本對決：模組化無人載具如何重塑全球國防供應鏈？",
           "link": "https://techorange.com/2026/04/17/china-russia-us-ai-weapons/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -28,24 +46,6 @@
           "link": "https://techorange.com/2026/04/17/nxgencomm-phoenix-military-jammer-drone/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
           "published": "2026-04-17T01:25:56+00:00",
           "summary": "由美國企業 NxGenComm 所研發的 Phoenix 集結了傳訊、干擾器、無人機操控於一身，透過 AI、神經網路與 SDR 技術，足堪應對搜尋並摧毀戰場訊號干擾器的關鍵情境作戰。"
-        },
-        {
-          "title": "【科技早餐】Tesla AI5 完成設計定案，馬斯克點名台積電與三星",
-          "link": "https://techorange.com/2026/04/17/elon-musk-confirms-tesla-a15-tape-out-tsmc-samsung-production/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-16T22:50:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Tesla AI5 完成設計定案，馬斯克點名台積電與三星 特斯拉（Tesla）執行長馬斯克（Elon Musk）15 日在社群平台 X 表示，自研 AI 晶片 AI5 已完成設計定案，也就是正式進入製造流程的下一階段。馬斯克同時點名感謝台灣積體電路製造公司（TSMC）與三星電子（Samsung Electronics）的生產支持，並透露團隊已同步"
-        },
-        {
-          "title": "你的企業在繳「AI 稅」嗎？調查揭露：高達 40% 的效率提升被重工抵銷",
-          "link": "https://techorange.com/2026/04/16/ai-tax/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-16T10:56:41+00:00",
-          "summary": "企業導入生成式 AI 的初衷，是讓工作更快、更有效率，但近期一項研究卻揭露一個反直覺的現象：AI 雖然讓工作變快，卻未必讓工作變少。 根據企業軟體公司 Workday 2025 年底、針對全球 3,200 名企業領導者和員工的調查，企業透過 AI 節省的時間中，有接近 40% 最終被用於修正錯誤、重寫內容與驗證輸出，形成一種隱性的成本，被稱之為「AI 稅」。 看起來更快，但未必真的有效率 從表面上"
-        },
-        {
-          "title": "人形機器人商業化加速中，為何家務落地仍卡關？史丹佛揭 88% 失敗率的背後瓶頸",
-          "link": "https://techorange.com/2026/04/16/stanford-ai-index-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-16T09:53:22+00:00",
-          "summary": "目前，人工智慧在認知與軟體任務上已取得驚人成就，例如能夠在國際數學奧林匹亞競賽（IMO）中奪得金牌、表現超越人類化學家，以及撰寫出色的程式碼。然而，根據史丹佛大學最新發布的《AI Index 2026》報告，研究人員點出 AI 發展的「參差不齊」（jagged frontier）現象：AI 可以解決最高深的數學題，卻可能無法可靠地幫人類撿起地上的髒襪子。 儘管人形機器人已開始進入市場，但報告指出，"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "伊朗擊傷美國20架軍機？商用衛星竟成F-35剋星",
-          "link": "https://www.gvm.com.tw/article/129443",
-          "published": "2026-04-16T23:25:00",
-          "summary": "《金融時報》公布的幾張衛星照片，掀開美國總統川普的遮羞布，以及五角大廈說不出口的真相：伊朗不僅掌握美軍在中東的一舉一動，更擊落或損傷美國約20架軍機，甚至包括F‑35A隱形飛機。伊朗憑藉的竟然是中國兩家企業的衛星服務，僅花了新台幣11.25億元就有俯視地面的天眼，這兩家企業到底有何來頭？美以伊開戰至今40幾天，各種戰損傳聞均無法證實，但各國傾向認為是伊朗在說謊、在認知作戰，美國的先進軍機怎麼可能輕"
+          "title": "AI、國債與文明承諾！從馬斯克的警告，看懂川普現象",
+          "link": "https://www.gvm.com.tw/article/129480",
+          "published": "2026-04-17T18:04:00",
+          "summary": "編按：在當前的AI浪潮下，我們卻見到馬斯克示警「美國債務崩潰」，而美國總統川普則大力推動製造回流，這些現象的背後，其實是制度與信用的競爭。本文從歷史與現實切入，剖析AI如何影響國家財政與全球權力結構重塑。當伊隆．馬斯克（Elon Musk）再度對美國高達38.5兆美元的國債發出警告，甚至斷言「若沒有AI與機器人，美國1000％會破產」，這不只是科技企業家的危言聳聽，而是一個直指當代文明核心的問題："
         },
         {
-          "title": "台積電法說三關鍵，魏哲家全說了！如何看馬斯克與三星？揭擴廠進度",
-          "link": "https://www.gvm.com.tw/article/129449",
-          "published": "2026-04-16T18:36:00",
-          "summary": "今（16）日台積電（2330）舉辦2026年第一季法說會，由董事長魏哲家主持。會中他多次重申AI需求「實在太強」，不僅反映在其第一季單季毛利率衝上66.2%、每股盈餘（EPS）達22.08元，雙雙改寫歷史新高的亮眼成績。但面對三大問題：海外擴廠，以及馬斯克、三星連連進逼，魏哲家怎麼因應？本文完整拆解談話重點。AI應用正從生成式AI與「查詢模式」，進一步走向代理式AI與「指令與執行」模式，使大型語言"
+          "title": "曾豪駒總教練的帶兵心法（下）｜用相同心境提醒球員：「毫無保留地投入比賽，讓人看到你想拼的感覺。」",
+          "link": "https://www.gvm.com.tw/article/129430",
+          "published": "2026-04-17T17:08:00",
+          "summary": "從世界棒球12強、經典賽資格賽到經典賽，曾豪駒帶著台灣棒球在國際賽事上取得十分亮眼的成績，無論是12強奪下金牌或經典賽贏韓國，至今都依然歷歷在目，回歸樂天桃猿的他，將用這幾年國際賽的經驗，持續帶領球隊前進。本文為下篇，請先閱讀上篇：曾豪駒總教練的帶兵心法（上）台灣棒球在國際上的競爭力？關鍵在於心理素質在這幾年國家隊的帶隊經驗中，他強調，短期盃賽所比拚的，關鍵其實在於心理素質，「能進國家隊的，技術一"
         },
         {
-          "title": "馬斯克宣布AI5晶片投片，特斯拉大漲8%！發文要謝台積電卻鬧烏龍",
-          "link": "https://www.gvm.com.tw/article/129448",
-          "published": "2026-04-16T18:05:00",
-          "summary": "特斯拉（Tesla）股價週三（15日）收盤大漲近8%，報每股391.95美元，因執行長馬斯克稍早稱讚自家公司的AI5晶片取得進展，已進入「投片」階段。馬斯克還特別感謝台積電與三星電子支援晶片代工生產。馬斯克在旗下社群平台X貼文表示：「恭喜 @Tesla_AI 晶片設計團隊成功完成AI5的投片。AI6、Dojo3 以及其他令人興奮的晶片也正在研發中。」投片是指IC設計的最後階段，指晶片設計完成後，將"
+          "title": "曾豪駒總教練的帶兵心法（上）｜從國家隊到樂天桃猿：「比賽的意義不只是贏球，更在於如何面對挑戰。」",
+          "link": "https://www.gvm.com.tw/article/129429",
+          "published": "2026-04-17T17:05:00",
+          "summary": "從世界棒球12強、經典賽資格賽到經典賽，曾豪駒帶著台灣棒球在國際賽事上取得十分亮眼的成績，無論是12強奪下金牌或經典賽贏韓國，至今都依然歷歷在目，回歸樂天桃猿的他，將用這幾年國際賽的經驗，持續帶領球隊前進。本文為上篇，閱讀後請接續下篇：曾豪駒總教練的帶兵心法（下）時間回到2024世界棒球12強賽決賽，當最後一個出局數確定，台灣擊敗強敵日本，奪下世界冠軍的那一刻，全場沸騰，球員在場上相擁、歡呼，觀眾"
         },
         {
-          "title": "2026全台桐花祭》五月雪來了！週末賞桐祕境、活動一次看",
-          "link": "https://www.gvm.com.tw/article/129446",
-          "published": "2026-04-16T17:53:00",
-          "summary": "春暖花開，全台各地的油桐花已陸續進入最夢幻的綻放期！就在這週末（4/17、4/18起），從北到南、甚至東部花蓮的桐花祭活動都將盛大開跑！今年不僅有全臺唯一的「兒童版桐花祭」、結合韓國塗鴉秀的桐花市集，還有鐵道旁的桐花健走。一起趁著春日好天氣，帶上家人朋友一起走入山林賞花去！【目錄】基隆七堵桐花祭｜瑪陵國小新北客家桐花祭｜海山捷運站廣場及各區賞桐步道桃園桐花祭｜桃園市客家文化館及五大桐樂會新竹縣桐花"
+          "title": "美伊週末可能談判？川普稱伊朗同意交出核材料",
+          "link": "https://www.gvm.com.tw/article/129477",
+          "published": "2026-04-17T16:33:00",
+          "summary": "美國總統川普今天表示，伊朗已同意交出去年美軍空襲伊朗關鍵核設施後被埋的核材料。若此說法屬實，將可能成為美國削弱伊朗製造核武能力的重要進展之一。「華盛頓郵報」（Washington Post）報導，伊朗方面並未立即證實，是否在與美國及其巴基斯坦中間人的談判中做出上述讓步，而為期兩週的停火協議即將於21日到期。過去美國針對伊朗核協議承諾的說法，最終往往被證明並不準確，或是以破局收場。根據國際原子能總署"
         },
         {
-          "title": "大甲媽祖4/17起駕！遶境教會我的事：冷漠需要學習，拒絕也是一種成長",
-          "link": "https://www.gvm.com.tw/article/60332",
-          "published": "2026-04-16T17:44:00",
-          "summary": "繼白沙屯媽祖4/12啟程進香，鎮瀾宮大甲媽祖也將於4/17晚間起駕，開啟9天8夜遶境行程，預計4月26日回鑾。大甲媽遶境號稱台灣地表最大人類遷移活動，是世界公認3大宗教盛事之一，除了人數逐年暴增外，隊伍中更不乏金髮碧眼面孔。究竟媽祖有著什麼樣的魅力？讓群眾自動自發的參與盛會，即使走得全身痠痛、腳上起一堆水泡，也要繼續走下去。（本文摘自《與媽祖有約》一書，宴平樂著，采實文化出版。）李先生有一輛特製的"
+          "title": "房東報稅注意！每年逾25萬件租金收入漏報，國稅局「AI查稅」升級別想逃",
+          "link": "https://www.gvm.com.tw/article/129476",
+          "published": "2026-04-17T16:27:00",
+          "summary": "房東注意！隨5月報稅季來臨，租金申報估將再度成為國稅局查核重點。近年國稅機關逐步運用AI與大數據建置「智能選案系統」，透過跨資料庫比對，鎖定未申報租金收入的房東，根據財政部與各區國稅局資料顯示，透過跨機關資料勾稽與AI大數據分析，近年未申報租金所得案件查獲率持續提升，且補稅與裁罰案例不斷增加。專家指出，在租金補貼政策擴大與資料透明化之下，租賃市場從過去的黑市，已逐漸進入「幾乎無法隱匿」的新時代，房"
         },
         {
-          "title": "​​大立光Q1毛利飆驚喜！矽光子為何切入FAU？林恩平親解",
-          "link": "https://www.gvm.com.tw/article/129445",
-          "published": "2026-04-16T17:39:00",
-          "summary": "全球光學鏡頭龍頭大立光（3008）今年第一季淡季不淡，Q1繳出近三個月高點的毛利率。法說會前，大立光股價一度跳空漲停，創下一年多來新高。而面對市場對蘋果新機iPhone18的期待、記憶體漲價衝擊與矽光子題材發威，素有市場「老實樹」之稱的執行長林恩平，如何看大立光在矽光子CPO領域的布局？為何選定切入FAU？那是什麼？全球光學鏡頭龍頭大立光（3008）於16日舉行2026年第一季法說會，合併營收達新"
+          "title": "少子化、不婚效應！「一家三口」已成過去式，房仲：房市新時代來臨",
+          "link": "https://www.gvm.com.tw/article/129473",
+          "published": "2026-04-17T16:11:00",
+          "summary": "少子化、晚婚與不婚持續增加下，根據內政部統計，全台設有戶籍住宅之平均人口數，已由2021年第四季的3.2人，下降至2025年第四季的2.89人，一家三口已成過去式。房仲表示，家庭結構改變，直接影響住宅市場。觀察近年各都會區小宅交易占比變化，小坪數住宅交易占比一路攀升，其中台北占比己達33%，新北近三成，其他四都也都在二成以上，顯示房市小宅時代已來臨。根據永慶房屋統計，近五年來，七大都會區設有戶籍住"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "人行今逆回購5億人幣單日淨回籠15億人幣 - AASTOCKS.com",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.aastocks.com/tc/stocks/news/aafn-news/NOW.1518330/2&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3NqghoD2zNoq0irXRsAOqr",
-          "published": "2026-04-17T01:38:24+00:00",
-          "summary": "... 回籠15億元。(ta/j) 相關內容中國碳中和(01372.HK)擬於東盟市場開展碳中和業務. 推薦本文, 你認為這是利好/ 利淡消息? 推薦. 推薦. 利好. 利淡. AASTOCKS新聞."
+          "title": "<b>氣候變遷</b>下，企業ESG 策略如何調整？ - TechNews 科技新報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://technews.tw/ai-agent/air-conditioner-in-summer/2810/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Q2UFL1P-wQVepgNgIPQAf",
+          "published": "2026-04-18T00:21:16+00:00",
+          "summary": "... 碳中和 ... 淨零賽局中站穩國際供應鏈的關鍵位置。"
         },
         {
-          "title": "市府新聞稿-民權國中-「跨域x自主x品格x<b>淨零</b>實踐永續生活新美學」，舌尖上的傳統 - 台北市政府",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gov.taipei/News_Content.aspx%3Fn%3DF0DDAF49B89E9413%26s%3DFB575A1688018F83&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3iFduJszqb-uQzUQKSDsml",
-          "published": "2026-04-16T22:10:22+00:00",
-          "summary": "在追2025淨零排放趨勢下，民權國中將環保理念植入活動。雜草粿主食材皆產自校內，實現「零距離」的超低碳採購模式，內餡以紅豆泥取代肉類，&nbsp;..."
+          "title": "讓慢經濟融合綠色辦公 - 更生日報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ksnews.com.tw/e/93132&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw07w44DTLTVxBgP16Ry1JVS",
+          "published": "2026-04-17T23:13:52+00:00",
+          "summary": "環保局呼籲，臺東縣各級機關與在地企業應積極投入綠色辦公轉型，從管理制度到員工行為全面推動永續行動，也鼓勵大家多利用YouBike 等低碳交通工具通勤或洽公，以日常&nbsp;..."
         },
         {
-          "title": "彰縣環境教育有成奪全國第一 - 國語日報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.mdnkids.com/content.asp%3FLink_String_%3D244H00000LLNGCG&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1Nkypt_RBN_trDFrmhludP",
-          "published": "2026-04-16T21:03:31+00:00",
-          "summary": "其中陝西國小學生因學校附近有數座大型乳牛場，師生發想把牛糞變黃金，牛糞成為「牛三寶」，分別是蚊香、燃料棒與肥料球，化廢為寶，摘下第一。"
+          "title": "中越發布聯合聲明推動兩國鐵路對接並連繫至中亞和歐洲促進電力互聯互通財經新聞Financial News",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.aastocks.com/tc/mobile/news.aspx%3Fnewsid%3DNOW.1518399%26newstype%3D71%26newssource%3DAAFN&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2vUeJ3wl4ZHSQuVLGXLBu-",
+          "published": "2026-04-17T22:28:42+00:00",
+          "summary": "積極參與構建全球清潔能源合作夥伴關係。推動兩國電力互聯互通合作。積極開展新能源領域合作，以市場和互利原則加強供應鏈對接和可再生能源技術發展合作。探討&nbsp;..."
         },
         {
-          "title": "世界地球日將近從校園到球場的永續實踐浮現新樣貌",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://esg.ettoday.net/news/3150674&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2DArPC4ExRo9ljDHQyDWCJ",
-          "published": "2026-04-16T20:58:40+00:00",
-          "summary": "隨著4月22日世界地球日逼近，台灣不同場域的環境行動陸續展開。從黑松教育基金會深耕11年的校園氣候行動，到北投國華高爾夫俱樂部以科學數據回應高球場永續&nbsp;..."
+          "title": "<b>氣候變遷</b>引發的生態危機對航運業ESG 有何影響？ - TechNews 科技新報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://technews.tw/ai-agent/gray-whale-in-sf-bay/3287/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1FxIsgXnsCFL4GMwFTNUFH",
+          "published": "2026-04-17T20:57:05+00:00",
+          "summary": "隨著國際海事組織（IMO）訂定2050 年淨零排放目標，航運業面臨前所未有的ESG 轉型壓力。目前各大航商正加速汰換老舊船舶，導入甲醇、氨氣等低碳燃料動力系統&nbsp;..."
         },
         {
-          "title": "中鼎獲CDP領導A級雙獎- 日報- 工商時報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260417700360-439901&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2ra0EboHBMyzeOoNi-1Ibi",
-          "published": "2026-04-16T19:08:31+00:00",
-          "summary": "中鼎集團自許為「地球永續的把關者」，持續於國際永續舞台展現領航實力，依據全球環境資訊揭露平台CDP（碳揭露計畫）公布2025年評比結果，中鼎於「氣候變遷」&nbsp;..."
+          "title": "<b>氣候變遷</b>導致的物種遷徙如何衝擊全球供應鏈？ - TechNews 科技新報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://technews.tw/ai-agent/gray-whale-in-sf-bay/3290/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2yQ2asDKFQwSer2arzyINw",
+          "published": "2026-04-17T20:29:33+00:00",
+          "summary": "這項轉變直接衝擊初級產業，例如授粉昆蟲的棲地偏移導致農作物減產，以及暖化誘發的海洋生物北移，迫使漁業加工鏈必須跨國重組。當自然界的「生物引擎」失靈，仰賴&nbsp;..."
         },
         {
-          "title": "奇美ESG論壇促綠色永續醫療<b>淨零</b>轉型| 中華日報 - LINE TODAY",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/NvG2npm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1BmKUzsHnwFrqRYDbqYUnQ",
-          "published": "2026-04-16T18:03:02+00:00",
-          "summary": "... 淨零與綠色成長行動。 衛福部醫事司長劉越萍指出，根據二０二一年聯合國氣候變遷 ... 淨零排放目標，全面推動「一科一ＥＳＧ」低碳醫療轉型，並落實醫療廢塑膠&nbsp;..."
+          "title": "採購策略轉向，是否影響其他科技巨頭的減碳布局？",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://technews.tw/ai-agent/microsoft-carbon-removal/3640/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3rWvgWGA4gytMcMon2gEdq",
+          "published": "2026-04-17T20:23:00+00:00",
+          "summary": "此舉反映出科技巨頭在追求2030 淨零目標時，正從早期的「實驗性投入」轉向「策略性規模化」。與此同時，蘋果與Google 持續深化電力購買協議（PPA）與AI 能源管理系統&nbsp;..."
         }
       ]
     }
