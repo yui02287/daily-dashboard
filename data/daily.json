@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-04-18T03:47:33.458520+00:00",
-    "date": "2026-04-18",
+    "generated_at": "2026-04-19T04:14:14.863242+00:00",
+    "date": "2026-04-19",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -16,36 +16,6 @@
           "link": "https://techorange.com/2026/04/18/state-of-subscription-apps/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
           "published": "2026-04-17T22:29:00+00:00",
           "summary": "應用程式開發的門檻已經被 AI 抹平，但賺錢的難度沒有跟著下降，反而更集中在少數玩家手上？ 打造一款軟體產品已非難事，真正的戰場在於「如何讓使用者持續買單」。訂閱數據平台 RevenueCat 發布的《2026 訂閱制應用程式現況》（State of Subscription Apps 2026）報告，內容透過龐大的底層營運紀錄，客觀檢視產品的變現體質。 以下摘要梳理報告的關鍵發現，剖析驅動留存與"
-        },
-        {
-          "title": "Anthropic 發表新 AI 模型 Claude Opus 4.7，攻向「可控 AI」新戰場",
-          "link": "https://techorange.com/2026/04/17/anthropic-claude-opus-4-7/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-17T04:17:02+00:00",
-          "summary": "Anthropic 推出最新通用 AI 模型 Claude Opus 4.7。表面上看，這是一次例行的旗艦模型升級；但若對照 Anthropic 近日才公開、卻暫不對外全面釋出的 Mythos Preview，就會發現這次發表真正想回答的問題，不只是模型有沒有更強，而是模型夠不夠可控。 根據 Anthropic 官方說法，Opus 4.7 在進階軟體工程、長時間任務執行、指令遵循與高解析視覺理解上"
-        },
-        {
-          "title": "搶在曝光前攔下 99% 惡意廣告威脅！Google 如何以 Gemini 分析百億訊號，迎戰 AI 詐騙工業化危機？",
-          "link": "https://techorange.com/2026/04/17/2025-ads-safety-report/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-17T04:10:31+00:00",
-          "summary": "Google 在最新發布的《2025 廣告安全報告》（2025 Ads Safety Report），揭示數位廣告生態的關鍵轉變：生成式 AI 的普及已成為雙面刃，讓惡意人士得以用史無前例的速度與規模，大量產製垃圾內容與詐騙廣告。 為了應對這波由科技驅動的數位威脅，Google 全面升級防線，將自家 AI 模型 Gemini 深度整合至系統中，主動在使用者接觸到惡意內容前進行精準攔截。因此，這份報"
-        },
-        {
-          "title": "AI 軍備競賽轉向低成本對決：模組化無人載具如何重塑全球國防供應鏈？",
-          "link": "https://techorange.com/2026/04/17/china-russia-us-ai-weapons/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-17T02:06:15+00:00",
-          "summary": "當美國、中國、俄羅斯等國加速把 AI 導入自主無人機、攻擊系統與軍事決策平台，戰爭競賽已不再只是傳統軍備競爭，而是進一步走向「無人機對抗無人機、演算法對抗演算法」的新階段。 《紐約時報》指出，這場競賽涵蓋可自主飛行並伴隨戰機作戰的無人機、在人類未下達指令的情況下自主選擇目標的攻擊型無人機，以及能快速分析情報並推薦打擊方案的 AI 中央系統。另一方面，烏克蘭與伊朗相關戰事，也正進一步推動海上無人載具"
-        },
-        {
-          "title": "點擊高 2 倍、轉化率飆 3 倍：聯網電視首頁為何是 2026 廣告重要版位？",
-          "link": "https://techorange.com/2026/04/17/ctv-homescreen/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-17T01:48:56+00:00",
-          "summary": "聯網電視（CTV）正快速重塑廣告版圖，而「首頁螢幕」正在成為品牌搶佔注意力的關鍵入口。根據 HUB Research 2024 年的研究數據，約有 48% 的觀眾在打開智慧電視時，尚未決定要觀看的內容，這使首頁成為觀眾探索內容的第一站，也讓廣告得以在用戶進入串流平台前即發揮影響力。 對品牌而言，這不只是曝光機會，更是提前介入決策路徑的關鍵節點。媒體平台 Teads 根據自家平台 HomeScree"
-        },
-        {
-          "title": "一台設備整合通訊、反干擾、無人機攻擊，Phoenix 想成為美軍的「智慧型手機」",
-          "link": "https://techorange.com/2026/04/17/nxgencomm-phoenix-military-jammer-drone/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-17T01:25:56+00:00",
-          "summary": "由美國企業 NxGenComm 所研發的 Phoenix 集結了傳訊、干擾器、無人機操控於一身，透過 AI、神經網路與 SDR 技術，足堪應對搜尋並摧毀戰場訊號干擾器的關鍵情境作戰。"
         }
       ]
     },
@@ -54,40 +24,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "AI、國債與文明承諾！從馬斯克的警告，看懂川普現象",
-          "link": "https://www.gvm.com.tw/article/129480",
-          "published": "2026-04-17T18:04:00",
-          "summary": "編按：在當前的AI浪潮下，我們卻見到馬斯克示警「美國債務崩潰」，而美國總統川普則大力推動製造回流，這些現象的背後，其實是制度與信用的競爭。本文從歷史與現實切入，剖析AI如何影響國家財政與全球權力結構重塑。當伊隆．馬斯克（Elon Musk）再度對美國高達38.5兆美元的國債發出警告，甚至斷言「若沒有AI與機器人，美國1000％會破產」，這不只是科技企業家的危言聳聽，而是一個直指當代文明核心的問題："
+          "title": "人生走馬燈是真的？科學家揭秘「瀕死體驗」：臨終30秒大腦發生什麼事？",
+          "link": "https://www.gvm.com.tw/article/129492",
+          "published": "2026-04-18T23:04:00",
+          "summary": "大多數瀕死體驗的情景都像這樣：一種完全沒有痛苦、看到明亮的光芒在隧道盡頭的感覺。你可能覺得好像離開自己的身體，正從遠處或漂浮在空中看著它。科學家認為，大腦面臨死亡時，會觸發一系列的神經化學變化。其中有些變化，可用來解釋某些人在瀕死體驗中所感知的情形。（本文節錄自《大腦就是這樣工作》一書，作者：豪爾赫．陳，德恩．戈德溫／天下文化出版，以下為摘文。）體驗死亡是什麼感覺？你可能會認為，根據定義，死亡就是"
         },
         {
-          "title": "曾豪駒總教練的帶兵心法（下）｜用相同心境提醒球員：「毫無保留地投入比賽，讓人看到你想拼的感覺。」",
-          "link": "https://www.gvm.com.tw/article/129430",
-          "published": "2026-04-17T17:08:00",
-          "summary": "從世界棒球12強、經典賽資格賽到經典賽，曾豪駒帶著台灣棒球在國際賽事上取得十分亮眼的成績，無論是12強奪下金牌或經典賽贏韓國，至今都依然歷歷在目，回歸樂天桃猿的他，將用這幾年國際賽的經驗，持續帶領球隊前進。本文為下篇，請先閱讀上篇：曾豪駒總教練的帶兵心法（上）台灣棒球在國際上的競爭力？關鍵在於心理素質在這幾年國家隊的帶隊經驗中，他強調，短期盃賽所比拚的，關鍵其實在於心理素質，「能進國家隊的，技術一"
+          "title": "錢不能亂花、太貴了買不起？你現在怎麼「對待錢」，都是跟爸媽學的",
+          "link": "https://www.gvm.com.tw/article/129491",
+          "published": "2026-04-18T22:34:00",
+          "summary": "我們的金錢觀通常不是在學校中學的，而是從還不會算錢的年紀，於日常生活中耳濡目染而來。有些人從小被教導錢要省著花，以致長大後即使收入增加，花錢時還是會感到內疚、掙扎；有些人則經歷過家庭突如其來的經濟變故，那份深植於心底的不安全感，會在不知不覺地影響他日後的儲蓄習慣與投資風險偏好。（本文節錄自《值得過上好日子》一書，作者：精算媽咪 珊迪兔 ／幸福文化出版，以下為摘文。）那是個炎熱的星期五，小莉放學走出"
         },
         {
-          "title": "曾豪駒總教練的帶兵心法（上）｜從國家隊到樂天桃猿：「比賽的意義不只是贏球，更在於如何面對挑戰。」",
-          "link": "https://www.gvm.com.tw/article/129429",
-          "published": "2026-04-17T17:05:00",
-          "summary": "從世界棒球12強、經典賽資格賽到經典賽，曾豪駒帶著台灣棒球在國際賽事上取得十分亮眼的成績，無論是12強奪下金牌或經典賽贏韓國，至今都依然歷歷在目，回歸樂天桃猿的他，將用這幾年國際賽的經驗，持續帶領球隊前進。本文為上篇，閱讀後請接續下篇：曾豪駒總教練的帶兵心法（下）時間回到2024世界棒球12強賽決賽，當最後一個出局數確定，台灣擊敗強敵日本，奪下世界冠軍的那一刻，全場沸騰，球員在場上相擁、歡呼，觀眾"
+          "title": "心理師媽媽：養出心智強大的孩子所需的「6種關鍵力量」",
+          "link": "https://www.gvm.com.tw/article/129490",
+          "published": "2026-04-18T22:19:00",
+          "summary": "身為父母，總想為孩子鋪出順遂的人生道路。然而，成長過程中難免會遭遇各種失敗與挫折，若未能培養足夠的心理韌性，當孩子面臨困難時便可能退縮、逃避，甚至一蹶不振，出現拒學或身心症等問題。正因為是這樣的時代才更需要的東西是什麼？（本文節錄自《心理師媽媽教你養出心智強大的孩子》一書，作者：中野日出美／台灣東販出版，以下為摘文。）此刻，孩子們的周遭正在發生什麼事？生在當今日本的孩子們，經濟條件富裕，並受過一定"
         },
         {
-          "title": "美伊週末可能談判？川普稱伊朗同意交出核材料",
-          "link": "https://www.gvm.com.tw/article/129477",
-          "published": "2026-04-17T16:33:00",
-          "summary": "美國總統川普今天表示，伊朗已同意交出去年美軍空襲伊朗關鍵核設施後被埋的核材料。若此說法屬實，將可能成為美國削弱伊朗製造核武能力的重要進展之一。「華盛頓郵報」（Washington Post）報導，伊朗方面並未立即證實，是否在與美國及其巴基斯坦中間人的談判中做出上述讓步，而為期兩週的停火協議即將於21日到期。過去美國針對伊朗核協議承諾的說法，最終往往被證明並不準確，或是以破局收場。根據國際原子能總署"
+          "title": "他在冤案噩夢中掙扎19年：每一個人的出生都有他的意義和價值",
+          "link": "https://www.gvm.com.tw/article/129444",
+          "published": "2026-04-18T21:44:00",
+          "summary": "20歲的廚師學徒謝志宏才跟母親分享自己即將出師的喜悅，夢想著傳承家傳好手藝，2000年6月28日凌晨，他卻在家門口被一群警察攔截，確認身分後就將他推進警車帶走，只因幾天前他與僅有一面之緣的郭俊偉相約夜遊，意外捲進了一樁殘酷的命案。當時他天真地以為「交代清楚就能回家」，卻不知道自此他將陷入長達19年的司法噩夢。（本文節錄自《從未》一書，作者：蔡春美／商周出版，以下為摘文。）禁見若是小案子，基本上是先"
         },
         {
-          "title": "房東報稅注意！每年逾25萬件租金收入漏報，國稅局「AI查稅」升級別想逃",
-          "link": "https://www.gvm.com.tw/article/129476",
-          "published": "2026-04-17T16:27:00",
-          "summary": "房東注意！隨5月報稅季來臨，租金申報估將再度成為國稅局查核重點。近年國稅機關逐步運用AI與大數據建置「智能選案系統」，透過跨資料庫比對，鎖定未申報租金收入的房東，根據財政部與各區國稅局資料顯示，透過跨機關資料勾稽與AI大數據分析，近年未申報租金所得案件查獲率持續提升，且補稅與裁罰案例不斷增加。專家指出，在租金補貼政策擴大與資料透明化之下，租賃市場從過去的黑市，已逐漸進入「幾乎無法隱匿」的新時代，房"
+          "title": "台灣房市面對戰爭風險，還有價值嗎？經濟學家：在戰爭中仍抗通膨",
+          "link": "https://www.gvm.com.tw/article/129392",
+          "published": "2026-04-18T21:42:00",
+          "summary": "在台灣，房子不只是住所，更構成了家庭財富的絕大部分。當地緣政治風險亮起紅燈，房地產往往會面臨兩種截然不同的評價：有人認為它是「不動產」，戰火一來就會被打爛、價值會直接歸零；有人則認為它是「實質資產」，是應對本幣崩潰最強大的盾牌。到底哪一種觀點比較對？（本文節錄自《地緣風險理財課》一書，作者：劉玉皙，三采出版，以下為摘文。）房子還能買嗎？局勢動盪、通膨和貨幣貶值時，名目資產將會備受衝擊。對存款人而言"
         },
         {
-          "title": "少子化、不婚效應！「一家三口」已成過去式，房仲：房市新時代來臨",
-          "link": "https://www.gvm.com.tw/article/129473",
-          "published": "2026-04-17T16:11:00",
-          "summary": "少子化、晚婚與不婚持續增加下，根據內政部統計，全台設有戶籍住宅之平均人口數，已由2021年第四季的3.2人，下降至2025年第四季的2.89人，一家三口已成過去式。房仲表示，家庭結構改變，直接影響住宅市場。觀察近年各都會區小宅交易占比變化，小坪數住宅交易占比一路攀升，其中台北占比己達33%，新北近三成，其他四都也都在二成以上，顯示房市小宅時代已來臨。根據永慶房屋統計，近五年來，七大都會區設有戶籍住"
+          "title": "運動選手送我的8個「生命禮物」：比賽不是比誰不失誤，而是比「這件事」",
+          "link": "https://www.gvm.com.tw/article/129384",
+          "published": "2026-04-18T21:38:00",
+          "summary": "比賽之所以迷人是因為它從不重來，即使是同樣的對手與場地，當天的身體狀態、心理波動、比分走向與關鍵瞬間，都不可能被複製。站上場的那一刻，你唯一能做的就是帶著此刻完整的自己，勇敢地向前迎戰。比賽，從來不是比誰比較不緊張、誰完全不失誤，真正比的是在壓力下，誰還能做出對自己最有利的選擇，即使連續失誤，仍願意相信自己，為成功奮力一擊。（本文節錄自《逆境翻身》一書，作者：陳泰廷／寶瓶文化出版，以下為摘文。）擔"
         }
       ]
     },
@@ -96,40 +66,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "<b>氣候變遷</b>下，企業ESG 策略如何調整？ - TechNews 科技新報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://technews.tw/ai-agent/air-conditioner-in-summer/2810/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Q2UFL1P-wQVepgNgIPQAf",
-          "published": "2026-04-18T00:21:16+00:00",
-          "summary": "... 碳中和 ... 淨零賽局中站穩國際供應鏈的關鍵位置。"
+          "title": "「2026新北環境季」開跑環保局整合3大主軸實踐<b>淨零</b>生活 - Yahoo新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/2026%25E6%2596%25B0%25E5%258C%2597%25E7%2592%25B0%25E5%25A2%2583%25E5%25AD%25A3-%25E9%2596%258B%25E8%25B7%2591-%25E7%2592%25B0%25E4%25BF%259D%25E5%25B1%2580%25E6%2595%25B4%25E5%2590%25883%25E5%25A4%25A7%25E4%25B8%25BB%25E8%25BB%25B8%25E5%25AF%25A6%25E8%25B8%2590%25E6%25B7%25A8%25E9%259B%25B6%25E7%2594%259F%25E6%25B4%25BB-030543148.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw09FRX2UdWPefhFof-JrDgR",
+          "published": "2026-04-19T03:19:44+00:00",
+          "summary": "CNEWS匯流新聞網記者唐有為／台北報導新北市環保局為響應4月22日地球日，自4月18日起至6月10日盛大推出「2026新北環境季」，規劃蔬食野餐嘉年華及「i&nbsp;..."
         },
         {
-          "title": "讓慢經濟融合綠色辦公 - 更生日報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ksnews.com.tw/e/93132&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw07w44DTLTVxBgP16Ry1JVS",
-          "published": "2026-04-17T23:13:52+00:00",
-          "summary": "環保局呼籲，臺東縣各級機關與在地企業應積極投入綠色辦公轉型，從管理制度到員工行為全面推動永續行動，也鼓勵大家多利用YouBike 等低碳交通工具通勤或洽公，以日常&nbsp;..."
+          "title": "彭啓明部長參加《2026 Happy Run 為兒童友善醫療而跑》倡導「<b>淨零</b>綠生活」",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/page/3b3c62c78849f32f/ca5186d7-df28-43fe-a86c-84564335c5dc&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2RBVkD-gW2vXUjTp81bQdG",
+          "published": "2026-04-19T03:04:54+00:00",
+          "summary": "彭啓明部長於致詞時指出，氣候變遷與公共衛生息息相關，守護孩子的健康與守護地球的環境是同一件事，他強調，環境部正加速建構「韌性健康環境」，透過落實減&nbsp;..."
         },
         {
-          "title": "中越發布聯合聲明推動兩國鐵路對接並連繫至中亞和歐洲促進電力互聯互通財經新聞Financial News",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.aastocks.com/tc/mobile/news.aspx%3Fnewsid%3DNOW.1518399%26newstype%3D71%26newssource%3DAAFN&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2vUeJ3wl4ZHSQuVLGXLBu-",
-          "published": "2026-04-17T22:28:42+00:00",
-          "summary": "積極參與構建全球清潔能源合作夥伴關係。推動兩國電力互聯互通合作。積極開展新能源領域合作，以市場和互利原則加強供應鏈對接和可再生能源技術發展合作。探討&nbsp;..."
+          "title": "<b>淨零</b>永續落實在日常地球日全民一起綠生活！ - 台北市政府",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gov.taipei/News_Content.aspx%3Fn%3DF0DDAF49B89E9413%26sms%3D72544237BBE4C5F6%26s%3DDC3513884CD50FB5&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2eQeboTyWL_t8QL-qLzko3",
+          "published": "2026-04-19T01:48:18+00:00",
+          "summary": "今年適逢世界地球日第56週年，主題「Our Power, Our Planet」強調每個人都是改變的力量。面對氣候變遷加劇、生物多樣性流失與資源耗竭等全球挑戰，環境部持續推動&nbsp;..."
         },
         {
-          "title": "<b>氣候變遷</b>引發的生態危機對航運業ESG 有何影響？ - TechNews 科技新報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://technews.tw/ai-agent/gray-whale-in-sf-bay/3287/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1FxIsgXnsCFL4GMwFTNUFH",
-          "published": "2026-04-17T20:57:05+00:00",
-          "summary": "隨著國際海事組織（IMO）訂定2050 年淨零排放目標，航運業面臨前所未有的ESG 轉型壓力。目前各大航商正加速汰換老舊船舶，導入甲醇、氨氣等低碳燃料動力系統&nbsp;..."
+          "title": "<b>氣候變遷</b>牽動美年輕人生育觀 - 人間福報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.merit-times.com.tw/NewsPage.aspx%3Funid%3D932753&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3cQgslUDtt6uoj32cRJlbq",
+          "published": "2026-04-19T01:28:10+00:00",
+          "summary": "目前從事廣告業的波雷托（Amanda Porretto），芳齡27歲，正值美國女性初為人母的平均年齡，但是她坦言，不確定自己是否會生小孩，「當前地球環境有許多問題還有待解決，&nbsp;..."
         },
         {
-          "title": "<b>氣候變遷</b>導致的物種遷徙如何衝擊全球供應鏈？ - TechNews 科技新報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://technews.tw/ai-agent/gray-whale-in-sf-bay/3290/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2yQ2asDKFQwSer2arzyINw",
-          "published": "2026-04-17T20:29:33+00:00",
-          "summary": "這項轉變直接衝擊初級產業，例如授粉昆蟲的棲地偏移導致農作物減產，以及暖化誘發的海洋生物北移，迫使漁業加工鏈必須跨國重組。當自然界的「生物引擎」失靈，仰賴&nbsp;..."
+          "title": "「行動有你．地球有力」陳其邁號召全民減塑高雄邁向<b>淨零</b>未來 - 台灣好報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://newstaiwan.net/2026/04/18/429860/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1em0WinPynDfA7NjHgP1xZ",
+          "published": "2026-04-18T23:03:59+00:00",
+          "summary": "陳其邁表示，「世界地球日」最主要的意義，就是希望大家共同守護地球。他也談及氣候變遷與極端氣候帶來的挑戰，將提高社會成本並增加各項支出，因此鼓勵市民朋友舉手&nbsp;..."
         },
         {
-          "title": "採購策略轉向，是否影響其他科技巨頭的減碳布局？",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://technews.tw/ai-agent/microsoft-carbon-removal/3640/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3rWvgWGA4gytMcMon2gEdq",
-          "published": "2026-04-17T20:23:00+00:00",
-          "summary": "此舉反映出科技巨頭在追求2030 淨零目標時，正從早期的「實驗性投入」轉向「策略性規模化」。與此同時，蘋果與Google 持續深化電力購買協議（PPA）與AI 能源管理系統&nbsp;..."
+          "title": "奇美醫院辦ESG論壇拚<b>淨零</b>跨界攜手推動綠色醫療轉型 - MSN",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/news/other/%25E5%25A5%2587%25E7%25BE%258E%25E9%2586%25AB%25E9%2599%25A2%25E8%25BE%25A6esg%25E8%25AB%2596%25E5%25A3%2587%25E6%258B%259A%25E6%25B7%25A8%25E9%259B%25B6-%25E8%25B7%25A8%25E7%2595%258C%25E6%2594%259C%25E6%2589%258B%25E6%258E%25A8%25E5%258B%2595%25E7%25B6%25A0%25E8%2589%25B2%25E9%2586%25AB%25E7%2599%2582%25E8%25BD%2589%25E5%259E%258B/ar-AA20ZvEB%3Fapiversion%3Dv2%26domshim%3D1%26noservercache%3D1%26noservertelemetry%3D1%26batchservertelemetry%3D1%26renderwebcomponents%3D1%26wcseo%3D1&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3-80-LNjsqMivvyzxfQO1g",
+          "published": "2026-04-18T22:41:18+00:00",
+          "summary": "... 淨零與綠色成長策略；衛福部則強調，依循國際趨勢，建構具備「氣候調適」能力的永續醫療體系已勢在必行，台灣也將逐步朝低碳健康系統邁進。國科會南科管理局&nbsp;..."
         }
       ]
     }
