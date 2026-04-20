@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-04-19T04:14:14.863242+00:00",
-    "date": "2026-04-19",
+    "generated_at": "2026-04-20T04:19:36.828412+00:00",
+    "date": "2026-04-20",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,10 +12,34 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "【2026 訂閱制市場實戰數據】免費試用越短、轉換率越低？用 10 億筆交易紀錄拆解訂閱制迷思",
-          "link": "https://techorange.com/2026/04/18/state-of-subscription-apps/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-17T22:29:00+00:00",
-          "summary": "應用程式開發的門檻已經被 AI 抹平，但賺錢的難度沒有跟著下降，反而更集中在少數玩家手上？ 打造一款軟體產品已非難事，真正的戰場在於「如何讓使用者持續買單」。訂閱數據平台 RevenueCat 發布的《2026 訂閱制應用程式現況》（State of Subscription Apps 2026）報告，內容透過龐大的底層營運紀錄，客觀檢視產品的變現體質。 以下摘要梳理報告的關鍵發現，剖析驅動留存與"
+          "title": "你的 Slack 對話可能變 AI 教材？企業資料淘金熱崛起，變現背後的商機與爭議",
+          "link": "https://techorange.com/2026/04/20/ai-new-data-source/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-20T02:58:09+00:00",
+          "summary": "在 AI 的軍備競賽中，資料就是燃料。然而，當 AI 實驗室幾乎吸乾了 Reddit 論壇、維基百科與數位化書籍等公開網路內容後，他們正面臨嚴重的資料瓶頸。為了解決這個問題，產業界開始將目標轉向一個意想不到的來源：企業內部的 Slack 對話、Email、Jira 任務單，以及多 TB 的專案紀錄。 《Forbes》報導，這波「工作流資料」（workflow data）的新趨勢，不只正在改變 AI"
+        },
+        {
+          "title": "【AI 詐騙年損近 9 億美元】資安專家共識：防詐的核心不是辨識，而是「驗證習慣」",
+          "link": "https://techorange.com/2026/04/20/ai-generated-scams/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-20T02:34:59+00:00",
+          "summary": "2025 年，美國民眾向聯邦調查局網路犯罪投訴中心（IC3）提交逾 100 萬件投訴，損失金額接近 210 億美元，網路詐騙佔總損失的 85%。 其中，AI 詐騙首度在 FBI 年度網路犯罪報告中獨立成章，記錄了逾 2.2 萬件投訴與約 8.93 億美元的損失。 詐騙門檻降低，任何人都可能是目標 資安訓練與研究機構 SANS Institute 首席 AI 研究員 Rob T. Lee 指出，詐騙"
+        },
+        {
+          "title": "烏克蘭地面機器人戰爭進入規模化：單月任務破 9,000 次，前線開始出現「零步兵攻城」",
+          "link": "https://techorange.com/2026/04/20/ukraines-ground-robots-now-running-9-000-missions-a-month/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-20T02:32:16+00:00",
+          "summary": "烏克蘭地面機器人作戰正從前線實驗走向規模化部署，而推動這場變化的背景，正是部隊人力短缺，以及西方武器裝備供應不足的雙重壓力。在這樣的情況下，烏軍正積極擴展國產無人機與無人地面載具（UGV），試圖彌補與俄軍之間的戰力差距。 根據烏克蘭軍方與相關報導，2026 年 3 月烏軍單月已執行超過 9,000 次地面機器人任務，顯示這類系統已經從零星輔助工具，逐步成為烏軍前線運作不可或缺的一部分。 從少數單位"
+        },
+        {
+          "title": "氛圍編碼進入醫療現場：從紙本衛教到 AI 互動工具，AI 改變醫病照護模式",
+          "link": "https://techorange.com/2026/04/20/ai-vibe-coding-and-medical-practice/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-20T01:20:39+00:00",
+          "summary": "過去醫療領域數位工具幾乎都是由大型企業開發，而氛圍編碼（Vibe Coding）提供全新解決方案，讓臨床醫師透過 AI 自行開發數位工具，打造各種客製化醫療應用程式。"
+        },
+        {
+          "title": "【科技早餐】AI 一邊加碼、一邊裁員，Meta、Disney、Snap 接連重整人力",
+          "link": "https://techorange.com/2026/04/20/meta-disney-snap-ai-investment-accelerates-layoff-follows/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-19T22:50:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊AI 一邊加碼、一邊裁員，Meta、Disney、Snap 接連重整人力 AI 投資擴張與人力重整，最近接連在美國科技與娛樂業上演。《路透》報導，Meta 預計自 5 月 20 日啟動新一波裁員，規模約占全球員工 10%、接近 8,000 人，且今年稍晚可能還有後續調整。更早之前，迪士尼（Disney）宣布裁掉約 1,000 人，波及行銷、影視、"
         }
       ]
     },
@@ -23,6 +47,30 @@
       "feed_name": "遠見雜誌 - 前進的動力",
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
+        {
+          "title": "突破千億保健市場紅海！Cofit聯手adGeek善用AI，把百萬流量精準變現",
+          "link": "https://www.gvm.com.tw/article/129047",
+          "published": "2026-04-20T00:00:00",
+          "summary": "在有1700億市場規模的大健康產業中，Cofit攜手MarTech專家adGeek，透過AI預測與品牌第一方數據整合，精準挖出意想不到的高潛力客群、大幅降低獲客成本，更打造出專屬的會員健康旅程。注意到了嗎？現在走進便利商店，會發現豆漿、高蛋白飲品和雞胸肉占據整排冷藏櫃；打開社群，營養師的短影音比美食網紅更吸睛；就連年輕世代聚會，無酒精飲品的出場率也悄悄超過烈酒。隨著新冠肺炎疫情爆發、趨緩，再到20"
+        },
+        {
+          "title": "偵查奇襲都靠它！烏克蘭不對稱戰爭的祕密武器：電動滑板車",
+          "link": "https://www.gvm.com.tw/article/129461",
+          "published": "2026-04-19T16:00:00",
+          "summary": "在烏克蘭對抗俄羅斯的戰場上，無人機搶盡風頭，成為「不對稱戰爭」的主角，不過在地面上協助烏克蘭士兵和無人機快速轉移、繞道奇襲的好夥伴，還得是這台電動滑板車：Mosphere。說到戰場上的車輛，很容易就想到戰車、裝甲車，甚至是特斯拉 Cybertruck 看起來也挺像樣，但電動滑板車？不過你一看到 Mosphere 這台車，立刻就可以感受到滿滿的戰鬥感，歸功於它巨大到不像話的越野輪胎。這輛電動滑板車重"
+        },
+        {
+          "title": "AI產製內容氾濫！AI貼文數首次超越人類撰寫，「社群真實感」反而變珍貴",
+          "link": "https://www.gvm.com.tw/article/129459",
+          "published": "2026-04-19T10:00:00",
+          "summary": "一份社群媒體趨勢報告指出，人工智慧（AI）文章充斥網路，讀者對過於精緻包裝的內容疲乏，保有「真人痕跡」不過度修飾的貼文，反而讓讀者感到可信。根據社群媒體管理平台Hootsuite發布「2026年社群媒體趨勢報告」顯示，AI已成為經營社群的重要工具，使得社群貼文的工作流程更快速，但在演算法的推波助瀾下，大量類似的內容充斥網路。報告指出，2025年網路上AI貼文數量首次超越人類撰寫內容。該公司每年發表"
+        },
+        {
+          "title": "主婦健忘拖10年變「中度失智」，醫嘆：錯過黃金關鍵10年",
+          "link": "https://www.gvm.com.tw/article/129458",
+          "published": "2026-04-19T07:00:00",
+          "summary": "1名67歲的家庭主婦開始頻繁忘記瑣事，家人以為是正常老化，沒想到10年後，腦部影像顯示大腦已顯著萎縮。醫師表示，等失智影響生活才就醫，神經網絡損傷恐，已難挽回。台灣已正式邁入超高齡社會，國內最新調查指出，全台65歲以上長者的失智症盛行率達7.99%，是不容忽視的健康議題。衛生福利部雙和醫院（委託台北醫學大學經營）今天召開衛教記者會，揭示「全方位護腦指南」。台北醫學大學醫學院院長胡朝榮指出，失智症的"
+        },
         {
           "title": "人生走馬燈是真的？科學家揭秘「瀕死體驗」：臨終30秒大腦發生什麼事？",
           "link": "https://www.gvm.com.tw/article/129492",
@@ -34,30 +82,6 @@
           "link": "https://www.gvm.com.tw/article/129491",
           "published": "2026-04-18T22:34:00",
           "summary": "我們的金錢觀通常不是在學校中學的，而是從還不會算錢的年紀，於日常生活中耳濡目染而來。有些人從小被教導錢要省著花，以致長大後即使收入增加，花錢時還是會感到內疚、掙扎；有些人則經歷過家庭突如其來的經濟變故，那份深植於心底的不安全感，會在不知不覺地影響他日後的儲蓄習慣與投資風險偏好。（本文節錄自《值得過上好日子》一書，作者：精算媽咪 珊迪兔 ／幸福文化出版，以下為摘文。）那是個炎熱的星期五，小莉放學走出"
-        },
-        {
-          "title": "心理師媽媽：養出心智強大的孩子所需的「6種關鍵力量」",
-          "link": "https://www.gvm.com.tw/article/129490",
-          "published": "2026-04-18T22:19:00",
-          "summary": "身為父母，總想為孩子鋪出順遂的人生道路。然而，成長過程中難免會遭遇各種失敗與挫折，若未能培養足夠的心理韌性，當孩子面臨困難時便可能退縮、逃避，甚至一蹶不振，出現拒學或身心症等問題。正因為是這樣的時代才更需要的東西是什麼？（本文節錄自《心理師媽媽教你養出心智強大的孩子》一書，作者：中野日出美／台灣東販出版，以下為摘文。）此刻，孩子們的周遭正在發生什麼事？生在當今日本的孩子們，經濟條件富裕，並受過一定"
-        },
-        {
-          "title": "他在冤案噩夢中掙扎19年：每一個人的出生都有他的意義和價值",
-          "link": "https://www.gvm.com.tw/article/129444",
-          "published": "2026-04-18T21:44:00",
-          "summary": "20歲的廚師學徒謝志宏才跟母親分享自己即將出師的喜悅，夢想著傳承家傳好手藝，2000年6月28日凌晨，他卻在家門口被一群警察攔截，確認身分後就將他推進警車帶走，只因幾天前他與僅有一面之緣的郭俊偉相約夜遊，意外捲進了一樁殘酷的命案。當時他天真地以為「交代清楚就能回家」，卻不知道自此他將陷入長達19年的司法噩夢。（本文節錄自《從未》一書，作者：蔡春美／商周出版，以下為摘文。）禁見若是小案子，基本上是先"
-        },
-        {
-          "title": "台灣房市面對戰爭風險，還有價值嗎？經濟學家：在戰爭中仍抗通膨",
-          "link": "https://www.gvm.com.tw/article/129392",
-          "published": "2026-04-18T21:42:00",
-          "summary": "在台灣，房子不只是住所，更構成了家庭財富的絕大部分。當地緣政治風險亮起紅燈，房地產往往會面臨兩種截然不同的評價：有人認為它是「不動產」，戰火一來就會被打爛、價值會直接歸零；有人則認為它是「實質資產」，是應對本幣崩潰最強大的盾牌。到底哪一種觀點比較對？（本文節錄自《地緣風險理財課》一書，作者：劉玉皙，三采出版，以下為摘文。）房子還能買嗎？局勢動盪、通膨和貨幣貶值時，名目資產將會備受衝擊。對存款人而言"
-        },
-        {
-          "title": "運動選手送我的8個「生命禮物」：比賽不是比誰不失誤，而是比「這件事」",
-          "link": "https://www.gvm.com.tw/article/129384",
-          "published": "2026-04-18T21:38:00",
-          "summary": "比賽之所以迷人是因為它從不重來，即使是同樣的對手與場地，當天的身體狀態、心理波動、比分走向與關鍵瞬間，都不可能被複製。站上場的那一刻，你唯一能做的就是帶著此刻完整的自己，勇敢地向前迎戰。比賽，從來不是比誰比較不緊張、誰完全不失誤，真正比的是在壓力下，誰還能做出對自己最有利的選擇，即使連續失誤，仍願意相信自己，為成功奮力一擊。（本文節錄自《逆境翻身》一書，作者：陳泰廷／寶瓶文化出版，以下為摘文。）擔"
         }
       ]
     },
@@ -66,40 +90,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "「2026新北環境季」開跑環保局整合3大主軸實踐<b>淨零</b>生活 - Yahoo新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/2026%25E6%2596%25B0%25E5%258C%2597%25E7%2592%25B0%25E5%25A2%2583%25E5%25AD%25A3-%25E9%2596%258B%25E8%25B7%2591-%25E7%2592%25B0%25E4%25BF%259D%25E5%25B1%2580%25E6%2595%25B4%25E5%2590%25883%25E5%25A4%25A7%25E4%25B8%25BB%25E8%25BB%25B8%25E5%25AF%25A6%25E8%25B8%2590%25E6%25B7%25A8%25E9%259B%25B6%25E7%2594%259F%25E6%25B4%25BB-030543148.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw09FRX2UdWPefhFof-JrDgR",
-          "published": "2026-04-19T03:19:44+00:00",
-          "summary": "CNEWS匯流新聞網記者唐有為／台北報導新北市環保局為響應4月22日地球日，自4月18日起至6月10日盛大推出「2026新北環境季」，規劃蔬食野餐嘉年華及「i&nbsp;..."
+          "title": "不懼少子化！海大申請入學報名人數逆勢成長將近五千人",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://mprp.ntou.edu.tw/p/406-1017-124077,r1031.php%3FLang%3Dzh-tw&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw34ixCEbvGVpyvjYyxwG6Al",
+          "published": "2026-04-20T02:05:27+00:00",
+          "summary": "... 氣候變遷、智慧航運、海洋能源、生物科技及永續發展等跨領域研究。許校長強調，在國家邁向2050淨零碳排目標下，海洋永續將扮演關鍵角色，海大也將透過產學&nbsp;..."
         },
         {
-          "title": "彭啓明部長參加《2026 Happy Run 為兒童友善醫療而跑》倡導「<b>淨零</b>綠生活」",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/page/3b3c62c78849f32f/ca5186d7-df28-43fe-a86c-84564335c5dc&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2RBVkD-gW2vXUjTp81bQdG",
-          "published": "2026-04-19T03:04:54+00:00",
-          "summary": "彭啓明部長於致詞時指出，氣候變遷與公共衛生息息相關，守護孩子的健康與守護地球的環境是同一件事，他強調，環境部正加速建構「韌性健康環境」，透過落實減&nbsp;..."
+          "title": "綠領成職場新寵文科生卡位高薪絕佳機會",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rti.org.tw/programnews%3Fuid%3D4%26pid%3D102583&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw16SB8diKea2oJSVXwmjEkR",
+          "published": "2026-04-20T01:31:27+00:00",
+          "summary": "早安筆記本：專訪1111人力銀行發言人曾仲葳，介紹綠領已經成為企業勞力結構重要的一環。 隨著2050淨零排放成為全球趨勢，台灣即將開徵碳費，企業對永續與減碳&nbsp;..."
         },
         {
-          "title": "<b>淨零</b>永續落實在日常地球日全民一起綠生活！ - 台北市政府",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gov.taipei/News_Content.aspx%3Fn%3DF0DDAF49B89E9413%26sms%3D72544237BBE4C5F6%26s%3DDC3513884CD50FB5&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2eQeboTyWL_t8QL-qLzko3",
-          "published": "2026-04-19T01:48:18+00:00",
-          "summary": "今年適逢世界地球日第56週年，主題「Our Power, Our Planet」強調每個人都是改變的力量。面對氣候變遷加劇、生物多樣性流失與資源耗竭等全球挑戰，環境部持續推動&nbsp;..."
+          "title": "串聯恆春至鵝鑾鼻！墾丁推動綠色交通YouBike助攻國家公園實現「<b>淨零</b>排放」 - 台灣好新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.taiwanhot.net/news/1134214/%25E4%25B8%25B2%25E8%2581%25AF%25E6%2581%2586%25E6%2598%25A5%25E8%2587%25B3%25E9%25B5%259D%25E9%2591%25BE%25E9%25BC%25BB%25EF%25BC%2581%25E5%25A2%25BE%25E4%25B8%2581%25E6%258E%25A8%25E5%258B%2595%25E7%25B6%25A0%25E8%2589%25B2%25E4%25BA%25A4%25E9%2580%259A%2BYouBike%25E5%258A%25A9%25E6%2594%25BB%25E5%259C%258B%25E5%25AE%25B6%25E5%2585%25AC%25E5%259C%2592%25E5%25AF%25A6%25E7%258F%25BE%25E3%2580%258C%25E6%25B7%25A8%25E9%259B%25B6%25E6%258E%2592%25E6%2594%25BE%25E3%2580%258D&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2cMI8G-Qc2NWKxdheF1pQT",
+          "published": "2026-04-20T01:28:02+00:00",
+          "summary": "墾管處表示，推動低碳旅遊不只是減少交通碳排放，更是一種鼓勵旅人慢下腳步、重新認識土地、體驗自然的旅行方式。沿途設置的解說牌介紹墾丁豐富的自然生態地景與&nbsp;..."
         },
         {
-          "title": "<b>氣候變遷</b>牽動美年輕人生育觀 - 人間福報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.merit-times.com.tw/NewsPage.aspx%3Funid%3D932753&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3cQgslUDtt6uoj32cRJlbq",
-          "published": "2026-04-19T01:28:10+00:00",
-          "summary": "目前從事廣告業的波雷托（Amanda Porretto），芳齡27歲，正值美國女性初為人母的平均年齡，但是她坦言，不確定自己是否會生小孩，「當前地球環境有許多問題還有待解決，&nbsp;..."
+          "title": "百年大乾旱加上超級聖嬰，美國不祥之兆來襲 - TechNews 科技新報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://technews.tw/2026/04/20/extre-drought-in-us/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1M4wHk9SkroQ1hqZWidmAT",
+          "published": "2026-04-20T00:44:34+00:00",
+          "summary": "今年美國農業遭遇雙重衝擊，除了戰爭影響化肥價格大漲之外，美國已經處於史上最嚴重高溫與乾旱之中。美國氣候科學家稱，隨著春季播種季節的開始，美國本土有60%&nbsp;..."
         },
         {
-          "title": "「行動有你．地球有力」陳其邁號召全民減塑高雄邁向<b>淨零</b>未來 - 台灣好報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://newstaiwan.net/2026/04/18/429860/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1em0WinPynDfA7NjHgP1xZ",
-          "published": "2026-04-18T23:03:59+00:00",
-          "summary": "陳其邁表示，「世界地球日」最主要的意義，就是希望大家共同守護地球。他也談及氣候變遷與極端氣候帶來的挑戰，將提高社會成本並增加各項支出，因此鼓勵市民朋友舉手&nbsp;..."
+          "title": "土耳其研議將<b>碳中和</b>目標由2050年提前至2035年 - 經濟部國際貿易署",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.trade.gov.tw/Pages/Detail.aspx%3FnodeID%3D45%26pid%3D814087&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1NbAtoybEvy4St7bYpd7sy",
+          "published": "2026-04-20T00:41:55+00:00",
+          "summary": "B部長表示，土耳其積極推動能源多元化，涵蓋液化天然氣（LNG）、管線天然氣、再生能源投資、核能基載電力及新興能源通道等面向，並致力在燃料、經濟與技術層面提升風&nbsp;..."
         },
         {
-          "title": "奇美醫院辦ESG論壇拚<b>淨零</b>跨界攜手推動綠色醫療轉型 - MSN",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/news/other/%25E5%25A5%2587%25E7%25BE%258E%25E9%2586%25AB%25E9%2599%25A2%25E8%25BE%25A6esg%25E8%25AB%2596%25E5%25A3%2587%25E6%258B%259A%25E6%25B7%25A8%25E9%259B%25B6-%25E8%25B7%25A8%25E7%2595%258C%25E6%2594%259C%25E6%2589%258B%25E6%258E%25A8%25E5%258B%2595%25E7%25B6%25A0%25E8%2589%25B2%25E9%2586%25AB%25E7%2599%2582%25E8%25BD%2589%25E5%259E%258B/ar-AA20ZvEB%3Fapiversion%3Dv2%26domshim%3D1%26noservercache%3D1%26noservertelemetry%3D1%26batchservertelemetry%3D1%26renderwebcomponents%3D1%26wcseo%3D1&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3-80-LNjsqMivvyzxfQO1g",
-          "published": "2026-04-18T22:41:18+00:00",
-          "summary": "... 淨零與綠色成長策略；衛福部則強調，依循國際趨勢，建構具備「氣候調適」能力的永續醫療體系已勢在必行，台灣也將逐步朝低碳健康系統邁進。國科會南科管理局&nbsp;..."
+          "title": "臺北市政府環境保護局辦理「<b>淨零</b>拚轉型節電3%獎百萬」活動",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gov.taipei/News_Content.aspx%3Fn%3DD0042A87C2F0270A%26sms%3D78D644F2755ACCAA%26s%3D7685113BF5AE7B3A&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2CFubN2GdEmVrb0cBHsnTr",
+          "published": "2026-04-20T00:19:13+00:00",
+          "summary": "為鼓勵市民落實節能減碳行動，臺北市政府環境保護局115年「淨零拚轉型節電3%獎百萬」抽獎活動（網址： https://energysaving. gov.taipei/），北市節電3%獎百萬，&nbsp;..."
         }
       ]
     }
