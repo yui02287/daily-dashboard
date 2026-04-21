@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-04-20T04:19:36.828412+00:00",
-    "date": "2026-04-20",
+    "generated_at": "2026-04-21T04:11:49.125359+00:00",
+    "date": "2026-04-21",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,34 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "你的 Slack 對話可能變 AI 教材？企業資料淘金熱崛起，變現背後的商機與爭議",
-          "link": "https://techorange.com/2026/04/20/ai-new-data-source/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-20T02:58:09+00:00",
-          "summary": "在 AI 的軍備競賽中，資料就是燃料。然而，當 AI 實驗室幾乎吸乾了 Reddit 論壇、維基百科與數位化書籍等公開網路內容後，他們正面臨嚴重的資料瓶頸。為了解決這個問題，產業界開始將目標轉向一個意想不到的來源：企業內部的 Slack 對話、Email、Jira 任務單，以及多 TB 的專案紀錄。 《Forbes》報導，這波「工作流資料」（workflow data）的新趨勢，不只正在改變 AI"
+          "title": "Google TPU 為什麼贏不了 NVIDIA？陳良基：真正差距在對台灣供應鏈的掌握度",
+          "link": "https://techorange.com/2026/04/21/chen-liang-gee-google-nvidia-podcast/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-21T03:18:01+00:00",
+          "summary": "專訪：戴季全撰稿：李昀蔚 隨著 AI 產業競爭從模型、晶片一路延伸到算力與供應鏈，Google、NVIDIA、Apple 和馬斯克（Elon Musk）皆以不同策略搶進下一階段的主導權。本集《全新一週》專訪國立臺灣大學電機工程學系名譽教授、前科技部長陳良基，從 Google TPU 與 NVIDIA 的對戰談起，逐步剖析 TeraFab 想突破的供應鏈瓶頸、Apple 在 AI 時代的調整，以及台"
         },
         {
-          "title": "【AI 詐騙年損近 9 億美元】資安專家共識：防詐的核心不是辨識，而是「驗證習慣」",
-          "link": "https://techorange.com/2026/04/20/ai-generated-scams/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-20T02:34:59+00:00",
-          "summary": "2025 年，美國民眾向聯邦調查局網路犯罪投訴中心（IC3）提交逾 100 萬件投訴，損失金額接近 210 億美元，網路詐騙佔總損失的 85%。 其中，AI 詐騙首度在 FBI 年度網路犯罪報告中獨立成章，記錄了逾 2.2 萬件投訴與約 8.93 億美元的損失。 詐騙門檻降低，任何人都可能是目標 資安訓練與研究機構 SANS Institute 首席 AI 研究員 Rob T. Lee 指出，詐騙"
+          "title": "融資總額暴漲 262%、75% 資金流向單一巨頭：盤點 2026 自駕車新創最新賽局",
+          "link": "https://techorange.com/2026/04/21/autonomous-vehicle-funding-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-21T01:51:02+00:00",
+          "summary": "2026 年的自駕車產業正迎來一場前所未有的資金結構性轉變。創業資料庫 Crunchbase 資料顯示，2026 年 4 月 15 日，全球自駕車新創公司今年累計融資已達 214 億美元，涵蓋 34 筆交易，較 2025 年全年的 59 億美元（99 筆）暴增 262%，也比 2024 年全年的 121 億美元（127 筆）高出約 77%，創下歷史新高。 然而，這波資金浪潮並非雨露均霑。Crunc"
         },
         {
-          "title": "烏克蘭地面機器人戰爭進入規模化：單月任務破 9,000 次，前線開始出現「零步兵攻城」",
-          "link": "https://techorange.com/2026/04/20/ukraines-ground-robots-now-running-9-000-missions-a-month/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-20T02:32:16+00:00",
-          "summary": "烏克蘭地面機器人作戰正從前線實驗走向規模化部署，而推動這場變化的背景，正是部隊人力短缺，以及西方武器裝備供應不足的雙重壓力。在這樣的情況下，烏軍正積極擴展國產無人機與無人地面載具（UGV），試圖彌補與俄軍之間的戰力差距。 根據烏克蘭軍方與相關報導，2026 年 3 月烏軍單月已執行超過 9,000 次地面機器人任務，顯示這類系統已經從零星輔助工具，逐步成為烏軍前線運作不可或缺的一部分。 從少數單位"
+          "title": "【聽過「釣魚即服務」嗎】駭客成熟分工瞄準企業資安，工具訂閱制已成最新攻擊模式",
+          "link": "https://techorange.com/2026/04/21/phishing-as-a-service-with-hacker/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-21T01:32:21+00:00",
+          "summary": "在充滿攻擊者的暗網中，一種被稱為「釣魚即服務（PhaaS）」的商業模式正悄悄崛起，想發動網路釣魚攻擊的有心份子，只要向駭客支付月費，就可以獲得許多現成的攻擊工具。"
         },
         {
-          "title": "氛圍編碼進入醫療現場：從紙本衛教到 AI 互動工具，AI 改變醫病照護模式",
-          "link": "https://techorange.com/2026/04/20/ai-vibe-coding-and-medical-practice/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-20T01:20:39+00:00",
-          "summary": "過去醫療領域數位工具幾乎都是由大型企業開發，而氛圍編碼（Vibe Coding）提供全新解決方案，讓臨床醫師透過 AI 自行開發數位工具，打造各種客製化醫療應用程式。"
+          "title": "AI 律所一份合約收 250 美元，大型律所每小時收 1,000 美元——這場競爭誰會贏？",
+          "link": "https://techorange.com/2026/04/21/ai-law-firm/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-21T01:32:14+00:00",
+          "summary": "律師 Ross Weiser 六個月前離開 Sullivan &amp; Cromwell，加入一間名為 Crosby 的 AI 原生法律服務公司。在那裡，合約審查由 AI 代理先跑完，他再接手處理機器尚未能判斷的法律細節。 Crosby 自稱「新型律所」，而它的運作模式，正被視為整個法律行業正在發生的轉變的縮影。 收費邏輯的根本翻轉？ Crosby 的商業模式，從第一個環節就與傳統律所背道而馳。"
         },
         {
-          "title": "【科技早餐】AI 一邊加碼、一邊裁員，Meta、Disney、Snap 接連重整人力",
-          "link": "https://techorange.com/2026/04/20/meta-disney-snap-ai-investment-accelerates-layoff-follows/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-19T22:50:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊AI 一邊加碼、一邊裁員，Meta、Disney、Snap 接連重整人力 AI 投資擴張與人力重整，最近接連在美國科技與娛樂業上演。《路透》報導，Meta 預計自 5 月 20 日啟動新一波裁員，規模約占全球員工 10%、接近 8,000 人，且今年稍晚可能還有後續調整。更早之前，迪士尼（Disney）宣布裁掉約 1,000 人，波及行銷、影視、"
+          "title": "【科技早餐】代理型 AI 往外擴，Tesla 來台搶人、Google 重排晶片布局",
+          "link": "https://techorange.com/2026/04/21/agentic-ai-expands-outward-as-tesla-recruits-in-taiwan-and-google-reshapes-chip-strategy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-20T22:50:00+00:00",
+          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊摩根士丹利：代理型 AI 把投資從 GPU 往外推，CPU 與記憶體接棒成焦點 《路透》報導，摩根士丹利（Morgan Stanley）最新指出，隨著 AI 從生成內容進一步走向可自主執行任務的代理型 AI，資料中心的投資重心，將不再只集中在 GPU，而是逐步擴散到 CPU、記憶體，以及更廣泛的通用運算架構。摩根士丹利強調，GPU 需求依然強勁，"
+        },
+        {
+          "title": "82% 受訪企業自認安全，卻有 88% 遇過 AI Agent 資安事件？解析背後防護落差",
+          "link": "https://techorange.com/2026/04/20/ai-agent-security-3-phases/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-20T10:28:27+00:00",
+          "summary": "企業導入 AI agent 的速度，已經遠遠超過資安架構的進化速度。一項來自《VentureBeat》的調查指出，當企業開始讓 AI Agent 具備自主執行任務、調用工具甚至跨系統操作的能力時，多數資安體系仍停留在「監控與紀錄」的階段，尚未進入真正的防護與隔離層級，這種「看得到但管不住」的狀態，正是目前企業普遍的資安結構。 82% 受訪企業自認安全，同時有 88% 已發生 Agent 資安事件 "
         }
       ]
     },
@@ -48,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "突破千億保健市場紅海！Cofit聯手adGeek善用AI，把百萬流量精準變現",
-          "link": "https://www.gvm.com.tw/article/129047",
-          "published": "2026-04-20T00:00:00",
-          "summary": "在有1700億市場規模的大健康產業中，Cofit攜手MarTech專家adGeek，透過AI預測與品牌第一方數據整合，精準挖出意想不到的高潛力客群、大幅降低獲客成本，更打造出專屬的會員健康旅程。注意到了嗎？現在走進便利商店，會發現豆漿、高蛋白飲品和雞胸肉占據整排冷藏櫃；打開社群，營養師的短影音比美食網紅更吸睛；就連年輕世代聚會，無酒精飲品的出場率也悄悄超過烈酒。隨著新冠肺炎疫情爆發、趨緩，再到20"
+          "title": "日本東北地震上修至7.5！氣象廳發海嘯警報，新幹線部分停駛",
+          "link": "https://www.gvm.com.tw/article/129520",
+          "published": "2026-04-20T18:04:00",
+          "summary": "日本東北今天下午發生強震並引發海嘯警報，目前地震規模上修至7.5。發布警報各地已經陸續觀測到較大海浪，當局呼籲持續避難，切勿掉以輕心。根據日本氣象廳，下午4時53分（台北時間3時53分）左右，青森縣觀測到震度5強地震，震央位於三陸外海，震源深度約10公里。氣象廳隨即對北海道太平洋沿岸中部、青森縣太平洋沿岸及岩手縣發布海嘯警報，預測最高可達3公尺的海嘯將迅速抵達。根據氣象廳，截至下午5點41分所觀測"
         },
         {
-          "title": "偵查奇襲都靠它！烏克蘭不對稱戰爭的祕密武器：電動滑板車",
-          "link": "https://www.gvm.com.tw/article/129461",
-          "published": "2026-04-19T16:00:00",
-          "summary": "在烏克蘭對抗俄羅斯的戰場上，無人機搶盡風頭，成為「不對稱戰爭」的主角，不過在地面上協助烏克蘭士兵和無人機快速轉移、繞道奇襲的好夥伴，還得是這台電動滑板車：Mosphere。說到戰場上的車輛，很容易就想到戰車、裝甲車，甚至是特斯拉 Cybertruck 看起來也挺像樣，但電動滑板車？不過你一看到 Mosphere 這台車，立刻就可以感受到滿滿的戰鬥感，歸功於它巨大到不像話的越野輪胎。這輛電動滑板車重"
+          "title": "黃仁勳沒錯！史丹佛AI指數揭：中國靠開源，與美國差距變小了",
+          "link": "https://www.gvm.com.tw/article/129525",
+          "published": "2026-04-20T17:43:00",
+          "summary": "上週黃仁勳在美國知名科技Podcast「Dwarkesh Patel」中，大談中國AI技術進步引熱議，其實在美國史丹佛大學近期發表2026年的《AI指數報告》（AI Index Report），也揭示出同樣線索：中美頂尖AI表現差距正縮小，中國已成為世界AI龍頭的強力競爭者！此外，AI開發所需的算力、電力與資金成本驚人。報告也強調了台積電在全球硬體供應鏈中的核心角色，幾乎所有領先AI晶片都由台積電"
         },
         {
-          "title": "AI產製內容氾濫！AI貼文數首次超越人類撰寫，「社群真實感」反而變珍貴",
-          "link": "https://www.gvm.com.tw/article/129459",
-          "published": "2026-04-19T10:00:00",
-          "summary": "一份社群媒體趨勢報告指出，人工智慧（AI）文章充斥網路，讀者對過於精緻包裝的內容疲乏，保有「真人痕跡」不過度修飾的貼文，反而讓讀者感到可信。根據社群媒體管理平台Hootsuite發布「2026年社群媒體趨勢報告」顯示，AI已成為經營社群的重要工具，使得社群貼文的工作流程更快速，但在演算法的推波助瀾下，大量類似的內容充斥網路。報告指出，2025年網路上AI貼文數量首次超越人類撰寫內容。該公司每年發表"
+          "title": "鄭習會後北京釋出兩岸交流合作新措施，國內七大產業怎麼看？",
+          "link": "https://www.gvm.com.tw/article/129523",
+          "published": "2026-04-20T17:24:00",
+          "summary": "國民黨主席鄭麗文訪中行後，中方釋出一系列大禮包，內容包括陸客來台、鬆綁台灣農漁產品輸入限制等等，但政府回應冷淡，認為相關措施屬「統戰脅迫做法」，但產業對這樣的看法不以為意。商總理事長許舒博今（20）日邀集觀光、遊覽車、蔬果、糕餅……等七大產業公協會召開記者會，呼籲台灣政府接受中國近期釋出的惠台措施。他表示，政府不應用政治的邏輯思考產業發展，「我們也是有選票的！」強調任何政黨只要站在產業的對立面，「"
         },
         {
-          "title": "主婦健忘拖10年變「中度失智」，醫嘆：錯過黃金關鍵10年",
-          "link": "https://www.gvm.com.tw/article/129458",
-          "published": "2026-04-19T07:00:00",
-          "summary": "1名67歲的家庭主婦開始頻繁忘記瑣事，家人以為是正常老化，沒想到10年後，腦部影像顯示大腦已顯著萎縮。醫師表示，等失智影響生活才就醫，神經網絡損傷恐，已難挽回。台灣已正式邁入超高齡社會，國內最新調查指出，全台65歲以上長者的失智症盛行率達7.99%，是不容忽視的健康議題。衛生福利部雙和醫院（委託台北醫學大學經營）今天召開衛教記者會，揭示「全方位護腦指南」。台北醫學大學醫學院院長胡朝榮指出，失智症的"
+          "title": "沒有《穿著Prada的惡魔》就沒有現在的她？艾蜜莉布朗20年後感動回憶：導演當年選中我改變了一切",
+          "link": "https://www.gvm.com.tw/article/129524",
+          "published": "2026-04-20T17:19:00",
+          "summary": "2006年到2026年，電影《穿著Prada的惡魔》時隔20年感動回歸，梅莉史翠普、安海瑟薇、艾蜜莉布朗及史丹利圖奇都回來了，還有什麼比這個更感動的事？如果說，2006年的《穿著Prada的惡魔》（The Devil Wears Prada）曾經替無數觀眾打開一扇窺探時尚產業的窗口，那麼20年後的續集，則更像是一場關於時間、選擇與成長的回望。當年由梅莉史翠普（Meryl Streep）詮釋的米蘭達"
         },
         {
-          "title": "人生走馬燈是真的？科學家揭秘「瀕死體驗」：臨終30秒大腦發生什麼事？",
-          "link": "https://www.gvm.com.tw/article/129492",
-          "published": "2026-04-18T23:04:00",
-          "summary": "大多數瀕死體驗的情景都像這樣：一種完全沒有痛苦、看到明亮的光芒在隧道盡頭的感覺。你可能覺得好像離開自己的身體，正從遠處或漂浮在空中看著它。科學家認為，大腦面臨死亡時，會觸發一系列的神經化學變化。其中有些變化，可用來解釋某些人在瀕死體驗中所感知的情形。（本文節錄自《大腦就是這樣工作》一書，作者：豪爾赫．陳，德恩．戈德溫／天下文化出版，以下為摘文。）體驗死亡是什麼感覺？你可能會認為，根據定義，死亡就是"
+          "title": "跟皮克敏散步！2026嘉義藝術節》限定Pikmin Bloom攻略",
+          "link": "https://www.gvm.com.tw/article/129521",
+          "published": "2026-04-20T17:00:00",
+          "summary": "2026嘉義藝術節以「綻放」為主題，即將於5月1日至5月31日盛大登場。今年的藝術節首度與任天堂超人氣AR遊戲《Pikmin Bloom》跨界聯動，推出期間限定的「Pikmin Bloom 迷你散步」，把整座城市變成一座大型的尋寶散步樂園！今年的演出陣容更是超過15組頂尖藝術團隊輪番上陣。到底今年藝術節該怎麼玩？實體皮克敏周邊去哪拿？【目錄】&nbsp;2026嘉義藝術節2026嘉義藝術節｜「Pi"
         },
         {
-          "title": "錢不能亂花、太貴了買不起？你現在怎麼「對待錢」，都是跟爸媽學的",
-          "link": "https://www.gvm.com.tw/article/129491",
-          "published": "2026-04-18T22:34:00",
-          "summary": "我們的金錢觀通常不是在學校中學的，而是從還不會算錢的年紀，於日常生活中耳濡目染而來。有些人從小被教導錢要省著花，以致長大後即使收入增加，花錢時還是會感到內疚、掙扎；有些人則經歷過家庭突如其來的經濟變故，那份深植於心底的不安全感，會在不知不覺地影響他日後的儲蓄習慣與投資風險偏好。（本文節錄自《值得過上好日子》一書，作者：精算媽咪 珊迪兔 ／幸福文化出版，以下為摘文。）那是個炎熱的星期五，小莉放學走出"
+          "title": "2026裝修新制懶人包！沒申請不能開工？國土署澄清：既有程序未變",
+          "link": "https://www.gvm.com.tw/article/129389",
+          "published": "2026-04-20T16:30:00",
+          "summary": "4/20更新：先前傳出民眾無法自行決定裝修開工等事宜。內政部國土署日前嚴正聲明，與事實不符。目前僅針對室內裝修定型化契約草案進行研擬，目的在於防範裝修糾紛、遏止不法業者（俗稱「裝修蟑螂」），以降低履約爭議；至於既有申請程序與相關規定，均未變更。國土署提醒，室內裝修行為本該依建築法及相關辦法辦理，若遇到不肖業者惡意刁難，民眾可撥打「1950」消費者服務專線，或透過行政院消保會網站進行申訴。【目錄】●"
         }
       ]
     },
@@ -90,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "不懼少子化！海大申請入學報名人數逆勢成長將近五千人",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://mprp.ntou.edu.tw/p/406-1017-124077,r1031.php%3FLang%3Dzh-tw&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw34ixCEbvGVpyvjYyxwG6Al",
-          "published": "2026-04-20T02:05:27+00:00",
-          "summary": "... 氣候變遷、智慧航運、海洋能源、生物科技及永續發展等跨領域研究。許校長強調，在國家邁向2050淨零碳排目標下，海洋永續將扮演關鍵角色，海大也將透過產學&nbsp;..."
+          "title": "環保局「<b>淨零</b>拚轉型節電3%獎百萬」活動 - 台北市政府",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gov.taipei/News_Content.aspx%3Fn%3DD0042A87C2F0270A%26sms%3D78D644F2755ACCAA%26s%3DF36FE455C19B4B52&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3Hj7nkq1UkNFDOjx9xPDMB",
+          "published": "2026-04-21T02:34:38+00:00",
+          "summary": "北市節電3%獎百萬，活動期間即日起至115/12/ 31，總獎金400萬元，共400名獎項，最高可抽10萬元， 登錄電號參加活動，節電從日常生活做起!省電費又拿獎金，詳情洽同名&nbsp;..."
         },
         {
-          "title": "綠領成職場新寵文科生卡位高薪絕佳機會",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rti.org.tw/programnews%3Fuid%3D4%26pid%3D102583&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw16SB8diKea2oJSVXwmjEkR",
-          "published": "2026-04-20T01:31:27+00:00",
-          "summary": "早安筆記本：專訪1111人力銀行發言人曾仲葳，介紹綠領已經成為企業勞力結構重要的一環。 隨著2050淨零排放成為全球趨勢，台灣即將開徵碳費，企業對永續與減碳&nbsp;..."
+          "title": "碳費5月開繳估首年收45億 - 群益期貨",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.capitalfutures.com.tw/zh-tw/Financial/GlobalArticle%3FContentId%3DC26042100271%26Category%3Dall&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1vXzPpbDkcryIhMumGHMIe",
+          "published": "2026-04-21T02:17:26+00:00",
+          "summary": "環境部氣候變遷署長蔡玲儀指出，碳費首年收入預估為45 ... 氣候變遷調適政策；協助各部會推動公正轉型；辦理淨零轉型貸款利息補貼、信用保證等金融支持機制。"
         },
         {
-          "title": "串聯恆春至鵝鑾鼻！墾丁推動綠色交通YouBike助攻國家公園實現「<b>淨零</b>排放」 - 台灣好新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.taiwanhot.net/news/1134214/%25E4%25B8%25B2%25E8%2581%25AF%25E6%2581%2586%25E6%2598%25A5%25E8%2587%25B3%25E9%25B5%259D%25E9%2591%25BE%25E9%25BC%25BB%25EF%25BC%2581%25E5%25A2%25BE%25E4%25B8%2581%25E6%258E%25A8%25E5%258B%2595%25E7%25B6%25A0%25E8%2589%25B2%25E4%25BA%25A4%25E9%2580%259A%2BYouBike%25E5%258A%25A9%25E6%2594%25BB%25E5%259C%258B%25E5%25AE%25B6%25E5%2585%25AC%25E5%259C%2592%25E5%25AF%25A6%25E7%258F%25BE%25E3%2580%258C%25E6%25B7%25A8%25E9%259B%25B6%25E6%258E%2592%25E6%2594%25BE%25E3%2580%258D&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2cMI8G-Qc2NWKxdheF1pQT",
-          "published": "2026-04-20T01:28:02+00:00",
-          "summary": "墾管處表示，推動低碳旅遊不只是減少交通碳排放，更是一種鼓勵旅人慢下腳步、重新認識土地、體驗自然的旅行方式。沿途設置的解說牌介紹墾丁豐富的自然生態地景與&nbsp;..."
+          "title": "最新消息-「<b>淨零</b>拚轉型節電3%獎百萬」活動 - 台北市政府",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gov.taipei/News_Content.aspx%3Fn%3DD0042A87C2F0270A%26sms%3D78D644F2755ACCAA%26s%3D7428D600ED23B47F&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3H_gnkBDdqpkzMPTGNvv9j",
+          "published": "2026-04-21T01:36:10+00:00",
+          "summary": "為鼓勵市民落實節能減碳行動，臺北市政府環境保護局辦理「淨零拚轉型節電3%獎百萬」抽獎活動，活動期間即日起至115年12月31日止，總獎金400萬元，共400名獎項，&nbsp;..."
         },
         {
-          "title": "百年大乾旱加上超級聖嬰，美國不祥之兆來襲 - TechNews 科技新報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://technews.tw/2026/04/20/extre-drought-in-us/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1M4wHk9SkroQ1hqZWidmAT",
-          "published": "2026-04-20T00:44:34+00:00",
-          "summary": "今年美國農業遭遇雙重衝擊，除了戰爭影響化肥價格大漲之外，美國已經處於史上最嚴重高溫與乾旱之中。美國氣候科學家稱，隨著春季播種季節的開始，美國本土有60%&nbsp;..."
+          "title": "當能源不再只是發電，生質能如何走向循環系統的新角色？",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://csrone.com/topics/9871&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3rgV6RipgH3R_0mLAyKklp",
+          "published": "2026-04-21T00:41:01+00:00",
+          "summary": "在全球邁向淨零的過程中，能源轉型的焦點正從發電能力轉向能源如何與資源利用、產業結構與碳循環相互整合，生質能也因此被重新視為連結廢棄物管理與在地資源&nbsp;..."
         },
         {
-          "title": "土耳其研議將<b>碳中和</b>目標由2050年提前至2035年 - 經濟部國際貿易署",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.trade.gov.tw/Pages/Detail.aspx%3FnodeID%3D45%26pid%3D814087&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1NbAtoybEvy4St7bYpd7sy",
-          "published": "2026-04-20T00:41:55+00:00",
-          "summary": "B部長表示，土耳其積極推動能源多元化，涵蓋液化天然氣（LNG）、管線天然氣、再生能源投資、核能基載電力及新興能源通道等面向，並致力在燃料、經濟與技術層面提升風&nbsp;..."
+          "title": "最新消息-公務專區-公務公告 - 雲林縣環境保護局全球資訊網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ylepb.gov.tw/latestevent/index-1.asp%3FParser%3D9,3,19,18,,,1978&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3TLOKPJny3fupkgTxAOkBa",
+          "published": "2026-04-21T00:12:38+00:00",
+          "summary": "... 氣候變遷領域，校園已成為推動氣候治理與永續行動之關鍵場域，為因應氣候變遷挑戰並強化校園氣候教育推動量能，爰辦理旨揭種子教師師資培育研習活動，透過&nbsp;..."
         },
         {
-          "title": "臺北市政府環境保護局辦理「<b>淨零</b>拚轉型節電3%獎百萬」活動",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gov.taipei/News_Content.aspx%3Fn%3DD0042A87C2F0270A%26sms%3D78D644F2755ACCAA%26s%3D7685113BF5AE7B3A&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2CFubN2GdEmVrb0cBHsnTr",
-          "published": "2026-04-20T00:19:13+00:00",
-          "summary": "為鼓勵市民落實節能減碳行動，臺北市政府環境保護局115年「淨零拚轉型節電3%獎百萬」抽獎活動（網址： https://energysaving. gov.taipei/），北市節電3%獎百萬，&nbsp;..."
+          "title": "貝克歐HOC-R 助攻企業<b>淨零</b>轉型 - 工商時報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260421700225-439901&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Attyl3j0sHCLxGRhtY0Bq",
+          "published": "2026-04-20T19:15:07+00:00",
+          "summary": "響應4月22日世界地球日，喚起全球對氣候變遷與永續發展的重視，企業在節能減碳與ESG的具體行動，已逐步成為衡量競爭力的重要指標。德國壓縮空氣處理解決方案&nbsp;..."
         }
       ]
     }
