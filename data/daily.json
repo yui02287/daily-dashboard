@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-04-21T04:11:49.125359+00:00",
-    "date": "2026-04-21",
+    "generated_at": "2026-04-22T04:08:04.240832+00:00",
+    "date": "2026-04-22",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "Google TPU 為什麼贏不了 NVIDIA？陳良基：真正差距在對台灣供應鏈的掌握度",
-          "link": "https://techorange.com/2026/04/21/chen-liang-gee-google-nvidia-podcast/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-21T03:18:01+00:00",
-          "summary": "專訪：戴季全撰稿：李昀蔚 隨著 AI 產業競爭從模型、晶片一路延伸到算力與供應鏈，Google、NVIDIA、Apple 和馬斯克（Elon Musk）皆以不同策略搶進下一階段的主導權。本集《全新一週》專訪國立臺灣大學電機工程學系名譽教授、前科技部長陳良基，從 Google TPU 與 NVIDIA 的對戰談起，逐步剖析 TeraFab 想突破的供應鏈瓶頸、Apple 在 AI 時代的調整，以及台"
+          "title": "從外觀到飛行動態都與真鳥無異，中國仿鳥撲翼無人機正改寫偵察戰場",
+          "link": "https://techorange.com/2026/04/22/chinas-new-bird-drones/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-22T03:01:55+00:00",
+          "summary": "在 2025 年中國軍事智慧科技博覽會上，工程師展示的仿鳥撲翼無人機，已精密到讓受過訓練的觀察者也難以辨別真偽。從遠處看來與老鷹無異的飛行器，動作自然到讓人懷疑自己看到的究竟是機器還是生物。 這種仿鳥撲翼無人機（ornithopter）的出現，不只是工程上的突破，更可能從根本上改變偵察技術的邊界（按：本文配圖為 AI 生成示意圖。） 多旋翼的侷限，催生仿生設計 商用無人機在過去十多年間以多旋翼構型"
         },
         {
-          "title": "融資總額暴漲 262%、75% 資金流向單一巨頭：盤點 2026 自駕車新創最新賽局",
-          "link": "https://techorange.com/2026/04/21/autonomous-vehicle-funding-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-21T01:51:02+00:00",
-          "summary": "2026 年的自駕車產業正迎來一場前所未有的資金結構性轉變。創業資料庫 Crunchbase 資料顯示，2026 年 4 月 15 日，全球自駕車新創公司今年累計融資已達 214 億美元，涵蓋 34 筆交易，較 2025 年全年的 59 億美元（99 筆）暴增 262%，也比 2024 年全年的 121 億美元（127 筆）高出約 77%，創下歷史新高。 然而，這波資金浪潮並非雨露均霑。Crunc"
+          "title": "短影音夾擊、營收下滑的豪賭：愛奇藝宣布 5 年內讓 AI 生成大部分影視內容",
+          "link": "https://techorange.com/2026/04/22/iqiyi-goes-all-in-on-ai-content/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-22T02:10:00+00:00",
+          "summary": "愛奇藝近期宣布，預期在未來 5 年內，AI 將生成該平台大部分的電影與影視節目內容。同時，公司計畫把原有的影音 App 與網站改造成更像社群媒體的平台，主要用於承載 AI 生成內容。這項舉動被外界視為愛奇藝自 2010 年成立以來，規模最大的一次企業重整與轉型。 愛奇藝執行長龔宇對此表示：「這是十年一遇的機會，我們必須順應潮流。」這句話也點出這場轉型的核心：愛奇藝正試圖利用 AI 重新定義影視內容"
         },
         {
-          "title": "【聽過「釣魚即服務」嗎】駭客成熟分工瞄準企業資安，工具訂閱制已成最新攻擊模式",
-          "link": "https://techorange.com/2026/04/21/phishing-as-a-service-with-hacker/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-21T01:32:21+00:00",
-          "summary": "在充滿攻擊者的暗網中，一種被稱為「釣魚即服務（PhaaS）」的商業模式正悄悄崛起，想發動網路釣魚攻擊的有心份子，只要向駭客支付月費，就可以獲得許多現成的攻擊工具。"
+          "title": "不只自動化，更是採購決策重構：NEC 如何將交期變更交給 AI 秒速談判？",
+          "link": "https://techorange.com/2026/04/22/ai-machine-buyers-nec/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-22T01:48:41+00:00",
+          "summary": "隨著企業加速導入代理式 AI（Agentic AI），「採購」這個高度仰賴經驗與判斷的核心職能，也跟著技術進步，有所轉變。 根據科技研究與顧問公司 Gartner 最新研究，機器採購（Machine Buyers）正從概念走向實務應用，成為企業內部供應鏈優化的重要突破口。其中，日本電氣（NEC）的實驗成果，被視為這一波轉型的關鍵案例。 NEC 以 AI 代理重構談判週期 在 NEC 集團內部測試中"
         },
         {
-          "title": "AI 律所一份合約收 250 美元，大型律所每小時收 1,000 美元——這場競爭誰會贏？",
-          "link": "https://techorange.com/2026/04/21/ai-law-firm/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-21T01:32:14+00:00",
-          "summary": "律師 Ross Weiser 六個月前離開 Sullivan &amp; Cromwell，加入一間名為 Crosby 的 AI 原生法律服務公司。在那裡，合約審查由 AI 代理先跑完，他再接手處理機器尚未能判斷的法律細節。 Crosby 自稱「新型律所」，而它的運作模式，正被視為整個法律行業正在發生的轉變的縮影。 收費邏輯的根本翻轉？ Crosby 的商業模式，從第一個環節就與傳統律所背道而馳。"
+          "title": "【科技早餐】Apple 啟動接班、Amazon 再投 Anthropic，AI 權力重組一路推到算力長約",
+          "link": "https://techorange.com/2026/04/22/apple-succession-plan-as-amazon-doubles-down-on-anthropic/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-21T22:50:00+00:00",
+          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊Apple 啟動接班，Tim Cook 9 月轉任執行董事長 蘋果（Apple）宣布執行長 Tim Cook 將於 9 月 1 日交棒，由現年 50 歲的硬體主管 John Ternus 接任執行長，Cook 則轉任執行董事長。這是蘋果自 2011 年 Steve Jobs 交棒後，再次啟動最高層接班；同時，負責自研晶片的 Johny Srouj"
         },
         {
-          "title": "【科技早餐】代理型 AI 往外擴，Tesla 來台搶人、Google 重排晶片布局",
-          "link": "https://techorange.com/2026/04/21/agentic-ai-expands-outward-as-tesla-recruits-in-taiwan-and-google-reshapes-chip-strategy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-20T22:50:00+00:00",
-          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊摩根士丹利：代理型 AI 把投資從 GPU 往外推，CPU 與記憶體接棒成焦點 《路透》報導，摩根士丹利（Morgan Stanley）最新指出，隨著 AI 從生成內容進一步走向可自主執行任務的代理型 AI，資料中心的投資重心，將不再只集中在 GPU，而是逐步擴散到 CPU、記憶體，以及更廣泛的通用運算架構。摩根士丹利強調，GPU 需求依然強勁，"
+          "title": "GitHub 專案爆紅：Colleague Skill 把同事變 AI 分身，為何讓科技工作者不安？",
+          "link": "https://techorange.com/2026/04/21/colleague-skill-ai-github-dot-skill/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-21T09:10:03+00:00",
+          "summary": "中國科技圈近期出現一股「訓練 AI 分身」的風潮，導火線是一個最初名為 Colleague Skill、後升級更名為 dot-skill 的 GitHub 開源專案。該專案由上海人工智慧實驗室工程師周天翼（Tianyi Zhou）開發，聲稱可以將同事的工作技能與個性特徵「蒸餾」成可重複使用的 AI 技能包，讓 AI 代理程式模仿真實員工的工作方式。 根據《MIT Technology Review"
         },
         {
-          "title": "82% 受訪企業自認安全，卻有 88% 遇過 AI Agent 資安事件？解析背後防護落差",
-          "link": "https://techorange.com/2026/04/20/ai-agent-security-3-phases/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-20T10:28:27+00:00",
-          "summary": "企業導入 AI agent 的速度，已經遠遠超過資安架構的進化速度。一項來自《VentureBeat》的調查指出，當企業開始讓 AI Agent 具備自主執行任務、調用工具甚至跨系統操作的能力時，多數資安體系仍停留在「監控與紀錄」的階段，尚未進入真正的防護與隔離層級，這種「看得到但管不住」的狀態，正是目前企業普遍的資安結構。 82% 受訪企業自認安全，同時有 88% 已發生 Agent 資安事件 "
+          "title": "鴻海機器人事業處總經理郭柳宗解析：打造「AI 原生工廠」的 4 大步驟，實踐高彈性柔性製造",
+          "link": "https://techorange.com/2026/04/21/foxconn-airobots-aifactories-digital-twins-flexible-manufacturing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-21T08:18:30+00:00",
+          "summary": "Physical AI 的進化速度與影響力正以驚人的速度重塑全球製造業。在近日（4/14）由 TechOrange 科技報橘、NVIDIA 與鴻海科技集團共同舉辦的「AI 機器人產業論壇」中，科技報橘社長戴季全引用鴻海董事長劉揚偉於美國國會山莊及矽谷論壇分享的實戰數據指出「過去一條產線通常需要 30 至 40 人操作，但在導入 AI 與自動化技術後，如今僅需約 5 人即可完成。」 顯示 AI 機器"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "日本東北地震上修至7.5！氣象廳發海嘯警報，新幹線部分停駛",
-          "link": "https://www.gvm.com.tw/article/129520",
-          "published": "2026-04-20T18:04:00",
-          "summary": "日本東北今天下午發生強震並引發海嘯警報，目前地震規模上修至7.5。發布警報各地已經陸續觀測到較大海浪，當局呼籲持續避難，切勿掉以輕心。根據日本氣象廳，下午4時53分（台北時間3時53分）左右，青森縣觀測到震度5強地震，震央位於三陸外海，震源深度約10公里。氣象廳隨即對北海道太平洋沿岸中部、青森縣太平洋沿岸及岩手縣發布海嘯警報，預測最高可達3公尺的海嘯將迅速抵達。根據氣象廳，截至下午5點41分所觀測"
+          "title": "新任蘋果CEO〉接棒庫克的特納斯是誰？他與蘋果的5個關鍵交集",
+          "link": "https://www.gvm.com.tw/article/129555",
+          "published": "2026-04-22T00:17:00",
+          "summary": "蘋果（APPLE）在今年4月迎來50週年，選在今（美國時間4/20）宣布在任15年的執行長庫克（Tim Cook）將卸任，預計從9月起轉任董事會執行主席。而新任的第八任蘋果執行長是硬體資深副總裁特納斯（John Ternus），51歲、在蘋果已有25年資歷，曾歷經創辦人賈伯斯與庫克時代。作風低調的特納斯，大眾知名度不高，但其實他陸續在蘋果締造里程碑，早被寫入蘋果50週年大書《蘋果之道》中，現在就來"
         },
         {
-          "title": "黃仁勳沒錯！史丹佛AI指數揭：中國靠開源，與美國差距變小了",
-          "link": "https://www.gvm.com.tw/article/129525",
-          "published": "2026-04-20T17:43:00",
-          "summary": "上週黃仁勳在美國知名科技Podcast「Dwarkesh Patel」中，大談中國AI技術進步引熱議，其實在美國史丹佛大學近期發表2026年的《AI指數報告》（AI Index Report），也揭示出同樣線索：中美頂尖AI表現差距正縮小，中國已成為世界AI龍頭的強力競爭者！此外，AI開發所需的算力、電力與資金成本驚人。報告也強調了台積電在全球硬體供應鏈中的核心角色，幾乎所有領先AI晶片都由台積電"
+          "title": "九年長跑終奪金！從民宿管家到世界冠軍，林紹興「超萌拉花」讓世界看見台灣",
+          "link": "https://www.gvm.com.tw/article/129554",
+          "published": "2026-04-21T18:40:00",
+          "summary": "2026 WCC世界盃拉花大賽（World Latte Art Championship）4月10日至12日在美國聖地牙哥舉行，來自世界各地33位頂尖冠軍代表參加，經過連續3天競賽，由台灣咖啡師林紹興摘下金牌，這是他九年來，第三度次闖入決賽，終於為台灣奪金！台灣時間4月13日，37歲台灣咖啡師林紹興站在世界咖啡拉花大賽（WCC）的頒獎台上，手中的金牌光芒折射出九年來的汗水，九年多來，他在台灣選拔賽"
         },
         {
-          "title": "鄭習會後北京釋出兩岸交流合作新措施，國內七大產業怎麼看？",
-          "link": "https://www.gvm.com.tw/article/129523",
-          "published": "2026-04-20T17:24:00",
-          "summary": "國民黨主席鄭麗文訪中行後，中方釋出一系列大禮包，內容包括陸客來台、鬆綁台灣農漁產品輸入限制等等，但政府回應冷淡，認為相關措施屬「統戰脅迫做法」，但產業對這樣的看法不以為意。商總理事長許舒博今（20）日邀集觀光、遊覽車、蔬果、糕餅……等七大產業公協會召開記者會，呼籲台灣政府接受中國近期釋出的惠台措施。他表示，政府不應用政治的邏輯思考產業發展，「我們也是有選票的！」強調任何政黨只要站在產業的對立面，「"
+          "title": "賴清德暫緩出訪史瓦帝尼！總統府：非洲3國臨時取消飛航許可",
+          "link": "https://www.gvm.com.tw/article/129551",
+          "published": "2026-04-21T18:23:00",
+          "summary": "總統賴清德原訂4月22日至27日訪問非洲友邦史瓦帝尼王國，總統府秘書長潘孟安晚間臨時召開記者會指出，總統出訪專機航程途經塞席爾、模里西斯與馬達加斯加等3國臨時取消飛航許可，經考量元首安全、訪團飛航安全，決定行程暫緩，賴總統另外將指派特使出席史瓦帝尼雙慶典活動。今年是台灣與史瓦帝尼建交58週年，為慶祝史瓦帝尼國王恩史瓦帝三世（King Mswati III）登基40週年，以及史王58歲華誕慶典，史瓦"
         },
         {
-          "title": "沒有《穿著Prada的惡魔》就沒有現在的她？艾蜜莉布朗20年後感動回憶：導演當年選中我改變了一切",
-          "link": "https://www.gvm.com.tw/article/129524",
-          "published": "2026-04-20T17:19:00",
-          "summary": "2006年到2026年，電影《穿著Prada的惡魔》時隔20年感動回歸，梅莉史翠普、安海瑟薇、艾蜜莉布朗及史丹利圖奇都回來了，還有什麼比這個更感動的事？如果說，2006年的《穿著Prada的惡魔》（The Devil Wears Prada）曾經替無數觀眾打開一扇窺探時尚產業的窗口，那麼20年後的續集，則更像是一場關於時間、選擇與成長的回望。當年由梅莉史翠普（Meryl Streep）詮釋的米蘭達"
+          "title": "黃仁勳爆氣全解析》25歲網紅戰他AI界五大假設，哪些戳破？",
+          "link": "https://www.gvm.com.tw/article/129550",
+          "published": "2026-04-21T18:05:00",
+          "summary": "在16日輝達執行長黃仁勳擔任美國知名科技Podcast「Dwarkesh Patel」嘉賓，現年25歲、以直言作風聞名的主持人巴特爾，在訪談中不斷詢問黃仁勳多個美國矽谷AI界長年提倡的五大說法，從輝達GPU是否最領先？到中美競爭AI的真相、人工智慧取代白領就業？該管制晶片出口等。這場精彩論辯一一戳破業界領袖與政策制定者，習慣站在對自己有利立場發言的假面。到底有哪些？黃仁勳有認錯？還是年輕網紅不懂行"
         },
         {
-          "title": "跟皮克敏散步！2026嘉義藝術節》限定Pikmin Bloom攻略",
-          "link": "https://www.gvm.com.tw/article/129521",
-          "published": "2026-04-20T17:00:00",
-          "summary": "2026嘉義藝術節以「綻放」為主題，即將於5月1日至5月31日盛大登場。今年的藝術節首度與任天堂超人氣AR遊戲《Pikmin Bloom》跨界聯動，推出期間限定的「Pikmin Bloom 迷你散步」，把整座城市變成一座大型的尋寶散步樂園！今年的演出陣容更是超過15組頂尖藝術團隊輪番上陣。到底今年藝術節該怎麼玩？實體皮克敏周邊去哪拿？【目錄】&nbsp;2026嘉義藝術節2026嘉義藝術節｜「Pi"
+          "title": "五一勞動節連假交通攻略！高乘載管制？塞車路段？雙鐵加開班次、疏運措施一次看",
+          "link": "https://www.gvm.com.tw/article/129548",
+          "published": "2026-04-21T17:49:00",
+          "summary": "今年勞動節首次成為全國放假日，不過是軍公教、教師全都放！高公局預估首日南向車流為平日1.3倍，連假3天總交通量高達107–115百萬車公里。高乘載管制？好走時段、匝道封閉時間？容易塞車路段？高鐵台鐵加班客運優惠？一文整理讓大家輕鬆安排旅程，假期愉快、行車平安，順利到達目的地。【目錄】● 五一勞動節首次全國放假● 五一勞動節連假國道交通● 國道好走時段：幾點出發最省時？● 五一勞動節連假國道匝道管制"
         },
         {
-          "title": "2026裝修新制懶人包！沒申請不能開工？國土署澄清：既有程序未變",
-          "link": "https://www.gvm.com.tw/article/129389",
-          "published": "2026-04-20T16:30:00",
-          "summary": "4/20更新：先前傳出民眾無法自行決定裝修開工等事宜。內政部國土署日前嚴正聲明，與事實不符。目前僅針對室內裝修定型化契約草案進行研擬，目的在於防範裝修糾紛、遏止不法業者（俗稱「裝修蟑螂」），以降低履約爭議；至於既有申請程序與相關規定，均未變更。國土署提醒，室內裝修行為本該依建築法及相關辦法辦理，若遇到不肖業者惡意刁難，民眾可撥打「1950」消費者服務專線，或透過行政院消保會網站進行申訴。【目錄】●"
+          "title": "台灣沒賭場，卻成國際「荷官」人才庫？條件與薪資一次看",
+          "link": "https://www.gvm.com.tw/article/129547",
+          "published": "2026-04-21T17:20:00",
+          "summary": "實體賭場在台灣雖屬非法，不過不少大學設有與博弈、休閒遊憩管理相關的課程或特色教室，在培養觀光與休閒產業人才時，也兼具教導博弈經營管理，而海外賭場、飯店就成為這些具備博弈管理專業的學生畢業後，可選擇的求職出路選項之一。2026年4月，就有新加坡頂級飯店來台與高雄餐旅大學合辦「博弈荷官工作坊」，參加的學生得以提早卡位赴星任職，出國當荷官。到底這種專業要學什麼？年輕學生有機會因此獲取國際競爭力嗎？台灣哪"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "環保局「<b>淨零</b>拚轉型節電3%獎百萬」活動 - 台北市政府",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gov.taipei/News_Content.aspx%3Fn%3DD0042A87C2F0270A%26sms%3D78D644F2755ACCAA%26s%3DF36FE455C19B4B52&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3Hj7nkq1UkNFDOjx9xPDMB",
-          "published": "2026-04-21T02:34:38+00:00",
-          "summary": "北市節電3%獎百萬，活動期間即日起至115/12/ 31，總獎金400萬元，共400名獎項，最高可抽10萬元， 登錄電號參加活動，節電從日常生活做起!省電費又拿獎金，詳情洽同名&nbsp;..."
+          "title": "成功大學發表「百年榕樹數位孿生」成果打造校園<b>淨零</b>示範場域",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.1111.com.tw/news/jobns/165497&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0O7TKRj-Arol__Nsm-bYsK",
+          "published": "2026-04-22T00:24:36+00:00",
+          "summary": "成大測量及空間資訊學系吳治達教授帶領進行「百年榕樹數位孿生」研究，運用地理空間人工智慧（Geo-AI）與數位孿生（Digital Twin）技術，精準掌握樹木碳匯..."
         },
         {
-          "title": "碳費5月開繳估首年收45億 - 群益期貨",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.capitalfutures.com.tw/zh-tw/Financial/GlobalArticle%3FContentId%3DC26042100271%26Category%3Dall&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1vXzPpbDkcryIhMumGHMIe",
-          "published": "2026-04-21T02:17:26+00:00",
-          "summary": "環境部氣候變遷署長蔡玲儀指出，碳費首年收入預估為45 ... 氣候變遷調適政策；協助各部會推動公正轉型；辦理淨零轉型貸款利息補貼、信用保證等金融支持機制。"
+          "title": "<b>氣候變遷</b>影響挪威水產養殖產業 - 經貿透視",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.trademag.org.tw/page/newsid1/%3Fid%3D7926433%26iz%3D6&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0-SXlJwcF1ui6MQGiLntEM",
+          "published": "2026-04-22T00:20:42+00:00",
+          "summary": "依據PSNorway 挪威海洋研究所(Norwegian Institute of Marine Research)最新報告指出，氣候變遷將在未來25年對挪威水產養殖產業產生..."
         },
         {
-          "title": "最新消息-「<b>淨零</b>拚轉型節電3%獎百萬」活動 - 台北市政府",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gov.taipei/News_Content.aspx%3Fn%3DD0042A87C2F0270A%26sms%3D78D644F2755ACCAA%26s%3D7428D600ED23B47F&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3H_gnkBDdqpkzMPTGNvv9j",
-          "published": "2026-04-21T01:36:10+00:00",
-          "summary": "為鼓勵市民落實節能減碳行動，臺北市政府環境保護局辦理「淨零拚轉型節電3%獎百萬」抽獎活動，活動期間即日起至115年12月31日止，總獎金400萬元，共400名獎項，&nbsp;..."
+          "title": "環境部呼籲以「全球共作」精神加速2030年國家減碳目標",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/page/3b3c62c78849f32f/3a7f6b54-84d6-473a-82cf-38cf04fd1387&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0Cg4XGV5h-Mx95ISffr3zM",
+          "published": "2026-04-21T23:57:47+00:00",
+          "summary": "... 淨零轉型」的決心。 陳主秘致詞時分享去年巴西第30次聯合國氣候變遷大會(COP30)的主題「全球共作(Global Mutirão)」，這一詞源自南美洲原住民語言，意指&nbsp;..."
         },
         {
-          "title": "當能源不再只是發電，生質能如何走向循環系統的新角色？",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://csrone.com/topics/9871&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3rgV6RipgH3R_0mLAyKklp",
-          "published": "2026-04-21T00:41:01+00:00",
-          "summary": "在全球邁向淨零的過程中，能源轉型的焦點正從發電能力轉向能源如何與資源利用、產業結構與碳循環相互整合，生質能也因此被重新視為連結廢棄物管理與在地資源&nbsp;..."
+          "title": "南投縣府一級主管參訓ISO課程，掌握永續<b>淨零</b>轉型趨勢 - 環球日報社",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.worldnews-tw.com/page/news/show.aspx%3Fnum%3D49201%26root%3D8%26page%3D1&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1j1yjuYT5Dx9LKJTS4u16j",
+          "published": "2026-04-21T19:57:01+00:00",
+          "summary": "因應全球氣候變遷與淨零排放趨勢，嘉義縣政府今(21)日在縣府會議室辦理「ISO 14064-1:2018組織層級溫室氣體內部查證人員訓練課程」，由秘書長羅木興帶領各局處&nbsp;..."
         },
         {
-          "title": "最新消息-公務專區-公務公告 - 雲林縣環境保護局全球資訊網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ylepb.gov.tw/latestevent/index-1.asp%3FParser%3D9,3,19,18,,,1978&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3TLOKPJny3fupkgTxAOkBa",
-          "published": "2026-04-21T00:12:38+00:00",
-          "summary": "... 氣候變遷領域，校園已成為推動氣候治理與永續行動之關鍵場域，為因應氣候變遷挑戰並強化校園氣候教育推動量能，爰辦理旨揭種子教師師資培育研習活動，透過&nbsp;..."
+          "title": "住商<b>淨零</b>要來了！政府推「史上最高」減碳目標 - MSN",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.msn.com/zh-tw/news/living/%25E4%25BD%258F%25E5%2595%2586%25E6%25B7%25A8%25E9%259B%25B6%25E8%25A6%2581%25E4%25BE%2586%25E4%25BA%2586-%25E6%2594%25BF%25E5%25BA%259C%25E6%258E%25A8-%25E5%258F%25B2%25E4%25B8%258A%25E6%259C%2580%25E9%25AB%2598-%25E6%25B8%259B%25E7%25A2%25B3%25E7%259B%25AE%25E6%25A8%2599/ar-AA1ICWGi%3Fapiversion%3Dv2%26domshim%3D1%26noservercache%3D1%26noservertelemetry%3D1%26batchservertelemetry%3D1%26renderwebcomponents%3D1%26wcseo%3D1&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw07pLUtHOgbW2sSmnuq2jY5",
+          "published": "2026-04-21T19:41:41+00:00",
+          "summary": "... 氣候變遷對策委員會，內政部將報告未來推動住商淨零建築的方向，也邀請台灣永續能源研究基金會董事長簡又新專題演講，分享對於氣候變遷的觀察及因應措施。"
         },
         {
-          "title": "貝克歐HOC-R 助攻企業<b>淨零</b>轉型 - 工商時報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260421700225-439901&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Attyl3j0sHCLxGRhtY0Bq",
-          "published": "2026-04-20T19:15:07+00:00",
-          "summary": "響應4月22日世界地球日，喚起全球對氣候變遷與永續發展的重視，企業在節能減碳與ESG的具體行動，已逐步成為衡量競爭力的重要指標。德國壓縮空氣處理解決方案&nbsp;..."
+          "title": "凱基人壽「<b>淨零</b>綠生活日」首創金融業廚餘全循環應用 - 中央社",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/business/chinese/431345&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw09DVEgAaHBTX1nRrXqMEsC",
+          "published": "2026-04-21T17:40:34+00:00",
+          "summary": "「從餐桌到餐桌」創新落實循環經濟「我願意+1」實踐對環境、社會的承諾."
         }
       ]
     }
