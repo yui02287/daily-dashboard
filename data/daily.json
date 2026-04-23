@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-04-22T04:08:04.240832+00:00",
-    "date": "2026-04-22",
+    "generated_at": "2026-04-23T04:12:47.370775+00:00",
+    "date": "2026-04-23",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "從外觀到飛行動態都與真鳥無異，中國仿鳥撲翼無人機正改寫偵察戰場",
-          "link": "https://techorange.com/2026/04/22/chinas-new-bird-drones/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-22T03:01:55+00:00",
-          "summary": "在 2025 年中國軍事智慧科技博覽會上，工程師展示的仿鳥撲翼無人機，已精密到讓受過訓練的觀察者也難以辨別真偽。從遠處看來與老鷹無異的飛行器，動作自然到讓人懷疑自己看到的究竟是機器還是生物。 這種仿鳥撲翼無人機（ornithopter）的出現，不只是工程上的突破，更可能從根本上改變偵察技術的邊界（按：本文配圖為 AI 生成示意圖。） 多旋翼的侷限，催生仿生設計 商用無人機在過去十多年間以多旋翼構型"
+          "title": "【Arm 台灣黃曉剛專欄】當「雲端集權」轉向「終端自主」：無所不在的邊緣 AI，如何重塑新時代智慧生活？",
+          "link": "https://techorange.com/2026/04/23/michael-h-wong-column/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-23T02:45:00+00:00",
+          "summary": "文／Arm 台灣總裁黃曉剛 自生成式 AI 的巨浪襲來，全球科技產業陷入了一場以算力為名的「雲端軍備競賽」。然而，過去幾年 AI 的演進高度依賴「集權式」的雲端架構（Cloud-centric），雖然提供了強大運算力，但傳輸延遲的瓶頸、隱私資料外洩的隱憂，以及資料中龐大的能耗壓力，已成為智慧生活普及化的門檻。 隨著 2026 年「智慧運算新紀元」的到來，我們正在目睹一場大規模的「運算主權移轉」。A"
         },
         {
-          "title": "短影音夾擊、營收下滑的豪賭：愛奇藝宣布 5 年內讓 AI 生成大部分影視內容",
-          "link": "https://techorange.com/2026/04/22/iqiyi-goes-all-in-on-ai-content/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-22T02:10:00+00:00",
-          "summary": "愛奇藝近期宣布，預期在未來 5 年內，AI 將生成該平台大部分的電影與影視節目內容。同時，公司計畫把原有的影音 App 與網站改造成更像社群媒體的平台，主要用於承載 AI 生成內容。這項舉動被外界視為愛奇藝自 2010 年成立以來，規模最大的一次企業重整與轉型。 愛奇藝執行長龔宇對此表示：「這是十年一遇的機會，我們必須順應潮流。」這句話也點出這場轉型的核心：愛奇藝正試圖利用 AI 重新定義影視內容"
+          "title": "【AGI 競賽盲點】堆算力可能不是唯一解，腦科學的邏輯為何仍缺席？",
+          "link": "https://techorange.com/2026/04/23/understand-the-human-brain/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-23T02:26:14+00:00",
+          "summary": "全球頂尖科技公司正以數千億美元的規模追逐同一個目標：人類等級的人工智慧 Artificial General Intelligence (AGI)。至今還沒有人成功，不論是 Google、OpenAI，還是 Anthropic。 在目前在已知宇宙中，已存在一個具備通用智能的系統，那就是人類大腦，弔詭的是，我們對它的理解依然貧乏。 巨頭基礎設施戰爭開打，能源問題已失去控制 2025 年，光是 Alp"
         },
         {
-          "title": "不只自動化，更是採購決策重構：NEC 如何將交期變更交給 AI 秒速談判？",
-          "link": "https://techorange.com/2026/04/22/ai-machine-buyers-nec/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-22T01:48:41+00:00",
-          "summary": "隨著企業加速導入代理式 AI（Agentic AI），「採購」這個高度仰賴經驗與判斷的核心職能，也跟著技術進步，有所轉變。 根據科技研究與顧問公司 Gartner 最新研究，機器採購（Machine Buyers）正從概念走向實務應用，成為企業內部供應鏈優化的重要突破口。其中，日本電氣（NEC）的實驗成果，被視為這一波轉型的關鍵案例。 NEC 以 AI 代理重構談判週期 在 NEC 集團內部測試中"
+          "title": "【科技早餐】SpaceX 補戰線、台灣接單創高，AI 競爭正從開發工具一路開上道路",
+          "link": "https://techorange.com/2026/04/23/spacex-expands-ai-front-cursor-taiwan-orders-hit-record-high-ai-race-from-development-tool-to-robotaxis/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-22T22:50:00+00:00",
+          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊SpaceX 綁住 Cursor 收購選擇權，IPO 前先補上 AI 開發者戰線 SpaceX 宣布，已與 AI 編碼新創 Cursor 達成合作協議，並取得以 600 億美元收購對方的選擇權；若最終未完成交易，SpaceX 仍須支付 100 億美元合作費用。雙方表示，接下來將結合 Cursor 在開發者市場的產品與分發能力，以及 xAI 的 C"
         },
         {
-          "title": "【科技早餐】Apple 啟動接班、Amazon 再投 Anthropic，AI 權力重組一路推到算力長約",
-          "link": "https://techorange.com/2026/04/22/apple-succession-plan-as-amazon-doubles-down-on-anthropic/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-21T22:50:00+00:00",
-          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊Apple 啟動接班，Tim Cook 9 月轉任執行董事長 蘋果（Apple）宣布執行長 Tim Cook 將於 9 月 1 日交棒，由現年 50 歲的硬體主管 John Ternus 接任執行長，Cook 則轉任執行董事長。這是蘋果自 2011 年 Steve Jobs 交棒後，再次啟動最高層接班；同時，負責自研晶片的 Johny Srouj"
+          "title": "【Google 第 8 代 TPU 來了】訓練與推論分流、效能比上代快 3 倍，支撐為 AI 代理而生的技術堆疊",
+          "link": "https://techorange.com/2026/04/22/google-tpu-8t-8i-cloud-next/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-22T14:51:56+00:00",
+          "summary": "在 Google Cloud Next 2026 大會即將於拉斯維加斯登場、預計吸引逾 3.5 萬名與會者之際，Google Cloud 執行長 Thomas Kurian 於會前媒體簡報中公布一系列新產品與功能，點出這次大會的核心：AI 模型的演進，正在根本性地改變人們使用 AI 的方式。 過去，模型主要用來回答問題或生成內容；如今，模型正轉向能夠自主使用工具、具備多項技能，並能代替使用者執行多"
         },
         {
-          "title": "GitHub 專案爆紅：Colleague Skill 把同事變 AI 分身，為何讓科技工作者不安？",
-          "link": "https://techorange.com/2026/04/21/colleague-skill-ai-github-dot-skill/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-21T09:10:03+00:00",
-          "summary": "中國科技圈近期出現一股「訓練 AI 分身」的風潮，導火線是一個最初名為 Colleague Skill、後升級更名為 dot-skill 的 GitHub 開源專案。該專案由上海人工智慧實驗室工程師周天翼（Tianyi Zhou）開發，聲稱可以將同事的工作技能與個性特徵「蒸餾」成可重複使用的 AI 技能包，讓 AI 代理程式模仿真實員工的工作方式。 根據《MIT Technology Review"
+          "title": "從 DoorDash 到 Stripe 的企業級穩定幣實戰：平台金流重組，正重寫全球支付軌道",
+          "link": "https://techorange.com/2026/04/22/stripe-and-paradigm-tempo-advisory-stablecoin-adoption/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-22T09:43:06+00:00",
+          "summary": "外送巨頭 DoorDash 目前經營一個橫跨全球 40 多國，且連結消費者、商家與外送員的三邊平台。在龐大的營運規模下，面對多種支付軌道並存、匯率波動與結算時間差的挑戰，金流瓶頸也隨之浮現。 為了解決這些痛點，DoorDash 選擇與近期估值達 50 億美元、由支付巨頭 Stripe 與創投 Paradigm 共同支持的區塊鏈 Tempo 合作。這項合作將先從撥款流程切入，目標是讓外送員與約聘人員"
         },
         {
-          "title": "鴻海機器人事業處總經理郭柳宗解析：打造「AI 原生工廠」的 4 大步驟，實踐高彈性柔性製造",
-          "link": "https://techorange.com/2026/04/21/foxconn-airobots-aifactories-digital-twins-flexible-manufacturing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-21T08:18:30+00:00",
-          "summary": "Physical AI 的進化速度與影響力正以驚人的速度重塑全球製造業。在近日（4/14）由 TechOrange 科技報橘、NVIDIA 與鴻海科技集團共同舉辦的「AI 機器人產業論壇」中，科技報橘社長戴季全引用鴻海董事長劉揚偉於美國國會山莊及矽谷論壇分享的實戰數據指出「過去一條產線通常需要 30 至 40 人操作，但在導入 AI 與自動化技術後，如今僅需約 5 人即可完成。」 顯示 AI 機器"
+          "title": "成衣製造的 AI 進化：不再盲目備貨，3 大面向從源頭減少浪費",
+          "link": "https://techorange.com/2026/04/22/fast-fashion-waste-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-22T08:46:21+00:00",
+          "summary": "全球時尚產業每年產生大量的廢棄物，長期被視為產業成長的代價，但其本質來自生產邏輯的結構性問題。品牌為了降低缺貨風險，往往選擇提前大量生產，導致供需長期失衡，不僅造成銷售損失，也有害環境。 如今，AI 技術正在改寫這套運作模式，結合感測器、電腦視覺與機器學習，讓機器能夠即時感知材料狀態並動態調整操作，使製造過程具備回應能力，從源頭降低浪費生產的機率。 預測需求、感應布料、品質控管，AI 驅動的製造減"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "新任蘋果CEO〉接棒庫克的特納斯是誰？他與蘋果的5個關鍵交集",
-          "link": "https://www.gvm.com.tw/article/129555",
-          "published": "2026-04-22T00:17:00",
-          "summary": "蘋果（APPLE）在今年4月迎來50週年，選在今（美國時間4/20）宣布在任15年的執行長庫克（Tim Cook）將卸任，預計從9月起轉任董事會執行主席。而新任的第八任蘋果執行長是硬體資深副總裁特納斯（John Ternus），51歲、在蘋果已有25年資歷，曾歷經創辦人賈伯斯與庫克時代。作風低調的特納斯，大眾知名度不高，但其實他陸續在蘋果締造里程碑，早被寫入蘋果50週年大書《蘋果之道》中，現在就來"
+          "title": "她離職10年、創業成功，卻仍夢到地獄前老闆──那個穿著Prada的惡魔",
+          "link": "https://www.gvm.com.tw/article/129584",
+          "published": "2026-04-22T18:52:00",
+          "summary": "安德莉亞辭去《Runway》的工作已近10年，終得擺脫那段惡夢般的歲月，逃離來自地獄的老闆米蘭達，也遠離那個曾讓她迷失自我的世界。她不再是那個疲於奔命、任人使喚的小助理，而是蛻變為獨當一面的總編輯。人生看似終於步上最完美的軌道，直到婚禮前夕，那些她以為早已甩開的過去，正一步步將她拉回曾經吞噬她的世界。（本文節錄自《穿著Prada的惡魔2》一書，作者：蘿倫．薇絲柏格／高寶出版，以下為摘文。）她從包包"
         },
         {
-          "title": "九年長跑終奪金！從民宿管家到世界冠軍，林紹興「超萌拉花」讓世界看見台灣",
-          "link": "https://www.gvm.com.tw/article/129554",
-          "published": "2026-04-21T18:40:00",
-          "summary": "2026 WCC世界盃拉花大賽（World Latte Art Championship）4月10日至12日在美國聖地牙哥舉行，來自世界各地33位頂尖冠軍代表參加，經過連續3天競賽，由台灣咖啡師林紹興摘下金牌，這是他九年來，第三度次闖入決賽，終於為台灣奪金！台灣時間4月13日，37歲台灣咖啡師林紹興站在世界咖啡拉花大賽（WCC）的頒獎台上，手中的金牌光芒折射出九年來的汗水，九年多來，他在台灣選拔賽"
+          "title": "他從小是資優生，26歲挑戰主管職卻嚐巨大挫敗？「這句話」是元凶",
+          "link": "https://www.gvm.com.tw/article/129583",
+          "published": "2026-04-22T18:16:00",
+          "summary": "領導者最大的錯覺，就是「我已經講得很清楚」。但在組員耳中，那些話是這樣的：「感覺不太對」、「再有衝擊一點」、「方向要對」、「弄得像樣一點」、「你自己想一想」……這些不是指令，只是情緒。模糊的目標，只會產生模糊的成果；模糊的行動，只會帶來內耗與疲憊。（本文節錄自《九成管理問題，都出在你沒說清楚》一書，作者：木暮太一／商周出版，以下為摘文。）自己說有點不好意思，但我從小就是典型的資優生。我總是認真上課"
         },
         {
-          "title": "賴清德暫緩出訪史瓦帝尼！總統府：非洲3國臨時取消飛航許可",
-          "link": "https://www.gvm.com.tw/article/129551",
-          "published": "2026-04-21T18:23:00",
-          "summary": "總統賴清德原訂4月22日至27日訪問非洲友邦史瓦帝尼王國，總統府秘書長潘孟安晚間臨時召開記者會指出，總統出訪專機航程途經塞席爾、模里西斯與馬達加斯加等3國臨時取消飛航許可，經考量元首安全、訪團飛航安全，決定行程暫緩，賴總統另外將指派特使出席史瓦帝尼雙慶典活動。今年是台灣與史瓦帝尼建交58週年，為慶祝史瓦帝尼國王恩史瓦帝三世（King Mswati III）登基40週年，以及史王58歲華誕慶典，史瓦"
+          "title": "「收入」並不在其中！30歲英國富翁談「夢想工作」的5大關鍵要素",
+          "link": "https://www.gvm.com.tw/article/129581",
+          "published": "2026-04-22T17:50:00",
+          "summary": "作者為累計市值超過10億美元，4家頂尖企業的首席執行長及創辦人，入選《富比士》30歲以下傑出青年榜，同時是40多家公司的投資人、演說家、暢銷書作家。他歸納出「夢想工作」的5大關鍵要素，這些要素已經過心理學研究廣泛證實，確實有助於提升人類的滿足感。其中，收入並不在列，也遠遠不是「尋找熱情所在」這麼簡單。（本文節錄自《快樂性感的百萬富翁》一書，作者：史蒂文．巴列特／悅知文化出版，以下為摘文。）1.引人"
         },
         {
-          "title": "黃仁勳爆氣全解析》25歲網紅戰他AI界五大假設，哪些戳破？",
-          "link": "https://www.gvm.com.tw/article/129550",
-          "published": "2026-04-21T18:05:00",
-          "summary": "在16日輝達執行長黃仁勳擔任美國知名科技Podcast「Dwarkesh Patel」嘉賓，現年25歲、以直言作風聞名的主持人巴特爾，在訪談中不斷詢問黃仁勳多個美國矽谷AI界長年提倡的五大說法，從輝達GPU是否最領先？到中美競爭AI的真相、人工智慧取代白領就業？該管制晶片出口等。這場精彩論辯一一戳破業界領袖與政策制定者，習慣站在對自己有利立場發言的假面。到底有哪些？黃仁勳有認錯？還是年輕網紅不懂行"
+          "title": "進口水果是汙染破口？吃加州葡萄、桃子前，專家建議這麼「洗」",
+          "link": "https://www.gvm.com.tw/article/129580",
+          "published": "2026-04-22T17:48:00",
+          "summary": "美國環保組織「環境工作小組」揭露，有37%受檢的加州蔬果殘留永久化學物質PFAS，台灣大宗進口的桃子、葡萄更是汙染重災區，PFAS恐致癌，並傷及免疫系統。專家建議，選購應優先認明有機標章，並以流水浸泡沖洗15分鐘，降低潛在健康風險。目錄&nbsp;● 加州蔬果37%殘留PFAS● PFAS是什麼？● 台灣仰賴加州進口水果的風險● 如何挑選及清洗進口水果？當你在超市拿起一盒來自加州的葡萄或草莓，或許"
         },
         {
-          "title": "五一勞動節連假交通攻略！高乘載管制？塞車路段？雙鐵加開班次、疏運措施一次看",
-          "link": "https://www.gvm.com.tw/article/129548",
-          "published": "2026-04-21T17:49:00",
-          "summary": "今年勞動節首次成為全國放假日，不過是軍公教、教師全都放！高公局預估首日南向車流為平日1.3倍，連假3天總交通量高達107–115百萬車公里。高乘載管制？好走時段、匝道封閉時間？容易塞車路段？高鐵台鐵加班客運優惠？一文整理讓大家輕鬆安排旅程，假期愉快、行車平安，順利到達目的地。【目錄】● 五一勞動節首次全國放假● 五一勞動節連假國道交通● 國道好走時段：幾點出發最省時？● 五一勞動節連假國道匝道管制"
+          "title": "一間基隆偏鄉小學，為何吸引板橋、新店外地生搶著就讀？",
+          "link": "https://www.gvm.com.tw/article/129579",
+          "published": "2026-04-22T17:32:00",
+          "summary": "基隆市瑪陵國小於2026年4月歡慶轉型實驗教育十週年，這所擁有百年歷史的老校，十年前曾因少子化與人口外移，瀕臨廢校。而在成為北北基第一所公辦民營實驗學校之後，如今命運翻轉，不僅學生人數翻倍，更獲基隆市實驗教育評鑑「特優」肯定。瑪陵國小是怎麼辦到的？在無法扭轉的少子化趨勢下，為何位處偏鄉的瑪陵國小，竟能吸引新北板橋、新店的學生特地前來就讀？曾從500名學子到剩40出頭，這間基隆偏鄉小學重生了。作為基"
         },
         {
-          "title": "台灣沒賭場，卻成國際「荷官」人才庫？條件與薪資一次看",
-          "link": "https://www.gvm.com.tw/article/129547",
-          "published": "2026-04-21T17:20:00",
-          "summary": "實體賭場在台灣雖屬非法，不過不少大學設有與博弈、休閒遊憩管理相關的課程或特色教室，在培養觀光與休閒產業人才時，也兼具教導博弈經營管理，而海外賭場、飯店就成為這些具備博弈管理專業的學生畢業後，可選擇的求職出路選項之一。2026年4月，就有新加坡頂級飯店來台與高雄餐旅大學合辦「博弈荷官工作坊」，參加的學生得以提早卡位赴星任職，出國當荷官。到底這種專業要學什麼？年輕學生有機會因此獲取國際競爭力嗎？台灣哪"
+          "title": "最高抵1500元！終身學習券怎麼用？登記抽籤與使用教學",
+          "link": "https://www.gvm.com.tw/article/129577",
+          "published": "2026-04-22T16:51:00",
+          "summary": "面對人口結構高齡化、少子化以及產業快速轉型，傳統教育早已無法支撐現代人漫長的職涯與人生發展。為了降低民眾參與進修的門檻，打造更具彈性的學習環境，教育部正全面升級終身學習措施，除了推出專屬成人的「30+大學」，22日更祭出高達5.4萬張的「終身學習券」及2萬張「館所通行票」。想培養第二專長？想重返校園？或者想帶全家大小免費逛博物館？《遠見》整理2026年終身學習券的必知重點一次看。目錄&nbsp;●"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "成功大學發表「百年榕樹數位孿生」成果打造校園<b>淨零</b>示範場域",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.1111.com.tw/news/jobns/165497&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0O7TKRj-Arol__Nsm-bYsK",
-          "published": "2026-04-22T00:24:36+00:00",
-          "summary": "成大測量及空間資訊學系吳治達教授帶領進行「百年榕樹數位孿生」研究，運用地理空間人工智慧（Geo-AI）與數位孿生（Digital Twin）技術，精準掌握樹木碳匯..."
+          "title": "Alfa Laval超音波防污助攻航運永續|半導體|產業新聞 - IEK產業情報網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D8%26nsl_id%3D88d454e45301419393138a1d0332afc1&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1P4EUbhtfG0jOU7aNfFOxS",
+          "published": "2026-04-22T23:48:12+00:00",
+          "summary": "AIM風光濾膜系列淨零碳排解方 &middot; 高齡船舶檢查強化最重註銷 &middot; 貨輪擱淺漏油專家會議因應 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
         },
         {
-          "title": "<b>氣候變遷</b>影響挪威水產養殖產業 - 經貿透視",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.trademag.org.tw/page/newsid1/%3Fid%3D7926433%26iz%3D6&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0-SXlJwcF1ui6MQGiLntEM",
-          "published": "2026-04-22T00:20:42+00:00",
-          "summary": "依據PSNorway 挪威海洋研究所(Norwegian Institute of Marine Research)最新報告指出，氣候變遷將在未來25年對挪威水產養殖產業產生..."
+          "title": "澎湖縣響應2026地球日！走入湖東社區食在地實踐<b>淨零</b>綠生活",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.phnes.net/%25E6%25BE%258E%25E6%25B9%2596%25E7%25B8%25A3%25E9%259F%25BF%25E6%2587%25892026%25E5%259C%25B0%25E7%2590%2583%25E6%2597%25A5%25EF%25BC%2581%25E8%25B5%25B0%25E5%2585%25A5%25E6%25B9%2596%25E6%259D%25B1%25E7%25A4%25BE%25E5%258D%2580%25E9%25A3%259F%25E5%259C%25A8%25E5%259C%25B0-%25E5%25AF%25A6%25E8%25B8%2590%25E6%25B7%25A8&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3ZJ95eWulZ5rPYBHQwNhgu",
+          "published": "2026-04-22T23:25:35+00:00",
+          "summary": "參與民眾表示，相當驚訝原來日常的飲食與每天經過的街道，都蘊含著保護環境的智慧；並且體認到即使只是個人的小小行動，也能夠對減緩氣候變遷、守護地球環境盡一份&nbsp;..."
         },
         {
-          "title": "環境部呼籲以「全球共作」精神加速2030年國家減碳目標",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/page/3b3c62c78849f32f/3a7f6b54-84d6-473a-82cf-38cf04fd1387&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0Cg4XGV5h-Mx95ISffr3zM",
-          "published": "2026-04-21T23:57:47+00:00",
-          "summary": "... 淨零轉型」的決心。 陳主秘致詞時分享去年巴西第30次聯合國氣候變遷大會(COP30)的主題「全球共作(Global Mutirão)」，這一詞源自南美洲原住民語言，意指&nbsp;..."
+          "title": "台達東莞廠區獲評國家級綠色工廠率先達成100%使用綠色電力",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://brandnews.deltaww.com/Home/BrandCircleDetail/12775&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw21JbOKvJ4cjEdY6snMXHMq",
+          "published": "2026-04-22T22:36:14+00:00",
+          "summary": "2025年度，台達東莞廠區通過節能減排、購買綠電及憑證等方式實現了100%使用再生電力，碳排放量相較基準年2021年減少92.6%，朝向2030年達成碳中和的目標邁進。"
         },
         {
-          "title": "南投縣府一級主管參訓ISO課程，掌握永續<b>淨零</b>轉型趨勢 - 環球日報社",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.worldnews-tw.com/page/news/show.aspx%3Fnum%3D49201%26root%3D8%26page%3D1&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1j1yjuYT5Dx9LKJTS4u16j",
-          "published": "2026-04-21T19:57:01+00:00",
-          "summary": "因應全球氣候變遷與淨零排放趨勢，嘉義縣政府今(21)日在縣府會議室辦理「ISO 14064-1:2018組織層級溫室氣體內部查證人員訓練課程」，由秘書長羅木興帶領各局處&nbsp;..."
+          "title": "科學家新視野－想像未來世代推碳稅減緩<b>氣候變遷</b> - Yahoo股市",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E7%25A7%2591%25E5%25AD%25B8%25E5%25AE%25B6%25E6%2596%25B0%25E8%25A6%2596%25E9%2587%258E-%25E6%2583%25B3%25E5%2583%258F%25E6%259C%25AA%25E4%25BE%2586%25E4%25B8%2596%25E4%25BB%25A3-%25E6%258E%25A8%25E7%25A2%25B3%25E7%25A8%2585%25E6%25B8%259B%25E7%25B7%25A9%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7-201000156.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1VD9h_qtEvfS5xNCuerw8b",
+          "published": "2026-04-22T21:31:30+00:00",
+          "summary": "碳稅是最有效的氣候變遷減緩工具之一，但因為帶來的經濟負擔發生在「當下」，而環境改善的效益卻多半屬於「未來」，往往面臨極大的社會阻力。"
         },
         {
-          "title": "住商<b>淨零</b>要來了！政府推「史上最高」減碳目標 - MSN",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.msn.com/zh-tw/news/living/%25E4%25BD%258F%25E5%2595%2586%25E6%25B7%25A8%25E9%259B%25B6%25E8%25A6%2581%25E4%25BE%2586%25E4%25BA%2586-%25E6%2594%25BF%25E5%25BA%259C%25E6%258E%25A8-%25E5%258F%25B2%25E4%25B8%258A%25E6%259C%2580%25E9%25AB%2598-%25E6%25B8%259B%25E7%25A2%25B3%25E7%259B%25AE%25E6%25A8%2599/ar-AA1ICWGi%3Fapiversion%3Dv2%26domshim%3D1%26noservercache%3D1%26noservertelemetry%3D1%26batchservertelemetry%3D1%26renderwebcomponents%3D1%26wcseo%3D1&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw07pLUtHOgbW2sSmnuq2jY5",
-          "published": "2026-04-21T19:41:41+00:00",
-          "summary": "... 氣候變遷對策委員會，內政部將報告未來推動住商淨零建築的方向，也邀請台灣永續能源研究基金會董事長簡又新專題演講，分享對於氣候變遷的觀察及因應措施。"
+          "title": "觀點投書：從<b>淨零</b>藍圖到循環實踐  在腳下的能源金礦中建構韌性未來| 林獻山| 評論- 風傳媒",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.storm.mg/article/11123118&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0RjcCQO57LxMWAxEfeYfgf",
+          "published": "2026-04-22T21:28:15+00:00",
+          "summary": "當全球各國相繼喊出「2050 淨零排放」的宏大目標時，人類社會已正式進入一場前所未有的生存長跑。隨著世界氣象組織（WMO）發布全球升溫警訊，加上歐盟碳邊境調整&nbsp;..."
         },
         {
-          "title": "凱基人壽「<b>淨零</b>綠生活日」首創金融業廚餘全循環應用 - 中央社",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/business/chinese/431345&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw09DVEgAaHBTX1nRrXqMEsC",
-          "published": "2026-04-21T17:40:34+00:00",
-          "summary": "「從餐桌到餐桌」創新落實循環經濟「我願意+1」實踐對環境、社會的承諾."
+          "title": "台水五區處辦理碳盤查及綠能建設邁向<b>淨零</b>未來 - 是新聞YesMedia",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.yesmedia.com.tw/%25E5%258F%25B0%25E6%25B0%25B4%25E4%25BA%2594%25E5%258D%2580%25E8%2599%2595%25E8%25BE%25A6%25E7%2590%2586%25E7%25A2%25B3%25E7%259B%25A4%25E6%259F%25A5%25E5%258F%258A%25E7%25B6%25A0%25E8%2583%25BD%25E5%25BB%25BA%25E8%25A8%25AD%25E3%2580%2580%25E9%2582%2581%25E5%2590%2591%25E6%25B7%25A8%25E9%259B%25B6%25E6%259C%25AA%25E4%25BE%2586/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1kcPAi7t07JuLzm4nxZOx2",
+          "published": "2026-04-22T21:20:04+00:00",
+          "summary": "... 台水公司第五區管理處為響應「2050淨零排放」政策，特別以實際行動愛地球的先行推動「碳盤查」，要用科學與負責任的態度守護土地。（圖/台水公司&nbsp;..."
         }
       ]
     }
