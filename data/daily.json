@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-04-23T04:12:47.370775+00:00",
-    "date": "2026-04-23",
+    "generated_at": "2026-04-24T04:17:25.017420+00:00",
+    "date": "2026-04-24",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "【Arm 台灣黃曉剛專欄】當「雲端集權」轉向「終端自主」：無所不在的邊緣 AI，如何重塑新時代智慧生活？",
-          "link": "https://techorange.com/2026/04/23/michael-h-wong-column/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-23T02:45:00+00:00",
-          "summary": "文／Arm 台灣總裁黃曉剛 自生成式 AI 的巨浪襲來，全球科技產業陷入了一場以算力為名的「雲端軍備競賽」。然而，過去幾年 AI 的演進高度依賴「集權式」的雲端架構（Cloud-centric），雖然提供了強大運算力，但傳輸延遲的瓶頸、隱私資料外洩的隱憂，以及資料中龐大的能耗壓力，已成為智慧生活普及化的門檻。 隨著 2026 年「智慧運算新紀元」的到來，我們正在目睹一場大規模的「運算主權移轉」。A"
+          "title": "Openclaw 跟 GPT 有什麼不同？為什麼可以表現得這麼好？ OpenClaw 原理大解密",
+          "link": "https://techorange.com/2026/04/24/cloudmile-openclaw-gpt-context-window/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-24T03:28:18+00:00",
+          "summary": "隨著科技日新月異，我們正加速邁入全 AI 導向的時代。過去遇到難題，我們習慣訴諸 Google 搜尋海量資訊；如今只需打開 ChatGPT 輸入指令，精準的答案便手到擒來。然而，近期有一個專案橫空出世，不僅在 GitHub 上斬獲驚人的星數（Stars），更引發各大科技媒體瘋狂轉載，那就是 OpenClaw（小龍蝦）。 OpenClaw 是什麼？ OpenClaw 是由一名奧地利工程師 Peter"
         },
         {
-          "title": "【AGI 競賽盲點】堆算力可能不是唯一解，腦科學的邏輯為何仍缺席？",
-          "link": "https://techorange.com/2026/04/23/understand-the-human-brain/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-23T02:26:14+00:00",
-          "summary": "全球頂尖科技公司正以數千億美元的規模追逐同一個目標：人類等級的人工智慧 Artificial General Intelligence (AGI)。至今還沒有人成功，不論是 Google、OpenAI，還是 Anthropic。 在目前在已知宇宙中，已存在一個具備通用智能的系統，那就是人類大腦，弔詭的是，我們對它的理解依然貧乏。 巨頭基礎設施戰爭開打，能源問題已失去控制 2025 年，光是 Alp"
+          "title": "給龍蝦穿上防彈衣 NemoClaw 如何為 OpenClaw 打造企業級安全沙盒？",
+          "link": "https://techorange.com/2026/04/24/nemoclaw-openclaw-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-24T03:27:38+00:00",
+          "summary": "NemoClaw 的基礎—— OpenClaw OpenClaw（小龍蝦）在2026年快速崛起，在短短幾個月便以驚人的速度成長成當今最受歡迎的開源的 AI Agent 平台，黃仁勳在演講中將它形容為「AI 代理的作業系統」，但像 OpenClaw 這樣的自主 AI Agent 可以發出任意網路請求、存取主機檔案系統，並呼叫任何推理端點。但如果沒有防護措施，將帶來安全、成本和合規性風險，並且隨著 A"
         },
         {
-          "title": "【科技早餐】SpaceX 補戰線、台灣接單創高，AI 競爭正從開發工具一路開上道路",
-          "link": "https://techorange.com/2026/04/23/spacex-expands-ai-front-cursor-taiwan-orders-hit-record-high-ai-race-from-development-tool-to-robotaxis/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-22T22:50:00+00:00",
-          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊SpaceX 綁住 Cursor 收購選擇權，IPO 前先補上 AI 開發者戰線 SpaceX 宣布，已與 AI 編碼新創 Cursor 達成合作協議，並取得以 600 億美元收購對方的選擇權；若最終未完成交易，SpaceX 仍須支付 100 億美元合作費用。雙方表示，接下來將結合 Cursor 在開發者市場的產品與分發能力，以及 xAI 的 C"
+          "title": "【SaaS 末日還沒到】AI 助力客製化開發，商業軟體的角色正在被重新定義",
+          "link": "https://techorange.com/2026/04/24/saaspocalypse-ai-business-software-rip/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-24T02:35:06+00:00",
+          "summary": "儘管軟體類股因為 AI 浪潮而暴跌，令投資人產生 SaaS 末日疑慮，但大型企業仍表示短時間內不會放棄 SaaS 與商業軟體，並預期透過 AI 將小型應用程式與客製化服務納入企業營運日常。"
         },
         {
-          "title": "【Google 第 8 代 TPU 來了】訓練與推論分流、效能比上代快 3 倍，支撐為 AI 代理而生的技術堆疊",
-          "link": "https://techorange.com/2026/04/22/google-tpu-8t-8i-cloud-next/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-22T14:51:56+00:00",
-          "summary": "在 Google Cloud Next 2026 大會即將於拉斯維加斯登場、預計吸引逾 3.5 萬名與會者之際，Google Cloud 執行長 Thomas Kurian 於會前媒體簡報中公布一系列新產品與功能，點出這次大會的核心：AI 模型的演進，正在根本性地改變人們使用 AI 的方式。 過去，模型主要用來回答問題或生成內容；如今，模型正轉向能夠自主使用工具、具備多項技能，並能代替使用者執行多"
+          "title": "避免 1.7 萬小時停機、年省千萬美元：FedEx 的 AI 物流戰略一次看",
+          "link": "https://techorange.com/2026/04/24/fedex-ai-logistic/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-24T01:53:29+00:00",
+          "summary": "全球物流網路日益複雜，物流巨頭 FedEx 正將人工智慧逐步嵌入到各項關鍵決策流程中。FedEx 副總兼數據與人工智慧負責人 Bala Vaidyanathan 表示，目前 FedEx 每天透過 AI 系統規劃與優化約 10 萬條配送路線，涵蓋貨物流動的各個環節。 數據平台化與 RFID 應用，AI 成為物流網路的大腦 當今的物流配送模式，已從過去的分流運作轉向單一整合網路，貨量組合變得更加多元且"
         },
         {
-          "title": "從 DoorDash 到 Stripe 的企業級穩定幣實戰：平台金流重組，正重寫全球支付軌道",
-          "link": "https://techorange.com/2026/04/22/stripe-and-paradigm-tempo-advisory-stablecoin-adoption/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-22T09:43:06+00:00",
-          "summary": "外送巨頭 DoorDash 目前經營一個橫跨全球 40 多國，且連結消費者、商家與外送員的三邊平台。在龐大的營運規模下，面對多種支付軌道並存、匯率波動與結算時間差的挑戰，金流瓶頸也隨之浮現。 為了解決這些痛點，DoorDash 選擇與近期估值達 50 億美元、由支付巨頭 Stripe 與創投 Paradigm 共同支持的區塊鏈 Tempo 合作。這項合作將先從撥款流程切入，目標是讓外送員與約聘人員"
+          "title": "【科技早餐】Google、台積電、Tesla 一路加速，AI 競爭正式從展示走向部署",
+          "link": "https://techorange.com/2026/04/24/google-tsmc-tesla-are-accelerating/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-23T22:50:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Google Cloud 宣告 AI 實驗期結束，企業競爭轉向整合能力 Google Cloud Next 2026 在美國拉斯維加斯登場，Google Cloud 執行長 Thomas Kurian 開場就定調，AI 的實驗階段已經結束，現在真正的挑戰，是怎麼把 AI 規模化部署進整個企業。這次 Google 主打「統一技術堆疊」，強調從底層晶"
         },
         {
-          "title": "成衣製造的 AI 進化：不再盲目備貨，3 大面向從源頭減少浪費",
-          "link": "https://techorange.com/2026/04/22/fast-fashion-waste-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-22T08:46:21+00:00",
-          "summary": "全球時尚產業每年產生大量的廢棄物，長期被視為產業成長的代價，但其本質來自生產邏輯的結構性問題。品牌為了降低缺貨風險，往往選擇提前大量生產，導致供需長期失衡，不僅造成銷售損失，也有害環境。 如今，AI 技術正在改寫這套運作模式，結合感測器、電腦視覺與機器學習，讓機器能夠即時感知材料狀態並動態調整操作，使製造過程具備回應能力，從源頭降低浪費生產的機率。 預測需求、感應布料、品質控管，AI 驅動的製造減"
+          "title": "讓 AI 預測準度提升 20%、記憶體需求壓縮數百倍！倫敦大學研究揭量子如何提升 AI 效能",
+          "link": "https://techorange.com/2026/04/23/ai-meets-quantum-computing-prediction/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-23T10:14:21+00:00",
+          "summary": "想要提升生成式 AI 的準確性只能靠強化模型參數與算力嗎？來自英國倫敦大學的最新研究揭示了另一條不同的技術路徑。該研究開發了一種將 AI 與量子運算相結合的方法，不只將預測準確度提升 20%，還可以將記憶體需求壓縮至原本的數百分之一，為 AI 效率與穩定性瓶頸提供新解法。 這項研究發表於學術期刊《Science Advances》，提出一套名為「量子輔助機器學習（Quantum-informed "
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "她離職10年、創業成功，卻仍夢到地獄前老闆──那個穿著Prada的惡魔",
-          "link": "https://www.gvm.com.tw/article/129584",
-          "published": "2026-04-22T18:52:00",
-          "summary": "安德莉亞辭去《Runway》的工作已近10年，終得擺脫那段惡夢般的歲月，逃離來自地獄的老闆米蘭達，也遠離那個曾讓她迷失自我的世界。她不再是那個疲於奔命、任人使喚的小助理，而是蛻變為獨當一面的總編輯。人生看似終於步上最完美的軌道，直到婚禮前夕，那些她以為早已甩開的過去，正一步步將她拉回曾經吞噬她的世界。（本文節錄自《穿著Prada的惡魔2》一書，作者：蘿倫．薇絲柏格／高寶出版，以下為摘文。）她從包包"
+          "title": "昌益事業群如何以國際標準與在地責任，預見生活新價值？",
+          "link": "https://www.gvm.com.tw/article/129417",
+          "published": "2026-04-24T00:00:00",
+          "summary": "從新竹，走入日本東京核心地段，再將世界級的建築思維帶回台灣。深耕新竹四十餘載的昌益事業群，作為新竹指標建設公司之一，正以國際視野與在地永續為雙引擎，為科技首都重新定義「家」的時代意義，更讓『新竹建設實力』正式與日本建築標準接軌。日本建築大師北山恒曾指出：「建築不應只是巨大的紀念碑，而是必須在風的流動中，與前方的環境、公園建立起和諧的共生關係。」這句話不僅是當代國際頂尖建築的核心思想，更是昌益事業群"
         },
         {
-          "title": "他從小是資優生，26歲挑戰主管職卻嚐巨大挫敗？「這句話」是元凶",
-          "link": "https://www.gvm.com.tw/article/129583",
-          "published": "2026-04-22T18:16:00",
-          "summary": "領導者最大的錯覺，就是「我已經講得很清楚」。但在組員耳中，那些話是這樣的：「感覺不太對」、「再有衝擊一點」、「方向要對」、「弄得像樣一點」、「你自己想一想」……這些不是指令，只是情緒。模糊的目標，只會產生模糊的成果；模糊的行動，只會帶來內耗與疲憊。（本文節錄自《九成管理問題，都出在你沒說清楚》一書，作者：木暮太一／商周出版，以下為摘文。）自己說有點不好意思，但我從小就是典型的資優生。我總是認真上課"
+          "title": "你是假富人或準富人？美國理財顧問：學習富人愈來愈富有的秘密",
+          "link": "https://www.gvm.com.tw/article/129612",
+          "published": "2026-04-23T18:47:00",
+          "summary": "掌管超過10億美元的金融理財顧問，對身邊高資產客戶的行為觀察：並不是每個富人都能做出聰明的財富規畫選擇。事實上，這往往正是他們聘請我的原因──因為他們需要一個以財務與財富規畫為生命的人。所以，接下來讓我們以輕鬆一點的態度，來看看富人分成哪些類型，並逐步建立我們的財務智商指數。（本文節錄自《有點錢，還要更有錢》一書，作者：加布里埃爾．沙欣／任性出版，以下為摘文。）假富人（Fake Rich）這類人就"
         },
         {
-          "title": "「收入」並不在其中！30歲英國富翁談「夢想工作」的5大關鍵要素",
-          "link": "https://www.gvm.com.tw/article/129581",
-          "published": "2026-04-22T17:50:00",
-          "summary": "作者為累計市值超過10億美元，4家頂尖企業的首席執行長及創辦人，入選《富比士》30歲以下傑出青年榜，同時是40多家公司的投資人、演說家、暢銷書作家。他歸納出「夢想工作」的5大關鍵要素，這些要素已經過心理學研究廣泛證實，確實有助於提升人類的滿足感。其中，收入並不在列，也遠遠不是「尋找熱情所在」這麼簡單。（本文節錄自《快樂性感的百萬富翁》一書，作者：史蒂文．巴列特／悅知文化出版，以下為摘文。）1.引人"
+          "title": "打造無菸世代！英國國會通過法案「17歲及以下青少年終身不得買菸」",
+          "link": "https://www.gvm.com.tw/article/129611",
+          "published": "2026-04-23T18:25:00",
+          "summary": "英國國會上下兩院已通過一項法案，將禁止現年17歲及以下的青少年在其一生中購買香菸。法新社報導，「菸草與電子煙法案」（Tobacco and Vapes Bill）旨在阻止所有2009年1月1日當天和之後出生的人（目前為17歲）吸菸。英國衛生大臣斯特里廷（Wes Streeting）稱此舉為「國家健康的歷史性時刻」，並表示這將帶來「第一個無菸世代，免於終身成癮與危害」。一旦法案獲得御准（Royal "
         },
         {
-          "title": "進口水果是汙染破口？吃加州葡萄、桃子前，專家建議這麼「洗」",
-          "link": "https://www.gvm.com.tw/article/129580",
-          "published": "2026-04-22T17:48:00",
-          "summary": "美國環保組織「環境工作小組」揭露，有37%受檢的加州蔬果殘留永久化學物質PFAS，台灣大宗進口的桃子、葡萄更是汙染重災區，PFAS恐致癌，並傷及免疫系統。專家建議，選購應優先認明有機標章，並以流水浸泡沖洗15分鐘，降低潛在健康風險。目錄&nbsp;● 加州蔬果37%殘留PFAS● PFAS是什麼？● 台灣仰賴加州進口水果的風險● 如何挑選及清洗進口水果？當你在超市拿起一盒來自加州的葡萄或草莓，或許"
+          "title": "《麥可傑克森》絕對是粉絲必看的感動！流行天王傳奇故事的5大精彩亮點",
+          "link": "https://www.gvm.com.tw/article/129602",
+          "published": "2026-04-23T17:58:00",
+          "summary": "電影《麥可傑克森》由安東尼法奎執導，賈法傑克森、柯爾曼多明戈、妮雅隆、麥爾斯泰勒主演，描述麥可傑克森從童年時期的傑克森五人組開始，一直到單飛後改變全球流行音樂市場的故事。黑色皮鞋踏出節奏、白色泡泡襪在燈光下閃爍、亮片風衣隨著旋轉映照出耀眼光芒、招牌墨鏡與一頭微捲長髮，勾勒出難以複製的輪廓：那是一個只需一個剪影，就能讓全世界瞬間辨識的身影，麥可傑克森（Michael Jackson）不只是舞台上的表"
         },
         {
-          "title": "一間基隆偏鄉小學，為何吸引板橋、新店外地生搶著就讀？",
-          "link": "https://www.gvm.com.tw/article/129579",
-          "published": "2026-04-22T17:32:00",
-          "summary": "基隆市瑪陵國小於2026年4月歡慶轉型實驗教育十週年，這所擁有百年歷史的老校，十年前曾因少子化與人口外移，瀕臨廢校。而在成為北北基第一所公辦民營實驗學校之後，如今命運翻轉，不僅學生人數翻倍，更獲基隆市實驗教育評鑑「特優」肯定。瑪陵國小是怎麼辦到的？在無法扭轉的少子化趨勢下，為何位處偏鄉的瑪陵國小，竟能吸引新北板橋、新店的學生特地前來就讀？曾從500名學子到剩40出頭，這間基隆偏鄉小學重生了。作為基"
+          "title": "COMPUTEX 2026要看什麼？黃仁勳行程、展覽時間一次看",
+          "link": "https://www.gvm.com.tw/article/129610",
+          "published": "2026-04-23T17:42:00",
+          "summary": "全球科技圈的目光再次鎖定台北！隨著COMPUTEX 2026腳步逼近，今年的展會規模不僅因南港館「塞爆」而重返世貿，更因生成式AI的全面爆發，成為名副其實的「CEO級戰場」。從NVIDIA執行長黃仁勳帶來的五層蛋糕AI架構，到英特爾、高通等大廠領軍發表的最新戰略，AI技術正從資料中心走進你的PC與終端裝置。這場AI浪潮如何從虛擬運算變成觸手可及的應用？本文整理5大焦點陣容與產業趨勢，帶您一眼看懂這"
         },
         {
-          "title": "最高抵1500元！終身學習券怎麼用？登記抽籤與使用教學",
-          "link": "https://www.gvm.com.tw/article/129577",
-          "published": "2026-04-22T16:51:00",
-          "summary": "面對人口結構高齡化、少子化以及產業快速轉型，傳統教育早已無法支撐現代人漫長的職涯與人生發展。為了降低民眾參與進修的門檻，打造更具彈性的學習環境，教育部正全面升級終身學習措施，除了推出專屬成人的「30+大學」，22日更祭出高達5.4萬張的「終身學習券」及2萬張「館所通行票」。想培養第二專長？想重返校園？或者想帶全家大小免費逛博物館？《遠見》整理2026年終身學習券的必知重點一次看。目錄&nbsp;●"
+          "title": "世界頂尖人士如何「度過假日」？不等累了才休息，在累之前就先休息",
+          "link": "https://www.gvm.com.tw/article/129609",
+          "published": "2026-04-23T17:25:00",
+          "summary": "曾任美國微軟執行董事的作者，在長期觀察了各界高階主管們的生活方式後，發現一個共通點──他們不把休假當作「無所事事」的空白時間，而是享受興趣、充實自我、創造工作原動力的策略性資源，並且區分為：積極充電（休養）、累積知識及文化（修養）的時間。（本文節錄自《世界頂尖人士如何度過他們的「假日」》一書，作者：越川慎司／悅知文化出版，以下為摘文。）在與全球頂尖上班族的交流過程中，最令我印象深刻的一點，就是他們"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "Alfa Laval超音波防污助攻航運永續|半導體|產業新聞 - IEK產業情報網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D8%26nsl_id%3D88d454e45301419393138a1d0332afc1&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1P4EUbhtfG0jOU7aNfFOxS",
-          "published": "2026-04-22T23:48:12+00:00",
-          "summary": "AIM風光濾膜系列淨零碳排解方 &middot; 高齡船舶檢查強化最重註銷 &middot; 貨輪擱淺漏油專家會議因應 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
+          "title": "中辦國辦印發《碳達峰<b>碳中和</b>綜合評價考核辦法》",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=http://politics.people.com.cn/BIG5/n1/2026/0424/c1001-40707532.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1pmAgoRJ9OmVSotV6gxd60",
+          "published": "2026-04-24T01:33:12+00:00",
+          "summary": "第五條 評價考核緊緊圍繞貫徹落實黨中央、國務院關於碳達峰碳中和的決策部署以及應對氣候變化國家自主貢獻目標開展，推動各省（自治區、直轄市）落實碳排放&nbsp;..."
         },
         {
-          "title": "澎湖縣響應2026地球日！走入湖東社區食在地實踐<b>淨零</b>綠生活",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.phnes.net/%25E6%25BE%258E%25E6%25B9%2596%25E7%25B8%25A3%25E9%259F%25BF%25E6%2587%25892026%25E5%259C%25B0%25E7%2590%2583%25E6%2597%25A5%25EF%25BC%2581%25E8%25B5%25B0%25E5%2585%25A5%25E6%25B9%2596%25E6%259D%25B1%25E7%25A4%25BE%25E5%258D%2580%25E9%25A3%259F%25E5%259C%25A8%25E5%259C%25B0-%25E5%25AF%25A6%25E8%25B8%2590%25E6%25B7%25A8&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3ZJ95eWulZ5rPYBHQwNhgu",
-          "published": "2026-04-22T23:25:35+00:00",
-          "summary": "參與民眾表示，相當驚訝原來日常的飲食與每天經過的街道，都蘊含著保護環境的智慧；並且體認到即使只是個人的小小行動，也能夠對減緩氣候變遷、守護地球環境盡一份&nbsp;..."
+          "title": "4/25-4/26夏綠地公園「現地有聲」公益活動一起用五感「聽見」低碳生活 - 台中通-最新動向",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tcpass.taichung.gov.tw/latest-trend/view%3Fuuid%3D280c9454-9b10-4348-9854-ddf29791a8ea&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw02BsQOXEKk5w9rhN5HjOo5",
+          "published": "2026-04-24T01:27:12+00:00",
+          "summary": "低碳生活市集：集結在地品牌，讓「減碳」不再只是制度或口號，而是每一天的生活選擇。 • 闖 關 任 務：透過「淨零綠生活行動指引」探索低碳撇步，還能透過情境問答&nbsp;..."
         },
         {
-          "title": "台達東莞廠區獲評國家級綠色工廠率先達成100%使用綠色電力",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://brandnews.deltaww.com/Home/BrandCircleDetail/12775&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw21JbOKvJ4cjEdY6snMXHMq",
-          "published": "2026-04-22T22:36:14+00:00",
-          "summary": "2025年度，台達東莞廠區通過節能減排、購買綠電及憑證等方式實現了100%使用再生電力，碳排放量相較基準年2021年減少92.6%，朝向2030年達成碳中和的目標邁進。"
+          "title": "工研院抗菌新材料<b>淨零</b>永續關鍵解方 - IEK產業情報網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D5%26nsl_id%3Deb2df897933d4057a1bcf15c373f6286&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3MD_EBuCCVi8QUagiAkUas",
+          "published": "2026-04-24T00:37:11+00:00",
+          "summary": "... 淨零碳排與永續發展提供關鍵解方。 杜子邦表示，NaPoGlass的核心在於材料轉化技術 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
         },
         {
-          "title": "科學家新視野－想像未來世代推碳稅減緩<b>氣候變遷</b> - Yahoo股市",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E7%25A7%2591%25E5%25AD%25B8%25E5%25AE%25B6%25E6%2596%25B0%25E8%25A6%2596%25E9%2587%258E-%25E6%2583%25B3%25E5%2583%258F%25E6%259C%25AA%25E4%25BE%2586%25E4%25B8%2596%25E4%25BB%25A3-%25E6%258E%25A8%25E7%25A2%25B3%25E7%25A8%2585%25E6%25B8%259B%25E7%25B7%25A9%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7-201000156.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1VD9h_qtEvfS5xNCuerw8b",
-          "published": "2026-04-22T21:31:30+00:00",
-          "summary": "碳稅是最有效的氣候變遷減緩工具之一，但因為帶來的經濟負擔發生在「當下」，而環境改善的效益卻多半屬於「未來」，往往面臨極大的社會阻力。"
+          "title": "富邦<b>淨零</b>ESG50(009809)-兆豐-城中- 券商分點進出買賣統計- 股市爆料同學會 - 理財寶",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/stock/009809%3Fs%3Dbroker%26agent%3D700W&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0PFSSiBmWaI6ugfRxeoZzR",
+          "published": "2026-04-24T00:32:37+00:00",
+          "summary": "富邦淨零ESG50(009809)-兆豐-城中進出買賣統計，觀察該券商分點對富邦淨零ESG50(009809)每日買張、買價、賣張、賣價、買賣超張、均價等資訊，藉此追蹤每日買賣&nbsp;..."
         },
         {
-          "title": "觀點投書：從<b>淨零</b>藍圖到循環實踐  在腳下的能源金礦中建構韌性未來| 林獻山| 評論- 風傳媒",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.storm.mg/article/11123118&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0RjcCQO57LxMWAxEfeYfgf",
-          "published": "2026-04-22T21:28:15+00:00",
-          "summary": "當全球各國相繼喊出「2050 淨零排放」的宏大目標時，人類社會已正式進入一場前所未有的生存長跑。隨著世界氣象組織（WMO）發布全球升溫警訊，加上歐盟碳邊境調整&nbsp;..."
+          "title": "目標2050<b>淨零</b>排放離岸風電盼綠能永續| 民視新聞網 - LINE TODAY",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/9m66gWx&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1N-GSlXdeiiHinXOSTipF6",
+          "published": "2026-04-24T00:29:14+00:00",
+          "summary": "「離岸風電」是政府相當重視的綠能發展，不過卻面臨成本昂貴，以及歐盟對於台灣離岸風電國產化有疑慮等等瓶頸；再加上台灣AI科技的綠電需求，恐怕在..."
         },
         {
-          "title": "台水五區處辦理碳盤查及綠能建設邁向<b>淨零</b>未來 - 是新聞YesMedia",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.yesmedia.com.tw/%25E5%258F%25B0%25E6%25B0%25B4%25E4%25BA%2594%25E5%258D%2580%25E8%2599%2595%25E8%25BE%25A6%25E7%2590%2586%25E7%25A2%25B3%25E7%259B%25A4%25E6%259F%25A5%25E5%258F%258A%25E7%25B6%25A0%25E8%2583%25BD%25E5%25BB%25BA%25E8%25A8%25AD%25E3%2580%2580%25E9%2582%2581%25E5%2590%2591%25E6%25B7%25A8%25E9%259B%25B6%25E6%259C%25AA%25E4%25BE%2586/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1kcPAi7t07JuLzm4nxZOx2",
-          "published": "2026-04-22T21:20:04+00:00",
-          "summary": "... 台水公司第五區管理處為響應「2050淨零排放」政策，特別以實際行動愛地球的先行推動「碳盤查」，要用科學與負責任的態度守護土地。（圖/台水公司&nbsp;..."
+          "title": "目標2050<b>淨零</b>排放離岸風電盼綠能永續 - 民視新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ftvnews.com.tw/news/detail/2026424N03M1&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2SCnEGkqFhWpFxDyMPc-pQ",
+          "published": "2026-04-24T00:04:25+00:00",
+          "summary": "「離岸風電」是政府相當重視的綠能發展，不過卻面臨成本昂貴，以及歐盟對於台灣離岸風電國產化有疑慮等等瓶頸；再加上台灣AI科技的綠電需求，恐怕在2030年將達到&nbsp;..."
         }
       ]
     }
