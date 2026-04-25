@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-04-24T04:17:25.017420+00:00",
-    "date": "2026-04-24",
+    "generated_at": "2026-04-25T03:51:54.048774+00:00",
+    "date": "2026-04-25",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
+          "title": "【史丹佛大學 2026 AI 指數報告】中美技術差距消弭、初階職位消失，企業如何重新評估 AI 風險與安全佈局？",
+          "link": "https://techorange.com/2026/04/25/2026-ai-index-report/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-24T22:29:00+00:00",
+          "summary": "史丹佛大學人工智慧研究所每年會從全球數十個資料來源，包括學術論文、產業調查、政府報告、就業數據，彙整成一份《AI 指數報告》，讓大家掌握 AI 這一年發生了什麼，而今年的版本比過去幾年都更難讓人樂觀。 技術面的消息是，模型能力持續提升，中美之間的差距已縮小到幾乎可以忽略，AI 代理開始執行過去只有人類才能完成的複雜任務。但與此同時，AI 事故的通報數量在一年內顯著攀升，初階工作者的就業機會正在系統"
+        },
+        {
+          "title": "DeepSeek V4 登場：程式生成能力稱霸開源陣營，全面支援華為昇騰產品線",
+          "link": "https://techorange.com/2026/04/24/deepseek-v4-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-24T08:51:51+00:00",
+          "summary": "DeepSeek 於本週五正式發布旗艦模型系列 V4 的預覽版，距離其 R1 推理模型引發全球 AI 市場震盪已超過一年。這次發布共包含兩個版本：擁有 1.6 兆參數的 DeepSeek-V4-Pro，以及規模較小、擁有 2,840 億參數的 DeepSeek-V4-Flash，兩者均支援 100 萬 token 的上下文窗口，並已於 Hugging Face 開源釋出。 程式撰寫能力稱霸開源陣營"
+        },
+        {
+          "title": "AI 資料中心推高排放，碳市場卻先震盪：微軟放慢採購，暴露碳移除市場的「單一買家危機」",
+          "link": "https://techorange.com/2026/04/24/how-microsoft-spooked-the-global-carbon-removal-market/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-24T08:31:59+00:00",
+          "summary": "AI 資料中心帶來的用電、建設與冷卻需求，正在大幅推升科技巨頭的碳排壓力。這不僅讓「碳移除信用」（Carbon Removal Credits）的採購成為焦點，更引發對於綠電揭露規則的激烈爭辯。 近期，身為全球最重要碳移除買家的微軟（Microsoft），傳出正在放慢部分碳移除合約談判的腳步，為仰賴單一巨頭的碳市場投下震撼彈。 AI 推高碳排，理論上也將引爆碳移除需求 國際能源總署（IEA）估計，"
+        },
+        {
+          "title": "6 週就推新 AI、推論成本砍到 1/35，拆解 OpenAI GPT-5.5 的企業端鎖定戰略",
+          "link": "https://techorange.com/2026/04/24/openai-gpt-5-5/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-24T04:43:47+00:00",
+          "summary": "OpenAI 向付費用戶推出最新 AI 模型 GPT-5.5 與 GPT-5.5 Pro，距離前一版 GPT-5.4 僅約 6 週時間，反映出前沿 AI 實驗室在爭奪企業客戶上的競爭正在迅速升溫。雖然從命名方式和 OpenAI 執行長奧特曼的公開說法來看，這次或許只是小幅升級，但實際上 GPT-5.5 在整體能力上仍有明顯提升。此外，從 OpenAI 的自我定位來看，AI 競爭的焦點也逐漸轉移，從"
+        },
+        {
+          "title": "Meta 裁員 8,000 人後，還要留下的員工訓練 AI 代理：科技業用人邏輯正在被改寫",
+          "link": "https://techorange.com/2026/04/24/meta-layoffs-8000-ai-restructuring-may-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-24T04:11:06+00:00",
+          "summary": "AI 正在引發新一波科技業裁員潮。根據職業顧問公司 Challenger, Gray &amp; Christmas 的數據，2026 年迄今已有約 3 萬名工作者因為 AI 而被裁員，在 2025 年也有近 5.5 萬個職缺受到 AI 影響。 「企業正把預算轉向 AI 投資，代價是工作機會減少，」Challenger 首席營收長 Andy Challenger 強調，在科技公司中，AI 已經開始"
+        },
+        {
           "title": "Openclaw 跟 GPT 有什麼不同？為什麼可以表現得這麼好？ OpenClaw 原理大解密",
           "link": "https://techorange.com/2026/04/24/cloudmile-openclaw-gpt-context-window/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
           "published": "2026-04-24T03:28:18+00:00",
           "summary": "隨著科技日新月異，我們正加速邁入全 AI 導向的時代。過去遇到難題，我們習慣訴諸 Google 搜尋海量資訊；如今只需打開 ChatGPT 輸入指令，精準的答案便手到擒來。然而，近期有一個專案橫空出世，不僅在 GitHub 上斬獲驚人的星數（Stars），更引發各大科技媒體瘋狂轉載，那就是 OpenClaw（小龍蝦）。 OpenClaw 是什麼？ OpenClaw 是由一名奧地利工程師 Peter"
-        },
-        {
-          "title": "給龍蝦穿上防彈衣 NemoClaw 如何為 OpenClaw 打造企業級安全沙盒？",
-          "link": "https://techorange.com/2026/04/24/nemoclaw-openclaw-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-24T03:27:38+00:00",
-          "summary": "NemoClaw 的基礎—— OpenClaw OpenClaw（小龍蝦）在2026年快速崛起，在短短幾個月便以驚人的速度成長成當今最受歡迎的開源的 AI Agent 平台，黃仁勳在演講中將它形容為「AI 代理的作業系統」，但像 OpenClaw 這樣的自主 AI Agent 可以發出任意網路請求、存取主機檔案系統，並呼叫任何推理端點。但如果沒有防護措施，將帶來安全、成本和合規性風險，並且隨著 A"
-        },
-        {
-          "title": "【SaaS 末日還沒到】AI 助力客製化開發，商業軟體的角色正在被重新定義",
-          "link": "https://techorange.com/2026/04/24/saaspocalypse-ai-business-software-rip/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-24T02:35:06+00:00",
-          "summary": "儘管軟體類股因為 AI 浪潮而暴跌，令投資人產生 SaaS 末日疑慮，但大型企業仍表示短時間內不會放棄 SaaS 與商業軟體，並預期透過 AI 將小型應用程式與客製化服務納入企業營運日常。"
-        },
-        {
-          "title": "避免 1.7 萬小時停機、年省千萬美元：FedEx 的 AI 物流戰略一次看",
-          "link": "https://techorange.com/2026/04/24/fedex-ai-logistic/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-24T01:53:29+00:00",
-          "summary": "全球物流網路日益複雜，物流巨頭 FedEx 正將人工智慧逐步嵌入到各項關鍵決策流程中。FedEx 副總兼數據與人工智慧負責人 Bala Vaidyanathan 表示，目前 FedEx 每天透過 AI 系統規劃與優化約 10 萬條配送路線，涵蓋貨物流動的各個環節。 數據平台化與 RFID 應用，AI 成為物流網路的大腦 當今的物流配送模式，已從過去的分流運作轉向單一整合網路，貨量組合變得更加多元且"
-        },
-        {
-          "title": "【科技早餐】Google、台積電、Tesla 一路加速，AI 競爭正式從展示走向部署",
-          "link": "https://techorange.com/2026/04/24/google-tsmc-tesla-are-accelerating/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-23T22:50:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Google Cloud 宣告 AI 實驗期結束，企業競爭轉向整合能力 Google Cloud Next 2026 在美國拉斯維加斯登場，Google Cloud 執行長 Thomas Kurian 開場就定調，AI 的實驗階段已經結束，現在真正的挑戰，是怎麼把 AI 規模化部署進整個企業。這次 Google 主打「統一技術堆疊」，強調從底層晶"
-        },
-        {
-          "title": "讓 AI 預測準度提升 20%、記憶體需求壓縮數百倍！倫敦大學研究揭量子如何提升 AI 效能",
-          "link": "https://techorange.com/2026/04/23/ai-meets-quantum-computing-prediction/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-23T10:14:21+00:00",
-          "summary": "想要提升生成式 AI 的準確性只能靠強化模型參數與算力嗎？來自英國倫敦大學的最新研究揭示了另一條不同的技術路徑。該研究開發了一種將 AI 與量子運算相結合的方法，不只將預測準確度提升 20%，還可以將記憶體需求壓縮至原本的數百分之一，為 AI 效率與穩定性瓶頸提供新解法。 這項研究發表於學術期刊《Science Advances》，提出一套名為「量子輔助機器學習（Quantum-informed "
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "昌益事業群如何以國際標準與在地責任，預見生活新價值？",
-          "link": "https://www.gvm.com.tw/article/129417",
-          "published": "2026-04-24T00:00:00",
-          "summary": "從新竹，走入日本東京核心地段，再將世界級的建築思維帶回台灣。深耕新竹四十餘載的昌益事業群，作為新竹指標建設公司之一，正以國際視野與在地永續為雙引擎，為科技首都重新定義「家」的時代意義，更讓『新竹建設實力』正式與日本建築標準接軌。日本建築大師北山恒曾指出：「建築不應只是巨大的紀念碑，而是必須在風的流動中，與前方的環境、公園建立起和諧的共生關係。」這句話不僅是當代國際頂尖建築的核心思想，更是昌益事業群"
+          "title": "華爾街最新熱門標的！預測市場超夯，卻引爆內線交易疑雲",
+          "link": "https://www.gvm.com.tw/article/129651",
+          "published": "2026-04-24T18:31:00",
+          "summary": "預測市場近一年快速崛起，Kalshi與Polymarket等平台交易量暴增，吸引華爾街資本進場的同時，也引發內線交易與監管爭議。從戰爭到選舉皆可下注，在資訊不對稱與監理落差下，市場正面臨信任與合規的關鍵考驗。預測市場過去一年快速擴張，逐步重塑美國博彩業，市場預估，Kalshi與Polymarket等預測平台今年交易量可望達2400億美元，2030年突破兆元門檻。預測平台的投注範疇無所不包，包括熱門"
         },
         {
-          "title": "你是假富人或準富人？美國理財顧問：學習富人愈來愈富有的秘密",
-          "link": "https://www.gvm.com.tw/article/129612",
-          "published": "2026-04-23T18:47:00",
-          "summary": "掌管超過10億美元的金融理財顧問，對身邊高資產客戶的行為觀察：並不是每個富人都能做出聰明的財富規畫選擇。事實上，這往往正是他們聘請我的原因──因為他們需要一個以財務與財富規畫為生命的人。所以，接下來讓我們以輕鬆一點的態度，來看看富人分成哪些類型，並逐步建立我們的財務智商指數。（本文節錄自《有點錢，還要更有錢》一書，作者：加布里埃爾．沙欣／任性出版，以下為摘文。）假富人（Fake Rich）這類人就"
+          "title": "台積電證實艾司摩爾High-NA EUV太貴暫緩部署！2029年啟用亞利桑那封裝廠",
+          "link": "https://www.gvm.com.tw/article/129649",
+          "published": "2026-04-24T18:05:00",
+          "summary": "台積電（2330）今天在2026年北美技術論壇表示，為節省開支，2029 年底之前不會在晶片生產中部署艾司摩爾（ASML）最先進的微影設備，對這家荷蘭晶片設備大廠來說，無疑是一大挫折。台積電副共同營運長張曉強向媒體表示，台積電目前並無計劃採用艾司摩爾最新型的「高數值孔徑極紫外光微影設備」（High-NA EUV），這款設備單部售價高達 3.5 億歐元（約 4.1 億美元）以上。張曉強同時宣布，台積"
         },
         {
-          "title": "打造無菸世代！英國國會通過法案「17歲及以下青少年終身不得買菸」",
-          "link": "https://www.gvm.com.tw/article/129611",
-          "published": "2026-04-23T18:25:00",
-          "summary": "英國國會上下兩院已通過一項法案，將禁止現年17歲及以下的青少年在其一生中購買香菸。法新社報導，「菸草與電子煙法案」（Tobacco and Vapes Bill）旨在阻止所有2009年1月1日當天和之後出生的人（目前為17歲）吸菸。英國衛生大臣斯特里廷（Wes Streeting）稱此舉為「國家健康的歷史性時刻」，並表示這將帶來「第一個無菸世代，免於終身成癮與危害」。一旦法案獲得御准（Royal "
+          "title": "THE公布亞洲大學排行榜，台灣六校進百大！兩私校亮眼",
+          "link": "https://www.gvm.com.tw/article/129647",
+          "published": "2026-04-24T17:41:00",
+          "summary": "泰晤士高等教育（THE）4月23日公布2026亞洲大學排名，台灣有六所大學進入前百，排名最高的是「最高學府」台灣大學，名次第26名，相較去年進步四名；其餘進入亞洲百大的台灣院校，除同為頂大的新竹清華大學、陽明交通大學等校之外，還有兩所私校。綜觀整體排名，中國院校占主導地位、日韓排名稍微下滑，THE另外指出馬來西亞高校有明顯進步。THE公布亞洲大學排行榜，誰表現亮眼？在2026 THE亞洲大學排行榜"
         },
         {
-          "title": "《麥可傑克森》絕對是粉絲必看的感動！流行天王傳奇故事的5大精彩亮點",
-          "link": "https://www.gvm.com.tw/article/129602",
-          "published": "2026-04-23T17:58:00",
-          "summary": "電影《麥可傑克森》由安東尼法奎執導，賈法傑克森、柯爾曼多明戈、妮雅隆、麥爾斯泰勒主演，描述麥可傑克森從童年時期的傑克森五人組開始，一直到單飛後改變全球流行音樂市場的故事。黑色皮鞋踏出節奏、白色泡泡襪在燈光下閃爍、亮片風衣隨著旋轉映照出耀眼光芒、招牌墨鏡與一頭微捲長髮，勾勒出難以複製的輪廓：那是一個只需一個剪影，就能讓全世界瞬間辨識的身影，麥可傑克森（Michael Jackson）不只是舞台上的表"
+          "title": "70歲換駕照怎麼做？高齡駕駛驗新制將上路，流程與補助一次看",
+          "link": "https://www.gvm.com.tw/article/129642",
+          "published": "2026-04-24T16:14:00",
+          "summary": "台灣邁入超高齡社會，近年來長者交通事故頻傳，銀髮族的行車安全已成為社會高度關注的議題。為了兼顧長輩的移動需求與道路安全，交通部公路局宣布自2026年5月31日起，正式實施「高齡駕駛人管理制度改革」，其中最大的震撼彈，就是將強制換照的年齡門檻從現行的75歲下修至70歲！70歲換駕照流程到有哪些？測驗項目會不會很困難？【目錄】&nbsp;高齡駕駛新制｜3大變革有哪些？高齡駕駛新制｜輕鬆搞懂70歲換駕照"
         },
         {
-          "title": "COMPUTEX 2026要看什麼？黃仁勳行程、展覽時間一次看",
-          "link": "https://www.gvm.com.tw/article/129610",
-          "published": "2026-04-23T17:42:00",
-          "summary": "全球科技圈的目光再次鎖定台北！隨著COMPUTEX 2026腳步逼近，今年的展會規模不僅因南港館「塞爆」而重返世貿，更因生成式AI的全面爆發，成為名副其實的「CEO級戰場」。從NVIDIA執行長黃仁勳帶來的五層蛋糕AI架構，到英特爾、高通等大廠領軍發表的最新戰略，AI技術正從資料中心走進你的PC與終端裝置。這場AI浪潮如何從虛擬運算變成觸手可及的應用？本文整理5大焦點陣容與產業趨勢，帶您一眼看懂這"
+          "title": "最重情重義的好朋友！春風：拍戲根本不會賺錢，我拍電影都是為了還人情債",
+          "link": "https://www.gvm.com.tw/article/129637",
+          "published": "2026-04-24T16:09:00",
+          "summary": "無論是玖壹壹的春風還是演戲的春風，他總是能在不同的領域帶給人們深刻共鳴，或許正是這樣帶點江湖氣、卻又真誠直率的性格，讓他無論站在舞台中央，或走進角色之中，都能讓人感受到一種真實而不做作的魅力。從廟會、夜店一路唱進小巨蛋，玖壹壹的崛起，幾乎就是一段屬於台灣在地流行文化的縮影。這組由春風、洋蔥與健志組成的團體，以濃厚草根氣息為底，揉合電音、嘻哈與RAP語彙，再搭配大量台語創作，打造出極具辨識度的曲風。"
         },
         {
-          "title": "世界頂尖人士如何「度過假日」？不等累了才休息，在累之前就先休息",
-          "link": "https://www.gvm.com.tw/article/129609",
-          "published": "2026-04-23T17:25:00",
-          "summary": "曾任美國微軟執行董事的作者，在長期觀察了各界高階主管們的生活方式後，發現一個共通點──他們不把休假當作「無所事事」的空白時間，而是享受興趣、充實自我、創造工作原動力的策略性資源，並且區分為：積極充電（休養）、累積知識及文化（修養）的時間。（本文節錄自《世界頂尖人士如何度過他們的「假日」》一書，作者：越川慎司／悅知文化出版，以下為摘文。）在與全球頂尖上班族的交流過程中，最令我印象深刻的一點，就是他們"
+          "title": "人口流失「脫北潮加劇」！北市每月少掉1、2里，10年已少掉一個大安區",
+          "link": "https://www.gvm.com.tw/article/129640",
+          "published": "2026-04-24T16:06:00",
+          "summary": "台北市少子化、脫北嚴重，北市民政局長陳永德今赴議會報告，坦言北市每個月人口都在流失，每月戶籍數每月少7、8百人，最多7、8千人都有，「少掉1、2個里」。民政局也坦言，北市新生兒人數下降，房屋稅差別稅率2.0新制實施，房價所得比高升都是原因。北市人口下滑原因，可分為新生兒人數下降、遷出的人口數持續增加。民政局指出，出生人數持續下降與長期趨勢有關，例如長期少子化導致育齡婦女人數遞減，造成生育動能不足、"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "中辦國辦印發《碳達峰<b>碳中和</b>綜合評價考核辦法》",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=http://politics.people.com.cn/BIG5/n1/2026/0424/c1001-40707532.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1pmAgoRJ9OmVSotV6gxd60",
-          "published": "2026-04-24T01:33:12+00:00",
-          "summary": "第五條 評價考核緊緊圍繞貫徹落實黨中央、國務院關於碳達峰碳中和的決策部署以及應對氣候變化國家自主貢獻目標開展，推動各省（自治區、直轄市）落實碳排放&nbsp;..."
+          "title": "環境部<b>淨零</b>綠領人才培育聯盟「資源循環」加值課程首班在臺師大熱烈登場",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/page/3b3c62c78849f32f/5ee254b4-7375-4f42-8dfd-04956a5a3243&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Dv7X6_dltuU89Qu--7RMK",
+          "published": "2026-04-25T02:19:34+00:00",
+          "summary": "... 淨零轉型需求，跨部會合作規劃各類「加值課程」，涵蓋「資源循環」、「氣候變遷調適」、「近零碳建築」、「節能」及「淨零綠生活」等主題，逐步強化綠領人才&nbsp;..."
         },
         {
-          "title": "4/25-4/26夏綠地公園「現地有聲」公益活動一起用五感「聽見」低碳生活 - 台中通-最新動向",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tcpass.taichung.gov.tw/latest-trend/view%3Fuuid%3D280c9454-9b10-4348-9854-ddf29791a8ea&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw02BsQOXEKk5w9rhN5HjOo5",
-          "published": "2026-04-24T01:27:12+00:00",
-          "summary": "低碳生活市集：集結在地品牌，讓「減碳」不再只是制度或口號，而是每一天的生活選擇。 • 闖 關 任 務：透過「淨零綠生活行動指引」探索低碳撇步，還能透過情境問答&nbsp;..."
+          "title": "氫豐綠能打造新世代能源解方|半導體 - IEK產業情報網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D9%26nsl_id%3Dd7b6003a461e4c1d83481246540f0535&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2X3XOXImeJREbVg__kt2zT",
+          "published": "2026-04-24T23:45:28+00:00",
+          "summary": "... 淨零趨勢需求，未來將成為資料中心備援及主力供電的重要選項。 他進一步說明，氫豐綠 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
         },
         {
-          "title": "工研院抗菌新材料<b>淨零</b>永續關鍵解方 - IEK產業情報網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D5%26nsl_id%3Deb2df897933d4057a1bcf15c373f6286&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3MD_EBuCCVi8QUagiAkUas",
-          "published": "2026-04-24T00:37:11+00:00",
-          "summary": "... 淨零碳排與永續發展提供關鍵解方。 杜子邦表示，NaPoGlass的核心在於材料轉化技術 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
+          "title": "HOYA BIT成為全球首家BSI ISO 14068-1認證<b>碳中和</b>加密貨幣交易所",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.worldjournal.com/wj/story/121347/9462060%3Ffrom%3Dwj_breaknews_index&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1appdzEAt6JDIdaWevh0Cm",
+          "published": "2026-04-24T22:48:37+00:00",
+          "summary": "台灣加密貨幣交易所HOYA BIT（禾亞數位科技）今日宣布，已通過由BSI驗證的ISO 14068-1《碳中和》國際認證，成為全球首家獲此認證的加密貨幣交易所。"
         },
         {
-          "title": "富邦<b>淨零</b>ESG50(009809)-兆豐-城中- 券商分點進出買賣統計- 股市爆料同學會 - 理財寶",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/stock/009809%3Fs%3Dbroker%26agent%3D700W&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0PFSSiBmWaI6ugfRxeoZzR",
-          "published": "2026-04-24T00:32:37+00:00",
-          "summary": "富邦淨零ESG50(009809)-兆豐-城中進出買賣統計，觀察該券商分點對富邦淨零ESG50(009809)每日買張、買價、賣張、賣價、買賣超張、均價等資訊，藉此追蹤每日買賣&nbsp;..."
+          "title": "蓬萊米命名百年共育成235品種|農業 - 僑務電子報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ocacnews.net/article/425314&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1MqjNLVQzd3ezx6YJYcVj-",
+          "published": "2026-04-24T20:12:26+00:00",
+          "summary": "農業部24日舉行「蓬萊米百週年台日國際農業技術交流合作」研討會，次長胡忠一（前右4）表示，現在面對氣候變遷，今後的育種方向是如何讓稻米適應環境挑戰&nbsp;..."
         },
         {
-          "title": "目標2050<b>淨零</b>排放離岸風電盼綠能永續| 民視新聞網 - LINE TODAY",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/9m66gWx&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1N-GSlXdeiiHinXOSTipF6",
-          "published": "2026-04-24T00:29:14+00:00",
-          "summary": "「離岸風電」是政府相當重視的綠能發展，不過卻面臨成本昂貴，以及歐盟對於台灣離岸風電國產化有疑慮等等瓶頸；再加上台灣AI科技的綠電需求，恐怕在..."
+          "title": "琴酒風味關鍵巴爾幹野生杜松子遇<b>氣候變遷</b>考驗 - Yahoo新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://hk.news.yahoo.com/%25E7%2590%25B4%25E9%2585%2592%25E9%25A2%25A8%25E5%2591%25B3%25E9%2597%259C%25E9%258D%25B5-%25E5%25B7%25B4%25E7%2588%25BE%25E5%25B9%25B9%25E9%2587%258E%25E7%2594%259F%25E6%259D%259C%25E6%259D%25BE%25E5%25AD%2590%25E9%2581%2587%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E8%2580%2583%25E9%25A9%2597-063501101.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1PrZw_NoRudDOYeLfcj777",
+          "published": "2026-04-24T19:47:47+00:00",
+          "summary": "（法新社弗拉涅23日電） 當穿梭在塞爾維亞南部丘陵的灌木叢中時，韋利奇科維奇（Slobodan Velickovic）停下腳步，仔細察看讓巴爾幹半島成為全球琴酒產業關鍵地區的&nbsp;..."
         },
         {
-          "title": "目標2050<b>淨零</b>排放離岸風電盼綠能永續 - 民視新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ftvnews.com.tw/news/detail/2026424N03M1&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2SCnEGkqFhWpFxDyMPc-pQ",
-          "published": "2026-04-24T00:04:25+00:00",
-          "summary": "「離岸風電」是政府相當重視的綠能發展，不過卻面臨成本昂貴，以及歐盟對於台灣離岸風電國產化有疑慮等等瓶頸；再加上台灣AI科技的綠電需求，恐怕在2030年將達到&nbsp;..."
+          "title": "HOYA BIT 成為全球首家BSI ISO 14068-1 認證<b>碳中和</b>加密貨幣交易所 - 區塊客",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://blockcast.it/2026/04/24/oya-bit-becomes-worlds-first-carbon-neutral-crypto-exchange-certified-by-bsi-iso-14068-1/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3oi0vpxvNfUedm-rmvO-0n",
+          "published": "2026-04-24T19:28:27+00:00",
+          "summary": "對HOYA BIT 而言，這不僅是一項永續里程碑，更代表其已將碳治理、資訊揭露與外部驗證導入品牌治理架構，為數位資產產業建立更具可驗證性的信任基礎。"
         }
       ]
     }
