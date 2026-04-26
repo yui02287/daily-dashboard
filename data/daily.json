@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-04-25T03:51:54.048774+00:00",
-    "date": "2026-04-25",
+    "generated_at": "2026-04-26T04:22:36.262299+00:00",
+    "date": "2026-04-26",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -16,36 +16,6 @@
           "link": "https://techorange.com/2026/04/25/2026-ai-index-report/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
           "published": "2026-04-24T22:29:00+00:00",
           "summary": "史丹佛大學人工智慧研究所每年會從全球數十個資料來源，包括學術論文、產業調查、政府報告、就業數據，彙整成一份《AI 指數報告》，讓大家掌握 AI 這一年發生了什麼，而今年的版本比過去幾年都更難讓人樂觀。 技術面的消息是，模型能力持續提升，中美之間的差距已縮小到幾乎可以忽略，AI 代理開始執行過去只有人類才能完成的複雜任務。但與此同時，AI 事故的通報數量在一年內顯著攀升，初階工作者的就業機會正在系統"
-        },
-        {
-          "title": "DeepSeek V4 登場：程式生成能力稱霸開源陣營，全面支援華為昇騰產品線",
-          "link": "https://techorange.com/2026/04/24/deepseek-v4-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-24T08:51:51+00:00",
-          "summary": "DeepSeek 於本週五正式發布旗艦模型系列 V4 的預覽版，距離其 R1 推理模型引發全球 AI 市場震盪已超過一年。這次發布共包含兩個版本：擁有 1.6 兆參數的 DeepSeek-V4-Pro，以及規模較小、擁有 2,840 億參數的 DeepSeek-V4-Flash，兩者均支援 100 萬 token 的上下文窗口，並已於 Hugging Face 開源釋出。 程式撰寫能力稱霸開源陣營"
-        },
-        {
-          "title": "AI 資料中心推高排放，碳市場卻先震盪：微軟放慢採購，暴露碳移除市場的「單一買家危機」",
-          "link": "https://techorange.com/2026/04/24/how-microsoft-spooked-the-global-carbon-removal-market/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-24T08:31:59+00:00",
-          "summary": "AI 資料中心帶來的用電、建設與冷卻需求，正在大幅推升科技巨頭的碳排壓力。這不僅讓「碳移除信用」（Carbon Removal Credits）的採購成為焦點，更引發對於綠電揭露規則的激烈爭辯。 近期，身為全球最重要碳移除買家的微軟（Microsoft），傳出正在放慢部分碳移除合約談判的腳步，為仰賴單一巨頭的碳市場投下震撼彈。 AI 推高碳排，理論上也將引爆碳移除需求 國際能源總署（IEA）估計，"
-        },
-        {
-          "title": "6 週就推新 AI、推論成本砍到 1/35，拆解 OpenAI GPT-5.5 的企業端鎖定戰略",
-          "link": "https://techorange.com/2026/04/24/openai-gpt-5-5/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-24T04:43:47+00:00",
-          "summary": "OpenAI 向付費用戶推出最新 AI 模型 GPT-5.5 與 GPT-5.5 Pro，距離前一版 GPT-5.4 僅約 6 週時間，反映出前沿 AI 實驗室在爭奪企業客戶上的競爭正在迅速升溫。雖然從命名方式和 OpenAI 執行長奧特曼的公開說法來看，這次或許只是小幅升級，但實際上 GPT-5.5 在整體能力上仍有明顯提升。此外，從 OpenAI 的自我定位來看，AI 競爭的焦點也逐漸轉移，從"
-        },
-        {
-          "title": "Meta 裁員 8,000 人後，還要留下的員工訓練 AI 代理：科技業用人邏輯正在被改寫",
-          "link": "https://techorange.com/2026/04/24/meta-layoffs-8000-ai-restructuring-may-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-24T04:11:06+00:00",
-          "summary": "AI 正在引發新一波科技業裁員潮。根據職業顧問公司 Challenger, Gray &amp; Christmas 的數據，2026 年迄今已有約 3 萬名工作者因為 AI 而被裁員，在 2025 年也有近 5.5 萬個職缺受到 AI 影響。 「企業正把預算轉向 AI 投資，代價是工作機會減少，」Challenger 首席營收長 Andy Challenger 強調，在科技公司中，AI 已經開始"
-        },
-        {
-          "title": "Openclaw 跟 GPT 有什麼不同？為什麼可以表現得這麼好？ OpenClaw 原理大解密",
-          "link": "https://techorange.com/2026/04/24/cloudmile-openclaw-gpt-context-window/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-24T03:28:18+00:00",
-          "summary": "隨著科技日新月異，我們正加速邁入全 AI 導向的時代。過去遇到難題，我們習慣訴諸 Google 搜尋海量資訊；如今只需打開 ChatGPT 輸入指令，精準的答案便手到擒來。然而，近期有一個專案橫空出世，不僅在 GitHub 上斬獲驚人的星數（Stars），更引發各大科技媒體瘋狂轉載，那就是 OpenClaw（小龍蝦）。 OpenClaw 是什麼？ OpenClaw 是由一名奧地利工程師 Peter"
         }
       ]
     },
@@ -54,40 +24,22 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "華爾街最新熱門標的！預測市場超夯，卻引爆內線交易疑雲",
-          "link": "https://www.gvm.com.tw/article/129651",
-          "published": "2026-04-24T18:31:00",
-          "summary": "預測市場近一年快速崛起，Kalshi與Polymarket等平台交易量暴增，吸引華爾街資本進場的同時，也引發內線交易與監管爭議。從戰爭到選舉皆可下注，在資訊不對稱與監理落差下，市場正面臨信任與合規的關鍵考驗。預測市場過去一年快速擴張，逐步重塑美國博彩業，市場預估，Kalshi與Polymarket等預測平台今年交易量可望達2400億美元，2030年突破兆元門檻。預測平台的投注範疇無所不包，包括熱門"
+          "title": "睡不飽會讓你更想吃！熬夜變胖是真的，研究：睡不到6小時每天會多吃500大卡",
+          "link": "https://www.gvm.com.tw/article/129617",
+          "published": "2026-04-25T16:00:00",
+          "summary": "研究指出，睡眠不足的人每天總能量攝取平均增加200到500大卡，進一步觀察發現，當受試者每日僅睡5.5小時，零食攝取顯著增加，且多集中在晚間7時至隔日清晨7時之間。這份敘述性回顧研究2022年發表於營養素（Nutrients）醫學界期刊，彙整2010年至2022年間無慢性疾病過重或肥胖成人，研究指出，18至60歲成人建議每晚睡眠7至9小時，平均最佳約7.5小時。隨著職業與社交需求增加，平均睡眠時間"
         },
         {
-          "title": "台積電證實艾司摩爾High-NA EUV太貴暫緩部署！2029年啟用亞利桑那封裝廠",
-          "link": "https://www.gvm.com.tw/article/129649",
-          "published": "2026-04-24T18:05:00",
-          "summary": "台積電（2330）今天在2026年北美技術論壇表示，為節省開支，2029 年底之前不會在晶片生產中部署艾司摩爾（ASML）最先進的微影設備，對這家荷蘭晶片設備大廠來說，無疑是一大挫折。台積電副共同營運長張曉強向媒體表示，台積電目前並無計劃採用艾司摩爾最新型的「高數值孔徑極紫外光微影設備」（High-NA EUV），這款設備單部售價高達 3.5 億歐元（約 4.1 億美元）以上。張曉強同時宣布，台積"
+          "title": "愈暗黑人們愈喜歡！壞人當道有證據，研究：黑暗人格者更傾向當領導者",
+          "link": "https://www.gvm.com.tw/article/129615",
+          "published": "2026-04-25T11:00:00",
+          "summary": "這幾年全世界明顯有一個共同趨勢，就是人們愈來愈喜歡壞人，無論是迪士尼角色的壞蛋成為主角，還是政治領域，擁有明顯陰暗人格特質的人，非但沒有受到排斥，反而越來越受到關注和讚賞。最近研究發現，黑暗特質的人，在職業生涯中更有可能擔任領導人，且他們收入還會更高。去年一項研究追蹤英國近&nbsp;7&nbsp;千人長達 50 年，有明確證據顯示，在學生時代表現出更多攻擊性行為、衝動或易怒的所謂「校園欺凌者」，"
         },
         {
-          "title": "THE公布亞洲大學排行榜，台灣六校進百大！兩私校亮眼",
-          "link": "https://www.gvm.com.tw/article/129647",
-          "published": "2026-04-24T17:41:00",
-          "summary": "泰晤士高等教育（THE）4月23日公布2026亞洲大學排名，台灣有六所大學進入前百，排名最高的是「最高學府」台灣大學，名次第26名，相較去年進步四名；其餘進入亞洲百大的台灣院校，除同為頂大的新竹清華大學、陽明交通大學等校之外，還有兩所私校。綜觀整體排名，中國院校占主導地位、日韓排名稍微下滑，THE另外指出馬來西亞高校有明顯進步。THE公布亞洲大學排行榜，誰表現亮眼？在2026 THE亞洲大學排行榜"
-        },
-        {
-          "title": "70歲換駕照怎麼做？高齡駕駛驗新制將上路，流程與補助一次看",
-          "link": "https://www.gvm.com.tw/article/129642",
-          "published": "2026-04-24T16:14:00",
-          "summary": "台灣邁入超高齡社會，近年來長者交通事故頻傳，銀髮族的行車安全已成為社會高度關注的議題。為了兼顧長輩的移動需求與道路安全，交通部公路局宣布自2026年5月31日起，正式實施「高齡駕駛人管理制度改革」，其中最大的震撼彈，就是將強制換照的年齡門檻從現行的75歲下修至70歲！70歲換駕照流程到有哪些？測驗項目會不會很困難？【目錄】&nbsp;高齡駕駛新制｜3大變革有哪些？高齡駕駛新制｜輕鬆搞懂70歲換駕照"
-        },
-        {
-          "title": "最重情重義的好朋友！春風：拍戲根本不會賺錢，我拍電影都是為了還人情債",
-          "link": "https://www.gvm.com.tw/article/129637",
-          "published": "2026-04-24T16:09:00",
-          "summary": "無論是玖壹壹的春風還是演戲的春風，他總是能在不同的領域帶給人們深刻共鳴，或許正是這樣帶點江湖氣、卻又真誠直率的性格，讓他無論站在舞台中央，或走進角色之中，都能讓人感受到一種真實而不做作的魅力。從廟會、夜店一路唱進小巨蛋，玖壹壹的崛起，幾乎就是一段屬於台灣在地流行文化的縮影。這組由春風、洋蔥與健志組成的團體，以濃厚草根氣息為底，揉合電音、嘻哈與RAP語彙，再搭配大量台語創作，打造出極具辨識度的曲風。"
-        },
-        {
-          "title": "人口流失「脫北潮加劇」！北市每月少掉1、2里，10年已少掉一個大安區",
-          "link": "https://www.gvm.com.tw/article/129640",
-          "published": "2026-04-24T16:06:00",
-          "summary": "台北市少子化、脫北嚴重，北市民政局長陳永德今赴議會報告，坦言北市每個月人口都在流失，每月戶籍數每月少7、8百人，最多7、8千人都有，「少掉1、2個里」。民政局也坦言，北市新生兒人數下降，房屋稅差別稅率2.0新制實施，房價所得比高升都是原因。北市人口下滑原因，可分為新生兒人數下降、遷出的人口數持續增加。民政局指出，出生人數持續下降與長期趨勢有關，例如長期少子化導致育齡婦女人數遞減，造成生育動能不足、"
+          "title": "不是年長者才會血管硬化！久坐釀禍，健檢3.8萬筆數據：30歲就出現徵兆",
+          "link": "https://www.gvm.com.tw/article/129614",
+          "published": "2026-04-25T07:00:00",
+          "summary": "血管硬化不再是高齡專利，據最新健檢大數據顯示，30歲就可能出現血管硬化，醫師呼籲透過彩虹飲食，攝取多樣化蔬菜，同時應如校園時期體育課，規律運動，保養血管逆轉風險。根據健檢機構3.8萬筆「動脈硬化儀」大數據發現，約3成受檢者已有動脈硬化；依年齡層分析，30歲族群，有10%出現動脈硬化徵兆、40歲族群攀升至21%、50歲族群達42%，顯示每增加10歲動脈硬化比例幾乎倍數成長。聯安診所心臟內科主任施奕仲"
         }
       ]
     },
@@ -96,40 +48,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "環境部<b>淨零</b>綠領人才培育聯盟「資源循環」加值課程首班在臺師大熱烈登場",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/page/3b3c62c78849f32f/5ee254b4-7375-4f42-8dfd-04956a5a3243&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Dv7X6_dltuU89Qu--7RMK",
-          "published": "2026-04-25T02:19:34+00:00",
-          "summary": "... 淨零轉型需求，跨部會合作規劃各類「加值課程」，涵蓋「資源循環」、「氣候變遷調適」、「近零碳建築」、「節能」及「淨零綠生活」等主題，逐步強化綠領人才&nbsp;..."
+          "title": "HOYA BIT奪全球首張ISO 14068-1 成<b>碳中和</b>加密交易所第一家",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://finance.ettoday.net/news/3155504&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2vmMIuxULhXmw_6z5c2pFe",
+          "published": "2026-04-25T23:26:42+00:00",
+          "summary": "台灣加密貨幣交易所HOYA BIT（禾亞數位科技）宣布，通過英國標準協會（BSI）驗證的ISO 14068-1「碳中和」國際認證，成為全球首家取得該認證的加密貨幣交易所。"
         },
         {
-          "title": "氫豐綠能打造新世代能源解方|半導體 - IEK產業情報網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D9%26nsl_id%3Dd7b6003a461e4c1d83481246540f0535&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2X3XOXImeJREbVg__kt2zT",
-          "published": "2026-04-24T23:45:28+00:00",
-          "summary": "... 淨零趨勢需求，未來將成為資料中心備援及主力供電的重要選項。 他進一步說明，氫豐綠 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
+          "title": "IEA執行董事：全球石油危機永久改變化石燃料業|半導體|產業新聞|產科國際所【IEK產業情報網】",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D7%26nsl_id%3Dd323ba3cef324d8e8c5d0cc3692071e2&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw35yqHxTJkhPwnadehiFicS",
+          "published": "2026-04-25T22:51:55+00:00",
+          "summary": "我甚至還沒談到氣候變遷的影響，單就商業角度來看，大舉投資勘探未必合理。」 智慧 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
         },
         {
-          "title": "HOYA BIT成為全球首家BSI ISO 14068-1認證<b>碳中和</b>加密貨幣交易所",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.worldjournal.com/wj/story/121347/9462060%3Ffrom%3Dwj_breaknews_index&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1appdzEAt6JDIdaWevh0Cm",
-          "published": "2026-04-24T22:48:37+00:00",
-          "summary": "台灣加密貨幣交易所HOYA BIT（禾亞數位科技）今日宣布，已通過由BSI驗證的ISO 14068-1《碳中和》國際認證，成為全球首家獲此認證的加密貨幣交易所。"
+          "title": "將評價考核作為加快經濟社會發展全面綠色轉型的重要抓手",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=http://finance.people.com.cn/BIG5/n1/2026/0426/c1004-40708723.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1QZ3wTuEDmNnwxQb7RXKCD",
+          "published": "2026-04-25T22:16:21+00:00",
+          "summary": "近日，中共中央辦公廳、國務院辦公廳印發《碳達峰碳中和綜合評價考核辦法》。國家發展改革委有關負責同志就辦法接受採訪，回答記者提問。"
         },
         {
-          "title": "蓬萊米命名百年共育成235品種|農業 - 僑務電子報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ocacnews.net/article/425314&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1MqjNLVQzd3ezx6YJYcVj-",
-          "published": "2026-04-24T20:12:26+00:00",
-          "summary": "農業部24日舉行「蓬萊米百週年台日國際農業技術交流合作」研討會，次長胡忠一（前右4）表示，現在面對氣候變遷，今後的育種方向是如何讓稻米適應環境挑戰&nbsp;..."
+          "title": "Romande Energie 2025業績簡報:EBITDA躍升25%,放眼<b>淨零</b>未來",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://hk.investing.com/news/company-news/article-93CH-1426044&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0qG1RLGX6ll0fM9rp_dktq",
+          "published": "2026-04-25T21:17:35+00:00",
+          "summary": "實現此願景的戰略藍圖如下圖所示。 公司確定影響其戰略的六大全球趨勢:氣候變遷、能源需求上升、技術進步、能源轉型、可再生能源&nbsp;..."
         },
         {
-          "title": "琴酒風味關鍵巴爾幹野生杜松子遇<b>氣候變遷</b>考驗 - Yahoo新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://hk.news.yahoo.com/%25E7%2590%25B4%25E9%2585%2592%25E9%25A2%25A8%25E5%2591%25B3%25E9%2597%259C%25E9%258D%25B5-%25E5%25B7%25B4%25E7%2588%25BE%25E5%25B9%25B9%25E9%2587%258E%25E7%2594%259F%25E6%259D%259C%25E6%259D%25BE%25E5%25AD%2590%25E9%2581%2587%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E8%2580%2583%25E9%25A9%2597-063501101.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1PrZw_NoRudDOYeLfcj777",
-          "published": "2026-04-24T19:47:47+00:00",
-          "summary": "（法新社弗拉涅23日電） 當穿梭在塞爾維亞南部丘陵的灌木叢中時，韋利奇科維奇（Slobodan Velickovic）停下腳步，仔細察看讓巴爾幹半島成為全球琴酒產業關鍵地區的&nbsp;..."
+          "title": "INNIO和<b>Net Zero</b> Innovation Hub共同完成全球首次3 MW純氫資料中心備用電源示範 - 理財寶",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/article/178417234&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw13L4aVYG73VIDNtLF8Q30U",
+          "published": "2026-04-25T21:01:33+00:00",
+          "summary": "INNIO和Net Zero Innovation Hub for Data Centers完成業界首次3 MW級純氫燃料備用電源的示範• Microsoft、Google和Data4的技術專家親臨現場觀摩測試，驗證裝置在&nbsp;..."
         },
         {
-          "title": "HOYA BIT 成為全球首家BSI ISO 14068-1 認證<b>碳中和</b>加密貨幣交易所 - 區塊客",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://blockcast.it/2026/04/24/oya-bit-becomes-worlds-first-carbon-neutral-crypto-exchange-certified-by-bsi-iso-14068-1/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3oi0vpxvNfUedm-rmvO-0n",
-          "published": "2026-04-24T19:28:27+00:00",
-          "summary": "對HOYA BIT 而言，這不僅是一項永續里程碑，更代表其已將碳治理、資訊揭露與外部驗證導入品牌治理架構，為數位資產產業建立更具可驗證性的信任基礎。"
+          "title": "「美崙八大戶」掀起花蓮綠能住宅新風潮 - 更生日報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ksnews.com.tw/e/95422&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0wu1O262M-2Xw3PXkajUGO",
+          "published": "2026-04-25T18:32:23+00:00",
+          "summary": "「美崙八大戶」掀起花蓮綠能住宅新風潮. 結合高規格耐震結構與三代同堂規劃讓回家成為享受. 記者許明鎧／報導. 在全球推動ESG淨零碳排與電動車普及的浪潮下，&nbsp;..."
         }
       ]
     }
