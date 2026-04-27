@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-04-26T04:22:36.262299+00:00",
-    "date": "2026-04-26",
+    "generated_at": "2026-04-27T04:30:48.252557+00:00",
+    "date": "2026-04-27",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,10 +12,34 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "【史丹佛大學 2026 AI 指數報告】中美技術差距消弭、初階職位消失，企業如何重新評估 AI 風險與安全佈局？",
-          "link": "https://techorange.com/2026/04/25/2026-ai-index-report/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-24T22:29:00+00:00",
-          "summary": "史丹佛大學人工智慧研究所每年會從全球數十個資料來源，包括學術論文、產業調查、政府報告、就業數據，彙整成一份《AI 指數報告》，讓大家掌握 AI 這一年發生了什麼，而今年的版本比過去幾年都更難讓人樂觀。 技術面的消息是，模型能力持續提升，中美之間的差距已縮小到幾乎可以忽略，AI 代理開始執行過去只有人類才能完成的複雜任務。但與此同時，AI 事故的通報數量在一年內顯著攀升，初階工作者的就業機會正在系統"
+          "title": "Deloitte 報告：技術優先的主管「未能」實現 AI 回報的機率高出 1.6 倍，差距來自哪裡？",
+          "link": "https://techorange.com/2026/04/27/winning-with-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-27T03:20:20+00:00",
+          "summary": "哈佛商學院的研究工作報告顯示，結構性重複任務的市場需求正在快速下滑，但可被 AI 擴增的職位需求卻逆勢成長了 20%。 領先的企業主管不再問「AI 能取代哪些人」，而是開始問，在 AI 時代，哪些人類能力變得更有價值？ 人機協作的效益，比多數人想像的更有條件 MIT 集體智能中心（CCI）發表於《自然人類行為》期刊的研究，檢視了超過 100 項人機協作實驗，得出一個令人意外的結論：平均而言，人機組"
+        },
+        {
+          "title": "宏庭科技首奪 Google Cloud 年度最佳合作夥伴獎，以 AI 跨域整合力代表台灣赴美受獎",
+          "link": "https://techorange.com/2026/04/27/microfusiontechnology-google-cloud/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-27T02:17:54+00:00",
+          "summary": "台灣雲端技術領導品牌宏庭科技（Microfusion Technology）宣布榮獲「2026 Google Cloud Partner of the Year (Taiwan)」大獎，宏庭科技團隊受邀前往美國拉斯維加斯，於 Google 全球雲端技術盛事中，代表台灣受領此項殊榮。繼 2024 年獲獎 Expansion Partners of the Year 後，宏庭科技今年首奪台灣區年度大獎"
+        },
+        {
+          "title": "一支影片帶動 4 倍銷售成長，沃爾瑪旗下 Sam’s Club 揭開 RMN 新戰場",
+          "link": "https://techorange.com/2026/04/27/rmn-ren-walmart-sams-club/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-27T01:56:23+00:00",
+          "summary": "新世代的零售媒體網絡（RMN）的競爭力已不再僅僅取決於流量大小，而在於數據的深度與體驗的廣度。Walmart 旗下 Sam’s Club 推出的 Member Access Platform（MAP），就已不只是販售廣告版位的工具，而是升級為一個橫跨線上與線下的「零售體驗網絡」（Retail Experience Network）。 這一轉變的關鍵，在於將廣告深度嵌入會員的實際購物旅程，使品牌訊息"
+        },
+        {
+          "title": "AI 氛圍編碼解決網頁排版 30 年難題，Pretext 如何徹底改變下一代網頁設計方式？",
+          "link": "https://techorange.com/2026/04/27/ai-vibe-coding-pretext-web-design/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-27T01:42:31+00:00",
+          "summary": "軟體工程師 Cheng Lou 公開劃時代的網頁設計解決方案 Pretext，它允許開發者繞過 DOM 及效能瓶頸，將網頁上的靜態文字變成近乎完全動態、允許互動且具備回饋性的動態文本。"
+        },
+        {
+          "title": "【科技早餐】Google 擬砸 400 億美元加碼 Anthropic，AI 競爭正式進入算力長約戰",
+          "link": "https://techorange.com/2026/04/27/google-plans-to-invest-up-to-40-billion-in-anthropic/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-26T22:50:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Google 擬砸 400 億美元加碼 Anthropic，AI 算力長約越綁越深 根據《彭博》報導，Google 母公司 Alphabet 計畫對 Anthropic 投資最高 400 億美元。這筆資金包含第一階段 100 億美元投資，以及未來視業務與效能里程碑追加的 300 億美元。這筆投資並非單純現金注資，也伴隨更深的硬體基礎設施綁定。 A"
         }
       ]
     },
@@ -24,22 +48,34 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "睡不飽會讓你更想吃！熬夜變胖是真的，研究：睡不到6小時每天會多吃500大卡",
-          "link": "https://www.gvm.com.tw/article/129617",
-          "published": "2026-04-25T16:00:00",
-          "summary": "研究指出，睡眠不足的人每天總能量攝取平均增加200到500大卡，進一步觀察發現，當受試者每日僅睡5.5小時，零食攝取顯著增加，且多集中在晚間7時至隔日清晨7時之間。這份敘述性回顧研究2022年發表於營養素（Nutrients）醫學界期刊，彙整2010年至2022年間無慢性疾病過重或肥胖成人，研究指出，18至60歲成人建議每晚睡眠7至9小時，平均最佳約7.5小時。隨著職業與社交需求增加，平均睡眠時間"
+          "title": "從知識到履行：致理科大以社會實踐打造影響力「公民大學」",
+          "link": "https://www.gvm.com.tw/article/129582",
+          "published": "2026-04-27T00:00:00",
+          "summary": "走進位於新北都會區的致理科技大學，這裡的教育樣貌早已跨越傳統教室的邊界。校方不再將大學社會責任（USR）視為附屬，而是深植於校務發展核心，致力打造一所具備高度社會影響力的「公民大學」。在這裡，聯合國永續發展目標與ESG理念被轉化為具體行動策略，以厚實的資源支持師生走入城鄉場域，成為解決社會問題的推進器。串聯超高齡暖心資源：3R計畫構築銀髮互助防護網針對台灣都會區急遽老化的結構性危機，致理科大並未袖"
         },
         {
-          "title": "愈暗黑人們愈喜歡！壞人當道有證據，研究：黑暗人格者更傾向當領導者",
-          "link": "https://www.gvm.com.tw/article/129615",
-          "published": "2026-04-25T11:00:00",
-          "summary": "這幾年全世界明顯有一個共同趨勢，就是人們愈來愈喜歡壞人，無論是迪士尼角色的壞蛋成為主角，還是政治領域，擁有明顯陰暗人格特質的人，非但沒有受到排斥，反而越來越受到關注和讚賞。最近研究發現，黑暗特質的人，在職業生涯中更有可能擔任領導人，且他們收入還會更高。去年一項研究追蹤英國近&nbsp;7&nbsp;千人長達 50 年，有明確證據顯示，在學生時代表現出更多攻擊性行為、衝動或易怒的所謂「校園欺凌者」，"
+          "title": "川普兩年三次遇刺！槍手背景曝光：高學歷且曾是模範教師",
+          "link": "https://www.gvm.com.tw/article/129656",
+          "published": "2026-04-26T19:18:00",
+          "summary": "川普25日出席白宮記者協會晚宴時，現場突傳槍響，加州31歲男子艾倫攜武器闖關遭特勤局制伏，川普與隨行官員緊急撤離無人受傷。嫌犯背景為高學歷補教教師，曾捐款民主黨，目前已遭起訴。事件也引發晚宴場地維安疑慮。25日（美東時間），美國總統川普（Donald Trump）在出席在華盛頓希爾頓飯店舉行的白宮記者協會年度晚宴時，約晚間8時30分現場突傳槍響。31歲加州男子艾倫（Cole Tomas Allen"
         },
         {
-          "title": "不是年長者才會血管硬化！久坐釀禍，健檢3.8萬筆數據：30歲就出現徵兆",
-          "link": "https://www.gvm.com.tw/article/129614",
-          "published": "2026-04-25T07:00:00",
-          "summary": "血管硬化不再是高齡專利，據最新健檢大數據顯示，30歲就可能出現血管硬化，醫師呼籲透過彩虹飲食，攝取多樣化蔬菜，同時應如校園時期體育課，規律運動，保養血管逆轉風險。根據健檢機構3.8萬筆「動脈硬化儀」大數據發現，約3成受檢者已有動脈硬化；依年齡層分析，30歲族群，有10%出現動脈硬化徵兆、40歲族群攀升至21%、50歲族群達42%，顯示每增加10歲動脈硬化比例幾乎倍數成長。聯安診所心臟內科主任施奕仲"
+          "title": "三星無奈！台積電產能滿載，「餐桌不留餘菜」給競爭對手",
+          "link": "https://www.gvm.com.tw/article/129622",
+          "published": "2026-04-26T16:00:00",
+          "summary": "全球人工智慧（AI）技術的爆發性成長，半導體產業的先進製程正面臨史無前例的供需失衡。根據韓國媒體近期的深入分析與報導，全球晶圓代工龍頭台積電（TSMC）2 奈米製程產能已全面滿載至 2028 年，這為長期受制於市占率落後的三星電子帶來了絕佳的「替代效應」商機。然而，台積電並未給予對手太多喘息空間，正透過大幅度的擴產與資本支出計畫，強力防堵三星藉機搶占市場占有率，就是「餐桌上不留任何一點菜給競爭對手"
+        },
+        {
+          "title": "白宮記者晚宴傳槍響！31歲加州男子「當場遭捕」川普公開槍手姓名、長相",
+          "link": "https://www.gvm.com.tw/article/129655",
+          "published": "2026-04-26T11:55:00",
+          "summary": "美國總統川普今晚出席在華府舉行的白宮記者協會晚宴時傳出槍響，川普和多名官員緊急撤離現場。他隨後發文表示，特勤局與執法部門表現出色，行動既迅速又英勇，槍手已被逮捕。川普表示，當時槍手持多件武器衝進會場，還近距離開槍擊中一名特勤人員，所幸防彈衣發揮作用才沒造成悲劇。川普（Donald Trump）在自家社群媒體平台「真實社群」（Truth Social）發文寫道：「華盛頓特區經歷了不平靜的夜晚。特勤局"
+        },
+        {
+          "title": "忙到沒空規律運動？醫：快步爬樓梯、趕公車、提重物「劇烈活動」可達同樣效果",
+          "link": "https://www.gvm.com.tw/article/129619",
+          "published": "2026-04-26T07:00:00",
+          "summary": "現代人生活忙碌，經常沒空運動。醫師指出，與其達不到運動目標而放棄，不如每天進行快步爬樓梯、趕公車、搬重物等「劇烈間歇性生活體能活動」累積5分鐘，也能改善健康。開業家醫科醫師顏佐樺20日透過新聞稿分享，自己在門診中最常聽到的困擾之一，就是「醫師，我真的沒有時間運動」。對忙碌上班族或體力衰退的高齡長者，要達到每週150分鐘中強度運動，或每日萬步目標，常都令人感到壓力倍增，許多人甚至因此放棄所有體能活動"
         }
       ]
     },
@@ -48,40 +84,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "HOYA BIT奪全球首張ISO 14068-1 成<b>碳中和</b>加密交易所第一家",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://finance.ettoday.net/news/3155504&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2vmMIuxULhXmw_6z5c2pFe",
-          "published": "2026-04-25T23:26:42+00:00",
-          "summary": "台灣加密貨幣交易所HOYA BIT（禾亞數位科技）宣布，通過英國標準協會（BSI）驗證的ISO 14068-1「碳中和」國際認證，成為全球首家取得該認證的加密貨幣交易所。"
+          "title": "中國<b>碳中和</b>發佈全球首個合規碳幣發行細節，首發5億枚，雙閉環贖回機制",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sl886.com/newstrading/4417347&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2SFPnPTIBRh-tjbrFRtZ36",
+          "published": "2026-04-27T03:24:07+00:00",
+          "summary": "幣（首發5億枚）的結構與機制  。集團旗下全資子公司Global Carbon Asset Management Co., Limited為發行人，透過新加坡DigiFT平台向合格實體定向發行，以「法定."
         },
         {
-          "title": "IEA執行董事：全球石油危機永久改變化石燃料業|半導體|產業新聞|產科國際所【IEK產業情報網】",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D7%26nsl_id%3Dd323ba3cef324d8e8c5d0cc3692071e2&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw35yqHxTJkhPwnadehiFicS",
-          "published": "2026-04-25T22:51:55+00:00",
-          "summary": "我甚至還沒談到氣候變遷的影響，單就商業角度來看，大舉投資勘探未必合理。」 智慧 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
+          "title": "中國<b>碳中和</b>與河南滑縣簽戰略協議，推六大領域綠色合作，首個微電網智慧換電項目動工",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sl886.com/newstrading/4417348&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3IRlMF2kysbdkTAiK3NRjK",
+          "published": "2026-04-27T03:24:07+00:00",
+          "summary": "協議》  ，雙方將在雙碳規劃、智慧能源、交通電動化、農業機械電動化、循環經濟及碳資產開發等六大領域展開深度合作，共同推動縣域綠色低碳循環經濟發展。"
         },
         {
-          "title": "將評價考核作為加快經濟社會發展全面綠色轉型的重要抓手",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=http://finance.people.com.cn/BIG5/n1/2026/0426/c1004-40708723.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1QZ3wTuEDmNnwxQb7RXKCD",
-          "published": "2026-04-25T22:16:21+00:00",
-          "summary": "近日，中共中央辦公廳、國務院辦公廳印發《碳達峰碳中和綜合評價考核辦法》。國家發展改革委有關負責同志就辦法接受採訪，回答記者提問。"
+          "title": "成績真的藏不住！   王道銀行今年再度拿下CDP<b>氣候變遷</b>評鑑最高A級連續三年入選標普全球 ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/ETtoday/posts/%25E5%259C%258B%25E9%259A%259B%25E8%2582%25AF%25E5%25AE%259A%25E5%2588%2586%25E4%25BA%25AB%25E4%25B8%2580%25E5%25AE%25B6%25E9%258A%2580%25E8%25A1%258C%25E6%259C%2589%25E5%25A4%259A%25E8%25AA%258D%25E7%259C%259F%25E5%2581%259A%25E6%25B0%25B8%25E7%25BA%258C%25E6%2588%2590%25E7%25B8%25BE%25E7%259C%259F%25E7%259A%2584%25E8%2597%258F%25E4%25B8%258D%25E4%25BD%258F%25E7%258E%258B%25E9%2581%2593%25E9%258A%2580%25E8%25A1%258C%25E4%25BB%258A%25E5%25B9%25B4%25E5%2586%258D%25E5%25BA%25A6%25E6%258B%25BF%25E4%25B8%258Bcdp%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E8%25A9%2595%25E9%2591%2591%25E6%259C%2580%25E9%25AB%2598a%25E7%25B4%259A%25E9%2580%25A3%25E7%25BA%258C%25E4%25B8%2589%25E5%25B9%25B4%25E5%2585%25A5%25E9%2581%25B8%25E6%25A8%2599%25E6%2599%25AE%25E5%2585%25A8%25E7%2590%2583%25E6%25B0%25B8%25E7%25BA%258C%25E5%25B9%25B4%25E9%2591%2591%25E6%259B%25B4%25E6%2599%2589%25E5%258D%2587%25E5%2585%25A8%25E7%2590%2583%25E9%258A%2580%25E8%25A1%258C%25E6%25A5%25AD%25E5%2589%258D5%25E5%25BE%259E%25E5%2585%25A7%25E9%2583%25A8%25E7%25A2%25B3%25E5%25AE%259A%25E5%2583%25B9%25E6%258A%2595%25E8%259E%258D%25E8%25B3%2587/1417034310455650/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0Men5Ajat9pwEZ25uVzjVE",
+          "published": "2026-04-27T03:23:28+00:00",
+          "summary": "王道銀行蟬聯CDP氣候變遷評鑑A級！再入選標普全球 永續年鑑晉升全球銀行業前5% | ETtoday財經雲| ... 王道銀行（O-Bank）深耕永續經營再獲國際肯定，."
         },
         {
-          "title": "Romande Energie 2025業績簡報:EBITDA躍升25%,放眼<b>淨零</b>未來",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://hk.investing.com/news/company-news/article-93CH-1426044&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0qG1RLGX6ll0fM9rp_dktq",
-          "published": "2026-04-25T21:17:35+00:00",
-          "summary": "實現此願景的戰略藍圖如下圖所示。 公司確定影響其戰略的六大全球趨勢:氣候變遷、能源需求上升、技術進步、能源轉型、可再生能源&nbsp;..."
+          "title": "中國<b>碳中和</b>(01372.HK)與滑縣人民政府簽署戰略合作協議原創 - 財華網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.finet.hk/newscenter/news_content/69eed3055a7712f5c64b3850&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3LJJFA2PVxNJDQk0mkP3R2",
+          "published": "2026-04-27T03:10:15+00:00",
+          "summary": "【財華社訊】中國碳中和(01372.HK)公佈，於2026年3月23日，集團與滑縣人民政府正式簽署《戰略合作協議》。雙方將充分發揮各自在區域治理、政策引導、資源整合&nbsp;..."
         },
         {
-          "title": "INNIO和<b>Net Zero</b> Innovation Hub共同完成全球首次3 MW純氫資料中心備用電源示範 - 理財寶",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/article/178417234&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw13L4aVYG73VIDNtLF8Q30U",
-          "published": "2026-04-25T21:01:33+00:00",
-          "summary": "INNIO和Net Zero Innovation Hub for Data Centers完成業界首次3 MW級純氫燃料備用電源的示範• Microsoft、Google和Data4的技術專家親臨現場觀摩測試，驗證裝置在&nbsp;..."
+          "title": "115年度苗栗縣推動<b>淨零</b>綠領人才培育補助辦法",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.mlepb.gov.tw/newsin.html%3Fnid%3D1310&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2HYeRDLpWjGKHuLvjx3NNr",
+          "published": "2026-04-27T03:02:34+00:00",
+          "summary": "如申請補助者為公職人員利益衝突迴避法第2條所稱「公職人員」或第3條所稱「關係人」（含監督本機關團體之民意代表及其關係人），依同法第14條第2項規定，應於申請&nbsp;..."
         },
         {
-          "title": "「美崙八大戶」掀起花蓮綠能住宅新風潮 - 更生日報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ksnews.com.tw/e/95422&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0wu1O262M-2Xw3PXkajUGO",
-          "published": "2026-04-25T18:32:23+00:00",
-          "summary": "「美崙八大戶」掀起花蓮綠能住宅新風潮. 結合高規格耐震結構與三代同堂規劃讓回家成為享受. 記者許明鎧／報導. 在全球推動ESG淨零碳排與電動車普及的浪潮下，&nbsp;..."
+          "title": "全球買主齊聚高雄2026台灣國際扣件展見證「螺絲窟」數位與<b>淨零</b>轉型實力",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.allnews.tw/news/89094&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0WfRa3NMt28omxtBgeBO0I",
+          "published": "2026-04-27T02:09:12+00:00",
+          "summary": "台灣民眾電子報| 【本報記者楊雅晴高雄報導】兩年一度的全球扣件產業盛會「2026台灣國際扣件展」於4月22日至24日在高雄展覽館登場。作為全球扣件供應鏈核心&nbsp;..."
         }
       ]
     }
