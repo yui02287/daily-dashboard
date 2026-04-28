@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-04-27T04:30:48.252557+00:00",
-    "date": "2026-04-27",
+    "generated_at": "2026-04-28T04:33:39.339160+00:00",
+    "date": "2026-04-28",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,34 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "Deloitte 報告：技術優先的主管「未能」實現 AI 回報的機率高出 1.6 倍，差距來自哪裡？",
-          "link": "https://techorange.com/2026/04/27/winning-with-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-27T03:20:20+00:00",
-          "summary": "哈佛商學院的研究工作報告顯示，結構性重複任務的市場需求正在快速下滑，但可被 AI 擴增的職位需求卻逆勢成長了 20%。 領先的企業主管不再問「AI 能取代哪些人」，而是開始問，在 AI 時代，哪些人類能力變得更有價值？ 人機協作的效益，比多數人想像的更有條件 MIT 集體智能中心（CCI）發表於《自然人類行為》期刊的研究，檢視了超過 100 項人機協作實驗，得出一個令人意外的結論：平均而言，人機組"
+          "title": "破解機器人硬體碎片化難題：EPFL 研發「運動學智慧」，讓不同機器人無縫複製技能",
+          "link": "https://techorange.com/2026/04/28/kinematic-intelligence-helps-robots-learn-their-limits/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-28T01:48:22+00:00",
+          "summary": "在多數製造現場，更換一台機器人往往代表著一切重來：不只是硬體替換，連原本已經部署完成的任務流程也必須重新編寫、校正。即使兩台機器人看起來功能相似，只要關節結構、活動範圍或運動方式稍有不同，既有程式就可能完全失效。這個長期困擾產業的問題，如今出現新的解法。 來自瑞士洛桑聯邦理工學院（EPFL）學習演算法與系統實驗室（LASA）的研究團隊提出一套名為「kinematic intelligence（運動"
         },
         {
-          "title": "宏庭科技首奪 Google Cloud 年度最佳合作夥伴獎，以 AI 跨域整合力代表台灣赴美受獎",
-          "link": "https://techorange.com/2026/04/27/microfusiontechnology-google-cloud/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-27T02:17:54+00:00",
-          "summary": "台灣雲端技術領導品牌宏庭科技（Microfusion Technology）宣布榮獲「2026 Google Cloud Partner of the Year (Taiwan)」大獎，宏庭科技團隊受邀前往美國拉斯維加斯，於 Google 全球雲端技術盛事中，代表台灣受領此項殊榮。繼 2024 年獲獎 Expansion Partners of the Year 後，宏庭科技今年首奪台灣區年度大獎"
+          "title": "【GTC 現場直擊】打造企業「HALO」資產：從算力軍備到 AI Agent 的戰略轉型新視界",
+          "link": "https://techorange.com/2026/04/28/cloudmile-gtc-halo-ai-agent-taiwan/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-28T01:46:38+00:00",
+          "summary": "2026 年 GTC 大會甫落幕，全球 AI 浪潮已從「算力競賽」轉向「落地實踐」的關鍵轉折點，當市場目光聚焦於 NVIDIA 的硬體護城河與「買硬不買軟」的投資風潮時，企業決策者必須思考，在昂貴的算力資源背後，什麼才是真正的核心競爭力？ 本文由 CloudMile 萬里雲 CEO Spencer 觀點出發，深度解析 AI Agent 時代下的 「HALO」資產定義，揭示 Token 經濟學重塑產"
         },
         {
-          "title": "一支影片帶動 4 倍銷售成長，沃爾瑪旗下 Sam’s Club 揭開 RMN 新戰場",
-          "link": "https://techorange.com/2026/04/27/rmn-ren-walmart-sams-club/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-27T01:56:23+00:00",
-          "summary": "新世代的零售媒體網絡（RMN）的競爭力已不再僅僅取決於流量大小，而在於數據的深度與體驗的廣度。Walmart 旗下 Sam’s Club 推出的 Member Access Platform（MAP），就已不只是販售廣告版位的工具，而是升級為一個橫跨線上與線下的「零售體驗網絡」（Retail Experience Network）。 這一轉變的關鍵，在於將廣告深度嵌入會員的實際購物旅程，使品牌訊息"
+          "title": "AI 不是護城河、不出海就出局！創投元老蘇拾忠：如果台灣新創只做台灣市場，創投都不投了",
+          "link": "https://techorange.com/2026/04/28/thub-su-shih-chung-podcast/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-28T01:39:03+00:00",
+          "summary": "專訪：戴季全撰稿：李昀蔚 過去談台灣新創，外界常會先想到硬體、製造、供應鏈與工程能力，但在生成式 AI、Embodied AI 與軟體模式快速改變產業規則的此刻，新創公司的競爭邏輯也正在被重新定義。本集《全新一週》邀請到 t.Hub 內科創新育成基地執行長蘇拾忠，深入分享他對台灣新創生態的第一線觀察。 根據今年 1 月 PwC Taiwan 發布的《2025 台灣新創生態圈大調查》，有超過 85%"
         },
         {
-          "title": "AI 氛圍編碼解決網頁排版 30 年難題，Pretext 如何徹底改變下一代網頁設計方式？",
-          "link": "https://techorange.com/2026/04/27/ai-vibe-coding-pretext-web-design/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-27T01:42:31+00:00",
-          "summary": "軟體工程師 Cheng Lou 公開劃時代的網頁設計解決方案 Pretext，它允許開發者繞過 DOM 及效能瓶頸，將網頁上的靜態文字變成近乎完全動態、允許互動且具備回饋性的動態文本。"
+          "title": "氛圍編碼只是開始，「語音 AI」正改寫從寫程式到企業客服的工作流程",
+          "link": "https://techorange.com/2026/04/28/voice-ai-in-vibe-coding/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-28T01:26:15+00:00",
+          "summary": "強大的 AI 語音轉文字工具，為程式設計師提供了一種全新媒介，讓他們能透過口語來開發新產品，其速度遠比單純打字來得更快，語音 AI 應用更一路深入到企業最基礎的工作流程。"
         },
         {
-          "title": "【科技早餐】Google 擬砸 400 億美元加碼 Anthropic，AI 競爭正式進入算力長約戰",
-          "link": "https://techorange.com/2026/04/27/google-plans-to-invest-up-to-40-billion-in-anthropic/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-26T22:50:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Google 擬砸 400 億美元加碼 Anthropic，AI 算力長約越綁越深 根據《彭博》報導，Google 母公司 Alphabet 計畫對 Anthropic 投資最高 400 億美元。這筆資金包含第一階段 100 億美元投資，以及未來視業務與效能里程碑追加的 300 億美元。這筆投資並非單純現金注資，也伴隨更深的硬體基礎設施綁定。 A"
+          "title": "零售業者的新難題：為何 AI 用得越多，消費者就越不信任我？",
+          "link": "https://techorange.com/2026/04/28/retailers-are-turning-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-28T01:26:03+00:00",
+          "summary": "當 AI 以前所未有的速度滲入零售業，品牌面臨的已不再是「要不要用 AI」的問題，而是「如何在使用 AI 的同時不失去消費者信任」。這正是當前零售業最核心、也最容易被誤判的矛盾。 AI 使用率上升，信任度反而下滑 根據企業顧問 Capgemini 的研究，現在每三名消費者就有一人每天使用 AI 工具超過一小時，但整體對 AI 的信任度卻在一年內從 72% 降到 58%，這是影響品牌生存與否的訊號。"
+        },
+        {
+          "title": "【科技早餐】Google 押 TPU、OpenAI 傳做手機，AI 競爭從雲端一路打到終端",
+          "link": "https://techorange.com/2026/04/28/google-bets-on-tpu-openai-rumored-to-build-phone/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-27T22:50:00+00:00",
+          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊Google 用 TPU 與 Gemini 追雲端，AI 競爭走向全堆疊戰 Google Cloud 執行長庫里安 (Thomas Kurian) 接受《金融時報》專訪表示，Google 的差異化不只是轉售其他公司的技術，而是同時擁有自研晶片、資料中心、基礎模型與企業應用。Google Cloud 目前在全球雲端市場排名第三，市占率已推升到 14"
         }
       ]
     },
@@ -48,34 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "從知識到履行：致理科大以社會實踐打造影響力「公民大學」",
-          "link": "https://www.gvm.com.tw/article/129582",
-          "published": "2026-04-27T00:00:00",
-          "summary": "走進位於新北都會區的致理科技大學，這裡的教育樣貌早已跨越傳統教室的邊界。校方不再將大學社會責任（USR）視為附屬，而是深植於校務發展核心，致力打造一所具備高度社會影響力的「公民大學」。在這裡，聯合國永續發展目標與ESG理念被轉化為具體行動策略，以厚實的資源支持師生走入城鄉場域，成為解決社會問題的推進器。串聯超高齡暖心資源：3R計畫構築銀髮互助防護網針對台灣都會區急遽老化的結構性危機，致理科大並未袖"
+          "title": "仿照MBTI的SBTI紅什麼？大陸年輕人為何躺平躺好躺滿？",
+          "link": "https://www.gvm.com.tw/article/129710",
+          "published": "2026-04-27T18:25:00",
+          "summary": "近日，一款名為SBTI的人格測驗在中國大陸引發關注。它和台灣這兩年當紅的MBTI有什麼關係？有趣的是，當一個不專業的人格測驗，讓年輕人搶著承認自己是「無所謂人」和「廢物」，是不是一整個世代對成功學的公開厭棄？「你的SBTI是什麼？」就在今年春天的某個深夜，這句話悄悄變成了熱門社交暗號。消息發酵不到24小時，相關閱讀量已破億。由於短時間內訪問量激增，測試網站的伺服器還一度崩潰。SBTI，其實是一項中"
         },
         {
-          "title": "川普兩年三次遇刺！槍手背景曝光：高學歷且曾是模範教師",
-          "link": "https://www.gvm.com.tw/article/129656",
-          "published": "2026-04-26T19:18:00",
-          "summary": "川普25日出席白宮記者協會晚宴時，現場突傳槍響，加州31歲男子艾倫攜武器闖關遭特勤局制伏，川普與隨行官員緊急撤離無人受傷。嫌犯背景為高學歷補教教師，曾捐款民主黨，目前已遭起訴。事件也引發晚宴場地維安疑慮。25日（美東時間），美國總統川普（Donald Trump）在出席在華盛頓希爾頓飯店舉行的白宮記者協會年度晚宴時，約晚間8時30分現場突傳槍響。31歲加州男子艾倫（Cole Tomas Allen"
+          "title": "他為何行刺川普？天才學霸成孤狼槍手，預告「不惜除掉多數人」",
+          "link": "https://www.gvm.com.tw/article/129709",
+          "published": "2026-04-27T17:15:00",
+          "summary": "持槍闖入白宮記者協會年度晚宴遭制伏的31歲加州男子艾倫，事前留信自稱「友善的聯邦刺客」，但揚言不惜除掉多數人；其動機則指向不滿川普政府政策與社會撕裂。他出身名校、曾為模範教師，直到近年參與政治活動後，便逐漸變得激進，開始合法購槍、規劃行動路線，最終走向犯案未遂當場被逮的下場。美國總統川普（Donald Trump）25日出席在華盛頓希爾頓飯店舉行的白宮記者協會年度晚宴時，現場突傳槍響，加州31歲男"
         },
         {
-          "title": "三星無奈！台積電產能滿載，「餐桌不留餘菜」給競爭對手",
-          "link": "https://www.gvm.com.tw/article/129622",
-          "published": "2026-04-26T16:00:00",
-          "summary": "全球人工智慧（AI）技術的爆發性成長，半導體產業的先進製程正面臨史無前例的供需失衡。根據韓國媒體近期的深入分析與報導，全球晶圓代工龍頭台積電（TSMC）2 奈米製程產能已全面滿載至 2028 年，這為長期受制於市占率落後的三星電子帶來了絕佳的「替代效應」商機。然而，台積電並未給予對手太多喘息空間，正透過大幅度的擴產與資本支出計畫，強力防堵三星藉機搶占市場占有率，就是「餐桌上不留任何一點菜給競爭對手"
+          "title": "戰鬥陀螺為什麼又紅了？資本主義的逆襲，從童年玩具變超狂軍備競賽",
+          "link": "https://www.gvm.com.tw/article/129708",
+          "published": "2026-04-27T17:04:00",
+          "summary": "「被親戚小孩嗆太爛」一篇Threads的貼文衝破百萬瀏覽、CX-16開賣10分鐘售罄、0.06克重量差引爆社群論戰！很多人小時候看過動畫或是買過陀螺。現在長大賺錢，再看到新版戰鬥陀螺，很容易被喚醒童年魂。小時候買不起整套，長大後終於可以補票，算是種童年修復？戰鬥陀螺X從童年玩具變成2026年台灣最夯的成人次文化現象。第一次聽說？這篇讓你從零開始一次全搞懂。【目錄】● 為什麼戰鬥陀螺X再度爆紅？● "
         },
         {
-          "title": "白宮記者晚宴傳槍響！31歲加州男子「當場遭捕」川普公開槍手姓名、長相",
-          "link": "https://www.gvm.com.tw/article/129655",
-          "published": "2026-04-26T11:55:00",
-          "summary": "美國總統川普今晚出席在華府舉行的白宮記者協會晚宴時傳出槍響，川普和多名官員緊急撤離現場。他隨後發文表示，特勤局與執法部門表現出色，行動既迅速又英勇，槍手已被逮捕。川普表示，當時槍手持多件武器衝進會場，還近距離開槍擊中一名特勤人員，所幸防彈衣發揮作用才沒造成悲劇。川普（Donald Trump）在自家社群媒體平台「真實社群」（Truth Social）發文寫道：「華盛頓特區經歷了不平靜的夜晚。特勤局"
+          "title": "菊元百貨升格直轄市定古蹟！這間「全台首間百貨」重要價值在哪？",
+          "link": "https://www.gvm.com.tw/article/129684",
+          "published": "2026-04-27T16:58:00",
+          "summary": "台北市文資會議今天審查「菊元百貨店」文化資產價值案，其為早於台南林百貨開幕的全台首間百貨，經提報單位補充有、無形價值新事證後，委員綜整通過自歷建升格為直轄市定古蹟。台北市衡陽路、博愛路交匯口的玻璃帷幕建物，前身為「菊元百貨店」，開幕於1932年，且開幕日早於已受觀光客矚目的台南林百貨，為全台首間百貨，深受文資保存界關注，106年5月15日公告為台北市歷史建築。文資會議資料顯示，財團法人台北市古蹟及"
         },
         {
-          "title": "忙到沒空規律運動？醫：快步爬樓梯、趕公車、提重物「劇烈活動」可達同樣效果",
-          "link": "https://www.gvm.com.tw/article/129619",
-          "published": "2026-04-26T07:00:00",
-          "summary": "現代人生活忙碌，經常沒空運動。醫師指出，與其達不到運動目標而放棄，不如每天進行快步爬樓梯、趕公車、搬重物等「劇烈間歇性生活體能活動」累積5分鐘，也能改善健康。開業家醫科醫師顏佐樺20日透過新聞稿分享，自己在門診中最常聽到的困擾之一，就是「醫師，我真的沒有時間運動」。對忙碌上班族或體力衰退的高齡長者，要達到每週150分鐘中強度運動，或每日萬步目標，常都令人感到壓力倍增，許多人甚至因此放棄所有體能活動"
+          "title": "分析師挺黃仁勳說法！中國開源模型太強，記憶體股可能暴跌？",
+          "link": "https://www.gvm.com.tw/article/129705",
+          "published": "2026-04-27T16:44:00",
+          "summary": "黃仁勳日前指出中國開源模型先進，史丹佛AI指數報告也指出和美國Claude僅些微差異，引起網路熱烈討論。中美模型到底誰優秀？怎麼評估才公正？分析機構SemiAnalysis於上週25日出具報告，採取團隊實際測試中美多個模型來分析，結果發現中國DeepSeek最新V4和Claude Opus 4.7相較，只輸一個地方！到底怎麼看出來？同時還指出中國開源模型設計，會顛覆快閃記憶體？有可能讓去年Deep"
+        },
+        {
+          "title": "台積電洩密案宣判！陳力銘違國安法遭判10年、東京威力罰1.5億緩刑3年",
+          "link": "https://www.gvm.com.tw/article/129704",
+          "published": "2026-04-27T16:26:00",
+          "summary": "台積電離職工程師陳力銘等人涉洩漏台積電營業秘密，智慧財產及商業法院今天依國安法等罪判陳力銘10年徒刑；東京威力公司判罰金1億5000萬元，緩刑3年。全案可上訴。根據法院新聞稿，東京威力承認犯罪，積極配合偵查，並偕同母公司日商東京威力株式會社與台積電達成和解，法院宣告緩刑3年，應於判決確定之日起1年內，向台積電支付新台幣1億元，並向公庫支付5000萬元。若未支付，將撤銷緩刑，執行罰金刑。本案為國家安"
         }
       ]
     },
@@ -84,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "中國<b>碳中和</b>發佈全球首個合規碳幣發行細節，首發5億枚，雙閉環贖回機制",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sl886.com/newstrading/4417347&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2SFPnPTIBRh-tjbrFRtZ36",
-          "published": "2026-04-27T03:24:07+00:00",
-          "summary": "幣（首發5億枚）的結構與機制  。集團旗下全資子公司Global Carbon Asset Management Co., Limited為發行人，透過新加坡DigiFT平台向合格實體定向發行，以「法定."
+          "title": "電機三姊妹攜手共創<b>淨零</b>未來探究「AI充電樁」科展榮獲佳作 - 很角色傳媒",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://taidaily.com/2026/04/28/571860/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0p85VS7dFUkW6-GtdID7Jr",
+          "published": "2026-04-28T03:46:12+00:00",
+          "summary": "【記者宋吉清/基隆報導】隨著全球積極邁向「淨零排放」目標，電動車（EV）快速普及，充電安全與電力負載問題也日益受到重視。基隆市二信高中電機科三位學姊學妹&nbsp;..."
         },
         {
-          "title": "中國<b>碳中和</b>與河南滑縣簽戰略協議，推六大領域綠色合作，首個微電網智慧換電項目動工",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sl886.com/newstrading/4417348&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3IRlMF2kysbdkTAiK3NRjK",
-          "published": "2026-04-27T03:24:07+00:00",
-          "summary": "協議》  ，雙方將在雙碳規劃、智慧能源、交通電動化、農業機械電動化、循環經濟及碳資產開發等六大領域展開深度合作，共同推動縣域綠色低碳循環經濟發展。"
+          "title": "海洋<b>淨零</b>邁大步中華海洋減碳協會啟動白皮書與施行條例規劃 - 中華日報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cdns.com.tw/articles/1392921&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2shOAerqa62pMszPPfCZKi",
+          "published": "2026-04-28T03:09:22+00:00",
+          "summary": "... 頒發外，並通過組織章程修訂與115年度工作計畫。高聖龍理事長表示，海洋為關鍵碳匯，協會將持續推動制度建構與實務行動，助力台灣邁向淨零與永續發展。"
         },
         {
-          "title": "成績真的藏不住！   王道銀行今年再度拿下CDP<b>氣候變遷</b>評鑑最高A級連續三年入選標普全球 ...",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/ETtoday/posts/%25E5%259C%258B%25E9%259A%259B%25E8%2582%25AF%25E5%25AE%259A%25E5%2588%2586%25E4%25BA%25AB%25E4%25B8%2580%25E5%25AE%25B6%25E9%258A%2580%25E8%25A1%258C%25E6%259C%2589%25E5%25A4%259A%25E8%25AA%258D%25E7%259C%259F%25E5%2581%259A%25E6%25B0%25B8%25E7%25BA%258C%25E6%2588%2590%25E7%25B8%25BE%25E7%259C%259F%25E7%259A%2584%25E8%2597%258F%25E4%25B8%258D%25E4%25BD%258F%25E7%258E%258B%25E9%2581%2593%25E9%258A%2580%25E8%25A1%258C%25E4%25BB%258A%25E5%25B9%25B4%25E5%2586%258D%25E5%25BA%25A6%25E6%258B%25BF%25E4%25B8%258Bcdp%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E8%25A9%2595%25E9%2591%2591%25E6%259C%2580%25E9%25AB%2598a%25E7%25B4%259A%25E9%2580%25A3%25E7%25BA%258C%25E4%25B8%2589%25E5%25B9%25B4%25E5%2585%25A5%25E9%2581%25B8%25E6%25A8%2599%25E6%2599%25AE%25E5%2585%25A8%25E7%2590%2583%25E6%25B0%25B8%25E7%25BA%258C%25E5%25B9%25B4%25E9%2591%2591%25E6%259B%25B4%25E6%2599%2589%25E5%258D%2587%25E5%2585%25A8%25E7%2590%2583%25E9%258A%2580%25E8%25A1%258C%25E6%25A5%25AD%25E5%2589%258D5%25E5%25BE%259E%25E5%2585%25A7%25E9%2583%25A8%25E7%25A2%25B3%25E5%25AE%259A%25E5%2583%25B9%25E6%258A%2595%25E8%259E%258D%25E8%25B3%2587/1417034310455650/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0Men5Ajat9pwEZ25uVzjVE",
-          "published": "2026-04-27T03:23:28+00:00",
-          "summary": "王道銀行蟬聯CDP氣候變遷評鑑A級！再入選標普全球 永續年鑑晉升全球銀行業前5% | ETtoday財經雲| ... 王道銀行（O-Bank）深耕永續經營再獲國際肯定，."
+          "title": "縣府與聯大簽署MOU 縣長加碼補助名額鼓勵青年參與核心訓練 - 苗栗縣政府",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.miaoli.gov.tw/News_Content2.aspx%3Fn%3D275%26sms%3D9459%26s%3D951359&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2YImhCu6xXIuJ6VSTCLv7O",
+          "published": "2026-04-28T01:37:04+00:00",
+          "summary": "苗栗縣政府為因應全球邁向2050淨零排放趨勢，加速地方產業轉型與人才培育，27日與國立聯合大學簽署「淨零綠領人才培育補助計畫」合作備忘錄，攜手推動青年綠&nbsp;..."
         },
         {
-          "title": "中國<b>碳中和</b>(01372.HK)與滑縣人民政府簽署戰略合作協議原創 - 財華網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.finet.hk/newscenter/news_content/69eed3055a7712f5c64b3850&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3LJJFA2PVxNJDQk0mkP3R2",
-          "published": "2026-04-27T03:10:15+00:00",
-          "summary": "【財華社訊】中國碳中和(01372.HK)公佈，於2026年3月23日，集團與滑縣人民政府正式簽署《戰略合作協議》。雙方將充分發揮各自在區域治理、政策引導、資源整合&nbsp;..."
+          "title": "苗栗縣府與聯大簽署MOU 加碼補助名額鼓勵青年參與核心訓練 - 三星傳媒",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tristarnews.com.tw/news_ii.html%3FID%3D35893&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw03gFZmCdMUvX-u2TcNuDRW",
+          "published": "2026-04-28T01:34:46+00:00",
+          "summary": "(記者鍾盛增／苗栗報導）苗栗縣政府為因應全球邁向2050淨零排放趨勢，加速地方產業轉型與人才培育，27日與國立聯合大學簽署「淨零綠領人才培育補助計畫」合作&nbsp;..."
         },
         {
-          "title": "115年度苗栗縣推動<b>淨零</b>綠領人才培育補助辦法",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.mlepb.gov.tw/newsin.html%3Fnid%3D1310&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2HYeRDLpWjGKHuLvjx3NNr",
-          "published": "2026-04-27T03:02:34+00:00",
-          "summary": "如申請補助者為公職人員利益衝突迴避法第2條所稱「公職人員」或第3條所稱「關係人」（含監督本機關團體之民意代表及其關係人），依同法第14條第2項規定，應於申請&nbsp;..."
+          "title": "高雄市115年度促進產業發展投資補助正式啟動1億元助攻<b>淨零</b>與數位轉型 - 波新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bo6s.com.tw/news_detail.php%3FNewsID%3D111068&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0pXLQ-1n6-a0xBFnICvDe9",
+          "published": "2026-04-28T01:25:35+00:00",
+          "summary": "今年度補助聚焦半導體、電動車、智慧電子、生技醫藥、資通訊及綠色能源等關鍵產業，凡符合資格之企業皆可提出申請，受理期限至7月1日止，盼進一步擴大投資動能並&nbsp;..."
         },
         {
-          "title": "全球買主齊聚高雄2026台灣國際扣件展見證「螺絲窟」數位與<b>淨零</b>轉型實力",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.allnews.tw/news/89094&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0WfRa3NMt28omxtBgeBO0I",
-          "published": "2026-04-27T02:09:12+00:00",
-          "summary": "台灣民眾電子報| 【本報記者楊雅晴高雄報導】兩年一度的全球扣件產業盛會「2026台灣國際扣件展」於4月22日至24日在高雄展覽館登場。作為全球扣件供應鏈核心&nbsp;..."
+          "title": "本報攜手第一銀行舉辦「第一銀行ESG驅動企業轉型論壇」5/20 登場 - 熱門新訊",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://market.ltn.com.tw/article/18422&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1CwFfcChAXoXeGNOjXyZtk",
+          "published": "2026-04-28T00:36:39+00:00",
+          "summary": "在全球淨零浪潮與生物多樣性風險的雙重挑戰下，企業如何透過金融工具驅動轉型，已成為決定競爭力的關鍵，如何落實淨零轉型更是永續經營的生存課題。"
         }
       ]
     }
