@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-04-28T04:33:39.339160+00:00",
-    "date": "2026-04-28",
+    "generated_at": "2026-04-29T04:29:37.763653+00:00",
+    "date": "2026-04-29",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "破解機器人硬體碎片化難題：EPFL 研發「運動學智慧」，讓不同機器人無縫複製技能",
-          "link": "https://techorange.com/2026/04/28/kinematic-intelligence-helps-robots-learn-their-limits/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-28T01:48:22+00:00",
-          "summary": "在多數製造現場，更換一台機器人往往代表著一切重來：不只是硬體替換，連原本已經部署完成的任務流程也必須重新編寫、校正。即使兩台機器人看起來功能相似，只要關節結構、活動範圍或運動方式稍有不同，既有程式就可能完全失效。這個長期困擾產業的問題，如今出現新的解法。 來自瑞士洛桑聯邦理工學院（EPFL）學習演算法與系統實驗室（LASA）的研究團隊提出一套名為「kinematic intelligence（運動"
+          "title": "歐洲為何監管越嚴，越離不開美國科技巨頭？從法國健康資料遷出微軟，揭雲端與 AI 主權困境",
+          "link": "https://techorange.com/2026/04/29/how-europe-regulated-itself-into-american-vassalage/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-29T03:13:04+00:00",
+          "summary": "當一個國家的國民健康數據，全都掌握在美國科技巨頭手中，會帶來什麼樣的國安風險？法國政府近期開出第一槍，正式決定將「國家健康數據中心」（Health Data Hub）從微軟 Azure 搬出，全面轉移給本土雲端業者 Scaleway。 這不只是一次單純的供應商轉換，更是歐洲積極追求「雲端主權」、試圖擺脫對美國大型科技公司長期依賴的關鍵反擊。 法國為何堅持推動「資料大遷徙」？ 這場遷移案的起因，源自"
         },
         {
-          "title": "【GTC 現場直擊】打造企業「HALO」資產：從算力軍備到 AI Agent 的戰略轉型新視界",
-          "link": "https://techorange.com/2026/04/28/cloudmile-gtc-halo-ai-agent-taiwan/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-28T01:46:38+00:00",
-          "summary": "2026 年 GTC 大會甫落幕，全球 AI 浪潮已從「算力競賽」轉向「落地實踐」的關鍵轉折點，當市場目光聚焦於 NVIDIA 的硬體護城河與「買硬不買軟」的投資風潮時，企業決策者必須思考，在昂貴的算力資源背後，什麼才是真正的核心競爭力？ 本文由 CloudMile 萬里雲 CEO Spencer 觀點出發，深度解析 AI Agent 時代下的 「HALO」資產定義，揭示 Token 經濟學重塑產"
+          "title": "【機器人上前線】烏克蘭機器人攻下壕溝、中國 AI 沙盤推演台北街頭的群眾控制",
+          "link": "https://techorange.com/2026/04/29/robots-are-fighting-wars/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-29T02:33:44+00:00",
+          "summary": "烏克蘭與俄羅斯的戰爭已成為地面自主系統最大規模的實戰驗證場，與此同時，中國正在構想一套以 AI 主導、幾乎不需要人員接觸的城市鎮暴體系。 這兩條路徑，代表著自主武器系統在戰鬥與政治控制兩個場景中，截然不同的部署邏輯，而兩者都在快速累積實戰資料與部署經驗。 烏克蘭：從後勤補給到正面突擊 烏克蘭的機器人戰爭不是實驗，而是迫於現實的快速演進。目前超過 280 家公司投入無人機與地面機器人的生產，產品涵蓋"
         },
         {
-          "title": "AI 不是護城河、不出海就出局！創投元老蘇拾忠：如果台灣新創只做台灣市場，創投都不投了",
-          "link": "https://techorange.com/2026/04/28/thub-su-shih-chung-podcast/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-28T01:39:03+00:00",
-          "summary": "專訪：戴季全撰稿：李昀蔚 過去談台灣新創，外界常會先想到硬體、製造、供應鏈與工程能力，但在生成式 AI、Embodied AI 與軟體模式快速改變產業規則的此刻，新創公司的競爭邏輯也正在被重新定義。本集《全新一週》邀請到 t.Hub 內科創新育成基地執行長蘇拾忠，深入分享他對台灣新創生態的第一線觀察。 根據今年 1 月 PwC Taiwan 發布的《2025 台灣新創生態圈大調查》，有超過 85%"
+          "title": "【科技早餐】OpenAI IPO 前財務壓力浮現，龐大算力合約開始成為新考驗",
+          "link": "https://techorange.com/2026/04/29/openai-falls-short-revenue-prior-to-ipo/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-28T22:50:00+00:00",
+          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊OpenAI IPO 前財務壓力浮現，龐大算力合約成新考驗 《華爾街日報》引述知情人士報導，OpenAI 財務長弗萊爾（Sarah Friar）曾向高層表達憂慮，擔心如果營收成長不夠快，公司未來可能無法支付龐大的運算合約費用。報導指出，OpenAI 近幾個月未達成部分新用戶與營收目標，ChatGPT 去年底也沒有達到內部設定的 10 億週活躍用戶"
         },
         {
-          "title": "氛圍編碼只是開始，「語音 AI」正改寫從寫程式到企業客服的工作流程",
-          "link": "https://techorange.com/2026/04/28/voice-ai-in-vibe-coding/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-28T01:26:15+00:00",
-          "summary": "強大的 AI 語音轉文字工具，為程式設計師提供了一種全新媒介，讓他們能透過口語來開發新產品，其速度遠比單純打字來得更快，語音 AI 應用更一路深入到企業最基礎的工作流程。"
+          "title": "紅杉資本、NVIDIA 押注！Google DeepMind 前研究員創 AI 新創，打造「超級學習者」估值飆 51 億",
+          "link": "https://techorange.com/2026/04/28/deepminds-david-silver-ai-learns-human-data/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-28T09:46:17+00:00",
+          "summary": "英國 AI 實驗室 Ineffable Intelligence 由 Google DeepMind 前研究員 David Silver 創立，短短數月間已募得 11 億美元資金，估值達 51 億美元，加入研發新型 AI 模型的競賽，目標打造可能超越大型語言模型（LLM）的技術。 不靠人類資料訓練 AI？新創望打造「比肩達爾文」的突破 《TechCrunch》提及，Ineffable 旨在打造一個"
         },
         {
-          "title": "零售業者的新難題：為何 AI 用得越多，消費者就越不信任我？",
-          "link": "https://techorange.com/2026/04/28/retailers-are-turning-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-28T01:26:03+00:00",
-          "summary": "當 AI 以前所未有的速度滲入零售業，品牌面臨的已不再是「要不要用 AI」的問題，而是「如何在使用 AI 的同時不失去消費者信任」。這正是當前零售業最核心、也最容易被誤判的矛盾。 AI 使用率上升，信任度反而下滑 根據企業顧問 Capgemini 的研究，現在每三名消費者就有一人每天使用 AI 工具超過一小時，但整體對 AI 的信任度卻在一年內從 72% 降到 58%，這是影響品牌生存與否的訊號。"
+          "title": "社群平台為何成最大詐騙破口？FTC 揭精準投放、私訊與個人化話術背後的 21 億美元信任漏洞",
+          "link": "https://techorange.com/2026/04/28/new-ftc-data-show-people-have-lost-billions-social-media-scams/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-28T08:01:14+00:00",
+          "summary": "美國聯邦貿易委員會（FTC）近日發布最新報告，揭示一個驚人的警訊：2025 年，高達 21 億美元的詐騙通報損失來自社群平台，占所有通報金錢損失案件的近 30%。同時，社群平台不僅是 2025 年通報損失最多的詐騙接觸管道，相關損失相較於 2020 年更暴增 8 倍。 為什麼科技巨頭耗資打造的社交護城河，會輕易成為詐騙集團的絕佳破口？關鍵就在於「極度不對稱的攻擊成本」。由於社群平台的無國界特性，無"
         },
         {
-          "title": "【科技早餐】Google 押 TPU、OpenAI 傳做手機，AI 競爭從雲端一路打到終端",
-          "link": "https://techorange.com/2026/04/28/google-bets-on-tpu-openai-rumored-to-build-phone/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-27T22:50:00+00:00",
-          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊Google 用 TPU 與 Gemini 追雲端，AI 競爭走向全堆疊戰 Google Cloud 執行長庫里安 (Thomas Kurian) 接受《金融時報》專訪表示，Google 的差異化不只是轉售其他公司的技術，而是同時擁有自研晶片、資料中心、基礎模型與企業應用。Google Cloud 目前在全球雲端市場排名第三，市占率已推升到 14"
+          "title": "AI 安全賽局生存戰：OpenAI 拋五大原則，揭示最新 AGI 治理藍圖",
+          "link": "https://techorange.com/2026/04/28/openai-five-principle-framework-agi-altman/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-28T05:26:20+00:00",
+          "summary": "OpenAI 執行長 Sam Altman 發布了五項營運原則，說明 OpenAI 邁向「通用人工智慧」（AGI）的方向。「公司希望 AI 能廣泛造福人類，而非讓權力集中在少數實驗室或政府手中，」他補充，隨著安全風險增加，未來的系統可能需要更嚴格的限制。 不再承諾協助對手：解析 OpenAI 新版五大營運原則 《implicator.ai》報導，OpenAI 公布的五項原則中，民主化（Democr"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "仿照MBTI的SBTI紅什麼？大陸年輕人為何躺平躺好躺滿？",
-          "link": "https://www.gvm.com.tw/article/129710",
-          "published": "2026-04-27T18:25:00",
-          "summary": "近日，一款名為SBTI的人格測驗在中國大陸引發關注。它和台灣這兩年當紅的MBTI有什麼關係？有趣的是，當一個不專業的人格測驗，讓年輕人搶著承認自己是「無所謂人」和「廢物」，是不是一整個世代對成功學的公開厭棄？「你的SBTI是什麼？」就在今年春天的某個深夜，這句話悄悄變成了熱門社交暗號。消息發酵不到24小時，相關閱讀量已破億。由於短時間內訪問量激增，測試網站的伺服器還一度崩潰。SBTI，其實是一項中"
+          "title": "4/30國際不打小孩日：父母停止打罵教養，是為自己童年療傷解毒",
+          "link": "https://www.gvm.com.tw/article/96661",
+          "published": "2026-04-28T19:29:00",
+          "summary": "4/30國際不打小孩日：好的家庭關係是跟孩子「對話」，而不只是「對孩子說話」；傾聽孩子的心聲，而不只是要孩子聽話。打罵是落伍又暴力的教養手段，觀察與傾聽孩子，才能給孩子需要的真正幫助。（本文摘自《剛剛好的距離》一書，作者為尚瑞君，以下為摘文。）在我小時候，也沒有被父母打罵過的印象，雖然兄弟姊妹很多，但因為父親特別疼我，他總是喜歡跟我說故事或聊天，或是帶著我出門去買東西。對照現在的教育方式來看，就是"
         },
         {
-          "title": "他為何行刺川普？天才學霸成孤狼槍手，預告「不惜除掉多數人」",
-          "link": "https://www.gvm.com.tw/article/129709",
-          "published": "2026-04-27T17:15:00",
-          "summary": "持槍闖入白宮記者協會年度晚宴遭制伏的31歲加州男子艾倫，事前留信自稱「友善的聯邦刺客」，但揚言不惜除掉多數人；其動機則指向不滿川普政府政策與社會撕裂。他出身名校、曾為模範教師，直到近年參與政治活動後，便逐漸變得激進，開始合法購槍、規劃行動路線，最終走向犯案未遂當場被逮的下場。美國總統川普（Donald Trump）25日出席在華盛頓希爾頓飯店舉行的白宮記者協會年度晚宴時，現場突傳槍響，加州31歲男"
+          "title": "那些掌握關鍵人脈的成功者，多做了1件事：懂得致謝，「這時間」效果最佳",
+          "link": "https://www.gvm.com.tw/article/129763",
+          "published": "2026-04-28T18:52:00",
+          "summary": "作者從前為了推動公司新政策，經常與同事發生衝突，終於發現，自己多年來無法加薪、升遷的原因，不在能力比人差，而是遇到狀況時「沒人想幫你」，有表現機會時，主管也不想留給你。他開始改變工作方法、態度，養成讓機會與貴人願意主動靠近的「小習慣」，這套工作方法，就是他從考績墊底，翻轉成為獨角獸企業營運長的關鍵。（本文節錄自《讓優秀的人主動靠近你》一書，作者：濱暢宏／大是出版，以下為摘文。）在隔天早上7點發感謝"
         },
         {
-          "title": "戰鬥陀螺為什麼又紅了？資本主義的逆襲，從童年玩具變超狂軍備競賽",
-          "link": "https://www.gvm.com.tw/article/129708",
-          "published": "2026-04-27T17:04:00",
-          "summary": "「被親戚小孩嗆太爛」一篇Threads的貼文衝破百萬瀏覽、CX-16開賣10分鐘售罄、0.06克重量差引爆社群論戰！很多人小時候看過動畫或是買過陀螺。現在長大賺錢，再看到新版戰鬥陀螺，很容易被喚醒童年魂。小時候買不起整套，長大後終於可以補票，算是種童年修復？戰鬥陀螺X從童年玩具變成2026年台灣最夯的成人次文化現象。第一次聽說？這篇讓你從零開始一次全搞懂。【目錄】● 為什麼戰鬥陀螺X再度爆紅？● "
+          "title": "有扶養父母民眾注意！長照扣除額這點沒放寬？報稅攻略",
+          "link": "https://www.gvm.com.tw/article/129762",
+          "published": "2026-04-28T18:47:00",
+          "summary": "5月報稅季即將到來！除了廣受好評的手機報稅系統持續優化外，今年「長期照顧特別扣除額」從原本的12萬元大幅調升至18萬元！對於有長照需求家庭來說，若能精準掌握這項政策，並結合「扶養父母」的免稅額，將能替荷包省下可觀的稅金。一次看懂長照扣除額的適用條件、扶養父母的節稅試算，讓你今年報稅省時不踩雷！【目錄】2026長照扣除額度提高至18萬、3種情形可申請長照扣除額誰能用？小心3大地雷扶養父母可以節省多少"
         },
         {
-          "title": "菊元百貨升格直轄市定古蹟！這間「全台首間百貨」重要價值在哪？",
-          "link": "https://www.gvm.com.tw/article/129684",
-          "published": "2026-04-27T16:58:00",
-          "summary": "台北市文資會議今天審查「菊元百貨店」文化資產價值案，其為早於台南林百貨開幕的全台首間百貨，經提報單位補充有、無形價值新事證後，委員綜整通過自歷建升格為直轄市定古蹟。台北市衡陽路、博愛路交匯口的玻璃帷幕建物，前身為「菊元百貨店」，開幕於1932年，且開幕日早於已受觀光客矚目的台南林百貨，為全台首間百貨，深受文資保存界關注，106年5月15日公告為台北市歷史建築。文資會議資料顯示，財團法人台北市古蹟及"
+          "title": "缺工危機企業主急了！請外籍學生留台就業可以嗎？",
+          "link": "https://www.gvm.com.tw/article/129761",
+          "published": "2026-04-28T18:25:00",
+          "summary": "隨著少子化與高齡化日益加劇，缺工危機的海嘯在台灣席捲了餐飲、製造等藍領階層，更蔓延至白領知識型工作。為填補勞動力缺口，僑委會、教育部等政府部會積極設法將在台就學的僑生與外籍生留在台灣就業市場。究竟，哪些行業需求孔急？而當前法令又對外籍人士在台就業，有哪些限制？外籍學生畢業之後留台就業的情況，目前又是如何呢？台灣各行業多缺工？近期台灣社會對於是否引入印度移工，有著沸沸揚揚的爭論，但此議題背後反映的是"
         },
         {
-          "title": "分析師挺黃仁勳說法！中國開源模型太強，記憶體股可能暴跌？",
-          "link": "https://www.gvm.com.tw/article/129705",
-          "published": "2026-04-27T16:44:00",
-          "summary": "黃仁勳日前指出中國開源模型先進，史丹佛AI指數報告也指出和美國Claude僅些微差異，引起網路熱烈討論。中美模型到底誰優秀？怎麼評估才公正？分析機構SemiAnalysis於上週25日出具報告，採取團隊實際測試中美多個模型來分析，結果發現中國DeepSeek最新V4和Claude Opus 4.7相較，只輸一個地方！到底怎麼看出來？同時還指出中國開源模型設計，會顛覆快閃記憶體？有可能讓去年Deep"
+          "title": "看不見的2千名尖兵！研華如何讓AI脫離對話框，定義「第 4.5 層」競爭力？",
+          "link": "https://www.gvm.com.tw/article/129759",
+          "published": "2026-04-28T18:15:00",
+          "summary": "這不是一場單純的技術導入，而是一場動員全體員工的DNA改造。研華如何從數據「下水道」做起，已讓2000多名AI AGENTS（AI代理）數位員工與人類並肩協作，重新定義工業電腦龍頭的競爭力？走進研華位在台北內湖的總部，窗明几淨一如往常，但在看不見的數位空間裡，已有超過2000個AI Agents（AI代理）、就像多了2000多位數位員工，正與研華團隊並肩作戰。這場轉型背後，其實是一場人與流程的革命"
         },
         {
-          "title": "台積電洩密案宣判！陳力銘違國安法遭判10年、東京威力罰1.5億緩刑3年",
-          "link": "https://www.gvm.com.tw/article/129704",
-          "published": "2026-04-27T16:26:00",
-          "summary": "台積電離職工程師陳力銘等人涉洩漏台積電營業秘密，智慧財產及商業法院今天依國安法等罪判陳力銘10年徒刑；東京威力公司判罰金1億5000萬元，緩刑3年。全案可上訴。根據法院新聞稿，東京威力承認犯罪，積極配合偵查，並偕同母公司日商東京威力株式會社與台積電達成和解，法院宣告緩刑3年，應於判決確定之日起1年內，向台積電支付新台幣1億元，並向公庫支付5000萬元。若未支付，將撤銷緩刑，執行罰金刑。本案為國家安"
+          "title": "公設比這麼高，值得嗎？台灣人買房最在意的「10大熱門公共設施」",
+          "link": "https://www.gvm.com.tw/article/129758",
+          "published": "2026-04-28T18:11:00",
+          "summary": "近年來，購屋族在評估住宅條件時，除了地段與坪數外，為了讓買房時的每一坪購屋預算發揮最大價值，「公設」逐漸成為重要考量之一。從健身房、交誼廳到游泳池，建案規劃的公設項目日益多元，也成為建商強調生活機能與居住品質的重要元素。一般來說，納入公設計算的，多為具備頂蓋的室內或半室內空間。然而，關於公設價值的網路討論卻相當分歧。一派認為，完善的公設是現代住宅的標配，能提升生活質感與社區氛圍；另一派則直言，許多"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "電機三姊妹攜手共創<b>淨零</b>未來探究「AI充電樁」科展榮獲佳作 - 很角色傳媒",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://taidaily.com/2026/04/28/571860/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0p85VS7dFUkW6-GtdID7Jr",
-          "published": "2026-04-28T03:46:12+00:00",
-          "summary": "【記者宋吉清/基隆報導】隨著全球積極邁向「淨零排放」目標，電動車（EV）快速普及，充電安全與電力負載問題也日益受到重視。基隆市二信高中電機科三位學姊學妹&nbsp;..."
+          "title": "立法會五題：確保能源供應穩定的措施",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.info.gov.hk/gia/general/202604/29/P2026042900387.htm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw16Qc4TrpoZ9l8H-6oZbkj2",
+          "published": "2026-04-29T04:17:07+00:00",
+          "summary": "... 淨零發電」和碳中和的目標。 零碳能源（包括核電和可再生能源）在二○二五年的整體發電燃料組合佔約四分一。其他發電燃料中，天然氣和煤分別佔超過一半和少&nbsp;..."
         },
         {
-          "title": "海洋<b>淨零</b>邁大步中華海洋減碳協會啟動白皮書與施行條例規劃 - 中華日報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cdns.com.tw/articles/1392921&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2shOAerqa62pMszPPfCZKi",
-          "published": "2026-04-28T03:09:22+00:00",
-          "summary": "... 頒發外，並通過組織章程修訂與115年度工作計畫。高聖龍理事長表示，海洋為關鍵碳匯，協會將持續推動制度建構與實務行動，助力台灣邁向淨零與永續發展。"
+          "title": "<b>淨零</b>永續講師培訓深化理念貼近生活 - 慈濟",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tzuchi.org.tw/epa/index.php/2/4119-3660&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3zFIBjl0K9pkRzPFeyz_o6",
+          "published": "2026-04-29T04:06:57+00:00",
+          "summary": "淨零永續講師培訓」在花蓮靜思堂登場，吸引志工和民眾參與，期盼從日常深化對永續議題的理解，培育更多環境教育種子師資，運用於校園、社區，讓環保理念更貼近生活。"
         },
         {
-          "title": "縣府與聯大簽署MOU 縣長加碼補助名額鼓勵青年參與核心訓練 - 苗栗縣政府",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.miaoli.gov.tw/News_Content2.aspx%3Fn%3D275%26sms%3D9459%26s%3D951359&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2YImhCu6xXIuJ6VSTCLv7O",
-          "published": "2026-04-28T01:37:04+00:00",
-          "summary": "苗栗縣政府為因應全球邁向2050淨零排放趨勢，加速地方產業轉型與人才培育，27日與國立聯合大學簽署「淨零綠領人才培育補助計畫」合作備忘錄，攜手推動青年綠&nbsp;..."
+          "title": "加強小農碳匯立委提「綠色新幹線」串聯企業收購與氣候揭露 - 環境資訊中心",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://e-info.org.tw/node/243367&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1dgNV_KyHpDzhm4C46JfXO",
+          "published": "2026-04-29T03:47:39+00:00",
+          "summary": "全球邁向淨零目標，有立委提出鼓勵企業採購符合碳匯標準的小農農產品，可接軌ESG指標與最新財務揭露規範，也確保小農的收益、避免小農生產受到氣候變遷衝擊。"
         },
         {
-          "title": "苗栗縣府與聯大簽署MOU 加碼補助名額鼓勵青年參與核心訓練 - 三星傳媒",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tristarnews.com.tw/news_ii.html%3FID%3D35893&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw03gFZmCdMUvX-u2TcNuDRW",
-          "published": "2026-04-28T01:34:46+00:00",
-          "summary": "(記者鍾盛增／苗栗報導）苗栗縣政府為因應全球邁向2050淨零排放趨勢，加速地方產業轉型與人才培育，27日與國立聯合大學簽署「淨零綠領人才培育補助計畫」合作&nbsp;..."
+          "title": "全球邁向<b>碳中和</b>護林價值巨（車品覺） - EJ Tech",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ejtech.ai/ceoai/%25E5%2585%25A8%25E7%2590%2583-%25E9%2582%2581%25E5%2590%2591-%25E7%25A2%25B3%25E4%25B8%25AD%25E5%2592%258C-%25E8%25AD%25B7%25E6%259E%2597-%25E5%2583%25B9%25E5%2580%25BC-%25E8%25BB%258A%25E5%2593%2581%25E8%25A6%25BA/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw13kNSG05Cd5tBRCfyBiNF7",
+          "published": "2026-04-29T03:12:16+00:00",
+          "summary": "上周說到，在全球氣候治理的棋局裏，我們正經歷一場悄然無聲，卻影響深遠的「範式轉移」。"
         },
         {
-          "title": "高雄市115年度促進產業發展投資補助正式啟動1億元助攻<b>淨零</b>與數位轉型 - 波新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bo6s.com.tw/news_detail.php%3FNewsID%3D111068&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0pXLQ-1n6-a0xBFnICvDe9",
-          "published": "2026-04-28T01:25:35+00:00",
-          "summary": "今年度補助聚焦半導體、電動車、智慧電子、生技醫藥、資通訊及綠色能源等關鍵產業，凡符合資格之企業皆可提出申請，受理期限至7月1日止，盼進一步擴大投資動能並&nbsp;..."
+          "title": "北極圈飆破30度！歐洲成全球變暖最快地區- 香港文匯網 - 文匯報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.wenweipo.com/a/202604/29/AP69f169f9e4b0b49ad1b8d46b.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0sSacwY3jzzL0W64MJmuL-",
+          "published": "2026-04-29T03:10:24+00:00",
+          "summary": "極端氣候事件也顯著增加。數據顯示，2025年歐洲野火過火面積約103.5萬公頃，創歷史最高紀錄。同時，水文條件持續偏緊，全年有11個月河流流量低於平均水平，約70%的&nbsp;..."
         },
         {
-          "title": "本報攜手第一銀行舉辦「第一銀行ESG驅動企業轉型論壇」5/20 登場 - 熱門新訊",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://market.ltn.com.tw/article/18422&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1CwFfcChAXoXeGNOjXyZtk",
-          "published": "2026-04-28T00:36:39+00:00",
-          "summary": "在全球淨零浪潮與生物多樣性風險的雙重挑戰下，企業如何透過金融工具驅動轉型，已成為決定競爭力的關鍵，如何落實淨零轉型更是永續經營的生存課題。"
+          "title": "<b>氣候變遷</b>衍伸病蟲害未納入天然災害現金救助農業部允1個月內提規畫 - 聯合新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7266/9471121&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3u58jbI1DchoREwPjR-nph",
+          "published": "2026-04-29T03:09:14+00:00",
+          "summary": "立委楊瓊瓔質詢時表示，隨著極端氣候加劇，農業災損型態已經明顯改變，除了颱風、豪雨等傳統天災外，病蟲害擴散、野生動物侵擾及環境變動所引發的複合型農損已成常態&nbsp;..."
         }
       ]
     }
