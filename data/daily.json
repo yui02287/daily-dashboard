@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-04-29T04:29:37.763653+00:00",
-    "date": "2026-04-29",
+    "generated_at": "2026-04-30T04:31:52.508052+00:00",
+    "date": "2026-04-30",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "歐洲為何監管越嚴，越離不開美國科技巨頭？從法國健康資料遷出微軟，揭雲端與 AI 主權困境",
-          "link": "https://techorange.com/2026/04/29/how-europe-regulated-itself-into-american-vassalage/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-29T03:13:04+00:00",
-          "summary": "當一個國家的國民健康數據，全都掌握在美國科技巨頭手中，會帶來什麼樣的國安風險？法國政府近期開出第一槍，正式決定將「國家健康數據中心」（Health Data Hub）從微軟 Azure 搬出，全面轉移給本土雲端業者 Scaleway。 這不只是一次單純的供應商轉換，更是歐洲積極追求「雲端主權」、試圖擺脫對美國大型科技公司長期依賴的關鍵反擊。 法國為何堅持推動「資料大遷徙」？ 這場遷移案的起因，源自"
+          "title": "中國把全球最大公用事業變成 Physical AI 測試場：8,500 台機器人從巡檢、救援到特高壓維護全面落地",
+          "link": "https://techorange.com/2026/04/30/china-deploys-an-army-of-humanoid-robots-to-maintain-its-power-grid/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-30T02:25:51+00:00",
+          "summary": "中國國家電網近日宣布斥資 68 億人民幣（約 10 億美元），大舉採購高達 8,500 台 AI 機器人，全面投入國家級電網的營運與維護。這絕非單一企業的實驗性專案，據估計，中國電力部門今年在「具身智慧（Embodied AI）」的總投資額將一舉突破 100 億人民幣（約 14.6 億美元），強勢將機器人技術深度整合進國家關鍵基礎設施中。 這項前所未見的大規模部署，向市場發出一個明確的產業訊號：實"
         },
         {
-          "title": "【機器人上前線】烏克蘭機器人攻下壕溝、中國 AI 沙盤推演台北街頭的群眾控制",
-          "link": "https://techorange.com/2026/04/29/robots-are-fighting-wars/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-29T02:33:44+00:00",
-          "summary": "烏克蘭與俄羅斯的戰爭已成為地面自主系統最大規模的實戰驗證場，與此同時，中國正在構想一套以 AI 主導、幾乎不需要人員接觸的城市鎮暴體系。 這兩條路徑，代表著自主武器系統在戰鬥與政治控制兩個場景中，截然不同的部署邏輯，而兩者都在快速累積實戰資料與部署經驗。 烏克蘭：從後勤補給到正面突擊 烏克蘭的機器人戰爭不是實驗，而是迫於現實的快速演進。目前超過 280 家公司投入無人機與地面機器人的生產，產品涵蓋"
+          "title": "員工養龍蝦成企業資安新漏洞，Kilo 推企業級 OpenClaw 終結影子 AI 時代",
+          "link": "https://techorange.com/2026/04/30/kilo-openclaw-kiloclaw-organizations-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-30T01:31:48+00:00",
+          "summary": "AI 新創公司 Kilo 日前推出 KiloClaw for Organizations 與 KiloClaw Chat，希望取代 OpenClaw 為企業提供一套管理個人 AI 代理的安全解決方案，解決員工的影子 AI 資安問題。"
         },
         {
-          "title": "【科技早餐】OpenAI IPO 前財務壓力浮現，龐大算力合約開始成為新考驗",
-          "link": "https://techorange.com/2026/04/29/openai-falls-short-revenue-prior-to-ipo/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-28T22:50:00+00:00",
-          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊OpenAI IPO 前財務壓力浮現，龐大算力合約成新考驗 《華爾街日報》引述知情人士報導，OpenAI 財務長弗萊爾（Sarah Friar）曾向高層表達憂慮，擔心如果營收成長不夠快，公司未來可能無法支付龐大的運算合約費用。報導指出，OpenAI 近幾個月未達成部分新用戶與營收目標，ChatGPT 去年底也沒有達到內部設定的 10 億週活躍用戶"
+          "title": "【科技早餐】AI 供應鏈把台灣推上全球第 6，台股市值正式超越加拿大",
+          "link": "https://techorange.com/2026/04/30/ai-supply-chain-lifts-taiwan-to-6th-globally-as-stock-market-value-surpasses-canada/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-29T22:50:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊AI 供應鏈推升台股市值，台灣超越加拿大站上全球第 6 根據《彭博》報導，在 AI 相關類股需求與台積電股價上漲帶動下，台灣上市企業總市值達 4.47 兆美元，超越加拿大的 4.44 兆美元，成為全球第 6 大股市。台積電市值也膨脹到約 1.8 兆美元，持續支撐台股在全球市場中的位階。 這項排名變化，反映 AI 需求不只推動半導體產值，也同步影響"
         },
         {
-          "title": "紅杉資本、NVIDIA 押注！Google DeepMind 前研究員創 AI 新創，打造「超級學習者」估值飆 51 億",
-          "link": "https://techorange.com/2026/04/28/deepminds-david-silver-ai-learns-human-data/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-28T09:46:17+00:00",
-          "summary": "英國 AI 實驗室 Ineffable Intelligence 由 Google DeepMind 前研究員 David Silver 創立，短短數月間已募得 11 億美元資金，估值達 51 億美元，加入研發新型 AI 模型的競賽，目標打造可能超越大型語言模型（LLM）的技術。 不靠人類資料訓練 AI？新創望打造「比肩達爾文」的突破 《TechCrunch》提及，Ineffable 旨在打造一個"
+          "title": "AI 如何重塑工程模擬？新思科技推出 Ansys 2026 R1 支援系統級研發",
+          "link": "https://techorange.com/2026/04/29/synopsys-ansys-2026-r1/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-29T12:09:54+00:00",
+          "summary": "隨著 AI 基礎設施的爆炸性成長，科技產業的硬體研發邏輯正發生根本性的典範轉移。新思科技在其發布會中，不只展示產品的 AI 升級、推出 Ansys 2026 R1，更強調工程模擬與分析（S&amp;A）正在從輔助工具躍升為產品開發中的決策基礎，走向系統級設計角色。 雲端巨頭重塑規則，台灣供應鏈迎來系統級挑戰 針對產業趨勢，Ansys, part of Synopsys, Taiwan Countr"
         },
         {
-          "title": "社群平台為何成最大詐騙破口？FTC 揭精準投放、私訊與個人化話術背後的 21 億美元信任漏洞",
-          "link": "https://techorange.com/2026/04/28/new-ftc-data-show-people-have-lost-billions-social-media-scams/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-28T08:01:14+00:00",
-          "summary": "美國聯邦貿易委員會（FTC）近日發布最新報告，揭示一個驚人的警訊：2025 年，高達 21 億美元的詐騙通報損失來自社群平台，占所有通報金錢損失案件的近 30%。同時，社群平台不僅是 2025 年通報損失最多的詐騙接觸管道，相關損失相較於 2020 年更暴增 8 倍。 為什麼科技巨頭耗資打造的社交護城河，會輕易成為詐騙集團的絕佳破口？關鍵就在於「極度不對稱的攻擊成本」。由於社群平台的無國界特性，無"
+          "title": "台灣邁入量子韌性元年：智慧資安攜手 CHELPIS 打造企業級量子防禦盾，聚焦金融與政府場域",
+          "link": "https://techorange.com/2026/04/29/unixecure-chelpis-quantum-resilience/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-29T10:47:06+00:00",
+          "summary": "隨著量子威脅進入倒數，在這個傳統加密面臨顛覆風險的轉折點，精誠集團旗下資安服務公司智慧資安科技（uniXecure），與長期致力於後量子密碼技術（Post-Quantum Cryptography, PQC）的 CHELPIS（池安量子資安），今日（4/29）正式宣布簽署戰略合作協議。雙方將透過技術對接與通路合作，聯手導入 CHELPIS 領先全球的 NIST（美國國家標準暨技術研究院）認證技術，"
         },
         {
-          "title": "AI 安全賽局生存戰：OpenAI 拋五大原則，揭示最新 AGI 治理藍圖",
-          "link": "https://techorange.com/2026/04/28/openai-five-principle-framework-agi-altman/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-28T05:26:20+00:00",
-          "summary": "OpenAI 執行長 Sam Altman 發布了五項營運原則，說明 OpenAI 邁向「通用人工智慧」（AGI）的方向。「公司希望 AI 能廣泛造福人類，而非讓權力集中在少數實驗室或政府手中，」他補充，隨著安全風險增加，未來的系統可能需要更嚴格的限制。 不再承諾協助對手：解析 OpenAI 新版五大營運原則 《implicator.ai》報導，OpenAI 公布的五項原則中，民主化（Democr"
+          "title": "代理式 AI 商務加速落地！FIDO 聯盟攜 Google、Mastercard 制定交易標準防失控",
+          "link": "https://techorange.com/2026/04/29/google-mastercard-ai-agents-credit-cards/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-04-29T09:49:45+00:00",
+          "summary": "AI 代理興起，越來越多任務將由 AI 代替人類執行，也衍生出新的風險。在獲得 Google 與 Mastercard 的初期貢獻支持下，專注於身分驗證的產業組織 FIDO Alliance（FIDO 聯盟）表示將成立兩個工作小組，制定產業標準，用來驗證與保護由 AI 代理執行的支付及交易行為。 AI 代理商務時代來了：FIDO 聯盟出手規範 AI 交易 工作小組目標是建立一套可跨產業採用的基礎防"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "4/30國際不打小孩日：父母停止打罵教養，是為自己童年療傷解毒",
-          "link": "https://www.gvm.com.tw/article/96661",
-          "published": "2026-04-28T19:29:00",
-          "summary": "4/30國際不打小孩日：好的家庭關係是跟孩子「對話」，而不只是「對孩子說話」；傾聽孩子的心聲，而不只是要孩子聽話。打罵是落伍又暴力的教養手段，觀察與傾聽孩子，才能給孩子需要的真正幫助。（本文摘自《剛剛好的距離》一書，作者為尚瑞君，以下為摘文。）在我小時候，也沒有被父母打罵過的印象，雖然兄弟姊妹很多，但因為父親特別疼我，他總是喜歡跟我說故事或聊天，或是帶著我出門去買東西。對照現在的教育方式來看，就是"
+          "title": "父子如何溝通?「交往以結婚為前提」的傳承哲學",
+          "link": "https://www.gvm.com.tw/article/129432",
+          "published": "2026-04-30T00:00:00",
+          "summary": "Derek用了一個生動的比喻來形容接班：「就像交往，前提是結婚。」 &nbsp; 這個比喻深刻地點出傳承的本質，這不是短期試驗，而是長期承諾。Derek強調，所有「以結婚為前提的交往」，目標都是讓一加一大於二——甚至大於五。這需要雙方在過程中不斷磨合、妥協、創造共同興趣。 &nbsp;Derek與Kenny的溝通方式，並非毫無摩擦。Kenny坦承，自己目前仍處於Derek的「陰影」之下，尚未建立獨"
         },
         {
-          "title": "那些掌握關鍵人脈的成功者，多做了1件事：懂得致謝，「這時間」效果最佳",
-          "link": "https://www.gvm.com.tw/article/129763",
-          "published": "2026-04-28T18:52:00",
-          "summary": "作者從前為了推動公司新政策，經常與同事發生衝突，終於發現，自己多年來無法加薪、升遷的原因，不在能力比人差，而是遇到狀況時「沒人想幫你」，有表現機會時，主管也不想留給你。他開始改變工作方法、態度，養成讓機會與貴人願意主動靠近的「小習慣」，這套工作方法，就是他從考績墊底，翻轉成為獨角獸企業營運長的關鍵。（本文節錄自《讓優秀的人主動靠近你》一書，作者：濱暢宏／大是出版，以下為摘文。）在隔天早上7點發感謝"
+          "title": "智慧治理翻轉農工混雜困境  彰化打造全國第一的環保典範",
+          "link": "https://www.gvm.com.tw/article/129650",
+          "published": "2026-04-30T00:00:00",
+          "summary": "彰化縣，有很多全國之最。是臺灣本島面積最小的縣級行政區，也是全國人口密度最高的縣，水稻耕作面積以及雞與牛的飼養頭數，同樣是全國最多，平均兩顆雞蛋就有一顆是來自彰化；同時，彰化縣合法登記的工廠家數是全國第五多、臨時工廠登記數則是全國第三。許多不相容的產業混居在這個狹小的城市裡，「農工混雜」是彰化縣過往常見的樣貌；而早年的雨傘、水五金與汽車零組件等金屬加工業，往往沿著灌溉與排水道設廠，當工業廢水與農業"
         },
         {
-          "title": "有扶養父母民眾注意！長照扣除額這點沒放寬？報稅攻略",
-          "link": "https://www.gvm.com.tw/article/129762",
-          "published": "2026-04-28T18:47:00",
-          "summary": "5月報稅季即將到來！除了廣受好評的手機報稅系統持續優化外，今年「長期照顧特別扣除額」從原本的12萬元大幅調升至18萬元！對於有長照需求家庭來說，若能精準掌握這項政策，並結合「扶養父母」的免稅額，將能替荷包省下可觀的稅金。一次看懂長照扣除額的適用條件、扶養父母的節稅試算，讓你今年報稅省時不踩雷！【目錄】2026長照扣除額度提高至18萬、3種情形可申請長照扣除額誰能用？小心3大地雷扶養父母可以節省多少"
+          "title": "展現量子AI研發能量 亞洲大學舉辦量子國際研討會接軌國際",
+          "link": "https://www.gvm.com.tw/article/129769",
+          "published": "2026-04-30T00:00:00",
+          "summary": "亞洲大學將於2026年6月29日舉辦「International Symposium on Quantum AI &amp; The Future of Life / 2026量子人工智慧與生命未來國際學術研討會」，邀集國內外量子科技、人工智慧、醫學與產業界重要學者專家，共同探討量子運算與AI融合發展的最新趨勢，以及其對健康照護、藥物開發、腦科學、長壽醫學與未來產業的深遠影響。此次研討會主題演講陣"
         },
         {
-          "title": "缺工危機企業主急了！請外籍學生留台就業可以嗎？",
-          "link": "https://www.gvm.com.tw/article/129761",
-          "published": "2026-04-28T18:25:00",
-          "summary": "隨著少子化與高齡化日益加劇，缺工危機的海嘯在台灣席捲了餐飲、製造等藍領階層，更蔓延至白領知識型工作。為填補勞動力缺口，僑委會、教育部等政府部會積極設法將在台就學的僑生與外籍生留在台灣就業市場。究竟，哪些行業需求孔急？而當前法令又對外籍人士在台就業，有哪些限制？外籍學生畢業之後留台就業的情況，目前又是如何呢？台灣各行業多缺工？近期台灣社會對於是否引入印度移工，有著沸沸揚揚的爭論，但此議題背後反映的是"
+          "title": "趙長鵬從億萬富翁到聯邦囚犯：回憶錄親述幣安傳奇與入獄煎熬",
+          "link": "https://www.gvm.com.tw/article/129791",
+          "published": "2026-04-29T18:44:00",
+          "summary": "2026年初，幣安（Binance）創辦人兼前執行長趙長鵬（CZ）正式出版了回憶錄《幣安人生》。趙長鵬原本給外界的印象是冷靜、總是穿著標誌性連帽衫的CEO，這是他首度透過自己的筆觸，詳盡記錄了自己從中國農村出生、移居加拿大、求學到創立幣安（Binance）傳奇，以及如何在身分巨變的低潮入獄時刻，重新定義人生價值的歷程。趙長鵬與比特幣的初遇，充滿了傳奇色彩。2013年7月，一場德州撲克牌局改變了他的"
         },
         {
-          "title": "看不見的2千名尖兵！研華如何讓AI脫離對話框，定義「第 4.5 層」競爭力？",
-          "link": "https://www.gvm.com.tw/article/129759",
-          "published": "2026-04-28T18:15:00",
-          "summary": "這不是一場單純的技術導入，而是一場動員全體員工的DNA改造。研華如何從數據「下水道」做起，已讓2000多名AI AGENTS（AI代理）數位員工與人類並肩協作，重新定義工業電腦龍頭的競爭力？走進研華位在台北內湖的總部，窗明几淨一如往常，但在看不見的數位空間裡，已有超過2000個AI Agents（AI代理）、就像多了2000多位數位員工，正與研華團隊並肩作戰。這場轉型背後，其實是一場人與流程的革命"
+          "title": "實踐大學為何吸引愈來愈多日本留學生？不是靠獎學金",
+          "link": "https://www.gvm.com.tw/article/129789",
+          "published": "2026-04-29T17:57:00",
+          "summary": "來台就讀大專院校的境外生人數持續創高，當中除了大量來自越南、印尼等東南亞國家的留學生之外，日本留學生也顯著增加，以最新的114學年度教育部數據而言，日本已是第四大國際學生來源國。而在積極走向國際化的實踐大學，更是早就將日本做為海外招生的重心，近年校內日本留學生的比例甚至幾度超過四成。實踐大學如何吸引大量日本學生就讀呢？日本學生希望在台灣獲得什麼樣不同於日本的高教體驗？實踐大學國際暨兩岸事務副校長郭"
         },
         {
-          "title": "公設比這麼高，值得嗎？台灣人買房最在意的「10大熱門公共設施」",
-          "link": "https://www.gvm.com.tw/article/129758",
-          "published": "2026-04-28T18:11:00",
-          "summary": "近年來，購屋族在評估住宅條件時，除了地段與坪數外，為了讓買房時的每一坪購屋預算發揮最大價值，「公設」逐漸成為重要考量之一。從健身房、交誼廳到游泳池，建案規劃的公設項目日益多元，也成為建商強調生活機能與居住品質的重要元素。一般來說，納入公設計算的，多為具備頂蓋的室內或半室內空間。然而，關於公設價值的網路討論卻相當分歧。一派認為，完善的公設是現代住宅的標配，能提升生活質感與社區氛圍；另一派則直言，許多"
+          "title": "《穿著Prada的惡魔2》擁有最感人的回憶！超完美續集絕對必看的5大精彩亮點",
+          "link": "https://www.gvm.com.tw/article/129784",
+          "published": "2026-04-29T17:25:00",
+          "summary": "電影《穿著Prada的惡魔2》，由《穿著Prada的惡魔》導演大衛法蘭柯回歸執導，原班人馬梅莉史翠普、安海瑟薇、艾蜜莉布朗及史丹利圖奇全都回歸演出。這不只是一部關於時尚的電影，更是一則關於職場生存、女性野心與自我認同的寓言。如果說，2006年《穿著Prada的惡魔》（The Devil Wears Prada）曾經替無數觀眾打開一扇窺探時尚產業的窗口，那麼20年後的續集，則更像是一場關於時間、選擇"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "立法會五題：確保能源供應穩定的措施",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.info.gov.hk/gia/general/202604/29/P2026042900387.htm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw16Qc4TrpoZ9l8H-6oZbkj2",
-          "published": "2026-04-29T04:17:07+00:00",
-          "summary": "... 淨零發電」和碳中和的目標。 零碳能源（包括核電和可再生能源）在二○二五年的整體發電燃料組合佔約四分一。其他發電燃料中，天然氣和煤分別佔超過一半和少&nbsp;..."
+          "title": "直播／總統賴清德主持國家<b>氣候變遷</b>對策委員會議 - YouTube",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DSELOoulKdyM&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1LimkjBgk2e-8lmE96xxZC",
+          "published": "2026-04-30T01:09:25+00:00",
+          "summary": "總統#賴清德#國家氣候變遷對策委員會（鏡新聞已上架86台，若無法收看，請洽詢當地系統台） -- 鏡電視推出個人廣告囉！ 讓你也能成為廣告主Show&nbsp;..."
         },
         {
-          "title": "<b>淨零</b>永續講師培訓深化理念貼近生活 - 慈濟",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tzuchi.org.tw/epa/index.php/2/4119-3660&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3zFIBjl0K9pkRzPFeyz_o6",
-          "published": "2026-04-29T04:06:57+00:00",
-          "summary": "淨零永續講師培訓」在花蓮靜思堂登場，吸引志工和民眾參與，期盼從日常深化對永續議題的理解，培育更多環境教育種子師資，運用於校園、社區，讓環保理念更貼近生活。"
+          "title": "【LIVE】0430賴清德總統出席「國家<b>氣候變遷</b>對策委員會委員會議」 - YouTube",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dut2ZEC89sZw&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3C-1wH-rp8ONvnGQ7PE1a5",
+          "published": "2026-04-30T00:58:05+00:00",
+          "summary": "總統府召開「國家氣候變遷對策委員會第7次委員會議」，賴清德總統出席。 #賴清德#氣候變遷#聯合報直播#總統府#國家對策#udn直播#社群熱搜#news #udn #video&nbsp;..."
         },
         {
-          "title": "加強小農碳匯立委提「綠色新幹線」串聯企業收購與氣候揭露 - 環境資訊中心",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://e-info.org.tw/node/243367&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1dgNV_KyHpDzhm4C46JfXO",
-          "published": "2026-04-29T03:47:39+00:00",
-          "summary": "全球邁向淨零目標，有立委提出鼓勵企業採購符合碳匯標準的小農農產品，可接軌ESG指標與最新財務揭露規範，也確保小農的收益、避免小農生產受到氣候變遷衝擊。"
+          "title": "已故「賭王」幼女何超欣清華畢業後留校 - 香港商報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hkcd.com.hk/hkcdweb/content/2026/04/30/content_8752833.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3a5Pd0i8y3G7k0TL9La-T9",
+          "published": "2026-04-30T00:41:30+00:00",
+          "summary": "她早前在美國麻省理工學院獲得管理學與建築學雙學士學位，2021年考入清華大學蘇世民書院，2022年獲清華大學碩士學位。現任世界大學氣候變化聯盟首席青年官、清華&nbsp;..."
         },
         {
-          "title": "全球邁向<b>碳中和</b>護林價值巨（車品覺） - EJ Tech",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ejtech.ai/ceoai/%25E5%2585%25A8%25E7%2590%2583-%25E9%2582%2581%25E5%2590%2591-%25E7%25A2%25B3%25E4%25B8%25AD%25E5%2592%258C-%25E8%25AD%25B7%25E6%259E%2597-%25E5%2583%25B9%25E5%2580%25BC-%25E8%25BB%258A%25E5%2593%2581%25E8%25A6%25BA/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw13kNSG05Cd5tBRCfyBiNF7",
-          "published": "2026-04-29T03:12:16+00:00",
-          "summary": "上周說到，在全球氣候治理的棋局裏，我們正經歷一場悄然無聲，卻影響深遠的「範式轉移」。"
+          "title": "世衛組織示警：極端高溫成全球健康威脅<b>氣候變遷</b>推升死亡率 - 商傳媒",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://sunmedia.tw/news/health/1777420940-%25E4%25B8%2596%25E8%25A1%259B%25E7%25B5%2584%25E7%25B9%2594%25E7%25A4%25BA%25E8%25AD%25A6%25EF%25BC%259A%25E6%25A5%25B5%25E7%25AB%25AF%25E9%25AB%2598%25E6%25BA%25AB%25E6%2588%2590%25E5%2585%25A8%25E7%2590%2583%25E5%2581%25A5%25E5%25BA%25B7%25E5%25A8%2581%25E8%2584%2585%2520%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E6%258E%25A8%25E5%258D%2587%25E6%25AD%25BB%25E4%25BA%25A1%25E7%258E%2587&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw363v9jvnudyjyE5ZTsdy7x",
+          "published": "2026-04-30T00:33:34+00:00",
+          "summary": "世界衛生組織（WHO）發出警告，氣候變遷正導致全球極端高溫事件激增，熱壓力已成為嚴重的健康危害，每年導致數十萬人死亡，並加劇慢性疾病惡化，呼籲各國加強應對&nbsp;..."
         },
         {
-          "title": "北極圈飆破30度！歐洲成全球變暖最快地區- 香港文匯網 - 文匯報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.wenweipo.com/a/202604/29/AP69f169f9e4b0b49ad1b8d46b.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0sSacwY3jzzL0W64MJmuL-",
-          "published": "2026-04-29T03:10:24+00:00",
-          "summary": "極端氣候事件也顯著增加。數據顯示，2025年歐洲野火過火面積約103.5萬公頃，創歷史最高紀錄。同時，水文條件持續偏緊，全年有11個月河流流量低於平均水平，約70%的&nbsp;..."
+          "title": "北京無人機新規明起施行全域管制空域及禁攜機進京等 - AASTOCKS.com",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.aastocks.com/tc/stocks/news/aafn-news/NOW.1521683/2&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw00RiYVjFBn9xjTgpFSciEY",
+          "published": "2026-04-30T00:26:35+00:00",
+          "summary": "據《央視》報道，《北京市無人駕駛航空器管理規定》將自明日(5月1日)起正式施行。新規明確，北京市行政區域全域為無人駕駛航空器管制空域，無人駕駛航空器所有&nbsp;..."
         },
         {
-          "title": "<b>氣候變遷</b>衍伸病蟲害未納入天然災害現金救助農業部允1個月內提規畫 - 聯合新聞網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7266/9471121&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3u58jbI1DchoREwPjR-nph",
-          "published": "2026-04-29T03:09:14+00:00",
-          "summary": "立委楊瓊瓔質詢時表示，隨著極端氣候加劇，農業災損型態已經明顯改變，除了颱風、豪雨等傳統天災外，病蟲害擴散、野生動物侵擾及環境變動所引發的複合型農損已成常態&nbsp;..."
+          "title": "污水處理廠規劃設太陽光電|半導體|產業新聞|產科國際所【IEK產業情報網】",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D0%26nsl_id%3D53c0a576a37545f9a234e534f3fe3b3b&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1-MrIGrUTLJaCAYF1SHpsG",
+          "published": "2026-04-29T23:32:00+00:00",
+          "summary": "行政院29日召開「氣候變遷與淨零轉型專案小組」研商會議。內政部主秘黃駿逸表示 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
         }
       ]
     }
