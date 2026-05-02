@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-05-01T04:50:02.750112+00:00",
-    "date": "2026-05-01",
+    "generated_at": "2026-05-02T04:17:53.987704+00:00",
+    "date": "2026-05-02",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,10 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "5,000 億美元星際之門計畫變形中：OpenAI 放棄自建路線，AI 算力戰進入新階段",
-          "link": "https://techorange.com/2026/04/30/stargate-has-shifted-shape/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-30T11:07:04+00:00",
-          "summary": "由美國總統川普宣布、OpenAI 主導且規模高達 5,000 億美元的 AI 基礎建設計畫「星際之門（Stargate）」正在經歷重大策略轉向。這個由 OpenAI、Oracle、軟銀與阿布達比主權基金 MGX 在 2025 年初聯合宣布的投資計畫，原本以共同出資、自建專屬資料中心為核心架構，如今卻已在多個關鍵據點悄悄轉向「以租代建」的彈性策略。 一位從一開始就參與星際之門建設的人士告訴《金融時報"
-        },
-        {
-          "title": "【DEAT 專欄】當外送、共享機車走進日常，城市其實早已在回應平台經濟",
-          "link": "https://techorange.com/2026/04/30/deat-april-column/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-30T10:00:48+00:00",
-          "summary": "早上出門用共享機車銜接捷運，中午透過外送平台解決用餐，下午在城市不同角落租借設備或空間，晚上再用數位平台安排生活服務。這些安排看起來分散，其實都在同一個城市運作脈絡之中發生。 對多數人來說，這些只是日常選擇，但對城市而言，這些選擇正在改變交通流動、空間使用與公共資源配置的方式。平台服務的影響，已經不只是線上的便利體驗，而是直接進入城市運作的核心。 延續前一篇對數位政策框架的討論，當平台逐漸跨越不同"
-        },
-        {
-          "title": "Uber 為何要把 Expedia 搬進 App？不只挑戰 Airbnb、Booking Holdings，更要防堵 AI 代理攔截訂單",
-          "link": "https://techorange.com/2026/04/30/uber-ai-travel-hotels-go-get/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-30T08:53:43+00:00",
-          "summary": "Uber 近期在美國紐約舉行的年度產品發表會 GO-GET 上，宣布將與 Expedia Group 合作，讓用戶可以直接在 Uber App 內預訂飯店。這項舉動再次凸顯 Uber 致力跳脫單純的叫車與外送框架，以打造一個「超級平台（Super App）」的強大野心。 Uber 與 Expedia 結盟後，將在 App 內新增專屬的「飯店」分頁，讓用戶可用價格、評分等條件篩選住宿。首波讓美國用戶"
-        },
-        {
-          "title": "LG 證實與 NVIDIA 展開討論：從機器人到車用系統，揭實體 AI 新競賽版圖",
-          "link": "https://techorange.com/2026/04/30/lg-electronics-nvidia-robotics-ai-data/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-30T08:32:48+00:00",
-          "summary": "LG 電子證實，已與 NVIDIA 就機器人、AI 資料中心，以及車用科技三個潛在合作領域展開討論。《Reuters》報導指出，這項消息是在 NVIDIA 實體 AI 平台資深總監 Madison Huang 造訪首爾的 LG 電子總部，並與多家韓國主要科技企業會面後曝光。 這三個討論領域正好對應兩家公司公開的核心戰略重點，顯示這次交流已不只是例行性拜訪。《The Next Web》指出，對 LG"
-        },
-        {
-          "title": "Google Cloud 營收年增 63%、AWS 創 15 季最快成長：6,000 億美元 AI 基建投資進入驗收期，雲端營收能撐住燒錢速度嗎？",
-          "link": "https://techorange.com/2026/04/30/cloud-growth-gives-big-tech-more-time-to-keep-spending/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-30T04:40:51+00:00",
-          "summary": "週三（4/29）Microsoft、Alphabet、Amazon 與 Meta 四大科技巨頭，罕見選在同一個交易日公布財報。根據《Reuters》報導，這四家被華爾街稱為「超大規模雲端服務商（Hyperscalers）」的企業，今年預計將在資料中心與其他 AI 基礎設施上，豪砸超過 6,000 億美元。 現在，市場緊盯的已經不只是充滿想像力的 AI 願景，而是這場以千億美元為單位的基礎建設大戰，"
-        },
-        {
-          "title": "Meta 低調重返穩定幣戰場！30 億用戶帝國押注加密支付新時代",
-          "link": "https://techorange.com/2026/04/30/meta-stablecoins-crypto-usdc-polygon-solana-stripe/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-04-30T04:32:18+00:00",
-          "summary": "Meta 已重返穩定幣市場。距離四年前終止先前嘗試後，這家科技巨頭如今低調向哥倫比亞與菲律賓的部分創作者推出數位貨幣付款服務。根據 Meta 官網更新，該支付功能支援透過 Solana 與 Polygon 區塊鏈網路，以穩定幣 USDC 發放款項。 可不依賴銀行跨境匯款！部分創作者可用加密錢包直收 USDC 選擇穩定幣收款的創作者，需在 Facebook 的付款平台輸入第三方加密錢包地址，Meta"
+          "title": "【行銷長 2026 AI 趨勢報告】78% CMO 陷資料孤島、顧客仍盼真人服務：解析 AI 代理規模化的多重挑戰",
+          "link": "https://techorange.com/2026/05/02/cmo-priorities-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-01T22:29:00+00:00",
+          "summary": "生成式 AI在過去一兩年間，已經在企業的內容發想與日常製作流程中取得初步且顯著的成效。現在的關鍵問題在於，如何運用更高階的「代理式 AI」技術，來深化顧客互動並重塑長期的品牌關係。 這份由 Adobe 與 Oxford Economics 共同發布的《行銷長 2026 AI 與數位趨勢報告》（CMO PRIORITIES: 2026 AI AND DIGITAL TRENDS），奠基於龐大且具代表"
         }
       ]
     },
@@ -54,40 +24,22 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "70歲如何拒絕斷崖式衰老？對任何事都別萌生「退休」念頭",
-          "link": "https://www.gvm.com.tw/article/103396",
-          "published": "2026-04-30T18:32:00",
-          "summary": "為了盡量延遲需要別人照護的時刻到來，以及過了80歲後也能保有健康活力，在最後的活躍期，也就是70幾歲這個階段的生活方式至關緊要。（本文節錄自《幸齡人生70開始》一書，作者：和田秀樹，以下為摘文。）雖然現在提倡延後退休、退休後重返職場，有鑑於勞動環境不斷改善，即使年屆高齡依然也能安心工作，但仍舊有許多人到了70歲就會陸續離開長久以來工作的職場。一旦退休後就停止所有活動的人，就是過了70歲會迅速老化的"
+          "title": "林逸欣父親癌逝！從他曾給女兒的12點叮嚀，看到富養價值",
+          "link": "https://www.gvm.com.tw/article/123535",
+          "published": "2026-05-01T11:19:00",
+          "summary": "2026/5/1編按：國內藝人林逸欣昨日悲痛表示，她的父親林春銘醫師在力抗攝護腺癌5年後已於18日凌晨辭世，享壽73歲，這也是她去年補辦婚宴的幕後原因。當時婚禮在典禮上播放了成長影片，意外引起網友熱議，許多人更直指林逸欣爸媽是「富養」典範。此為去年的省思，如今看到林逸欣表示，能夠成為爸爸的女兒，是她這輩子最大的成就，更讓人體會這一點。林春銘與另一半多年前給女兒林逸欣寫的12點叮嚀，值得重新體會。國"
         },
         {
-          "title": "瑞典文化：「沒人需要成為鑽石。」就算沒發光發熱，社會仍接納你",
-          "link": "https://www.gvm.com.tw/article/107006",
-          "published": "2026-04-30T18:31:00",
-          "summary": "瑞典同事說「沒有人需要成為鑽石」，若煤炭能自由適性地發揮自身長才與用處，那又為何一定要成為鑽石呢？你想追求這些成就當然可以，但你不想的話，也沒有關係；繼續做你自己，社會照樣運轉，就算沒有發光發熱，社會仍然接納你。（本文節錄自《斯德哥爾摩宜居指引》一書，作者：瑞典劉先生（劉晉亨），時報出版，以下為摘文。）我曾任職於一個非營利組織，人數很少，在瑞典的只有20人，而且大部分同事都是瑞典人，和我之前待的各"
+          "title": "不再只靠美國！SIPRI報告：亞太軍費增幅16年來最大增幅，台灣年增14%",
+          "link": "https://www.gvm.com.tw/article/129805",
+          "published": "2026-05-01T11:00:00",
+          "summary": "斯德哥爾摩國際和平研究所（SIPRI）指出，2025年全球軍事支出達近2.9兆美元，連續第11年成長，其中亞太國家軍事支出創16年來最大增幅，台灣年增14%至182億美元。法新社報導，全球前3大軍費支出國美國、中國與俄羅斯合計開支達1.48兆美元，占全球總支出的一半以上。亞洲軍費支出大增在亞洲與大洋洲，軍事支出達6810億美元，較2024年增加8.5%，創下該地區自2009年以來最大年度增幅。斯德"
         },
         {
-          "title": "當個能精準「斷捨離」的購物狂！極簡生活家減少物慾秘訣：只買100％喜歡的物品",
-          "link": "https://www.gvm.com.tw/article/80305",
-          "published": "2026-04-30T18:30:00",
-          "summary": "編按：「只買100％喜歡的東西」，不僅僅會讓我們更珍惜買下的東西，而且也比較不容易因為「對現有的不滿」而「想要」買新的。此外，越是挑選100％喜歡的物品再買下，就越不容易看膩。（本文摘自《末羊子的極簡日常提案》一書，作者為末羊子，以下為摘文。）常常會有人問我：明明喜歡簡單生活的感覺，但還是一直會有購物慾望跑出來，要怎麼辦？其實我自己也偶爾會遇到這樣的狀況，但為了漸進式地調整物慾，學著和這份自然產生"
-        },
-        {
-          "title": "黑幼龍的「慢教養」：孩子一生最需要的助力是性格，不是考試成績",
-          "link": "https://www.gvm.com.tw/article/79622",
-          "published": "2026-04-30T18:29:00",
-          "summary": "2024/2/21編按：美語補習班小兄妹一天只睡6小時，課業、才藝排滿滿，在車上完成學校功課、吃完晚餐！教小孩你贊成「虎爸虎媽」或「慢養」？黑幼龍老師指出，慢養是要幫助父母了解，決定孩子一生的是性格（不是考試成績）。因為在學校學到的東西，當他們畢業時就已經落伍了。（本文摘自《不管孩子，比管孩子還難》一書，作者為黑幼龍，以下為摘文。）一年365天，我們常常會做的一件事、一件很重要的事，就是關心我們的"
-        },
-        {
-          "title": "Google TPU夯到聯發科！蔡力行：CPO 布局也已就緒",
-          "link": "https://www.gvm.com.tw/article/129837",
-          "published": "2026-04-30T18:28:00",
-          "summary": "Google美股公布新一季財報，指出客製化晶片TPU需求旺，還將直接銷售，聯發科（2454）在最新一季法說會中，也釋出了相關雲端客製化晶片ASIC的正面訊息。執行長蔡力行不僅正面回應了 AI 基礎設施的強勁需求。他分析，雲端ASIC市場至2027年規模將達700億至800億美元，遠高於先前預估，突顯AI需求仍處於加速成長階段。同時，聯發科CPO技術也已提早布局，因應2028年、2029年的需求發酵"
-        },
-        {
-          "title": "我沒興趣參與你的話題！3種讓人反感的「評價式聊天」",
-          "link": "https://www.gvm.com.tw/article/105944",
-          "published": "2026-04-30T18:28:00",
-          "summary": "生活中有這樣一群人，你和他們聊天溝通的時候常常會感到不舒服，甚至還會有壓力。因為他們的話裡總是夾雜著很多個人觀點和批判。他們似乎並沒有意識到這是主觀的想法，反而覺得這是客觀的真理，並且強行地灌輸給你（本文節錄自《我不過被動的人生》一書，作者：李國翠，以下為摘文。）跟這樣的人相處，你的內心永遠會感到壓抑和孤獨。因為對方看上去好像每天都在和你傾訴肺腑之言，實際上他們的內心一直處在一種封閉狀態。這種封閉"
+          "title": "降低大腸癌「癌王」4成死亡風險！5月起雙標靶治療納入健保",
+          "link": "https://www.gvm.com.tw/article/129802",
+          "published": "2026-05-01T07:00:00",
+          "summary": "大腸癌仍是台灣最常見癌症之一，1/5初診即為第4期，尤其BRAF V600E基因突變個案，過去治療選擇有限，平均存活時間不到15個月，雙標靶治療納健保，為高風險患者帶來新希望。台灣大學附設醫院腫瘤醫學部主治醫師梁逸歆今天在記者會說，大腸癌仍是台灣人健康的重要挑戰，長期是台灣發生人數最多的癌症之一，每年仍有超過1萬9000人確診大腸直腸癌，約20%病患初診即為第4期，已轉移至其他器官或部位，如肝、肺"
         }
       ]
     },
@@ -96,40 +48,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "《通網股》遠傳治理評鑑12年穩居前5% 首發純綠色債券拚<b>淨零</b>",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20260501900071-420101&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3YJz8lh1l4kOEXawaprO_X",
-          "published": "2026-05-01T02:41:06+00:00",
-          "summary": "【時報記者王逸芯台北報導】臺灣證券交易所公布第12屆公司治理評鑑結果，遠傳（4904）再度入選上市公司前5%，並連續12年蟬聯最高評等，成為全台少數達成此一&nbsp;..."
+          "title": "因應可可供應不穩億滋國際用細胞培養可可脂製作巧克力 - PChome Online 新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/living/foodnext/20260502/index-77768468240217286009.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw06qjQCUuDwt1YMD1mJOa7V",
+          "published": "2026-05-02T01:24:48+00:00",
+          "summary": "撰文＝編輯部近年來，可可價格劇烈波動，加上氣候變遷、作物病害、可可樹老化與供應鏈不穩定等問題，讓全球巧克力製造商開始重新思考：未來的巧克力，是否只能依賴&nbsp;..."
         },
         {
-          "title": "五位<b>氣候變遷</b>民間委員提聯合聲明要求核能應舉辦公開論壇 - 工商時報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260430702381-430104&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2_PFFGu_cqk6Wp3Nd9LQIL",
-          "published": "2026-05-01T01:59:46+00:00",
-          "summary": "民間委員李根政、黃品涵、陳惠萍、雷雅淇和趙家緯透過聯合聲明，提到賴總統以未來AI用電需求及國際碳管制要求為由，認為重啟核三有其必要，並未能充分回應過往&nbsp;..."
+          "title": "Permanent OMSI exhibit spotlights <b>climate change</b> - YouTube",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Db2k4PAWYkhg&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2RMkCLqr0NKngqvMfou7s6",
+          "published": "2026-05-01T23:38:06+00:00",
+          "summary": "OMSI's new interactive exhibit in the Natural Sciences Hall explores human resiliency and hope in the face of climate change."
         },
         {
-          "title": "台電80歲賴總統三大指示|半導體|產業新聞|產科國際所【IEK產業情報網】",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D5%26nsl_id%3D75adb39104ac40b4955b6f7d24c3ca35&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1TVXNFqJvyJDSGVWi2lenP",
-          "published": "2026-05-01T01:18:50+00:00",
-          "summary": "第一，推動第二次能源轉型，發展多元綠能，深度節能，以及智慧儲能，能源安全就是國家安全，電力就是國力，同時要穩定邁向淨零 ... Net-Zero Sustainability2022｜樂淨零：&nbsp;..."
+          "title": "水治理提升為國家戰略統籌經部：投5531億推水流域永續發展| 中央廣播電臺 - LINE TODAY",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/nX3zWyq&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2JHHvlH4D8XC92Mw2QLW7d",
+          "published": "2026-05-01T22:04:17+00:00",
+          "summary": "總統府「國家氣候變遷對策委員會」今天(30日)召開第七次委員會議，經濟部在會中提出「跨部會流域系統性治理-水及流域永續發展行動計畫」，說明政..."
         },
         {
-          "title": "氣候調適從城市綠蔭開始！專家學者籲結合校園、企業公私協力 - 中央廣播電臺",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rti.org.tw/news%3Fuid%3D3%26pid%3D205920&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3MeJQKIwKjuJlBpKh0QHFW",
-          "published": "2026-05-01T01:13:24+00:00",
-          "summary": "[Rti央廣新聞] 總統府「國家氣候變遷對策委員會」今天(30日)召開第七次委員會議，聚焦城市綠地、都市調適與氣候韌性等..."
+          "title": "生物炭改善土壤健康以提升蔬菜產量並降低溫室氣體排放- 農業知識入口網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://kmweb.moa.gov.tw/theme_data.php%3Ftheme%3Dtechnology_news%26id%3D11011&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0our_PpDHyZqHXEODdTgwp",
+          "published": "2026-05-01T20:12:25+00:00",
+          "summary": "亞蔬—世界蔬菜中心（World Vegetable Center, WorldVeg）指出，氣候變遷正對蔬菜生產造成越來越多挑戰，例如氣溫上升、病蟲害威脅增加等。 集約化生產對溫室&nbsp;..."
         },
         {
-          "title": "彭啓明：地方10月底前須公布減碳方案要求強化績效| 中央廣播電臺 - LINE TODAY",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/ZarjEpX&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3mdnsnV6SLFKTiwKeAX-HJ",
-          "published": "2026-04-30T23:35:04+00:00",
-          "summary": "為實現台灣2050淨零排放目標，行政院已在今年2月26日核定六大部門的減碳計畫。環境部長彭啓明今天(30日)下午在「國家氣候變遷對策委員會」..."
+          "title": "奇美醫與成大產官學合作培育綠色醫療實力深化ESG實踐| 大成報Great News",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://greatnews.com.tw/news_pagein.php%3FiType%3D1003%26n_id%3D311377&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2JT9KK0q3u0nyjzCFJRYVt",
+          "published": "2026-05-01T19:41:48+00:00",
+          "summary": "大成報記者于郁金/臺南報導】醫療減碳力再進化！奇美醫院攜手成功大學培育50位永續醫療管理師！面對全球氣候變遷挑戰與國家淨零排放政策，醫療產業面對低碳轉型&nbsp;..."
         },
         {
-          "title": "綠蔭倍增戰略全國植樹|半導體|產業新聞|產科國際所【IEK產業情報網】",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D9%26nsl_id%3D1a59c1acb3c54af4ba0739a525c15e4b&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3rFGinggBbbAFkdvidYywb",
-          "published": "2026-04-30T23:27:44+00:00",
-          "summary": "氣候變遷委員會委員、國際半導體產業協會全球行銷長暨台灣區總裁曹世綸指出，半導體 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
+          "title": "“綠水青山就是金山銀山”：這場國際論壇讓中國綠色方案走向世界 - 华侨网",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.chinesepress.com/archives/149730&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3Dlyzow-G2h4lTb949y_1o",
+          "published": "2026-05-01T16:41:35+00:00",
+          "summary": "氣候變化、生态退化、資源約束等全球性挑戰日益嚴峻，綠色轉型和可持續發展已成爲各國共同追求，”29日，在上海合作組織綠色和可持續發展論壇開幕式現場&nbsp;..."
         }
       ]
     }
