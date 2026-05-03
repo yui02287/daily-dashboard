@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-05-02T04:17:53.987704+00:00",
-    "date": "2026-05-02",
+    "generated_at": "2026-05-03T04:40:19.234375+00:00",
+    "date": "2026-05-03",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -10,36 +10,35 @@
     {
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
-      "items": [
-        {
-          "title": "【行銷長 2026 AI 趨勢報告】78% CMO 陷資料孤島、顧客仍盼真人服務：解析 AI 代理規模化的多重挑戰",
-          "link": "https://techorange.com/2026/05/02/cmo-priorities-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-01T22:29:00+00:00",
-          "summary": "生成式 AI在過去一兩年間，已經在企業的內容發想與日常製作流程中取得初步且顯著的成效。現在的關鍵問題在於，如何運用更高階的「代理式 AI」技術，來深化顧客互動並重塑長期的品牌關係。 這份由 Adobe 與 Oxford Economics 共同發布的《行銷長 2026 AI 與數位趨勢報告》（CMO PRIORITIES: 2026 AI AND DIGITAL TRENDS），奠基於龐大且具代表"
-        }
-      ]
+      "items": []
     },
     {
       "feed_name": "遠見雜誌 - 前進的動力",
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "林逸欣父親癌逝！從他曾給女兒的12點叮嚀，看到富養價值",
-          "link": "https://www.gvm.com.tw/article/123535",
-          "published": "2026-05-01T11:19:00",
-          "summary": "2026/5/1編按：國內藝人林逸欣昨日悲痛表示，她的父親林春銘醫師在力抗攝護腺癌5年後已於18日凌晨辭世，享壽73歲，這也是她去年補辦婚宴的幕後原因。當時婚禮在典禮上播放了成長影片，意外引起網友熱議，許多人更直指林逸欣爸媽是「富養」典範。此為去年的省思，如今看到林逸欣表示，能夠成為爸爸的女兒，是她這輩子最大的成就，更讓人體會這一點。林春銘與另一半多年前給女兒林逸欣寫的12點叮嚀，值得重新體會。國"
+          "title": "突破外交封鎖！堅定走向世界，賴清德抵達史瓦帝尼王國進行國是訪問",
+          "link": "https://www.gvm.com.tw/article/129841",
+          "published": "2026-05-02T21:47:00",
+          "summary": "總統賴清德2日抵達非洲友邦史瓦帝尼展開國是訪問，總統府表示，儘管日前行程一度因外力因素暫緩，但不影響台灣走向世界的決心，此次訪問將以安全共榮、經濟共榮、數位共榮為3大主軸，深化台史邦誼，並共同維護以規則為基礎的國際秩序。總統府晚間發布新聞稿表示，在史瓦帝尼王國國王恩史瓦帝三世（H.M. King Mswati III）誠摯邀請下，賴總統今天起前往史瓦帝尼展開國是訪問，訪團一行於當地時間2日上午9時"
         },
         {
-          "title": "不再只靠美國！SIPRI報告：亞太軍費增幅16年來最大增幅，台灣年增14%",
-          "link": "https://www.gvm.com.tw/article/129805",
-          "published": "2026-05-01T11:00:00",
-          "summary": "斯德哥爾摩國際和平研究所（SIPRI）指出，2025年全球軍事支出達近2.9兆美元，連續第11年成長，其中亞太國家軍事支出創16年來最大增幅，台灣年增14%至182億美元。法新社報導，全球前3大軍費支出國美國、中國與俄羅斯合計開支達1.48兆美元，占全球總支出的一半以上。亞洲軍費支出大增在亞洲與大洋洲，軍事支出達6810億美元，較2024年增加8.5%，創下該地區自2009年以來最大年度增幅。斯德"
+          "title": "技術成為武器？歐洲政府相繼放棄用微軟，拒絕被美國勒索還能省下很多錢",
+          "link": "https://www.gvm.com.tw/article/129815",
+          "published": "2026-05-02T16:00:00",
+          "summary": "美歐關係交惡，現在愈來愈多歐洲國家的政府電子系統，要想辦法找到美國軟體的替代品。最新採取此舉的國家是瑞士，根據《新蘇黎世報週日版》 報道，瑞士政府要逐步擺脫對微軟產品的依賴，不但顧及資料安全，奪回數位主權，也可以替政府省下很多錢。越來越多的歐洲國家和地方政府，正在放棄或計劃放棄美國技術，其中微軟是受影響最大的公司之一。瑞士政府近年來在微軟軟體上花費不少錢，瑞士廣播電視台一項調查顯示，過去十年，瑞士"
         },
         {
-          "title": "降低大腸癌「癌王」4成死亡風險！5月起雙標靶治療納入健保",
-          "link": "https://www.gvm.com.tw/article/129802",
-          "published": "2026-05-01T07:00:00",
-          "summary": "大腸癌仍是台灣最常見癌症之一，1/5初診即為第4期，尤其BRAF V600E基因突變個案，過去治療選擇有限，平均存活時間不到15個月，雙標靶治療納健保，為高風險患者帶來新希望。台灣大學附設醫院腫瘤醫學部主治醫師梁逸歆今天在記者會說，大腸癌仍是台灣人健康的重要挑戰，長期是台灣發生人數最多的癌症之一，每年仍有超過1萬9000人確診大腸直腸癌，約20%病患初診即為第4期，已轉移至其他器官或部位，如肝、肺"
+          "title": "偏鄉教師留不住也補不齊！揭露他們從熱情到離開的真相",
+          "link": "https://www.gvm.com.tw/article/129797",
+          "published": "2026-05-02T11:00:00",
+          "summary": "偏鄉教師人力告急，留不住也補不齊，已成常態！教育部數據顯示，每年約350名公費生投入，卻有約18％違約離開，部分學校代理教師比例更高達三至五成。在缺師潮席捲全台下，偏鄉教育正面臨前所未有的崩解危機離開市區後，車子駛入蜿蜒山路，一路顛簸約一個多小時，才抵達一間偏鄉小學。這條漫長通勤路，是許多偏鄉教師每天的日常，也讓不少人卻步。小虹當初因為喜歡孩子，考上教師後選擇到偏鄉任教，卻很快發現，教育現場遠比想"
+        },
+        {
+          "title": "重訓加速禿頭？醫學研究斥，皮膚科醫師揭5大招「科學保髮」防掉髮",
+          "link": "https://www.gvm.com.tw/article/129814",
+          "published": "2026-05-02T07:00:00",
+          "summary": "重訓會加速禿頭？隨著全民健身風潮興起，近來網路盛傳「重訓會效刺激男性荷爾蒙分泌，使睪固酮濃度升高，導致M型禿或地中海型禿頭」！使許多健身愛好者至皮膚科門診求助，擔心自己在保髮與健身之間無法兩全，於是狂塗薑汁、生鹽在頭皮上或 1 天吞 8 顆雞蛋…等偏方以求生髮。對此，皮膚科醫師鍾佩宜引述研究駁斥，目前醫學實證並不認同「重訓導致禿頭」的說法。並強調，面對掉髮問題，與其尋求偏方，諮詢皮膚科專業醫師協助"
         }
       ]
     },
@@ -48,40 +47,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "因應可可供應不穩億滋國際用細胞培養可可脂製作巧克力 - PChome Online 新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/living/foodnext/20260502/index-77768468240217286009.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw06qjQCUuDwt1YMD1mJOa7V",
-          "published": "2026-05-02T01:24:48+00:00",
-          "summary": "撰文＝編輯部近年來，可可價格劇烈波動，加上氣候變遷、作物病害、可可樹老化與供應鏈不穩定等問題，讓全球巧克力製造商開始重新思考：未來的巧克力，是否只能依賴&nbsp;..."
+          "title": "永續成效再獲國際肯定元大金連7年入選道瓊最佳類別指數雙榜 - 自由財經",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/article/breakingnews/5423679&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3Xjo17G6CG1EyHTQqOAPyM",
+          "published": "2026-05-03T03:17:01+00:00",
+          "summary": "... 淨零目標。 道瓊永續指數（Dow Jones Sustainability Indices, DJSI）為全球首個以ESG為核心的國際性永續投資指數，是評估企業永續表現的重要指標之一，2025&nbsp;..."
         },
         {
-          "title": "Permanent OMSI exhibit spotlights <b>climate change</b> - YouTube",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Db2k4PAWYkhg&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2RMkCLqr0NKngqvMfou7s6",
-          "published": "2026-05-01T23:38:06+00:00",
-          "summary": "OMSI's new interactive exhibit in the Natural Sciences Hall explores human resiliency and hope in the face of climate change."
+          "title": "永續成效再獲國際肯定元大金連7年入選道瓊最佳類別指數雙榜 - 財富自由",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://stock.ltn.com.tw/article/cuxavrpuszpm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0ahczgoe_DVldUiqe5sN_k",
+          "published": "2026-05-03T03:07:45+00:00",
+          "summary": "... -Class Indices，DJBIC）成分股，元大金指出，已蟬聯7年「世界指數」與「新興市場指數」雙榜，穩居全球金融業永續標竿地位，持續引領台灣企業邁向永續淨零目標。"
         },
         {
-          "title": "水治理提升為國家戰略統籌經部：投5531億推水流域永續發展| 中央廣播電臺 - LINE TODAY",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/nX3zWyq&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2JHHvlH4D8XC92Mw2QLW7d",
-          "published": "2026-05-01T22:04:17+00:00",
-          "summary": "總統府「國家氣候變遷對策委員會」今天(30日)召開第七次委員會議，經濟部在會中提出「跨部會流域系統性治理-水及流域永續發展行動計畫」，說明政..."
+          "title": "台灣長期鯨豚擱淺研究出爐混獲、<b>氣候變遷</b>、疾病——24年間2225隻鯨豚遊走生與死",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ubrand.udn.com/ubrand/amp/story/123659/9470979&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0otvsxyvKL5_FqWP-ToqP1",
+          "published": "2026-05-03T00:24:36+00:00",
+          "summary": "... 氣候變遷導致的棲息地破壞和季節性漁業活動相互作用，導致威脅持續且不斷加劇。 台南七股對出海域有一隻瓶鼻海豚擱淺，經救傷診治後，於2022年3月野放。 圖&nbsp;..."
         },
         {
-          "title": "生物炭改善土壤健康以提升蔬菜產量並降低溫室氣體排放- 農業知識入口網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://kmweb.moa.gov.tw/theme_data.php%3Ftheme%3Dtechnology_news%26id%3D11011&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0our_PpDHyZqHXEODdTgwp",
-          "published": "2026-05-01T20:12:25+00:00",
-          "summary": "亞蔬—世界蔬菜中心（World Vegetable Center, WorldVeg）指出，氣候變遷正對蔬菜生產造成越來越多挑戰，例如氣溫上升、病蟲害威脅增加等。 集約化生產對溫室&nbsp;..."
+          "title": "新營區公所攜手成大研究團隊調查農田碳匯發掘<b>淨零</b>轉型潛力 - Yahoo新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E6%2596%25B0%25E7%2587%259F%25E5%258D%2580%25E5%2585%25AC%25E6%2589%2580%25E6%2594%259C%25E6%2589%258B%25E6%2588%2590%25E5%25A4%25A7%25E7%25A0%2594%25E7%25A9%25B6%25E5%259C%2598%25E9%259A%258A%25E8%25AA%25BF%25E6%259F%25A5%25E8%25BE%25B2%25E7%2594%25B0%25E7%25A2%25B3%25E5%258C%25AF-%25E7%2599%25BC%25E6%258E%2598%25E6%25B7%25A8%25E9%259B%25B6%25E8%25BD%2589%25E5%259E%258B%25E6%25BD%259B%25E5%258A%259B-095033629.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2ai9j8GZHUCktJ2DgWQ-rp",
+          "published": "2026-05-02T22:02:15+00:00",
+          "summary": "陳宏田區長強調，碳匯不僅能轉換為碳權進行交易，更能建立適應極端氣候的永續環境，期許新營農田碳匯成果能躍上國際舞台，共同實踐2050淨零排放目標。 切換到 Yahoo&nbsp;..."
         },
         {
-          "title": "奇美醫與成大產官學合作培育綠色醫療實力深化ESG實踐| 大成報Great News",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://greatnews.com.tw/news_pagein.php%3FiType%3D1003%26n_id%3D311377&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2JT9KK0q3u0nyjzCFJRYVt",
-          "published": "2026-05-01T19:41:48+00:00",
-          "summary": "大成報記者于郁金/臺南報導】醫療減碳力再進化！奇美醫院攜手成功大學培育50位永續醫療管理師！面對全球氣候變遷挑戰與國家淨零排放政策，醫療產業面對低碳轉型&nbsp;..."
+          "title": "（有影片）／褒忠麥寮健走同步開跑1800人實踐健康與<b>淨零</b>生活 - 蕃新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20260502397192&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3NZ5shDYVrgS8df0cs1eOP",
+          "published": "2026-05-02T18:55:47+00:00",
+          "summary": "「2026雲林健康嘉年華」2日分別於褒忠鄉與麥寮鄉同步登場，活動結合樂活健走、健康促進與淨零減碳行動."
         },
         {
-          "title": "“綠水青山就是金山銀山”：這場國際論壇讓中國綠色方案走向世界 - 华侨网",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.chinesepress.com/archives/149730&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3Dlyzow-G2h4lTb949y_1o",
-          "published": "2026-05-01T16:41:35+00:00",
-          "summary": "氣候變化、生态退化、資源約束等全球性挑戰日益嚴峻，綠色轉型和可持續發展已成爲各國共同追求，”29日，在上海合作組織綠色和可持續發展論壇開幕式現場&nbsp;..."
+          "title": "從21億步到1800公斤減碳雲林跨域政策成果一次看 - 元丰傳媒",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.yuanfengmedia.tw/detail.php%3Ftype%3Dlastest%26id%3D55698&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0WCeINtiL5DDAz10L5opId",
+          "published": "2026-05-02T16:51:53+00:00",
+          "summary": "【記者蘇峯毅／雲林報導】以「健康＋淨零」為主軸的「2026雲林健康嘉年華」2日同步於褒忠鄉與麥寮鄉展開，活動將健走運動、健康促進與環境永續整合為具體行動，&nbsp;..."
         }
       ]
     }
