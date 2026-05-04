@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-05-03T04:40:19.234375+00:00",
-    "date": "2026-05-03",
+    "generated_at": "2026-05-04T04:40:16.601381+00:00",
+    "date": "2026-05-04",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -10,35 +10,84 @@
     {
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
-      "items": []
+      "items": [
+        {
+          "title": "如何用 Physical AI 重構製造生產效率？鴻海、達梭與耐思尼解析產線自主化的落地實踐",
+          "link": "https://techorange.com/2026/05/04/physical-ai-foxconn-dassault-nexuni/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-04T03:41:34+00:00",
+          "summary": "「傳統產業導入 AI 或人機協力後，優化過去的生產動線與流程，就能緩解缺工帶來的營運危機，」台南市副市長趙卿惠在近日（4/28）由 TechOrange 科技報橘舉辦的「AI 智慧大工廠論壇」指出，隨著 Physical AI 的技術逐漸成熟，人形機器人、機器手臂及各類自動化服務將加速滲透至製造產業中，注入自動化生產的新動能，企業如何透過人機協作搶佔先機，已成為核心課題。 鴻海打造 Physica"
+        },
+        {
+          "title": "鴻海攜手 NVIDIA 共同打造製造工廠虛擬練功場，解析 Physical AI 的落地實踐",
+          "link": "https://techorange.com/2026/05/04/physicalai-foxconn-aiagent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-04T03:40:00+00:00",
+          "summary": "「把人力拿去做更有效的使用，而不是讓 AI 把這些人力取代掉，透過 AI 的協助可以讓人力去做更有價值的工作，」鴻海科技集團智慧製造平台處長郭錦斌在近日（4/28）由 TechOrange 科技報橘舉辦的「AI 智慧大工廠論壇台南場」，表示 AI 的初衷是讓人力發揮更大的價值，而非取代人類。 從 CNC 到醫療產業，破解場域三大難題 郭錦斌首先歸納出目前工業與醫療場域面臨的三大難題。首先是 CNC"
+        },
+        {
+          "title": "不想滑社群，但又不能錯過你要的情報？Noscroll AI 機器人幫你盯著所有消息",
+          "link": "https://techorange.com/2026/05/04/meet-noscroll/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-04T03:08:02+00:00",
+          "summary": "社群媒體的資訊密度與使用體驗之間，存在著一個讓許多人陷入兩難的矛盾，所謂 doomscrolling，指的是強迫性消費負面或令人不安的內容，即使已感到心理疲勞仍無法停止，而這是演算法驅動的社群平台長期優化參與度的結果。 舉例來說，X 上就有著傳統媒體給不了的即時性與深度，但滑起來又讓人感覺很糟。 Noscroll 的創辦人 Nadav Hollander 把這個矛盾描述得很直白：「就像速食，你吃完"
+        },
+        {
+          "title": "81% 金融業已導入 AI，監管卻跟不上！劍橋報告示警銀行老舊系統與「資料盲點」恐成致命破口",
+          "link": "https://techorange.com/2026/05/04/2026-global-ai-in-financial-services-report/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-04T01:59:37+00:00",
+          "summary": "劍橋大學賈吉商學院（Cambridge Judge Business School）旗下 Cambridge Centre for Alternative Finance（CCAF），攜手國際清算銀行（BIS）、國際貨幣基金組織（IMF）與世界經濟論壇（WEF）等重量級機構，最新發布《2026 Global AI in Financial Services Report》報告。這份深度調查全球橫跨"
+        },
+        {
+          "title": "【行銷產業陷焦慮】為讓 AI 推薦自家產品，虛假文章、投毒操縱花招盡出",
+          "link": "https://techorange.com/2026/05/04/google-search-ai-seo-geo-poisoning/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-04T01:54:49+00:00",
+          "summary": "在 Google 正式宣布將 AI 功能導入搜尋引擎之後，過去單純列出網站連結並進行排序的傳統做法，被 AI 主動進行的內容摘要逐步取代，更使搜尋引擎最佳化（SEO）產業備受考驗。"
+        },
+        {
+          "title": "【科技早餐】AI 還沒變便宜，Meta 先裁員 10%，科技業成本取捨浮上檯面",
+          "link": "https://techorange.com/2026/05/04/ai-is-expensive-meta-cut-10-jobs-tech-cost-trade-offs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-03T22:50:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Meta 裁員連到 AI 算力支出，科技業面對人力與算力取捨 《路透》報導，Meta 執行長祖克柏（Mark Zuckerberg）在員工大會中表示，公司主要成本來源包括運算基礎設施與人力支出；如果一邊加大投資，另一邊可分配資本就會減少，因此公司規模必須調整。Meta 預計 5 月 20 日裁減約 10% 員工，下半年也不排除進一步裁員。 祖克柏"
+        }
+      ]
     },
     {
       "feed_name": "遠見雜誌 - 前進的動力",
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "突破外交封鎖！堅定走向世界，賴清德抵達史瓦帝尼王國進行國是訪問",
-          "link": "https://www.gvm.com.tw/article/129841",
-          "published": "2026-05-02T21:47:00",
-          "summary": "總統賴清德2日抵達非洲友邦史瓦帝尼展開國是訪問，總統府表示，儘管日前行程一度因外力因素暫緩，但不影響台灣走向世界的決心，此次訪問將以安全共榮、經濟共榮、數位共榮為3大主軸，深化台史邦誼，並共同維護以規則為基礎的國際秩序。總統府晚間發布新聞稿表示，在史瓦帝尼王國國王恩史瓦帝三世（H.M. King Mswati III）誠摯邀請下，賴總統今天起前往史瓦帝尼展開國是訪問，訪團一行於當地時間2日上午9時"
+          "title": "橫掃國內外逾50項大獎　桃園用AI改變城市",
+          "link": "https://www.gvm.com.tw/article/129264",
+          "published": "2026-05-04T00:00:00",
+          "summary": "當代城市面對複合型挑戰，必備跨界應對能耐！桃園市政府於2024年成立「智慧城鄉發展委員會」，打造城市「超級大腦」，加乘臺灣門戶、產業心臟、穩固基礎建設與AI供應鏈多重優勢，匯聚成為發展智慧城市的強大實力，整合跨局處資源、處理跨領域議題，提前預判、精準定位、解決痛點，讓智慧治理高效暖心，快速回應市民需求、持續改善城市日常。位居六都人口成長之冠的桃園，積極提升智慧治理，以因應交通、環境等多項挑戰，今年"
         },
         {
-          "title": "技術成為武器？歐洲政府相繼放棄用微軟，拒絕被美國勒索還能省下很多錢",
-          "link": "https://www.gvm.com.tw/article/129815",
-          "published": "2026-05-02T16:00:00",
-          "summary": "美歐關係交惡，現在愈來愈多歐洲國家的政府電子系統，要想辦法找到美國軟體的替代品。最新採取此舉的國家是瑞士，根據《新蘇黎世報週日版》 報道，瑞士政府要逐步擺脫對微軟產品的依賴，不但顧及資料安全，奪回數位主權，也可以替政府省下很多錢。越來越多的歐洲國家和地方政府，正在放棄或計劃放棄美國技術，其中微軟是受影響最大的公司之一。瑞士政府近年來在微軟軟體上花費不少錢，瑞士廣播電視台一項調查顯示，過去十年，瑞士"
+          "title": "「負重行走」其實是人類丟失的本能？風靡全歐美運動，比跑步更燃脂！",
+          "link": "https://www.gvm.com.tw/article/129820",
+          "published": "2026-05-03T19:02:00",
+          "summary": "負重行走每一公里消耗的熱量，比單純走路或跑步都多，也更能燃燒脂肪。它能幫助我們鍛鍊並維持肌肉，讓我們隨著年齡成長，仍維持最佳狀態；它能強化骨骼，這對長壽與身體韌性至關重要；它能預防現代人最常見的一些問題，例如下背痛與行動能力受限。它可以培養持久的耐力，讓我們的體力足以連續活動好幾天，進而大幅改善代謝健康。（本文節錄自《Rucking負重行走》一書，作者：麥可．伊斯特／商周出版，以下為摘文。）人類其"
         },
         {
-          "title": "偏鄉教師留不住也補不齊！揭露他們從熱情到離開的真相",
-          "link": "https://www.gvm.com.tw/article/129797",
-          "published": "2026-05-02T11:00:00",
-          "summary": "偏鄉教師人力告急，留不住也補不齊，已成常態！教育部數據顯示，每年約350名公費生投入，卻有約18％違約離開，部分學校代理教師比例更高達三至五成。在缺師潮席捲全台下，偏鄉教育正面臨前所未有的崩解危機離開市區後，車子駛入蜿蜒山路，一路顛簸約一個多小時，才抵達一間偏鄉小學。這條漫長通勤路，是許多偏鄉教師每天的日常，也讓不少人卻步。小虹當初因為喜歡孩子，考上教師後選擇到偏鄉任教，卻很快發現，教育現場遠比想"
+          "title": "被詐騙很丟臉？「3不3要」原則：讓家庭成為打詐的第一道防線",
+          "link": "https://www.gvm.com.tw/article/129818",
+          "published": "2026-05-03T18:59:00",
+          "summary": "過去，我們總覺得被騙很丟臉而選擇沉默，但這種「沉默文化」，正是詐騙集團最愛利用的弱點。當受害者因為羞愧而不願求助時，詐騙集團就能為所欲為。所以，防詐的第一步，就是不要把詐騙當成「不能說的祕密」。（本文節錄自《陪家人拆「詐」彈》一書，作者：陳安迪／寶瓶文化出版，以下為摘文。）第一步：打破沉默，把「詐騙」搬上桌根據警政署統計，詐騙案件層出不窮，每年都有數萬人受害，財損金額更是天文數字，而且受害者的年齡"
         },
         {
-          "title": "重訓加速禿頭？醫學研究斥，皮膚科醫師揭5大招「科學保髮」防掉髮",
-          "link": "https://www.gvm.com.tw/article/129814",
-          "published": "2026-05-02T07:00:00",
-          "summary": "重訓會加速禿頭？隨著全民健身風潮興起，近來網路盛傳「重訓會效刺激男性荷爾蒙分泌，使睪固酮濃度升高，導致M型禿或地中海型禿頭」！使許多健身愛好者至皮膚科門診求助，擔心自己在保髮與健身之間無法兩全，於是狂塗薑汁、生鹽在頭皮上或 1 天吞 8 顆雞蛋…等偏方以求生髮。對此，皮膚科醫師鍾佩宜引述研究駁斥，目前醫學實證並不認同「重訓導致禿頭」的說法。並強調，面對掉髮問題，與其尋求偏方，諮詢皮膚科專業醫師協助"
+          "title": "產品賣不出去，原因往往很殘酷：不是客戶沒預算，而是你沒做到「這件事」",
+          "link": "https://www.gvm.com.tw/article/129816",
+          "published": "2026-05-03T18:57:00",
+          "summary": "我常看到一種最冤的失敗現場：你準備了最漂亮的簡報，產品功能、競品分析樣樣齊全，最後客戶仍然回你一句「我們再看看」。你回頭檢討，以為是自己講得不夠精彩、價格不夠甜、關係不夠近，但核心的問題往往更殘酷──客戶根本沒有「買的理由」，他只有「聽的興趣」。（本文節錄自《頂尖銷售的底層思維》一書，作者：范永銀（范大／Nathan）／天下文化出版，以下為摘文。）企業的決策從來不是喜好，而是風險。CEO、事業部負"
+        },
+        {
+          "title": "心理學「峰終定律」：隔天早上7點發致謝訊息，讓你的感謝更有影響力",
+          "link": "https://www.gvm.com.tw/article/129763",
+          "published": "2026-05-03T18:55:00",
+          "summary": "作者從前為了推動公司新政策，經常與同事發生衝突，終於發現，自己多年來無法加薪、升遷的原因，不在能力比人差，而是遇到狀況時「沒人想幫你」，有表現機會時，主管也不想留給你。他開始改變工作方法、態度，養成讓機會與貴人願意主動靠近的「小習慣」，這套工作方法，就是他從考績墊底，翻轉成為獨角獸企業營運長的關鍵。（本文節錄自《讓優秀的人主動靠近你》一書，作者：濱暢宏／大是出版，以下為摘文。）在隔天早上7點發感謝"
+        },
+        {
+          "title": "公眾人物「言行一致」為何如此重要？眞正走得長遠的人，都是先對自己誠實的人",
+          "link": "https://www.gvm.com.tw/article/129724",
+          "published": "2026-05-03T18:52:00",
+          "summary": "在個人品牌的世界裡，真正能累積影響力的，從來不是說得多漂亮，而是「說出口的話，是否真的變成行動」。語言如果只是包裝，而行為是另一套邏輯，人們也許一開始會被吸引，卻很快就會產生不安與懷疑。相反地，當一個人長期呈現出言行一致的狀態，他所散發的不是說服力，而是一種讓人願意靠近、願意跟隨的安心感。這份安心，正是好感能夠累積，並逐步轉化為影響力的核心關鍵。（本文節錄自《好感影響力》一書，作者：梁哲維／遠流出"
         }
       ]
     },
@@ -47,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "永續成效再獲國際肯定元大金連7年入選道瓊最佳類別指數雙榜 - 自由財經",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/article/breakingnews/5423679&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3Xjo17G6CG1EyHTQqOAPyM",
-          "published": "2026-05-03T03:17:01+00:00",
-          "summary": "... 淨零目標。 道瓊永續指數（Dow Jones Sustainability Indices, DJSI）為全球首個以ESG為核心的國際性永續投資指數，是評估企業永續表現的重要指標之一，2025&nbsp;..."
+          "title": "遠傳再奪全球電信永續第1！ 蟬聯入選DJBIC「道瓊領先指數」 - 中央社",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/business/chinese/432424&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw03VgHuEPajYA3aaUu2aXls",
+          "published": "2026-05-04T03:08:56+00:00",
+          "summary": "在減緩氣候變遷行動上，遠傳於「遠亞併」後迅速重新通過SBTi 1.5°C科學基礎減碳近程目標，承諾2048年達成全面淨零排放，並加入RE100，承諾2030年辦公室、直營門市及&nbsp;..."
         },
         {
-          "title": "永續成效再獲國際肯定元大金連7年入選道瓊最佳類別指數雙榜 - 財富自由",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://stock.ltn.com.tw/article/cuxavrpuszpm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0ahczgoe_DVldUiqe5sN_k",
-          "published": "2026-05-03T03:07:45+00:00",
-          "summary": "... -Class Indices，DJBIC）成分股，元大金指出，已蟬聯7年「世界指數」與「新興市場指數」雙榜，穩居全球金融業永續標竿地位，持續引領台灣企業邁向永續淨零目標。"
+          "title": "高中職應屆畢業生充分利用暑假參加「環境部<b>淨零</b>綠領人才培育課程」 得享6000元學費優惠",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://blog.104.com.tw/%3Fpost_type%3Dpost%26p%3D230806&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0Ak86s9WtCSj2ofCy0-HhC",
+          "published": "2026-05-04T03:00:53+00:00",
+          "summary": "張順欽強調，本培育課程共計48小時，由全國37所結盟大學開班。課程最大特色在於納入了歐盟碳邊境調整機制(CBAM)、碳排放交易制度(ETS)以及我國碳費等最新、最熱門&nbsp;..."
         },
         {
-          "title": "台灣長期鯨豚擱淺研究出爐混獲、<b>氣候變遷</b>、疾病——24年間2225隻鯨豚遊走生與死",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ubrand.udn.com/ubrand/amp/story/123659/9470979&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0otvsxyvKL5_FqWP-ToqP1",
-          "published": "2026-05-03T00:24:36+00:00",
-          "summary": "... 氣候變遷導致的棲息地破壞和季節性漁業活動相互作用，導致威脅持續且不斷加劇。 台南七股對出海域有一隻瓶鼻海豚擱淺，經救傷診治後，於2022年3月野放。 圖&nbsp;..."
+          "title": "輔英科大進駐科教館打造<b>淨零</b>展區邀您一窺綠色永續發展 - 天天上新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://mknews.com.tw/2026/05/943498/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3rfSsmftvyhRoUhIWmqrNz",
+          "published": "2026-05-04T02:46:04+00:00",
+          "summary": "林爵士校長表示，臺灣自2025年起正式開徵碳費，顯示淨零轉型勢在必行，綠領人才需求快速攀升。此次由輔英環境工程與科學系團隊為常設展區原有的七大熱門產業補上淨&nbsp;..."
         },
         {
-          "title": "新營區公所攜手成大研究團隊調查農田碳匯發掘<b>淨零</b>轉型潛力 - Yahoo新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E6%2596%25B0%25E7%2587%259F%25E5%258D%2580%25E5%2585%25AC%25E6%2589%2580%25E6%2594%259C%25E6%2589%258B%25E6%2588%2590%25E5%25A4%25A7%25E7%25A0%2594%25E7%25A9%25B6%25E5%259C%2598%25E9%259A%258A%25E8%25AA%25BF%25E6%259F%25A5%25E8%25BE%25B2%25E7%2594%25B0%25E7%25A2%25B3%25E5%258C%25AF-%25E7%2599%25BC%25E6%258E%2598%25E6%25B7%25A8%25E9%259B%25B6%25E8%25BD%2589%25E5%259E%258B%25E6%25BD%259B%25E5%258A%259B-095033629.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2ai9j8GZHUCktJ2DgWQ-rp",
-          "published": "2026-05-02T22:02:15+00:00",
-          "summary": "陳宏田區長強調，碳匯不僅能轉換為碳權進行交易，更能建立適應極端氣候的永續環境，期許新營農田碳匯成果能躍上國際舞台，共同實踐2050淨零排放目標。 切換到 Yahoo&nbsp;..."
+          "title": "聯合國碳市場新制上路首批碳權較舊機制大砍四成 - 環境資訊中心",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://e-info.org.tw/node/243329&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2xpFIob_fFgoh_JawREE9E",
+          "published": "2026-05-04T02:35:18+00:00",
+          "summary": "改革弊端新制在期待中上路. 《聯合國氣候變化綱要公約》（UNFCCC）2月發出聲明，批准《巴黎協定》規範的&nbsp;..."
         },
         {
-          "title": "（有影片）／褒忠麥寮健走同步開跑1800人實踐健康與<b>淨零</b>生活 - 蕃新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20260502397192&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3NZ5shDYVrgS8df0cs1eOP",
-          "published": "2026-05-02T18:55:47+00:00",
-          "summary": "「2026雲林健康嘉年華」2日分別於褒忠鄉與麥寮鄉同步登場，活動結合樂活健走、健康促進與淨零減碳行動."
+          "title": "國環院<b>淨零</b>綠領人才課程學費準大學生同享半價 - 經濟日報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/7307/9479963%3Ffrom%3Dedn_related_storybottom&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3DhLlkUH26J99XUy7YWw1o",
+          "published": "2026-05-04T02:17:24+00:00",
+          "summary": "「環境部淨零綠領人才培育課程」報名費（學費）為1萬2000元，由開班學校收取，凡年齡30歲以下大專校院在學生、身心障礙者及（中）低收入戶等對象，測驗及格後，可申請&nbsp;..."
         },
         {
-          "title": "從21億步到1800公斤減碳雲林跨域政策成果一次看 - 元丰傳媒",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.yuanfengmedia.tw/detail.php%3Ftype%3Dlastest%26id%3D55698&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0WCeINtiL5DDAz10L5opId",
-          "published": "2026-05-02T16:51:53+00:00",
-          "summary": "【記者蘇峯毅／雲林報導】以「健康＋淨零」為主軸的「2026雲林健康嘉年華」2日同步於褒忠鄉與麥寮鄉展開，活動將健走運動、健康促進與環境永續整合為具體行動，&nbsp;..."
+          "title": "輔英科大進駐科教館打造<b>淨零</b>展區邀您一窺綠色永續發展 - PChome Online 新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/living/twpowernews/20260504/index-17778600372018247009.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0tGgC9-_g-jG13_cDlGulX",
+          "published": "2026-05-04T02:10:57+00:00",
+          "summary": "【勁報-記者蔡宗憲/高雄報導】輔英科技大學北上進駐國立臺灣科學教育館「技職FUN星際」常設展區，新增「淨零時代的『綠色職』力—創造你的永續未來」主題展，&nbsp;..."
         }
       ]
     }
