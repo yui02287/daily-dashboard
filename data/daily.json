@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-05-04T04:40:16.601381+00:00",
-    "date": "2026-05-04",
+    "generated_at": "2026-05-05T04:16:08.461800+00:00",
+    "date": "2026-05-05",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "如何用 Physical AI 重構製造生產效率？鴻海、達梭與耐思尼解析產線自主化的落地實踐",
-          "link": "https://techorange.com/2026/05/04/physical-ai-foxconn-dassault-nexuni/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-04T03:41:34+00:00",
-          "summary": "「傳統產業導入 AI 或人機協力後，優化過去的生產動線與流程，就能緩解缺工帶來的營運危機，」台南市副市長趙卿惠在近日（4/28）由 TechOrange 科技報橘舉辦的「AI 智慧大工廠論壇」指出，隨著 Physical AI 的技術逐漸成熟，人形機器人、機器手臂及各類自動化服務將加速滲透至製造產業中，注入自動化生產的新動能，企業如何透過人機協作搶佔先機，已成為核心課題。 鴻海打造 Physica"
+          "title": "Edge AI 從 POC 走向規模化：研華嵌入式事業群總經理張家豪揭三大落地場景與挑戰",
+          "link": "https://techorange.com/2026/05/05/edge-ai-advantech/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-05T03:02:46+00:00",
+          "summary": "專訪：戴季全撰稿：李昀蔚 當 AI 從雲端模型走向真實世界，邊緣 AI（Edge AI）與實體 AI（Physical AI）正成為企業導入的下一個關鍵戰場。「2026 年是 Edge AI 跟 Physical AI 爆發的起始點，」研華嵌入式事業群總經理張家豪在本集《全新一週》特別提到，隨著 AI 深入工廠、醫療、機器人等場域，將所有資料送回雲端處理已不切實際，為了滿足低延遲、資料隱私與即時反"
         },
         {
-          "title": "鴻海攜手 NVIDIA 共同打造製造工廠虛擬練功場，解析 Physical AI 的落地實踐",
-          "link": "https://techorange.com/2026/05/04/physicalai-foxconn-aiagent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-04T03:40:00+00:00",
-          "summary": "「把人力拿去做更有效的使用，而不是讓 AI 把這些人力取代掉，透過 AI 的協助可以讓人力去做更有價值的工作，」鴻海科技集團智慧製造平台處長郭錦斌在近日（4/28）由 TechOrange 科技報橘舉辦的「AI 智慧大工廠論壇台南場」，表示 AI 的初衷是讓人力發揮更大的價值，而非取代人類。 從 CNC 到醫療產業，破解場域三大難題 郭錦斌首先歸納出目前工業與醫療場域面臨的三大難題。首先是 CNC"
+          "title": "烏克蘭「戰場回饋循環」：串聯 AI、前線士兵與軍火商，讓軍用無人機持續高速進化",
+          "link": "https://techorange.com/2026/05/05/ukraine-ai-drone-war-loop-weapon/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-05T01:23:21+00:00",
+          "summary": "烏克蘭之所以能在戰場上取得牽制俄羅斯的優勢，不只因為數量龐大的無人機，更是由於背後 AI、前線士兵與武器製造商，共同建立的高效率「戰場回饋循環」。"
         },
         {
-          "title": "不想滑社群，但又不能錯過你要的情報？Noscroll AI 機器人幫你盯著所有消息",
-          "link": "https://techorange.com/2026/05/04/meet-noscroll/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-04T03:08:02+00:00",
-          "summary": "社群媒體的資訊密度與使用體驗之間，存在著一個讓許多人陷入兩難的矛盾，所謂 doomscrolling，指的是強迫性消費負面或令人不安的內容，即使已感到心理疲勞仍無法停止，而這是演算法驅動的社群平台長期優化參與度的結果。 舉例來說，X 上就有著傳統媒體給不了的即時性與深度，但滑起來又讓人感覺很糟。 Noscroll 的創辦人 Nadav Hollander 把這個矛盾描述得很直白：「就像速食，你吃完"
+          "title": "【資本慣性造成的戰略盲點】機器人市場規模是軟體的 30 倍，但資本投入差距 18 倍",
+          "link": "https://techorange.com/2026/05/05/under-investing-in-robotics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-05T01:22:51+00:00",
+          "summary": "過去五年，全球有 745 家軟體公司拿到超過 3,000 萬美元的融資，同一時間獲得同等規模資金的機器人公司只有 42 家，差距將近 18 倍。但機器人對應的基礎市場規模，其實是軟體的 30 倍。 投資缺口與市場錯配 根據創投企業 Bessemer Venture Partners 的報告指出，多數分析師預測機器人產業在未來十年會成長 50 倍，Bessemer 合夥人 Jeremy Levine"
         },
         {
-          "title": "81% 金融業已導入 AI，監管卻跟不上！劍橋報告示警銀行老舊系統與「資料盲點」恐成致命破口",
-          "link": "https://techorange.com/2026/05/04/2026-global-ai-in-financial-services-report/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-04T01:59:37+00:00",
-          "summary": "劍橋大學賈吉商學院（Cambridge Judge Business School）旗下 Cambridge Centre for Alternative Finance（CCAF），攜手國際清算銀行（BIS）、國際貨幣基金組織（IMF）與世界經濟論壇（WEF）等重量級機構，最新發布《2026 Global AI in Financial Services Report》報告。這份深度調查全球橫跨"
+          "title": "【科技早餐】黃仁勳稱中國市占歸零，NVIDIA 物理 AI 把亞洲供應鏈占比推上 90%",
+          "link": "https://techorange.com/2026/05/05/jensen-huang-says-nvidia-china-market-share-dropped-to-zero-as-physical-ai-pushes-asia-supply-chain-share-to-90/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-04T22:50:00+00:00",
+          "summary": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊黃仁勳稱 NVIDIA 中國 AI 晶片市占歸零，出口管制反效果浮上檯面 NVIDIA 執行長黃仁勳（Jensen Huang）近日在《Memos to the President》節目中表示，受到美國出口管制與中國本土供應商崛起影響，NVIDIA 在中國 AI 加速器市場的市占率，已從過去的領先位置降到 0%。他指出，放棄中國這樣規模龐大的市場"
         },
         {
-          "title": "【行銷產業陷焦慮】為讓 AI 推薦自家產品，虛假文章、投毒操縱花招盡出",
-          "link": "https://techorange.com/2026/05/04/google-search-ai-seo-geo-poisoning/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-04T01:54:49+00:00",
-          "summary": "在 Google 正式宣布將 AI 功能導入搜尋引擎之後，過去單純列出網站連結並進行排序的傳統做法，被 AI 主動進行的內容摘要逐步取代，更使搜尋引擎最佳化（SEO）產業備受考驗。"
+          "title": "駭客不需駭入系統，只要讓你的 AI 客服讀一封信：趨勢科技 TrendAI 揭三大攻擊型態升級",
+          "link": "https://techorange.com/2026/05/04/ai-trendai-security/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-04T11:59:06+00:00",
+          "summary": "隨著 AI 技術演進，企業希望盡快導入 AI 驅動創新，卻也面臨風險控管的兩難。趨勢科技旗下 TrendAI 調查，74% 的台灣受訪企業決策者坦言，過去曾在高層要求或市場競爭壓力下，被迫核准在企業導入可能帶來資安風險的 AI 方案；同時只有不到一半的企業認為內部團隊能辨識惡意或異常的 AI 行為，顯示台灣企業正面臨「盲目導入 AI」的高度風險。 不過，究竟企業當前面對的是什麼樣的資安風險、該如何"
         },
         {
-          "title": "【科技早餐】AI 還沒變便宜，Meta 先裁員 10%，科技業成本取捨浮上檯面",
-          "link": "https://techorange.com/2026/05/04/ai-is-expensive-meta-cut-10-jobs-tech-cost-trade-offs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-03T22:50:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Meta 裁員連到 AI 算力支出，科技業面對人力與算力取捨 《路透》報導，Meta 執行長祖克柏（Mark Zuckerberg）在員工大會中表示，公司主要成本來源包括運算基礎設施與人力支出；如果一邊加大投資，另一邊可分配資本就會減少，因此公司規模必須調整。Meta 預計 5 月 20 日裁減約 10% 員工，下半年也不排除進一步裁員。 祖克柏"
+          "title": "打造人形機器人界的 Android：Meta 如何透過收購 ARI，搶攻 Physical AI 底層平台？",
+          "link": "https://techorange.com/2026/05/04/meta-acquires-assured-robot-intelligence-to-help-build-humanoid-technology/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-04T09:19:05+00:00",
+          "summary": "Meta 近日正式宣布，已收購專注於開發人形機器人 AI 模型的新創公司 Assured Robot Intelligence（ARI）。 針對這項關鍵佈局，Meta 發言人透過聲明表示：「我們收購 ARI 這家位居機器人智慧前沿的公司，為的就是讓機器人能在複雜、動態的環境中，精準理解、預測並適應人類行為。」 這步棋背後的戰略意義極為清晰。在特斯拉（Tesla）、Google 與亞馬遜（Amazo"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "橫掃國內外逾50項大獎　桃園用AI改變城市",
-          "link": "https://www.gvm.com.tw/article/129264",
-          "published": "2026-05-04T00:00:00",
-          "summary": "當代城市面對複合型挑戰，必備跨界應對能耐！桃園市政府於2024年成立「智慧城鄉發展委員會」，打造城市「超級大腦」，加乘臺灣門戶、產業心臟、穩固基礎建設與AI供應鏈多重優勢，匯聚成為發展智慧城市的強大實力，整合跨局處資源、處理跨領域議題，提前預判、精準定位、解決痛點，讓智慧治理高效暖心，快速回應市民需求、持續改善城市日常。位居六都人口成長之冠的桃園，積極提升智慧治理，以因應交通、環境等多項挑戰，今年"
+          "title": "新竹能否躍升亞洲AI科技城？",
+          "link": "https://www.gvm.com.tw/article/129648",
+          "published": "2026-05-05T00:00:00",
+          "summary": "這幾年，新竹被談論的方式變了，一躍成為全球AI與半導體供應鏈上最為響亮的名字。國際媒體來採訪、外商加碼投資、全台最高的家庭所得與最年輕的人口結構，讓這座城市的發展動能持續上升。當新竹的產業地位已經與國際都會並肩，這座科技城裡的生活，是否也該有新的想像？跟著城市一起長大，最懂在地人的需求新竹的實力不只反映在所得數字，更體現在居住體驗。在英國牛津經濟研究院2025年全球城市指數中，新竹以「生活品質」指"
         },
         {
-          "title": "「負重行走」其實是人類丟失的本能？風靡全歐美運動，比跑步更燃脂！",
-          "link": "https://www.gvm.com.tw/article/129820",
-          "published": "2026-05-03T19:02:00",
-          "summary": "負重行走每一公里消耗的熱量，比單純走路或跑步都多，也更能燃燒脂肪。它能幫助我們鍛鍊並維持肌肉，讓我們隨著年齡成長，仍維持最佳狀態；它能強化骨骼，這對長壽與身體韌性至關重要；它能預防現代人最常見的一些問題，例如下背痛與行動能力受限。它可以培養持久的耐力，讓我們的體力足以連續活動好幾天，進而大幅改善代謝健康。（本文節錄自《Rucking負重行走》一書，作者：麥可．伊斯特／商周出版，以下為摘文。）人類其"
+          "title": "川普支持度新低！宣布對伊終戰，美啟動「自由計畫」因應荷姆茲危機",
+          "link": "https://www.gvm.com.tw/article/129869",
+          "published": "2026-05-04T18:06:00",
+          "summary": "川普宣布，結束針對伊朗的敵對行動，並啟動「自由計畫」營救滯留海灣地區的船隻。然而，荷姆茲海峽危機引發能源危機衝擊，他的支持率已崩跌至37%的歷史新低，顯示「川普經濟學」已難以安撫受高物價衝擊的選民。面對《戰爭權力法》的時限壓力，美國總統川普（Donald Trump）1日宣布，針對伊朗的敵對行動已結束，並於4日啟動「自由計畫」（Project Freedom），引導滯留海灣地區的船隻離開荷姆茲海峽"
         },
         {
-          "title": "被詐騙很丟臉？「3不3要」原則：讓家庭成為打詐的第一道防線",
-          "link": "https://www.gvm.com.tw/article/129818",
-          "published": "2026-05-03T18:59:00",
-          "summary": "過去，我們總覺得被騙很丟臉而選擇沉默，但這種「沉默文化」，正是詐騙集團最愛利用的弱點。當受害者因為羞愧而不願求助時，詐騙集團就能為所欲為。所以，防詐的第一步，就是不要把詐騙當成「不能說的祕密」。（本文節錄自《陪家人拆「詐」彈》一書，作者：陳安迪／寶瓶文化出版，以下為摘文。）第一步：打破沉默，把「詐騙」搬上桌根據警政署統計，詐騙案件層出不窮，每年都有數萬人受害，財損金額更是天文數字，而且受害者的年齡"
+          "title": "突圍北京外交封鎖，賴清德出訪史瓦帝尼！未來怎麼回？回國日期？",
+          "link": "https://www.gvm.com.tw/article/129868",
+          "published": "2026-05-04T18:02:00",
+          "summary": "總統賴清德上任後的首次國事訪問，在眾人一遍驚訝聲中啟航。原訂上月22日的友邦訪問，因為東非三國受北京經濟施壓臨時取消，總統府當時雖稱「行程將暫緩」，但包括許多外交人員在內，私下都認為整趟行程應該已經取消；沒想到賴清德2日的一則臉書發文，宣告自己已成功抵達友邦史瓦帝尼，整個事情竟又「行到水窮處，坐看雲起時」了起來。現在更令人好奇的是，賴清德未來要如何回國？哪一天回來？在來自台灣的總統專機飛航許可被拒"
         },
         {
-          "title": "產品賣不出去，原因往往很殘酷：不是客戶沒預算，而是你沒做到「這件事」",
-          "link": "https://www.gvm.com.tw/article/129816",
-          "published": "2026-05-03T18:57:00",
-          "summary": "我常看到一種最冤的失敗現場：你準備了最漂亮的簡報，產品功能、競品分析樣樣齊全，最後客戶仍然回你一句「我們再看看」。你回頭檢討，以為是自己講得不夠精彩、價格不夠甜、關係不夠近，但核心的問題往往更殘酷──客戶根本沒有「買的理由」，他只有「聽的興趣」。（本文節錄自《頂尖銷售的底層思維》一書，作者：范永銀（范大／Nathan）／天下文化出版，以下為摘文。）企業的決策從來不是喜好，而是風險。CEO、事業部負"
+          "title": "有錢還不賺！被顧客買到暫停銷售，「零食王國」到底紅什麼？",
+          "link": "https://www.gvm.com.tw/article/129867",
+          "published": "2026-05-04T17:34:00",
+          "summary": "全球最大零食店「零食王國」寫下零售史上的怪現象：開幕三天就被「買到」緊急停售，復業後更在含金量最高的「五一」連假宣布「只准參觀、禁止購物」。在這個「人潮等於錢潮」的時代，這家店為何有錢不賺？連台灣網友都在熱議的「零食王國」到底在紅什麼？觀察台灣的消費足跡，不難發現「享世代」已成主流，這群25〜35歲的年輕人喜歡即時享樂、體驗與網路分享，業者只要抓住這幾個關鍵字，就能創造業績，而「零食王國」就是最新"
         },
         {
-          "title": "心理學「峰終定律」：隔天早上7點發致謝訊息，讓你的感謝更有影響力",
-          "link": "https://www.gvm.com.tw/article/129763",
-          "published": "2026-05-03T18:55:00",
-          "summary": "作者從前為了推動公司新政策，經常與同事發生衝突，終於發現，自己多年來無法加薪、升遷的原因，不在能力比人差，而是遇到狀況時「沒人想幫你」，有表現機會時，主管也不想留給你。他開始改變工作方法、態度，養成讓機會與貴人願意主動靠近的「小習慣」，這套工作方法，就是他從考績墊底，翻轉成為獨角獸企業營運長的關鍵。（本文節錄自《讓優秀的人主動靠近你》一書，作者：濱暢宏／大是出版，以下為摘文。）在隔天早上7點發感謝"
+          "title": "台股正式站上4萬！主動式ETF漲多會怕？專家建議「這群人」先獲利了結",
+          "link": "https://www.gvm.com.tw/article/129865",
+          "published": "2026-05-04T17:00:00",
+          "summary": "台股今（5／4）首度收盤站上4萬點大關，收在40705點，狂漲1778點，成交量爆出兆元巨量。台灣主動式ETF也邁入一週年！首檔主動式ETF ──主動野村臺灣優選ETF（00980A）於去年5月5日掛牌，短短一年內，台灣已有28檔主動式ETF，規模逾新台幣5300億。在指數強勁上漲帶動下，主動式ETF皆繳出了超越大盤的亮眼成績單，為投資人帶來超額報酬。但許多投資人覺得「漲太高會怕」？專家教你這樣做"
         },
         {
-          "title": "公眾人物「言行一致」為何如此重要？眞正走得長遠的人，都是先對自己誠實的人",
-          "link": "https://www.gvm.com.tw/article/129724",
-          "published": "2026-05-03T18:52:00",
-          "summary": "在個人品牌的世界裡，真正能累積影響力的，從來不是說得多漂亮，而是「說出口的話，是否真的變成行動」。語言如果只是包裝，而行為是另一套邏輯，人們也許一開始會被吸引，卻很快就會產生不安與懷疑。相反地，當一個人長期呈現出言行一致的狀態，他所散發的不是說服力，而是一種讓人願意靠近、願意跟隨的安心感。這份安心，正是好感能夠累積，並逐步轉化為影響力的核心關鍵。（本文節錄自《好感影響力》一書，作者：梁哲維／遠流出"
+          "title": "台股太強把資金都吸走？房市買氣再急凍，六都4月買賣移轉寫8年新低",
+          "link": "https://www.gvm.com.tw/article/129864",
+          "published": "2026-05-04T16:40:00",
+          "summary": "六都4月買賣移轉量全面走弱，合計僅1.56萬棟，創近8年同期新低，顯示房市買氣持續降溫。儘管央行鬆綁第2屋貸款成數，政策利多未能即時發酵，反而因買賣雙方價格認知落差擴大，使交易拉鋸時間延長；同時股市強勢上攻，也分散資金動能。不過，高雄逆勢年增、台中跌幅收斂，透露市場仍存局部支撐力道。四月》房市買氣再急凍！六都4月買賣移轉寫新低公佈了！六都今年4月的買賣移轉棟數，分別為台北1981棟，月減17.9%"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "遠傳再奪全球電信永續第1！ 蟬聯入選DJBIC「道瓊領先指數」 - 中央社",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/business/chinese/432424&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw03VgHuEPajYA3aaUu2aXls",
-          "published": "2026-05-04T03:08:56+00:00",
-          "summary": "在減緩氣候變遷行動上，遠傳於「遠亞併」後迅速重新通過SBTi 1.5°C科學基礎減碳近程目標，承諾2048年達成全面淨零排放，並加入RE100，承諾2030年辦公室、直營門市及&nbsp;..."
+          "title": "茵康國際連續取得ISO碳足跡認證打造可持續驗證綠色會展模式| 中華日報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cdns.com.tw/articles/1396061&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2O6EzDaraLWTRcrriOrx7O",
+          "published": "2026-05-05T03:23:48+00:00",
+          "summary": "在全球淨零轉型與碳管理要求持續升高之際，台灣會展產業出現關鍵突破！「TASS亞洲永續供應＋循環經濟會展」今年再度通過ISO 14067碳足跡認證，並取得ISO 14068碳中和&nbsp;..."
         },
         {
-          "title": "高中職應屆畢業生充分利用暑假參加「環境部<b>淨零</b>綠領人才培育課程」 得享6000元學費優惠",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://blog.104.com.tw/%3Fpost_type%3Dpost%26p%3D230806&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0Ak86s9WtCSj2ofCy0-HhC",
-          "published": "2026-05-04T03:00:53+00:00",
-          "summary": "張順欽強調，本培育課程共計48小時，由全國37所結盟大學開班。課程最大特色在於納入了歐盟碳邊境調整機制(CBAM)、碳排放交易制度(ETS)以及我國碳費等最新、最熱門&nbsp;..."
+          "title": "信義房屋寫下標竿紀錄連12年蟬聯上市公司治理評鑑前5%",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://market.ltn.com.tw/article/18440&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2ZR9pQuYaavJSBxiatTkdN",
+          "published": "2026-05-05T03:08:13+00:00",
+          "summary": "... 淨零排放路徑，預計將於2030年達成淨零目標，具體回應全球氣候轉型。 在董事會組成上，獨立董事席次自2013年起已過半數，女性董事比例如今亦持續增長至43&nbsp;..."
         },
         {
-          "title": "輔英科大進駐科教館打造<b>淨零</b>展區邀您一窺綠色永續發展 - 天天上新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://mknews.com.tw/2026/05/943498/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3rfSsmftvyhRoUhIWmqrNz",
-          "published": "2026-05-04T02:46:04+00:00",
-          "summary": "林爵士校長表示，臺灣自2025年起正式開徵碳費，顯示淨零轉型勢在必行，綠領人才需求快速攀升。此次由輔英環境工程與科學系團隊為常設展區原有的七大熱門產業補上淨&nbsp;..."
+          "title": "南極豪華郵輪上的鼠疫，<b>氣候變遷</b>的冰山一角 - TechNews 科技新報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://technews.tw/2026/05/05/climate-change-worsen-hantavirus/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1lVOJdjV_buOW0mRRP7ZwU",
+          "published": "2026-05-05T02:56:16+00:00",
+          "summary": "Climate change hazards worsen 58 percent of infectious diseases, study says. (首圖來源：Pixabay). 文章看完覺得有幫助，何不給我們一個鼓勵. 請我們喝杯&nbsp;..."
         },
         {
-          "title": "聯合國碳市場新制上路首批碳權較舊機制大砍四成 - 環境資訊中心",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://e-info.org.tw/node/243329&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2xpFIob_fFgoh_JawREE9E",
-          "published": "2026-05-04T02:35:18+00:00",
-          "summary": "改革弊端新制在期待中上路. 《聯合國氣候變化綱要公約》（UNFCCC）2月發出聲明，批准《巴黎協定》規範的&nbsp;..."
+          "title": "勞退等四大政府基金與2050<b>淨零</b>脫鉤環團：化石燃料投資應具時限",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7266/9482285%3Ffrom%3Dudn-relatednews_ch2&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2U2sCOEyfnCAjwGHMaSJ9_",
+          "published": "2026-05-05T02:44:58+00:00",
+          "summary": "環保團體今於立法院召開記者會，發布「台灣政府基金的氣候相關財務揭露分析報告」指出，現今全球淨零轉型年度資金缺口約4.4兆至6.7兆美元（約新台幣139至212兆&nbsp;..."
         },
         {
-          "title": "國環院<b>淨零</b>綠領人才課程學費準大學生同享半價 - 經濟日報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/7307/9479963%3Ffrom%3Dedn_related_storybottom&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3DhLlkUH26J99XUy7YWw1o",
-          "published": "2026-05-04T02:17:24+00:00",
-          "summary": "「環境部淨零綠領人才培育課程」報名費（學費）為1萬2000元，由開班學校收取，凡年齡30歲以下大專校院在學生、身心障礙者及（中）低收入戶等對象，測驗及格後，可申請&nbsp;..."
+          "title": "連八年入選台新新光蟬聯道瓊指數雙榜",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20260505900009-420101&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3UZux2wiHHRUVJvQcJxgCA",
+          "published": "2026-05-05T02:30:39+00:00",
+          "summary": "道瓊最佳類別指數（DJBIC，原道瓊永續指數DJSI）全球同步公布評選成果，台新新光金控再度蟬聯雙榜，連續八年入選「世界」及「新興市場」指數成分股。"
         },
         {
-          "title": "輔英科大進駐科教館打造<b>淨零</b>展區邀您一窺綠色永續發展 - PChome Online 新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/living/twpowernews/20260504/index-17778600372018247009.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0tGgC9-_g-jG13_cDlGulX",
-          "published": "2026-05-04T02:10:57+00:00",
-          "summary": "【勁報-記者蔡宗憲/高雄報導】輔英科技大學北上進駐國立臺灣科學教育館「技職FUN星際」常設展區，新增「淨零時代的『綠色職』力—創造你的永續未來」主題展，&nbsp;..."
+          "title": "行政長官出席香港可持續航空燃料基地落戶東莞投資意向書簽署儀式致辭",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.info.gov.hk/gia/general/202605/05/P2026050500271.htm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0kyiXBr68tsuJ_FGevMN2G",
+          "published": "2026-05-05T02:26:50+00:00",
+          "summary": "為實現國家「雙碳」目標，香港致力於二○五○年前達致碳中和，而新能源產業將發揮關鍵作用。我在去年的《施政報告》宣布，特區政府會與內地政府協同帶領一間全球主要&nbsp;..."
         }
       ]
     }
