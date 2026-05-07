@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-05-06T04:33:31.704271+00:00",
-    "date": "2026-05-06",
+    "generated_at": "2026-05-07T04:33:55.863867+00:00",
+    "date": "2026-05-07",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "AI 消除汽車設計最大瓶頸之一，設計師與工程師第一次能即時共同決策",
-          "link": "https://techorange.com/2026/05/06/ai-helps-visualize-a-car/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-06T03:03:47+00:00",
-          "summary": "一輛車的外型不只是美學決定，更是由空氣動力學塑造的結果。油耗、電動車續航、高速穩定性，都與車身切割空氣的效率直接相關。 但長期以來，這個設計環節存在一個根本性的時間錯位：設計師釋出一個設計面後，必須等待數天甚至數週才能取得完整的氣動分析結果，而在這段等待期間，設計往往已經修改了好幾版。 從草圖到 3D 動畫，一天之內完成 AI 在 GM 通用汽車設計流程中的介入，比氣動分析更早，甚至早在設計師握著"
+          "title": "化敵為友的百萬瓦級交易：拆解 Anthropic 承租 SpaceX Colossus 1 背後的算力焦慮",
+          "link": "https://techorange.com/2026/05/07/anthropic-spacex-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-07T04:04:41+00:00",
+          "summary": "AI 在程式開發領域（AI coding）引發的熱潮，正以驚人的速度消耗全球算力資源，迫使 AI 新創加速擴張實體基礎設施。 Anthropic 在舊金山舉行的開發者大會上宣布，已與 SpaceX 達成協議，取得其位於美國田納西州曼菲斯的 Colossus 1 資料中心全部算力資源。根據協議，Anthropic 將獲得超過 22 萬顆 NVIDIA GPU 所對應的逾 300 MW 運算容量，並預"
         },
         {
-          "title": "從 Slack 訊息到 Zoom 表情都能被分析：AI 開始解讀員工情緒，職場監控踩上信任紅線",
-          "link": "https://techorange.com/2026/05/06/worker-surveillance-emotion-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-06T02:17:00+00:00",
-          "summary": "企業監控員工早已不是新鮮事，但在 AI 推波助瀾下，這場職場監控正迎來令人高度關注的改變。《The Atlantic》報導，新一波「情感人工智慧」（emotion AI，或稱 affective computing）浪潮正席捲而來，讓企業的焦點從單純的生產力追蹤，擴大到更深層的行為剖析，也就是雇主現在不只會看你做了多少事，更要分析你今天上班是否夠投入、夠正向，甚至態度是否具備高度的友善與協作性。 "
+          "title": "AI 開始反噬 SaaS 巨頭：Citizens 分析師警告，三分之二頂尖軟體公司恐撐不過 AI 轉型期",
+          "link": "https://techorange.com/2026/05/07/ai-challenges-saas-giants/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-07T02:52:53+00:00",
+          "summary": "知名創投家 Marc Andreessen 曾說：「軟體將吃掉世界。」現在，AI 正準備一口吞下軟體產業，而且許多當今最大的 SaaS（軟體即服務）巨頭，恐怕無法在這場淘汰賽中生存。 SaaS 曾在雲端時代扮演顛覆者的角色，讓 Sun Microsystems、Computer Associates、PeopleSoft 與 Siebel Systems 等 2000 年代初期的傳統軟體巨擘被收購"
         },
         {
-          "title": "【科技早餐】OpenAI 智慧機傳 2027 量產，聯發科、台積電有望進供應鏈",
-          "link": "https://techorange.com/2026/05/06/openai-smartphone-reportedly-set-for-2027-mass-production-with-mediatek-tsmc/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-05T22:50:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊郭明錤稱 OpenAI 加速智慧機開發，聯發科有望拿下處理器訂單 知名分析師郭明錤表示，OpenAI 正加速跨入智慧機領域，首款 AI 智慧機最快 2027 年上半年量產，早於先前預期。郭明錤指出，聯發科有望獨家供應處理器，預計採用客製化天璣 9600 晶片，並由台積電以 N2P 製程代工生產。 郭明錤也指出，這款處理器似乎更聚焦 AI 任務，而"
+          "title": "【科技早餐】AI 代理戰燒到算力長約，Anthropic 傳砸 2,000 億美元、AMD 看見 CPU 新需求",
+          "link": "https://techorange.com/2026/05/07/ai-agent-race-long-term-anthropic-commits-200-billion-amd-sees-new-cpu-demand/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-06T22:50:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Meta、Google 都在做 AI 個人助理，下一戰是替用戶辦事 OpenClaw 今年爆紅後，「幫人直接做事」的 AI 代理成為下一個主戰場。NVIDIA 執行長黃仁勳（Jensen Huang）也在 GTC 2026 表示，每家公司都需要有自己的 OpenClaw 策略。根據外媒報導，Meta 正在打造高度個人化的 AI 助理，目標是替數十"
         },
         {
-          "title": "從掃地機器人到機器寵物：iRobot 前執行長再出手，打造「看穿你喜怒哀樂」的 AI 機器人",
-          "link": "https://techorange.com/2026/05/05/irobot-ai-familiar-machines-magic-robot-colin-angle/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-05T10:26:46+00:00",
-          "summary": "有「掃地機器人之父」稱號的 Colin Angle，正揭開創業生涯下一篇章。據《華爾街日報》報導，這位曾帶領 iRobot 開創家用掃地機器人時代的創辦人，推出一款全新機器生物：它毛茸茸、眼睛圓潤、擁有巨大腳掌，舉止神似小狗，目標是成為家庭中令人珍惜的一員。 身為機器人新創公司 Familiar Machines &amp; Magic 共同創辦人兼執行長，Colin Angle 曾執掌 iRob"
+          "title": "從 HBM4 到 Apple 供應鏈備援：三星獲利狂飆 48 倍，AI 正重新定價半導體產業",
+          "link": "https://techorange.com/2026/05/06/samsung-hits-1-trillion-valuation/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-06T10:56:07+00:00",
+          "summary": "半導體產業正在經歷一場由 AI 驅動的市場版圖大遷徙，其中亞洲正躍升為全球 AI 生態系的核心。三星電子（Samsung Electronics）近日市值正式衝破 1 兆美元大關，成為繼台積電之後，亞洲第二家躋身「兆元俱樂部」的科技巨頭。這也宣告市場邏輯的根本改變：過去總被視為會隨著市場大起大落的記憶體晶片，如今已打破數十年來的景氣循環宿命，DRAM、NAND 與 HBM 正式被資本市場重新定義，"
         },
         {
-          "title": "打造「物流版 AWS」：Amazon 開放自建供應鏈、搶攻 B2B 市場，FedEx 與 DHL 迎來科技平台對手",
-          "link": "https://techorange.com/2026/05/05/amazon-supply-chain-services-for-business/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-05T08:59:34+00:00",
-          "summary": "過去近三十年，Amazon 砸下重金建構屬於自己的物流護城河，以持續降低對美國郵政（USPS）、FedEx 與 UPS 的依賴；現在，Amazon 決定把這項龐大的配送營運，轉化為全新的營收基礎設施。Amazon 近日宣布推出「Amazon 供應鏈服務」（Amazon Supply Chain Services，簡稱 ASCS），將過去專為自家電商與賣家打造的全球物流網路，全面開放給外部企業使用。"
+          "title": "全球供應版圖重組！12 吋矽晶圓成關鍵戰場，中國力拚 70% 國產供應",
+          "link": "https://techorange.com/2026/05/06/ai-china-targets-domestic-silicon/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-06T09:13:38+00:00",
+          "summary": "《Nikkei Asia》報導，中國力拚在今年達成關鍵目標：晶片製造商所使用的矽晶圓中，超過70% 將採用國產產品。此項目標已在中國業界形成某種心照不宣的要求，尤其是在 12 吋矽晶圓的採用上，更傾向優先使用中國本土供應。這也被視為中國在關鍵晶片供應鏈本土化進程中，最積極的推動措施之一。 中國晶圓本土化加速：12 吋矽晶圓成供應鏈攻防核心 《Nikkei Asia》指出，儘管中國在其他自給自足目標"
         },
         {
-          "title": "AI 落地改變企業應用場景 叡揚 Solutions Day 帶來解方",
-          "link": "https://techorange.com/2026/05/05/galaxysoftware-gsssolutionsday-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-05T07:41:58+00:00",
-          "summary": "AI 應用快速發展，帶動企業加速導入各場景，但在實際推進過程中，亦逐漸浮現資料治理、資安風險與營運穩定性的挑戰。當AI從實驗走向營運核心，如何兼顧效率、治理與韌性，成為近期企業數位轉型的重要課題。 叡揚長期參與企業數位轉型歷程，觀察到企業需求已從單一工具導入，逐步轉向整體架構與治理機制的建立，本次活動將以此脈絡為主軸，呈現不同面向的實務經驗與應用情境。在此趨勢下，叡揚資訊將於 5 月 13 日舉行"
+          "title": "極風雲創推出企業級 AI 入口 Across，以 Agentic OS 架構，攜手群聯電子、GoTrust 等夥伴建構台灣 AI 治理生態圈",
+          "link": "https://techorange.com/2026/05/06/twister5-across-ecosystem-aidaptiv/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-06T07:54:47+00:00",
+          "summary": "當生成式工具在兩年內滲透進企業的行銷、法務、工程、客服部門，企業真正欠缺的不是工具，而是能讓員工每一次生成式調用都被看見、管理與追蹤的在地化系統。 Microsoft 與 LinkedIn 的職場調查指出：75% 的知識工作者已在工作中使用生成式工具，其中 78% 自行攜帶個人帳號，企業完全無法掌握。台灣在地則顯示，91% 企業已將生成式技術納入營運策略，92% 卻擔憂隨之而來的資料外洩、合規失控"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "黃仁勳預言「機器人時代3年內成形」概念股鴻準、廣宇做什麼？",
-          "link": "https://www.gvm.com.tw/article/129892",
-          "published": "2026-05-05T17:38:00",
-          "summary": "輝達（NVIDIA）執行長黃仁勳最新專訪強調，人形機器人時代三年內到來。台灣供應鏈早已悄悄布局：鴻海集團旗下鴻準（2354）深度參與組裝生態，5日單日股價飆漲快一成！另外鴻家軍還有線束老廠廣宇，喊話 2030年搶下 5% 全球人形機器人市占。此外機器人概念股名單上還有誰？一文拆解。黃仁勳點名機器人，台灣哪些公司直接受惠？輝達執行長黃仁勳日前接受華府智庫 SCSP 執行長巴杰塔里（Ylli Bajr"
+          "title": "社交黃金期最有價值的自我修煉：高級大人必懂的6個「識人術」",
+          "link": "https://www.gvm.com.tw/article/129922",
+          "published": "2026-05-06T18:33:00",
+          "summary": "所謂「高級大人」，不只是年紀增長或過著物質優渥的生活，而是能在現實世界裡，擁有獨立判斷、應對世故並隨時修正方向的能力。透過時間和經驗培養看人的能力，你就能擁有結識良緣、認出那些能對自己產生正面影響之人的眼光。（本文節錄自《高級大人生存法則》一書，作者：禹泰榮／方舟文化出版，以下為摘文。）二十代是會遇到很多新朋友的時期。因為透過學校、職場、聚會等各種社會活動會與許多人建立連結，所以在這個過程中「看人"
         },
         {
-          "title": "愛爾麗全台18間診所竟藏「偵煙器攝影機」，55歲設備商遭拘提",
-          "link": "https://www.gvm.com.tw/article/129891",
-          "published": "2026-05-05T17:32:00",
-          "summary": "愛爾麗診所新北板橋店日前被發現煙霧偵測器內疑似藏有針孔攝影機，台北市衛生局、消保官、警方今天前往此診所在台北市的分店進行無預警聯合稽查，後續將全力配合檢警偵辦。最新消息指出，一名55歲謝姓設備商被檢警拘提到案，將進一步釐清相關監視設備來源、裝設過程，以及影像有無外流等問題。愛爾麗診所新北板橋店日前被發現煙霧偵測器內藏針孔攝影機，檢警近日擴大搜索愛爾麗數間分店，調閱監視器檢視是否有其他受害者，全案朝"
+          "title": "勤政卻亡國？崇禎皇帝的「無效勤奮」：現代管理者最深刻的歷史借鑑",
+          "link": "https://www.gvm.com.tw/article/129921",
+          "published": "2026-05-06T18:13:00",
+          "summary": "「朕非亡國之君，諸臣皆亡國之臣矣！」不同於歷史上諸多昏君，明朝末代皇帝明思宗崇禎節儉、勤政，每日視朝、批閱奏章至深夜，更計劃性地剷除閹黨、力圖中興。明朝卻仍像是破了洞的船，在這位帝君手上覆滅。（本文節錄自《崇禎》一書，作者：陳梧桐／寶瓶文化出版，以下為摘文。）明朝的末代君主明思宗朱由檢，因年號崇禎，人們也習稱他為崇禎皇帝。崇禎十七年（1644）三月十九日，李自成領導的大順農民軍攻入北京內城，明思宗"
         },
         {
-          "title": "全球最暢銷的10大筆電品牌！台灣就包辦3席次，第1名也不是蘋果",
-          "link": "https://www.gvm.com.tw/article/129889",
-          "published": "2026-05-05T16:35:00",
-          "summary": "在筆電早已離不開你我工作與生活的時刻，你所用的筆電，是什麼品牌呢？在全球10大最暢銷的品牌當中，就有3名來自於台灣，包含華碩、宏碁與微星，讓我們一起看看，這些筆電的銷量有多麼亮眼。在這個離不開網路的時代，筆電早已不只是工作工具，更像是貼身的夥伴。從清晨打開電腦處理信件，到通勤途中寫簡報，再到夜晚追劇、看網頁，生活的節奏幾乎都與筆電緊密相連。它既能承載工作需求，也能滿足娛樂與休閒的想像，成為現代人不"
+          "title": "考卷是張展現學習經歷的地圖：與其追求高分，不如讓孩子學會「這2項能力」",
+          "link": "https://www.gvm.com.tw/article/129920",
+          "published": "2026-05-06T17:44:00",
+          "summary": "學業表現往往是孩子的自信之樹最容易被風吹得東倒西歪的地方，當成績不如預期、努力沒被看見，前面提過代表「成就感」的葉子就會慢慢枯黃。在陪伴孩子的路上，我發現最脆弱的自信，往往最輕易被「分數」給撕裂。（本文節錄自《你氣的是孩子？還是自己？》一書，作者：孫子玲／幸福文化出版，以下為摘文。）當孩子拿著考卷走過來，他觀察的不只是成績，更是爸媽的臉色。一句「怎麼這麼粗心」、「下次要更努力」，都可能讓他心裡的「"
         },
         {
-          "title": "學美國玩關稅！中國零關稅收編非洲，史瓦帝尼挺台關鍵必看",
-          "link": "https://www.gvm.com.tw/article/129888",
-          "published": "2026-05-05T15:31:00",
-          "summary": "最強的復仇，是把對手的招式學得比他更好？當美國還在對全世界加徵關稅，中國一轉身就對非洲實施「全面零關稅」。一場低調、卻足以撼動大國博弈的棋局，你看懂了嗎？學美國真的學到精髓的，竟然是中國大陸？同樣是玩關稅遊戲，美國用它來封鎖，北京卻拿它來「交朋友」。或許這正是中國大陸令人戰慄的進化，學會了美國的邏輯，反手就拿來顛覆美國的棋局。《肯亞廣播公司》（KBC）報導，2026年5月1日，一列滿載肯亞酪梨、咖"
+          "title": "南韓前第一夫人金建希二審法官離奇死亡！遺書內容曝光",
+          "link": "https://www.gvm.com.tw/article/129919",
+          "published": "2026-05-06T17:36:00",
+          "summary": "南韓前總統尹錫悅夫人金建希涉嫌違反資本市場法等案件 ，負責二審的審判長、首爾高等法院法官申宗旿，6日被發現身亡，留下的遺書中寫有「對不起，我自己離開」等內容。南韓中央日報報導，55歲的申宗旿在法界被評價為嚴格的原則主義者，2023年還獲首爾律師協會評選為優秀法官。今年2月調任首爾高等法院後，他被分配至負責貪腐案件的刑事第15部，並以審判長身分主持審理金建希涉嫌違反資本市場法等案件二審。金建希案4月"
         },
         {
-          "title": "賴清德從史瓦帝尼回來了！史國副總理「超挺」陪飛背後真相",
-          "link": "https://www.gvm.com.tw/article/129887",
-          "published": "2026-05-05T15:25:00",
-          "summary": "總統賴清德今（5）日返抵國門，結束這趟驚奇的友邦史瓦帝尼訪問行程。特別是賴清德在桃園機場談話時，史國副總理札杜莉（Thulisile Dladla）也站在一旁，這趟來回2.5萬公里的航程，札杜莉共跑了兩趟，包括上次隨賴清德踏出國門，以及這次隨賴清德返國，展現史國「超挺」的態度，被賴清德讚為航空版《溫馨接送情》的最佳女主角。「我們回來了！」賴清德返抵國門後發表談話，稱這趟行程自2日出發、5日返國，全"
+          "title": "博太生醫攜手產官學研醫   為失智時代找到植物藥新出路",
+          "link": "https://www.gvm.com.tw/article/129310",
+          "published": "2026-05-06T17:25:00",
+          "summary": "台灣65歲以上失智症盛行率達7.99%，現有患者逾37萬人，預估2041年將突破70萬。面對這場迫在眉睫的高齡風暴，失智不只是醫學問題，更牽動長照體系、家庭財務與社會韌性。為回應這場國家級挑戰，《遠見雜誌》攜手博太生醫共同舉辦「失智時代 植物藥新解方」論壇，匯聚產、官、學、研、醫界重量級領袖，從政策、照護、財務到新藥研發，全面梳理台灣因應失智社會的洞見、政策建言與創新藥物趨勢。&nbsp;失智症不"
         },
         {
-          "title": "別讓「不甘心」掏空錢包！破解沉沒成本效應，學會理性止損策略",
-          "link": "https://www.gvm.com.tw/article/129886",
-          "published": "2026-05-05T14:56:00",
-          "summary": "愈不擅長賭博的人，愈容易沉迷於賭博。人有走運的時候，當然也會有不走運的時候。問題在於當好運不再眷顧自己、愈輸愈多的時候，明明當下應該要停止繼續賭了，但失敗的賭徒卻是「在把輸的錢贏回來以前，都無法停止」，深陷其中而不能自拔。行為經濟學將這種心態稱為「沉沒成本效應（sunk cost effect）」。（本文節錄自《為什麼一直輸，卻還是一直賭？》一書，作者：博學知識研究會／創意市集出版，以下為摘文。）"
+          "title": "「中產階級消失」成世界趨勢？GDP上升、人民愈貧：「氛圍衰退」席捲全球",
+          "link": "https://www.gvm.com.tw/article/129918",
+          "published": "2026-05-06T17:20:00",
+          "summary": "許多國家GDP一再攀高，股市屢創新紀錄，企業盈餘與出口數據亮眼，媒體與官方報告充滿繁榮語彙。然而，在這片表面繁華下，人們卻普遍感覺不到富裕，甚至愈活愈吃力，愈努力愈無力。這不是某個國家的孤例，而是一種跨越先進與新興經濟體、跨越西方與東亞的全球現象。美國、英國、日本、南韓、香港、新加坡、臺灣更莫不如此。（本文節錄自《東昇西降新賽局》一書，作者：陳國祥／好優文化出版，以下為摘文。）「GDP無感」：繁榮"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "扎根永續領航<b>淨零</b>！花蓮臺美生態學校共識營跨域交流點燃校園環境守護力- 台灣新聞雲報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://more-news.tw/607221/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0woG5rdlbK0GM9YAXnO260",
-          "published": "2026-05-05T23:30:09+00:00",
-          "summary": "花蓮縣政府為深化校園永續行動並落實環境教育扎根，於115年4月28日至30日展開為期三天的「臺美生態學校共識營」。本次活動由花蓮縣環境保護局，攜手縣府教育處及&nbsp;..."
+          "title": "<b>淨零</b>碳排再創唯一典範全國首座達成<b>碳中和</b>旗美污水廠通過第三方查證 - 天天上新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://mknews.com.tw/2026/05/944771/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw182F1oQGWDeQe7Jjs2BLI8",
+          "published": "2026-05-07T04:12:52+00:00",
+          "summary": "高雄市政府水利局表示，旗美污水處理廠113年碳排放量為661噸CO2e(二氧化碳當量)。為達成實質減排目標，市府團隊除訂定明確減碳路徑外，並於113年執行碳中和改善工程&nbsp;..."
         },
         {
-          "title": "春神來了怎知道？ 瑞典全國志工植物調查告訴你",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.worldjournal.com/wj/amp/story/121617/9484305&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1Sb406vRuCiDVh4q6nt7Bi",
-          "published": "2026-05-05T21:31:45+00:00",
-          "summary": "北歐四季分明，春天的跡象隨著氣候變遷，出現的時機每年不盡相同。為了解氣候變遷如何影響季節變化與植物生長，瑞典每年在4月30日篝火節到5月1日的期間都有&nbsp;..."
+          "title": "璀璨鑽石引領<b>淨零</b>轉型上海商銀總行大樓榮獲2026年台灣建築永續白金獎 - 工商時報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260507700917-430304&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1qEonSfPXezUEGrB8G3fHo",
+          "published": "2026-05-07T04:11:46+00:00",
+          "summary": "上海商業儲蓄銀行總行大樓以卓越的永續建築表現，榮獲2026年「台灣建築永續獎」最高榮譽白金獎，並於5月6日下午由台灣永續能源研究基金會（TAISE）舉行頒獎典禮&nbsp;..."
         },
         {
-          "title": "春神來了怎知道？ 瑞典全國志工植物調查告訴你",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.worldjournal.com/wj/story/121617/9484305&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0rwCp6npZwH7sPLt1yRHD3",
-          "published": "2026-05-05T21:31:44+00:00",
-          "summary": "北歐四季分明，春天的跡象隨著氣候變遷，出現的時機每年不盡相同。為了解氣候變遷如何影響季節變化與植物生長，瑞典每年在4月30日篝火節到5月1日的期間都有數千&nbsp;..."
+          "title": "氣候暖化釀山崩阿拉斯加現史上第2高海嘯 - 聯合新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/6813/9487511&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0j807zM0nXRvsUAOiWLkKs",
+          "published": "2026-05-07T04:01:23+00:00",
+          "summary": "位於美國阿拉斯加州東南部的崔西峽灣（Tracy Arm Fjord）景色壯麗，狹長海灣被高聳的花崗岩峭壁、瀑布與冰川環繞..."
         },
         {
-          "title": "名詞解釋/何謂<b>碳中和</b>？ - 港聞- 今日大公",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://epaper.tkww.hk/a/202605/06/AP69fa533ee4b04773b06d2a4e.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw234tw6przRuRWjJrTJb2_q",
-          "published": "2026-05-05T20:34:10+00:00",
-          "summary": "特區政府於2021年10月發布《香港氣候行動藍圖2050》，提出「淨零發電」、「節能綠建」、「綠色運輸」及「全民減廢」四大減碳策略，並訂立中期路線圖，以推動香港在&nbsp;..."
+          "title": "中國<b>碳中和</b>發展集團主要股東沙濤增持55萬股",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sl886.com/newstrading/4430648&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3LNX9CvdWO1C4YOPc60lmc",
+          "published": "2026-05-07T03:17:55+00:00",
+          "summary": "開市場以平均每股約0.975港元增持550000股，佔已發行股本0.08%  。增持完成後，沙先生持股合共162150000股，相當於全部已發行股本約24.02%。"
         },
         {
-          "title": "行政主導推動灣區協同 綠色航油賦能香港<b>碳中和</b> - 星島頭條",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://std.stheadline.com/daily-editorial/3569340/%25E8%25A1%258C%25E6%2594%25BF%25E4%25B8%25BB%25E5%25B0%258E%25E6%258E%25A8%25E5%258B%2595%25E7%2581%25A3%25E5%258D%2580%25E5%258D%2594%25E5%2590%258C%25E7%25B6%25A0%25E8%2589%25B2%25E8%2588%25AA%25E6%25B2%25B9%25E8%25B3%25A6%25E8%2583%25BD%25E9%25A6%2599%25E6%25B8%25AF%25E7%25A2%25B3%25E4%25B8%25AD%25E5%2592%258C&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3zpVLmre1FO9CnAYh-Rvi4",
-          "published": "2026-05-05T19:05:28+00:00",
-          "summary": "可持續航空燃料（SAF）作為航空業減碳的核心方案，不僅受到業界注目，對全球綠色轉型更是意義深遠。它以廢棄食用油、動物脂肪、農林廢棄物等再生資源為原料，&nbsp;..."
+          "title": "缺水斷流愁更愁找出<b>氣候變遷</b>節水對策 - 環境資訊中心",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://e-info.org.tw/node/243381&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3gKwse7adxhT_XJS69QQsE",
+          "published": "2026-05-07T02:04:19+00:00",
+          "summary": "4月的曾文水庫，蓄水率17%，位於嘉義大埔的蓄水範圍，已經乾枯見底，露出一片荒漠。氣候變遷造成旱澇不均，當降雨狀況不佳，嚴重時部分地區的農業停灌休耕，&nbsp;..."
         },
         {
-          "title": "禾亞成為全球第一家<b>碳中和</b>加密貨幣交易所 - DIGITIMES",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.digitimes.com.tw/tech/dt/n/shwnws.asp%3Fid%3D0000753373_2CI2YZ7G8X0OK226I9M0Y&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1NjLtmRFdeFTPiqbb6zLO9",
-          "published": "2026-05-05T18:23:52+00:00",
-          "summary": "圖說：HOYA BIT宣布成為全球首家通過BSI ISO 14068-1《碳中和》國際認證的加密貨幣交易所，由創辦人..."
+          "title": "推動數位化與<b>淨零</b>雙軸轉型！竹市府率18家大廠跨區參訪智慧製造標竿-新竹市政府全球資訊網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hccg.gov.tw/hccg/app/data/view%3Fmodule%3Dmunicipalnews%26id%3D30122%26serno%3D85d150f1-ec8e-49d5-bbeb-f5ab397c3e20&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw03Mq7wIl0MDt_Lf_aMFg36",
+          "published": "2026-05-07T02:03:32+00:00",
+          "summary": "面對全球供應鏈重組、淨零排放趨勢及國際減碳要求持續升溫，製造業正處於競爭力重塑與加速轉型的關鍵時刻。新竹市政府為協助在地企業強化韌性、掌握升級契機，&nbsp;..."
         }
       ]
     }
