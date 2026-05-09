@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-05-08T04:16:02.080532+00:00",
-    "date": "2026-05-08",
+    "generated_at": "2026-05-09T04:22:35.535450+00:00",
+    "date": "2026-05-09",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "AI 熱潮進入製藥工廠端：BMS 產量提升 40%，Eli Lilly 如何用數位孿生突破產能瓶頸？",
-          "link": "https://techorange.com/2026/05/08/ai-bristol-myers-squibb-drugs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-08T02:06:10+00:00",
-          "summary": "近年來，全球製藥業投入數十億美元押注 AI，期盼能藉此加速新藥發現與開發速度。然而，儘管業界對此寄予厚望，但目前仍缺乏明確證據顯示 AI 能大幅提高新藥臨床試驗的成功率。 相較之下，AI 在「製造端」的效益卻已經率先浮現。以生產糖尿病與減重藥物聞名全球的美國製藥巨頭 Eli Lilly（禮來）為例，其資訊與數位長 Diogo Rau 就明確表示：「現實情況是，到目前為止我們看到的所有 AI 效益，"
+          "title": "【Google Cloud NEXT 2026】AI 時代資安怎麼做？Google Cloud 聯手 Wiz，從「防駭」走向自動化防禦",
+          "link": "https://techorange.com/2026/05/08/cloudmile-google-cloud-wiz-aiagents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-08T10:29:22+00:00",
+          "summary": "在 Google Cloud Next &#8217;26 大會上，Google Cloud 釋出了多項重量級資安更新。本次更新的核心更著重於解決企業在混合雲環境中面臨的「實務痛點」：如何保護地端與雲端的 AI 工作負載？如何簡化複雜的資安營運？ 透過與 Wiz 的深度整合以及 Google SecOps 的 AI 革命，Google 展現了建構「全生命週期」與「自動化」安全防禦體系的決心。 Go"
         },
         {
-          "title": "【科技早餐】Anthropic 吃下 SpaceX 300 MW 算力，Claude 需求把 AI 基建戰推上新高度",
-          "link": "https://techorange.com/2026/05/08/anthropic-secures-300-mw-spacex-compute/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-07T22:50:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Anthropic 吃下 SpaceX 算力，Claude 需求把 AI 戰場推上 300 MW Anthropic 宣布與太空探索科技公司（SpaceX）達成大規模算力協議，將使用 SpaceX 位於美國田納西州（Tennessee）曼菲斯（Memphis）的 Colossus 1 超級資料中心資源，規模超過 300 MW，並可動用逾 22 萬"
+          "title": "自駕車商業化卡關，感測技術卻先突圍：LiDAR、雷達與 3D 感測如何打開港口、機器人與智慧城市新市場？",
+          "link": "https://techorange.com/2026/05/08/autonomous-vehicles-technology-other-uses/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-08T09:49:59+00:00",
+          "summary": "對自駕車與汽車公司而言，2016 年曾是一個充滿想像的關鍵年份。當時，每週都有數百萬美元的相關投資發布，福特（Ford）更曾大膽預測，將在 2021 年為消費者量產自駕車。 不過，到了 2026 年，消費型全自駕車仍未真正問世，Robotaxi 僅在少數城市中運行，自駕卡車也大多停留在試點專案階段。就在自駕車夢想延後的同時，部分 2016 年的自駕明星公司已經退場或重整，例如 LiDAR 公司 L"
         },
         {
-          "title": "Physical AI 進入「手部操作」決勝點：Genesis AI 推 GENE-26.5 模型與仿人機械手，突破機器人落地瓶頸",
-          "link": "https://techorange.com/2026/05/07/genesis-ai-introduces-gene-foundation-model/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-07T09:19:18+00:00",
-          "summary": "長久以來，要讓機器人精準抓取、移動、拆解或組裝物體，遠比教它們走路或說話困難得多，這也是人形機器人一直無法在現實世界大規模落地的關鍵門檻。然而，法國機器人新創 Genesis AI 正在逐步打破這道技術門檻。 Genesis AI 近日正式發表專為機器人打造的基礎 AI 模型 GENE-26.5，並同步推出一隻高度接近人類靈巧度的實體機械手，目標是賦予機器人前所未有的適應力，讓機器人跨入「會動手做"
+          "title": "【AI 監管降溫】歐盟 AI 法案首次重大讓步，高風險規範延後一年生效",
+          "link": "https://techorange.com/2026/05/08/eu-countries-lawmakers-strike-provisional-ai-rules/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-08T09:49:02+00:00",
+          "summary": "歐盟達成協議，將放寬 AI 監管框架。《POLITICO》報導指出，此次調整是在產業界與各國政府壓力升高，以及歐盟與美國科技政策張力加劇的背景下形成，並涉及數位法規的重大修正與時程延後。 歐盟《AI 法案》分級鬆動：高風險監管延後、工業 AI 大幅排除適用 歐盟《AI 法案》依據 AI 對健康、安全與基本權利的風險程度進行分級，從「最低風險」到「不可接受風險」不等，風險越高，所需遵守的規範也越嚴格"
         },
         {
-          "title": "從雲端協作到技術賦能！臺大醫院與台灣微軟共創智慧醫院新典範",
-          "link": "https://techorange.com/2026/05/07/microsoft-ntuh-azure/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-07T09:14:30+00:00",
-          "summary": "以 Microsoft 365 串聯在地合規、資安防護與生成式 AI，打造兼具創新與韌性的智慧醫療體系 「我們希望將技術賦能內部使用者。」國立臺灣大學醫學院附設醫院（以下簡稱臺大醫院）資訊室主任陳權忠這句話，道出臺大醫院數位轉型邁入新階段的核心思維。過去，臺大醫院透過電子病歷無紙化與行動化，奠定智慧醫院的數位基礎；隨著系統逐步成熟，關鍵已不再是技術是否到位，而是如何持續精進流程，並讓第一線的醫護與"
+          "title": "AI 開啟穩定幣交易新時代：AWS 攜 Stripe、Coinbase 發表 AI 代理金融系統",
+          "link": "https://techorange.com/2026/05/08/amazon-bedrock-agentcore-payments-x402-coinbase/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-08T05:58:44+00:00",
+          "summary": "Amazon Web Services 與 Coinbase、Stripe 合作，發布 Amazon Bedrock AgentCore Payments 新功能，讓 AI 代理能透過穩定幣執行交易。《The Block》指出，此舉被視為大型科技公司擁抱區塊鏈支付基礎設施、推動代理經濟（agentic economy）的重要訊號之一。 AI 代理可自己花錢了？AWS 與 Coinbase 打造微支"
         },
         {
-          "title": "Hugging Face 推機器人 App Store：開源機器人進入應用生態時代",
-          "link": "https://techorange.com/2026/05/07/hugging-face-robot-app-store-reachy-mini/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-07T08:53:02+00:00",
-          "summary": "從社群、娛樂到工作協作，現代人的各種需求幾乎都能透過 App 完成，但過去這些應用程式始終離不開手機。《VentureBeat》報導，如今成立 10 年、總部位於紐約、以開源 AI 模型與應用平台聞名的 Hugging Face，為其低成本開源桌上型機器人 Reachy Mini 推出 App Store，標誌運算平台正從「手機中心」轉向「實體機器人」的新階段。 從破萬銷量到 App 生態，Rea"
+          "title": "季末庫存剩 0.6%、退貨率降一成、碳排減 25%：Zara 供應鏈怎麼用 AI 做到？",
+          "link": "https://techorange.com/2026/05/08/zara-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-08T04:55:10+00:00",
+          "summary": "當多數時尚企業仍依賴季節性節奏時，快時尚龍頭 Zara 已經建立一套以 AI 與即時數據為核心的供應鏈體系，支撐每年約兩萬款新品的高速運轉。 AI 驅動供應鏈，兩週完成從社群趨勢到門市上架 Zara 的產品節奏幾乎重新定義了時尚產業的時間邏輯。品牌每週固定上新兩次，相當於一年運行超過一百個「微型季度」。這樣的頻率背後，是 AI 驅動的趨勢偵測能力。Zara 系統持續分析社群媒體內容、街拍影像與時裝"
         },
         {
-          "title": "一張圖就能讓機器狗失控：VicOne 執行長鄭奕立揭 AI 機器人的 5 大資安攻擊面與 3 步驟解方",
-          "link": "https://techorange.com/2026/05/07/vicone-cybersec/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-07T07:09:33+00:00",
-          "summary": "「未來基本上就是 AI 對 AI，」談到未來的資安格局，VicOne 執行長鄭奕立強調，隨著生成式 AI 技術快速成熟、具身 AI（Physical AI）迎來爆發期，AI 正跨越螢幕與雲端，擁有能直接影響現實世界的身體與大腦。 面對這波從虛擬邁向物理世界的全新挑戰，VicOne 憑藉過往在全球軟體定義汽車領域累積的深厚防護經驗，積極將資安戰線從智慧車延伸至機器人、無人載具與無人機等領域，防範失控"
+          "title": "Anthropic Mythos 太會找漏洞：Firefox 修補數暴增 13 倍，工程師坦言還沒有自動化解方",
+          "link": "https://techorange.com/2026/05/08/anthropics-mythos-firefoxs-cybersecurity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-08T04:43:50+00:00",
+          "summary": "今年 4 月，Anthropic 發布新 AI 模型 Mythos，但因擔心能力過於強大，可能遭到惡意人士濫用，目前僅開放約 40 家合作企業測試。Anthropic 執行長 Dario Amodei 本週更警告，Mythos 已在各類軟體中發現數萬個潛在漏洞，而產業可能只剩下 6 至 12 個月的修補窗口期。 在已獲授權測試的合作夥伴中，Mozilla Firefox 安全團隊公開了其與 Ant"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "2026《遠見》ESG獎81件作品獲獎！企業永續走向精準治理",
-          "link": "https://www.gvm.com.tw/article/129958",
-          "published": "2026-05-07T22:02:00",
-          "summary": "2026年第22屆《遠見》ESG企業永續獎於5月7日舉行贈獎典禮，今年共吸引142家企業、239件作品參賽，參賽方案涵蓋AI應用、低碳轉型、循環經濟，以及高齡、移工與職場共融等議題，反映企業已將永續思維進一步融入經營決策與日常管理。今年永續獎呈現台灣企業轉型的四個明確方向。2026第22屆《遠見》ESG企業永續獎贈獎典禮於5月7日下午登場，今年共有239件參賽，吸引142家企業參與，最終86家企業"
+          "title": "哈佛最新研究，揭密憂鬱症元兇！腸道中這環境毒素聯手影響大腦",
+          "link": "https://www.gvm.com.tw/article/129995",
+          "published": "2026-05-08T19:05:00",
+          "summary": "哈佛大學醫學院2026最新研究發現，腸道中的摩氏摩根氏菌與汙染物二乙醇胺結合後，可能活化免疫系統、促使身體釋放發炎分子，進而引發大腦發炎，並誘發或加劇憂鬱症狀。這項研究揭示腸道、環境與大腦之間的關聯，也為抗憂鬱藥物效果不佳患者帶來新方向。原來環境汙染對人體影響如此大！到底存在哪裡？因此會進入腸道，影響大腦變憂鬱？又如何引導出憂鬱症治療的新契機呢？哈佛研究怎麼說？大腦為何會因腸道變憂鬱？許多憂鬱症患"
         },
         {
-          "title": "2026《遠見》企業永續獎登場！高希均：「人做對」才有真永續",
-          "link": "https://www.gvm.com.tw/article/129957",
-          "published": "2026-05-07T21:47:00",
-          "summary": "2026年第22屆《遠見》ESG企業永續獎於5月7日舉行贈獎典禮，今年共吸引142家企業、239件作品參賽，參賽方案涵蓋AI應用、低碳轉型、循環經濟，以及高齡、移工與職場共融等議題，反映企業已將永續思維進一步融入經營決策與日常管理。遠見‧天下文化事業群創辦人高希均則提醒，ESG真正重要的不只是亮眼成果，而是企業是否以正確價值與方式推動改變。2026第22屆《遠見》ESG企業永續獎贈獎典禮於5月7日"
+          "title": "「富不過三代」有解？家族百年信託拍板，財富傳承規則大翻新",
+          "link": "https://www.gvm.com.tw/article/129994",
+          "published": "2026-05-08T19:00:00",
+          "summary": "行政院近期拍板「連續受益人信託」制度，確立100年內的「百年信託」架構，並釐清後順位受益人取得受益權時，不再重複課徵贈與稅或遺產稅的制度框架。這不僅替高資產家族打開跨代傳承的新通道，也為台灣發展亞資中心補上一塊關鍵拼圖。台灣家族辦公室、財富管理與信託市場，正式邁向與國際接軌的新階段。「富不過三代」，向來是許多台灣企業主最深的焦慮。尤其在現行稅制與法律框架下，家族資產每跨一代，往往就得再經歷一次遺產"
         },
         {
-          "title": "黃子佼獲緩刑！非法持兒少性影像和解賠償完畢「不用關」，但要做這些事",
-          "link": "https://www.gvm.com.tw/article/129956",
-          "published": "2026-05-07T18:38:00",
-          "summary": "藝人黃子佼涉嫌購買兒少性影像，二審判刑1年6月、緩刑4年，須義務勞務180小時、接受法治教育3場。案經高檢署、黃子佼提起上訴，最高法院今天駁回上訴，黃子佼緩刑確定。最高法院認為，原判決依憑卷內相關證據資料，認定黃子佼有被訴犯行，且就其所受宣告之刑，衡諸刑罰的特殊及一般預防需求，認有暫不執行為適當的情形，因而諭知附條件緩刑，並宣告於緩刑期間付保護管束。核原判決的採證認事，與相關證據法則無違，據以論處"
+          "title": "台股「巴菲特指標」逼近500％歷史峰值！是AI撐腰，還是過熱玩火？",
+          "link": "https://www.gvm.com.tw/article/129993",
+          "published": "2026-05-08T18:28:00",
+          "summary": "台股指數寫下4萬2紀錄的同時，一項衡量股市是否泡沫化的關鍵數據——「巴菲特指標」（Buffett Indicator），也攀升至近500％的歷史新高！不僅社群上掀起熱議，連金管會主委彭金隆都在立院被質詢這題。5月７日，台股加權指數一度攻破4萬2000點大關，上市櫃總市值攀升至近140兆元新台幣。但同時，衡量股市泡沫化的關鍵數據「巴菲特指標」（Buffett Indicator）也升至近500％的歷"
         },
         {
-          "title": "2026婦女再就業計畫，最高領9萬！申請資格、發放方式一次看",
-          "link": "https://www.gvm.com.tw/article/129955",
-          "published": "2026-05-07T18:30:00",
-          "summary": "母親節將至，但是有一些媽媽現在想要的不只是慶祝，是一個好工作！想要重返職場的媽媽，可以去哪裡找機會呢？近期在社群平台上，「2026婦女再就業計畫」引發了相當熱烈的討論！許多人驚訝地發現，原來重返職場不只是一份薪水，政府還額外提供了豐厚的獎勵金。勞動部持續優化「婦女再就業計畫」的規定，不僅大幅放寬申請資格，各項獎勵也變得更有彈性。只要妳是「超過180天沒有工作」的女性，就有機會透過自主訓練與穩定就業"
+          "title": "用旅行和網路成癮症告別！「斷網旅遊」成新趨勢：給自己一個真正自我的時光",
+          "link": "https://www.gvm.com.tw/article/129977",
+          "published": "2026-05-08T18:25:00",
+          "summary": "在旅行時，斷網真正的關鍵，從來不是強迫自己不能使用手機，而是創造一個讓人不再那麼依賴手機的環境。當不再被手機綁架，人們才有機會重新感受到安靜這件事，而這種安靜，對現代人而言，其實相當陌生。試著想像，在一個海島度假勝地，陽光灑落在湛藍海面，遠方的海浪拍打著岸邊，泳池旁的人們悠閒地享受假期，然而，角落卻偶爾總有那麼幾個人，穿著短褲、拖鞋，卻始終盯著筆電螢幕。他們一邊回覆工作訊息，一邊不時確認手機，深怕"
         },
         {
-          "title": "連投資《逐玉》都撐不住！中國導演揭14億市場對台灣影視非利多",
-          "link": "https://www.gvm.com.tw/article/129954",
-          "published": "2026-05-07T18:23:00",
-          "summary": "國民黨主席鄭麗文4月訪中，北京隨後釋出一系列禮包，其中更開放符合一定標準的台劇輸入中國，讓台灣影視產業進軍14億人的市場露出一線曙光。不過中國獨立電影導演張內咸揭露，目前中國影視產業的從業人員肉眼可見的大量失業，連在台灣熱映的《逐玉》投資公司、昔日「中國影視第一股」的華誼兄弟都已破產，直言北京的開放對台灣毫無吸引力，更顯示相關部門對產業現況「缺乏基本常識與理解」。他說，國台辦這十項所謂的促進兩岸交"
+          "title": "聯發科遭列處置股「關禁閉」，引發市場流動性疑慮！金管會檢討制度",
+          "link": "https://www.gvm.com.tw/article/129991",
+          "published": "2026-05-08T18:20:00",
+          "summary": "IC設計龍頭聯發科（2454）昨（7）日遭列處置股票，引發市場熱議，對此，金管會主委彭金隆明確表態，現行注意股、處置股制度確實有檢討必要，並評估部分情況可做「例外排除」，避免大型權值股遭處置後影響市場流動性。目前證交所已與金管會展開研究，預計一個月內提出檢討方向。彭金隆昨日赴立院財委會做專案報告，近日台股交易熱絡，聯發科因短線股價漲幅過大，自昨日起改列處置股、每5分鐘人工撮合，成為台股史上市值最高"
         },
         {
-          "title": "教育部「館館有AI」：拿借書證ChatGPT、Gemini免費用！資格與啟動時間？",
-          "link": "https://www.gvm.com.tw/article/129951",
-          "published": "2026-05-07T18:02:00",
-          "summary": "教育部近期推動「館館有AI」計畫，旨在縮減數位資源差距並促進教育平權。這項政策預計於今（2026）年第四季起，在台灣三間圖書館率先試辦，民眾持借書證即可免費使用ChatGPT、Gemini與Claude等生成式AI工具的付費版本！後續更計畫擴展至所有國立大學。消息一出立即引起網友轟動，表示以後要常常去圖書館。到底誰有資格使用？有使用時間的限制嗎？硬體配置多少？大學圖書館現在也有提供AI工具嗎？以下"
+          "title": "愛爾麗診所針孔偷拍爭議！5招一秒分辨「真假煙霧偵測器」",
+          "link": "https://www.gvm.com.tw/article/129992",
+          "published": "2026-05-08T18:16:00",
+          "summary": "近期知名連鎖醫美診所愛爾麗爆出「天花板煙霧偵測器」暗藏針孔攝影機的偷拍事件，引起社會譁然。事件起因於一名女性病患在換衣服後察覺異狀並報案，警方到場確認該裝置並非消防設備，而是偽裝的偷拍鏡頭。這類事件不僅發生在民宿和飯店，如今連醫療診所都淪陷，讓許多民眾在進入更衣室、浴室或外宿時，抬頭看到圓形的偵測裝置難免感到人心惶惶。為了幫助大家快速掌握自保技巧，本文整理了內政部消防署與專家的實用資訊，教你如何透"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "討論牆| 因應<b>氣候變遷</b>水庫改採高水位操作 - LINE TODAY",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/j7kPM93&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2-zuObkt3RaZtNyP0s37hR",
-          "published": "2026-05-07T19:39:00+00:00",
-          "summary": "0則貼文| 快來參與LINE TODAY討論牆上的討論| 因應氣候變遷水庫改採高水位操作."
+          "title": "竹市列管51家排放源全數完成溫室氣體盤查登錄高虹安市長：落實優良碳管理",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hccg.gov.tw/hccg/app/know/view%3Fmodule%3Dmunicipalnews%26id%3D30122%26serno%3D488b5510-c05e-49d0-aeac-cafb5484ee54&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw08tiDsWIrKoL0fnhFg5gWE",
+          "published": "2026-05-09T03:11:21+00:00",
+          "summary": "為因應全球氣候變遷挑戰，推動城市淨零轉型，新竹市政府持續協助轄內企業落實碳管理。環保局表示，竹市依「溫室氣體排放量盤查登錄及查驗管理辦法」，應辦理&nbsp;..."
         },
         {
-          "title": "遠東新世紀減碳治理進度超預期 - 國泰證券",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20260508%26CSeqNO%3DE9489157&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2C3EseWJM_WXLKcijEaEqy",
-          "published": "2026-05-07T19:08:12+00:00",
-          "summary": "減碳治理方面，遠東新世紀以創造能源最高價值及實現淨零排放為願景，設定短中長期減碳目標─2025年減碳30%、2030年減碳50%、2050年達到淨零排放。透過製程&nbsp;..."
+          "title": "年減碳400噸！國泰醫院奪3項ESG大獎| 祝你健康| 三立新聞網HEALTH.SETN.COM",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://health.setn.com/news/1835772&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0WhzH9eY1UThJr43vmyDUb",
+          "published": "2026-05-09T02:51:03+00:00",
+          "summary": "職場綠色轉型！面對全球淨零浪潮與醫療人力壓力雙重挑戰，醫院不只拚醫療品質，更掀起「永續轉型」競賽。國泰醫院今年在「2026遠見ESG醫療永續獎」中表現亮眼，&nbsp;..."
         },
         {
-          "title": "東勢清潔隊打造「森林系」空間千棵植栽翻轉場區印象 - 臺中垃圾清運大車隊",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://cleaner.epb.taichung.gov.tw/newsmain.aspx%3Fn_id%3D23176&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Vb8qZM1GtXcWLK2UQdH_X",
-          "published": "2026-05-07T18:47:21+00:00",
-          "summary": "... 淨零排放的關鍵「負碳」策略之一。場域陸續種下台灣梭羅樹、肖楠、穗花棋盤腳、黃金風鈴木，光臘樹等1,000棵喬木及1,300株桂花、七里香、矮仙丹、杜鵑花等&nbsp;..."
+          "title": "因應產業佈局與<b>淨零</b>目標高雄啟動都市計畫農業區專案通盤檢討 - PChome Online 新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/public/kcg/20260509/index-77828882059167128016.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw11h4ZPfjzEMY62AMfr8HhV",
+          "published": "2026-05-09T02:42:12+00:00",
+          "summary": "高市府落實半導體S 廊帶產業布局，接軌2050 淨零排放目標，因應縣市合併後都市發展擴張、重大交通建設推動及產業轉型需求，都發局正式啟動「原高雄市都市計畫&nbsp;..."
         },
         {
-          "title": "氣候變化危及數萬植物物種科學家籲勿忽視植物滅絕危機 - 巴士的報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bastillepost.com/hongkong/article/15980130-%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E5%258C%2596%25E5%258D%25B1%25E5%258F%258A%25E6%2595%25B8%25E8%2590%25AC%25E6%25A4%258D%25E7%2589%25A9%25E7%2589%25A9%25E7%25A8%25AE-%25E7%25A7%2591%25E5%25AD%25B8%25E5%25AE%25B6%25E7%25B1%25B2%25E5%258B%25BF%25E5%25BF%25BD%25E8%25A6%2596%25E6%25A4%258D%25E7%2589%25A9%25E6%25BB%2585&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2rl4CQpjMDn2Mq4aRhGoIv",
-          "published": "2026-05-07T18:26:44+00:00",
-          "summary": "科學家警告，全球暖化正嚴重威脅植物物種，預計到本世紀末將有數萬種植物消失。研究指出，受氣溫上升及雨雪模式轉變影響，全球7%至16%的植物物種，其棲息地恐將&nbsp;..."
+          "title": "加勒比海推動珊瑚復育計畫漁民投入海洋保育｜#公視新聞網#Shorts - YouTube",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/shorts/qIvwy67Nsks&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0w2UG8GmbXdTxuKeQ3hhbu",
+          "published": "2026-05-09T02:27:54+00:00",
+          "summary": "哥倫比亞珊瑚園丁國際自然保護聯盟在2024年估計，全球44%的珊瑚物種，因為氣候變遷正面臨滅絕。 加勒比海洋研究中心基金會開創恢復珊瑚生態系統的計畫，&nbsp;..."
         },
         {
-          "title": "郵輪疫情已追蹤到62例密接者， 張文宏：氣候變化改寫傳染病地理邊界(美中報道）",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.uschinews.com/static/content/SHBK/JTYS/2026-05-07/1502115839636279296.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1O7IoehjQyYUA7V81h9PTQ",
-          "published": "2026-05-07T17:15:10+00:00",
-          "summary": "同日，阿根廷南部著名旅遊城市聖卡洛斯-德巴裏洛切新確診一例漢坦病毒感染病例，但目前尚不清楚該患者是否與發生漢坦病毒疫情的“洪迪厄斯”號郵輪有關聯。"
+          "title": "台灣進出口95%靠海運航港局斥24.5億推航運升級",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.epochtimes.com/b5/26/5/8/n14759556.htm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw10XO81GZBuIh32ARAF7m_H",
+          "published": "2026-05-08T21:11:11+00:00",
+          "summary": "台灣進出口貨運逾95%仰賴海洋運輸，且貨櫃三雄掌握全球10%關鍵運能，航港局8日表示，近年航運產業在全球地緣政治衝擊、淨零減碳及智慧轉型等趨勢下，&nbsp;..."
         },
         {
-          "title": "第8屆國家企業環保獎啟動邀企業共創<b>淨零</b>轉型新典範 - 澎湖e傳媒",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.phnes.net/%25E7%25AC%25AC8%25E5%25B1%2586%25E5%259C%258B%25E5%25AE%25B6%25E4%25BC%2581%25E6%25A5%25AD%25E7%2592%25B0%25E4%25BF%259D%25E7%258D%258E%25E5%2595%259F%25E5%258B%2595-%25E9%2582%2580%25E4%25BC%2581%25E6%25A5%25AD%25E5%2585%25B1%25E5%2589%25B5%25E6%25B7%25A8%25E9%259B%25B6%25E8%25BD%2589%25E5%259E%258B%25E6%2596%25B0%25E5%2585%25B8&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0FNma5HaIym_keGY9rzy-C",
-          "published": "2026-05-07T16:05:18+00:00",
-          "summary": "環境部表示，國家企業環保獎為我國企業推動環保的最高榮譽獎項，歷屆得獎企業在環境政策與管理、能資源節用、污染防治、環境參與等面向展現卓越成果，成為產業典範&nbsp;..."
+          "title": "驗船中心舉辦MEPC 84產業趨勢研討會 - 工商時報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260508701496-431202&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2zas8ZU_S3Z-1xHVTUmr2N",
+          "published": "2026-05-08T20:49:14+00:00",
+          "summary": "研討會聚集我國各大航商高階管理及技術主管，深度解析國際海事組織(IMO)海洋環境保護委員會第84屆會議(MEPC 84)最新動態，特別聚焦於淨零框架(Net-Zero&nbsp;..."
         }
       ]
     }
