@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-05-10T04:43:30.336651+00:00",
-    "date": "2026-05-10",
+    "generated_at": "2026-05-11T04:58:02.558035+00:00",
+    "date": "2026-05-11",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -10,41 +10,54 @@
     {
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
-      "items": []
+      "items": [
+        {
+          "title": "【科技早餐】蘋果傳找英特爾代工、台灣出口衝 676 億美元，AI 供應鏈重排正在加速",
+          "link": "https://techorange.com/2026/05/11/apple-reportedly-turns-to-intel-for-chip-manufacturing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-10T22:50:00+00:00",
+          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊蘋果傳找英特爾代工，美國晶片製造補上關鍵大客戶 《華爾街日報》報導，蘋果 (Apple) 與英特爾（Intel）已進行超過一年的談判，並在近幾個月達成初步協議，未來英特爾可能為蘋果部分裝置代工晶片。不過，目前還不清楚會是哪一類產品，蘋果與英特爾都暫時沒有回應。 如果合作落實，這將成為英特爾晶圓代工業務的重要背書。英特爾近年積極發展 Intel F"
+        }
+      ]
     },
     {
       "feed_name": "遠見雜誌 - 前進的動力",
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "家中抓到老鼠怎麼辦？老鼠藥、捕鼠籠、黏鼠板哪個好？專家這樣建議",
-          "link": "https://www.gvm.com.tw/article/129965",
-          "published": "2026-05-09T16:00:00",
-          "summary": "台北市今 2026 年初傳出漢他病毒致死案例，而近期又有民眾在市區多次目擊老鼠出沒，讓防疫議題再度升溫，引發社會關注。不少人也紛紛好奇，如果工作或居家環境有老鼠出現怎麼辦？該使用捕鼠籠、黏鼠板，還是老鼠藥好？抓到老鼠該怎麼處理？台大昆蟲學系名譽教授徐爾烈指出，防治鼠患建議優先採「物理防治」，利用捕鼠籠誘捕，若物理防治效果有限，才考慮以「化學防治」老鼠藥作為最後手段；他也建議避免使用黏鼠板，以免誤傷"
+          "title": "分數只是學業成績：別在孩子心裡變成「值不值得被愛」的衡量",
+          "link": "https://www.gvm.com.tw/article/129920",
+          "published": "2026-05-10T20:01:00",
+          "summary": "學業表現往往是孩子的自信之樹最容易被風吹得東倒西歪的地方，當成績不如預期、努力沒被看見，前面提過代表「成就感」的葉子就會慢慢枯黃。在陪伴孩子的路上，我發現最脆弱的自信，往往最輕易被「分數」給撕裂。（本文節錄自《你氣的是孩子？還是自己？》一書，作者：孫子玲／幸福文化出版，以下為摘文。）當孩子拿著考卷走過來，他觀察的不只是成績，更是爸媽的臉色。一句「怎麼這麼粗心」、「下次要更努力」，都可能讓他心裡的「"
         },
         {
-          "title": "年輕人不想努力了！想坐等繼承財富，最新研究：多數人其實等不到",
-          "link": "https://www.gvm.com.tw/article/129969",
-          "published": "2026-05-09T11:00:00",
-          "summary": "這幾年經濟學家提出財富移轉的細節，未來二十年，千禧世代與 Z 世代將會繼承嬰兒潮世代的遺產，可能有上百兆美元，甚至被視為歷史及的事件，可以扭轉千禧世代出生不利的命運。但是經濟學家警告，大家不要太樂觀，這場財富移轉運動，一樣只有少數人受益，實際帶來的只是一個更加分化的世界。目前經濟學家估計，未來二十年，嬰兒潮世代四十年累積的股票、房地產、企業股權等等，將移轉給下一代。美國未來&nbsp;20&nbs"
+          "title": "不是貧，而是失去未來：全球氛圍衰退的背後，為何中產階級面臨消失危機？",
+          "link": "https://www.gvm.com.tw/article/129918",
+          "published": "2026-05-10T19:58:00",
+          "summary": "許多國家GDP一再攀高，股市屢創新紀錄，企業盈餘與出口數據亮眼，媒體與官方報告充滿繁榮語彙。然而，在這片表面繁華下，人們卻普遍感覺不到富裕，甚至愈活愈吃力，愈努力愈無力。這不是某個國家的孤例，而是一種跨越先進與新興經濟體、跨越西方與東亞的全球現象。美國、英國、日本、南韓、香港、新加坡、臺灣更莫不如此。（本文節錄自《東昇西降新賽局》一書，作者：陳國祥／好優文化出版，以下為摘文。）「GDP無感」：繁榮"
         },
         {
-          "title": "嬰兒界聖品「蘇菲長頸鹿」陷商業欺騙！法國人童年回憶崩壞，遭踢爆是中國製造",
-          "link": "https://www.gvm.com.tw/article/129967",
-          "published": "2026-05-09T07:20:00",
-          "summary": "法國知名幼兒玩具「蘇菲長頸鹿」（Sophie la girafe）長期被視為「法國製造」的象徵，是家喻戶曉的明星商品，但近日遭媒體披露實際上大量在中國製造。蘇菲長頸鹿65年來一直是極具代表性的幼兒玩具，一代又一代的法國人小時候都曾擁有一隻，在台灣等許多國家也可以買到。法國媒體Mediapart日前報導，蘇菲長頸鹿本應在上薩瓦省（Haute-Savoie）生產，但如今大量產自中國。Mediapart"
+          "title": "愈沒錢愈要讓錢為你工作：理財新手想致富，先做好「3步驟」",
+          "link": "https://www.gvm.com.tw/article/129855",
+          "published": "2026-05-10T19:57:00",
+          "summary": "雖然這很糟糕也很不公平，但實現你所夢想的財富唯一的方法，就是自學所有你本來就應該學卻沒有學過的東西。沒錯，現在才開始學還不遲。你永遠不會比今天更年輕，在我看來，今天就是開啟你個人理財教育旅程的最佳時機。（本文節錄自《學會成為有錢人》一書，作者：妮可．拉平／幸福文化出版，以下為摘文。）在你拿起這本書之前，你可能認為增加財富的最佳（也許是唯一）方法就是賺更多的錢。別誤會我的意思，努力賺大錢很了不起。但"
         },
         {
-          "title": "台北鼠患是認知作戰？漢他病毒症狀初期像感冒「死亡率高」，醫：輕忽恐數小時休克",
-          "link": "https://www.gvm.com.tw/article/129962",
-          "published": "2026-05-09T07:00:00",
-          "summary": "台北市、新北市接連出現漢他病毒病例！2026 年截至 5 月初已累積 2 例個案，其中包含 1 例死亡。由於漢他病毒初期症狀如發燒、頭痛、疲倦及肌肉痠痛與感冒、流感極為相似，極易被誤判。故胸腔暨重症醫學科醫師黃軒示警，如引起漢他病毒肺症候群（HPS），可能在短短數小時內引發肺水腫與休克，死亡率最高可達 50 %且無特效藥，嚴重性不容小覷。本文解析漢他病毒傳染途徑、出血熱症狀，並分享發現老鼠屎的正確"
+          "title": "統整4大實用防詐科技工具：多數詐騙都抓住了人性「這弱點」",
+          "link": "https://www.gvm.com.tw/article/129818",
+          "published": "2026-05-10T19:55:00",
+          "summary": "過去，我們總覺得被騙很丟臉而選擇沉默，但這種「沉默文化」，正是詐騙集團最愛利用的弱點。當受害者因為羞愧而不願求助時，詐騙集團就能為所欲為。所以，防詐的第一步，就是不要把詐騙當成「不能說的祕密」。（本文節錄自《陪家人拆「詐」彈》一書，作者：陳安迪／寶瓶文化出版，以下為摘文。）第一步：打破沉默，把「詐騙」搬上桌根據警政署統計，詐騙案件層出不窮，每年都有數萬人受害，財損金額更是天文數字，而且受害者的年齡"
         },
         {
-          "title": "啦啦隊女神權喜原超仙空降內湖！正韓零食「入籍乖乖」引爆瘋搶潮",
-          "link": "https://www.gvm.com.tw/article/129997",
-          "published": "2026-05-09T06:05:00",
-          "summary": "台灣國民零食龍頭「乖乖」再度掀起韓流旋風！乖乖攜手韓國知名廠商推出人氣經典零食「海苔餅乾」，並於今（9）日在家樂福內湖店舉辦盛大「一日店長」快閃活動。首日重磅邀請韓籍啦啦隊女神權喜原現身站台，吸引粉絲擠爆現場。這款強調韓國原裝進口、韓國製造的零食，以「芥末」與「麻油」兩款正宗風味搶攻台灣消費者的味蕾，除了第一站外，乖乖還預計將在 5/10(日)、5/17(日)，在南北家樂福快閃放送熱力！現場熱度爆"
+          "title": "從古埃及王國到現代商業巨擘：他們如何透過「避稅」掌控金融市場？",
+          "link": "https://www.gvm.com.tw/article/129936",
+          "published": "2026-05-10T19:53:00",
+          "summary": "從古埃及王國到Google、亞馬遜等商業巨擘，這場「稅務的權力遊戲」，早已在歷史中上演數千年。兩千多年來，商人、貴族、金融家與跨國企業不斷在法律與制度之間尋找節稅縫隙，而這些看似各自無關的財務操作，卻成為形塑當今世界樣貌的關鍵因素。（本文節錄自《逃稅的世界史》一書，作者：大村大次郎／樂金文化出版，以下為摘文。）· 古代埃及的官僚貪腐：書吏超徵稅收、中飽私囊，法老為解決財政破洞而增稅，王朝統治威信也"
+        },
+        {
+          "title": "臨床心理學家揭示「到達謬誤」：為何追求幸福反而讓你失去快樂？",
+          "link": "https://www.gvm.com.tw/article/129934",
+          "published": "2026-05-10T19:50:00",
+          "summary": "關於「幸福祕訣」的訊息，充斥於媒體、廣告、家庭談話，甚至同儕與社會的行為與價值觀之中。它們滲入大腦，左右人類對幸福的思考。若要理解幸福的真實樣貌、打造一個穩固的「快樂三明治」，首先必須了解這種偏差是何時、為何發生的。（本文節錄自《大腦喜歡你這樣快樂》一書，作者：艾瑪．赫本／大好書屋出版 ，以下為摘文。）在我的青少年時期，只要走進任何一家販售海報的店，我幾乎都會翻到那一類印著「幸福是……」的海報。這"
         }
       ]
     },
@@ -53,40 +66,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "原地踏步運具電動化達標天方夜譚|半導體|產業新聞|產科國際所【IEK產業情報網】",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D5%26nsl_id%3Df38b3f4389a14f4db877598486c87e6b&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0yEpTYpTQlWK3if7mx8FD7",
-          "published": "2026-05-09T23:03:30+00:00",
-          "summary": "在淨零減碳的潮流下，政府力推運具電動化，但政策推動後，進度卻遠遠落後， ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
+          "title": "小紅書重點扶持逾百萬個好貨商家周五起終止百萬免佣計劃 - AASTOCKS.com",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.aastocks.com/tc/stocks/news/aafn-news/NOW.1523781/2&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0mfxLk5yYp_QJFLatt6i_f",
+          "published": "2026-05-11T03:39:43+00:00",
+          "summary": "小紅書啟動商家扶持策略調整，將於今日(11日)推出「LEAP UP-小紅書商家百萬躍遷計劃」，重點扶持超過100萬個好貨型商家實現經營躍遷。同時，此前發布的「百萬免&nbsp;..."
         },
         {
-          "title": "南市環保局低碳鐵馬行邀親子體驗低碳慢旅生活方式 - 台灣民眾電子報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.allnews.tw/news/89609&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1ZncuiuBNvXJxkN8c3lMZD",
-          "published": "2026-05-09T16:56:27+00:00",
-          "summary": "市長黃偉哲表示，面對氣候變遷與淨零轉型挑戰，南市目前已設置188處空氣品質淨化區，並達成649個行政里全數參與低碳家園目標，期許社區持續盤點既有資源&nbsp;..."
+          "title": "<b>氣候變遷</b>正在養大「鼠患危機」 老鼠與病毒同步擴散 - Yahoo新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E6%25AD%25A3%25E5%259C%25A8%25E9%25A4%258A%25E5%25A4%25A7-%25E9%25BC%25A0%25E6%2582%25A3%25E5%258D%25B1%25E6%25A9%259F-%25E8%2580%2581%25E9%25BC%25A0%25E8%2588%2587%25E7%2597%2585%25E6%25AF%2592%25E5%2590%258C%25E6%25AD%25A5%25E6%2593%25B4%25E6%2595%25A3-020800762.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw06G6j7GmzDTwOHVRC4t_E0",
+          "published": "2026-05-11T02:38:56+00:00",
+          "summary": "暖冬與早春增加老鼠繁殖隱藏都市角落的老鼠，很難確知數量。美國研究團隊利用全球16座城市的老鼠通報資料來判斷老鼠數量的變化，結果發現，11座城市的老鼠投訴&nbsp;..."
         },
         {
-          "title": "【島在現場】《水・不水之間》紀錄片華山光點首映｜2026.5.8 | 我們的島",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ourisland.pts.org.tw/content/11949&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1f9kZ0xUxqf7htZWojBIuP",
-          "published": "2026-05-09T16:51:52+00:00",
-          "summary": "錯過大銀幕的朋友，5/11週一晚間10點，公視我們的島也能收看哦！ 地點. 台灣 &middot; 水庫 &middot; 乾旱 &middot; 氣候變遷 &middot; 水源污染 &middot; 水土保持&nbsp;..."
+          "title": "<b>氣候變遷</b>正在養大「鼠患危機」 老鼠與病毒同步擴散 - 環境資訊中心",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://e-info.org.tw/node/243405&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2_dRhipZzbBPAwRxcbTM0a",
+          "published": "2026-05-11T02:34:35+00:00",
+          "summary": "... climate change is causing a rat population overload. Eurekalert（2025年4月11日），Deadly rodent-borne hantavirus is an emerging disease with&nbsp;..."
         },
         {
-          "title": "舒夢蘭電影感動美國太空人林琪兒許願休士頓上映",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.worldjournal.com/wj/amp/story/121478/9492691&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2aR1uUMqwBXCHzaFYfC_dl",
-          "published": "2026-05-09T16:29:04+00:00",
-          "summary": "本片以獨特女性視角溫柔凝視環境，更記錄下台灣科學家在極地冒險研究的身影，讓台灣生態電影與科研實力同步被世界看到。尤其台灣和新加坡同為海島國家，對氣候變遷&nbsp;..."
+          "title": "<b>淨零</b>創未來，永續新世代」！舊莊國小學習成果博覽會展現親師生綠生活實踐力 - 台北市政府",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gov.taipei/News_Content.aspx%3Fn%3DF0DDAF49B89E9413%26sms%3D72544237BBE4C5F6%26s%3D24341E7E9F2148BB&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1Y1n0ZNzzC7romKIKcI4gd",
+          "published": "2026-05-11T02:29:28+00:00",
+          "summary": "臺北市舊莊國民小學新聞稿 請轉交文教記者. 單位：臺北市舊莊國民小學. 地址：115臺北市南港區舊莊街一段100號. 新聞聯絡:輔導室許琪雅主任2782-1418-150."
         },
         {
-          "title": "專家：台灣火力發電為主電動車減碳有限 - 聯合新聞網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7238/9492824&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3D8L8y7e7MTrfiYCsvBRnm",
-          "published": "2026-05-09T16:15:56+00:00",
-          "summary": "政府近年推動運具電動化，公務車汰換成電動車也被視為淨零政策的一環。不過，能源專家認為，若台灣整體電力結構仍以高碳排的火力發電為主，即使大量改用電動車，&nbsp;..."
+          "title": "驗船中心舉辦MEPC 84產業趨勢研討會助航商掌握未來趨勢 - 中華日報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cdns.com.tw/articles/1398378&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0saryxluDMwd-rlytNZplJ",
+          "published": "2026-05-11T02:04:55+00:00",
+          "summary": "本次研討會聚集我國各大航商高階管理及技術主管，深度解析國際海事組織(IMO)海洋環境保護委員會第84 屆會議(MEPC 84)最新動態，特別聚焦於淨零框架(Net-Zero&nbsp;..."
         },
         {
-          "title": "張文宏最新權威解讀漢坦病毒疫情- 香港文匯網 - 文匯報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.wenweipo.com/a/202605/09/AP69ff4e3ae4b0b49ad1ba40c1.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3RzwVA7xFiY4w9GZUJeeZX",
-          "published": "2026-05-09T15:12:25+00:00",
-          "summary": "漢坦病毒是與嚙齒動物共存的古老病毒，氣候變暖、生態環境變化，會讓原本局限在特定地區、特定宿主的病原體，突破地域限制向新區域蔓延。 以往寨卡、登革熱等傳染病&nbsp;..."
+          "title": "花蓮縣推動S.M.A.R.T.智慧巡查計畫打造科技減碳雙軌永續環境治理新模式 - 更生日報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ksnews.com.tw/e/100304&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw14bqtvLtA0Dn2w0fddvoN6",
+          "published": "2026-05-11T01:42:52+00:00",
+          "summary": "因應2050淨零碳排政策及智慧城市發展趨勢，花蓮縣環保局導入「S.M.A.R.T.智慧巡查」策略，透過制度與科技整合，建構更具效率與永續性的環境管理模式。 針對&nbsp;..."
         }
       ]
     }
