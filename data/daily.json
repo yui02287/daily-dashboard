@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-05-11T04:58:02.558035+00:00",
-    "date": "2026-05-11",
+    "generated_at": "2026-05-12T04:35:33.849389+00:00",
+    "date": "2026-05-12",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,10 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "【科技早餐】蘋果傳找英特爾代工、台灣出口衝 676 億美元，AI 供應鏈重排正在加速",
-          "link": "https://techorange.com/2026/05/11/apple-reportedly-turns-to-intel-for-chip-manufacturing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-10T22:50:00+00:00",
-          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊蘋果傳找英特爾代工，美國晶片製造補上關鍵大客戶 《華爾街日報》報導，蘋果 (Apple) 與英特爾（Intel）已進行超過一年的談判，並在近幾個月達成初步協議，未來英特爾可能為蘋果部分裝置代工晶片。不過，目前還不清楚會是哪一類產品，蘋果與英特爾都暫時沒有回應。 如果合作落實，這將成為英特爾晶圓代工業務的重要背書。英特爾近年積極發展 Intel F"
+          "title": "軟體開發成本趨近於零，企業護城河還剩什麼？陶韻智：下一個競爭關鍵是獲客、價值主張與 AI 管理力",
+          "link": "https://techorange.com/2026/05/12/sting-tao-podcast/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-12T02:43:26+00:00",
+          "summary": "專訪：戴季全撰稿：李昀蔚 生成式 AI 正在讓軟體開發成本快速下降。過去，企業如果想開發系統、串接 API 或改造內部流程，往往需要仰賴高階工程師、外部廠商或大型軟體服務，但如今，AI 已經能協助完成前端、後端、資料庫、介面設計，甚至跨語言與跨國市場推廣。 本集《全新一週》邀請到《AI First 自我升級革命》作者、前 LINE 台灣總經理陶韻智，深入分析當軟體開發成本趨近於零後，企業競爭門檻的"
+        },
+        {
+          "title": "交付提速 85%、物流成本降 42%：Lenovo 北美最大生產基地的混合 AI 實戰成果",
+          "link": "https://techorange.com/2026/05/12/manufacturing-ai-lenovo/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-12T02:25:59+00:00",
+          "summary": "製造業從不缺乏 AI 的遠大願景，當多數企業還在為 AI 試點專案的投資報酬率發愁時，Lenovo 在智慧製造的應用，已經做出成績。 交付提速、物流成本降低：打造有感應力的生產系統 其最具代表性的案例來自北美最大生產基地，該廠導入 AI 與生成式 AI 技術後，整體營運效率出現顯著變化：前置時間大幅縮短 85%，意味著產品交付速度獲得根本性提升；物流成本下降 42%，顯示供應鏈調度與資源配置達到更"
+        },
+        {
+          "title": "【科技早餐】OpenAI、NVIDIA、Intel 同場卡位，AI 算力戰從網路層燒到資本市場",
+          "link": "https://techorange.com/2026/05/12/openai-nvidia-intel-position-same-race-as-ai-compute-war-moves-from-networking-to-capital-markets/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-11T22:50:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊OpenAI 攜五大科技廠補 AI 訓練瓶頸，算力戰延伸到網路層 OpenAI 宣布，已與 AMD、博通（Broadcom）、英特爾（Intel）、Microsoft 與 NVIDIA，共同開發新的超級電腦網路協議 MRC，也就是多路徑可靠連線。OpenAI 表示，前沿模型訓練仰賴大型 GPU 叢集，資料必須在 GPU 之間高速移動，隨著訓練規模"
+        },
+        {
+          "title": "AI「員工化」的代價：為什麼像對待人一樣管理  AI，反而會重挫組織信任？",
+          "link": "https://techorange.com/2026/05/11/research-treat-ai-agents-employees/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-11T11:23:26+00:00",
+          "summary": "《哈佛商業評論》報導，隨著企業加速導入 AI 代理，越來越多組織正將 AI 從「工具」重新定位為「員工」，不僅為其命名、賦予職稱，甚至將其納入組織圖與工作流程中，直接視為團隊成員或數位員工。 從摩根大通到 Walmart：企業正在把 AI 代理當真正的員工用 Boston Consulting Group（BCG）針對 1,261 名來自美國、加拿大與歐盟的人資與財務部門經理、主管與高階主管的隨機"
+        },
+        {
+          "title": "LinkedIn 揭 2026 企業選才兩大關鍵：把 AI 轉化為生產力，也能帶領團隊適應變革",
+          "link": "https://techorange.com/2026/05/11/linkedin-unveils-most-in-demand-jobs-skills-in-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-11T09:07:27+00:00",
+          "summary": "隨著 AI 快速發展，工作場域的樣貌已大不相同，企業的招募標準也正經歷顯著的改變。LinkedIn 總編輯 Dan Roth 近日接受《今日秀》（TODAY）訪問時指出，現在關於工作的討論已逐漸從「職稱」轉移到「技能」上。他表示，LinkedIn 透過分析平台上十億份個人檔案內的技能，以及過去一年內成功求職者所具備的能力，發現企業越來越看重求職者「實際能做什麼」，而不是過去的職稱或學歷背景。 「技"
+        },
+        {
+          "title": "AI 幻覺、越權、難監控，極風雲創以 ACROSS 為企業築起安全護城河",
+          "link": "https://techorange.com/2026/05/11/twister5-ai-across-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-11T08:23:52+00:00",
+          "summary": "隨著 AI 技術的快發展，企業正陷入一場前所未有的 AI 焦慮症。 AI 在加速創新和提升效率上的潛力，讓企業意識到這可能是翻轉競爭局勢的絕佳機會，過去要拚資金、拚人才，現在只要用對 AI，就有機會與產業巨頭平起平坐。然而，當 AI 越來越深入營運流程後，相關風險也跟著日益擴大且難以掌控，這又讓企業感到焦慮，最後陷入一邊想加速、一邊又踩煞車的兩難困境。 揭示 AI 應用三大風險，ACROSS 平台"
         }
       ]
     },
@@ -24,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "分數只是學業成績：別在孩子心裡變成「值不值得被愛」的衡量",
-          "link": "https://www.gvm.com.tw/article/129920",
-          "published": "2026-05-10T20:01:00",
-          "summary": "學業表現往往是孩子的自信之樹最容易被風吹得東倒西歪的地方，當成績不如預期、努力沒被看見，前面提過代表「成就感」的葉子就會慢慢枯黃。在陪伴孩子的路上，我發現最脆弱的自信，往往最輕易被「分數」給撕裂。（本文節錄自《你氣的是孩子？還是自己？》一書，作者：孫子玲／幸福文化出版，以下為摘文。）當孩子拿著考卷走過來，他觀察的不只是成績，更是爸媽的臉色。一句「怎麼這麼粗心」、「下次要更努力」，都可能讓他心裡的「"
+          "title": "華人父母常見教養困境：習慣為孩子「排除風險」而非學會「管理風險」",
+          "link": "https://www.gvm.com.tw/article/130024",
+          "published": "2026-05-11T18:39:00",
+          "summary": "很多人以為「鷹式教養」是把小孩推下懸崖，學不會就摔死的一種「冷血殘酷、適者生存」的斯巴達式教育。對我來說，「鷹式教養」是在保持安全底線的前提下，讓孩子真正去感受迎面而來的風，也感受高度帶來的危險，並在其中學會如何利用風與險，飛得更高、看得更遠。（本文節錄自《鷹式教養》一書，作者：「鷹式一家」康海瑞（Hiram）／方智出版，以下為摘文。）很多人對於「鷹式教養」有一種誤解，以為那是把小孩推下懸崖，學不"
         },
         {
-          "title": "不是貧，而是失去未來：全球氛圍衰退的背後，為何中產階級面臨消失危機？",
-          "link": "https://www.gvm.com.tw/article/129918",
-          "published": "2026-05-10T19:58:00",
-          "summary": "許多國家GDP一再攀高，股市屢創新紀錄，企業盈餘與出口數據亮眼，媒體與官方報告充滿繁榮語彙。然而，在這片表面繁華下，人們卻普遍感覺不到富裕，甚至愈活愈吃力，愈努力愈無力。這不是某個國家的孤例，而是一種跨越先進與新興經濟體、跨越西方與東亞的全球現象。美國、英國、日本、南韓、香港、新加坡、臺灣更莫不如此。（本文節錄自《東昇西降新賽局》一書，作者：陳國祥／好優文化出版，以下為摘文。）「GDP無感」：繁榮"
+          "title": "史上第二大紅寶石出土！1.1萬克拉價值470億元＝3座大巨蛋",
+          "link": "https://www.gvm.com.tw/article/130003",
+          "published": "2026-05-11T18:15:00",
+          "summary": "日前一則震撼全球珠寶界的消息傳出：緬甸礦區出土一顆重達1萬1000克拉（約2.2公斤）的巨型紅寶石原石，為史上第二大。根據市場初步預估，潛在價值達15億美元（約新台幣470億元），足以興建三座台北大巨蛋體育館（161億元）。然而，在這每一克拉的背後，卻交織著緬甸軍政府與反抗軍的博弈，成為名副其實的「血寶石」。這顆未經切割的神祕原石，在2026年4月中旬、緬甸傳統新年過後不久便已悄然出土。但緬甸官方"
         },
         {
-          "title": "愈沒錢愈要讓錢為你工作：理財新手想致富，先做好「3步驟」",
-          "link": "https://www.gvm.com.tw/article/129855",
-          "published": "2026-05-10T19:57:00",
-          "summary": "雖然這很糟糕也很不公平，但實現你所夢想的財富唯一的方法，就是自學所有你本來就應該學卻沒有學過的東西。沒錯，現在才開始學還不遲。你永遠不會比今天更年輕，在我看來，今天就是開啟你個人理財教育旅程的最佳時機。（本文節錄自《學會成為有錢人》一書，作者：妮可．拉平／幸福文化出版，以下為摘文。）在你拿起這本書之前，你可能認為增加財富的最佳（也許是唯一）方法就是賺更多的錢。別誤會我的意思，努力賺大錢很了不起。但"
+          "title": "歷經近半年！賴清德公布7800億國防特別條例",
+          "link": "https://www.gvm.com.tw/article/130020",
+          "published": "2026-05-11T17:51:00",
+          "summary": "立法院8日三讀攸關對美軍購的「保衛國家安全及強化不對稱戰力計畫採購特別條例」，預算上限共匡列金額新台幣7800億元。總統府今天發布總統令，公布特別條例。行政院去年11月27日提出8年、預算規模新台幣1.25兆元「強化防衛韌性及不對稱戰力計畫採購特別條例」草案送立法院審議。歷經將近半年，立法院8日三讀通過由在野黨提出的「保衛國家安全及強化不對稱戰力計畫採購特別條例」，預算上限匡列金額7800億元，其"
         },
         {
-          "title": "統整4大實用防詐科技工具：多數詐騙都抓住了人性「這弱點」",
-          "link": "https://www.gvm.com.tw/article/129818",
-          "published": "2026-05-10T19:55:00",
-          "summary": "過去，我們總覺得被騙很丟臉而選擇沉默，但這種「沉默文化」，正是詐騙集團最愛利用的弱點。當受害者因為羞愧而不願求助時，詐騙集團就能為所欲為。所以，防詐的第一步，就是不要把詐騙當成「不能說的祕密」。（本文節錄自《陪家人拆「詐」彈》一書，作者：陳安迪／寶瓶文化出版，以下為摘文。）第一步：打破沉默，把「詐騙」搬上桌根據警政署統計，詐騙案件層出不窮，每年都有數萬人受害，財損金額更是天文數字，而且受害者的年齡"
+          "title": "三班護病比延後實施惹議！「關床風險」可能擴大？月平均計算成攻防焦點",
+          "link": "https://www.gvm.com.tw/article/130019",
+          "published": "2026-05-11T17:47:00",
+          "summary": "三班護病比正式入法，法案三讀前，現場一度傳出痛罵「垃圾」與下跪場面，爭議持續延燒尚未落幕。立法院8日三讀修正《醫療法》，衛福部延後至2028年5月1日實施。入法只是第一步，從上路時程、月平均計算到關床爭議，下一個戰場已轉向執行現場。護理界主張，護病比若仍停留在全院平均，夜班、重症病房或高負荷單位的實際照護壓力，可能繼續被平均值掩蓋；醫院管理端則憂心，若標準直接落到個別病房、個別班次甚至即時值，醫院"
         },
         {
-          "title": "從古埃及王國到現代商業巨擘：他們如何透過「避稅」掌控金融市場？",
-          "link": "https://www.gvm.com.tw/article/129936",
-          "published": "2026-05-10T19:53:00",
-          "summary": "從古埃及王國到Google、亞馬遜等商業巨擘，這場「稅務的權力遊戲」，早已在歷史中上演數千年。兩千多年來，商人、貴族、金融家與跨國企業不斷在法律與制度之間尋找節稅縫隙，而這些看似各自無關的財務操作，卻成為形塑當今世界樣貌的關鍵因素。（本文節錄自《逃稅的世界史》一書，作者：大村大次郎／樂金文化出版，以下為摘文。）· 古代埃及的官僚貪腐：書吏超徵稅收、中飽私囊，法老為解決財政破洞而增稅，王朝統治威信也"
+          "title": "愛爾麗診所針孔偷拍爭議！5招一秒分辨「真假煙霧偵測器」",
+          "link": "https://www.gvm.com.tw/article/129992",
+          "published": "2026-05-11T17:31:00",
+          "summary": "近期知名連鎖醫美診所愛爾麗爆出「天花板煙霧偵測器」暗藏針孔攝影機的偷拍事件，引起社會譁然。事件起因於一名女性病患在換衣服後察覺異狀並報案，警方到場確認該裝置並非消防設備，而是偽裝的偷拍鏡頭。這類事件不僅發生在民宿和飯店，如今連醫療診所都淪陷，讓許多民眾在進入更衣室、浴室或外宿時，抬頭看到圓形的偵測裝置難免感到人心惶惶。為了幫助大家快速掌握自保技巧，本文整理了內政部消防署與專家的實用資訊，教你如何透"
         },
         {
-          "title": "臨床心理學家揭示「到達謬誤」：為何追求幸福反而讓你失去快樂？",
-          "link": "https://www.gvm.com.tw/article/129934",
-          "published": "2026-05-10T19:50:00",
-          "summary": "關於「幸福祕訣」的訊息，充斥於媒體、廣告、家庭談話，甚至同儕與社會的行為與價值觀之中。它們滲入大腦，左右人類對幸福的思考。若要理解幸福的真實樣貌、打造一個穩固的「快樂三明治」，首先必須了解這種偏差是何時、為何發生的。（本文節錄自《大腦喜歡你這樣快樂》一書，作者：艾瑪．赫本／大好書屋出版 ，以下為摘文。）在我的青少年時期，只要走進任何一家販售海報的店，我幾乎都會翻到那一類印著「幸福是……」的海報。這"
+          "title": "美伊戰爭衝擊國際！印度重啟居家辦公、斯里蘭卡漲電價，最新情況一文看",
+          "link": "https://www.gvm.com.tw/article/130017",
+          "published": "2026-05-11T16:33:00",
+          "summary": "美國跟伊朗談判觸礁，中東局勢緊張導致國際油價大漲，為了因應可能的衝擊，印度將重啟居家辦公政策。斯里蘭卡電價自11日起最高調漲18%，主因中東戰爭推高火力發電成本。以下為美伊戰爭對國際經濟、財經市場及民生衝擊的最新情形：印度將重啟居家辦公政策印度總理莫迪（Narendra Modi）表示，將重啟居家辦公政策，並呼籲減少非必要的出國旅行。由於美國總統川普（Donald Trump）表示拒絕德黑蘭當局對"
         }
       ]
     },
@@ -66,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "小紅書重點扶持逾百萬個好貨商家周五起終止百萬免佣計劃 - AASTOCKS.com",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.aastocks.com/tc/stocks/news/aafn-news/NOW.1523781/2&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0mfxLk5yYp_QJFLatt6i_f",
-          "published": "2026-05-11T03:39:43+00:00",
-          "summary": "小紅書啟動商家扶持策略調整，將於今日(11日)推出「LEAP UP-小紅書商家百萬躍遷計劃」，重點扶持超過100萬個好貨型商家實現經營躍遷。同時，此前發布的「百萬免&nbsp;..."
+          "title": "國合會攜22國農業官員訪海大見證智慧養殖與AI應用",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://mprp.ntou.edu.tw/p/406-1017-125074,r1031.php%3FLang%3Dzh-tw&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3Yd3Jg39pLlcZhQli3z45J",
+          "published": "2026-05-12T03:14:22+00:00",
+          "summary": "養殖系胡鄴方助理教授重點介紹如何利用人工智慧應對氣候變遷對養殖業的挑戰。 資工系鄭錫齊教授兼圖資長&nbsp;..."
         },
         {
-          "title": "<b>氣候變遷</b>正在養大「鼠患危機」 老鼠與病毒同步擴散 - Yahoo新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E6%25AD%25A3%25E5%259C%25A8%25E9%25A4%258A%25E5%25A4%25A7-%25E9%25BC%25A0%25E6%2582%25A3%25E5%258D%25B1%25E6%25A9%259F-%25E8%2580%2581%25E9%25BC%25A0%25E8%2588%2587%25E7%2597%2585%25E6%25AF%2592%25E5%2590%258C%25E6%25AD%25A5%25E6%2593%25B4%25E6%2595%25A3-020800762.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw06G6j7GmzDTwOHVRC4t_E0",
-          "published": "2026-05-11T02:38:56+00:00",
-          "summary": "暖冬與早春增加老鼠繁殖隱藏都市角落的老鼠，很難確知數量。美國研究團隊利用全球16座城市的老鼠通報資料來判斷老鼠數量的變化，結果發現，11座城市的老鼠投訴&nbsp;..."
+          "title": "AI、<b>淨零</b>課程需求升溫中彰投分署開設87門在職進修課程 - 中央社",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/postwrite/chi/433185&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1Bc2MtXPQwRPngWcG6jLfP",
+          "published": "2026-05-12T02:43:59+00:00",
+          "summary": "隨著人工智慧與淨零轉型等產業新趨勢的發展，在職勞工進修AI、碳管理及智慧製造等技能的需求明顯增加。勞動力發展署中彰投分署積極推動「產業人才投資方案」，&nbsp;..."
         },
         {
-          "title": "<b>氣候變遷</b>正在養大「鼠患危機」 老鼠與病毒同步擴散 - 環境資訊中心",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://e-info.org.tw/node/243405&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2_dRhipZzbBPAwRxcbTM0a",
-          "published": "2026-05-11T02:34:35+00:00",
-          "summary": "... climate change is causing a rat population overload. Eurekalert（2025年4月11日），Deadly rodent-borne hantavirus is an emerging disease with&nbsp;..."
+          "title": "讓藝術與永續共舞！家樂福文化藝術季開跑，環境部彭啓明部長讚「最美綠生活實踐」",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/page/3b3c62c78849f32f/03b32162-18ff-47a9-bfb7-3049e05aa947&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0dW0grtrfCMrZ0oUG2EDhh",
+          "published": "2026-05-12T02:41:31+00:00",
+          "summary": "... 淨零轉型從口號轉化為全民的日常生活。 三十而立：從藝術觸動到淨零轉型. 彭部長於致詞時指出，家樂福文教基金會堅持30年將藝術帶入大街小巷，讓表演藝術與&nbsp;..."
         },
         {
-          "title": "<b>淨零</b>創未來，永續新世代」！舊莊國小學習成果博覽會展現親師生綠生活實踐力 - 台北市政府",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gov.taipei/News_Content.aspx%3Fn%3DF0DDAF49B89E9413%26sms%3D72544237BBE4C5F6%26s%3D24341E7E9F2148BB&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1Y1n0ZNzzC7romKIKcI4gd",
-          "published": "2026-05-11T02:29:28+00:00",
-          "summary": "臺北市舊莊國民小學新聞稿 請轉交文教記者. 單位：臺北市舊莊國民小學. 地址：115臺北市南港區舊莊街一段100號. 新聞聯絡:輔導室許琪雅主任2782-1418-150."
+          "title": "100% 綠能資料中心如何助攻企業達成ESG 與數位轉型雙目標？ - TechNews 科技新報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://technews.tw/ai-agent/chief-telecom-aidc/8107/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3l2xDDLg3xGA_klGlETwsF",
+          "published": "2026-05-12T01:29:37+00:00",
+          "summary": "... 淨零趨勢脫節。電力供應已從基礎資源躍升為企業競爭的核心資產，100% 綠 ... 碳中和要求與規避碳費，更深層的動機在於建立能源自主性。透過微電網與&nbsp;..."
         },
         {
-          "title": "驗船中心舉辦MEPC 84產業趨勢研討會助航商掌握未來趨勢 - 中華日報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cdns.com.tw/articles/1398378&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0saryxluDMwd-rlytNZplJ",
-          "published": "2026-05-11T02:04:55+00:00",
-          "summary": "本次研討會聚集我國各大航商高階管理及技術主管，深度解析國際海事組織(IMO)海洋環境保護委員會第84 屆會議(MEPC 84)最新動態，特別聚焦於淨零框架(Net-Zero&nbsp;..."
+          "title": "構建完善應對極端天氣的防治體系（治理之道）",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=http://theory.people.com.cn/BIG5/n1/2026/0512/c40531-40717960.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3k6GrDR--fXLvENOngunJt",
+          "published": "2026-05-12T00:46:09+00:00",
+          "summary": "習近平總書記在主持二十屆中共中央政治局第二十五次集體學習時強調：“要站在統籌高質量發展和高水平安全的戰略高度，充分認識做好防災減災救災工作的重要性，&nbsp;..."
         },
         {
-          "title": "花蓮縣推動S.M.A.R.T.智慧巡查計畫打造科技減碳雙軌永續環境治理新模式 - 更生日報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ksnews.com.tw/e/100304&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw14bqtvLtA0Dn2w0fddvoN6",
-          "published": "2026-05-11T01:42:52+00:00",
-          "summary": "因應2050淨零碳排政策及智慧城市發展趨勢，花蓮縣環保局導入「S.M.A.R.T.智慧巡查」策略，透過制度與科技整合，建構更具效率與永續性的環境管理模式。 針對&nbsp;..."
+          "title": "氣候轉型的加速時代：2026 年SBTi 趨勢報告深度解析",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://csrone.com/topics/9903&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2oX_LSQGbyJIZoEfS2AOjD",
+          "published": "2026-05-12T00:05:13+00:00",
+          "summary": "碳費 CBAM ESG報告 淨零排放 TCFD 永續報告書 GRI準則 碳中和 &middot; CSRone ... 「淨零排放」（Net-Zero）目標的普及程度正在快速提升，成為企業雄心的核心&nbsp;..."
         }
       ]
     }
