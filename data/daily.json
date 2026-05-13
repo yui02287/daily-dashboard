@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-05-12T04:35:33.849389+00:00",
-    "date": "2026-05-12",
+    "generated_at": "2026-05-13T04:43:45.047853+00:00",
+    "date": "2026-05-13",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "軟體開發成本趨近於零，企業護城河還剩什麼？陶韻智：下一個競爭關鍵是獲客、價值主張與 AI 管理力",
-          "link": "https://techorange.com/2026/05/12/sting-tao-podcast/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-12T02:43:26+00:00",
-          "summary": "專訪：戴季全撰稿：李昀蔚 生成式 AI 正在讓軟體開發成本快速下降。過去，企業如果想開發系統、串接 API 或改造內部流程，往往需要仰賴高階工程師、外部廠商或大型軟體服務，但如今，AI 已經能協助完成前端、後端、資料庫、介面設計，甚至跨語言與跨國市場推廣。 本集《全新一週》邀請到《AI First 自我升級革命》作者、前 LINE 台灣總經理陶韻智，深入分析當軟體開發成本趨近於零後，企業競爭門檻的"
+          "title": "近 40% 員工把敏感資訊丟進未授權 AI：Shadow AI 如何讓企業失去資料、權限與 Agent 行為掌控？",
+          "link": "https://techorange.com/2026/05/13/nearly-two-in-five-workers-use-unauthorized-ai-tools-at-work/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-13T03:01:14+00:00",
+          "summary": "隨著生成式 AI 進入日常工作流程，員工私下使用 ChatGPT、Gemini、Claude、NotebookLM 等工具加速整理資料、撰寫內容、分析文件與處理信件，已經成為企業難以忽視的風險。由於這些未經公司核准的 AI 工具常透過瀏覽器分頁、外掛或個人帳號使用，其 AI 流量看起來往往就像一般網頁活動，導致 IT 部門難以即時發現。 近四成員工將敏感資料交給未授權 AI，企業卻渾然不知 這種「"
         },
         {
-          "title": "交付提速 85%、物流成本降 42%：Lenovo 北美最大生產基地的混合 AI 實戰成果",
-          "link": "https://techorange.com/2026/05/12/manufacturing-ai-lenovo/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-12T02:25:59+00:00",
-          "summary": "製造業從不缺乏 AI 的遠大願景，當多數企業還在為 AI 試點專案的投資報酬率發愁時，Lenovo 在智慧製造的應用，已經做出成績。 交付提速、物流成本降低：打造有感應力的生產系統 其最具代表性的案例來自北美最大生產基地，該廠導入 AI 與生成式 AI 技術後，整體營運效率出現顯著變化：前置時間大幅縮短 85%，意味著產品交付速度獲得根本性提升；物流成本下降 42%，顯示供應鏈調度與資源配置達到更"
+          "title": "傳簡訊就能操控的 AI 代理 Poke 爆紅！擺脫 OpenClaw 技術門檻，甚至免下載安裝",
+          "link": "https://techorange.com/2026/05/13/poke-ai-agent-openclaw-sms/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-13T01:45:40+00:00",
+          "summary": "消費者僅需利用手機簡訊、iMessage、Telegram 或 WhatsApp 等服務，就可以輕鬆操作 Poke，打造屬於自己的 AI 代理應用程式，相當於人人都能輕鬆使用的 OpenClaw。"
         },
         {
-          "title": "【科技早餐】OpenAI、NVIDIA、Intel 同場卡位，AI 算力戰從網路層燒到資本市場",
-          "link": "https://techorange.com/2026/05/12/openai-nvidia-intel-position-same-race-as-ai-compute-war-moves-from-networking-to-capital-markets/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-11T22:50:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊OpenAI 攜五大科技廠補 AI 訓練瓶頸，算力戰延伸到網路層 OpenAI 宣布，已與 AMD、博通（Broadcom）、英特爾（Intel）、Microsoft 與 NVIDIA，共同開發新的超級電腦網路協議 MRC，也就是多路徑可靠連線。OpenAI 表示，前沿模型訓練仰賴大型 GPU 叢集，資料必須在 GPU 之間高速移動，隨著訓練規模"
+          "title": "星巴克、漢堡王都在做：零售品牌如何聯手 OpenAI，靠 AI 縮短購買路徑",
+          "link": "https://techorange.com/2026/05/13/starbucks-chatgpt-ai-personal-barista/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-13T00:00:00+00:00",
+          "summary": "根據《AdAge》報導，零售與餐飲品牌正加速將 ChatGPT 轉化為新的消費入口。近期，星巴克宣布在 ChatGPT 生態系測試全新專屬應用，讓消費者可以直接透過自然語言描述需求，由 AI 推薦飲品並協助完成訂單流程。 點餐不是看菜單，是看心情點餐 《商業內幕》根據星巴克公布的功能指出，用戶現在不一定要先研究菜單再下單，而是能直接向 ChatGPT 描述自己的偏好與情境。例如想找低糖、高蛋白飲品"
         },
         {
-          "title": "AI「員工化」的代價：為什麼像對待人一樣管理  AI，反而會重挫組織信任？",
-          "link": "https://techorange.com/2026/05/11/research-treat-ai-agents-employees/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-11T11:23:26+00:00",
-          "summary": "《哈佛商業評論》報導，隨著企業加速導入 AI 代理，越來越多組織正將 AI 從「工具」重新定位為「員工」，不僅為其命名、賦予職稱，甚至將其納入組織圖與工作流程中，直接視為團隊成員或數位員工。 從摩根大通到 Walmart：企業正在把 AI 代理當真正的員工用 Boston Consulting Group（BCG）針對 1,261 名來自美國、加拿大與歐盟的人資與財務部門經理、主管與高階主管的隨機"
+          "title": "【科技早餐】川普訪中帶 Apple、Tesla 高層，黃仁勳缺席凸顯 AI 晶片仍敏感",
+          "link": "https://techorange.com/2026/05/13/nvidia-ceo-jensen-huang-not-goint-to-china-during-trump-visit/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-12T22:50:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊川普訪中企業團出爐，黃仁勳缺席凸顯 AI 晶片仍敏感 美國總統川普（Donald Trump）即將出訪中國，會晤中國國家主席習近平。白宮同步籌組企業代表團，隨行團包括 Apple 執行長庫克（Tim Cook）、Tesla 執行長馬斯克（Elon Musk）、高通（Qualcomm）執行長艾蒙（Cristiano Amon），以及美光（Micro"
         },
         {
-          "title": "LinkedIn 揭 2026 企業選才兩大關鍵：把 AI 轉化為生產力，也能帶領團隊適應變革",
-          "link": "https://techorange.com/2026/05/11/linkedin-unveils-most-in-demand-jobs-skills-in-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-11T09:07:27+00:00",
-          "summary": "隨著 AI 快速發展，工作場域的樣貌已大不相同，企業的招募標準也正經歷顯著的改變。LinkedIn 總編輯 Dan Roth 近日接受《今日秀》（TODAY）訪問時指出，現在關於工作的討論已逐漸從「職稱」轉移到「技能」上。他表示，LinkedIn 透過分析平台上十億份個人檔案內的技能，以及過去一年內成功求職者所具備的能力，發現企業越來越看重求職者「實際能做什麼」，而不是過去的職稱或學歷背景。 「技"
+          "title": "三星、現代皆押注：新創 Config 融資 2700 萬美元，要成為「機器人界台積電」",
+          "link": "https://techorange.com/2026/05/12/koreas-manufacturers-config-tsmc-robot-data/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-12T09:21:31+00:00",
+          "summary": "隨著實體 AI 熱潮升溫，專注機器人訓練數據的新創 Config，獲三星、現代、LG 等南韓製造業資本押注。Config 將自身角色類比為台積電在晶片產業的定位：台積電為 Apple、NVIDIA、AMD 等企業代工晶片，但本身並不與客戶競爭，Config 希望在機器人領域專注提供訓練 AI 所需的數據，而非直接開發機器人產品。 機器人 AI 供應鏈成形？實體 AI 熱潮帶動 Config 估值破"
         },
         {
-          "title": "AI 幻覺、越權、難監控，極風雲創以 ACROSS 為企業築起安全護城河",
-          "link": "https://techorange.com/2026/05/11/twister5-ai-across-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-11T08:23:52+00:00",
-          "summary": "隨著 AI 技術的快發展，企業正陷入一場前所未有的 AI 焦慮症。 AI 在加速創新和提升效率上的潛力，讓企業意識到這可能是翻轉競爭局勢的絕佳機會，過去要拚資金、拚人才，現在只要用對 AI，就有機會與產業巨頭平起平坐。然而，當 AI 越來越深入營運流程後，相關風險也跟著日益擴大且難以掌控，這又讓企業感到焦慮，最後陷入一邊想加速、一邊又踩煞車的兩難困境。 揭示 AI 應用三大風險，ACROSS 平台"
+          "title": "前 OpenAI CTO 領軍新創 Thinking Machines 發表互動模型，讓 AI 可以邊聽、邊看、邊回應",
+          "link": "https://techorange.com/2026/05/12/thinking-machines-ai-interaction-model/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-12T08:45:44+00:00",
+          "summary": "前 OpenAI 技術長 Mira Murati 創辦的 Thinking Machines Lab 近日發表「互動模型」（interaction models）的研究預覽。這項研究的出發點在於，現有 AI 模型多半仍停留在「回合制」的互動模式，也就是使用者必須完整說完話或打完字，模型才開始處理，然而在模型生成回覆的期間，AI 的感知會完全凍結，無法持續接收新資訊或察覺使用者當下的狀態。 Thin"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "華人父母常見教養困境：習慣為孩子「排除風險」而非學會「管理風險」",
-          "link": "https://www.gvm.com.tw/article/130024",
-          "published": "2026-05-11T18:39:00",
-          "summary": "很多人以為「鷹式教養」是把小孩推下懸崖，學不會就摔死的一種「冷血殘酷、適者生存」的斯巴達式教育。對我來說，「鷹式教養」是在保持安全底線的前提下，讓孩子真正去感受迎面而來的風，也感受高度帶來的危險，並在其中學會如何利用風與險，飛得更高、看得更遠。（本文節錄自《鷹式教養》一書，作者：「鷹式一家」康海瑞（Hiram）／方智出版，以下為摘文。）很多人對於「鷹式教養」有一種誤解，以為那是把小孩推下懸崖，學不"
+          "title": "00403A買氣炸裂、溢價逾5%！連自家人都示警「加價買」風險",
+          "link": "https://www.gvm.com.tw/article/130053",
+          "published": "2026-05-12T18:29:00",
+          "summary": "主動式台股ETF新兵「主動統一升級50（00403A）」今（12）日掛牌刷新ETF紀錄！僅開盤約10分鐘就爆出百萬張大量。投資人熱潮難擋，但也別忘了溢價的風險。主動式ETF好夯！主動統一升級50（00403A）與統一台股增長（00981A）、主動統一全球創新（00988A）系出同門，為統一投信推出的第三檔台股主動式ETF。近期，統一投信旗下明星商品00981A縱橫股海、由有「瑤池金母」之稱的經理人"
         },
         {
-          "title": "史上第二大紅寶石出土！1.1萬克拉價值470億元＝3座大巨蛋",
-          "link": "https://www.gvm.com.tw/article/130003",
-          "published": "2026-05-11T18:15:00",
-          "summary": "日前一則震撼全球珠寶界的消息傳出：緬甸礦區出土一顆重達1萬1000克拉（約2.2公斤）的巨型紅寶石原石，為史上第二大。根據市場初步預估，潛在價值達15億美元（約新台幣470億元），足以興建三座台北大巨蛋體育館（161億元）。然而，在這每一克拉的背後，卻交織著緬甸軍政府與反抗軍的博弈，成為名副其實的「血寶石」。這顆未經切割的神祕原石，在2026年4月中旬、緬甸傳統新年過後不久便已悄然出土。但緬甸官方"
+          "title": "不管晨型人或夜型人，依生理時鐘工作都有高績效",
+          "link": "https://www.gvm.com.tw/article/130052",
+          "published": "2026-05-12T18:04:00",
+          "summary": "生理時鐘不只是睡眠習慣，更會影響專注力、決策品質與情緒反應。當主管忽略團隊成員的自然節奏，不僅容易誤判能力，也可能讓績效、創意與合作效率大打折扣。每個人體內都有不同的生理時鐘，有些是晨型人，有些是夜型人；當然，還有人介於兩者之間。這種節奏並非習慣，而是先天的生物傾向，會長期影響一個人的專注力、情緒與工作表現。然而，大多數企業與主管仍習慣以固定工時與早晨效率作為衡量標準，而忽略了每個人的最佳工作時段"
         },
         {
-          "title": "歷經近半年！賴清德公布7800億國防特別條例",
-          "link": "https://www.gvm.com.tw/article/130020",
-          "published": "2026-05-11T17:51:00",
-          "summary": "立法院8日三讀攸關對美軍購的「保衛國家安全及強化不對稱戰力計畫採購特別條例」，預算上限共匡列金額新台幣7800億元。總統府今天發布總統令，公布特別條例。行政院去年11月27日提出8年、預算規模新台幣1.25兆元「強化防衛韌性及不對稱戰力計畫採購特別條例」草案送立法院審議。歷經將近半年，立法院8日三讀通過由在野黨提出的「保衛國家安全及強化不對稱戰力計畫採購特別條例」，預算上限匡列金額7800億元，其"
+          "title": "為什麼朋友之間的友情，常常隨著時間而消失？",
+          "link": "https://www.gvm.com.tw/article/130050",
+          "published": "2026-05-12T17:12:00",
+          "summary": "友情的消失，很多時候不是誰對誰錯，而是人生本來就會讓人漸行漸遠。試著回想，你肯定也曾經有過這樣的一位朋友：曾經的你們，幾乎每天都黏在一起。學生時代一下課，就習慣性地走向彼此的座位；段考前一起窩在麥當勞讀書，嘴巴說著要認真，最後卻都在聊天；會偷偷分享喜歡的人、抱怨討厭的同學，甚至連演唱會、追星的計劃，都曾經熱烈地討論過。那時候的你們會以為，只要感情夠好，就能陪彼此走很久很久。但長大後、出了社會才發現"
         },
         {
-          "title": "三班護病比延後實施惹議！「關床風險」可能擴大？月平均計算成攻防焦點",
-          "link": "https://www.gvm.com.tw/article/130019",
-          "published": "2026-05-11T17:47:00",
-          "summary": "三班護病比正式入法，法案三讀前，現場一度傳出痛罵「垃圾」與下跪場面，爭議持續延燒尚未落幕。立法院8日三讀修正《醫療法》，衛福部延後至2028年5月1日實施。入法只是第一步，從上路時程、月平均計算到關床爭議，下一個戰場已轉向執行現場。護理界主張，護病比若仍停留在全院平均，夜班、重症病房或高負荷單位的實際照護壓力，可能繼續被平均值掩蓋；醫院管理端則憂心，若標準直接落到個別病房、個別班次甚至即時值，醫院"
+          "title": "三班護病比提前上路！賴清德：116年520起分階段實施、成立醫療人力小組",
+          "link": "https://www.gvm.com.tw/article/130049",
+          "published": "2026-05-12T16:18:00",
+          "summary": "總統賴清德今天說，三班護病比入法是護理師工作歷史性時刻。而原訂三班護病比117年5月1日上路，他宣布調整為116年5月20日分階段實施，並請衛福部成立醫療人力研究精進小組。賴總統出席國際護師節聯合慶祝大會表示，懷念過去在醫院與護理師一起照顧患者的日子，護理師是與病人接觸最久、承受壓力最大的人，直接面對患者及家屬的情緒。護理師在如此繁重的工作下，仍能視病如親、發揮專業解決問題、展現愛心掌握家屬狀況，"
         },
         {
-          "title": "愛爾麗診所針孔偷拍爭議！5招一秒分辨「真假煙霧偵測器」",
-          "link": "https://www.gvm.com.tw/article/129992",
-          "published": "2026-05-11T17:31:00",
-          "summary": "近期知名連鎖醫美診所愛爾麗爆出「天花板煙霧偵測器」暗藏針孔攝影機的偷拍事件，引起社會譁然。事件起因於一名女性病患在換衣服後察覺異狀並報案，警方到場確認該裝置並非消防設備，而是偽裝的偷拍鏡頭。這類事件不僅發生在民宿和飯店，如今連醫療診所都淪陷，讓許多民眾在進入更衣室、浴室或外宿時，抬頭看到圓形的偵測裝置難免感到人心惶惶。為了幫助大家快速掌握自保技巧，本文整理了內政部消防署與專家的實用資訊，教你如何透"
+          "title": "淡江大橋通車了！淡水到八里省25分鐘，1違規重罰30萬，爭議、交管措施一次看",
+          "link": "https://www.gvm.com.tw/article/130048",
+          "published": "2026-05-12T16:06:00",
+          "summary": "等了30年的淡江大橋，今（12）天終於通車了！全球最長單塔不對稱斜張橋、建築女王Zaha Hadid（札哈·哈蒂）團隊操刀，9日在無人機光影秀與雲門舞集的見證下，12日早上11點30分正式通車。這座全球最長單塔不對稱斜張橋的國際新地標，不僅串聯淡水與八里兩岸，更是一件矗立在台灣海峽門戶的藝術品。《遠見》一文整理淡江大橋怎麼去、怎麼走、違規怎麼罰。淡江大橋今（12）日正式通車，現場湧入大批民眾搶先朝"
         },
         {
-          "title": "美伊戰爭衝擊國際！印度重啟居家辦公、斯里蘭卡漲電價，最新情況一文看",
-          "link": "https://www.gvm.com.tw/article/130017",
-          "published": "2026-05-11T16:33:00",
-          "summary": "美國跟伊朗談判觸礁，中東局勢緊張導致國際油價大漲，為了因應可能的衝擊，印度將重啟居家辦公政策。斯里蘭卡電價自11日起最高調漲18%，主因中東戰爭推高火力發電成本。以下為美伊戰爭對國際經濟、財經市場及民生衝擊的最新情形：印度將重啟居家辦公政策印度總理莫迪（Narendra Modi）表示，將重啟居家辦公政策，並呼籲減少非必要的出國旅行。由於美國總統川普（Donald Trump）表示拒絕德黑蘭當局對"
+          "title": "擁抱迅速進化的AI，你必須慢下來",
+          "link": "https://www.gvm.com.tw/article/130046",
+          "published": "2026-05-12T15:04:00",
+          "summary": "編按：AI時代，資訊愈快，人反而更需要慢下來思考。從管理、商模，到人生觀察，作者重新整理十年體悟，提醒我們真正無法被AI取代的，始終是人的溫度與判斷，也重新理解知識交流與深度閱讀的價值。「寫作，一直是我的興趣。」我常常把這句話掛在嘴邊，雖然我看起來不像文青，但我真的就是個文青，更是一個喜歡寫作、表達的文青。這麼多年來累積的寫作經驗，後來發布在各大商管雜誌上，變成管理專欄，並集結成書。人為本、社會體"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "國合會攜22國農業官員訪海大見證智慧養殖與AI應用",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://mprp.ntou.edu.tw/p/406-1017-125074,r1031.php%3FLang%3Dzh-tw&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3Yd3Jg39pLlcZhQli3z45J",
-          "published": "2026-05-12T03:14:22+00:00",
-          "summary": "養殖系胡鄴方助理教授重點介紹如何利用人工智慧應對氣候變遷對養殖業的挑戰。 資工系鄭錫齊教授兼圖資長&nbsp;..."
+          "title": "市政新聞-綠色旅遊低碳永續新北打造減碳觀光新篇章",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ntpc.gov.tw/ch/home.jsp%3Fid%3De8ca970cde5c00e1%26dataserno%3D3efbe8b8aecb4ba1c96915c52df64918&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0A4QQK0kRW-Ba6zFoRqWTU",
+          "published": "2026-05-13T02:13:34+00:00",
+          "summary": "觀光旅遊局局長楊宗珉表示，面對全球氣候變遷與2050淨零碳排目標，新北積極 ... 在「綠色」實踐層面，觀旅局全面對接國際淨零趨勢，依循環境部準則&nbsp;..."
         },
         {
-          "title": "AI、<b>淨零</b>課程需求升溫中彰投分署開設87門在職進修課程 - 中央社",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/postwrite/chi/433185&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1Bc2MtXPQwRPngWcG6jLfP",
-          "published": "2026-05-12T02:43:59+00:00",
-          "summary": "隨著人工智慧與淨零轉型等產業新趨勢的發展，在職勞工進修AI、碳管理及智慧製造等技能的需求明顯增加。勞動力發展署中彰投分署積極推動「產業人才投資方案」，&nbsp;..."
+          "title": "計住減碳好習慣 - YouTube",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DSgCHjC8Jl20&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3qfnMEQeR8hMyRjpqjrMf6",
+          "published": "2026-05-13T02:01:36+00:00",
+          "summary": "周殷廷及女旁白：一起來實現碳中和！ 熒幕蓋字：2050年前實現碳中和標誌周殷廷：瀏覽ecc.org.hk了解更多吧熒幕蓋字：ecc.org.hk 熒幕蓋字：碳中和中英標誌&nbsp;..."
         },
         {
-          "title": "讓藝術與永續共舞！家樂福文化藝術季開跑，環境部彭啓明部長讚「最美綠生活實踐」",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/page/3b3c62c78849f32f/03b32162-18ff-47a9-bfb7-3049e05aa947&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0dW0grtrfCMrZ0oUG2EDhh",
-          "published": "2026-05-12T02:41:31+00:00",
-          "summary": "... 淨零轉型從口號轉化為全民的日常生活。 三十而立：從藝術觸動到淨零轉型. 彭部長於致詞時指出，家樂福文教基金會堅持30年將藝術帶入大街小巷，讓表演藝術與&nbsp;..."
+          "title": "Let's Count and Build Carbon-reducing Habits - YouTube",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DgaseicWzLfs&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3SUyNM0FvjIzJBDvJD4nIM",
+          "published": "2026-05-13T02:01:30+00:00",
+          "summary": "... Carbon neutrality starts with you Super: Carbon Neutrality by 2050 logo Yan Ting: Visit ecc.org.hk for more! Super: ecc.org.hk Super: Carbon&nbsp;..."
         },
         {
-          "title": "100% 綠能資料中心如何助攻企業達成ESG 與數位轉型雙目標？ - TechNews 科技新報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://technews.tw/ai-agent/chief-telecom-aidc/8107/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3l2xDDLg3xGA_klGlETwsF",
-          "published": "2026-05-12T01:29:37+00:00",
-          "summary": "... 淨零趨勢脫節。電力供應已從基礎資源躍升為企業競爭的核心資產，100% 綠 ... 碳中和要求與規避碳費，更深層的動機在於建立能源自主性。透過微電網與&nbsp;..."
+          "title": "大灣區八市青年匯聚深圳探討調研綠色低碳發展方向 - 文匯報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.wenweipo.com/a/202605/13/AP6a02e420e4b0b49ad1ba9df8.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0h-AN8C4dV92Io6swGlVvN",
+          "published": "2026-05-13T01:03:45+00:00",
+          "summary": "4月29日，由中銀（香港）資助、朗晴慈善主辦的「邁向碳中和說好綠色故事」—— 碳中和先鋒灣區行動項目在深圳市福田中學順利啟動。"
         },
         {
-          "title": "構建完善應對極端天氣的防治體系（治理之道）",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=http://theory.people.com.cn/BIG5/n1/2026/0512/c40531-40717960.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3k6GrDR--fXLvENOngunJt",
-          "published": "2026-05-12T00:46:09+00:00",
-          "summary": "習近平總書記在主持二十屆中共中央政治局第二十五次集體學習時強調：“要站在統籌高質量發展和高水平安全的戰略高度，充分認識做好防災減災救災工作的重要性，&nbsp;..."
+          "title": "【啟思平台】誰在能源轉型並淘汰化石燃料？ - 梅花新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.i-meihua.com/Article/Detail/48823&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3-CfWjZoj0Xy3oZjXGyRTu",
+          "published": "2026-05-13T00:45:34+00:00",
+          "summary": "... Climate Change, IPCC）保持密切交流。同時，國家路線圖也將符合2015年巴黎協定（Paris Agreement）的規範，控溫目標維持在1.5°C ，以及2050年達成淨零排放目標。"
         },
         {
-          "title": "氣候轉型的加速時代：2026 年SBTi 趨勢報告深度解析",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://csrone.com/topics/9903&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2oX_LSQGbyJIZoEfS2AOjD",
-          "published": "2026-05-12T00:05:13+00:00",
-          "summary": "碳費 CBAM ESG報告 淨零排放 TCFD 永續報告書 GRI準則 碳中和 &middot; CSRone ... 「淨零排放」（Net-Zero）目標的普及程度正在快速提升，成為企業雄心的核心&nbsp;..."
+          "title": "臺北市政府教育局攜手中華電信推動校園碳匯教育培育公民科學家 - 台北市政府",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gov.taipei/News_Content.aspx%3Fn%3DF0DDAF49B89E9413%26sms%3D72544237BBE4C5F6%26s%3DF98CF6D642182334&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0JsrgV9m2xYQ0bWiem7hkr",
+          "published": "2026-05-13T00:09:16+00:00",
+          "summary": "... 氣候變遷議題，更能透過實地調查、數據紀錄與分析，將永續觀念轉化為具體行動，讓淨零教育從課堂學習延伸至校園生活與公民參與。教育局持續推動校園淨零排放&nbsp;..."
         }
       ]
     }
