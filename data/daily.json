@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-05-15T04:50:14.377767+00:00",
-    "date": "2026-05-15",
+    "generated_at": "2026-05-16T04:28:29.993296+00:00",
+    "date": "2026-05-16",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "AI 輸出結果總是差強人意，讓 AI 回覆品質真正提升的提示詞習慣是什麼？",
-          "link": "https://techorange.com/2026/05/15/prompt-engineering/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-15T03:27:57+00:00",
-          "summary": "多數人對 AI 的第一印象都差不多，試了幾次，覺得不如預期，然後得出「AI 沒那麼神」的結論。但問題通常不在工具，而在問法。 Google Cloud 的提示工程指南，把這個技巧定義為「設計和最佳化提示的技巧與原理，旨在引導 AI 模型生成想要的回覆」。說白了，就是如何把你要的東西說清楚。 而 Anthropic 對使用 Claude 的建議是，把模型想成一位聰明但字面解讀的新員工；想像他第一天上"
+          "title": "【2026 國際 AI 安全報告】圖靈獎得主＋百位頂尖專家指引，決策者如何在技術創新與系統性風險取得戰略平衡？",
+          "link": "https://techorange.com/2026/05/16/international-ai-safety-report-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-15T22:29:00+00:00",
+          "summary": "通用人工智慧的發展正處於關鍵轉折點，其能力的指數級成長，同時伴隨著前所未見的新興風險。 為了釐清真實狀況，圖靈獎得主 Yoshua Bengio 帶領全球上百位頂尖專家，在 30 多個國家的支持下發布《2026 國際 AI 安全報告（International AI Safety Report 2026）》，內容點出各國政府和企業領導人現在最頭痛的「證據兩難」（Evidence dilemma，在"
         },
         {
-          "title": "Mercedes-Benz 如何用 n8n 串聯研發、生產與客服系統，將員工創意化為 AI 工作流？",
-          "link": "https://techorange.com/2026/05/15/mercedes-benz-n8n/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-15T03:13:11+00:00",
-          "summary": "Mercedes-Benz 近期宣布與德國 low-code 自動化公司 n8n 展開策略合作，將在全球推出一套平台，讓員工能直接在營運流程中設計與部署由 AI 驅動的工作流。這項計畫的核心目標，是讓 AI 自動化不再停留於個別的試點項目，而是真正進入研發、生產、銷售、金融服務、人資與 IT 等日常業務場景。 讓員工從 AI 使用者進化為「工作流創作者」 為了有效導入 AI，Mercedes-Be"
+          "title": "BCG 如何打造 AI 銷售代理：不只學成功，更「反向訓練」找出致勝關鍵",
+          "link": "https://techorange.com/2026/05/15/bcg-jamie-ai-agent-sales-best-sellers-japjit-ghai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-15T09:54:23+00:00",
+          "summary": "波士頓管理諮詢公司（Boston Consulting Group, BCG）近期訓練 AI 代理「Jamie」的方式引發關注，該系統除了學習如何提升銷售與服務能力，也納入失敗案例進行訓練。據《The Next Web》介紹，BCG 在 2025 年從 AI 顧問業務中獲得 36 億美元收入（占總營收 144 億美元的 25%），為 OpenAI「Frontier Alliances」成員之一，持"
         },
         {
-          "title": "新興 AI 加速資安威脅，資安署三措施穩紮「資安基本功」",
-          "link": "https://techorange.com/2026/05/15/moda-acs-ai-security/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-15T02:56:02+00:00",
-          "summary": "面對新興AI模型(如Anthropic Claude Mythos與OpenAI GPT-5.5)展現強大資安漏洞挖掘與攻擊能力，數位發展部資通安全署表示，將以三項應對作為，包含掌握新興AI模型相關防禦工具與經驗、邀集產官學決策層研商國家級新興AI因應策略，以及強化對中小微企業資安防護支持，引導企業與政府機關從策略面、管理面及技術面穩紮「資安基本功」，提升臺灣整體數位安全韌性。 資安署說明，近期國"
+          "title": "AI 基建競賽延伸到電網：Ford 將 EV 電池產能轉向資料中心儲能，瞄準 AI 用電缺口",
+          "link": "https://techorange.com/2026/05/15/ford-energy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-15T09:19:52+00:00",
+          "summary": "隨著 AI 資料中心快速擴張，電力與儲能儼然成為科技巨頭建置基礎設施時必須面對的新瓶頸。瞄準這波缺口，傳統車廠 Ford 宣布推出全資子公司「Ford Energy」，試圖將原本用於電動車（EV）的電池產能，轉向資料中心、電網與大型工業客戶所需的電池儲能系統。 Ford Energy 將為美國公用事業、資料中心、大型工業與商業客戶，提供「美國組裝」的電池儲能系統（BESS）。《金融時報》進一步指出"
         },
         {
-          "title": "AI 進入巧克力供應鏈：Hershey 估 5,000 萬美元生產力提升、減少 1 億美元庫存",
-          "link": "https://techorange.com/2026/05/15/hershey-ai-supply-chain/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-15T00:00:00+00:00",
-          "summary": "《Supply Chain Dive》報導，知名巧克力品牌 The Hershey Company 日前公布最新營運策略，揭示該公司正大規模將 AI 與數位化技術導入供應鏈、工廠營運與配送流程，希望藉此提升生產效率、降低庫存壓力，並強化市場反應速度。 AI 預測進入食品供應鏈，Hershey 強化零售韌性 Hershey 表示，公司正在建構以 AI 驅動的決策系統，將資料分析能力整合進採購、生產、"
+          "title": "從影像像素到全身協調：Figure AI 機器人達成 24 小時零故障自主分貨，展現類「真人」直覺",
+          "link": "https://techorange.com/2026/05/15/ai-robotics-figure-helix02-humanoid-robots-24-hour-bed-clean-room/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-15T06:46:50+00:00",
+          "summary": "機器人新創 Figure AI 宣稱，旗下人形機器人已完成超過 24 小時不間斷、零故障的自主包裹處理作業，並將原本僅規劃 8 小時的測試，延伸為持續運行的長時間實驗。 Figure AI 指出，目前有三台搭載 Helix-02 AI 系統的人形機器人，全天候自主處理小型包裹分揀任務，全程無需人類控制。公司透過直播公開運作過程，期間觀眾在互動中替機器人取名為 Bob、Frank 與 Gary，後續"
         },
         {
-          "title": "【科技早餐】OpenAI 資本戰升溫、台積電押 COUPE，AI 競爭從算力燒到供應鏈",
-          "link": "https://techorange.com/2026/05/15/openai-capital-battle-heats-up-tsmc-bets-on-coupe/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-14T22:50:00+00:00",
-          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊Microsoft、軟銀重押 OpenAI，AI 資本戰開始計算集中風險 《彭博》報導，Microsoft 至今已為與 OpenAI 的合作投入超過 1,000 億美元。這筆金額不只是股權投資，也包括雲端基礎設施建置，以及為 OpenAI 提供運算服務的累計成本。Microsoft 同時也開始尋找其他 AI 新創公司，為降低對 OpenAI 的依"
+          "title": "Vibe Coding 跨入實體世界：從寫軟體到造硬體原型，Lovable、Anthropic 相繼卡位",
+          "link": "https://techorange.com/2026/05/15/vibe-coding-hardware/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-15T04:41:21+00:00",
+          "summary": "當 Vibe coding 席捲軟體開發圈，讓非工程背景的使用者得以透過自然語言生成網站與應用程式，一批新創如今正試圖把這套模式延伸到硬體開發。 近期，AI 寫程式新創 Lovable 投資了丹麥硬體新創 Atech，而被稱為「硬體版 Cursor」的 Schematik，則獲得 Anthropic 生態支持與 Lightspeed 投資。這些新工具的共同點，是希望讓使用者不只生成軟體，而是直接透"
         },
         {
-          "title": "直接進入 Rivian 產線練兵：新創 Mind Robotics 估值破 34 億美元，靠數據打造懂現場的 AI 機器人",
-          "link": "https://techorange.com/2026/05/14/rivian-rj-scaringes-mind-robotics-with-ai-robot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-14T10:14:04+00:00",
-          "summary": "《Reuters》報導，Mind Robotics 是 2025 年成立的新創公司，由美國電動車公司 Rivian 創辦人兼執行長 RJ Scaringe 領軍。今年稍早，該公司完成 5 億美元 A 輪募資；近日再宣布新一輪融資後，估值升至 34 億美元。資金將用於 AI 驅動機器人導入工廠產線，解決傳統工廠自動化難以勝任的工作，包括需要精細操作、即時判斷與彈性應變的任務。 工廠自動化轉折點：Mi"
+          "title": "美國想把 AI 領先變成規則制定權：OpenAI 提議成立「AI 版國際原子能總署」，美中談判聚焦最強模型護欄",
+          "link": "https://techorange.com/2026/05/15/openai-floats-idea-of-global-ai-governance-body-with-us-china/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-15T04:41:06+00:00",
+          "summary": "隨著 AI 影響力持續擴大，AI 安全已不再只是模型開發商的內部議題，而是正式躍升為國際規則制定的核心。就在美國總統川普與中國國家主席習近平於北京舉行峰會之際，OpenAI 拋出全球 AI 治理的新構想，支持成立一個由美國主導、並納入中國參與的全球 AI 治理機構。 這項提案的時機，恰好與美中代表團的議程不謀而合。《Reuters》報導，美中雙方正在北京峰會上討論「AI 安全護欄（AI guard"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "北京36小時〉川習會參觀天壇，習近平帶川普去皇帝祭天之地，為什麼？",
-          "link": "https://www.gvm.com.tw/article/130122",
-          "published": "2026-05-14T18:38:00",
-          "summary": "9年前川普首訪北京，習近平帶他去的是故宮，這次換成天壇。故宮之行強調「以和為貴」，而天壇則以「天人合一」的精神內涵，傳遞出「遵循規律與秩序」的意味。在進行了「富有成果」的會談之後，美國總統川普（Donald Trump）與中國國家主席習近平，一同參觀了北京天壇，並站在主體建築祈年殿前合影。為什麼是天壇？2017年川普首度訪中，習近平帶他去看的可是故宮。如此安排，透露出何種獨特訊息？天壇始建於142"
+          "title": "北京36小時〉川習會算「談得好」嗎？答案藏在未來四個月",
+          "link": "https://www.gvm.com.tw/article/130154",
+          "published": "2026-05-15T19:08:00",
+          "summary": "川普帶著波音200架訂單、大豆、石油採購承諾離開北京，習近平拿到「中美建設性戰略穩定關係」的全新定位。雙方各取所需，各自宣稱勝利——但這場峰會真正談得好不好，現在還不知道。學者指出，真正的驗收指標不在北京說了什麼，而在接下來四個月：對台軍售、賴清德過境、美台高層往來，每一個動作，都是北京用來評分的標準。5月15日下午，北京首都機場的公務機停機坪上，美國空軍一號的引擎已經預熱，美國總統川普（Dona"
         },
         {
-          "title": "黃仁勳、馬斯克進核心會談！輝達晶片拚解禁，美企盼打開中國市場",
-          "link": "https://www.gvm.com.tw/article/130120",
-          "published": "2026-05-14T18:28:00",
-          "summary": "美國總統川普14日在北京與中國國家主席習近平會談，黃仁勳、馬斯克、庫克等美企領袖隨行，並參與核心會談，盼深化中國市場合作，並突破監管限制。此外，輝達H200晶片雖獲美方出口許可，仍遭中國限制進口；可以想見，黃仁勳此次訪中將尋求取得突破。5月14日上午，中國國家主席習近平於北京人民大會堂與美國總統川普（Donald Trump）會談，並接見隨訪的美國企業高層。美國商界代表團表示，他們高度重視中國市場"
+          "title": "打敗00981A，今年漲最猛是它！9檔主動式ETF今年漲幅逾五成",
+          "link": "https://www.gvm.com.tw/article/130148",
+          "published": "2026-05-15T19:06:00",
+          "summary": "投資人瘋買主動式ETF，至今整體規模已超越7800億元。《遠見》一表盤點30檔台股主動式ETF，其中九檔今年來漲幅超過五成；而00981A是股價最高的主動式ETF股王，但漲最猛的卻是同門的00988A，今年以來漲幅幾乎翻了一倍！至於剛掛牌的00403A，則在首日（5/12）逾5％溢價的激情之後，今（15）日返璞歸真、以10元發行價作收。隨著台股行情強強滾，投資人也瘋買主動式ETF，至今整體規模已超"
         },
         {
-          "title": "高值化服務業：向先進製程學習「預見需求」的管理能力",
-          "link": "https://www.gvm.com.tw/article/130121",
-          "published": "2026-05-14T18:25:00",
-          "summary": "台灣半導體之所以能站上全球競爭高峰，外界常看到的是先進設備、製程技術與巨額資本支出；但真正難以複製的核心，並不只是機台與技術，而是背後那套高度紀律化、系統化、持續優化的管理能力。真正的先進製程，從來不只是技術問題，而是一種管理文明。它講究的不只是把事情做完，而是要把風險提前看見，把變異即時修正，把每一個環節納入系統思考。這樣的精神，不只適用於科技業，更值得台灣服務業深思。台灣服務業若要擺脫低薪、低"
+          "title": "川習會後花絮！黃仁勳北京街頭大啖炸醬麵，嚐豆汁皺眉吐一句話",
+          "link": "https://www.gvm.com.tw/article/130153",
+          "published": "2026-05-15T18:53:00",
+          "summary": "輝達執行長黃仁勳隨美國總統川普訪問中國，他今天上午被拍到身穿招牌皮夾克，在北京南鑼鼓巷路邊大啖當地知名小吃炸醬麵；他也品嚐了北京傳統飲料豆汁，但隨後面露難色。彭博（Bloomberg News）在社群平台X發文指出，黃仁勳似乎非常享受直接站在人行道上，當場享用炸醬麵這道地方美食。香港經濟日報、明報新聞網等港媒報導，黃仁勳造訪的是「方磚廠69號炸醬麵」南鑼鼓巷店，由於當時店裡已經客滿，他才會在路邊捧"
         },
         {
-          "title": "美防長同訪北京，川普拿對台軍售換中東和平？",
-          "link": "https://www.gvm.com.tw/article/130117",
-          "published": "2026-05-14T18:13:00",
-          "summary": "美國總統川普睽違九年重返北京，隨行「夢幻隊伍」成焦點，除科技與金融巨頭外，最令人驚訝的是遭中國制裁的國務卿魯比歐，以及美國54年來首度隨行的國防部長赫格塞斯。當中國國家主席習近平拋出「修昔底德陷阱」以避免衝突時，川普是否會將對台軍售轉化為戰略槓桿，以換取北京施壓伊朗停戰？這場攸關亞太情勢的大交易，已成全球最關注的焦點。5月14日早上，川習會正式登場，習近平率先定調，他強調，當前百年變局加速演進，國"
+          "title": "2026FIFA世界盃》世界盃足球賽賽程資訊全攻略！參賽國家、分組名單、比賽賽制、各組賽程、轉播資訊一次看",
+          "link": "https://www.gvm.com.tw/article/129431",
+          "published": "2026-05-15T18:30:00",
+          "summary": "全世界球迷們最期待的2026世界盃足球賽，將於6月11日至7月19日，在美國、加拿大、墨西哥舉行，本屆參賽隊伍首次從以往的32支，擴大到48支隊伍參賽，規模是史上最大。今年你看好哪隊能奪冠呢？2026世界盃足球賽，將於6月11日至7月19日，在美國、加拿大、墨西哥舉行，這項4年一度、全世界球迷最矚目的足球盛會，是年度必看的體育大事，本屆國際足總世界盃更將以往的32支參賽隊伍，擴大至48支球隊角逐，"
         },
         {
-          "title": "全球最佳空服員的10大航空公司！台灣長榮和星宇都榜上有名，第1名更是實至名歸",
-          "link": "https://www.gvm.com.tw/article/130110",
-          "published": "2026-05-14T18:01:00",
-          "summary": "Skytrax近日公布「全球航空公司最優秀空服員」榜單，這是對空服團隊的整體表現進行調查，包含服務、效率與專業度等，而台灣的長榮和星宇都榜上有名。每年備受全球旅客與航空業界矚目的Skytrax，近日公布了2025年「全球航空公司最優秀空服員」（World’s Best Airline Cabin Crew）的最新調查，在航空界素有「奧斯卡獎」之稱的Skytrax榜單，不僅代表著服務品質的肯定，也是"
+          "title": "漢他病毒郵輪乘客入境台灣！疾管署：採檢陰性，但未來一週是關鍵期",
+          "link": "https://www.gvm.com.tw/article/130152",
+          "published": "2026-05-15T18:10:00",
+          "summary": "「漢他病毒郵輪」1名紐西蘭籍乘客近日入境台灣，引發疑慮。疾管署長羅一鈞今天表示，目前採檢結果皆陰性，未確診意即「沒帶病毒到台灣」，沒有社區風險，但未來1週是關鍵期。荷蘭籍豪華郵輪「洪迪亞斯號」爆發漢他病毒疫情，且是罕見、能夠人傳人的「安地斯型」（Andes virus），目前累計11個病例、3人死亡。由於郵輪乘客來自全球23個國家，國際高度關注乘客下船後的動向。衛生福利部疾病管制署署長羅一鈞今天親"
         },
         {
-          "title": "「川習會」談台海和平問題：兩岸若開戰，經濟學家要你至少備妥「這金額」",
-          "link": "https://www.gvm.com.tw/article/128753",
-          "published": "2026-05-14T18:01:00",
-          "summary": "5/14川習會登場：習近平在會談中提及「台灣問題是中美關係最重要問題」。當兩岸及全球局勢快速變動之際，如何守住個人資產？還能買房嗎？要換美金或黃金嗎？現金、土地、股票，還有價值嗎？別用「和平時期的邏輯」，來處理「動盪時代的財富」，從「地緣政治風險」角度思考資產配置，學習自保、守護資產。（本文節錄自《地緣風險理財課》一書，作者：劉玉皙，三采出版，以下為摘文。）絕大多數人的財務規劃，都是建立在「社會系"
+          "title": "川習會談了個寂寞？中國點頭買飛機、農產品，但晶片出口仍卡關",
+          "link": "https://www.gvm.com.tw/article/130151",
+          "published": "2026-05-15T17:54:00",
+          "summary": "川普訪中期間，北京承諾採購波音飛機、農產品、石油等，雙方達成AI安全對話共識，但輝達晶片出口限制仍未突破。外媒普遍認為，川習會缺乏重大成果，峰會實際成效極為有限。美國總統川普（Donald Trump）13至15日訪問中國，並與中國國家主席習近平舉行峰會。雙方會談聚焦經貿議題，中國同意採購200架波音（Boeing） 飛機，並預計未來三年，每年購買數百億美元的美國農產品，同時也將進口美國石油。美、"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "數位局《smart taichung未來進行市》刊物榮獲2026謬思創意設計銀獎 - 台中通-最新動向",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tcpass.taichung.gov.tw/latest-trend/view%3Fuuid%3Dbd0b6cda-7bb0-4807-919f-e5d14906fa85&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0kDybTlWGMlXvAkLe4--Xr",
-          "published": "2026-05-15T01:23:20+00:00",
-          "summary": "數位局長林谷隆表示，市府積極導入人工智慧應用，推動「AI Taichung三部曲」，連續7年勇奪智慧城市創新應用獎，更建立數位市民平台《台中通TCPASS》，提供淨零永續的&nbsp;..."
+          "title": "李鴻源蒞臨花蓮談<b>氣候變遷</b>防災策略游淑貞：參考專業打造韌性城市",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hsnews.com.tw/lifestyle-and-community/li-hong-yuan-li-lin-hua-lian-tan-qi-hou-bian-qian-fang-zai-ce-lue-you-shu-zhen-can-kao-zhuan-ye-da-zao-ren-xing-cheng-shi.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw33B__6waYi1Vgr5fE9cD6M",
+          "published": "2026-05-16T01:13:30+00:00",
+          "summary": "李鴻源針對極端氣候下的地震、豪雨及複合型災害進行分析，並提出防災治理與環境永續方向，期盼透過前瞻規劃與整體環境改善，提升花蓮防災韌性與居民安全。"
         },
         {
-          "title": "雲林校園示範帶動公有建築邁向<b>淨零</b>轉型 - Yahoo新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E9%259B%25B2%25E6%259E%2597%25E6%25A0%25A1%25E5%259C%2592%25E7%25A4%25BA%25E7%25AF%2584-%25E5%25B8%25B6%25E5%258B%2595%25E5%2585%25AC%25E6%259C%2589%25E5%25BB%25BA%25E7%25AF%2589%25E9%2582%2581%25E5%2590%2591%25E6%25B7%25A8%25E9%259B%25B6%25E8%25BD%2589%25E5%259E%258B-123650940.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3Hn0yQAPD4fMW6UgFZQZSe",
-          "published": "2026-05-15T01:04:24+00:00",
-          "summary": "雲林縣政府五月十三日下午攜手國立雲林科技大學與大自然交易平台股份有限公司於雲縣府會議中心簽署合作備忘錄（MOU），由縣長張麗善、雲科大校長張傳育及大自然&nbsp;..."
+          "title": "台達55 周年「前行共好論壇」 匯聚產業領袖分享台達全球多地達RE100 經驗推出永續諮詢服務",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ithome.com.tw/pr/175867&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1YZ9DKE1zo2OiTTPv9m2Tg",
+          "published": "2026-05-15T19:44:29+00:00",
+          "summary": "透過永續諮詢服務，台達將協助更多產業夥伴建立由策略到執行的淨零轉型路徑。 論壇也邀請產業專家及策略合作夥伴交流見解。台大公共政策與法律研究中心主任林子倫&nbsp;..."
         },
         {
-          "title": "遠傳永續表現高居全球電信第一！入選《永續年鑑》前1%企業- 熱門新訊",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://market.ltn.com.tw/article/18470&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1o78D7PdDmPjPu4n6zu7vJ",
-          "published": "2026-05-15T01:03:28+00:00",
-          "summary": "... 淨零與數位永續轉型，以科技力驅動永續力，打造透明治理與營運韌性，永續 ... 上述減碳表現不僅獲得CDP「氣候變遷」最高等級「領導A級」肯定，也讓遠傳&nbsp;..."
+          "title": "材料系跨領域背景職涯多元從晶片、固態電池到<b>淨零</b>企業都在搶人 - 科技島",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.technice.com.tw/work-place/219965/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3gfeSuJWf7Fp4y4h-bQ5Jv",
+          "published": "2026-05-15T18:01:11+00:00",
+          "summary": "在半導體、顯示器、電動車與綠色能源等高科技產業的激烈競爭中，有材料科學與工程學系（材料系）專業背景的人才，扮演著不可或缺的角色，所有的技術突破，從微小的&nbsp;..."
         },
         {
-          "title": "中國<b>碳中和</b>(01372.HK)：向24名承授人授予6429萬份購股權",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.fx168news.com/cooperate/2605/7449011.shtml&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1Zeb8F_3WAudgx7Mc8EwJC",
-          "published": "2026-05-14T23:55:02+00:00",
-          "summary": "新时空讯：2026年5月14日，中国碳中和(01372.HK)公告称，公司于当日向24名承授人授予合计6429万份购股权，占已发行股本约7.30%。购股权行使价为每股0.966港元..."
+          "title": "遠傳攜手供應商推動永續生態系共築<b>淨零</b>競爭力 - 國泰證券",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20260515%26CSeqNO%3DE9505512&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1WBEyoPlxin2BiHG4nVTpo",
+          "published": "2026-05-15T17:26:43+00:00",
+          "summary": "遠傳本屆「永續治理工作坊」再度邀請勤業眾信永續轉型顧問團隊擔任講師，從中小企業實務需求出發，說明如何將永續策略融入日常營運與決策流程，並分享具體可行的ESG&nbsp;..."
         },
         {
-          "title": "公私協力提升建築能效雲林校園示範帶動公有建築邁向淨零轉型 - 台灣好報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://newstaiwan.net/2026/05/15/438429/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0zNAWL9e0O0k-Sf_X27x0j",
-          "published": "2026-05-14T22:22:33+00:00",
-          "summary": "... △縣長張麗善、雲科大校長張傳育及大自然交易平台董事長林群貿共同簽署MOU，正式啟動校園節能減碳「公私協力」機制。(記者劉峻文攝)."
+          "title": "《起萌行動：公民零碳實驗室》 日文專書出版",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.niar.org.tw/files/file_pool/1/0Q134670355335686124/%25E3%2580%2590%25E8%25A8%2598%25E8%2580%2585%25E6%259C%2583%25E8%25BE%25A6%25E7%2590%2586%25E7%259B%25AE%25E7%259A%2584%25E3%2580%2591%25E8%25B5%25B7%25E8%2590%258C%25E8%25A1%258C%25E5%258B%2595_%25E6%2597%25A5%25E6%2596%2587%25E5%25B0%2588%25E6%259B%25B8%25E5%2587%25BA%25E7%2589%2588%25E8%25A8%2598%25E8%2580%2585%25E6%259C%2583%2528%25E5%2585%25A8%25E4%25BF%2583%25E6%259C%2583%25E6%25A5%258A%25E7%25A7%2598%25E6%259B%25B8%25E9%2595%25B7%2529.pdf&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1cFses9j9QIL6Edky3tusg",
+          "published": "2026-05-15T15:08:36+00:00",
+          "summary": "鼓勵團隊把淨零轉型放入自身的發展. 核心目標，在地方形成改革創新的社. 會網絡，並產生具體的改變。 將每一個個案視為在地的零碳實. 驗室. 發展一套淨零技術&nbsp;..."
         },
         {
-          "title": "許添財聯手臺日韓專家商研院解鎖AI<b>淨零</b>轉型關鍵",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.allnews.tw/news/89770&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3ShP_G6pw3X__sVp2Czfoh",
-          "published": "2026-05-14T22:20:45+00:00",
-          "summary": "台灣民眾電子報| 【本報記者鐘翠珠台北報導】面對全球淨零排放趨勢與人工智慧(AI)技術的爆發式成長，企業競爭力正迎來關鍵轉折。"
+          "title": "陳茂波：不斷創新資本動員方式引導更多資金流向綠色項目- RTHK",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.rthk.hk/rthk/ch/component/k2/1854863-20260515.htm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2pduYCDidROO19UuoRwAQD",
+          "published": "2026-05-15T14:56:47+00:00",
+          "summary": "財政司司長陳茂波表示，香港致力於2050年前實現碳中和，在生物多樣性保育方面，香港於去年底發布更新版《生物多樣性策略及行動計劃2035》，核心理念是「主流&nbsp;..."
         }
       ]
     }
