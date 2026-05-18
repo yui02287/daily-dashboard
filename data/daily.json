@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-05-17T04:52:53.925763+00:00",
-    "date": "2026-05-17",
+    "generated_at": "2026-05-18T05:06:02.360174+00:00",
+    "date": "2026-05-18",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -10,35 +10,66 @@
     {
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
-      "items": []
+      "items": [
+        {
+          "title": "結帳頁成零售新戰場：BNPL 如何從支付選項，升級為商家提高成交機會的新工具？",
+          "link": "https://techorange.com/2026/05/18/pay-later-is-becoming-the-tiebreaker-at-checkout/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-18T03:31:09+00:00",
+          "summary": "先買後付（BNPL）與商家提供的分期付款選項，正在從單純的支付方式，轉變為左右消費者選擇的關鍵因素。根據 PYMNTS 調查 2,763 名美國消費者的報告指出，消費者融資的影響力並非平均分布，而是高度集中在年輕族群、Pay Later 重度使用者，以及消費者仍在比較選項的「高考慮型消費」場景。這代表 BNPL 的角色已不只是結帳時的附屬選項，更是商家在競爭過程中「贏得訂單」的關鍵工具。 從旅遊、"
+        },
+        {
+          "title": "追求零幻覺可能是錯誤目標，AI 幻覺問題從無解變成「可管理的技術挑戰」",
+          "link": "https://techorange.com/2026/05/18/ai-lies-most/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-18T02:13:53+00:00",
+          "summary": "大型語言模型自進入商業應用以來，「幻覺」始終是揮之不去的陰影。不過從 2021 年至今，這個問題的核心已經產生顯著變化。 理解當前 LLM 幻覺率的真實數據、技術應對策略的成熟度，以及創意與穩定性之間難以調和的問題，是企業在判斷是否導入前得需理解的關鍵發展。 幻覺問題的現況與高風險場景 過去五年間，整體 LLM 幻覺率從 2021 年的 38% 降至 2026 年的 8.2%，頂尖模型如 GPT-"
+        },
+        {
+          "title": "開源 AI 還是次要選項？模型效能已媲美商業產品，將以成本做為突破口",
+          "link": "https://techorange.com/2026/05/18/open-source-ai-for-enterprises/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-18T02:13:43+00:00",
+          "summary": "隨著開源 AI 模型的品質獲得大幅提升，生態系也日趨成熟，迫使 AI 業界不得不重新思考開源 AI 的真正價值，以及企業是否還要繼續對它視而不見，只把開源 AI 生態系當成次要選項。"
+        },
+        {
+          "title": "【科技早餐】ChatGPT 開始讀取銀行帳戶，OpenAI 把 AI 助理推進個人理財",
+          "link": "https://techorange.com/2026/05/18/openai-chatgpt-personal-finance-experience/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-17T22:50:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊ChatGPT 開始讀取銀行帳戶，OpenAI 把 AI 助理推進個人理財 OpenAI 宣布，正在美國向 ChatGPT Pro 用戶推出名為「財務」（Finances）的全新個人理財預覽功能。這項功能透過金融資料平台 Plaid，讓用戶可以把銀行帳戶、信用卡與投資帳戶連到 ChatGPT。完成身分驗證後，系統會自動生成財務儀表板，涵蓋投資組合"
+        }
+      ]
     },
     {
       "feed_name": "遠見雜誌 - 前進的動力",
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "台股暢旺！13家金控4月大賺逾千億累計獲利創新高，富邦拿下3冠王",
-          "link": "https://www.gvm.com.tw/article/130127",
-          "published": "2026-05-16T16:00:00",
-          "summary": "金控4月獲利揭曉，台股暢旺、資本市場活絡帶動下，推升整體獲利表現。13家上市金控4月獲利衝破新台幣1033億元，累計前4月稅後盈餘合計達2914.88億元，刷新史上同期新高紀錄，年增近8成。13家金控4月獲利出爐，受惠台股價量齊揚，資本市場熱絡，加上銀行子公司存、放款規模穩步擴張，淨利息收益持續提升，4月稅後盈餘合計1033億元，年增率高達4.5倍，主要是因去年同期金融業面臨全球股災衝擊、基期較低"
+          "title": "從辜濂松到辜仲諒：中信60週年棒球特展回望台灣棒球百年路",
+          "link": "https://www.gvm.com.tw/article/130160",
+          "published": "2026-05-17T16:45:00",
+          "summary": "今年適逢中國信託成立60週年，中信金控推出「中信60甲子緣」棒球特展，回顧台灣棒球百年發展歷程，也整理中國信託多年來投入棒球運動的軌跡，特展從5月19日到6月21日。而此次特展中，王貞治也是重要主角之一。展區以「心繫台灣的OH桑」為題，回顧他與台灣棒球超過一甲子的深厚連結。今年適逢中國信託成立60週年，中信金控於台北大巨蛋推出「中信60甲子緣」棒球特展，透過六大展區、珍貴歷史影像與紀念文物，回顧台"
         },
         {
-          "title": "北京36小時分析〉G2新局定調！習近平開牌中美未來３年：建設性戰略穩定關係",
-          "link": "https://www.gvm.com.tw/article/130155",
-          "published": "2026-05-16T14:09:00",
-          "summary": "中美不算伙伴嗎？大國角力迎來下半場，習近平親自開牌，將未來三年、川普任期結束前的G2格局，定調為「建設性戰略穩定關係」，台灣專家解讀為大國博弈的共存底線。15日政大國關中心舉辦「解析2026年川習會後的全球秩序與兩岸局勢」座談會，邀請專家提出洞見。「世界的格局，就是G2的格局。」淡江大學兩岸關係研究中心主任張五岳分析，北京方面對2026年首場川習會的深層期待，是讓全世界看清楚一件事：中國大陸，是美"
+          "title": "前國安局長示警：川普的默認比反對台獨還可怕？",
+          "link": "https://www.gvm.com.tw/article/130159",
+          "published": "2026-05-17T16:29:00",
+          "summary": "川習會落幕，美國總統川普接受媒體專訪的內容快速散播開來，對台灣而言，這簡直是核彈級消息，學者專家無不加以示警。前國安局局長李翔宙語重心長說，兩岸對「維持現狀」的定義不同，從川普默認中方的論述，答案已經很清楚，川普的轉變，從美國過去的「不支持台獨」演變成「反對台獨」，且態度更加直白強勢，我們必須趕緊止血。5月17日早上，對外關係協會、啟思民本基金會隨即舉辦《川習會對台灣的機會與挑戰》座談會，聚焦川普"
         },
         {
-          "title": "小確幸卻變成賭上人生！美研究：年輕人因買不起房子會「改變行為」",
-          "link": "https://www.gvm.com.tw/article/130126",
-          "published": "2026-05-16T11:00:00",
-          "summary": "現在年輕人畢業優先事項已經不是努力找工作，或是繼續讀書升學、求取專業證照等等，而是繼續打工，不想在台灣的，就是出國打工兼遊學。至於是什麼因素導致年輕人不再重視工作，甚至期望高風險投資一夕致富，專家認為這是一種放棄的心態，長遠下來將一輩子當輸家。結婚、成家、立業是一種人生儀式，在大學畢業後，這種目標會推動年輕人毫無懸念的走向同一個目標，但現在出社會即背學貸，通貨膨脹高的離譜，買房更是遙不可及，即使有"
+          "title": "國家年損1300億！男少活2年、女少賺185萬，北醫大揭吸菸驚人代價",
+          "link": "https://www.gvm.com.tw/article/130131",
+          "published": "2026-05-17T11:00:00",
+          "summary": "吸菸不僅增加疾病風險，北醫大公衛學院研究發現，吸菸侵蝕經濟動能，每名癮君子一生平均損失逾新台幣135萬元生產力，全台每年因吸菸減損生產力更達千億元，遠高於菸稅與菸捐收入。此研究由台北醫學大學公共衛生學系副教授羅偉成率領研究團隊進行，於今年發表於國際公共衛生期刊Public Health，並在今天舉辦研究成果發表記者會。研究團隊分析逾21萬名成年台灣人長期追蹤資料，結合健保、死亡登記與勞動收入數據，"
         },
         {
-          "title": "台式飯糰美國爆紅！吃完想秒睡是糖尿病前兆？營養師揭「暈碳」真相",
-          "link": "https://www.gvm.com.tw/article/130125",
-          "published": "2026-05-16T07:00:00",
-          "summary": "近期美國美食部落客 Chef Danny 開箱台式紫米飯糰的影片在網路上爆紅。面對塞滿油條、香腸、肉鬆，份量比拳頭還大的特大號飯糰，他大讚「便宜又好吃」。然而，這段影片也引發台灣網友熱議，不少人笑稱這種高碳水組合是「斷片神器」「最強安眠藥」，紛紛留言：「這顆吃完真的會直接睡到晚上」、「吃完直接進入昏迷模式」。這種吃飽後產生的強烈睡意，在網路社群被稱為「暈碳」。究竟為何吃澱粉會讓人昏昏欲睡？否為糖尿"
+          "title": "長命百歲可能將成常態！史丹佛研究：代價是工作60年才能退休",
+          "link": "https://www.gvm.com.tw/article/130128",
+          "published": "2026-05-17T07:00:00",
+          "summary": "人人都想要長命百歲，但一個殘酷現實是，沒辦法妄想工作30年退休，而是每個人都要準備好工作60年。意味以後工作撐到55歲，無法等著退休，而是要為人生第二職業階段做好準備。長壽專家表示，當今千禧世代將首度面臨這個問題。史丹佛長壽研究中心在2022年一份報告中指出，如今許多兒童預計活到100歲，到2050年，百歲預期壽命將成為常態。聯合國預測，到 2100 年，全球百歲老人將超過2,500萬人。當長命百"
+        },
+        {
+          "title": "川普福斯專訪中英文對照：不希望有人走向獨立，誤認背後有美國支持",
+          "link": "https://www.gvm.com.tw/article/130157",
+          "published": "2026-05-17T01:13:00",
+          "summary": "北京川習會剛落幕，美國總統川普接受福斯新聞專訪的影音在15日播出，引發全球關注。他在接受福斯新聞主播拜爾專訪時，談及台海局勢，表示「不希望有人走向獨立，是以為美國在背後支持！」他也呼籲中國與台灣都要冷靜。5月中旬，美國總統川普拜會中國國家主席習近平，這場睽違九年的北京川習會雖已落幕，但相關議題持續發酵，尤其是川普與習近平如何談及台灣議題，仍是全球焦點。川普在川習會後接受美國福斯新聞（Fox New"
         }
       ]
     },
@@ -47,40 +78,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "「環境部<b>淨零</b>綠領人才培育課程」今年首場測驗5月23日登場15題測驗示範題公布於「綠領人才 ...",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/page/3b3c62c78849f32f/e8cc5c02-c150-4dc9-909d-da1f590daac3&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1tpaoZNeaV9KRuU-2DsOod",
-          "published": "2026-05-17T02:13:41+00:00",
-          "summary": "國環院表示，本年度課程教材已進行大幅度修訂，納入碳費制度、碳排放交易制度(ETS)、歐盟碳邊境調整機制(CBAM)與碳管理實務案例等當前重要議題。另針對本次參測之&nbsp;..."
+          "title": "每日消息（共同社） - 南極科學家在廣島呼籲加緊應對<b>氣候變遷</b> - 客觀日本",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tc.keguanjp.com/kgjp_gongtong/pt20260518000024.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1LSk1t41HCTr6oSnTlm1bS",
+          "published": "2026-05-18T00:38:24+00:00",
+          "summary": "據聯合國政府間氣候變遷專門委員會（IPCC）估算，到2070年海平面可能最多上升1米。 發起此次行動的德國冰雪圈研究人員Julius Garbe表示：「城市曾被核武器摧毀的核爆&nbsp;..."
         },
         {
-          "title": "<b>氣候變遷</b>正在養大「鼠患危機」 老鼠與病毒同步擴散| 倡議家",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ubrand.udn.com/ubrand/amp/story/123659/9499619&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2B2msXqdmT7ryYinfOCxGV",
-          "published": "2026-05-17T01:26:44+00:00",
-          "summary": "UCDavis（2026年5月4日），Climate Change Increases Spillover Risk of Rodent-Borne Arenaviruses. 本文授權轉載自《環境資訊中心》（原文標題：氣候變遷&nbsp;..."
+          "title": "金控雙雄將擴大亞洲版圖|半導體|產業新聞|產科國際所【IEK產業情報網】",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D9%26nsl_id%3D7b0b6cbb9b8c491eb480db0b306ab3a6&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Yf_ZEXq4oQFCHh_eJmNa1",
+          "published": "2026-05-17T22:36:17+00:00",
+          "summary": "儘管國際地緣政治與氣候變遷風險依舊存在，但隨著主要經濟體通膨受控與貨幣政策正常 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
         },
         {
-          "title": "<b>氣候變遷</b>正在養大「鼠患危機」 老鼠與病毒同步擴散| 倡議家 - 聯合新聞網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ubrand.udn.com/ubrand/story/123659/9499619&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0ycspfw-CB-Kf35oclpEpY",
-          "published": "2026-05-17T01:25:38+00:00",
-          "summary": "參考資料. Euronews（2025年2月3日），Amsterdam, New York, Toronto: The cities where climate change is causing a&nbsp;..."
+          "title": "經部5,500億治水四箭齊發|半導體|產業新聞|產科國際所【IEK產業情報網】",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D5%26nsl_id%3D46f5753bf9bf41f399b3369b7a9b3ee4&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3QzuUUjBmVdcvYUTMJO2Hr",
+          "published": "2026-05-17T22:32:11+00:00",
+          "summary": "他說，略比往年增加的原因，主要是因為氣候變遷需要加強調適，同時物價上漲，另外 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
         },
         {
-          "title": "國發會推亞洲首部國家級公正轉型計畫降<b>淨零</b>轉型衝擊| 政經焦點 - 經濟日報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/7307/9505139&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2sTzrhKX7k7ew8WQoxQ8Md",
-          "published": "2026-05-17T00:14:42+00:00",
-          "summary": "政府實踐淨零轉型，為了降低轉型過程中，對不同產業與族群帶來的衝擊，國發會引導各部會提出「公正轉型行動方案」，並據以研擬「..."
+          "title": "運具電動化業界籲擴大政策引導|半導體|產業新聞|產科國際所【IEK產業情報網】",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D8%26nsl_id%3Dcb58caff38ef4a1f9da59ac31d70fe6f&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1eydpSSyBgadLShmtahef7",
+          "published": "2026-05-17T22:32:10+00:00",
+          "summary": "基礎、成熟科技實力，以及在智慧能源與電動機車領域累積的發展經驗，正邁入電動運具產業的重要轉型關鍵期。工商時報於15日主辦「台灣淨零 ... Net-Zero&nbsp;..."
         },
         {
-          "title": "樂施米義賣昨今舉行 - 澳門日報電子版",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.macaodaily.com/html/2026-05/17/content_1908452.htm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw02BIdj0UiSOpMS1l6sqxMx",
-          "published": "2026-05-16T22:00:12+00:00",
-          "summary": "亦有不少居民與旅客獲義工介紹下，深入了解氣候變化如何影響小農的耕作與收入。樂施會負責人向所有合作伙伴及義工的無私付出，致以衷心感謝。"
+          "title": "<b>淨零</b>減碳 - 宜蘭新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.travelnews.tw/news/tag/%25E6%25B7%25A8%25E9%259B%25B6%25E6%25B8%259B%25E7%25A2%25B3/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1g7LUvjTT69oWwXB9QTfoR",
+          "published": "2026-05-17T19:59:28+00:00",
+          "summary": "新聞中心/整理面對淨零排放已成全球趨勢，宜蘭也開始加快腳步培養在地人才。宜蘭縣政府環保局與國立宜蘭大學合作開辦的「淨零綠領人才培育專班」5/17日正式結&nbsp;..."
         },
         {
-          "title": "（生活搜聞）一座中國生態新城的「氣候治理」 梁姊宋瑞 - 華僑報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.vakiodaily.com/mobile/news/view/id/697218&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1832YtM0AbrP6w-RaguzXV",
-          "published": "2026-05-16T19:39:11+00:00",
-          "summary": "2020年，中國向世界作出承諾，二氧化碳排放力爭於2030年前達到峰值，努力爭取2060年前實現碳中和。 面對如何讓氣候治理與經濟發展並行不悖的全球性難題，生態城的&nbsp;..."
+          "title": "【徐榛蔚施政總報告・系列2】 邁向智慧永續城市花蓮結合科技推動<b>淨零</b>綠生活 - 花蓮縣政府",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hl.gov.tw/News_Content.aspx%3Fn%3D32725%26sms%3D25832%26s%3D209108&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2QP6ln7w377nO-ri2-RxkX",
+          "published": "2026-05-17T17:16:02+00:00",
+          "summary": "同時推動機關太陽能自發自用，環境教育數位中心每年減碳約77.3公噸，成為全國首創機關碳中和示範點。 ... 為積極應對全球氣候變遷挑戰並響應中央「2050淨零排放」&nbsp;..."
         }
       ]
     }
