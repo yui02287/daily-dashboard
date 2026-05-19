@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-05-18T05:06:02.360174+00:00",
-    "date": "2026-05-18",
+    "generated_at": "2026-05-19T05:00:56.237969+00:00",
+    "date": "2026-05-19",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,28 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "結帳頁成零售新戰場：BNPL 如何從支付選項，升級為商家提高成交機會的新工具？",
-          "link": "https://techorange.com/2026/05/18/pay-later-is-becoming-the-tiebreaker-at-checkout/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-18T03:31:09+00:00",
-          "summary": "先買後付（BNPL）與商家提供的分期付款選項，正在從單純的支付方式，轉變為左右消費者選擇的關鍵因素。根據 PYMNTS 調查 2,763 名美國消費者的報告指出，消費者融資的影響力並非平均分布，而是高度集中在年輕族群、Pay Later 重度使用者，以及消費者仍在比較選項的「高考慮型消費」場景。這代表 BNPL 的角色已不只是結帳時的附屬選項，更是商家在競爭過程中「贏得訂單」的關鍵工具。 從旅遊、"
+          "title": "Mistral AI 執行長警告：歐洲只剩兩年建立 AI 主權，補不上算力恐成美國 AI「附庸」",
+          "link": "https://techorange.com/2026/05/19/mistral-ai-ceo-warns-europe-2-years-avoid-us-ai-dependence/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-19T03:06:50+00:00",
+          "summary": "法國 AI 新創 Mistral AI 執行長 Arthur Mensch 警告，歐洲大約只剩下兩年時間來建立自己的 AI 基礎設施，否則可能永久依賴美國科技巨頭。 Arthur Mensch 在法國國民議會一場關於數位主權與 AI 的聽證會上明確表示，歐洲的命運「將在接下來兩年決定」，並嚴正警告，如果歐洲無法發展自己的 AI 產業，只能持續從美國進口數位服務，最終恐將淪為 AI 時代的「附庸國」"
         },
         {
-          "title": "追求零幻覺可能是錯誤目標，AI 幻覺問題從無解變成「可管理的技術挑戰」",
-          "link": "https://techorange.com/2026/05/18/ai-lies-most/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-18T02:13:53+00:00",
-          "summary": "大型語言模型自進入商業應用以來，「幻覺」始終是揮之不去的陰影。不過從 2021 年至今，這個問題的核心已經產生顯著變化。 理解當前 LLM 幻覺率的真實數據、技術應對策略的成熟度，以及創意與穩定性之間難以調和的問題，是企業在判斷是否導入前得需理解的關鍵發展。 幻覺問題的現況與高風險場景 過去五年間，整體 LLM 幻覺率從 2021 年的 38% 降至 2026 年的 8.2%，頂尖模型如 GPT-"
+          "title": "斡旋成功率提升近 30%、成交轉換率提高近 20%！信義房屋靠「先補地基」戰略佈局 Agentic AI，開啟資料變現新篇章",
+          "link": "https://techorange.com/2026/05/19/sinyirealty-microsoft-ai-data/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-19T02:06:14+00:00",
+          "summary": "房地產業涉及高資產金額、長決策週期，信任是交易的核心。面對海量的物件資訊、多元的客戶行為以及複雜的市場法規，如何應用 AI 將碎片化的資料轉化為可助攻業務成交的可信任商機情報，成為房仲業數位轉型的最大需求。 為了解決這些核心痛點，Microsoft 在三年前開始協助信義房屋導入以 Microsoft Azure 為基礎的資料平台架構，結合 Azure Synapse Analytics、Micro"
         },
         {
-          "title": "開源 AI 還是次要選項？模型效能已媲美商業產品，將以成本做為突破口",
-          "link": "https://techorange.com/2026/05/18/open-source-ai-for-enterprises/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-18T02:13:43+00:00",
-          "summary": "隨著開源 AI 模型的品質獲得大幅提升，生態系也日趨成熟，迫使 AI 業界不得不重新思考開源 AI 的真正價值，以及企業是否還要繼續對它視而不見，只把開源 AI 生態系當成次要選項。"
+          "title": "從 4 週工期縮短為數分鐘：行銷人員靠代理式 AI 也能一人讓電視廣告成片",
+          "link": "https://techorange.com/2026/05/19/ai-advertisement/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-19T01:27:04+00:00",
+          "summary": "「零製片預算也能上電視？」這個過去聽起來幾乎是不可能的任務，正在因代理式 AI（agentic AI）而開始成真。根據 C&amp;I Studios 在 2026 年發布的產業報告，傳統製作一支 30 秒電視廣告的成本通常落在 5,000 至 50,000 美元之間，且製作週期約需 4 到 6 週。這樣的門檻，長期將影視廣告限制在少數具備預算優勢的大企業手中。對多數中小品牌而言，創意或許不缺，但"
         },
         {
-          "title": "【科技早餐】ChatGPT 開始讀取銀行帳戶，OpenAI 把 AI 助理推進個人理財",
-          "link": "https://techorange.com/2026/05/18/openai-chatgpt-personal-finance-experience/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-17T22:50:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊ChatGPT 開始讀取銀行帳戶，OpenAI 把 AI 助理推進個人理財 OpenAI 宣布，正在美國向 ChatGPT Pro 用戶推出名為「財務」（Finances）的全新個人理財預覽功能。這項功能透過金融資料平台 Plaid，讓用戶可以把銀行帳戶、信用卡與投資帳戶連到 ChatGPT。完成身分驗證後，系統會自動生成財務儀表板，涵蓋投資組合"
+          "title": "Gartner 預測九成企業需 AI 代理協調器，BAND 推「AI 代理版 Slack」解決跨平台碎片化",
+          "link": "https://techorange.com/2026/05/19/ai-agents-universal-orchestrator-band/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-19T00:21:05+00:00",
+          "summary": "為了解決不同平台 AI 代理系統之間的溝通問題，BAND 打造出一套「AI 代理系統的 Slack 協作平台」，藉由具備確定性的通訊層，讓 AI 產業朝可擴展的「代理經濟」順利轉型。"
+        },
+        {
+          "title": "【科技早餐】SpaceX 傳 6 月 IPO、印度首座 12 吋晶圓廠啟動，AI 基建戰從太空燒到半導體",
+          "link": "https://techorange.com/2026/05/19/spacex-june-ipo-india-first-12-inch-fab/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-18T22:50:00+00:00",
+          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊SpaceX 傳最快 6 月 12 日 IPO，太空經濟估值上看 1.75 兆美元 《路透》報導，SpaceX 正加速推動首次公開發行，最快可能在 6 月 12 日於美國那斯達克（NASDAQ）掛牌。這次 IPO 目標募資約 750 億美元，估值上看 1.75 兆美元，若順利完成，將可能成為史上規模最大的 IPO 之一。 報導指出，全球最大資產管"
+        },
+        {
+          "title": "人形機器人量產戰升溫！為何 Sanctuary AI 執行長預言家庭普及還要 3 到 7 年？",
+          "link": "https://techorange.com/2026/05/18/sanctuary-ai-humanoid-robots-homes-years/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-18T10:30:54+00:00",
+          "summary": "人形機器人資訊平台 Robozaps 在 2026 年排名指南中整理指出，特斯拉正加速生產 Optimus 第三代，波士頓動力公司開發的 Atlas 已進入實際工廠作業驗證，Figure AI 則規劃 BotQ 每年生產破萬台 Figure 03，1X Technologies 也開始向早期用戶交付家用機器人 NEO，顯示人形機器人產業進入密集的商業驗證階段。 Sanctuary AI 執行長 J"
         }
       ]
     },
@@ -42,34 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "從辜濂松到辜仲諒：中信60週年棒球特展回望台灣棒球百年路",
-          "link": "https://www.gvm.com.tw/article/130160",
-          "published": "2026-05-17T16:45:00",
-          "summary": "今年適逢中國信託成立60週年，中信金控推出「中信60甲子緣」棒球特展，回顧台灣棒球百年發展歷程，也整理中國信託多年來投入棒球運動的軌跡，特展從5月19日到6月21日。而此次特展中，王貞治也是重要主角之一。展區以「心繫台灣的OH桑」為題，回顧他與台灣棒球超過一甲子的深厚連結。今年適逢中國信託成立60週年，中信金控於台北大巨蛋推出「中信60甲子緣」棒球特展，透過六大展區、珍貴歷史影像與紀念文物，回顧台"
+          "title": "盧比歐眨眼、川普破例喝酒！解讀川習會的漏網鏡頭",
+          "link": "https://www.gvm.com.tw/article/130178",
+          "published": "2026-05-18T18:58:00",
+          "summary": "北京「川習會」落幕了，但美國總統川普接受媒體訪問，卻捲起千堆雪。當各界正為官方通稿、訪談內容爭論不休時，肢體語言或許已洩漏了底牌。為什麼曾遭中國制裁的國務卿盧比歐，在與習近平握手後對著川普「眨眼睛」？滴酒不沾的川普為何在晚宴舉杯「喝香檳」？尤其是川普返美前，外交部長王毅臉色嚴肅的最後一分鐘送機，又透露了什麼？本文藉助微表情與肢體語言，帶您看懂官方通稿沒說的政治密碼。人類的文字與談話，往往可透過精心"
         },
         {
-          "title": "前國安局長示警：川普的默認比反對台獨還可怕？",
-          "link": "https://www.gvm.com.tw/article/130159",
-          "published": "2026-05-17T16:29:00",
-          "summary": "川習會落幕，美國總統川普接受媒體專訪的內容快速散播開來，對台灣而言，這簡直是核彈級消息，學者專家無不加以示警。前國安局局長李翔宙語重心長說，兩岸對「維持現狀」的定義不同，從川普默認中方的論述，答案已經很清楚，川普的轉變，從美國過去的「不支持台獨」演變成「反對台獨」，且態度更加直白強勢，我們必須趕緊止血。5月17日早上，對外關係協會、啟思民本基金會隨即舉辦《川習會對台灣的機會與挑戰》座談會，聚焦川普"
+          "title": "最適合台灣留學生的美國大學榜單公開！AI正改變選校標準？",
+          "link": "https://www.gvm.com.tw/article/130183",
+          "published": "2026-05-18T18:09:00",
+          "summary": "在高等教育的升學路上，離開台灣負笈國外，也是許多學生的求學選擇。以近年來說，每年有將近七萬人在國外留學，而對人數眾多的這些留學生而言，在選擇學校時有什麼樣的考量？那些國家、哪些學校最受留學生歡迎？在留學代辦業者的眼裡，台灣的留學風氣和留學生的考量選擇，又經歷了哪些轉變，為什麼業者會說現在已經進入「留學代辦2.0」時代？台灣留學生最新統計，最愛去哪個國家？根據教育部最新統計資料，台灣在114年度有多"
         },
         {
-          "title": "國家年損1300億！男少活2年、女少賺185萬，北醫大揭吸菸驚人代價",
-          "link": "https://www.gvm.com.tw/article/130131",
-          "published": "2026-05-17T11:00:00",
-          "summary": "吸菸不僅增加疾病風險，北醫大公衛學院研究發現，吸菸侵蝕經濟動能，每名癮君子一生平均損失逾新台幣135萬元生產力，全台每年因吸菸減損生產力更達千億元，遠高於菸稅與菸捐收入。此研究由台北醫學大學公共衛生學系副教授羅偉成率領研究團隊進行，於今年發表於國際公共衛生期刊Public Health，並在今天舉辦研究成果發表記者會。研究團隊分析逾21萬名成年台灣人長期追蹤資料，結合健保、死亡登記與勞動收入數據，"
+          "title": "職場霸凌新法之後，老闆的下一題",
+          "link": "https://www.gvm.com.tw/article/130182",
+          "published": "2026-05-18T17:46:00",
+          "summary": "七月，《職業安全衛生法》職場霸凌專章即將上路。最近，企業主之間閒聊，都半開玩笑、半無奈地說：「現在帶員工是不是不能講重話？不然就會被說霸凌？ 」身為一路從底層做到中層與高階主管，我明白制度常不是為了服務大多數人，反而用在處理少數失控狀況。換句話說，很多規定都是防君子不防小人，這也說明為何規則愈來愈細、界線愈來愈清楚，人與人之間要怎麼相處，卻反而變得更模糊。法律與規範的確是民主社會的根基，但如果一間"
         },
         {
-          "title": "長命百歲可能將成常態！史丹佛研究：代價是工作60年才能退休",
-          "link": "https://www.gvm.com.tw/article/130128",
-          "published": "2026-05-17T07:00:00",
-          "summary": "人人都想要長命百歲，但一個殘酷現實是，沒辦法妄想工作30年退休，而是每個人都要準備好工作60年。意味以後工作撐到55歲，無法等著退休，而是要為人生第二職業階段做好準備。長壽專家表示，當今千禧世代將首度面臨這個問題。史丹佛長壽研究中心在2022年一份報告中指出，如今許多兒童預計活到100歲，到2050年，百歲預期壽命將成為常態。聯合國預測，到 2100 年，全球百歲老人將超過2,500萬人。當長命百"
+          "title": "SpaceX上市倒數！低軌衛星概念股受惠新名單？",
+          "link": "https://www.gvm.com.tw/article/130181",
+          "published": "2026-05-18T17:25:00",
+          "summary": "史上最大規模IPO即將登場——SpaceX預計2026年6月在那斯達克掛牌，最快本週三（20日）將曝光公開招股說明書。據近期媒體報導，SpaceX年初低調來台密訪供應鏈，台廠在這場賽局裡的位置愈來愈不容忽視。本文帶你看懂SpaceX是什麼？上市時程？股票怎麼買？台灣投資人如何參與？以及台廠伙伴低軌衛星概念股最新完整名單。【目錄】&nbsp;● SpaceX 是什麼？誰創辦？做什麼？● SpaceX"
         },
         {
-          "title": "川普福斯專訪中英文對照：不希望有人走向獨立，誤認背後有美國支持",
-          "link": "https://www.gvm.com.tw/article/130157",
-          "published": "2026-05-17T01:13:00",
-          "summary": "北京川習會剛落幕，美國總統川普接受福斯新聞專訪的影音在15日播出，引發全球關注。他在接受福斯新聞主播拜爾專訪時，談及台海局勢，表示「不希望有人走向獨立，是以為美國在背後支持！」他也呼籲中國與台灣都要冷靜。5月中旬，美國總統川普拜會中國國家主席習近平，這場睽違九年的北京川習會雖已落幕，但相關議題持續發酵，尤其是川普與習近平如何談及台灣議題，仍是全球焦點。川普在川習會後接受美國福斯新聞（Fox New"
+          "title": "借電是門好生意？ChargeSPOT瞄準皮克敏與粉絲應援商機",
+          "link": "https://www.gvm.com.tw/article/130180",
+          "published": "2026-05-18T17:02:00",
+          "summary": "演唱會、觀光熱潮與粉絲應援經濟，正帶動借電需求大爆發。全台據點超過1.3萬個、400萬會員的 ChargeSPOT行動電源租借平台，逐漸成為串聯人流、商圈與城市移動的新型服務，它又如何應對大家擔心的安全課題？你最近是否也迷上了皮克敏社群遊戲，日日散步種花或揪團打蘑菇、解任務？又或者，在行動電源爆炸事件頻傳後，開始重新擔心鋰電池的安全問題？這些現象，也讓共享行動電源業者 ChargeSPOT，再次受"
+        },
+        {
+          "title": "逆境中被迫創新！烏克蘭「從零到年產500萬架無人機」改寫戰爭規則",
+          "link": "https://www.gvm.com.tw/article/130179",
+          "published": "2026-05-18T16:38:00",
+          "summary": "面對台海情勢與不對稱潛在威脅，台灣正全力加速「國防自主」與「無人機國家隊」的戰略布局。從近年俄烏戰爭到近期全球地緣衝突的實戰經驗來看，無人機已從過去的「輔助角色」躍升為扭轉戰局的關鍵武器。烏克蘭在伊朗戰爭期間向約旦派遣軍事人員與無人機操作員，協助中東國家抵禦伊朗攻擊。烏克蘭在俄烏戰爭4年多來建立起自身的無人機產業與戰法，可能形塑新的軍事邏輯。親烏網路頻道The Military Show指出，在2"
         }
       ]
     },
@@ -78,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "每日消息（共同社） - 南極科學家在廣島呼籲加緊應對<b>氣候變遷</b> - 客觀日本",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tc.keguanjp.com/kgjp_gongtong/pt20260518000024.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1LSk1t41HCTr6oSnTlm1bS",
-          "published": "2026-05-18T00:38:24+00:00",
-          "summary": "據聯合國政府間氣候變遷專門委員會（IPCC）估算，到2070年海平面可能最多上升1米。 發起此次行動的德國冰雪圈研究人員Julius Garbe表示：「城市曾被核武器摧毀的核爆&nbsp;..."
+          "title": "國際氫能發展論壇2026開幕 - 香港風火時報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.flamingwheels.online/news-view.html%3F_FgID%3DaKE9AHE4ARS2&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3xC1CFbjy5KkHueVanHPSj",
+          "published": "2026-05-18T23:10:20+00:00",
+          "summary": "黃淑嫻致歡迎辭時表示，在國家「雙碳」目標下，香港力爭在二○三五年前將碳排放總量從二○○五年的水平減半，並邁向二○五○年前達致碳中和的目標，而氫能發展有助推動&nbsp;..."
         },
         {
-          "title": "金控雙雄將擴大亞洲版圖|半導體|產業新聞|產科國際所【IEK產業情報網】",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D9%26nsl_id%3D7b0b6cbb9b8c491eb480db0b306ab3a6&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Yf_ZEXq4oQFCHh_eJmNa1",
-          "published": "2026-05-17T22:36:17+00:00",
-          "summary": "儘管國際地緣政治與氣候變遷風險依舊存在，但隨著主要經濟體通膨受控與貨幣政策正常 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
+          "title": "遠傳推動永續生態系攜手供應商共築<b>淨零</b>競爭力 - PChome news",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/finance/idn/20260519/index-77912675428186224003.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0NVYUgYpTMgJaMgs0elMWP",
+          "published": "2026-05-18T17:55:39+00:00",
+          "summary": "遠傳今（15）日舉辦第三屆「永續治理工作坊」，邀集供應商夥伴與永續轉型專家深化交流，並透過制度化培力與實務輔導，協助供應鏈夥伴全面提升ESG永續治理能力，展現將&nbsp;..."
         },
         {
-          "title": "經部5,500億治水四箭齊發|半導體|產業新聞|產科國際所【IEK產業情報網】",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D5%26nsl_id%3D46f5753bf9bf41f399b3369b7a9b3ee4&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3QzuUUjBmVdcvYUTMJO2Hr",
-          "published": "2026-05-17T22:32:11+00:00",
-          "summary": "他說，略比往年增加的原因，主要是因為氣候變遷需要加強調適，同時物價上漲，另外 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
+          "title": "南華大學USR計畫深耕自然碳匯教研，培育農業<b>碳中和</b>國際綠領人才",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.worldnews-tw.com/page/news/show.aspx%3Fnum%3D49786%26kind%3D8&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1hXAIPkEUZwgQC-8ueW7un",
+          "published": "2026-05-18T17:15:10+00:00",
+          "summary": "近年全球面對氣候變遷與淨零轉型挑戰，各國陸續將「自然碳匯」納入重要減碳策略，其中土壤碳匯更被視為農業部門邁向淨零排放的重要關鍵。我國政府目前以2050淨零&nbsp;..."
         },
         {
-          "title": "運具電動化業界籲擴大政策引導|半導體|產業新聞|產科國際所【IEK產業情報網】",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D8%26nsl_id%3Dcb58caff38ef4a1f9da59ac31d70fe6f&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1eydpSSyBgadLShmtahef7",
-          "published": "2026-05-17T22:32:10+00:00",
-          "summary": "基礎、成熟科技實力，以及在智慧能源與電動機車領域累積的發展經驗，正邁入電動運具產業的重要轉型關鍵期。工商時報於15日主辦「台灣淨零 ... Net-Zero&nbsp;..."
+          "title": "中電源動與鷹君集團簽署合作備忘錄 - Plataforma Media",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.plataformamedia.com/zh-hant/2026/05/18/%25E4%25B8%25AD%25E9%259B%25BB%25E6%25BA%2590%25E5%258B%2595%25E8%2588%2587%25E9%25B7%25B9%25E5%2590%259B%25E9%259B%2586%25E5%259C%2598%25E7%25B0%25BD%25E7%25BD%25B2%25E5%2590%2588%25E4%25BD%259C%25E5%2582%2599%25E5%25BF%2598%25E9%258C%2584/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Hj7dK48CtOpAUN2mlauGL",
+          "published": "2026-05-18T17:08:16+00:00",
+          "summary": "... 淨零排放的目標，帶領行業把可持續發展理念融入營運重心，助力香港及國家分別於2050年及2060年前實現碳中和的目標。"
         },
         {
-          "title": "<b>淨零</b>減碳 - 宜蘭新聞網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.travelnews.tw/news/tag/%25E6%25B7%25A8%25E9%259B%25B6%25E6%25B8%259B%25E7%25A2%25B3/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1g7LUvjTT69oWwXB9QTfoR",
-          "published": "2026-05-17T19:59:28+00:00",
-          "summary": "新聞中心/整理面對淨零排放已成全球趨勢，宜蘭也開始加快腳步培養在地人才。宜蘭縣政府環保局與國立宜蘭大學合作開辦的「淨零綠領人才培育專班」5/17日正式結&nbsp;..."
+          "title": "聯合國大會將審決議案要求落實國際法院氣候義務裁決 - 淨零碳排- 中央社",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://netzero.cna.com.tw/news/202605180257/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1-k12VPo-9yh7-Rhi-dJcd",
+          "published": "2026-05-18T16:56:09+00:00",
+          "summary": "聯合國氣候變遷綱要公約（UNFCCC） &middot; 聯合國政府間氣候變化專門委員會（IPCC） &middot; 歐盟氣候監測機構哥白尼氣候變遷服務（Copernicus Climate Change Service, C3S）&nbsp;..."
         },
         {
-          "title": "【徐榛蔚施政總報告・系列2】 邁向智慧永續城市花蓮結合科技推動<b>淨零</b>綠生活 - 花蓮縣政府",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hl.gov.tw/News_Content.aspx%3Fn%3D32725%26sms%3D25832%26s%3D209108&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2QP6ln7w377nO-ri2-RxkX",
-          "published": "2026-05-17T17:16:02+00:00",
-          "summary": "同時推動機關太陽能自發自用，環境教育數位中心每年減碳約77.3公噸，成為全國首創機關碳中和示範點。 ... 為積極應對全球氣候變遷挑戰並響應中央「2050淨零排放」&nbsp;..."
+          "title": "<b>淨零</b>減碳 - iThome",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ithome.com.tw/tags/%25E6%25B7%25A8%25E9%259B%25B6%25E6%25B8%259B%25E7%25A2%25B3&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1j0ixrVZesQ1TufaOUTgKb",
+          "published": "2026-05-18T16:19:09+00:00",
+          "summary": "掌握AI 實戰佈局，驅動企業價值轉型2026 AI Enterprise Summit 聚焦五大技術與戰略支柱，帶領企業從實驗室走向物理世界，從單點應用走向全面轉型。 日期&nbsp;..."
         }
       ]
     }
