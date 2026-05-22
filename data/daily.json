@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-05-21T05:09:10.247862+00:00",
-    "date": "2026-05-21",
+    "generated_at": "2026-05-22T05:00:36.665275+00:00",
+    "date": "2026-05-22",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "不只合規，更是競爭力：叡揚資訊助攻 CRA 全面佈局，建構產品資安後盾",
-          "link": "https://techorange.com/2026/05/21/gss-cra-ssdlc-security-trackosecops/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-21T03:52:57+00:00",
-          "summary": "隨著歐盟《網路韌性法案》（Cyber Resilience Act, CRA）即將於 2027 年邁入強制執行階段，全球數位產品供應鏈正面臨嚴苛的資安審查與風險檢視。對台灣企業而言，這不僅是一項合規挑戰，更是決定能否續留歐盟市場的競爭關鍵。 隨著 CRA 將資安從合規要求推升為產品競爭力關鍵，叡揚資訊憑藉完整資安產品線、專業技術團隊及累積數十年的跨產業實戰經驗，打造涵蓋產品全生命週期的合規資安架構"
+          "title": "量子運算還沒成熟，美國為何急著入股？投入 20 億美元押注 9 家公司，搶下一代算力主權",
+          "link": "https://techorange.com/2026/05/22/us-government-2-billion-bet-quantum-computing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-22T04:12:27+00:00",
+          "summary": "當市場目光還停留在 AI 晶片的霸權爭奪時，主宰未來數十年的下一個科技戰早已悄悄開打。美國川普政府與商務部近日投下一顆產業震撼彈：宣布透過《晶片與科學法案》（CHIPS Act），豪擲 20.13 億美元的聯邦資金，重押 9 家量子運算企業，並打破過去單向發放科技研發補助的傳統慣例，美國政府這次選擇化身為「國家級創投」，要求以資金換取這些企業的少數股權。 在量子運算尚未真正商業化的此刻，美國政府已"
         },
         {
-          "title": "東南亞超級 App 如何落地台灣？Grab 產品長來台說明 AI 佈局，正面回應資料隱私疑慮",
-          "link": "https://techorange.com/2026/05/21/grab-taiwan-ai-data-privacy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-21T02:41:13+00:00",
-          "summary": "東南亞超級應用程式 Grab 收購 foodpanda 台灣業務的交易案，目前仍在公平交易委員會審查當中。不過，在市場高度關注這場外送平台大洗牌之際，Grab 產品長 Philipp Kandal 本週接受台灣媒體訪問，除了正面回應外界針對資料安全的疑慮，也具體說明 Grab 的 AI 技術、服務與其他同業有何不同，以及進入台灣市場的產品佈局方向。 資料存新加坡，與華為合作不含台灣 自收購案宣布以"
+          "title": "AI 直接串接庫存與物流：拆解亞馬遜砍掉 Rufus、押注 Alexa 的底層邏輯",
+          "link": "https://techorange.com/2026/05/22/ai-amazon-alexa-for-shopping/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-22T01:02:21+00:00",
+          "summary": "亞馬遜近期宣布終結兩年前高調推出的網頁版 AI 購物聊天機器人「Rufus」，並將 AI 購物策略全面轉向以 Alexa 為核心的「語音代理商務（Agentic Commerce）」生態系。 Alexa 新功能接管搜尋，大數據打造一步到位的購物大腦 新版 Alexa for Shopping 將直接整合於亞馬遜搜尋結果頁面、App，以及 Echo Show 等裝置中。當使用者瀏覽商品時，系統會主動"
         },
         {
-          "title": "【AI 時代業務警示】銷售自動化的悖論：為什麼全自動化反而侵蝕業務根基？",
-          "link": "https://techorange.com/2026/05/21/ai-is-changing-sales/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-21T02:14:22+00:00",
-          "summary": "當 AI 能自動寫開發信、找潛在客戶、甚至跑完整段對話流程，很多業務團隊就開始把它當成萬能外包，讓機器負責開發銷售，人去負責收單。 但業績並沒有因此源源不絕，而問題不在 AI 不夠強。 全自動化銷售會產生哪些風險？ 銷售本質上是考驗業務員隨機應變的能力，資深業務知道何時該推進、何時該後退、何時客戶是真感興趣還是出於禮貌。AI 在這方面還有不少的限制，包括機器學習模型擅長從歷史資料識別模式，但銷售發"
+          "title": "【科技早餐】NVIDIA 財報超預期、SpaceX 衝 IPO，AMD 加碼台灣把 AI 基建戰推向新一輪",
+          "link": "https://techorange.com/2026/05/22/nvidia-financial-report-spacex-ipo-amd-taiwan-investment/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-21T22:50:00+00:00",
+          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊NVIDIA 財報再超預期，黃仁勳：中國 AI 晶片市場正轉向華為 NVIDIA 公布 2027 會計年度第一季財報，營收達 816.2 億美元，年增 85%，再度優於市場預期。其中，資料中心業務營收來到 752 億美元，年增 92%。公司也預估下一季營收約 910 億美元，並宣布新增 800 億美元庫藏股授權。 NVIDIA 執行長黃仁勳表示，"
         },
         {
-          "title": "4 個月變 2 分鐘、數萬美元變幾塊錢，AI 合成受眾如何顛覆市調與顧問業？",
-          "link": "https://techorange.com/2026/05/21/ai-synthetic-audiences-consulting/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-21T02:00:42+00:00",
-          "summary": "在 AI 技術大爆發之後，傳統的市場調查與顧問產業，正在遭受人工智慧帶來的劇烈衝擊，其中最關鍵的部分，莫過於「合成受眾（synthetic audiences）」為產業造成的破壞式創新。"
+          "title": "不想被雲端綁死？拆解 Cohere 新開源 AI 模型如何瞄準企業主權 AI 需求",
+          "link": "https://techorange.com/2026/05/21/cohere-command-a-apache-2-0-licensed/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-21T11:00:29+00:00",
+          "summary": "過去，AI 市場競爭多半圍繞誰的模型參數更多、推理能力更強，但越來越多企業開始發現，困難的往往是讓 AI 安全接入內部資料、控制推理成本、避免供應商綁定，以及真正進入既有流程。加拿大 AI 新創 Cohere 最新發表的 AI 模型 Command A+，某種程度正是對這問題的回應。 Command A+ 是 Cohere 首個採用 Apache 2.0 授權的旗艦級開源模型，主打私有部署（pri"
         },
         {
-          "title": "【科技早餐】Google 搜尋進入 AI 代理時代，OpenAI 鎖算力、三星罷工牽動記憶體供應鏈",
-          "link": "https://techorange.com/2026/05/21/google-io-2026-ai-agent-openai-guaranteed-capacity-samsung-strike/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-20T22:50:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Google I/O 端出 Gemini 3.5 Flash，AI 搜尋正式走向代理平台 Google 在今年 I/O 開發者大會上，全面擴大 Gemini 產品布局。執行長皮查伊（Sundar Pichai）表示，Gemini 應用月活躍用戶已超過 9 億，日請求量年增超過 7 倍，Google 每月處理的 AI token 也已超過 3,20"
+          "title": "AI 推理市場將洗牌？Cerebras 讓兆級參數模型推理逼近每秒 1,000 tokens，挑戰 GPU 雲端瓶頸",
+          "link": "https://techorange.com/2026/05/21/cerebras-chips-trillion-parameter-ai-mode-faster-gpu-clouds/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-21T09:45:58+00:00",
+          "summary": "《VentureBeat》報導，剛完成 2026 年最大規模科技 IPO 的晶片公司 Cerebras Systems 宣布，為客戶運行北京 Moonshot AI 開發的兆級參數開源模型 Kimi K2.6，速度接近每秒 1,000 個 token，目前主流 GPU 雲端供應商尚未達到相近的性能水準。 根據獨立測試機構 Artificial Analysis 的驗證結果，Cerebras 系統實"
         },
         {
-          "title": "AI 落地成效不佳有解！PwC 推 agentic scaffolding，改寫企業部署模式",
-          "link": "https://techorange.com/2026/05/20/pwc-supporting-agentic-scaffolding-ai-deployments/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-20T10:07:21+00:00",
-          "summary": "《富比士》報導，企業內部的決策正在經歷一場巨大轉變。PwC 宣布推出 agentic scaffolding（代理式架構），能協助企業落實 AI 專案的工具。此舉是 PwC 現代化其專業服務營運的一部分，公司代表估計，目前其大多數團隊都正在導入這項 agentic 轉型工具，該工具使用 Claude 4.6 與 GPT-5.5/5.4。 作為四大會計師事務所之一，PwC 對 AI 驅動的變革管理的"
+          "title": "2026全球半導體大調查：信心指數創新高，關注AI、人才與供應鏈",
+          "link": "https://techorange.com/2026/05/21/kpmg-2026-global-semiconductor-survey/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-21T09:31:55+00:00",
+          "summary": "全球半導體產業在 AI 需求帶動下持續升溫。KPMG 今(21)日發布《2026 全球半導體產業大調查》指出，今年半導體產業信心指數升至 63 分，創下調查 21 年來第三高紀錄；同時，全球半導體市場規模預估將於 2026 年突破 1 兆美元。高達 73% 的企業認為 AI 已成為主要營收來源，顯示 AI 正從技術題材正式轉化為驅動產業成長的核心動能。 此次《2026 全球半導體產業大調查》共訪問"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "《臺灣漫遊錄》楊双子、金翎奪國際布克獎：一場昭和臺灣鐵道美食之旅背後",
-          "link": "https://www.gvm.com.tw/article/130247",
-          "published": "2026-05-21T00:57:00",
-          "summary": "5/20編按：由楊双子著、金翎譯英文版的小說《臺灣漫遊錄》奪「國際布克獎」，也是臺灣文學首次獲頒英國國際文學大獎國際布克獎（International Booker Prize）殊榮。小說家楊双子透過扎實的歷史研究、細密的情節與立體的人物描寫，以飲食為喻，由故事主人公青山千鶴子帶領讀者窺見日本帝國對待殖民地臺灣、日本內地人與臺灣本島人的種種矛盾。（本文節錄自《臺灣漫遊錄》一書，作者：楊双子／春山出"
+          "title": "中山、高雄大學併校最快2028掛牌！進度與爭點一次看",
+          "link": "https://www.gvm.com.tw/article/130272",
+          "published": "2026-05-21T18:32:00",
+          "summary": "延宕多年的國立中山大學與國立高雄大學合併案，在面臨少子化海嘯與半導體產業崛起的雙重背景下，重新啟動協商。目前，雙方已共組「合校工作委員會」，若後續程序順利，最快將於2028年8月1日正式掛牌，期望透過優勢互補創造一加一大於二的雙贏局面。對兩校來說，合併各自有哪些利弊得失？合併案卡關的原因是什麼？要怎麼解決？《遠見》整理一次看。多年後重啟合併案，少子化與半導體熱潮成推力中山大學與高雄大學的合併討論由"
         },
         {
-          "title": "拚AI！Meta全球大裁員8千人、關6千筆職缺，員工強烈反彈",
-          "link": "https://www.gvm.com.tw/article/130246",
-          "published": "2026-05-20T18:09:00",
-          "summary": "臉書母公司Meta今天向員工發送備忘錄，說明本週將執行的裁員計畫，並指出這次在全球精簡人力，將配合新一波的組織架構調整，目的是要改善人工智慧（AI）工作流程。路透社先前報導，Meta計劃在5月20日正式發送解僱通知，裁減10%員工，約8000人，並另有一波更大規模的裁員行動，預計今年稍後執行。根據路透社所見備忘錄，Meta人力資源主管蓋爾（Janelle Gale）告訴員工說，公司計劃另將7000"
+          "title": "首檔「不配息主動台股ETF」00407A將開募！凱基投信瞄準「被低估」AI股",
+          "link": "https://www.gvm.com.tw/article/130271",
+          "published": "2026-05-21T18:27:00",
+          "summary": "今年2月，號稱首支「不配息0050」的凱基台灣TOP 50 ETF（009816），上市才三個月規模就突破千億！如今凱基趁熱再推第一檔「不配息」主動式台股ETF、凱基台灣主動式ETF（00407A），這次能否再刷新紀錄？台股今（21）日創史上第五大漲點、收盤大漲1300多點，收在41368點；台積電也收漲45元，收在2230元。單日千點漲幅帶動台股ETF的新一波攻勢。凱基投信於今年2月發行首檔不配"
         },
         {
-          "title": "台灣沉浸式作品成熟多元！經典重返坎城影展掀話題",
-          "link": "https://www.gvm.com.tw/article/130245",
-          "published": "2026-05-20T17:29:00",
-          "summary": "2026年坎城影展與坎城電影市場展於法國坎城登場，台灣許多作品都被國際看見，令人期待未來的發展。台灣內容在影展與市場展兩端同步發聲，從沉浸式競賽、經典修復到出版IP提案與開發中項目，形成跨媒介、多節點的曝光。文化內容策進院透過入圍入選、產業活動與市場媒合，串聯影展現場與市場端的互動節奏，持續放大台灣內容在國際產業鏈中的能見度。文策院董事長王時思今年親自率團前進坎城，於影展放映、產業論壇與市場展場之"
+          "title": "每100位長輩就有8人失智！失智保單有用嗎？跟長照險不同？",
+          "link": "https://www.gvm.com.tw/article/130270",
+          "published": "2026-05-21T18:26:00",
+          "summary": "隨著台灣邁入超高齡社會，失智症人口與長照負擔持續攀升，我們需要失智保單嗎？過去保險商品多聚焦於失智失能後的長照理賠，如今保險業開始將保障往前延伸，陸續推出涵蓋輕度失智、認知功能障礙初期給付的失智症相關保單，並結合AI腦力檢測、基因分析與健康管理服務，希望從「事後理賠」進一步走向「提前預防」與「早期介入」。許多家庭一開始往往都把失智症誤以為是正常老化，直到長輩開始忘記回家的路、記不住提款密碼，甚至出"
         },
         {
-          "title": "輝達財報將公布！專家：AI泡沫不會破，只因台積電這個關鍵決策",
-          "link": "https://www.gvm.com.tw/article/130244",
-          "published": "2026-05-20T17:23:00",
-          "summary": "輝達即將公布2027財年首季財報，市場看好營收會再度超出預期。黃仁勳與戴爾指出，AI基礎建設仍面臨記憶體與先進晶片短缺。而知名科技投資人貝克則認為，台積電刻意保守擴產、限制供應速度，是避免AI泡沫失控的關鍵。輝達將於美國時間20日美股盤後（台灣時間21日凌晨），公布備受矚目的2027財年第一季財報，市場普遍預期，營收及每股盈餘將超出預期，主要得益於B300晶片量產速度快於預期。另一方面，輝達執行長"
+          "title": "Google前CEO為何遭噓？畢典演說談AI，引爆美國年輕世代就業恐懼",
+          "link": "https://www.gvm.com.tw/article/130269",
+          "published": "2026-05-21T18:24:00",
+          "summary": "日前Google前執行長施密特在美國亞利桑那大學畢典演說談到AI衝擊，遭現場上萬名畢業生報以噓聲。面對年輕世代對就業前景的焦慮，施密特坦言理解他們的恐懼，並勉勵新鮮人應主動塑造AI，而非反過來被其塑造。「問題不在於AI是否會塑造世界。它一定會。真正的問題是，你們是否能塑造AI。」美國哈佛大學甘迺迪學院（Harvard Kennedy School）政治研究所去年底一項民調結果指出，高達59%的18"
         },
         {
-          "title": "《出口成髒》展現對妥瑞氏症最大的溫暖與幽默！真正折磨人的，往往是社會對疾病的無知",
-          "link": "https://www.gvm.com.tw/article/130241",
-          "published": "2026-05-20T17:13:00",
-          "summary": "電影《出口成髒》由柯克瓊斯執導、編劇，羅伯特阿拉馬約、瑪克辛皮克、彼得穆蘭主演，描述妥瑞氏症患者約翰戴維森的真實故事。許多人對於妥瑞氏症（Tourette syndrome）的第一印象，往往停留在「突然罵髒話」或「控制不了自己的怪異行為」，但事實上，這是一種長期被誤解的神經發展疾病。1885年，法國醫生喬治吉勒德拉妥瑞（Georges Gilles de la Tourette）首次系統性地描述這"
+          "title": "2027行事曆出爐：3日以上連假9個、春節放7天！請假攻略一次看",
+          "link": "https://www.gvm.com.tw/article/130268",
+          "published": "2026-05-21T18:11:00",
+          "summary": "2027年行事曆出爐了！人事總處於5月21日發布新聞稿，公布116年（西元2027年）政府行政機關辦公日曆表。2027年有幾個連續假期？春節在何時？上班族如何請假拉長假期？一次整理。目錄● 2027國定假日重點● 2027國定假日一覽表● 2027請假攻略● 2027高中生升大學考試日程2027國定假日重點1. 2027年農曆春節假期：共放假7天，2/4（四）小年夜到2/10（三）初五2. 3天以"
         },
         {
-          "title": "念政大也能切入半導體鏈！鳳凰城實習、ASU供應鏈研習營有多夯？",
-          "link": "https://www.gvm.com.tw/article/130242",
-          "published": "2026-05-20T16:58:00",
-          "summary": "半導體產業帶動台灣經濟蓬勃成長，也吸引大量學生投入理工科系，不過在這場高科技熱潮中，身為人文社科龍頭的政治大學也並沒有缺席，校方正積極攻占全球半導體供應鏈版圖！政大不僅與美國亞利桑那州鳳凰城市政府簽訂直接合作協議，更攜手亞利桑那州立大學（ASU）推出「供應鏈卓越計畫國際研習營」，結合本身財經商務強項，積極培育具備跨域能力的國際供應鏈人才。首創直通鳳凰城市政府實習政大學務長蔡炎龍透露，政大已成功與台"
+          "title": "小睡5分鐘也很好！研究證實：上班時的午睡能帶來截然不同的改變",
+          "link": "https://www.gvm.com.tw/article/130264",
+          "published": "2026-05-21T17:08:00",
+          "summary": "也許，你總是會覺得上班時非常的疲憊，但若認真的執行午休，即便是小睡5分鐘，結果可能會很不一樣。對許多上班族來說，午後三點的辦公室，總有一種很安靜的疲憊感正在蔓延。有人盯著電腦發呆，有人打開信件卻遲遲沒有回覆，更多的人則是不斷喝咖啡，試圖讓自己保持清醒，這樣的疲憊，似乎成了上班族最日常的狀態。而對那些習慣熬夜、又沒有午睡習慣的人，比起真正休息，工作時更習慣逼自己繼續撐下去。原本應該能稍微喘口氣的午餐"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "聯大通過落實國際法院氣候裁決美國等8國投反對票| 中央廣播電臺 - LINE TODAY",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/yzWRL9E&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2_LzSlhGjr5ipWifRmlZsp",
-          "published": "2026-05-21T00:18:41+00:00",
-          "summary": "包括美國、沙烏地阿拉伯、俄羅斯、以色列、伊朗、葉門、賴比瑞亞與白俄羅斯投下反對票。至於聯合國氣候變化綱要公約第31次締約方會議(COP31)主辦國土耳其、印度&nbsp;..."
+          "title": "市政新聞-中市5/28辦特定工廠<b>淨零</b>成果發表會助產業掌握低碳轉型關鍵 - 臺中市政府",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.taichung.gov.tw/3281839/post&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0PEbwJ8dZC9VANHE7k_0rR",
+          "published": "2026-05-22T02:31:02+00:00",
+          "summary": "面對淨零碳排、供應鏈減碳與企業永續轉型趨勢，台中市政府經發局將於5月28日下午2時，在逢甲大學人言大樓B1啟垣廳舉辦「淨零先鋒綠動台中—台中市特定工廠淨零&nbsp;..."
         },
         {
-          "title": "聯合國投票通過一項決議加強損害賠償責任制 - RFI",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rfi.fr/tw/%25E5%259C%258B%25E9%259A%259B/20260520-%25E8%2581%25AF%25E5%2590%2588%25E5%259C%258B%25E6%258A%2595%25E7%25A5%25A8%25E9%2580%259A%25E9%2581%258E%25E4%25B8%2580%25E9%25A0%2585%25E6%25B1%25BA%25E8%25AD%25B0-%25E5%258A%25A0%25E5%25BC%25B7%25E6%2590%258D%25E5%25AE%25B3%25E8%25B3%25A0%25E5%2584%259F%25E8%25B2%25AC%25E4%25BB%25BB%25E5%2588%25B6&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0U-F-gdPDXv9PmrAC019q9",
-          "published": "2026-05-20T22:24:21+00:00",
-          "summary": "聯合國大會5月20日通過一項決議，加強各國的氣候義務。儘管主要溫室氣體排放國已做出讓步，但環保人士仍認為該決議至關重要。瓦努阿圖常駐聯合國代表奧多·特維&nbsp;..."
+          "title": "環境部<b>淨零</b>綠領人才培育聯盟「資源循環」加值課程簡章",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ilepb.gov.tw/OpenAttch_id.ashx%3Fguid%3D7427b593-89e4-4996-b0be-392f7869b821&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2yvsJW40SwFEY6DR5EvSYx",
+          "published": "2026-05-22T01:14:46+00:00",
+          "summary": "報名者所填寫報名表之各項資料及所附文件均須經其本人詳實核對確認所. 附證明文件俱確實無訛，並自行簽章。如有偽造或變造情事者，需自負法律."
         },
         {
-          "title": "台積電綠色製造部副處長曾惠馨：台積電<b>淨零</b>藍圖綠色製造全面升級 - 自由財經",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/article/paper/1755622&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1BT4-RwVlcG9Vty24BRvT6",
-          "published": "2026-05-20T21:34:28+00:00",
-          "summary": "在淨零路徑規劃上，曾惠馨說，台積電已承諾二〇五〇年達成淨零排放目標，同時也是台灣首家加入RE一〇〇倡議企業，規劃提前於二〇四〇年達成一〇〇％使用再生能源。"
+          "title": "<b>氣候變遷</b>雪量減少人造雪是滑雪場救星還是環境殺手？ - 倡議家",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ubrand.udn.com/ubrand/amp/story/123658/9500312&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1OJWf4Iq7PnYKxgIEYC00c",
+          "published": "2026-05-22T00:27:04+00:00",
+          "summary": "歐洲的滑雪場佔全球雪場一半，其年營業額高達300億歐元，不過發布在期刊《自然氣候變化》（Nature Climate Change）2023年的一份研究顯示，氣溫每上升攝氏2&nbsp;..."
         },
         {
-          "title": "學者觀點－能源危機下的<b>淨零</b>考驗 - 中時新聞網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/newspapers/20260521000237-260210&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0sbd9o9PajiV7deMnVXW7M",
-          "published": "2026-05-20T20:28:51+00:00",
-          "summary": "因此，諸如再生能源設備、儲能裝置與智慧電網等，不僅是減緩氣候變遷之工具，往後更將成為能源安全戰略的關鍵環節。 然則，各國資源稟賦多寡不同，恐讓減碳進程轉趨&nbsp;..."
+          "title": "賴總統：營建業<b>淨零</b>重要力量- 日報- 工商時報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260522700110-430101&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1G10n1xdThkITBuYrP3Ix0",
+          "published": "2026-05-21T22:39:26+00:00",
+          "summary": "淨零建築三階段里程碑總統賴清德21日表示，面對全球氣候變遷挑戰，營建產業不僅是台灣經濟發展重要支柱，更是邁向2050淨零轉型不可或缺的重要力量。"
         },
         {
-          "title": "【即時新聞】資料中心爆發用電荒！Bloom Energy(BE)首季營收翻倍獲外資狂升目標價",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://cmnews.com.tw/article/newsyoudeservetoknow-5a5c1311-5486-11f1-9f68-1b111262d509&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3I5nvh6BTt3_a2G57tGHap",
-          "published": "2026-05-20T20:28:10+00:00",
-          "summary": "受惠於資料中心與半導體產業龐大的用電需求，Bloom Energy(BE)第一季營收翻倍成長，吸引外資機構接連上調目標價，成為近期美股市場備受矚目的氣候變遷概念股。"
+          "title": "賴總統：營建業<b>淨零</b>重要力量|半導體|產業新聞|產科國際所【IEK產業情報網】",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D0%26nsl_id%3D318be33f97964c46b14f3f597163f2d1&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2h_MUKEjrTRyYRh7L9cce2",
+          "published": "2026-05-21T22:25:51+00:00",
+          "summary": "特別是面對全球氣候變遷的挑戰，他說，營建產業不僅是台灣經濟發展的重要支柱，更是 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
         },
         {
-          "title": "新北TOD3.0階都計案正式上路城鄉局：持續打造<b>淨零</b>宜居新城市| 勁報 - LINE TODAY",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/GgrkKmP&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2rpGLGZpFXkMDXtvHX-0kb",
-          "published": "2026-05-20T19:48:23+00:00",
-          "summary": "圖說：汐止東湖線SB13站周邊地區現況圖。 城鄉發展局黃國峰局長表示，新北TOD自108年推動至迄今，已有不錯的成果，如市府已透過&nbsp;..."
+          "title": "賴總統：營建業<b>淨零</b>重要力量- 產業特刊 - 中時新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/newspapers/20260522000279-260210&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0w3jMcyP950spwoEUhYJ2F",
+          "published": "2026-05-21T20:31:57+00:00",
+          "summary": "總統賴清德21日表示，面對全球氣候變遷挑戰，營建產業不僅是台灣經濟發展重要支柱，更是邁向2050淨零轉型不可或缺的重要力量。他說，淨零轉型不能只仰賴政府單&nbsp;..."
         }
       ]
     }
