@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-05-24T05:01:01.921232+00:00",
-    "date": "2026-05-24",
+    "generated_at": "2026-05-25T05:20:10.044629+00:00",
+    "date": "2026-05-25",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -10,41 +10,84 @@
     {
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
-      "items": []
+      "items": [
+        {
+          "title": "歐洲想擺脫「數位美元化」，37 家銀行推歐元穩定幣反攻：為何歐洲央行反而踩煞車？",
+          "link": "https://techorange.com/2026/05/25/ecb-rejects-euro-stablecoin-rule-easing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-25T04:54:35+00:00",
+          "summary": "在全球高達 3,220 億美元的穩定幣流通量中，大約 99% 都與美元掛鉤；相較之下，包含 Circle 的 EURC 在內的所有歐元穩定幣，加總起來僅占全球供應量的 0.3%。如此懸殊的差距，正讓歐洲面臨嚴峻的「數位美元化」（digital dollarisation）危機與金融主權焦慮。 歐洲在日常支付基礎設施上，早已高度依賴 Visa、Mastercard、Apple 與 Google 等美"
+        },
+        {
+          "title": "AI 公文走入行政校務，淡江大學邁向智慧校園 3.0",
+          "link": "https://techorange.com/2026/05/25/ai-tku-icampus-speed/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-25T03:11:29+00:00",
+          "summary": "「以前我們在處理公文簽核時，可能都要在座位上才有辦法簽。」淡江大學資訊處石貴平資訊長寓意深長地描述過往經驗。這句話的背後，是一所橫跨三校區、約 2,000 位行政人員、每年近 2 萬件收發公文的大學，長年依賴紙本與定點簽核撐起整個行政體系的現實。 淡江大學設有淡水、台北、蘭陽三個校園，各有獨立的行政運作需求。多校園的行政協作本來就不容易，再加上校內每年收發公文近 2 萬件、內部簽辦約 7 至 8 "
+        },
+        {
+          "title": "花 100 億美元蓋一座城：Toyota 豐田 Woven City 的實驗現場報告",
+          "link": "https://techorange.com/2026/05/25/toyota-and-woven/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-25T02:42:58+00:00",
+          "summary": "2020 年的消費電子展上，Toyota 豐田執行長豐田章男宣布要在一座廢棄工廠舊址上，打造一座供研究員、工程師與科學家共同生活工作的未來城市。五年後，這座耗資估計 100 億美元的城市已有第一批住民入住。 為什麼豐田要蓋一座城 Woven City 的核心設計邏輯，源自豐田對自動駕駛安全的一個判斷：車輛本身的感測器不夠用。豐田 Woven City 技術長 John Absmeier 指出，Wa"
+        },
+        {
+          "title": "AI 時代需要全新領導方式，專家提 90 天 AI 轉型實踐框架",
+          "link": "https://techorange.com/2026/05/25/make-ai-ready-leadership-in-90-days/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-25T02:09:15+00:00",
+          "summary": "瑞士洛桑國際管理發展學院（IMD）執行研究員 Faisal Hoque，提出一套培養 AI 時代企業領導團隊的 90 天實踐框架，涵蓋評估、發展與嵌入等階段，培養高管 AI 時代下所需要的領導力。"
+        },
+        {
+          "title": "當 AI 不看廣告，只看資料：品牌行銷邏輯從頭改寫的三大策略",
+          "link": "https://techorange.com/2026/05/25/agentic-ai-purchase/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-25T01:51:55+00:00",
+          "summary": "根據麥肯錫於 2025 年公布的研究，預計到 2030 年，美國由 AI 代理人驅動的代理式商務市場規模將達到 1 兆美元，全球市場更上看 5 兆美元。IBM 今年的研究則指出，目前已有 45% 消費者在購物流程中使用 AI 工具協助決策，代表 AI 已開始介入零售消費的重要環節。 這意味著，當消費者開始把「該買什麼」交給 AI 判斷，零售產業的遊戲規則也正在被改寫。過去，品牌行銷的核心是吸引人的"
+        },
+        {
+          "title": "【科技早餐】AI 競爭從太空基建燒到企業人力預算，6.1 兆美元知識勞動力市場浮上檯面",
+          "link": "https://techorange.com/2026/05/25/ai-competition-expands-from-space-infrastructure-to-enterprise-labor-budgets/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-24T22:50:00+00:00",
+          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊SpaceX 星艦 V3 闖過關鍵試飛，太空基建離商業化還差最後幾步 SpaceX 最新升級版星艦（Starship）V3 完成首次試飛。這次任務從德州 Starbase 發射，Starship 上段雖在飛行過程中失去一具引擎，仍成功部署模擬星鏈（Starlink）衛星，並完成大氣層重返與印度洋受控濺落。 不過，推進器沒有完成原定返航程序，顯示這"
+        }
+      ]
     },
     {
       "feed_name": "遠見雜誌 - 前進的動力",
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "睡眠時間多久才夠？睡多睡少都會影響器官衰老，最新研究：最理想每天6.4~7.8小時",
-          "link": "https://www.gvm.com.tw/article/130277",
-          "published": "2026-05-23T16:00:00",
-          "summary": "睡眠時長與身體整體健康程度息息相關，一篇新研究進一步表明，睡太少或睡太多幾乎與所有器官加速老化有關，最理想睡眠時間落在每天 6.4～7.8 小時之間。老化時鐘（Aging clock）是根據人體生物數據如：血液、蛋白質、DNA 甲基化，利用機器學習法估算一個人的「生理年齡」與實際年齡差多少之指標。針對各個器官建立專屬老化時鐘，哥倫比亞大學羅伊與黛安娜瓦格洛斯內外科醫學院（VP&amp;S）放射學家"
+          "title": "第十六屆聯電經營管理論文獎「管理學界論文奧斯卡獎」締造典範殿堂",
+          "link": "https://www.gvm.com.tw/article/130023",
+          "published": "2026-05-25T00:00:00",
+          "summary": "擁有「管理學界論文奧斯卡獎」美譽的聯電經營管理論文獎，2026年4月28日於臺北「樹心會館」舉行第十六屆頒獎典禮，中西音樂交織中象徵產官學研共振、產學傳承。由社團法人中華民國管理科學學會主辦、聯華電子股份有限公司贊助的「聯電經營管理論文獎」，邁入第十六年，已成為臺灣管理研究的重要指標。論文獎主任委員許士軍深有所感，任教逾60年以來，見證「管理學」隨著時代變遷，逐步發展為「治理科學」。聯電經營管理論"
         },
         {
-          "title": "馬英九需要？輔助宣告是什麼？馬以南遞狀聲請，北院本周已收分案",
-          "link": "https://www.gvm.com.tw/article/130305",
-          "published": "2026-05-23T13:06:00",
-          "summary": "馬英九基金會傳出財政紀律案延燒多時，前總統馬英九妻子周美青、胞姊馬以南發布聲明，盼馬英九真正退休安享餘年。據悉，馬家人已向北院遞狀，案由是輔助宣告，北院本週已收分案。根據司法院官方網站，所謂「輔助宣告」，指的是因精神障礙或其他心智缺陷，致其為意思表示或受意思表示，或辨識其意思表示效果的能力，顯有不足者，法院得依聲請人的聲請，為輔助之宣告，並同時選出一位輔助人來幫助受輔助宣告人處理事情，像是受輔助宣"
+          "title": "家庭主婦月領5000！生一個小孩政府給108萬，賴清德加碼再拋福利",
+          "link": "https://www.gvm.com.tw/article/130309",
+          "published": "2026-05-24T22:24:00",
+          "summary": "總統賴清德24日在嘉義市表示，政府除規劃提供0到18歲每人每月新台幣5000元的成長津貼，「也要讓沒有公保、勞保、農保僅有國民年金的家庭主婦（夫），一個月至少領5000元」。賴總統24日前往嘉義王靈宮五顯帝廟參拜，並向在場鄉親說明政府近日推出的福利政策。賴總統提到對未成年孩子照顧時說，明年從0歲到18歲每月領新台幣5000元，「18年可領108萬元」，父母可以將這筆錢部分提存，讓孩子長大後有錢讀大"
         },
         {
-          "title": "川普拿軍售當籌碼？美跨黨派議員提決議案挺台，重申台灣關係法六項保證",
-          "link": "https://www.gvm.com.tw/article/130304",
-          "published": "2026-05-23T11:24:00",
-          "summary": "美國總統川普在川習會後表示，很快會就新一批對台軍售做出決定。美國跨黨派聯邦參議員今天提出一項決議案，重申台灣關係法及對美台夥伴關係的支持，同時也重申六項保證，包括不會在對台軍售議題上，和北京諮商。美國聯邦參議院外交委員會發布新聞稿指出，參院外委會民主黨首席議員夏亨（Jeanne Shaheen）及「參院台灣連線」共同主席、共和黨參議員提里斯（Thom Tillis）提出一項決議案，重申1979年台"
+          "title": "基金會風波延燒！不認同調查結果，馬英九：將循訴訟程序追究蕭王責任",
+          "link": "https://www.gvm.com.tw/article/130308",
+          "published": "2026-05-24T18:29:00",
+          "summary": "馬英九基金會三人調查小組今（24）日指出，無法證明前幕僚蕭旭岑、王光慈確有違反財政紀律之情。前總統馬英九表示，調查結果與基金會掌握的具體事證差距過大，他已決定委任戴遐齡等人儘快召開記者會，說明相關事證，循相關訴訟程序追究蕭、王兩人責任。馬英九基金會日前成立調查小組，調查前幕僚蕭旭岑、王光慈是否違反財政紀律。調查小組今天表示，蕭旭岑並未經手基金會財務，而負責財務的王光慈提出相關帳務紀錄及憑據完整，無"
         },
         {
-          "title": "國中「教學正常化」失靈？最新調查：逾8成在早自習考試、近6成被老師借課",
-          "link": "https://www.gvm.com.tw/article/130275",
-          "published": "2026-05-23T11:00:00",
-          "summary": "兒盟調查，目前仍有近6成國中生遭學校老師借課、超過8成在早自習考試，甚至有學校以「練習」名義變相規避評量規範；此外，校方取消下課、挪用午休的情況依然普遍。兒福聯盟日前發布「2026台灣國中教學正常化調查」結果。兒盟指出，對比2015年與2026年的調查數據，以借課為例，比例雖從82%降至58.7%，但實際上仍有超過半數國中生曾有被借課的經驗；借課情形隨年級上升而加劇，從七年級的55.7%攀升至八、"
+          "title": "川普人在裡面！白宮槍擊案釀1死1重傷，槍手身分曝光「自稱是真正賓拉登」",
+          "link": "https://www.gvm.com.tw/article/130307",
+          "published": "2026-05-24T11:13:00",
+          "summary": "美國白宮今（24）日驚傳槍擊事件，美國特勤局（Secret Service）表示，一名男子在白宮外安全檢查哨朝特勤局人員開火，遭特勤局當場擊斃，另有1名路人中彈，總統川普（Donald Trump）未受影響。CNN引述多名執法消息人士指出，槍手為21歲男子納西爾．貝斯特（Nasire Best），過去多次試圖闖入白宮周邊，曾因情緒問題遭發布「遠離令」（stay-away order），還曾在社群媒"
         },
         {
-          "title": "環境差很大！老化速度不只取決基因，史丹佛研究：住哪裡也有關",
-          "link": "https://www.gvm.com.tw/article/130274",
-          "published": "2026-05-23T07:00:00",
-          "summary": "決定老化速度的因素，可能不只來自基因。雖然基因在老化過程中扮演關鍵作用，但一項針對世界各地人群的新研究顯示，重要的不只是一個人的出身，居住的地理位置似乎也會影響老化速度。史丹佛大學遺傳學家從世界各地招募&nbsp;322&nbsp;人進行深入分析，他們分別具有歐洲、東亞和南亞血統。研究人員不只研究&nbsp;DNA，還納入各種健康生物標記物，如蛋白質、脂肪、腸道細菌、免疫標記和代謝物，將所有指標結"
+          "title": "每天狂跑廁所好焦慮！近萬名IBD病友苦撐，醫界籲別再強制停藥",
+          "link": "https://www.gvm.com.tw/article/130284",
+          "published": "2026-05-24T11:00:00",
+          "summary": "台灣近萬名發炎性腸道疾病，含克隆氏症與潰瘍性結腸炎患者，多為20至40歲社會中堅份子，因現行健保規範面臨中斷治療與反覆切腸危機，醫界籲重新檢視健保給付，爭取醫療平權。5月19日是「世界發炎性腸道疾病日（World IBD Day）」，台灣腸保健康協會透過新聞稿公布最新2026年IBD病友現況調查，發現高達84.1%病友極度擔憂疾病引發腸狹窄或罹癌等長期併發症；64.4%因疾病突然復發的不可預測性，"
+        },
+        {
+          "title": "眼睛乾不是小問題！乾眼症是免疫疾病警訊，長庚研究：可提前3年預警",
+          "link": "https://www.gvm.com.tw/article/130282",
+          "published": "2026-05-24T07:00:00",
+          "summary": "眼睛乾澀、異物感，乾眼症堪稱現代文明病，長庚最新醫學研究發現，乾眼症暗藏10種自體免疫疾病警訊，平均較正式診斷早3年出現，若長期乾澀且治療效果不佳，當心免疫系統求救信號。基隆長庚醫院眼科部與國家衛生研究院團隊透過全民健保資料庫，針對逾6.7萬名自體免疫疾病患者進行長達10年的追蹤研究。結果顯示，乾眼症往往是系統性發炎反應的首發表現，平均領先自體免疫疾病診斷約3年至3.7年。這項重大發現已於2026"
         }
       ]
     },
@@ -53,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "從元件到系統強化技術研發|半導體|產業新聞|產科國際所【IEK產業情報網】",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D1%26nsl_id%3D2f6aa44350fd44f4b6b20097b0fa5ba5&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw13NVYLrxX2Lki6K3sX5RJE",
-          "published": "2026-05-23T22:43:01+00:00",
-          "summary": "看好全球淨零排放、低碳移動等市場趨勢，以及國際電動車市場不斷擴大的發展機會，即 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
+          "title": "中興電通過配息6元創高，董座稱AI算力與能源轉型成長動能無虞 - 財訊快報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.investor.com.tw/onlineNews/NewsContent.asp%3FarticleNo%3D14202605250075&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2EedJ2Jnx_cq25hzp4LUSE",
+          "published": "2026-05-25T02:28:34+00:00",
+          "summary": "展望2026年，董事長江馥年指出，AI算力及淨零轉型改寫全球對新能源的需求，中興電各大事業群都有完整規劃，掌握市場趨勢，新能源商機會帶動公司業績及市值&nbsp;..."
         },
         {
-          "title": "談談暴雨警告及局部地區大雨- 天文台網誌",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hko.gov.hk/tc/%25E5%25A4%25A9%25E6%2596%2587%25E5%258F%25B0%25E7%25B6%25B2%25E8%25AA%258C/110589/%25E8%25AB%2587%25E8%25AB%2587%25E6%259A%25B4%25E9%259B%25A8%25E8%25AD%25A6%25E5%2591%258A%25E5%258F%258A%25E5%25B1%2580%25E9%2583%25A8%25E5%259C%25B0%25E5%258D%2580%25E5%25A4%25A7%25E9%259B%25A8&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3YhV-KYBe4tncz4PKVyKYi",
-          "published": "2026-05-23T18:45:25+00:00",
-          "summary": "來到雨季，天文台不時都會收到有關雷暴或大雨的查詢，有時天文台發出了暴雨警告，有些市民感覺雨勢很大，但有些市民感覺雨勢不大。"
+          "title": "中興電通過配息6元估今年營運市值穩定成長 - 放言Fount Media",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.fountmedia.io/article/383875&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw32K6UCDHy02sZjSSCau6Ij",
+          "published": "2026-05-25T02:17:31+00:00",
+          "summary": "（中央社記者鍾榮峰桃園25日電）重電廠中興電工董事長江馥年今天表示，AI算力及淨零轉型改變全球對新能源需求，政策支持為中興電營運帶來長期發展動能，&nbsp;..."
         },
         {
-          "title": "<b>氣候變遷</b>衝擊全球植物！研究：2100年近兩成物種恐面臨滅絕危機 - Yahoo新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E8%25A1%259D%25E6%2593%258A%25E5%2585%25A8%25E7%2590%2583%25E6%25A4%258D%25E7%2589%25A9-%25E7%25A0%2594%25E7%25A9%25B6-2100%25E5%25B9%25B4%25E8%25BF%2591%25E5%2585%25A9%25E6%2588%2590%25E7%2589%25A9%25E7%25A8%25AE%25E6%2581%2590%25E9%259D%25A2%25E8%2587%25A8%25E6%25BB%2585%25E7%25B5%2595%25E5%258D%25B1%25E6%25A9%259F-105822756.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0Sin_hlJyO-ja1aHRC7_il",
-          "published": "2026-05-23T17:12:52+00:00",
-          "summary": "根據《科學》（Science）期刊最新研究，氣候變遷正迅速縮減全球植物的生存空間。科學家分析超過6.7萬種維管束植物，發現到本世紀末，高達16%的物種可能失去九成&nbsp;..."
+          "title": "AI<b>淨零</b>／崇越布局能源事業攜手創意電子打造低碳運算中心 - 中央社",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/news/afe/202605250029.aspx&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0he1kJZuymh7R85AhzUP9m",
+          "published": "2026-05-25T02:06:49+00:00",
+          "summary": "崇越科技積極布局能源事業，今天宣布集團旗下鼎越創能，協助創意電子在苗栗竹南圖靈中心建置規模達2.6MW（百萬瓦）的博隆能源固態氧化物燃料電池發電（SOFC）系統，&nbsp;..."
         },
         {
-          "title": "2026兩岸<b>碳中和</b>大會福州登場李奇嶽分享以ARO模式推動兩岸減碳旅行新合作 - Yahoo新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/2026%25E5%2585%25A9%25E5%25B2%25B8%25E7%25A2%25B3%25E4%25B8%25AD%25E5%2592%258C%25E5%25A4%25A7%25E6%259C%2583%25E7%25A6%258F%25E5%25B7%259E%25E7%2599%25BB%25E5%25A0%25B4-%25E6%259D%258E%25E5%25A5%2587%25E5%25B6%25BD%25E5%2588%2586%25E4%25BA%25AB%25E4%25BB%25A5aro%25E6%25A8%25A1%25E5%25BC%258F%25E6%258E%25A8%25E5%258B%2595%25E5%2585%25A9%25E5%25B2%25B8%25E6%25B8%259B%25E7%25A2%25B3%25E6%2597%2585%25E8%25A1%258C%25E6%2596%25B0%25E5%2590%2588%25E4%25BD%259C-164930225.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2R8Cy18Ht62k4f-ZYEP7IF",
-          "published": "2026-05-23T16:59:28+00:00",
-          "summary": "李奇嶽在會中指出，觀光產業並非傳統所稱的「無煙囪工業」，旅遊過程中的交通移動、住宿能源、餐飲供應及景區活動，都會產生碳排。面對全球淨零趨勢，觀光業不能只&nbsp;..."
+          "title": "《ESG》群益證辦永續論壇攜產官學引領<b>淨零</b>轉型 - 旺得富理財網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20260525900213-420101&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1H1QxmG01gxPK37bixeNOC",
+          "published": "2026-05-25T01:55:40+00:00",
+          "summary": "群益證總經理李文柱及獨董李伸一、林蒼祥、蘇秋霞、董事周賢陽，均親自出席支持。 李文柱表示，面對氣候變遷、淨零轉型及AI科技&nbsp;..."
         },
         {
-          "title": "高市都發局推動社區培力強化社區營造量能6月續辦<b>淨零</b>永續與生態檢核課程 - 行銷人",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.marketersgo.com/media-collaboration/202605/%25E9%25AB%2598%25E5%25B8%2582%25E9%2583%25BD%25E7%2599%25BC%25E5%25B1%2580%25E6%258E%25A8%25E5%258B%2595%25E7%25A4%25BE%25E5%258D%2580%25E5%259F%25B9%25E5%258A%259B%25E3%2580%2580%25E5%25BC%25B7%25E5%258C%2596%25E7%25A4%25BE%25E5%258D%2580%25E7%2587%259F%25E9%2580%25A0%25E9%2587%258F%25E8%2583%25BD%25E3%2580%25806%25E6%259C%2588/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2eD-X8y3YkrqMLREIrZeoe",
-          "published": "2026-05-23T16:51:23+00:00",
-          "summary": "都發局局長吳文彥表示，本次培訓課程以「淨零永續」、「地方創生」及「社區治理」為核心，除導入淨零碳排與綠生活觀念外，也安排回收資材再利用、生態檢核及植栽&nbsp;..."
+          "title": "中保科董座林建涵接任TSSA會長，聚焦三目標- 新聞- MoneyDJ理財網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3D9c085dfa-98d0-4965-901b-62c4dec75147&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2k-0_DQM8p5FwiE4XqbuKu",
+          "published": "2026-05-25T01:49:22+00:00",
+          "summary": "林建涵指出，全球氣候變遷、城市治理與公共安全需求快速提升，未來智慧 ... 淨零科技解決方案，加速台灣實現淨零目標的步伐，展現台灣推動數位與綠色雙&nbsp;..."
         },
         {
-          "title": "尼泊爾嚮導32度登頂珠峰創紀錄憂<b>氣候變遷</b>致山上無雪",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.worldjournal.com/wj/amp/story/121617/9512292&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw23hNFCvdUMXhR2pUrsROVL",
-          "published": "2026-05-23T16:45:04+00:00",
-          "summary": "路透報導，56歲的卡米．瑞塔（Kami Rita Sherpa）帶領登山公司的客戶，於17日上午10時12分，抵達海拔8849公尺的珠峰（Mount Everest）山頂。"
+          "title": "環教志工齊增能！探尋<b>氣候變遷</b>與成美文化園區在地走讀  (活動花絮",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ylepb.gov.tw/gallery/index-1.asp%3FParser%3D16,3,26,,,,,646&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0f89cP3TjKdAbWLDY7KLpO",
+          "published": "2026-05-25T01:04:10+00:00",
+          "summary": "探尋氣候變遷與成美文化園區在地走讀   本次邀請國立彰化師範大學林宗岐特聘教授，帶領大家深入探討「氣候變遷與生活調適」。不只聊大環境的政策方向，更要&nbsp;..."
         }
       ]
     }
