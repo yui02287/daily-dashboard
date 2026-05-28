@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-05-27T05:15:26.031358+00:00",
-    "date": "2026-05-27",
+    "generated_at": "2026-05-28T05:08:34.049099+00:00",
+    "date": "2026-05-28",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "AI 加速零日漏洞武器化：攻防時間恐從 1 天縮短到 1 分鐘，資安危機從「找不到」變「漏洞修不完」",
-          "link": "https://techorange.com/2026/05/27/zero-day-clock/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-27T04:43:56+00:00",
-          "summary": "AI 輔助工具正以前所未有的速度加快發現與利用漏洞的進程。《Tom&#8217;s Hardware》報導，資安產業過去習慣的 90 天漏洞揭露期，正因 AI 加速攻防而面臨失效危機。近日，由 Sysdig 的 Sergej Epp 所建立、並獲多數科技與資安大廠支持的 Zero-Day Clock（ZDC）網站，就用清晰的數據與圖表點出歷年來資安鬆散所造成的嚴重後果，更在特定頁面中詳細記錄電腦安"
+          "title": "Meta 也想做雲端？祖克柏鬆口考慮出租 AI 算力，背後是數千億美元 AI 基建變現考題",
+          "link": "https://techorange.com/2026/05/28/mark-zuckerberg-says-meta-starting-cloud-business/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-28T04:06:04+00:00",
+          "summary": "Meta 執行長祖克柏（Mark Zuckerberg）近日在年度股東會上表示，若 Meta 的 AI 基礎建設產生多餘容量，進入雲端運算市場是「絕對可以考慮」的選項。事實上，在美國四大超大規模科技公司中，Meta 目前是唯一沒有對外銷售雲端基礎設施與服務的公司。 這個表態之所以值得關注，是因為 Meta 正在投入數千億美元等級的 AI 資料中心建設，而「多餘容量是否對外出租」也開始成為 AI 基"
         },
         {
-          "title": "企業買了 AI 卻跑不起來，FDE 前線部署工程師成為科技業最搶手的職位",
-          "link": "https://techorange.com/2026/05/27/the-forward-deployed-engineer/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-27T03:02:48+00:00",
-          "summary": "企業買了 AI，不代表 AI 能真正運作，而這個落差正在創造出一種新的職能需求。 2025 年 1 到 9 月，前線部署工程師（Forward Deployed Engineer，FDE）的職缺，在美國成長了 800%。Google Cloud、OpenAI、Anthropic 在同一時間裡，相繼宣布大規模投入這個方向。AI 的瓶頸從「能否建構」移到了「能否落地」，而填補這個缺口的人正是 FDE。"
+          "title": "20 人團隊靠 AI Agent 變 150 人戰力：「AI 原生」顧問公司如何瓦解 McKinsey、BCG 的金字塔模式？",
+          "link": "https://techorange.com/2026/05/28/how-ai-threatens-the-giants-of-consulting/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-28T02:42:35+00:00",
+          "summary": "AI 正在以前所未有的速度，削弱大型顧問公司長期依賴的規模優勢。過去，顧問業由 McKinsey、Bain、BCG 等策略巨頭，以及四大會計師事務所與 Accenture 等主導。他們的核心護城河在於「人力規模」，也就是擁有龐大的初階顧問大軍，具備跨越多個地區的交付能力與龐大專案人力。 然而，當研究、摘要資料、製作精美 PowerPoint 簡報等顧問核心工作變得可被高度自動化時，這種霸權首次出現"
         },
         {
-          "title": "從 SEO 到 GEO：AI 正在重寫電商入口，品牌最該避開哪 3 個錯誤？",
-          "link": "https://techorange.com/2026/05/27/three-mistakes-brands-make-in-the-age-of-ai-driven-e-commerce/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-27T02:25:33+00:00",
-          "summary": "過去三十年來，線上零售的運作模式幾乎千篇一律：一個搜尋框、網格狀的商品列表，以及規格說明頁面。然而，這個時代即將隨著 AI 加速發展而終結，因為 AI 並不只是為電商網站新增一個功能，而是以消費者為中心，徹底重塑整個購物流程。 這場巨大的變革包含幾個關鍵轉移：搜尋行為正在從過去的「排序連結清單」轉變為「單一的生成式答案」；產品曝光的貨架空間，正從零售網站轉移到「答案引擎（Answer Engine"
+          "title": "當企業開始管理 15 萬個 AI 代理：Google Cloud 高層解析 AI Agent 導入三大支柱",
+          "link": "https://techorange.com/2026/05/28/ai-google-cloud-moe-abdula/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-28T02:28:28+00:00",
+          "summary": "如果一家企業只有 2 萬名員工，卻同時管理 15 萬個 AI Agent（代理），企業會變成什麼樣子？ 這是 Google Cloud 亞太區技術團隊副總裁 Moe Abdula 在 COMPUTEX 2026 展前論壇演講中拋出的情境。他引用市場研究機構 Gartner 預測指出，到 2026 年底，約 40% 的企業應用程式將具備某種形式的 AI Agent 能力；而 2028 年內，財富 5"
         },
         {
-          "title": "【科技早餐】黃仁勳點出台灣 AI 用電壓力，COMPUTEX、國防 AI 與平台監管同步升溫",
-          "link": "https://techorange.com/2026/05/27/nvidia-ceo-jensen-huang-flags-taiwan-power-pressure-computex-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-26T22:50:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊黃仁勳談 AI 資料中心用電，台灣電力供應成基建新焦點 NVIDIA 執行長黃仁勳近日被問到，台灣能源基礎設施是否足以支撐北士科 AI 資料中心需求時表示，台灣需要更多能源，並說「沒有能源，就沒有經濟成長」。經濟部隨後回應，AI 用電需求已納入整體評估，台灣也已提前部署供電規劃。 經濟部指出，今年底起，台電台中、興達電廠 4 部大型燃氣機組，合計"
+          "title": "150 家公司搶一個還沒成形的市場，中國人形機器人產業的供需失衡有多嚴重？",
+          "link": "https://techorange.com/2026/05/28/chinas-humanoid-robot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-28T01:58:02+00:00",
+          "summary": "中國人形機器人產業的生產端與需求端，正在往兩個完全不同的方向走。目前中國有超過 150 家企業投入這個領域，光去年全球人形機器人出貨量就有九成來自中國，而 Unitree 與 AgiBot 兩家龍頭合計估值衝上 130 億美元。 從這些數字看，產業似乎正在高速起飛，但當摩根士丹利去調查實際買方時，卻是不同的光景。 首先，只有 23% 的受訪企業對市面上的產品感到滿意——電池續航停在兩到三小時，靈巧"
         },
         {
-          "title": "當提示詞變成義大利麵程式碼：難察覺的「AI 技術債」來襲，企業如何跨越治理盲點？",
-          "link": "https://techorange.com/2026/05/26/prompt-debt-retrieval-debt-and-evaluation-debt-quietly-reshaping-enterprise-ai-risk/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-26T11:06:27+00:00",
-          "summary": "《VentureBeat》報導，隨著 AI 快速導入企業營運，AI 技術債正逐漸成為企業數位轉型中的隱形危機。過去二十年間，技術債通常指的是過時架構、混亂程式碼與維護不善的文件，但在 AI 時代，這樣的定義已不足以涵蓋新型態風險。業界專家指出，AI 系統的失效模式更加複雜且難以察覺，相關問題不僅存在於程式碼本身，更橫跨提示詞、模型與資料依賴關係之間，使 AI 債務比傳統技術債更難管理，也更具破壞性"
+          "title": "【科技早餐】NVIDIA 對台支出上看 1,500 億美元，AI 晶片戰從供應鏈燒進國安系統",
+          "link": "https://techorange.com/2026/05/28/nvidia-taiwan-spending-could-reach-150-billion/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-27T22:50:00+00:00",
+          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊黃仁勳稱台灣是 AI 革命中心，NVIDIA 對台支出上看 1,500 億美元 NVIDIA 執行長黃仁勳（Jensen Huang）在台灣員工大會上表示，台灣是 AI 革命的中心，也是 NVIDIA 最重要的供應鏈基地之一。他指出，NVIDIA 過去每年對台灣供應鏈的相關支出約 100 到 150 億美元，如今已達 1,000 億美元，未來更可"
         },
         {
-          "title": "LinkedIn 共同創辦人用 AI 分身省下 50% 工時：企業生產力競爭，正從工具效率轉向「複製高階人才能力」",
-          "link": "https://techorange.com/2026/05/26/ai-agents-work-executive/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-26T08:54:20+00:00",
-          "summary": "總覺得工作永遠做不完嗎？現在，越來越多高階主管找到新解方，就是直接「複製」一個自己。《華爾街日報》報導，儘管目前仍是少數，但一群走在科技尖端的企業高階主管已開始打造專屬的「AI 分身」（AI Replicas），代替自己登台演講、接受媒體採訪，甚至親自為員工解惑。 例如在紐約，紐約梅隆銀行（BNY）資訊長 Leigh-Ann Russell 下班走在街上時，都會習慣性地跟「自己」對話。Leigh-"
+          "title": "從 GPU 主導到 CPU 回溫：Agentic AI 如何改寫企業資料中心配置？",
+          "link": "https://techorange.com/2026/05/27/ai-infrastructure-demand-agentic-era/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-27T09:55:20+00:00",
+          "summary": "過去，AI 基礎設施的討論幾乎完全圍繞在 GPU 算力上。然而，隨著具備自主執行能力的 Agentic AI 逐漸升溫，CPU 與氣冷式（air-cooled）基礎設施正重新成為企業資料中心的焦點。 在近期舉行的 Dell Technologies World 2026 大會上，Dell 與 AMD 將 Agentic AI、CPU 需求與氣冷式設備串聯討論，明確標誌了市場方向的轉變，這也說明雖然"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "《屍速禁區》再造喪屍極致的5大精彩看點！真正可怕的不只喪屍，而是失控的人性",
-          "link": "https://www.gvm.com.tw/article/130392",
-          "published": "2026-05-26T19:28:00",
-          "summary": "電影《屍速禁區》由延尚昊執導，全智賢、具教煥、池昌旭主演，描述因不明病毒導致一棟建築被封鎖，感染者以不可預測的方式不斷進化後，對生還者構成威脅的故事。2016年，由延尚昊執導，孔劉、鄭有美、馬東石主演的韓國電影《屍速列車》橫空出世，它以高速奔馳的列車、令人窒息的生死逃亡，以及對人性的殘酷凝視，徹底改寫全球觀眾對喪屍電影的想像。即便已經過了10年，《屍速列車》依舊是許多人心中難以取代的經典，它不只是"
+          "title": "從造電到造局！泓德能源十周年論壇，喊出成為「亞洲最大電力交易平台」大願景",
+          "link": "https://www.gvm.com.tw/article/130254",
+          "published": "2026-05-28T00:00:00",
+          "summary": "身處全球AI算力需求大爆發、大型資料中心成用電大戶的變局之下，「能源」為何不再是資源，更是驅動商業轉型的關鍵武器？從成立十周年泓德能源的發展，就能略知一二。最初從太陽能案場開發起家，一路跨足儲能、售電與維運領域，並推出整合再生能源、儲能、調度與長期合約等多種組合方案，展現出集團的事業版圖多角化、服務價值鏈多元化。&nbsp;因應十周年紀念展，泓德特別舉辦「HDRE NEXT．能源轉型進行式」論壇。"
         },
         {
-          "title": "香奈兒喜迎下一位老佛爺？新創意總監引爆買氣，突圍精品寒冬",
-          "link": "https://www.gvm.com.tw/article/130419",
-          "published": "2026-05-26T18:43:00",
-          "summary": "香奈兒在精品寒冬中逆勢突圍，新任創意總監布拉齊以創新設計，成功重塑品牌話題與買氣。他融合經典雙C元素與現代風格，帶動搜尋量、門市人潮與銷售成長，讓香奈兒再度成為時尚焦點。外界也開始期待，他是否將成為下一位改寫品牌歷史的「老佛爺」拉格斐。全球各大精品品牌陷入銷售寒冬之際，法國奢侈品牌香奈兒（Chanel）正以空前的「布拉齊狂熱」（Blazymania）強勢回歸時尚王座：新任創意總監布拉齊（Matth"
+          "title": "不靠GPS！黑科技「核子鐘」幫潛艦穿上隱形斗蓬",
+          "link": "https://www.gvm.com.tw/article/130448",
+          "published": "2026-05-27T19:19:00",
+          "summary": "多數人聽到「核子鐘」三個字，都會一臉茫然：與我何干？其實，這項被科學界視為「下一代計時革命」的技術，未來不僅會影響手機導航、自駕開車、地震災害預警，甚至攸關各國的安全與軍事戰略。根據國際軍事網站的最新報導指出，核子鐘正邁入實用階段，可望讓潛艦不用浮出水面，不用靠GPS，就能長期隱匿作戰，它到底是什麼？現代生活，從手機定位、衛星導航、高鐵调度、金融轉帳、網路通訊到地震監測，全都得仰賴「準確的時間」，"
         },
         {
-          "title": "AI Agent如何管理？企業導入前必懂安全三防線",
-          "link": "https://www.gvm.com.tw/article/130418",
-          "published": "2026-05-26T18:18:00",
-          "summary": "當AI從「回答問題的顧問」變成「自動執行任務的實習生」，企業面對的不再只是幻覺與資料外洩，而是系統可能在幾秒鐘內被摧毀的營運危機。給予AI多大的權限？出錯時誰來負責？《遠見》綜合多位資安專家觀點，拆解AI Agent的4大潛在風險，並梳理企業導入前中後必備的3階段安全防線。【目錄】▌為什麼企業開始煩惱AI Agent治理？▌AI Agent有哪些風險？企業導入前最常見的4個治理問題▌AI Agen"
+          "title": "「失智保險」買了真能賠？金管會擬推新政！不只賠現金，服務誰來接？",
+          "link": "https://www.gvm.com.tw/article/130456",
+          "published": "2026-05-27T18:13:00",
+          "summary": "人口老化，失智人口預期持續增加。金管會近期與壽險公司協商，盼失智保險除了現金給付，也能以照護等「實物給付」補上防護網。醫師指出，失智認定本就有灰色地帶；失智症團體則說，服務能否被啟動、串連同樣關鍵。理賠線怎麼畫、服務誰來接，將是政策落地的考驗。台北榮總神經醫學中心神經內科副主任傅中玲指出，失智保險若要往輕度或早期階段延伸，一大挑戰是如何認定；既要避免把「自然老化」與「失智」混為一談，也要讓臨床診斷"
         },
         {
-          "title": "墾丁褪色後屏東旅遊有新亮點！周春米披露觀光推動心法",
-          "link": "https://www.gvm.com.tw/article/130417",
-          "published": "2026-05-26T18:13:00",
-          "summary": "儘管碧海藍天的墾丁魅力近來褪色，但屏東的觀光仍如「鴨子划水」持續進展，2024年總體旅遊人次首度站上3100萬，觀光署的統計資料也顯示，今年3月屏東旅遊人次近320萬人，較去年同期成長53.2%，人次與增長幅度人次來看，均為全國非六都第三。這樣迅猛的成長，靠的就是再造屏東觀光新核心，屏東縣長周春米近日接受《遠見》專訪，透露她的觀光推動心法。白沙、壯麗珊瑚礁岩、多樣的水上活動及一旁熱鬧的人們，這些亮"
+          "title": "台積電砍分紅風暴怎解？魏哲家親開溝通會提「年增30%」",
+          "link": "https://www.gvm.com.tw/article/130454",
+          "published": "2026-05-27T18:03:00",
+          "summary": "近期有不少台積電（2330）員工在特定臉書社團表達不滿，導火線來自市場盛傳公司可能縮減員工分紅。部分員工甚至揚言要比照日前三星工會抗爭模式，醞釀以「三星式罷工」向管理層施壓，引發各界關注。面對相關爭議，魏哲家臨時取消出差行程，今（27）日親自召開員工溝通會，向內部說明公司盈餘分配原則，到底說了什麼？由於最近社群平台上，謠傳台積電將砍員工分紅，引發部分員工不滿在網路上集結揚言抗爭。今日台積電董事長魏"
         },
         {
-          "title": "你花出去的錢能替你賺回多少錢？Meta行銷長親授：如何讓投資報酬率最大化",
-          "link": "https://www.gvm.com.tw/article/130414",
-          "published": "2026-05-26T17:55:00",
-          "summary": "「點擊」是數位行銷的成功關鍵。只有有效點擊，才能將顧客興趣轉化為行動。然而，在實務上，數位行銷遠比想像中困難：預算難以掌控、成效難以評估，甚至連是否真正帶來獲利都說不清楚。當你無法釐清哪些行銷活動真的有效，他人的成功經驗往往也無法複製。（本文節錄自《點擊成長》一書，作者：亞歷克斯．舒茲／天下文化出版，以下為摘文。）一、如果你什麼都不做，會發生什麼事？你應該清楚自己在行銷上花的每塊錢會帶來什麼增幅效"
+          "title": "92% 挑嘴貓竟然主動吃光！這款主食杯到底加了什麼？",
+          "link": "https://www.gvm.com.tw/article/130455",
+          "published": "2026-05-27T18:00:00",
+          "summary": "你家的貓，是不是聞一聞就走？挑嘴、不喝水、毛色暗沉，問題常常出在那一碗飯。愛貓一生主食杯用低溫熟成鎖住營養，全世界獨特配方、6 大亮點一次到位，實測 92% 的挑嘴貓照吃不誤！貓走到飯碗前，聞一聞，頭一甩就走。這一幕，養貓的人太熟悉了，熟到心累。挑食、不愛喝水、毛色越來越暗、腸胃三天兩頭鬧脾氣，你換過一個又一個牌子，貓還是不賞臉。問題到底出在哪？別再怪貓難搞了，很多時候，答案就藏在那一碗飯裡。一碗"
         },
         {
-          "title": "台新銀前理專挪用157萬、2高齡客戶受害，銀行未通報！金管會罰1400萬",
-          "link": "https://www.gvm.com.tw/article/130409",
-          "published": "2026-05-26T17:44:00",
-          "summary": "金管會今天表示，台新銀行前理專挪用客戶款項合計新台幣157萬元，受害者2人皆為高齡客戶，金管會去年進行業務檢查時，發現台新銀行內部發現後決定不向金管會通報重大偶發事件，違反銀行法規定，開罰台新銀行新台幣1400萬元。金管會銀行局副局長王允中今天表示，此案主要有2大樣態，第一，理專人員利用高齡客戶對其信任，到客戶家拜訪時，偷走信用卡，又讓客戶補發新提款卡時，以舊提款卡調包新提款卡，且透過客戶來銀行辦"
+          "title": "國巨股價飆破700！台灣新首富陳泰銘，談讓輝達放心合作靠這點",
+          "link": "https://www.gvm.com.tw/article/130453",
+          "published": "2026-05-27T17:46:00",
+          "summary": "被動元件大廠國巨（2327）27日舉辦股東會，股價一度大漲至726元，最後以701元作收，成為首檔股價超過700元的被動元件概念股。董事長陳泰銘成為新科台灣首富後，單日身價再暴漲17億美元，接近200億美元，全球富豪排名位列137名。陳泰銘形容AI還在「2局上半」，更喊話國巨要成為完整解決方案的平台商。被動元件大廠國巨（2327）27日舉辦股東會，這也是董事長陳泰銘身家大漲，於5月中超車鴻海創辦人"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "日本團隊研究納馬象絕滅比以往學說早1萬年＝<b>氣候變遷</b>恐為主要誘因 - nippon.com",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.nippon.com/hk/news/yjj2026052600681/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2I-bOEJ56vMXmi8cndf4Qb",
-          "published": "2026-05-26T23:40:49+00:00",
-          "summary": "此前，以約2萬4000年前絕滅的學說最為有說服力。研究團隊為了探尋正確的絕滅時期，自愛媛縣今治市外海的瀨戶內海所發現的化石中去除雜質，並透過放射性碳進行了高&nbsp;..."
+          "title": "黑色黃金再進化當葉門咖啡遇上<b>氣候變遷</b>的杯中逆襲 - MSN",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/news/world/%25E9%25BB%2591%25E8%2589%25B2%25E9%25BB%2583%25E9%2587%2591%25E5%2586%258D%25E9%2580%25B2%25E5%258C%2596-%25E7%2595%25B6%25E8%2591%2589%25E9%2596%2580%25E5%2592%2596%25E5%2595%25A1%25E9%2581%2587%25E4%25B8%258A%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E7%259A%2584%25E6%259D%25AF%25E4%25B8%25AD%25E9%2580%2586%25E8%25A5%25B2/ar-AA24eaXQ%3Focid%3Dfinance-verthp-feeds&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1r3eLoY9DsyxA1mtQsKtZt",
+          "published": "2026-05-28T03:52:30+00:00",
+          "summary": "全球正遭受極端氣候侵襲，當降雨失調導致全球咖啡豆產量銳減、市場價格不斷飆升之際，美國的咖啡市場卻悄悄吹起一股充滿異國情調的風潮。"
         },
         {
-          "title": "鋼聯正式啟動碳盤查、深度節能輔導工作- 新聞- MoneyDJ理財網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/KMDJ/News/NewsViewer.aspx%3Fa%3De5c5dbda-48e3-4804-93ba-eb587965e7d4&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1-bEwl04lF6YrPpy6CKzVT",
-          "published": "2026-05-26T21:42:28+00:00",
-          "summary": "潘建成表示，透過推動「製造部門淨零轉型推動計畫」由領頭廠商帶動供應鏈夥伴共同建立碳管理基礎，協助製造業掌握碳排放現況，並逐步導入節能減碳改善措施。感謝鋼&nbsp;..."
+          "title": "<b>氣候變遷</b>促基因演化全球細菌抗藥性激增 - 聯合新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7266/9530634&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1do8pYxFHK-kmxq3aOrX9a",
+          "published": "2026-05-28T03:45:49+00:00",
+          "summary": "氣候危機使抗藥性問題更嚴重！一項跨國科學研究指出，氣溫上升與降雨模式改變會加速沙門氏菌等病原體的基因演化，使其更難被藥物消滅並危害人類健康。"
         },
         {
-          "title": "智慧農機結合減碳行動花蓮推動綠色永續農業 - TCnews慈善新聞網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tcnews.com.tw/news/item/29527.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3xYQufLizSMDC-LW8_piJ7",
-          "published": "2026-05-26T19:12:24+00:00",
-          "summary": "面對氣候變遷與農村勞動力短缺挑戰，花蓮縣政府持續推動低碳永續農業，提醒農友把握「115年省工高效及碳匯農機補助實施計畫」申請機會。縣府希望透過導入智慧&nbsp;..."
+          "title": "【專題演講】<b>淨零</b>路徑上的環境公義：AI 如何助力中小企業實踐能源公平轉型 - 中央社",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/video/news/4354500&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0legpXM-ISeo_-Yor81D_x",
+          "published": "2026-05-28T03:45:18+00:00",
+          "summary": "當AI 遇見ESG 系列論壇\\n產官學研權威集結｜ 智慧轉型｜ 永續實踐\\n數據驅動X 綠色轉型X 智慧治理：開啟企業永續新賽道\\n\\n當最強的大腦，遇上最迫切的使命。"
         },
         {
-          "title": "國家外交部：中方依法依規禁止對日本軍事用戶、軍事用途出口兩用物項 - AASTOCKS.com",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.aastocks.com/tc/stocks/news/aafn-news/NOW.1526064/2&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0r9l_MSVydZ5BKbtS_fbbd",
-          "published": "2026-05-26T19:04:22+00:00",
-          "summary": "... 和擁核企圖。(jl/u) 相關內容中國碳中和(01372.HK)擬於東盟市場開展碳中和業務. 推薦本文, 你認為這是利好/ 利淡消息? 推薦. 推薦. 利好. 利淡. AASTOCKS新聞."
+          "title": "<b>氣候變遷</b>促基因演化全球細菌抗藥性激增 - 台灣醒報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.anntw.com/articles/20260527-nWkd&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2-pi2qr1jV63LlwtP4YJ2L",
+          "published": "2026-05-28T02:55:52+00:00",
+          "summary": "【台灣醒報記者莊宇欽綜合報導】氣候危機使抗藥性問題更嚴重！一項跨國科學研究指出，氣溫上升與降雨模式改變會加速沙門氏菌等病原體的基因演化，使其更難被&nbsp;..."
         },
         {
-          "title": "綠色生活多一點好運兔U一整年 - 高雄市政府環境保護局",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ksepb.kcg.gov.tw/AuditAnnouncement/news%3FKeyword%3D%25E7%2592%25B0%25E4%25BF%259D%25E5%25B1%2580%26pageIndex%3D30%26PageType%3D1%26id%3D501c8545-189c-4d64-93f8-80e7a3d970c4&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw21PvXy3a00ktVUZSWW_Kjo",
-          "published": "2026-05-26T18:42:49+00:00",
-          "summary": "氣候變遷造成地球暖化已是我們不可忽視的問題，追求「淨零排放」已成為全球熱門關心議題，高雄市於111年提出2050淨零排放目標及策略，積極提出各項淨零轉型&nbsp;..."
+          "title": "熱到受不了！6千處避暑點「一鍵查」 500公尺內冷氣、飲水機都有 - NOWnews今日新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.nownews.com/amp/news/6840772&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2sgJPJaVdPMZxt6rSAnZgj",
+          "published": "2026-05-28T02:42:20+00:00",
+          "summary": "中央氣象署表示，受到太平洋高壓沉降、華南暖空氣移入以及地形沉降等多重因素影響，全台多地湧現極端高溫，昨（27）日北北基刷新5月份歷史最高溫紀錄，全台有7個縣&nbsp;..."
         },
         {
-          "title": "<b>氣候變遷</b>威脅東北虎豹國家公園生態 - GeneOnline News",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://geneonline.news/%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E5%25A8%2581%25E8%2584%2585%25E6%259D%25B1%25E5%258C%2597%25E8%2599%258E%25E8%25B1%25B9%25E5%259C%258B%25E5%25AE%25B6%25E5%2585%25AC%25E5%259C%2592%25E7%2594%259F%25E6%2585%258B/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3nJGDpSMQ_gJbT7t3oBAd7",
-          "published": "2026-05-26T17:09:34+00:00",
-          "summary": "氣溫升高可能導致某些植物物種無法適應，進而影響依賴這些植物為生的動物。降水模式的改變，例如乾旱或洪澇，可能破壞棲息地，迫使動物遷徙或面臨生存危機。此外，&nbsp;..."
+          "title": "【活動轉知】國立臺灣師範大學辦理國科會補助「女高中生<b>氣候變遷</b>科學營」 - 台南女中",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tngs.tn.edu.tw/2026/05/28/%25E3%2580%2590%25E6%25B4%25BB%25E5%258B%2595%25E8%25BD%2589%25E7%259F%25A5%25E3%2580%2591%25E5%259C%258B%25E7%25AB%258B%25E8%2587%25BA%25E7%2581%25A3%25E5%25B8%25AB%25E7%25AF%2584%25E5%25A4%25A7%25E5%25AD%25B8%25E8%25BE%25A6%25E7%2590%2586%25E5%259C%258B%25E7%25A7%2591%25E6%259C%2583%25E8%25A3%259C%25E5%258A%25A9%25E3%2580%258C/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2_I_vHwvQXoL43Pej9mZ6h",
+          "published": "2026-05-28T00:14:01+00:00",
+          "summary": "國立臺灣師範大學科學教育研究所目前承辦國家科學及技術委員會（國科會）補助計畫，計畫主軸為「女性科學人才培育與氣候變遷科學教育推廣」，為鼓勵更多優秀女&nbsp;..."
         }
       ]
     }
