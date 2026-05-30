@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-05-29T05:13:12.080112+00:00",
-    "date": "2026-05-29",
+    "generated_at": "2026-05-30T04:52:50.375084+00:00",
+    "date": "2026-05-30",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "AI 輔助飛行進入實機驗證：飛行員短缺與航管壓力，正把航空業推向自動化新階段",
-          "link": "https://techorange.com/2026/05/29/ai-flying-airplanes/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-29T02:26:54+00:00",
-          "summary": "想像一下，當飛機在跑道上加速升空，駕駛艙內的機長卻輕鬆地將雙手離開控制桿，這個畫面不是科幻電影，而是正在真實上演的航空科技革命。CNN 記者 Pete Muntean 近日在羅德島州親自搭乘新創公司 Merlin Labs 的 Cessna Caravan 測試機，見證 AI 系統「Merlin Pilot」如何參與從起飛、轉向、進場到降落的飛行任務。 Merlin Pilot 導入自然語言處理（"
+          "title": "【數位資產的未來】30% 利潤蒸發風險：傳統金融如何透過五大關鍵佈局抓住代幣化機遇",
+          "link": "https://techorange.com/2026/05/30/future-of-digital-assets/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-29T22:29:00+00:00",
+          "summary": "這份《數位資產的未來》（The Future of Digital Assets）報告，由波士頓顧問集團（BCG）發布，內容瞄準金融業董事會與高階主管製作，將數位資產重新定位為「金融底層基礎設施」的典範轉移。 報告指出，在數位極速擴張的情境下，若傳統金融機構僅保持觀望，到 2035 年恐面臨利潤蒸發 30%、營收萎縮 14%、資產負債表縮水 10% 的結構性危機。 然而，這也是一場巨大的財富重分配"
         },
         {
-          "title": "打造「自主型工廠」不是投入 AI 機器人就夠，混合式空間、人類洞察力缺一不可",
-          "link": "https://techorange.com/2026/05/29/physical-ai-robot-and-thinks-factory/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-29T02:08:22+00:00",
-          "summary": "當代人類正在親眼目睹製造業的根本性轉變，AI 技術讓機器不再只會照本宣科、重複固定動作，而是開始擁有感知與推理能力，促使傳統工廠升級成會「思考」的「自主型工廠」。"
+          "title": "模擬是思考、數位分身是連結現實：智慧製造下一波關鍵技術解析",
+          "link": "https://techorange.com/2026/05/29/simulation-versus-digital-twin-strategic-lens-virtual-manufacturing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-29T11:04:24+00:00",
+          "summary": "Visual Components 業務發展總監 Graham Wloch 近日在《The Robot Report》撰文分析，近年製造業加速導入虛擬工具，重點已不只是把生產流程數位化呈現，而是希望能在正式投產前，先完成測試、調整與流程優化。模擬（simulation）與數位分身（digital twin）因此成為企業推動數位轉型的重要技術。不過，許多製造商在導入過程中，仍不清楚兩者實際上的功能差"
         },
         {
-          "title": "【科技早餐】台灣 AI 供應鏈舉債創高，經濟部稱供電可撐到 2034 年",
-          "link": "https://techorange.com/2026/05/29/taiwan-ai-supply-chain-debt-hits-record-high-power-supply-hold-through-2034-economy-ministry-says/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-28T22:50:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊台灣 AI 供應鏈舉債創高，台股市值站上全球第五 《彭博》彙整數據顯示，台灣科技業今年以來已完成約 145 億美元債務融資交易，規模創下歷史新高，幾乎是去年同期 75 億美元的兩倍。融資來源包括 62 億美元貸款、59 億美元可轉換公司債，以及 24 億美元公司債，主力來自 AI 伺服器、晶片零組件與硬體製造商。 摩根士丹利（Morgan Sta"
+          "title": "【Google Cloud NEXT 2026】Gemini Enterprise Agent Platform 開啟「代理企業」時代",
+          "link": "https://techorange.com/2026/05/29/google-cloud-next-2026-cloudmile-gemini-enterprise-agent-platform/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-29T09:38:03+00:00",
+          "summary": "當 AI 從「回答問題」走向「完成工作」，企業需要的不再只是一個聊天機器人，而是一整套能建構、治理、擴展 AI 代理人的基礎設施。 Google Cloud NEXT 2026 的焦點為何是「代理平台」？ 2026 年 4 月 22 日，Google Cloud 在拉斯維加斯揭開年度大會 Google Cloud Next 2026 的序幕。從 Google CEO Sundar Pichai 到"
         },
         {
-          "title": "誰說機器人一定要像人？杜克大學用「20足全向架構」顛覆仿生思維",
-          "link": "https://techorange.com/2026/05/28/ai-20-legged-argus-robot-redefines-directionless-movement-design/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-28T11:09:00+00:00",
-          "summary": "杜克大學（Duke University）研究團隊開發出一套新型機器人系統，顛覆過去以模仿人類外型為主的設計思維，改追求「無論朝哪個方向，都能維持同樣移動能力」的設計概念。為了實現這項概念，研究人員模擬超過 1,500 種機器人配置，從中找出最接近理論性能極限的方案，最終誕生的機器人名為 Argus。 有別傳統機器人設計，Argus 以特殊結構提升移動效率 研究團隊指出，這種跳脫傳統的機器人結構，"
+          "title": "【Google Cloud Next 2026】AI Agent 解題不再盲猜！Google Cloud Knowledge Catalog 讓 AI 真正讀懂企業資料",
+          "link": "https://techorange.com/2026/05/29/google-cloud-next-2026-cloudmile-ai-agent-knowledge-catalog/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-29T09:37:32+00:00",
+          "summary": "從資料脈絡到引用來源，讓 AI Agent 的每一次推理都有跡可循。 隨著企業導入 AI 的速度持續加快，真正的難題也開始浮現：AI 雖然會整理資料、回答問題，卻不一定理解企業內部的業務專屬邏輯。 根據麥肯錫《2025 年 AI 全球調查：應用、創新與轉型》報告顯示，88% 受訪者表示其組織已在至少一項業務職能中規律使用 AI；然而，調查結果也指出，雖然 AI 工具已相當普及，但多數企業尚未將 A"
         },
         {
-          "title": "點點簽與叡揚資訊攜手，實現表單到簽章 AI 零斷點整合",
-          "link": "https://techorange.com/2026/05/28/gss-dottedsign-ai-vitalbizform/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-28T10:30:00+00:00",
-          "summary": "KDAN 凱鈿 (TPEx: 7737) 旗下電子簽章品牌點點簽 DottedSign 與台灣軟體大廠叡揚資訊 (TPEx: 6752) ，以叡揚資訊 Vital BizForm 智慧表單與點點簽完成深度產品整合，企業客戶自此可在單一工作流中完成表單建立、AI 輔助審核、電子簽署與法遵存檔，實現從內部管控到對外簽約的零斷點數位體驗。 雙方於昨 (27) 日在台北集思台大會議中心共同舉辦「簽核表單 "
+          "title": "不用駭進軍方系統也能追蹤美軍行動，手機裡的「廣告數據」如何成為國安破口？",
+          "link": "https://techorange.com/2026/05/29/us-military-personnel-are-reportedly-being-targeted-using-location/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-29T08:57:15+00:00",
+          "summary": "美國中央司令部（USCENTCOM）近期首度向國會揭露一道國安破口：他們坦承已收到多起通報，證實美軍在現役戰區的行蹤，正被敵方透過隨手可得的「商業定位資料」追蹤掌握，這也是美方首次承認這類商業數據已對戰場造成實質威脅。 令人毛骨悚然的是，引發這場國安危機根本不需要駭客發動攻擊，因為真正的漏洞，就在每個人的手機 App 與廣告推播裡。這條由數位廣告和數據仲介商交織而成的「全球監控經濟（global "
         },
         {
-          "title": "「軟體工程師」職稱最快今年開始消失？Claude Code 負責人：寫 Code 的人會更多，但不一定叫工程師",
-          "link": "https://techorange.com/2026/05/28/claude-code-boris-cherny-interview-ai-jobs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-28T07:49:39+00:00",
-          "summary": "隨著 AI 技術快速演進，科技圈正激烈辯論 AI 是否將大規模取代白領階級的工作，而「軟體工程師」更是這場自動化風暴的核心焦點。Anthropic 旗下 Claude Code 的負責人 Boris Cherny 近日在接受專訪時直言，「software engineer」（軟體工程師）這個職稱最快今年就會開始消失，並轉向更接近「builder」（建構者）的新角色。 Boris Cherny 坦言"
+          "title": "資料多已不是優勢！momo：AI 時代真正的競爭力，是問對問題、做對決策",
+          "link": "https://techorange.com/2026/05/29/momo-ai-data/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-05-29T07:29:13+00:00",
+          "summary": "台灣電商龍頭富邦媒今(29)日受邀出席「FineEvent 2026 台灣帆軟用戶大會」，首度對外分享 momo 推動數據治理與智慧決策的實務經驗。momo表示，隨著生成式 AI 與代理式分析(Agentic Analytics)快速發展，企業競爭已不再只是比數據量，而是能不能讓第一線團隊更快找到資訊、看懂問題並做出決策。數據應用也正從過去的「看報表」，逐步走向「和數據對話」的新階段。 今年大會以"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "AI護智翻轉失智照護！亞洲大學護理學院USR打造高齡失智友善新典範",
-          "link": "https://www.gvm.com.tw/article/130463",
-          "published": "2026-05-29T00:00:00",
-          "summary": "臺灣邁入超高齡社會，失智照護需求快速升高。亞洲大學護理學院的USR計畫，結合AI數位科技、護理暨長照教育與社會實踐，回應高齡失智照護的需求，也展現了高教結合數位科技與護理專業的實踐成果。亞大護理學院是如何做到的？從長照人才到AI護智人才　亞大護理系統培育高齡照護新世代臺灣邁入超高齡社會，失智照護需求快速升高。亞洲大學護理學院結合AI數位科技、護理暨長照教育與社會實踐，發展AI教材、AR／VR沉浸式"
+          "title": "失智有性別差異？最新萬人研究：相同的風險因子，對女性大腦更傷",
+          "link": "https://www.gvm.com.tw/article/130523",
+          "published": "2026-05-29T17:56:00",
+          "summary": "最新萬人研究指出，比起男性，女性更容易因高血壓、肥胖、憂鬱、缺乏運動與睡眠不佳等因素，加速大腦認知退化，並升高失智風險。研究發現，即使是相同的風險因子，對女性大腦的傷害更大；這顯示失智症與性別差異密切相關。專家建議，女性應加強心血管健康管理、改善心理健康、多運動，才能有效降低失智症風險。美國有超過700萬人罹患阿茲海默症，其中高達近三分之二的患者是女性；箇中原因，過去大家總以為是女性的平均壽命較長"
         },
         {
-          "title": "黃仁勳口中的「台灣典型父母」是什麼？他解釋，批評助員工進步",
-          "link": "https://www.gvm.com.tw/article/130485",
-          "published": "2026-05-28T18:29:00",
-          "summary": "輝達執行長黃仁勳近日談到自己深受「台灣典型父母」影響，認為批評是幫助人成長與進步的方式。他坦言自己管理風格嚴格，會即時給員工回饋，希望把人才磨練得更優秀。同時，他也分享每天工作的動力來自責任感、害怕失敗、想親眼見證夢想成真的信念。輝達執行長黃仁勳27日出席輝達台灣員工大會時，形容自己的爸媽是「典型台灣父母」。他近日接受新加坡亞洲新聞台駐台特派記者任百珺近日專訪時，談到自己被認為是嚴格的老闆，而「折"
+          "title": "2026全台端午節禮金一表看領多少？發放日、低收條件與金額",
+          "link": "https://www.gvm.com.tw/article/130522",
+          "published": "2026-05-29T17:47:00",
+          "summary": "端午節是台灣重要的傳統節日，各地方政府今年依舊有規劃端午節禮金，有些縣市已經發放了，快去確認！但全台並非所有縣市都有，例如新竹市。到底哪些縣市今年有發放？能收到端午節禮金或慰問金的條件為何？要低收入戶或年齡資格？本文整理了全台各地的發放資訊，協助讀者快速掌握申領資格與時間，讓大家不漏領任何一筆福利。🧧 2026 端午節禮金｜各縣市發放規定與金額一覽縣市有無發放主要受益族群最高金額台北市有低收入戶、"
         },
         {
-          "title": "6月新制懶人包：夏月電價變貴、交通駕照、郵局新規及西門町商圈全面禁菸全上路",
-          "link": "https://www.gvm.com.tw/article/130484",
-          "published": "2026-05-28T18:23:00",
-          "summary": "2026年6月新制即將上路！包括夏月電價、高齡駕駛換照、國泰航空登機新規、中華郵政寄美包裹恢復，以及西門町全面禁菸等，多項與民生消費相關政策上線。其中夏月電價平均每戶電費恐增加446元，70歲以上駕駛若未完成換照上路也將開罰。《遠見》一次整理「6月新制懶人包」最新交通、民生、電價與補助重點，快速掌握6月有哪些新規定。夏月電價6月上路台電宣布，今年從6月1日至9月30日實施夏月電價，每度電單價比非夏"
+          "title": "暑假親子看展推薦！全台2026夏季藝文活動一次看",
+          "link": "https://www.gvm.com.tw/article/130521",
+          "published": "2026-05-29T17:41:00",
+          "summary": "炎炎夏日到來，全台灣各地的美術館與展覽空間早已排好滿滿的展覽檔期，要以豐富的視覺饗宴和沉浸式體驗，迎接出遊的民眾和放暑假的學生。無論是爸媽想讓孩子們有個學習之旅，或純粹就是喜愛藝術、歷史文化、又或者想看木乃伊的優秀大人，這個夏天都能找到心儀的展覽，《遠見》懶人包一次整理。目錄&nbsp;● 【台北】埃及木乃伊—永生傳說● 【台北】真假乾隆—清高宗的御筆與代筆● 【台北】超現實主義：對話中的世界● "
         },
         {
-          "title": "颱風薔蜜最新動態：最快29日轉中颱，「這日」最接近台灣",
-          "link": "https://www.gvm.com.tw/article/130423",
-          "published": "2026-05-28T18:18:00",
-          "summary": "氣象署表示，今晚至明天，中部以北和宜蘭地區有陣雨或雷雨，其他地區午後有局部短暫雷陣雨；預估颱風薔蜜明晚至30日增強為中度颱風，5月31日、6月1日將最接近台灣。根據中央氣象署網站，今天下午2時輕度颱風薔蜜中心位置在鵝鑾鼻東南東方1880公里處，以每小時17公里速度，向西北轉西北西進行。氣象署預報員鄭傑仁告訴中央社記者，預計明晚至30日薔蜜有機會發展成中度颱風，5月31日、6月1日將最接近台灣。鄭傑"
+          "title": "馬斯克打造AI晶片廠Terafab，郭明錤：這家台廠可能是關鍵拼圖",
+          "link": "https://www.gvm.com.tw/article/130517",
+          "published": "2026-05-29T15:36:00",
+          "summary": "天風國際證券分析師郭明錤28日在社群發文指出，據他最新的產業調查，在多家客製化ASIC廠商中，聯發科較有可能成為馬斯克的AI晶片廠Terafab的合作對象，為馬斯克團隊生產所需晶片。這項策略合作可望強化Terafab的執行效率，並提升聯發科AI ASIC的產業定位與附加價值。郭明錤表示，馬斯克Terafab的挑戰在於面對多重壓力下的執行力。由於這是馬斯克第一次與英特爾合作，並採用其14A先進製程和"
         },
         {
-          "title": "告別單純銷售！AI重塑汽車產業2026戰局",
-          "link": "https://www.gvm.com.tw/article/130483",
-          "published": "2026-05-28T18:09:00",
-          "summary": "編按：AI改寫汽車產業規則！當消費者不再願意只為載運的單純功能訂閱埋單，車廠開始透過數據分析、數位分身與智慧營運，打造更貼近需求的移動體驗，搶攻未來市場主導權，也加速全球供應鏈與服務模式全面轉型。汽車產業單靠「銷售數量」衡量價值的模式，已來到成長盡頭。為開拓營收來源，許多車廠轉而嘗試推行數位訂閱服務，然而，調查數據顯示，消費者對於為硬體內建功能支付月費，有強烈的抗拒心理：願意為連線服務付費的消費者"
+          "title": "職業薪資調查出爐！機師年薪近400萬穩居首位，「這些工作」月薪年增率逾7%",
+          "link": "https://www.gvm.com.tw/article/130514",
+          "published": "2026-05-29T14:52:00",
+          "summary": "勞動部今天公布最新職類別薪資調查統計，機師仍穩坐「薪」情排行首位，年薪近新台幣400萬元，而保險員、殯葬業及美容美髮等月薪成長幅度名列前茅，年增率均逾7%。勞動部每年進行職類別薪資調查，包含調查職類全時受僱員工人數、當年7月的經常性薪資及113年全年平均每人薪資所得，今天公布114年的調查結果，回收有效樣本計9977家。根據調查，月薪及年薪排名首位皆為航空駕駛員，月薪29.8萬元、年薪393.1萬"
         },
         {
-          "title": "品牌不只要「抓住人心」，更要「說服Agent」",
-          "link": "https://www.gvm.com.tw/article/130482",
-          "published": "2026-05-28T17:48:00",
-          "summary": "編按：AI Agent正重塑品牌行銷與購物決策！當消費者開始交由AI比價、下單，品牌不只要抓住人心，更得靠數據與效率說服Agent，才能在新商務時代搶占優勢，成為同時打動人類與AI的關鍵品牌。隨著Google、OpenAI等科技巨頭積極布局AI購物功能，代理商務（Agentic Commerce）正從科幻走進現實。這不僅是購物介面的改變，而是一場牽一髮而動全身的消費模式重構。未來的消費者，可能不再"
+          "title": "15秒看見健康盲點！Prysm iO如何用數據驅動日常健康管理？",
+          "link": "https://www.gvm.com.tw/article/130428",
+          "published": "2026-05-29T14:50:00",
+          "summary": "你的飲食、睡眠與運動習慣，正悄悄決定你的老化速度。當日常的健康管理不再只靠年度健檢與自我感覺，而是透過如Prysm iO*健康光譜量測，即時反映個人日常健康營養狀態，如同量體重一樣可天天追蹤，你將會發現：「原來健康管理這件事，比想像中更容易掌控。」目錄● 從Prysm iO研究，看見如何運用日常量測輔助日常健康管理● 實現日常健康管理3步驟：健康量測、調整生活、營養補充● 常見問題（FAQ）從Pr"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "<b>氣候變遷</b>衝擊麥加朝聖研究：極端高溫縮減安全窗口、死亡風險增 - Yahoo新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E8%25A1%259D%25E6%2593%258A%25E9%25BA%25A5%25E5%258A%25A0%25E6%259C%259D%25E8%2581%2596-%25E7%25A0%2594%25E7%25A9%25B6-%25E6%25A5%25B5%25E7%25AB%25AF%25E9%25AB%2598%25E6%25BA%25AB%25E7%25B8%25AE%25E6%25B8%259B%25E5%25AE%2589%25E5%2585%25A8%25E7%25AA%2597%25E5%258F%25A3-%25E6%25AD%25BB%25E4%25BA%25A1%25E9%25A2%25A8%25E9%259A%25AA%25E5%25A2%259E-232747218.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3XWwojn7LWDMbD_bwCoAy5",
-          "published": "2026-05-28T23:36:44+00:00",
-          "summary": "根據最新研究顯示，氣候變遷正導致沙烏地阿拉伯麥加的極端高溫天數延長，嚴重威脅一年一度的伊斯蘭教朝聖（Hajj）安全。隨著全球氣溫攀升，原本較涼爽的月份也&nbsp;..."
+          "title": "市政新聞-環保小局長與劉和然副市長暢談環保行動培育校園永續行動力 - 新北市政府",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ntpc.gov.tw/ch/home.jsp%3Fid%3De8ca970cde5c00e1%26dataserno%3D420877c59305dfa3952153bb627cfcaa&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3b46kfAbJaUu0cmVFu96zz",
+          "published": "2026-05-30T04:33:27+00:00",
+          "summary": "劉和然副市長與環保小局長面對面對談，聆聽小局長們分享一年來參與「育樂營」、「淨零 ... 氣候變遷」等關鍵環境議題。劉和然逐一回應提問，並分享自身落實&nbsp;..."
         },
         {
-          "title": "北市環保局「<b>淨零</b>童樂會」 看偶戲實踐<b>淨零</b>新生活 - Yahoo新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%258C%2597%25E5%25B8%2582%25E7%2592%25B0%25E4%25BF%259D%25E5%25B1%2580-%25E6%25B7%25A8%25E9%259B%25B6%25E7%25AB%25A5%25E6%25A8%2582%25E6%259C%2583-%25E7%259C%258B%25E5%2581%25B6%25E6%2588%25B2%25E5%25AF%25A6%25E8%25B8%2590%25E6%25B7%25A8%25E9%259B%25B6%25E6%2596%25B0%25E7%2594%259F%25E6%25B4%25BB-071321820.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2PAqJ-tJP2QH0X8Zuu9WCB",
-          "published": "2026-05-28T19:22:05+00:00",
-          "summary": "臺北市環保局響應2026年世界環境日「全球氣候行動倡議（A Global Call for Climate Action）」主題，將於6月7日下午2時在大稻埕戲苑舉辦「來趣臺北看戲劇淨零童&nbsp;..."
+          "title": "『氣象冷知識』：京士柏氣象站75周年",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hko.gov.hk/tc/%25E6%259C%2580%25E6%2596%25B0%25E6%25B6%2588%25E6%2581%25AF/110597/%25E3%2580%258E%25E6%25B0%25A3%25E8%25B1%25A1%25E5%2586%25B7%25E7%259F%25A5%25E8%25AD%2598%25E3%2580%258F%25EF%25BC%259A%25E4%25BA%25AC%25E5%25A3%25AB%25E6%259F%258F%25E6%25B0%25A3%25E8%25B1%25A1%25E7%25AB%259975%25E5%2591%25A8%25E5%25B9%25B4&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1Tmj5gi7QRyqjmzFhR4hc9",
+          "published": "2026-05-30T01:50:20+00:00",
+          "summary": "京士柏氣象站今年邁向75 周年。新一集《氣象冷知識》將帶大家回顧這座氣象站如何默默守護香港，細數大半個世紀以來的變遷與發展歷程。 影片已上載到『我的天文台&nbsp;..."
         },
         {
-          "title": "財部推<b>淨零</b>9月辦供應商大會- 日報- 工商時報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260529700100-439901&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1tRhNBJD1Tj8-tA5FQtgc_",
-          "published": "2026-05-28T19:04:55+00:00",
-          "summary": "在國際評比表現上，財政部強調，上市公股金融事業全數入選「2026 S&amp;P Global永續年鑑」，兆豐金更獲全球銀行業排名前1％的最高榮譽，第一金在CDP氣候變遷、森林及水&nbsp;..."
+          "title": "植境迎接開幕三週年累積減碳逾886萬公克 - TCnews慈善新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tcnews.com.tw/news/item/29568.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1Son4_XiYd9b9AaX0qy7XJ",
+          "published": "2026-05-30T01:30:46+00:00",
+          "summary": "高中生透過「地球永續影響力」活動，認識氣候變遷、低碳飲食與永續行動。 根據植境內部統計，植境自開幕以來，透過場域活動、蔬食生活推廣與永續理念倡議，累積&nbsp;..."
         },
         {
-          "title": "崑山科大USR團隊受邀<b>淨零</b>公正轉型論壇分享地方節能輔導實務 - 中央社",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/postwrite/chi/434703&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2QNRSOUr5A3RRrSprYVxCI",
-          "published": "2026-05-28T18:27:18+00:00",
-          "summary": "王瑋民老師受邀擔任跨界座談與談人，與台灣氣候行動網絡研究中心總監趙家緯、農業部畜牧司副司長周志勲、主婦聯盟環境保護基金會副董事長賴曉芬及台灣勞工陣線&nbsp;..."
+          "title": "COP30 pledges funding to poor countries dealing with the effects of <b>climate change</b>",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.tvb.com/tc/1135601-COP30pledgesfundingtopoorcountriesdealingwiththeeffectsofclimatechange&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3vBIotqKxWCP6Dwpw3nZlz",
+          "published": "2026-05-30T00:58:58+00:00",
+          "summary": "... climate change. But they would take five more years to do it. And the ... Ed Miliband, UK Secretary of State for Energy Security and Net Zero&nbsp;..."
         },
         {
-          "title": "法國罕見5月酷熱巴黎人寧可適應不願靠冷氣",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.worldjournal.com/wj/amp/story/121617/9530461&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1a7-ZC3QaEEdpyImqqIVQW",
-          "published": "2026-05-28T16:53:44+00:00",
-          "summary": "巴黎前陣子常常下雨，因此不少人把握陽光出門戲水或做日光浴，有些人相信應盡量適應氣候變遷，而非依賴冷氣。 巴黎今天氣溫一度升至攝氏34度，而5月下旬通常&nbsp;..."
+          "title": "澳洲放棄爭取<b>氣候變遷</b>大會主辦權由土耳其擔任主辦 - TVB News",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.tvb.com/en/1135213-%25E6%25BE%25B3%25E6%25B4%25B2%25E6%2594%25BE%25E6%25A3%2584%25E7%2588%25AD%25E5%258F%2596%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E5%25A4%25A7%25E6%259C%2583%25E4%25B8%25BB%25E8%25BE%25A6%25E6%25AC%258A%25E7%2594%25B1%25E5%259C%259F%25E8%2580%25B3%25E5%2585%25B6%25E6%2593%2594%25E4%25BB%25BB%25E4%25B8%25BB%25E8%25BE%25A6&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3mJJBQpGqjnaNuwYGLVKhb",
+          "published": "2026-05-30T00:03:57+00:00",
+          "summary": "澳洲天氣炎熱，愈來愈多民眾前往泳池消暑。除了救生員當值，當地部分泳池引入人工智能（AI）系統，協助監察泳客是否遇溺。有專家對新技術表示歡迎，認為能提升救援效率&nbsp;..."
         },
         {
-          "title": "將軍澳堆填區太陽能發電場啓用年產電力足夠360戶使用李家超：為<b>碳中和</b>目標注入新動力",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.stheadline.com/society/3577191/%25E5%25B0%2587%25E8%25BB%258D%25E6%25BE%25B3%25E5%25A0%2586%25E5%25A1%25AB%25E5%258D%2580%25E5%25A4%25AA%25E9%2599%25BD%25E8%2583%25BD%25E7%2599%25BC%25E9%259B%25BB%25E5%25A0%25B4%25E5%2595%2593%25E7%2594%25A8-%25E5%25B9%25B4%25E7%2594%25A2%25E9%259B%25BB%25E5%258A%259B%25E8%25B6%25B3%25E5%25A4%25A0360%25E6%2588%25B6%25E4%25BD%25BF%25E7%2594%25A8-%25E6%259D%258E%25E5%25AE%25B6%25E8%25B6%2585%25E7%2582%25BA%25E7%25A2%25B3%25E4%25B8%25AD%25E5%2592%258C%25E7%259B%25AE%25E6%25A8%2599%25E6%25B3%25A8%25E5%2585%25A5%25E6%2596%25B0%25E5%258B%2595%25E5%258A%259B&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2_LJO9OJBR-JYAhndpPWWa",
-          "published": "2026-05-28T16:23:02+00:00",
-          "summary": "郭基泓：項目位於堆填區斜坡可說是因地制宜、地盡其用. 環境局局長謝展寰表示，項目不單是公私營機構協同推進香港轉型的例子，也是本港邁向「淨零發電」&nbsp;..."
+          "title": "黑色黃金再進化當葉門咖啡遇上<b>氣候變遷</b>的杯中逆襲| TVBS | LINE TODAY",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/eLKvZGG&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1dh8JjdYHqjDRbnZ9wpGIW",
+          "published": "2026-05-29T23:42:25+00:00",
+          "summary": "許多不愛飲酒或尋求安靜空間的民眾，在深夜有了新去處。Arwa Coffee加盟商巴德爾表示，這片區域在晚上九點、十點之後，除了酒吧或夜店之外，民眾可以選擇的社交場所&nbsp;..."
         }
       ]
     }
