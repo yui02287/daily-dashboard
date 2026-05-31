@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-05-30T04:52:50.375084+00:00",
-    "date": "2026-05-30",
+    "generated_at": "2026-05-31T05:17:49.824771+00:00",
+    "date": "2026-05-31",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -10,84 +10,47 @@
     {
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
-      "items": [
-        {
-          "title": "【數位資產的未來】30% 利潤蒸發風險：傳統金融如何透過五大關鍵佈局抓住代幣化機遇",
-          "link": "https://techorange.com/2026/05/30/future-of-digital-assets/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-29T22:29:00+00:00",
-          "summary": "這份《數位資產的未來》（The Future of Digital Assets）報告，由波士頓顧問集團（BCG）發布，內容瞄準金融業董事會與高階主管製作，將數位資產重新定位為「金融底層基礎設施」的典範轉移。 報告指出，在數位極速擴張的情境下，若傳統金融機構僅保持觀望，到 2035 年恐面臨利潤蒸發 30%、營收萎縮 14%、資產負債表縮水 10% 的結構性危機。 然而，這也是一場巨大的財富重分配"
-        },
-        {
-          "title": "模擬是思考、數位分身是連結現實：智慧製造下一波關鍵技術解析",
-          "link": "https://techorange.com/2026/05/29/simulation-versus-digital-twin-strategic-lens-virtual-manufacturing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-29T11:04:24+00:00",
-          "summary": "Visual Components 業務發展總監 Graham Wloch 近日在《The Robot Report》撰文分析，近年製造業加速導入虛擬工具，重點已不只是把生產流程數位化呈現，而是希望能在正式投產前，先完成測試、調整與流程優化。模擬（simulation）與數位分身（digital twin）因此成為企業推動數位轉型的重要技術。不過，許多製造商在導入過程中，仍不清楚兩者實際上的功能差"
-        },
-        {
-          "title": "【Google Cloud NEXT 2026】Gemini Enterprise Agent Platform 開啟「代理企業」時代",
-          "link": "https://techorange.com/2026/05/29/google-cloud-next-2026-cloudmile-gemini-enterprise-agent-platform/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-29T09:38:03+00:00",
-          "summary": "當 AI 從「回答問題」走向「完成工作」，企業需要的不再只是一個聊天機器人，而是一整套能建構、治理、擴展 AI 代理人的基礎設施。 Google Cloud NEXT 2026 的焦點為何是「代理平台」？ 2026 年 4 月 22 日，Google Cloud 在拉斯維加斯揭開年度大會 Google Cloud Next 2026 的序幕。從 Google CEO Sundar Pichai 到"
-        },
-        {
-          "title": "【Google Cloud Next 2026】AI Agent 解題不再盲猜！Google Cloud Knowledge Catalog 讓 AI 真正讀懂企業資料",
-          "link": "https://techorange.com/2026/05/29/google-cloud-next-2026-cloudmile-ai-agent-knowledge-catalog/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-29T09:37:32+00:00",
-          "summary": "從資料脈絡到引用來源，讓 AI Agent 的每一次推理都有跡可循。 隨著企業導入 AI 的速度持續加快，真正的難題也開始浮現：AI 雖然會整理資料、回答問題，卻不一定理解企業內部的業務專屬邏輯。 根據麥肯錫《2025 年 AI 全球調查：應用、創新與轉型》報告顯示，88% 受訪者表示其組織已在至少一項業務職能中規律使用 AI；然而，調查結果也指出，雖然 AI 工具已相當普及，但多數企業尚未將 A"
-        },
-        {
-          "title": "不用駭進軍方系統也能追蹤美軍行動，手機裡的「廣告數據」如何成為國安破口？",
-          "link": "https://techorange.com/2026/05/29/us-military-personnel-are-reportedly-being-targeted-using-location/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-29T08:57:15+00:00",
-          "summary": "美國中央司令部（USCENTCOM）近期首度向國會揭露一道國安破口：他們坦承已收到多起通報，證實美軍在現役戰區的行蹤，正被敵方透過隨手可得的「商業定位資料」追蹤掌握，這也是美方首次承認這類商業數據已對戰場造成實質威脅。 令人毛骨悚然的是，引發這場國安危機根本不需要駭客發動攻擊，因為真正的漏洞，就在每個人的手機 App 與廣告推播裡。這條由數位廣告和數據仲介商交織而成的「全球監控經濟（global "
-        },
-        {
-          "title": "資料多已不是優勢！momo：AI 時代真正的競爭力，是問對問題、做對決策",
-          "link": "https://techorange.com/2026/05/29/momo-ai-data/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-05-29T07:29:13+00:00",
-          "summary": "台灣電商龍頭富邦媒今(29)日受邀出席「FineEvent 2026 台灣帆軟用戶大會」，首度對外分享 momo 推動數據治理與智慧決策的實務經驗。momo表示，隨著生成式 AI 與代理式分析(Agentic Analytics)快速發展，企業競爭已不再只是比數據量，而是能不能讓第一線團隊更快找到資訊、看懂問題並做出決策。數據應用也正從過去的「看報表」，逐步走向「和數據對話」的新階段。 今年大會以"
-        }
-      ]
+      "items": []
     },
     {
       "feed_name": "遠見雜誌 - 前進的動力",
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "失智有性別差異？最新萬人研究：相同的風險因子，對女性大腦更傷",
-          "link": "https://www.gvm.com.tw/article/130523",
-          "published": "2026-05-29T17:56:00",
-          "summary": "最新萬人研究指出，比起男性，女性更容易因高血壓、肥胖、憂鬱、缺乏運動與睡眠不佳等因素，加速大腦認知退化，並升高失智風險。研究發現，即使是相同的風險因子，對女性大腦的傷害更大；這顯示失智症與性別差異密切相關。專家建議，女性應加強心血管健康管理、改善心理健康、多運動，才能有效降低失智症風險。美國有超過700萬人罹患阿茲海默症，其中高達近三分之二的患者是女性；箇中原因，過去大家總以為是女性的平均壽命較長"
+          "title": "「貸房入股」正夯？台灣年輕人買不起房又低薪，股市成唯一希望",
+          "link": "https://www.gvm.com.tw/article/130493",
+          "published": "2026-05-30T17:00:00",
+          "summary": "通貨膨脹無盡頭，台灣年輕人房子買不起，孩子生不起，薪資也跟不上中位數，但至少還有股票。外媒採訪台灣年輕人瘋股現象，稱現在台灣暴漲的股市，已經成為年輕人唯一希望。年輕人雖然還沒有累積一桶金，但聽到街頭巷尾，親戚朋友紛紛在討論股市，愈來愈多人把月薪拿去買股，特別是&nbsp;ETF，已經成為一種全民運動。其實開始有固定收入之後，把一部分拿去投資是正常的事，不同的是二十年前投資的是海外市場，如當時剛開始"
         },
         {
-          "title": "2026全台端午節禮金一表看領多少？發放日、低收條件與金額",
-          "link": "https://www.gvm.com.tw/article/130522",
-          "published": "2026-05-29T17:47:00",
-          "summary": "端午節是台灣重要的傳統節日，各地方政府今年依舊有規劃端午節禮金，有些縣市已經發放了，快去確認！但全台並非所有縣市都有，例如新竹市。到底哪些縣市今年有發放？能收到端午節禮金或慰問金的條件為何？要低收入戶或年齡資格？本文整理了全台各地的發放資訊，協助讀者快速掌握申領資格與時間，讓大家不漏領任何一筆福利。🧧 2026 端午節禮金｜各縣市發放規定與金額一覽縣市有無發放主要受益族群最高金額台北市有低收入戶、"
+          "title": "台中捷運要衝南投市？「最常路過城市」商機千億藏歐洲城堡、世界遺產潛力",
+          "link": "https://www.gvm.com.tw/article/130055",
+          "published": "2026-05-30T14:00:00",
+          "summary": "一提到南投市，你腦中浮現的是清境農場的青青草原，還是日月潭的湖光山色？很多人不知道，這些知名景點其實都位在南投縣，而非南投市。長期以來，這座擁有300年漢人開墾史的古城，因為沒有高鐵、鐵路、漁港和機場，交通「四大皆空」的限制不僅讓其定位模糊，多年來更在全台縣市競爭中缺乏存在感。不過，如今的南投市已悄然展開一場地方轉型實驗，且主導這場改變的，正是46歲年輕南投市長——張嘉哲。他既非政二代，也沒有顯赫"
         },
         {
-          "title": "暑假親子看展推薦！全台2026夏季藝文活動一次看",
-          "link": "https://www.gvm.com.tw/article/130521",
-          "published": "2026-05-29T17:41:00",
-          "summary": "炎炎夏日到來，全台灣各地的美術館與展覽空間早已排好滿滿的展覽檔期，要以豐富的視覺饗宴和沉浸式體驗，迎接出遊的民眾和放暑假的學生。無論是爸媽想讓孩子們有個學習之旅，或純粹就是喜愛藝術、歷史文化、又或者想看木乃伊的優秀大人，這個夏天都能找到心儀的展覽，《遠見》懶人包一次整理。目錄&nbsp;● 【台北】埃及木乃伊—永生傳說● 【台北】真假乾隆—清高宗的御筆與代筆● 【台北】超現實主義：對話中的世界● "
+          "title": "12強怎麼贏？中華隊冠軍教練曾豪駒清大畢典全說了「夢想愈大，挑戰愈大」",
+          "link": "https://www.gvm.com.tw/article/130528",
+          "published": "2026-05-30T12:03:00",
+          "summary": "台灣人永遠忘不了的2024年12強冠軍之路！今天「龍貓」曾豪駒帶領所有人又回味了一次。國立清華大學於今（30）日舉辦畢業典禮，邀請到兩年前帶領中華隊奪下2024年世界棒球12強賽冠軍的總教練曾豪駒，以中華隊的冠軍之路經驗，和清大的6670名畢業生分享一路上面對挑戰、勇敢逐夢的心路歷程。到底他怎麼重述當年從不被看好到奪冠的心境？為何他形容中華隊是一群勇敢做夢的選手？過往清大曾邀請過資深藝人林青霞擔任"
         },
         {
-          "title": "馬斯克打造AI晶片廠Terafab，郭明錤：這家台廠可能是關鍵拼圖",
-          "link": "https://www.gvm.com.tw/article/130517",
-          "published": "2026-05-29T15:36:00",
-          "summary": "天風國際證券分析師郭明錤28日在社群發文指出，據他最新的產業調查，在多家客製化ASIC廠商中，聯發科較有可能成為馬斯克的AI晶片廠Terafab的合作對象，為馬斯克團隊生產所需晶片。這項策略合作可望強化Terafab的執行效率，並提升聯發科AI ASIC的產業定位與附加價值。郭明錤表示，馬斯克Terafab的挑戰在於面對多重壓力下的執行力。由於這是馬斯克第一次與英特爾合作，並採用其14A先進製程和"
+          "title": "保養品恐變貴？化妝品GMP全面上路「違者最高罰500萬」，代購、小品牌恐迎洗牌潮",
+          "link": "https://www.gvm.com.tw/article/130491",
+          "published": "2026-05-30T11:00:00",
+          "summary": "衛生福利部食品藥物管理署27日在例行記者會中宣布，今年7月1日起，全台近千家各類化粧品製造場所均應適用GMP規範。洗髮精、止汗劑等都屬化粧品，為確保衛生安全，食藥署推動全台近千家製造場所符合GMP規範，7月1日起全面上路，違者最高罰500萬元；另也要求業者須完成產品資訊檔案（PIF）。除了彩妝之外，根據衛生福利部食品藥物管理署相關規定，洗髮精、洗面乳、沐浴乳、香皂、護髮油、化粧水、爽身粉、止汗劑、"
         },
         {
-          "title": "職業薪資調查出爐！機師年薪近400萬穩居首位，「這些工作」月薪年增率逾7%",
-          "link": "https://www.gvm.com.tw/article/130514",
-          "published": "2026-05-29T14:52:00",
-          "summary": "勞動部今天公布最新職類別薪資調查統計，機師仍穩坐「薪」情排行首位，年薪近新台幣400萬元，而保險員、殯葬業及美容美髮等月薪成長幅度名列前茅，年增率均逾7%。勞動部每年進行職類別薪資調查，包含調查職類全時受僱員工人數、當年7月的經常性薪資及113年全年平均每人薪資所得，今天公布114年的調查結果，回收有效樣本計9977家。根據調查，月薪及年薪排名首位皆為航空駕駛員，月薪29.8萬元、年薪393.1萬"
+          "title": "黃仁勳女兒黃敏珊談爸爸：他一句話，改變我的大學志願",
+          "link": "https://www.gvm.com.tw/article/130510",
+          "published": "2026-05-30T09:00:00",
+          "summary": "黃仁勳女兒、輝達（NVIDIA）實體AI平台產品與技術行銷資深總監黃敏珊（Madison Huang），最近訪台前，其實受邀在首爾國立大學一場主題為「AI時代的領導力——女性之聲」的論壇上演講。台下機器人研究生和社會科學學者，等著聽她談「非線性職涯」。讓人意外的，是她劈頭說的第一件事：她原本打算念電機工程，直到父親黃仁勳出手阻止。黃仁勳女兒黃敏珊（Madison Huang），4月底受邀在首爾國立"
         },
         {
-          "title": "15秒看見健康盲點！Prysm iO如何用數據驅動日常健康管理？",
-          "link": "https://www.gvm.com.tw/article/130428",
-          "published": "2026-05-29T14:50:00",
-          "summary": "你的飲食、睡眠與運動習慣，正悄悄決定你的老化速度。當日常的健康管理不再只靠年度健檢與自我感覺，而是透過如Prysm iO*健康光譜量測，即時反映個人日常健康營養狀態，如同量體重一樣可天天追蹤，你將會發現：「原來健康管理這件事，比想像中更容易掌控。」目錄● 從Prysm iO研究，看見如何運用日常量測輔助日常健康管理● 實現日常健康管理3步驟：健康量測、調整生活、營養補充● 常見問題（FAQ）從Pr"
+          "title": "哈佛研究推4大高CP值投資組合飲食！台大醫：3個月降3成「壞膽固醇」",
+          "link": "https://www.gvm.com.tw/article/130489",
+          "published": "2026-05-30T07:00:00",
+          "summary": "你也有健檢報告膽固醇紅字的困擾嗎？想要有效降膽固醇，該怎麼做？健康主播鄭凱云日前在網路節目《健康云之道》，特別邀請哈佛流行病學博士、台大醫院急診醫學部主治醫師李建璋，分享哈佛研究實證的「投資組合飲食」，透過植物性蛋白質、水溶性纖維、堅果與植物固醇 4 大類飲食組合，持續 3 個月就能有效降低 30 ％壞膽固醇（LDL），改善血管彈性，效果甚至媲美藥物，有助血管年輕，是維持心血管健康的高CP值策略。"
         }
       ]
     },
@@ -96,40 +59,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "市政新聞-環保小局長與劉和然副市長暢談環保行動培育校園永續行動力 - 新北市政府",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ntpc.gov.tw/ch/home.jsp%3Fid%3De8ca970cde5c00e1%26dataserno%3D420877c59305dfa3952153bb627cfcaa&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3b46kfAbJaUu0cmVFu96zz",
-          "published": "2026-05-30T04:33:27+00:00",
-          "summary": "劉和然副市長與環保小局長面對面對談，聆聽小局長們分享一年來參與「育樂營」、「淨零 ... 氣候變遷」等關鍵環境議題。劉和然逐一回應提問，並分享自身落實&nbsp;..."
+          "title": "熱浪之後法國40個省份發布雷雨警報 - RFI",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rfi.fr/tw/%25E6%25B3%2595%25E5%259C%258B/20260530-%25E7%2586%25B1%25E6%25B5%25AA%25E4%25B9%258B%25E5%25BE%258C-%25E6%25B3%2595%25E5%259C%258B40%25E5%2580%258B%25E7%259C%2581%25E4%25BB%25BD%25E7%2599%25BC%25E5%25B8%2583%25E9%259B%25B7%25E9%259B%25A8%25E8%25AD%25A6%25E5%25A0%25B1&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0Q3qv9Ar0T0LGaxOTQpXZz",
+          "published": "2026-05-30T20:56:04+00:00",
+          "summary": "周四，法國夏朗德省（Charente）氣溫飆升至37.8攝氏度，打破了五月份的最高氣溫紀錄。與以往的熱浪一樣，本周人們再次質疑法國應對氣候變化的準備是否充分。"
         },
         {
-          "title": "『氣象冷知識』：京士柏氣象站75周年",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hko.gov.hk/tc/%25E6%259C%2580%25E6%2596%25B0%25E6%25B6%2588%25E6%2581%25AF/110597/%25E3%2580%258E%25E6%25B0%25A3%25E8%25B1%25A1%25E5%2586%25B7%25E7%259F%25A5%25E8%25AD%2598%25E3%2580%258F%25EF%25BC%259A%25E4%25BA%25AC%25E5%25A3%25AB%25E6%259F%258F%25E6%25B0%25A3%25E8%25B1%25A1%25E7%25AB%259975%25E5%2591%25A8%25E5%25B9%25B4&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1Tmj5gi7QRyqjmzFhR4hc9",
-          "published": "2026-05-30T01:50:20+00:00",
-          "summary": "京士柏氣象站今年邁向75 周年。新一集《氣象冷知識》將帶大家回顧這座氣象站如何默默守護香港，細數大半個世紀以來的變遷與發展歷程。 影片已上載到『我的天文台&nbsp;..."
+          "title": "環保小局長與劉和然副市長暢談環保行動培育校園永續行動力 - 台灣新聞雲",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://886.news/archives/334384&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3P3S_5JbKeaSV51ANRg-9Y",
+          "published": "2026-05-30T19:39:57+00:00",
+          "summary": "未來將持續結合淨零轉型、環境教育及公民參與等核心議題，讓這股環保力量從校園扎根，延伸至家庭與社區，讓每一位小局長都成為推動新北邁向永續城市的堅實後盾。 我&nbsp;..."
         },
         {
-          "title": "植境迎接開幕三週年累積減碳逾886萬公克 - TCnews慈善新聞網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tcnews.com.tw/news/item/29568.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1Son4_XiYd9b9AaX0qy7XJ",
-          "published": "2026-05-30T01:30:46+00:00",
-          "summary": "高中生透過「地球永續影響力」活動，認識氣候變遷、低碳飲食與永續行動。 根據植境內部統計，植境自開幕以來，透過場域活動、蔬食生活推廣與永續理念倡議，累積&nbsp;..."
+          "title": "研究揭示高溫暴露加劇農場工人罹患心血管疾病風險 - GeneOnline News",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://geneonline.news/%25E7%25A0%2594%25E7%25A9%25B6%25E6%258F%25AD%25E7%25A4%25BA%25E9%25AB%2598%25E6%25BA%25AB%25E6%259A%25B4%25E9%259C%25B2%25E5%258A%25A0%25E5%258A%2587%25E8%25BE%25B2%25E5%25A0%25B4%25E5%25B7%25A5%25E4%25BA%25BA%25E7%25BD%25B9%25E6%2582%25A3%25E5%25BF%2583%25E8%25A1%2580%25E7%25AE%25A1%25E7%2596%25BE%25E7%2597%2585%25E9%25A2%25A8/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1i2yQXRF2aBTH6Zibc4G1t",
+          "published": "2026-05-30T18:21:28+00:00",
+          "summary": "引言：近年來，全球氣候危機日益嚴峻，對人類健康帶來前所未有的挑戰，尤其是在極端環境條件下工作的人群。一項發表在."
         },
         {
-          "title": "COP30 pledges funding to poor countries dealing with the effects of <b>climate change</b>",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.tvb.com/tc/1135601-COP30pledgesfundingtopoorcountriesdealingwiththeeffectsofclimatechange&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3vBIotqKxWCP6Dwpw3nZlz",
-          "published": "2026-05-30T00:58:58+00:00",
-          "summary": "... climate change. But they would take five more years to do it. And the ... Ed Miliband, UK Secretary of State for Energy Security and Net Zero&nbsp;..."
+          "title": "新北培育環保小公民從校園扎根永續行動力 - 是新聞YesMedia",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.yesmedia.com.tw/%25E6%2596%25B0%25E5%258C%2597%25E5%259F%25B9%25E8%2582%25B2%25E7%2592%25B0%25E4%25BF%259D%25E5%25B0%258F%25E5%2585%25AC%25E6%25B0%2591-%25E5%25BE%259E%25E6%25A0%25A1%25E5%259C%2592%25E6%2589%258E%25E6%25A0%25B9%25E6%25B0%25B8%25E7%25BA%258C%25E8%25A1%258C%25E5%258B%2595%25E5%258A%259B/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0faYn7l_QJBXo3IbttLbuk",
+          "published": "2026-05-30T17:48:11+00:00",
+          "summary": "... 淨零出任務、一日清潔隊長、小小水質守門員及環保小柯南等課程的學習成果 ... 有學生關心如何在日常生活中落實減碳，也有人詢問面對氣候變遷該如何採取&nbsp;..."
         },
         {
-          "title": "澳洲放棄爭取<b>氣候變遷</b>大會主辦權由土耳其擔任主辦 - TVB News",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.tvb.com/en/1135213-%25E6%25BE%25B3%25E6%25B4%25B2%25E6%2594%25BE%25E6%25A3%2584%25E7%2588%25AD%25E5%258F%2596%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E5%25A4%25A7%25E6%259C%2583%25E4%25B8%25BB%25E8%25BE%25A6%25E6%25AC%258A%25E7%2594%25B1%25E5%259C%259F%25E8%2580%25B3%25E5%2585%25B6%25E6%2593%2594%25E4%25BB%25BB%25E4%25B8%25BB%25E8%25BE%25A6&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3mJJBQpGqjnaNuwYGLVKhb",
-          "published": "2026-05-30T00:03:57+00:00",
-          "summary": "澳洲天氣炎熱，愈來愈多民眾前往泳池消暑。除了救生員當值，當地部分泳池引入人工智能（AI）系統，協助監察泳客是否遇溺。有專家對新技術表示歡迎，認為能提升救援效率&nbsp;..."
+          "title": "新北環保小局長成果亮眼劉和然勉從生活實踐<b>淨零</b> - Yahoo新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E6%2596%25B0%25E5%258C%2597%25E7%2592%25B0%25E4%25BF%259D%25E5%25B0%258F%25E5%25B1%2580%25E9%2595%25B7%25E6%2588%2590%25E6%259E%259C%25E4%25BA%25AE%25E7%259C%25BC-%25E5%258A%2589%25E5%2592%258C%25E7%2584%25B6%25E5%258B%2589%25E5%25BE%259E%25E7%2594%259F%25E6%25B4%25BB%25E5%25AF%25A6%25E8%25B8%2590%25E6%25B7%25A8%25E9%259B%25B6-161834637.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0_t5CvVQhP4oHtPKqsOICb",
+          "published": "2026-05-30T17:07:25+00:00",
+          "summary": "在對談環節，小局長們針對減碳、氣候變遷及如何帶動更多人投入環保行動提出問題；劉和然逐一回應，並分享自身落實減塑、簡化消費等日常作法，強調真正的環保不是口號&nbsp;..."
         },
         {
-          "title": "黑色黃金再進化當葉門咖啡遇上<b>氣候變遷</b>的杯中逆襲| TVBS | LINE TODAY",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/eLKvZGG&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1dh8JjdYHqjDRbnZ9wpGIW",
-          "published": "2026-05-29T23:42:25+00:00",
-          "summary": "許多不愛飲酒或尋求安靜空間的民眾，在深夜有了新去處。Arwa Coffee加盟商巴德爾表示，這片區域在晚上九點、十點之後，除了酒吧或夜店之外，民眾可以選擇的社交場所&nbsp;..."
+          "title": "阿潑／剝開進步的表面：在《燼光之城》裡，看見被外部化的代價與鄉愁 - 報導者",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.twreporter.org/a/photo-jut-museum-fallenstadt-exhibition-review&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0XTER2DMQaNt8mM7Q58a8e",
+          "published": "2026-05-30T17:04:06+00:00",
+          "summary": "薩瓦圖斯（Mark Salvatus）將他在菲律賓首都馬尼拉收集到、屬於世界各個島嶼（國）的二手明信片排貼在牆上，藉此展現氣候變遷與全球化文明滲透兩種議題思考的意圖。"
         }
       ]
     }
