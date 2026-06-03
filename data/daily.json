@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-06-02T05:48:20.758904+00:00",
-    "date": "2026-06-02",
+    "generated_at": "2026-06-03T06:03:39.411579+00:00",
+    "date": "2026-06-03",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "黃仁勳親解 Vera CPU 戰略：這是一個 6 個月前還未存在的市場",
-          "link": "https://techorange.com/2026/06/02/nvidia-gtc-taipei-vera-cpu-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-02T05:14:44+00:00",
-          "summary": "COMPUTEX 2026 展會期間，NVIDIA 執行長黃仁勳在同步舉辦的 GTC Taipei 進行全球媒體問答。相較於前一天定調未來十年運算趨勢的主題演講，這場問答更像一場補充說明會，黃仁勳親自回應了 Vera CPU 對打 AMD、進軍筆電市場等問題。 黃仁勳：代理時代不是賣核心，而是賣 Token 現場有媒體提問，台灣科技生態系數十年來圍繞 x86 架構建立，而 Vera CPU 將以獨"
+          "title": "AI 算力進入部署期：COMPUTEX 2026 看技嘉、英業達、緯穎如何打造可商業化的 AI 基礎設施？",
+          "link": "https://techorange.com/2026/06/03/computex-gigabyte-inventec-wiwynn/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-03T05:25:32+00:00",
+          "summary": "隨著 AI 技術發展從模型訓練邁向大規模商業應用，企業面臨的挑戰已逐漸轉移至「如何讓 AI 基礎建設（Infrastructure）快速且穩定地落地」。在 COMPUTEX 2026 展會上，技嘉、英業達與緯穎的展示，剛好對應 AI 基礎建設落地的三個難題：資料中心如何縮短建置時間、系統廠如何從單機伺服器走向整機櫃整合，以及當算力集群持續放大，光互連如何成為突破頻寬與功耗瓶頸的新選項。 COMPU"
         },
         {
-          "title": "如何用 AI 代理為軟體開發做出高價值貢獻？專家提點 5 大面向，人類管理仍不可或缺",
-          "link": "https://techorange.com/2026/06/02/ai-agent-5-value-for-development/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-02T01:17:13+00:00",
-          "summary": "專家指出 5 項 AI 代理得以發揮最大應用價值的面向，包括：原型設計、程式碼生成、軟體測試與品管、例行工程任務自動化，以及程式碼維護與重構。"
+          "title": "【運動手錶也要有 AI】讓 AI 真正理解運動員的身體狀態，為何 Coros 押注語音輸入？",
+          "link": "https://techorange.com/2026/06/03/coros/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-03T02:46:37+00:00",
+          "summary": "Coros 成立不到十年，已在運動手錶市場站穩一席之地，名字開始與 Garmin、Polar、Suunto 並列在同一個討論框架裡。 這家品牌靠著在價格、功能與效能之間找到甜蜜點而快速崛起，但它現在想做的，已經不只是追上這些老牌競爭者，而是押注一個它認為將重塑整個產業的技術方向：語音與 AI 的結合。 麥克風上錶，但用法完全不同 在運動手錶上加入麥克風這件事，Coros 並不是第一個。Garmin"
         },
         {
-          "title": "兩年覆蓋三分之二美國醫界，AI 醫學資訊平台 OpenEvidence 的崛起與隱憂",
-          "link": "https://techorange.com/2026/06/02/u-s-doctors-using-ai-tool/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-02T01:16:38+00:00",
-          "summary": "以生成式 AI 驅動的醫學資訊平台 OpenEvidence，在美國醫界的採用速度已相當驚人。光是今年四月，約 65% 的美國醫師、橫跨近 2,700 萬次臨床接觸場合使用過它，換算下來，約有 65 萬名美國執業醫師正積極依賴這項服務。 哈佛醫療政策教授、美國麻州總醫院內科醫師 Anupam Jena 形容：「每個人都在使用它，它的成長是指數型的。」七個月前，這項工具在美國醫師之間的採用率還只有五"
+          "title": "【科技早餐】NVIDIA 重做 AI PC、Google 募資 800 億美元，COMPUTEX 把 AI 基建戰推向新一輪",
+          "link": "https://techorange.com/2026/06/03/nvidia-reinvents-ai-pc-google-raises-80-billion-computex-pushes-ai-infra-race-into-new-phase/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-02T22:50:00+00:00",
+          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊NVIDIA、聯發科重做 AI PC，代理式 AI 從雲端進桌面 NVIDIA 執行長黃仁勳在 COMPUTEX 說明，NVIDIA 與 Microsoft、聯發科（MediaTek）合作推出 RTX Spark 平台，目標不是只做新一代 AI PC，而是重新設計代理式 AI 時代的個人電腦。黃仁勳表示，未來 AI 不只是回答問題，而是能理解任務"
         },
         {
-          "title": "為什麼消費者討厭 AI 語音客服？美國 Home Depot 用人機「黃金比例」破解傳統設計邏輯",
-          "link": "https://techorange.com/2026/06/02/home-depot-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-02T00:00:00+00:00",
-          "summary": "生成式 AI 進入客服產業，消費者對 AI 客服的反感情緒也浮現。根據體驗管理公司 Qualtrics 發布的《2026 Customer Experience Trends Report》，近五分之一使用過 AI 客服的消費者表示，自己沒有感受到任何好處。調查顯示，消費者甚至將 AI 客服列為便利性、省時性與實用性表現最差的 AI 應用之一。 困在 FAQ 裡的無限循環，AI 客服引爆消費者反撲"
+          "title": "陳立武上任 14 個月後首度亮牌：Intel 如何押注代理式 AI、客製化晶片與機架級系統？",
+          "link": "https://techorange.com/2026/06/02/intel-computex-2026-keynote/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-02T12:50:58+00:00",
+          "summary": "經過一段時間的內部重整，英特爾（Intel）在 COMPUTEX 2026 台北國際電腦展上展現了截然不同的戰略姿態。從 AI 基礎設施、機架級系統、客製化晶片，到 Google、Ericsson 等合作案，面對 AI Agent 浪潮來襲，英特爾執行長陳立武在上任 14 個月後首度完整展示其 AI 佈局，他表示：「你們已經看到了英特爾的一些轉變，但我們才剛開始。」 針對 AI 產業變化，陳立武表"
         },
         {
-          "title": "【科技早餐】黃仁勳宣告有用的 AI 到來，歐洲 AI 基建與 Token 成本同步升溫",
-          "link": "https://techorange.com/2026/06/02/nvidia-ceo-jensen-huang-annnounces-useful-ai-arrived/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-01T22:50:00+00:00",
-          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊黃仁勳稱有用的 AI 到來，Vera CPU 亮相、RTX Spark 把 AI 推進 PC NVIDIA 執行長黃仁勳在 GTC Taipei 主題演講中表示，「有用的 AI 已經到來」，AI 正從生成式 AI，走向能完成工作的代理式 AI。他以軟體工程師為例指出，AI 工具正在推升開發者產出，也讓 token 從運算單位，進一步變成 AI 工"
+          "title": "搭載 Arm 架構的 NVIDIA RTX Spark，重新定義代理式 AI 時代的個人電腦",
+          "link": "https://techorange.com/2026/06/02/arm-nvidia-computex/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-02T11:12:26+00:00",
+          "summary": "作者：Arm 邊緣 AI 事業部執行副總裁 Chris Bergey 數十年來，個人電腦的設計思維一直以人們使用應用程式為核心場景。如今，代理式 AI 正在改變這個模式。隨著應用程式變得更加自主，使用者將透過提示，指示AI代理在各項工作流程中進行觀察、推論、規劃，並採取行動。 這項演進正帶動市場對兩大類 AI 運算的需求： 全新搭載 Arm 架構的 NVIDIA RTX Spark，正是展現這項轉"
         },
         {
-          "title": "研華深化 NVIDIA 合作推出「AI Factory Brain」，以 Agentic AI 串聯全廠智慧決策",
-          "link": "https://techorange.com/2026/06/01/advantech-nvidia-computex/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-01T14:13:59+00:00",
-          "summary": "全球邊緣運算與邊緣AI平台領導廠商研華公司（TWSE:2395）今（1）日宣布深化與 NVIDIA 的合作，正式推出 AI 原生工廠架構（AI-Native Factory Architecture）迎向 Agentic AI 與 Physical AI 時代的來臨。 AI 原生工廠架構結合 NVIDIA NemoClaw、NVIDIA Factory Operations Blueprint、N"
+          "title": "NEXCOM 新漢集團攜手高通於 COMPUTEX 推動具身 AI 機器人發展，打造高效能開發平台",
+          "link": "https://techorange.com/2026/06/02/nexcom-qualcomm-computex/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-02T11:04:23+00:00",
+          "summary": "全球通訊與運算技術領先企業高通技術公司（Qualcomm Technologies, Inc.）與工業運算領先企業 NEXCOM 新漢集團旗下創博股份有限公司（NEXCOM Robotic Solutions, NexCOBOT Co., Ltd.）（8234）今日於 COMPUTEX 2026 宣布合作意向，將共同加速新一代機器人解決方案的開發。此次合作旨在結合高通技術公司在高效能邊緣運算的領先"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "高希均回憶錄〉胡志強請高教授別換工作、孫震推薦讀第六章",
-          "link": "https://www.gvm.com.tw/article/130566",
-          "published": "2026-06-01T20:54:00",
-          "summary": "「遠見．天下文化事業群」創辦人高希均今（1）日舉辦《高希均回憶錄》新書發表會，政商學界逾300位貴賓齊聚，與會人士一致盛讚高希均一生秉持「書生報國」精神，長年推動閱讀、文化傳承與和平幸福理念。回憶錄濃縮其90年精采人生，記錄自少年時期隨家人來台，到創辦遠見、天下文化，並深耕出版志業的奮鬥歷程，展現其胸懷天下，追求和平與社會進步的宏大格局。「遠見．天下文化事業群」創辦人高希均今（1）日舉辦《高希均回"
+          "title": "黃仁勳為何看好Marvell股價漲？光通訊概念股正崛起",
+          "link": "https://www.gvm.com.tw/article/130574",
+          "published": "2026-06-02T19:16:00",
+          "summary": "2026/6/3編按更新：當全台再掀起「黃仁勳旋風」，瘋狂追逐黃仁勳動向時，他在2026 COMPUTEX 開幕首日難得的站台留給邁威爾（Marvell），更預言其為下一個兆元巨頭。當晚美股MRVL股價立漲32%！到底邁威爾做什麼？輝達黃仁勳窺出哪個新商機？原來這場罕見合體明確點出AI晶片空轉的隱形瓶頸，並揭開「銅光過渡」的全球商戰序幕，光通訊與銅技術都並存，顛覆了市場這一陣熱談的「銅退光進」。邁"
         },
         {
-          "title": "《高希均回憶錄》重磅發表！回顧90載人生，籲投資教育與和平幸福",
-          "link": "https://www.gvm.com.tw/article/130564",
-          "published": "2026-06-01T19:09:00",
-          "summary": "走過將近一個世紀的漫長歲月，今年慶祝90歲大壽的「遠見‧天下文化事業群」創辦人高希均至今仍筆耕不輟。今（1）日他親述人生軌跡的《高希均回憶錄—從「天下哪有白吃午餐」到「和平幸福」》一書舉辦新書發表會，高希均親自對全場滿座聽眾，娓娓道來他以知識改變自己的命運，進而書生報國、改變台灣社會的前進方向，以及對和平幸福的終極追求。「遠見‧天下文化事業群」創辦人高希均今年正逢90大壽，在今（1）日發表新書《高"
+          "title": "川普把格鬥賽搬進白宮！慶祝建國250週年與80大壽，獎金達百萬美元",
+          "link": "https://www.gvm.com.tw/article/130590",
+          "published": "2026-06-02T19:13:00",
+          "summary": "美國政府為慶祝建國250週年與川普80歲生日，首度在白宮草坪舉辦「UFC Freedom 250」八角籠格鬥賽。本文整理賽事時間、場地亮點、門票分配、觀賽方式、軍人觀賽規定、焦點選手，以及高達百萬美元獎金等重點資訊。目錄&nbsp;● 白宮格鬥賽舉行日期與背景● 格鬥賽場地亮點● 現場門票數量與取得方式● 美軍官兵觀賽限制● 一般民眾如何觀賽● 重磅選手與獎金&nbsp;為慶祝美國建國250週年與"
         },
         {
-          "title": "包辦全球最燙50城！從印度50度高溫看氣候不平等",
-          "link": "https://www.gvm.com.tw/article/130559",
-          "published": "2026-06-01T18:37:00",
-          "summary": "5月剛結束，台灣就已經熱到讓人受不了，台南玉井、屏東等地連連飆破38度。如果說台灣是「烤地瓜」，此時的印度簡直就是「世紀火爐」了，近期體感溫度衝破50度，而且全球氣溫最高的前50座城市都被印度包辦了。這場熱浪烤出的不只是極端氣候的警訊，更是「氣候不平等」的殘酷現實。憑什麼富裕大國靠「排碳」賺飽飽，窮國與弱勢人民卻被迫站在第一線為全球暖化埋單？北半球的夏季才剛拉開序幕，南亞就提前迎來熱浪危機。根據國"
+          "title": "Gemini Omni怎麼用？文字生成影片、風格改造四大實測",
+          "link": "https://www.gvm.com.tw/article/130544",
+          "published": "2026-06-02T19:01:00",
+          "summary": "Google 最新 AI 影片生成工具 Gemini Omni 怎麼用？《遠見》實測4種素材——文字、圖片、影片、分鏡圖，帶你看懂風格轉換、知識解說影片怎麼生成，附上另一影片生成熱門應用Seedance 2費用方案比較。看看誰CP值最高？&nbsp;Google近期推出最新AI影片生成模型Gemini Omni，結合邏輯推理與創作能力，打造更逼真且充滿創意的影片。無論是上傳文字、聲音、照片或影片，"
         },
         {
-          "title": "2026FIFA世界盃》美加墨世足48隊新賽制！這些黑馬可能改寫戰局",
-          "link": "https://www.gvm.com.tw/article/130561",
-          "published": "2026-06-01T18:18:00",
-          "summary": "2026年美加墨世界盃足球賽（FIFA World Cup 2026™）6月11日開踢，這屆賽事不只是規模史上最大（48隊、104場），更因為一個關鍵變革徹底改變了足球版圖：新增的32強賽制給了每一支在舊賽制下可能三場出局的隊伍多一條生路，讓任何一支在關鍵時刻爆發的球隊，都有機會在淘汰賽積累動能、一路撐進最後幾輪。這表示，黑馬不只比以往更容易誕生，而是幾乎已是必然發生的事。本文整理8支球隊，或許是"
+          "title": "黃仁勳揭密N1X秘辛，與聯發科蔡力行合作不只有現在？",
+          "link": "https://www.gvm.com.tw/article/130589",
+          "published": "2026-06-02T18:45:00",
+          "summary": "昨日黃仁勳演講，揭開「N1X」與聯發科共同打造，當日聯發科（2454）股價又翻紅！到底當初輝達如何決定與聯發科攜手？在週二輝達GTCTaipei 2026的全球媒體記者會現場有解答！聯發科執行長蔡力行還意外現身，與執行長黃仁勳同台揭開RTX Spark誕生內幕。原來，這款被視為AI時代新一代PC平台的產品，背後藏著NVIDIA與聯發科長達兩年的合作故事。未來還可期待更多？三年前，NVIDIA與微軟"
         },
         {
-          "title": "COMPUTEX2026／高通CEO：AI Agent讓CPU再度偉大",
-          "link": "https://www.gvm.com.tw/article/130560",
-          "published": "2026-06-01T18:16:00",
-          "summary": "2021年上任、如今帶領高通（Qualcomm）走向第五個十年的執行長艾蒙，既有喜也有憂。手機端晶片仍然稱霸，車用晶片更是勢不可擋，但也有後蘋果時代如何填補缺口，以及AI PC聲勢不如預期的挑戰。在COMPUTEX擔綱開幕演說的他，勾勒出什麼樣的新願景？過去兩年站上台北電腦展舞台時，高通（Qualcomm）執行長艾蒙（Cristiano Amon）的演講重點，始終圍繞著由人工智慧驅動的筆電。前年（"
+          "title": "心理健康需要好的療癒空間！教育部攜手台設院改造大學諮商室",
+          "link": "https://www.gvm.com.tw/article/130588",
+          "published": "2026-06-02T18:23:00",
+          "summary": "隨著現代人的經濟與社會生活壓力日增，身心健康議題愈加受到重視，大學校院內學生對心理輔導與諮商的需求也遽增。為提供更能夠有效接住需要幫助的學生，教育部委託台灣設計研究院（以下簡稱台設院）推動了「學美．耕心—大專校院輔導諮商空間改造計畫」，針對校園諮商空間進行改造，計畫邁入第二年的如今，已有八所學校完成改造。究竟，大學諮商空間原本哪些痛點？如何改善？大學諮商能夠怎麼樣幫助學生呢？大學生心理諮商需求劇增"
         },
         {
-          "title": "PC股為何漲？黃仁勳GTC宣告40年來最大電腦革命",
-          "link": "https://www.gvm.com.tw/article/130558",
-          "published": "2026-06-01T17:30:00",
-          "summary": "1日一開盤，PC台廠股價漲翻，包括宏碁（2353）、華碩（2357）、微星（2377）以及技嘉（2376），漲幅從近5％到近一成不等。發生什麼事？輝達執行長黃仁勳本日GTC Taipei演講指出，輝達（NVDA）正啟動40年來PC最大革命，將顛覆整個產業。到底輝達與微軟重新發明PC會做什麼？說話重點一次看。「在座許多人、許多我的朋友與合作夥伴，你們的公司也是從這裡開始的，某種程度上來說，這裡就是現"
+          "title": "黃仁勳確定將登上劉在錫主持的《劉QUIZ》！AI教父首次挑戰綜藝，將再掀韓國旋風",
+          "link": "https://www.gvm.com.tw/article/130587",
+          "published": "2026-06-02T17:57:00",
+          "summary": "「AI教父」黃仁勳確定將登上韓國「國民MC」劉在錫主持的《劉QUIZ ON THE BLOCK》，這是黃仁勳首次上綜藝節目，更讓人好奇他會分享哪些不為人知的故事。在全球科技圈擁有近乎傳奇地位的黃仁勳，近年來無論走到哪裡，都像明星般受到歡迎。從輝達（NVIDIA）發表會現場到各國科技論壇，只要他一現身，往往都能吸引大批媒體與粉絲爭相追逐。隨著生成式AI浪潮席捲全球，這位被譽為「AI教父」的科技巨擘，"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "佛大微水力示範亮相助攻宜蘭<b>淨零</b>轉型 - 人間通訊社",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.lnanews.com/news/%25E4%25BD%259B%25E5%25A4%25A7%25E5%25BE%25AE%25E6%25B0%25B4%25E5%258A%259B%25E7%25A4%25BA%25E7%25AF%2584%25E4%25BA%25AE%25E7%259B%25B8%25E3%2580%2580%25E5%258A%25A9%25E6%2594%25BB%25E5%25AE%259C%25E8%2598%25AD%25E6%25B7%25A8%25E9%259B%25B6%25E8%25BD%2589%25E5%259E%258B.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0KlKEYCZaPjKIRICEKXq8E",
-          "published": "2026-06-02T00:35:27+00:00",
-          "summary": "團隊更透過沉浸式展示設計，將抽象的發電過程轉化為民眾容易理解的科普體驗。 佛光大學表示，學校積極回應全球氣候變遷挑戰與國家2050淨零排放目標，此次成果串聯&nbsp;..."
+          "title": "連江縣低碳永續認證率達100％ 馬祖勇奪全國第一呈現<b>淨零</b>推動成效 - 台灣新聞雲",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://886.news/archives/334725&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3yuRJCIN55Uc-E7BikbkOv",
+          "published": "2026-06-03T01:55:32+00:00",
+          "summary": "環資局指出，連江縣面臨能源供應、水資源管理、交通運輸及氣候變遷調適，需要社區參與及跨層級合作，各村已依據在地特色與需求，積極推動節能、節水、綠美化&nbsp;..."
         },
         {
-          "title": "桃園醫療<b>淨零</b>轉型見成效節能減碳三箭齊發打造永續健康城市 - 蕃新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20260601673391&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1wQerCatjbJcg8deqpzrnz",
-          "published": "2026-06-01T23:09:18+00:00",
-          "summary": "因應全球氣候變遷與淨零排放趨勢，桃園市政府衛生局1日表示，桃園市醫療院所積極推動節能減碳，透過智慧能源管理、設備汰換及綠色醫療措施，逐步提升能源&nbsp;..."
+          "title": "《經濟》資源循環推動法三讀通過！台灣邁入資源循環新時代",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/6a1f7684de5d6e550460a215&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0n5QWCHTaN6_OkniAJm0VP",
+          "published": "2026-06-03T00:42:41+00:00",
+          "summary": "環境部指出，面對資源耗竭、國際綠色供應鏈轉型趨勢及全球氣候變遷，資源 ... 環境部表示，資源循環是淨零轉型的重要基礎，也是提升國家韌性與產業競爭&nbsp;..."
         },
         {
-          "title": "【厄爾尼諾來臨】農民嚴陣以待極端天氣風險| SBS Chinese",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sbs.com.au/language/chinese/zh-hant/article/climate-change-loading-the-dice-as-farmers-brace-for-el-nino-announcement/7qcc7edpw&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1Pm0X0fNc9Z8NTPD8c_XUl",
-          "published": "2026-06-01T22:17:56+00:00",
-          "summary": "氣象局可能在未來數周，正式宣布厄爾尼諾現象形成，有可能令當地再度轉向乾旱天氣。 澳洲的氣候並非只受太平洋厄爾尼諾—南方振盪氣候系統（&nbsp;..."
+          "title": "高雄港邁向綠色新紀元港務公司啟動LNG船舶加注服務規劃推動亞太航運邁向<b>淨零</b>碳 - 樂聯網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://leho.com.tw/archives/318621&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1fWVR7RRr7J--27fuXvqsV",
+          "published": "2026-06-02T20:26:28+00:00",
+          "summary": "因應全球航運淨零碳排趨勢，隨著歐盟排放交易體系（European Union Emission Trading Scheme, ETS）上路，以及國際海事組織（International Maritime Organization,&nbsp;..."
         },
         {
-          "title": "賀中油80歲賴總統盼穩定能源|半導體|產業新聞|產科國際所【IEK產業情報網】",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D9%26nsl_id%3D1e44a758e21a4ee98beb250170e6f666&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1wW8IwwjdXW55PebPSVxE2",
-          "published": "2026-06-01T22:17:15+00:00",
-          "summary": "... 淨零。 百年一見的AI變局-高頻高速運算材料產業發展趨勢研討會. 更多新聞. 日月光投控 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
+          "title": "The bee flew straight at him; the man, fearing a sting, ran away. - YouTube",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D619KBtkG7Uc&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw19IFGR91icKF1pSZm165t3",
+          "published": "2026-06-02T20:06:43+00:00",
+          "summary": "... ，但受到氣候變遷 ... However, due to rising temperatures caused by climate change, pollination has been poor."
         },
         {
-          "title": "高市綠化補助再升級立體綠化與綠屋頂最高補助80萬元 - 是新聞YesMedia",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.yesmedia.com.tw/%25E9%25AB%2598%25E5%25B8%2582%25E7%25B6%25A0%25E5%258C%2596%25E8%25A3%259C%25E5%258A%25A9%25E5%2586%258D%25E5%258D%2587%25E7%25B4%259A%25E3%2580%2580%25E7%25AB%258B%25E9%25AB%2594%25E7%25B6%25A0%25E5%258C%2596%25E8%2588%2587%25E7%25B6%25A0%25E5%25B1%258B%25E9%25A0%2582%25E6%259C%2580%25E9%25AB%2598%25E8%25A3%259C%25E5%258A%25A980/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw16sjRY_x32nyCc91052pen",
-          "published": "2026-06-01T22:01:43+00:00",
-          "summary": "工務局表示，面對全球氣候變遷與都市熱島效應，高雄市已訂定2030年減碳30%、2050年達成淨零排放的政策目標，而建築物立體綠化與綠屋頂，正是城市降溫與減碳的重要&nbsp;..."
+          "title": "韓正晤英國外交大臣顧綺慧冀中英加強戰略溝通 - AASTOCKS.com",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.aastocks.com/tc/stocks/news/aafn-news/NOW.1527161/2&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0xbLtSAhScX0CIL1RyDi3K",
+          "published": "2026-06-02T19:39:17+00:00",
+          "summary": "共同踐行真正的多邊主義，攜手推進全球治理體系改革，為世界注入更多穩定性和確定性。 相關內容中國碳中和(01372.HK)擬於東盟市場開展碳中和業務 顧綺慧表示&nbsp;..."
         },
         {
-          "title": "佛光大學微水力發電教學成果亮相宜蘭<b>淨零</b>公正轉型成果展 - 中央社",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/postwrite/chi/435057&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1jtV6suwaW009fK5JmzX8l",
-          "published": "2026-06-01T21:27:43+00:00",
-          "summary": "佛光大學積極回應全球氣候變遷挑戰與國家2050淨零排放目標，5月27日受邀參與宜蘭縣政府與國家發展委員會於羅東文化工場共同舉辦的「J-Path宜路前行：宜蘭淨零&nbsp;..."
+          "title": "「圳起十年：嘉南大圳寫真帖」成大開展從歷史影像重探臺灣社會發展軌跡 - 中央社",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/postwrite/chi/435197&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0JNR4yoBXRNpkohkc7DpLV",
+          "published": "2026-06-02T18:14:33+00:00",
+          "summary": "透過影像與文本的交織，觀眾將得以重新思考水資源如何影響生活、產業與城市發展，進而體認在全球氣候變遷下，珍惜水資源與傳承工程智慧的重要性。 ... | 淨零碳排 &middot; |&nbsp;..."
         }
       ]
     }
