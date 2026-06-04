@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-06-03T06:03:39.411579+00:00",
-    "date": "2026-06-03",
+    "generated_at": "2026-06-04T05:56:31.416875+00:00",
+    "date": "2026-06-04",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "AI 算力進入部署期：COMPUTEX 2026 看技嘉、英業達、緯穎如何打造可商業化的 AI 基礎設施？",
-          "link": "https://techorange.com/2026/06/03/computex-gigabyte-inventec-wiwynn/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-03T05:25:32+00:00",
-          "summary": "隨著 AI 技術發展從模型訓練邁向大規模商業應用，企業面臨的挑戰已逐漸轉移至「如何讓 AI 基礎建設（Infrastructure）快速且穩定地落地」。在 COMPUTEX 2026 展會上，技嘉、英業達與緯穎的展示，剛好對應 AI 基礎建設落地的三個難題：資料中心如何縮短建置時間、系統廠如何從單機伺服器走向整機櫃整合，以及當算力集群持續放大，光互連如何成為突破頻寬與功耗瓶頸的新選項。 COMPU"
+          "title": "攻克汽車業 90% 無法自動化的盲區，奧迪用「AI + 機器人」重塑高勞動強度產線",
+          "link": "https://techorange.com/2026/06/04/audi-ai-weld-splatter-detection/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-04T05:00:27+00:00",
+          "summary": "在汽車製造邁向智慧工廠的過程中，真正困難的環節往往不是高度標準化的機械加工，而是那些需要大量人工經驗、長時間重複操作，甚至伴隨高勞動強度的細節工序。 德國車廠奧迪（Audi）近期公布最新 AI 生產布局，揭示汽車製造業正在進入另一波自動化轉折點。過去長年難以被機器全面取代的產線工作，如焊接後處理、線束安裝與製程異常監控，如今正透過 AI、雲端架構與機器人整合逐步被重塑。 告別高強度人工打磨！AI "
         },
         {
-          "title": "【運動手錶也要有 AI】讓 AI 真正理解運動員的身體狀態，為何 Coros 押注語音輸入？",
-          "link": "https://techorange.com/2026/06/03/coros/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-03T02:46:37+00:00",
-          "summary": "Coros 成立不到十年，已在運動手錶市場站穩一席之地，名字開始與 Garmin、Polar、Suunto 並列在同一個討論框架裡。 這家品牌靠著在價格、功能與效能之間找到甜蜜點而快速崛起，但它現在想做的，已經不只是追上這些老牌競爭者，而是押注一個它認為將重塑整個產業的技術方向：語音與 AI 的結合。 麥克風上錶，但用法完全不同 在運動手錶上加入麥克風這件事，Coros 並不是第一個。Garmin"
+          "title": "16GB 筆電就能跑多模態模型、AI Agent？Google 發表 Gemma 4 12B 揭企業 AI 新需求",
+          "link": "https://techorange.com/2026/06/04/google-gemma-4-12b/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-04T04:10:55+00:00",
+          "summary": "過去兩年，AI 產業的競爭幾乎圍繞著同一件事：誰擁有更多 GPU、誰能訓練更大的模型。然而 Google 最新推出的開源模型 Gemma 4 12B，試圖證明另一條路線也正在成形：未來企業真正需要的，或許不是規模更大的模型，而是能在本地設備執行推理、多模態理解與 AI Agent 任務的模型。 Google 發表 Gemma 4 12B，這款約 120 億參數的開源模型採用 Apache 2.0 "
         },
         {
-          "title": "【科技早餐】NVIDIA 重做 AI PC、Google 募資 800 億美元，COMPUTEX 把 AI 基建戰推向新一輪",
-          "link": "https://techorange.com/2026/06/03/nvidia-reinvents-ai-pc-google-raises-80-billion-computex-pushes-ai-infra-race-into-new-phase/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-02T22:50:00+00:00",
-          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊NVIDIA、聯發科重做 AI PC，代理式 AI 從雲端進桌面 NVIDIA 執行長黃仁勳在 COMPUTEX 說明，NVIDIA 與 Microsoft、聯發科（MediaTek）合作推出 RTX Spark 平台，目標不是只做新一代 AI PC，而是重新設計代理式 AI 時代的個人電腦。黃仁勳表示，未來 AI 不只是回答問題，而是能理解任務"
+          "title": "2025 年全球邊緣運算支出突破 2,600 億美元，決定成敗的是 IT 與 OT 能否對齊目標",
+          "link": "https://techorange.com/2026/06/04/edge-computing-and-ai-2/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-04T02:17:58+00:00",
+          "summary": "當製造業的工業環境越來越自動化、越來越互聯，製造商每天生成的營運資料量，正以前所未有的速度膨脹。問題是，資料本身不會創造價值，能否在關鍵時刻發揮效用才會，這正是邊緣運算成為製造業架構基礎的原因。 然而值得先點明的是，多數導入計畫的成敗，並不取決於選了哪套硬體或平台，而在於組織能否真正把它當成核心營運能力來經營。 去年全球邊緣運算解決方案的支出，已近 2,610 億美元 首先邊緣運算之所以重要，在於"
         },
         {
-          "title": "陳立武上任 14 個月後首度亮牌：Intel 如何押注代理式 AI、客製化晶片與機架級系統？",
-          "link": "https://techorange.com/2026/06/02/intel-computex-2026-keynote/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-02T12:50:58+00:00",
-          "summary": "經過一段時間的內部重整，英特爾（Intel）在 COMPUTEX 2026 台北國際電腦展上展現了截然不同的戰略姿態。從 AI 基礎設施、機架級系統、客製化晶片，到 Google、Ericsson 等合作案，面對 AI Agent 浪潮來襲，英特爾執行長陳立武在上任 14 個月後首度完整展示其 AI 佈局，他表示：「你們已經看到了英特爾的一些轉變，但我們才剛開始。」 針對 AI 產業變化，陳立武表"
+          "title": "COMPUTEX 2026 AI 機器人展區直擊：從零件到整機，Physical AI 正在現場發生",
+          "link": "https://techorange.com/2026/06/03/computex-2026-ai-robotics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-03T13:06:25+00:00",
+          "summary": "AI（Physical AI）正成為科技產業下一波競逐焦點，看準這股趨勢，COMPUTEX 2026 首度設立 AI 機器人展區，聚焦具身智慧（Embodied AI）、機器人運算平台、智慧城市與數位孿生等技術發展。 實際走訪展區可以發現，現場展示的重點不只是機器人本體，而是支撐機器人運作的整體技術生態系。從 VLM 模型、邊緣運算平台，到減速機與視覺辨識系統，各家廠商正試圖補齊 Physical"
         },
         {
-          "title": "搭載 Arm 架構的 NVIDIA RTX Spark，重新定義代理式 AI 時代的個人電腦",
-          "link": "https://techorange.com/2026/06/02/arm-nvidia-computex/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-02T11:12:26+00:00",
-          "summary": "作者：Arm 邊緣 AI 事業部執行副總裁 Chris Bergey 數十年來，個人電腦的設計思維一直以人們使用應用程式為核心場景。如今，代理式 AI 正在改變這個模式。隨著應用程式變得更加自主，使用者將透過提示，指示AI代理在各項工作流程中進行觀察、推論、規劃，並採取行動。 這項演進正帶動市場對兩大類 AI 運算的需求： 全新搭載 Arm 架構的 NVIDIA RTX Spark，正是展現這項轉"
+          "title": "從數位孿生到實體生產力：達明機器人定義 Physical AI 落地關鍵，發表「端到端開發套件」打通 AI 供應鏈最後一哩路",
+          "link": "https://techorange.com/2026/06/03/techman-robot-computex-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-03T10:24:00+00:00",
+          "summary": "達明機器人宣佈深化與NVIDIA、QCT的策略合作，正式推出「Physical AI 開發套件（Physical AI Development Package）」。這套業界首創的解決方案，標誌著達明機器人已成功串聯從資料採集、算力支撐到終端部署的完整鏈條，成為台灣 AI 硬體供應鏈中，將數位智慧轉化為實體生產力的「最後一哩路」 。 雙引擎戰略核心：一套大腦，賦與機器人多元型態 不同於市場過往僅關注"
         },
         {
-          "title": "NEXCOM 新漢集團攜手高通於 COMPUTEX 推動具身 AI 機器人發展，打造高效能開發平台",
-          "link": "https://techorange.com/2026/06/02/nexcom-qualcomm-computex/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-02T11:04:23+00:00",
-          "summary": "全球通訊與運算技術領先企業高通技術公司（Qualcomm Technologies, Inc.）與工業運算領先企業 NEXCOM 新漢集團旗下創博股份有限公司（NEXCOM Robotic Solutions, NexCOBOT Co., Ltd.）（8234）今日於 COMPUTEX 2026 宣布合作意向，將共同加速新一代機器人解決方案的開發。此次合作旨在結合高通技術公司在高效能邊緣運算的領先"
+          "title": "AI 已催生 130 萬個新型職位：《富比士》點名 20 種 Agentic AI 人才，企業組織圖正在改寫",
+          "link": "https://techorange.com/2026/06/03/linkedin-new-agentic-ai-jobs-mckinsey-linkedin-coming/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-03T09:38:22+00:00",
+          "summary": "《富比士》報導，代理 AI（Agentic AI）帶來的最大討論焦點，往往集中在工作機會被取代與消失的議題。然而，數據所呈現的另一面卻顯示，AI 不僅正在改變既有職位，更持續創造大量全新的工作機會，而這項發展相較於失業議題，獲得的關注明顯較少。 新領時代來臨：AI 帶動百萬新職缺，人才需求全面翻轉 相較於外界普遍聚焦 AI 將取代工作機會的討論，最新數據顯示，AI 也正快速催生大量新興職業。根據 "
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "黃仁勳為何看好Marvell股價漲？光通訊概念股正崛起",
-          "link": "https://www.gvm.com.tw/article/130574",
-          "published": "2026-06-02T19:16:00",
-          "summary": "2026/6/3編按更新：當全台再掀起「黃仁勳旋風」，瘋狂追逐黃仁勳動向時，他在2026 COMPUTEX 開幕首日難得的站台留給邁威爾（Marvell），更預言其為下一個兆元巨頭。當晚美股MRVL股價立漲32%！到底邁威爾做什麼？輝達黃仁勳窺出哪個新商機？原來這場罕見合體明確點出AI晶片空轉的隱形瓶頸，並揭開「銅光過渡」的全球商戰序幕，光通訊與銅技術都並存，顛覆了市場這一陣熱談的「銅退光進」。邁"
+          "title": "國語考卷滿分卻不會溝通？AI時代，孩子最缺的3種「人味超能力」",
+          "link": "https://www.gvm.com.tw/article/130624",
+          "published": "2026-06-03T18:56:00",
+          "summary": "輝達（NVIDIA）近期釋出「簡報設計師」職缺，文科生也能當黃仁勳員工的話題引起熱議。語文素養，其實決定孩子的綜合實力，甚至對世界的理解！AI時代下，當一切知識可以輕易得到，我們還剩什麼？答案是，你得比AI更像人。這樣的人味，就建立在語文素養力，有批判性思維、深度同理心，還要有精準表達力。（本文節錄自《語文素養，孩子一生的超能力》一書，作者：王文仁（文科教授）／圓神出版，以下為摘文。）週末午後，小"
         },
         {
-          "title": "川普把格鬥賽搬進白宮！慶祝建國250週年與80大壽，獎金達百萬美元",
-          "link": "https://www.gvm.com.tw/article/130590",
-          "published": "2026-06-02T19:13:00",
-          "summary": "美國政府為慶祝建國250週年與川普80歲生日，首度在白宮草坪舉辦「UFC Freedom 250」八角籠格鬥賽。本文整理賽事時間、場地亮點、門票分配、觀賽方式、軍人觀賽規定、焦點選手，以及高達百萬美元獎金等重點資訊。目錄&nbsp;● 白宮格鬥賽舉行日期與背景● 格鬥賽場地亮點● 現場門票數量與取得方式● 美軍官兵觀賽限制● 一般民眾如何觀賽● 重磅選手與獎金&nbsp;為慶祝美國建國250週年與"
+          "title": "《遠見》2026五星首長頒獎，地方藍綠合作贏得滿堂彩",
+          "link": "https://www.gvm.com.tw/article/130616",
+          "published": "2026-06-03T18:43:00",
+          "summary": "《遠見》2026縣市長施政滿意度調查出爐，多位即將卸任首長以紅盤作收，適逢《遠見》40年，這些城市的大家長們也分享與《遠見》相處的點滴，例如連江縣長王忠銘就以《遠見》創辦人高希均的一席話做勉勵，透露自己以去年沉澱的所思所想，幫助今年再獲五星殊榮；首長們更暴露私下的好交情，像是去年風災，高雄市長陳其邁火速馳援，並與嘉義市長黃敏惠的擁抱照，讓現場響起滿堂彩，凸顯儘管目前政壇對立嚴重，但唯有和解，才能推"
         },
         {
-          "title": "Gemini Omni怎麼用？文字生成影片、風格改造四大實測",
-          "link": "https://www.gvm.com.tw/article/130544",
-          "published": "2026-06-02T19:01:00",
-          "summary": "Google 最新 AI 影片生成工具 Gemini Omni 怎麼用？《遠見》實測4種素材——文字、圖片、影片、分鏡圖，帶你看懂風格轉換、知識解說影片怎麼生成，附上另一影片生成熱門應用Seedance 2費用方案比較。看看誰CP值最高？&nbsp;Google近期推出最新AI影片生成模型Gemini Omni，結合邏輯推理與創作能力，打造更逼真且充滿創意的影片。無論是上傳文字、聲音、照片或影片，"
+          "title": "2026FIFA世界盃》美加墨世足賽9大球星盤點！你該認識的焦點球員全掌握",
+          "link": "https://www.gvm.com.tw/article/130623",
+          "published": "2026-06-03T18:34:00",
+          "summary": "2026世界盃足球賽將於6月11日至7月19日，在美國、加拿大、墨西哥舉行，本屆世足更將以往的32支參賽隊伍，首度擴軍至48支球隊角逐，橫跨16座城市、歷時39天，不僅規模是史上最大，這也是世足賽首次由3個國家共同舉辦。此外，本屆世足也是球星齊聚，梅西（Lionel Messi）與C羅（Cristiano Ronaldo）史無前例的「6度參賽」迎接最後一舞，同時，橫空出世的天才亞馬爾（Lamine"
         },
         {
-          "title": "黃仁勳揭密N1X秘辛，與聯發科蔡力行合作不只有現在？",
-          "link": "https://www.gvm.com.tw/article/130589",
-          "published": "2026-06-02T18:45:00",
-          "summary": "昨日黃仁勳演講，揭開「N1X」與聯發科共同打造，當日聯發科（2454）股價又翻紅！到底當初輝達如何決定與聯發科攜手？在週二輝達GTCTaipei 2026的全球媒體記者會現場有解答！聯發科執行長蔡力行還意外現身，與執行長黃仁勳同台揭開RTX Spark誕生內幕。原來，這款被視為AI時代新一代PC平台的產品，背後藏著NVIDIA與聯發科長達兩年的合作故事。未來還可期待更多？三年前，NVIDIA與微軟"
+          "title": "股價愈高台股愈便宜？「萬金股」信驊林鴻明分享破萬後心情",
+          "link": "https://www.gvm.com.tw/article/130619",
+          "published": "2026-06-03T18:29:00",
+          "summary": "Computex 2026來到第三天，信驊展區依舊擠滿參觀人潮，AI伺服器熱潮也同步反映在信驊（5274）股價表現上，截止至今天，其股價維持在高檔17980元。今（3）日信驊舉辦媒體交流會時，董事長林鴻明不只談AI伺服器需求、遠端伺服器管理晶片（BMC）新布局，面對媒體問及股價突破萬元的心情時，也難得分享一路從挑戰大立光股王紀錄到站上萬元關卡的心路歷程。「其實我忘記了，我們其實沒有在追求這件事情。"
         },
         {
-          "title": "心理健康需要好的療癒空間！教育部攜手台設院改造大學諮商室",
-          "link": "https://www.gvm.com.tw/article/130588",
-          "published": "2026-06-02T18:23:00",
-          "summary": "隨著現代人的經濟與社會生活壓力日增，身心健康議題愈加受到重視，大學校院內學生對心理輔導與諮商的需求也遽增。為提供更能夠有效接住需要幫助的學生，教育部委託台灣設計研究院（以下簡稱台設院）推動了「學美．耕心—大專校院輔導諮商空間改造計畫」，針對校園諮商空間進行改造，計畫邁入第二年的如今，已有八所學校完成改造。究竟，大學諮商空間原本哪些痛點？如何改善？大學諮商能夠怎麼樣幫助學生呢？大學生心理諮商需求劇增"
+          "title": "我家能不能都更？老屋都更為何無法「一坪換一坪」？專家分析2關鍵邏輯",
+          "link": "https://www.gvm.com.tw/article/130621",
+          "published": "2026-06-03T18:29:00",
+          "summary": "政府鼓勵都更給予容積獎勵，所以都更後的房子一定比更新前的全部坪數更多，但為什麼住戶不一定能分回和原先一樣面積的房子呢？因為都更的成本是「錢」，住戶提供折價抵付的房子「坪數」，要加上「房價」的換算後，才知道折抵的坪數值多少「錢」。（本文節錄自《都更現場答客問》一書，作者：張耕維／時報出版，以下為摘文。）吳媽媽：每天爬樓梯好累喔，我家能不能都更換新房子呢？都更先生：都更重建要花錢啊，像是請建築師設計房"
         },
         {
-          "title": "黃仁勳確定將登上劉在錫主持的《劉QUIZ》！AI教父首次挑戰綜藝，將再掀韓國旋風",
-          "link": "https://www.gvm.com.tw/article/130587",
-          "published": "2026-06-02T17:57:00",
-          "summary": "「AI教父」黃仁勳確定將登上韓國「國民MC」劉在錫主持的《劉QUIZ ON THE BLOCK》，這是黃仁勳首次上綜藝節目，更讓人好奇他會分享哪些不為人知的故事。在全球科技圈擁有近乎傳奇地位的黃仁勳，近年來無論走到哪裡，都像明星般受到歡迎。從輝達（NVIDIA）發表會現場到各國科技論壇，只要他一現身，往往都能吸引大批媒體與粉絲爭相追逐。隨著生成式AI浪潮席捲全球，這位被譽為「AI教父」的科技巨擘，"
+          "title": "尹衍樑逝後潤泰集團布局曝光：尹崇恩、尹崇堯分掌江山",
+          "link": "https://www.gvm.com.tw/article/130603",
+          "published": "2026-06-03T18:17:00",
+          "summary": "「我一生利用犯錯來學習！」潤泰集團總裁尹衍樑辭世，享年76歲。回顧他一路開疆闢土，將父親留下的傳統紡織廠，打造成橫跨營建、量販零售、金融保險與生技醫療的龐大企業帝國；隨著這位傳奇企業家的謝幕，外界也高度關注潤泰集團的下一步。事實上，多數傳統家族企業面臨的接班震盪，在潤泰集團並未見到；由於尹衍樑對企業經營有清晰藍圖，早已完成了接班布局。從多年來的報導可以看出，尹衍樑採取自由、尊重的策略教育子女，放手"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "連江縣低碳永續認證率達100％ 馬祖勇奪全國第一呈現<b>淨零</b>推動成效 - 台灣新聞雲",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://886.news/archives/334725&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3yuRJCIN55Uc-E7BikbkOv",
-          "published": "2026-06-03T01:55:32+00:00",
-          "summary": "環資局指出，連江縣面臨能源供應、水資源管理、交通運輸及氣候變遷調適，需要社區參與及跨層級合作，各村已依據在地特色與需求，積極推動節能、節水、綠美化&nbsp;..."
+          "title": "高科大前進高雄自動化展秀AI與<b>淨零</b>轉型研發成果 - 波新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bo6s.com.tw/news_detail.php%3FNewsID%3D112453&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3SvJAH_0P-WbDrkaes5Y8X",
+          "published": "2026-06-04T02:23:32+00:00",
+          "summary": "波新聞─李至文／高雄南台灣年度指標性工業盛事「2026高雄自動化工業展」於昨（3）日在高雄展覽館登場。國立高雄科技大學以「AI與淨零雙軸轉型」為主軸參展，展出&nbsp;..."
         },
         {
-          "title": "《經濟》資源循環推動法三讀通過！台灣邁入資源循環新時代",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/6a1f7684de5d6e550460a215&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0n5QWCHTaN6_OkniAJm0VP",
-          "published": "2026-06-03T00:42:41+00:00",
-          "summary": "環境部指出，面對資源耗竭、國際綠色供應鏈轉型趨勢及全球氣候變遷，資源 ... 環境部表示，資源循環是淨零轉型的重要基礎，也是提升國家韌性與產業競爭&nbsp;..."
+          "title": "東京大學開發混凝土碳吸收量化技術助建築產業邁向<b>淨零</b>排放 - GeneOnline News",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://geneonline.news/%25E6%259D%25B1%25E4%25BA%25AC%25E5%25A4%25A7%25E5%25AD%25B8%25E9%2596%258B%25E7%2599%25BC%25E6%25B7%25B7%25E5%2587%259D%25E5%259C%259F%25E7%25A2%25B3%25E5%2590%25B8%25E6%2594%25B6%25E9%2587%258F%25E5%258C%2596%25E6%258A%2580%25E8%25A1%2593%25E5%258A%25A9%25E5%25BB%25BA%25E7%25AF%2589%25E7%2594%25A2%25E6%25A5%25AD%25E9%2582%2581/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1ai8TA1cRyWrGOvWIKlTBW",
+          "published": "2026-06-04T02:15:53+00:00",
+          "summary": "隨著全球氣候變遷挑戰加劇，建築產業作為二氧化碳排放的主要來源之一，面臨巨大的減碳壓力。東京大學此次開發的量化技術，為建築產業提供了一條明確的減碳路徑。"
         },
         {
-          "title": "高雄港邁向綠色新紀元港務公司啟動LNG船舶加注服務規劃推動亞太航運邁向<b>淨零</b>碳 - 樂聯網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://leho.com.tw/archives/318621&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1fWVR7RRr7J--27fuXvqsV",
-          "published": "2026-06-02T20:26:28+00:00",
-          "summary": "因應全球航運淨零碳排趨勢，隨著歐盟排放交易體系（European Union Emission Trading Scheme, ETS）上路，以及國際海事組織（International Maritime Organization,&nbsp;..."
+          "title": "AI<b>淨零</b>／國泰金低碳投融資逾3700億籲加速亞洲<b>淨零</b>轉型 - 中央社",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/news/afe/202606030364.aspx&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2FWnOt3vENjkIUIbh4RrlN",
+          "published": "2026-06-04T02:06:23+00:00",
+          "summary": "國泰金控積極布局氣候金融，並參與新加坡生態繁榮週，分享金融業如何協助降低氣候投資風險，帶動更多長期資本投入亞洲淨零轉型；國泰金表示，低碳投融資方面，&nbsp;..."
         },
         {
-          "title": "The bee flew straight at him; the man, fearing a sting, ran away. - YouTube",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D619KBtkG7Uc&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw19IFGR91icKF1pSZm165t3",
-          "published": "2026-06-02T20:06:43+00:00",
-          "summary": "... ，但受到氣候變遷 ... However, due to rising temperatures caused by climate change, pollination has been poor."
+          "title": "邁向2050<b>淨零</b>排放目標衛工處公告招標「迪化及內湖污水處理廠再生能源統包工程」 - 台北市政府",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gov.taipei/News_Content.aspx%3Fn%3DF0DDAF49B89E9413%26sms%3D72544237BBE4C5F6%26s%3D8C1B11C44D6FC74B&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2OzVMNYJg89tY4fzkKrQ6F",
+          "published": "2026-06-04T01:50:16+00:00",
+          "summary": "發稿單位：規劃設計科; 發稿日期：115年6月4日; 新聞聯絡人：陳雪芬; 聯絡電話：0963568252; 業務聯絡人：王凱民科長; 聯絡電話：0932158182. 面對全球氣候變遷，&nbsp;..."
         },
         {
-          "title": "韓正晤英國外交大臣顧綺慧冀中英加強戰略溝通 - AASTOCKS.com",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.aastocks.com/tc/stocks/news/aafn-news/NOW.1527161/2&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0xbLtSAhScX0CIL1RyDi3K",
-          "published": "2026-06-02T19:39:17+00:00",
-          "summary": "共同踐行真正的多邊主義，攜手推進全球治理體系改革，為世界注入更多穩定性和確定性。 相關內容中國碳中和(01372.HK)擬於東盟市場開展碳中和業務 顧綺慧表示&nbsp;..."
+          "title": "南韓蜂農的生存危機！<b>氣候變遷</b>導致花期大亂蜂蜜產量慘跌70% | 民視新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/nXKW7YK&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0IiRj7Pzq7PfELQbs91Hy7",
+          "published": "2026-06-04T01:36:01+00:00",
+          "summary": "氣候變遷正嚴重威脅南韓的養蜂產業。隨著全球暖化導致花期縮短且混亂，資深蜂農Park Gyeong-je 感嘆，現在的蜂蜜產量僅剩過去的三成..."
         },
         {
-          "title": "「圳起十年：嘉南大圳寫真帖」成大開展從歷史影像重探臺灣社會發展軌跡 - 中央社",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/postwrite/chi/435197&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0JNR4yoBXRNpkohkc7DpLV",
-          "published": "2026-06-02T18:14:33+00:00",
-          "summary": "透過影像與文本的交織，觀眾將得以重新思考水資源如何影響生活、產業與城市發展，進而體認在全球氣候變遷下，珍惜水資源與傳承工程智慧的重要性。 ... | 淨零碳排 &middot; |&nbsp;..."
+          "title": "智慧城市、<b>淨零</b>轉型帶動新需求地球科學系人才迎職涯新藍海 - 科技島",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.technice.com.tw/work-place/academic-navigation/225139/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0w0JTaelO5oLtCRpe2WQ1d",
+          "published": "2026-06-04T01:15:21+00:00",
+          "summary": "在全球氣候變遷、AI大數據分析、衛星遙測與智慧城市快速發展的浪潮，加上、綠色能源、極端氣候監測與ESG永續轉型時代，地球科學系相關背景的人才正逐漸從傳統&nbsp;..."
         }
       ]
     }
