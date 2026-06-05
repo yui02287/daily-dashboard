@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-06-04T05:56:31.416875+00:00",
-    "date": "2026-06-04",
+    "generated_at": "2026-06-05T05:17:17.216309+00:00",
+    "date": "2026-06-05",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "攻克汽車業 90% 無法自動化的盲區，奧迪用「AI + 機器人」重塑高勞動強度產線",
-          "link": "https://techorange.com/2026/06/04/audi-ai-weld-splatter-detection/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-04T05:00:27+00:00",
-          "summary": "在汽車製造邁向智慧工廠的過程中，真正困難的環節往往不是高度標準化的機械加工，而是那些需要大量人工經驗、長時間重複操作，甚至伴隨高勞動強度的細節工序。 德國車廠奧迪（Audi）近期公布最新 AI 生產布局，揭示汽車製造業正在進入另一波自動化轉折點。過去長年難以被機器全面取代的產線工作，如焊接後處理、線束安裝與製程異常監控，如今正透過 AI、雲端架構與機器人整合逐步被重塑。 告別高強度人工打磨！AI "
+          "title": "「RSI 是新的 AGI。」矽谷追逐的最終魔王關，為何讓 Anthropic 呼籲全球按下暫停鍵？",
+          "link": "https://techorange.com/2026/06/05/ai-rsi-agi-recursive-self-improvement/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-05T03:59:54+00:00",
+          "summary": "在全球 AI 競賽全力加速的此刻，身處第一線的 Anthropic 卻提出一個反方向的呼籲。Anthropic 在官方部落格中警告，AI 系統正接近能在無人監督下自我改進的臨界點，並呼籲全球頂尖實驗室考慮一項協調一致的協議，暫停或至少放慢前沿模型的開發步調。 這篇部落格文章由 Anthropic 內部研究主管 Marina Favaro 與政策主管 Jack Clark 共同撰寫，他們認為模型的進"
         },
         {
-          "title": "16GB 筆電就能跑多模態模型、AI Agent？Google 發表 Gemma 4 12B 揭企業 AI 新需求",
-          "link": "https://techorange.com/2026/06/04/google-gemma-4-12b/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-04T04:10:55+00:00",
-          "summary": "過去兩年，AI 產業的競爭幾乎圍繞著同一件事：誰擁有更多 GPU、誰能訓練更大的模型。然而 Google 最新推出的開源模型 Gemma 4 12B，試圖證明另一條路線也正在成形：未來企業真正需要的，或許不是規模更大的模型，而是能在本地設備執行推理、多模態理解與 AI Agent 任務的模型。 Google 發表 Gemma 4 12B，這款約 120 億參數的開源模型採用 Apache 2.0 "
+          "title": "機器人在動手之前就預測觸感，HTD 技術讓人型機器人摺衣、端茶成功率大躍進",
+          "link": "https://techorange.com/2026/06/05/humanoid-htd-ai-robot-tasks-higher/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-05T01:47:46+00:00",
+          "summary": "卡內基美隆大學開發出一套名為 HTD 的全新系統，將人型機器人的身體動作、手部靈巧度，以及對物理互動的預測能力，透過 AI 融為一體。"
         },
         {
-          "title": "2025 年全球邊緣運算支出突破 2,600 億美元，決定成敗的是 IT 與 OT 能否對齊目標",
-          "link": "https://techorange.com/2026/06/04/edge-computing-and-ai-2/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-04T02:17:58+00:00",
-          "summary": "當製造業的工業環境越來越自動化、越來越互聯，製造商每天生成的營運資料量，正以前所未有的速度膨脹。問題是，資料本身不會創造價值，能否在關鍵時刻發揮效用才會，這正是邊緣運算成為製造業架構基礎的原因。 然而值得先點明的是，多數導入計畫的成敗，並不取決於選了哪套硬體或平台，而在於組織能否真正把它當成核心營運能力來經營。 去年全球邊緣運算解決方案的支出，已近 2,610 億美元 首先邊緣運算之所以重要，在於"
+          "title": "電商轉換率提升 380%、瀏覽頁面數提升 320%：戶外品牌 Columbia 用 AI 標籤做對了什麼？",
+          "link": "https://techorange.com/2026/06/05/columbia-ai-tag/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-05T01:40:36+00:00",
+          "summary": "生成式 AI 快速改變消費者的搜尋與購物習慣，戶外品牌 Columbia Sportswear 也開始重新思考電商的核心邏輯。 告別傳統關鍵字！2026 每 5 人就有 1 人問 AI 買東西 Columbia 電商副總裁 Mimi Ruiz&nbsp;指出，品牌內部在 2026 年的預測顯示，未來每五位消費者中，就有一位會直接透過 AI 助理取得品牌與商品推薦，而非使用傳統關鍵字搜尋。 對 Co"
         },
         {
-          "title": "COMPUTEX 2026 AI 機器人展區直擊：從零件到整機，Physical AI 正在現場發生",
-          "link": "https://techorange.com/2026/06/03/computex-2026-ai-robotics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-03T13:06:25+00:00",
-          "summary": "AI（Physical AI）正成為科技產業下一波競逐焦點，看準這股趨勢，COMPUTEX 2026 首度設立 AI 機器人展區，聚焦具身智慧（Embodied AI）、機器人運算平台、智慧城市與數位孿生等技術發展。 實際走訪展區可以發現，現場展示的重點不只是機器人本體，而是支撐機器人運作的整體技術生態系。從 VLM 模型、邊緣運算平台，到減速機與視覺辨識系統，各家廠商正試圖補齊 Physical"
+          "title": "【科技早餐】鴻海聯手 Intel、台積電 CoPoS 最快兩年放量，AI 基建戰從機櫃燒到筆電",
+          "link": "https://techorange.com/2026/06/05/foxconn-teams-up-with-intel-tsmc-copos-scale-up-in-two-years/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-04T22:50:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊鴻海聯手 Intel、會晤 SK，AI 基建從機櫃推進記憶體與能源 鴻海宣布與英特爾（Intel）策略合作，雙方將結合英特爾處理器、矽光子技術與軟體生態系，以及鴻海全球製造、系統整合與 AI 資料中心部署能力，共同探索從晶片、機櫃、系統到應用的 AI 解決方案。 鴻海表示，雙方將探索客製化特殊應用晶片、系統單晶片與系統整合等合作機會，也將共同定義"
         },
         {
-          "title": "從數位孿生到實體生產力：達明機器人定義 Physical AI 落地關鍵，發表「端到端開發套件」打通 AI 供應鏈最後一哩路",
-          "link": "https://techorange.com/2026/06/03/techman-robot-computex-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-03T10:24:00+00:00",
-          "summary": "達明機器人宣佈深化與NVIDIA、QCT的策略合作，正式推出「Physical AI 開發套件（Physical AI Development Package）」。這套業界首創的解決方案，標誌著達明機器人已成功串聯從資料採集、算力支撐到終端部署的完整鏈條，成為台灣 AI 硬體供應鏈中，將數位智慧轉化為實體生產力的「最後一哩路」 。 雙引擎戰略核心：一套大腦，賦與機器人多元型態 不同於市場過往僅關注"
+          "title": "主權 AI 進入 2.0 時代：歐盟 CADA 草案將以 4 大主權評級看「終止開關」風險",
+          "link": "https://techorange.com/2026/06/04/tech-sovereignty-ai-eu-cada/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-04T10:22:10+00:00",
+          "summary": "全球各國談論「主權 AI（Sovereign AI）」時，焦點大多放在資料是否留在境內、是否建立在地資料中心，以及是否建立自己的大型語言模型，但歐盟最新提出的一項計畫，正把問題推向更深一層。 歐盟執委會近日公布一套名為「科技主權方案」（Tech Sovereignty Package）的政策組合，其中最受關注的，是《Cloud and AI Development Act》（CADA，雲端與 AI"
         },
         {
-          "title": "AI 已催生 130 萬個新型職位：《富比士》點名 20 種 Agentic AI 人才，企業組織圖正在改寫",
-          "link": "https://techorange.com/2026/06/03/linkedin-new-agentic-ai-jobs-mckinsey-linkedin-coming/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-03T09:38:22+00:00",
-          "summary": "《富比士》報導，代理 AI（Agentic AI）帶來的最大討論焦點，往往集中在工作機會被取代與消失的議題。然而，數據所呈現的另一面卻顯示，AI 不僅正在改變既有職位，更持續創造大量全新的工作機會，而這項發展相較於失業議題，獲得的關注明顯較少。 新領時代來臨：AI 帶動百萬新職缺，人才需求全面翻轉 相較於外界普遍聚焦 AI 將取代工作機會的討論，最新數據顯示，AI 也正快速催生大量新興職業。根據 "
+          "title": "TrendForce：NVIDIA 加入 Windows on Arm 陣營，推升 Arm 架構 AI 筆電 2029 年滲透率達 34.2%",
+          "link": "https://techorange.com/2026/06/04/trendforce-nvidia-windows-on-arm/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-04T10:08:58+00:00",
+          "summary": "根據TrendForce最新研究指出，目前AI筆電主要由Intel、AMD、Apple與Qualcomm推動，但市場仍缺乏能夠大規模展現裝置端AI運算價值，並形成明確使用者換機誘因的產品。隨著Nvidia於Computex正式發表RTX Spark平台搭配N1與N1X處理器，AI筆電市場有望從目前以NPU功能展示為主的階段，進一步邁向以Agent與本地端模型運算為核心的新發展階段。 TrendFo"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "國語考卷滿分卻不會溝通？AI時代，孩子最缺的3種「人味超能力」",
-          "link": "https://www.gvm.com.tw/article/130624",
-          "published": "2026-06-03T18:56:00",
-          "summary": "輝達（NVIDIA）近期釋出「簡報設計師」職缺，文科生也能當黃仁勳員工的話題引起熱議。語文素養，其實決定孩子的綜合實力，甚至對世界的理解！AI時代下，當一切知識可以輕易得到，我們還剩什麼？答案是，你得比AI更像人。這樣的人味，就建立在語文素養力，有批判性思維、深度同理心，還要有精準表達力。（本文節錄自《語文素養，孩子一生的超能力》一書，作者：王文仁（文科教授）／圓神出版，以下為摘文。）週末午後，小"
+          "title": "溝通高手都會「這樣做」！活用阿德勒心理學，讓談話變愉快",
+          "link": "https://www.gvm.com.tw/article/113186",
+          "published": "2026-06-04T19:00:00",
+          "summary": "阿德勒說：「如果對狹隘關係中的常識產生疑問，建議以更為宏觀的視角來看，並借用更多人的智慧。」即使口才不好或天性害羞，只要學會傾聽的基本技巧，便能成為「值得信賴的人」。如果只有單方在發言，溝通將無法成立。想成為傾聽高手，心態比技巧更重要。在學會技巧前，請先建立3個最基本的心態。（本文節錄自《阿德勒教你用傾聽給人勇氣》一書，作者：岩井俊憲，大樂文化出版，以下為摘文。）阿德勒：「如果對狹隘關係中的常識產"
         },
         {
-          "title": "《遠見》2026五星首長頒獎，地方藍綠合作贏得滿堂彩",
-          "link": "https://www.gvm.com.tw/article/130616",
-          "published": "2026-06-03T18:43:00",
-          "summary": "《遠見》2026縣市長施政滿意度調查出爐，多位即將卸任首長以紅盤作收，適逢《遠見》40年，這些城市的大家長們也分享與《遠見》相處的點滴，例如連江縣長王忠銘就以《遠見》創辦人高希均的一席話做勉勵，透露自己以去年沉澱的所思所想，幫助今年再獲五星殊榮；首長們更暴露私下的好交情，像是去年風災，高雄市長陳其邁火速馳援，並與嘉義市長黃敏惠的擁抱照，讓現場響起滿堂彩，凸顯儘管目前政壇對立嚴重，但唯有和解，才能推"
+          "title": "有錢人與你的差距不只是錢：億萬富豪、百萬富翁與一般人的差異",
+          "link": "https://www.gvm.com.tw/article/113118",
+          "published": "2026-06-04T18:50:00",
+          "summary": "從事投資理財教育多年，觀察了成千上萬名的學生後，我發現一般人與富人最大的差距不只是錢。如果要我回答造成這差異的最關鍵原因，答案無疑是「格局」，格局大小基本上就決定了財富多寡的結局。更重要的是，富者不是等準備好了才開始，而是相信開始了就會準備好，這一念之差的格局，即註定了日後窮與富的遙遠距離。（本文節錄自《有錢人與你的差距，不只是錢》一書，作者：拉斐爾．巴齊亞，商周出版，以下為摘文。）如果經商的唯一"
         },
         {
-          "title": "2026FIFA世界盃》美加墨世足賽9大球星盤點！你該認識的焦點球員全掌握",
-          "link": "https://www.gvm.com.tw/article/130623",
-          "published": "2026-06-03T18:34:00",
-          "summary": "2026世界盃足球賽將於6月11日至7月19日，在美國、加拿大、墨西哥舉行，本屆世足更將以往的32支參賽隊伍，首度擴軍至48支球隊角逐，橫跨16座城市、歷時39天，不僅規模是史上最大，這也是世足賽首次由3個國家共同舉辦。此外，本屆世足也是球星齊聚，梅西（Lionel Messi）與C羅（Cristiano Ronaldo）史無前例的「6度參賽」迎接最後一舞，同時，橫空出世的天才亞馬爾（Lamine"
+          "title": "台股漲翻、護國神山造就「勞工貴族」！台灣人為何仍不敢花錢？",
+          "link": "https://www.gvm.com.tw/article/130656",
+          "published": "2026-06-04T18:40:00",
+          "summary": "英國《經濟學人》指出，AI浪潮與台積電帶動台灣出口與GDP飆升，但傳統產業衰退、薪資差距擴大、青年低薪、內需疲弱問題同步惡化下，揭露數據發現台灣家庭消費力遠低於開發國家，甚至退休熟齡人士也沒讓消費比重提高。在台股漲翻天，網上許多人號稱炒股一年已賺百萬、千萬的當下，為何內需就是起不來？台灣人不敢花錢的深層真相在哪裡？過去在景氣好的年份，台灣經濟成長率約3%至4%，但今年第1季GDP成長率就繳出14."
         },
         {
-          "title": "股價愈高台股愈便宜？「萬金股」信驊林鴻明分享破萬後心情",
-          "link": "https://www.gvm.com.tw/article/130619",
-          "published": "2026-06-03T18:29:00",
-          "summary": "Computex 2026來到第三天，信驊展區依舊擠滿參觀人潮，AI伺服器熱潮也同步反映在信驊（5274）股價表現上，截止至今天，其股價維持在高檔17980元。今（3）日信驊舉辦媒體交流會時，董事長林鴻明不只談AI伺服器需求、遠端伺服器管理晶片（BMC）新布局，面對媒體問及股價突破萬元的心情時，也難得分享一路從挑戰大立光股王紀錄到站上萬元關卡的心路歷程。「其實我忘記了，我們其實沒有在追求這件事情。"
+          "title": "「早餐像皇帝，晚餐像乞丐」觀念過時？營養師：三餐應這樣吃",
+          "link": "https://www.gvm.com.tw/article/113749",
+          "published": "2026-06-04T18:26:00",
+          "summary": "以前有一句俗語說「早餐吃得像皇帝，午餐吃得像平民，晚餐吃得像乞丐」，這種方式適合以前農業社會，日出而作日落而息，勞動都是在一大早，當然要吃得多。但如今整個社會結構不同、工作性質不同，若照以前的觀念，會變成一早吃太飽，反而中午吃不多，到了下午又肚子餓想吃各種零食。（本文節錄自《營養師教你21天吃出瘦習慣》一書，作者：好食課營養師團隊，商周出版，以下為摘文。）以前有一句俗語說「早餐吃得像皇帝，午餐吃得"
         },
         {
-          "title": "我家能不能都更？老屋都更為何無法「一坪換一坪」？專家分析2關鍵邏輯",
-          "link": "https://www.gvm.com.tw/article/130621",
-          "published": "2026-06-03T18:29:00",
-          "summary": "政府鼓勵都更給予容積獎勵，所以都更後的房子一定比更新前的全部坪數更多，但為什麼住戶不一定能分回和原先一樣面積的房子呢？因為都更的成本是「錢」，住戶提供折價抵付的房子「坪數」，要加上「房價」的換算後，才知道折抵的坪數值多少「錢」。（本文節錄自《都更現場答客問》一書，作者：張耕維／時報出版，以下為摘文。）吳媽媽：每天爬樓梯好累喔，我家能不能都更換新房子呢？都更先生：都更重建要花錢啊，像是請建築師設計房"
+          "title": "日圓驚見0.19元！一文看懂換匯攻略與產業衝擊",
+          "link": "https://www.gvm.com.tw/article/130637",
+          "published": "2026-06-04T18:20:00",
+          "summary": "哈日族與投資人請注意，歷史性一刻到來！台灣銀行牌告日圓現金賣出價在6月1日、3日閃現「0.1999」元後，今日（4日）持續在「0.1999」拉鋸，而網銀讓利後的「即期價」更下殺至0.196〜0.198元的超低水位。過去市場普遍認為「0.21是底線、0.20是極限」，如今直奔0.19字頭，許多人面臨「現在不換可惜，換了怕繼續跌」的難題。其實，當外國觀光客在日本狂歡消費時，這背後竟是一場由華爾街對沖基"
         },
         {
-          "title": "尹衍樑逝後潤泰集團布局曝光：尹崇恩、尹崇堯分掌江山",
-          "link": "https://www.gvm.com.tw/article/130603",
-          "published": "2026-06-03T18:17:00",
-          "summary": "「我一生利用犯錯來學習！」潤泰集團總裁尹衍樑辭世，享年76歲。回顧他一路開疆闢土，將父親留下的傳統紡織廠，打造成橫跨營建、量販零售、金融保險與生技醫療的龐大企業帝國；隨著這位傳奇企業家的謝幕，外界也高度關注潤泰集團的下一步。事實上，多數傳統家族企業面臨的接班震盪，在潤泰集團並未見到；由於尹衍樑對企業經營有清晰藍圖，早已完成了接班布局。從多年來的報導可以看出，尹衍樑採取自由、尊重的策略教育子女，放手"
+          "title": "特留分新制》單身、頂客族遺產可免分手足！但需做好兩件事才有效",
+          "link": "https://www.gvm.com.tw/article/130654",
+          "published": "2026-06-04T18:20:00",
+          "summary": "法務部於2026年6月2日正式預告「民法繼承編部分條文修正草案」，投下震撼彈宣布將全面刪除「兄弟姊妹特留分」。此舉不僅打破過時的大家族財產共有觀念，更全面解放了現代人的遺囑自由。本文整理可以快速掌握的四大修正重點，看懂單身族與頂客族未來該如何全面自主支配、妥善規劃自身財產。【目錄】• 為什麼要修法？現代單身與頂客族的遺產痛點• 什麼是「應繼分」與「特留分」？•「刪除特留分」不等於 「手足自動失去繼"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "高科大前進高雄自動化展秀AI與<b>淨零</b>轉型研發成果 - 波新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bo6s.com.tw/news_detail.php%3FNewsID%3D112453&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3SvJAH_0P-WbDrkaes5Y8X",
-          "published": "2026-06-04T02:23:32+00:00",
-          "summary": "波新聞─李至文／高雄南台灣年度指標性工業盛事「2026高雄自動化工業展」於昨（3）日在高雄展覽館登場。國立高雄科技大學以「AI與淨零雙軸轉型」為主軸參展，展出&nbsp;..."
+          "title": "蔣萬安出席北市議會<b>淨零</b>排放成果記者會(圖) - Yahoo新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E8%2594%25A3%25E8%2590%25AC%25E5%25AE%2589%25E5%2587%25BA%25E5%25B8%25AD%25E5%258C%2597%25E5%25B8%2582%25E8%25AD%25B0%25E6%259C%2583%25E6%25B7%25A8%25E9%259B%25B6%25E6%258E%2592%25E6%2594%25BE%25E6%2588%2590%25E6%259E%259C%25E8%25A8%2598%25E8%2580%2585%25E6%259C%2583-%25E5%259C%2596-040741165.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1pyxj3AXtb4jGEqj-txCJi",
+          "published": "2026-06-05T04:27:11+00:00",
+          "summary": "台北市長蔣萬安（左）5日出席台北市議會「府會攜手．淨零台北」碳中和認證暨淨零排放成果記者會，頒發感謝狀給議長戴錫欽（右）。"
         },
         {
-          "title": "東京大學開發混凝土碳吸收量化技術助建築產業邁向<b>淨零</b>排放 - GeneOnline News",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://geneonline.news/%25E6%259D%25B1%25E4%25BA%25AC%25E5%25A4%25A7%25E5%25AD%25B8%25E9%2596%258B%25E7%2599%25BC%25E6%25B7%25B7%25E5%2587%259D%25E5%259C%259F%25E7%25A2%25B3%25E5%2590%25B8%25E6%2594%25B6%25E9%2587%258F%25E5%258C%2596%25E6%258A%2580%25E8%25A1%2593%25E5%258A%25A9%25E5%25BB%25BA%25E7%25AF%2589%25E7%2594%25A2%25E6%25A5%25AD%25E9%2582%2581/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1ai8TA1cRyWrGOvWIKlTBW",
-          "published": "2026-06-04T02:15:53+00:00",
-          "summary": "隨著全球氣候變遷挑戰加劇，建築產業作為二氧化碳排放的主要來源之一，面臨巨大的減碳壓力。東京大學此次開發的量化技術，為建築產業提供了一條明確的減碳路徑。"
+          "title": "推動低碳綠色餐飲近600家環保餐廳逐步升級「綠食飯桌」 - TCnews慈善新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tcnews.com.tw/news/item/29631.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Lzaou52-fE2p9uMYOc9At",
+          "published": "2026-06-05T04:09:18+00:00",
+          "summary": "為推動淨零綠生活理念，台中市政府環保局近年持續透過「餐飲消費× 環保行動」的結合，鼓勵餐飲業者將環境友善理念融入日常經營，共同推動綠色餐飲文化，&nbsp;..."
         },
         {
-          "title": "AI<b>淨零</b>／國泰金低碳投融資逾3700億籲加速亞洲<b>淨零</b>轉型 - 中央社",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/news/afe/202606030364.aspx&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2FWnOt3vENjkIUIbh4RrlN",
-          "published": "2026-06-04T02:06:23+00:00",
-          "summary": "國泰金控積極布局氣候金融，並參與新加坡生態繁榮週，分享金融業如何協助降低氣候投資風險，帶動更多長期資本投入亞洲淨零轉型；國泰金表示，低碳投融資方面，&nbsp;..."
+          "title": "台北市議會獲<b>碳中和</b>認證將再汰換照明深化節能 - 華視新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.cts.com.tw/cna/local/202606/202606053040205.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Cy974nLCF6OWgm8i78b0o",
+          "published": "2026-06-05T04:09:11+00:00",
+          "summary": "蔣萬安上午出席台北市議會舉辦「府會攜手．淨零臺北」碳中和認證暨淨零排放成果記者會，議長戴錫欽及北市府各局處首長等皆出席。"
         },
         {
-          "title": "邁向2050<b>淨零</b>排放目標衛工處公告招標「迪化及內湖污水處理廠再生能源統包工程」 - 台北市政府",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gov.taipei/News_Content.aspx%3Fn%3DF0DDAF49B89E9413%26sms%3D72544237BBE4C5F6%26s%3D8C1B11C44D6FC74B&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2OzVMNYJg89tY4fzkKrQ6F",
-          "published": "2026-06-04T01:50:16+00:00",
-          "summary": "發稿單位：規劃設計科; 發稿日期：115年6月4日; 新聞聯絡人：陳雪芬; 聯絡電話：0963568252; 業務聯絡人：王凱民科長; 聯絡電話：0932158182. 面對全球氣候變遷，&nbsp;..."
+          "title": "府會攜手推<b>淨零</b>蔣萬安：2050達淨排放邁向低碳未來 - 台北市政府",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gov.taipei/News_Content.aspx%3Fn%3D2044902FC839D045%26sms%3D72544237BBE4C5F6%26s%3D978BA0777CB6B6E6&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2oy31t8VCLocILpdpIX9AL",
+          "published": "2026-06-05T04:09:09+00:00",
+          "summary": "臺北市長蔣萬安今(5)日出席2026世界環境日「府會攜手‧淨零臺北」碳中和認證暨淨零排放成果記者會，他肯定市議會與市府攜手推動減碳工作的成果，並強調臺北市&nbsp;..."
         },
         {
-          "title": "南韓蜂農的生存危機！<b>氣候變遷</b>導致花期大亂蜂蜜產量慘跌70% | 民視新聞網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/nXKW7YK&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0IiRj7Pzq7PfELQbs91Hy7",
-          "published": "2026-06-04T01:36:01+00:00",
-          "summary": "氣候變遷正嚴重威脅南韓的養蜂產業。隨著全球暖化導致花期縮短且混亂，資深蜂農Park Gyeong-je 感嘆，現在的蜂蜜產量僅剩過去的三成..."
+          "title": "台北市議會獲<b>碳中和</b>認證將再汰換照明深化節能 - Yahoo新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%258F%25B0%25E5%258C%2597%25E5%25B8%2582%25E8%25AD%25B0%25E6%259C%2583%25E7%258D%25B2%25E7%25A2%25B3%25E4%25B8%25AD%25E5%2592%258C%25E8%25AA%258D%25E8%25AD%2589-%25E5%25B0%2587%25E5%2586%258D%25E6%25B1%25B0%25E6%258F%259B%25E7%2585%25A7%25E6%2598%258E%25E6%25B7%25B1%25E5%258C%2596%25E7%25AF%2580%25E8%2583%25BD-034532351.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1QQuc6wQb2njPvamIntwK-",
+          "published": "2026-06-05T04:02:14+00:00",
+          "summary": "戴錫欽致詞時說，議會通過自治條例後，除是市府推動淨零排放的監督者，並以身作則的淨零排放實踐者，如計算溫室氣體排放量、更換LED燈等作為，並透過國際認證抵換方式&nbsp;..."
         },
         {
-          "title": "智慧城市、<b>淨零</b>轉型帶動新需求地球科學系人才迎職涯新藍海 - 科技島",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.technice.com.tw/work-place/academic-navigation/225139/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0w0JTaelO5oLtCRpe2WQ1d",
-          "published": "2026-06-04T01:15:21+00:00",
-          "summary": "在全球氣候變遷、AI大數據分析、衛星遙測與智慧城市快速發展的浪潮，加上、綠色能源、極端氣候監測與ESG永續轉型時代，地球科學系相關背景的人才正逐漸從傳統&nbsp;..."
+          "title": "高科大前進高雄自動化展秀AI與<b>淨零</b>轉型研發成果- 生活新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/living/1111news/20260605/index-78062981517372358009.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0ZWbceDFY0Zef5tow6PqXS",
+          "published": "2026-06-05T03:30:59+00:00",
+          "summary": "高科大展示產業機械智慧化與工業控制與感測，將技術實體落地於民生、扣件、半導體與綠能等關鍵產業，輔導產業轉型至智慧生產應用。（圖／國立高雄科技大學提供）&nbsp;..."
         }
       ]
     }
