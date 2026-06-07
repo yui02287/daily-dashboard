@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-06-06T04:53:12.222009+00:00",
-    "date": "2026-06-06",
+    "generated_at": "2026-06-07T05:21:27.329526+00:00",
+    "date": "2026-06-07",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -10,84 +10,47 @@
     {
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
-      "items": [
-        {
-          "title": "【微軟 2026 工作趨勢報告】代理 AI 接管常規任務，企業如何將成效轉化為無法複製的「自有智慧」？",
-          "link": "https://techorange.com/2026/06/06/work-trend-index-annual-report/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-05T22:29:00+00:00",
-          "summary": "2026 年，企業在 AI 投資與實際回收的效益之間出現明顯落差。當許多高階主管還在忙著採購技術、比較算力時，微軟最新發布的《2026 工作趨勢指數（Work Trend Index 2026）》報告直指，公司現有的管理體制與流程，其實跟不上 AI 擴張的速度。 這份報告分析微軟生態系中數兆個底層運作數據，並調查全球兩萬名 AI 使用者，數據反映，砸大錢導入 AI 系統，如果沒有跟著重塑底層的組織"
-        },
-        {
-          "title": "「沒有台灣就沒有 Anthropic。」Anthropic 高層來台，點名台灣在 AI 生態系三個不可取代的角色",
-          "link": "https://techorange.com/2026/06/05/anthropic-taiwan-ai-cybersecurity-trust/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-05T11:28:19+00:00",
-          "summary": "當 AI 邁入 Agentic AI 時代，台灣正成為國際 AI 生態系不可或缺的重要節點。Anthropic 共同創辦人 Ben Mann 首度來台，出席人工智慧學校舉辦的 Developer Day（開發者日），Anthropic 國家安全政策主任 Tarun Chhabra 也一同參與。 表面上，這是一場聚焦 Claude Code 與開發者生態系的活動，但從 Ben Mann 的爐邊對談，"
-        },
-        {
-          "title": "趨勢科技加入 Anthropic Project Glasswing：將前沿 AI 模型化為防禦武器，守住台灣 AI 供應鏈防線",
-          "link": "https://techorange.com/2026/06/05/trendai-anthropic-project-glasswing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-05T10:45:56+00:00",
-          "summary": "過去，網路安全領域的攻防戰一直依賴人類的智力較量，但如今這場競賽的本質已經發生劇變，AI 已經同時存在於攻擊與防禦的兩端。在這個歷史轉折點上，全球領先的 AI 公司 Anthropic 與趨勢科技旗下全球企業 AI 資安領導品牌 TrendAI™ 展開深度合作，TrendAI 正式受邀加入 Anthropic 極具指標性的「Project Glasswing」計畫。這場合作不僅促成了網路安全防禦模"
-        },
-        {
-          "title": "不把雞蛋放在同一個 AI 供應商籃子裡：Walmart 自研 Code Puppy，降低模型依賴風險",
-          "link": "https://techorange.com/2026/06/05/walmart-code-puppy-ai-anthropic-claude-openai-codex/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-05T08:37:57+00:00",
-          "summary": "《Business Insider》報導指出，Walmart 內部有一款名為 Code Puppy 的工具，由工程師 Mike Pfaffenberger 開發，並已在公司廣泛使用。Code Puppy 的意義並不只是另一個 AI coding assistant，它其實反映出 Walmart 面對 AI 時代的一項更深層策略：避免過度依賴少數幾家大型 AI 供應商。 Walmart 打造 AI "
-        },
-        {
-          "title": "亞馬遜新一代 AI 機器人 Proteus 亮相：「用對話指揮機器人」如何改寫歐洲物流履約網路？",
-          "link": "https://techorange.com/2026/06/05/amazon-proteus-robot-europe-investment-employee/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-05T06:43:48+00:00",
-          "summary": "亞馬遜（Amazon）在倫敦舉行的「Delivering the Future」活動中，揭曉新一代自主移動機器人 Proteus。除了提升倉儲物流作業能力外，新版 Proteus 最大的改變在於導入 AI 自然語言理解功能，員工只需像與同事溝通一樣說明需求，機器人便能自動完成任務安排與執行。 從搬運到自主導航，亞馬遜打造新一代智慧物流中心 《Reuters》報導，這項技術是亞馬遜未來數年將在歐洲投"
-        },
-        {
-          "title": "RSI 是新的 AGI：矽谷追逐的最終魔王關，為何讓 Anthropic 呼籲全球按下暫停鍵？",
-          "link": "https://techorange.com/2026/06/05/ai-rsi-agi-recursive-self-improvement/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-05T03:59:54+00:00",
-          "summary": "在全球 AI 競賽全力加速的此刻，身處第一線的 Anthropic 卻提出一個反方向的呼籲。Anthropic 在官方部落格中警告，AI 系統正接近能在無人監督下自我改進的臨界點，並呼籲全球頂尖實驗室考慮一項協調一致的協議，暫停或至少放慢前沿模型的開發步調。 這篇部落格文章由 Anthropic 內部研究主管 Marina Favaro 與政策主管 Jack Clark 共同撰寫，他們認為模型的進"
-        }
-      ]
+      "items": []
     },
     {
       "feed_name": "遠見雜誌 - 前進的動力",
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "別讓媒體被流量綁架！紀錄片《星星之火5》倡議新聞信任生態",
-          "link": "https://www.gvm.com.tw/article/130672",
-          "published": "2026-06-05T19:46:00",
-          "summary": "在數位平台與演算法主導資訊傳播的時代，社會正面臨前所未有的新聞信任危機。根據「路透新聞學研究所」2025年最新報告，台灣大眾對新聞的信任度僅30%，在全球48個市場中排名第39。當點閱率成了新聞媒體唯一的生存指標，真實與信任正慢慢在流量的洪流中模糊。當新聞信任崩塌，誰能一起重建新聞生態？蕭同茲先生文化基金會針對此議題企劃製作公益紀錄片「星星之火 5：共好的循環」，於4日舉辦首映發表會，並將於今（5"
+          "title": "外泌體不全是良藥！國衛院最新研究揭「2關鍵」恐成癌細胞轉移幫兇",
+          "link": "https://www.gvm.com.tw/article/130663",
+          "published": "2026-06-06T16:00:00",
+          "summary": "外泌體產品在生技界正夯，但國家衛生研究院最新發現，部分細胞外囊泡可能有釀成癌症轉移的風險，宣稱療效但未釐清成分的外泌體產品，難以確保安全，呼籲建立完整品質標準。細胞外囊泡（EVs）是再生醫療熱門話題，其中外泌體是最廣為人知的一類，國衛院長司徒惠康今天在記者會表示，外泌體就像細胞間的「傳聲筒」與「快遞員」，負責傳遞訊息並協調細胞間的互動，外泌體具高穿透力與標靶特性，有望成為奈米導彈般的藥物載體。司徒"
         },
         {
-          "title": "趨勢科技宣布加入Anthropic計畫！如何守住資安核心價值？",
-          "link": "https://www.gvm.com.tw/article/130681",
-          "published": "2026-06-05T18:42:00",
-          "summary": "資安大廠趨勢科技今日宣布加入Anthropic的「玻璃翼蝶計畫」，成為全球少數能提早預覽其資安模型Claude Mythos的防禦方夥伴。在AI快速滲透資安領域的此刻，與模型公司合作，究竟是強化競爭優勢，還是加速自身被取代的風險？今年（2026）4月，Anthropic公布資安模型Claude Mythos Preview，宣稱其能在短時間內掃描出大量資安漏洞，甚至具備將不同工具串聯成進攻鏈的自動"
+          "title": "現代人對金錢最悲哀的誤解：把「Belongings」誤認成「Belonging」",
+          "link": "https://www.gvm.com.tw/article/130653",
+          "published": "2026-06-06T11:46:00",
+          "summary": "現代文化中，財富幾乎被簡化為一場關於「累積」的競賽：累積愈多物質資源、創造愈高利潤、讓數字不斷成長，彷彿就愈接近成功。然而，當我們誤將「金錢」與「財富」劃上等號時，就會打造出帳面富裕、內在卻匱乏的生活——擁有資產，卻缺少連結；追求效率，卻失去意義。（本文節錄自《打開錢意識》一書，作者：伊莉莎白．胡瑟爾／今周刊出版，以下為摘文。）在現代社會，良好的財務狀況確實能解決許多有關安全感的難題，但它對親密度"
         },
         {
-          "title": "2026FIFA世界盃》世界盃足球賽賽程資訊全攻略！參賽國家、分組名單、比賽賽制、各組賽程、轉播資訊一次看",
-          "link": "https://www.gvm.com.tw/article/129431",
-          "published": "2026-06-05T16:52:00",
-          "summary": "全世界球迷們最期待的2026世界盃足球賽，將於6月11日至7月19日，在美國、加拿大、墨西哥舉行，本屆參賽隊伍首次從以往的32支，擴大到48支隊伍參賽，規模是史上最大。今年你看好哪隊能奪冠呢？精華：世足賽必看10大亮點2026世界盃足球賽，將於6月11日至7月19日，在美國、加拿大、墨西哥舉行，這項4年一度、全世界球迷最矚目的足球盛會，是年度必看的體育大事，本屆國際足總世界盃更將以往的32支參賽隊"
+          "title": "女兒成績滿級分卻泣問讀書價值：當孩子說「不想上學了」，爸爸做了「這決定」",
+          "link": "https://www.gvm.com.tw/article/130651",
+          "published": "2026-06-06T11:44:00",
+          "summary": "如何當一個孩子信任的大人，在需要的時候提供陪伴和幫助，成為支持孩子的後盾，是為人父母的一大難題。放手是一個漸進、不斷發生的過程，將子女視為「準大人」，透過評估孩子的生活能力、責任承擔、自由度與信任度，決定放手的範圍。（本文節錄自《放手，不放養》一書，作者：許恆嘉／今周刊出版，以下為摘文。）家姊小學五年級時，有天問我：「爸爸，為什麼電子會有上自旋（spin up）和下自旋（spin down）？」「"
         },
         {
-          "title": "2026FIFA世界盃》世足賽必看10大亮點！史上最大規模盛會，有哪些精彩故事？",
-          "link": "https://www.gvm.com.tw/article/130679",
-          "published": "2026-06-05T16:50:00",
-          "summary": "2026FIFA世界盃》世界盃足球賽賽程資訊全攻略！參賽國家、分組名單、比賽賽制、各組賽程、轉播資訊一次看2026世界盃足球賽（2026 FIFA World Cup），將於6月11日至7月19日，在美國（USA）、加拿大（Canada）、墨西哥（Mexico）舉行。這項4年一度、全世界球迷最矚目的足球盛會，是年度重要的體育大事，本屆國際足總世界盃更將以往的32支參賽隊伍，擴大至48支球隊角逐，不"
+          "title": "養出自律孩子，先帶他學時間管理：一寫作業就拖拖拉拉？2步驟建立「自驅力」",
+          "link": "https://www.gvm.com.tw/article/122886",
+          "published": "2026-06-06T11:39:00",
+          "summary": "每一位家長都希望自己的孩子能夠自律，掌握時間管理的方法，但常常無論如何苦口婆心地給孩子講道理、做示範，效果總是不盡人意，產生挫敗感。其實是因為孩子對時間沒有概念，家長也沒有找到適合孩子的時間管理方法。家長應該從時間的基本概念入手，幫孩子一步步了解時間、親近時間，鼓勵孩子利用時間做更有用、更有意義的事情。（本文節錄自《自驅力》一書，作者：青藍圖書，時報出版，以下為摘文。）小樂的國語和英語作業都能自己"
         },
         {
-          "title": "全球軍工巨頭為何深耕台灣20年？貝宜系統揭露國防供應鏈新布局",
-          "link": "https://www.gvm.com.tw/article/130678",
-          "published": "2026-06-05T16:40:00",
-          "summary": "從烏俄戰爭到中東衝突，全球戰場正快速進入「系統化戰爭」時代。無人機、資安、衛星與電子戰，逐漸取代傳統火力與平台規模，成為國防競爭核心，這股浪潮也讓台灣加速布局國防科技與供應鏈，吸引國際軍工巨頭深耕合作。英國國防大廠貝宜系統（BAE Systems）接受《遠見》專訪，揭露全球軍工產業轉型方向，以及台灣在新一輪國防科技競爭中的關鍵角色。烏俄戰爭中，一架成本僅數百美元的自殺式無人機，竟摧毀造價數百萬美元"
+          "title": "當戰爭或災難發生！台灣醫師分析2真相：醫療變成「跟時間賽跑」",
+          "link": "https://www.gvm.com.tw/article/130639",
+          "published": "2026-06-06T11:38:00",
+          "summary": "二十一世紀的戰爭，早已不再是教科書裡描述的模樣。在台灣，我們習慣了穩定的醫療體系、順暢的基礎設施與高度組織化的救援系統。安全似乎是一種理所當然的存在。然而，當國際局勢變動、系統可能暫時失效時，真正能帶來穩定感的，絕不是恐慌，而是做好準備。（本文節錄自《急難救命第一線》一書，作者：白映俞、唐貞綾／商周出版，以下為摘文。）二十一世紀的戰爭，早已不再是教科書裡描述的模樣。它不是電影《特洛伊》裡兩軍對峙的"
         },
         {
-          "title": "Anthropic籲全球暫停研發尖端AI「避免失控風險」，引同業、白宮反彈",
-          "link": "https://www.gvm.com.tw/article/130676",
-          "published": "2026-06-05T15:54:00",
-          "summary": "人工智慧（AI）新創公司Anthropic今天建議全球同步暫停研發最先進的AI系統，因為最新模型已開始出現可能脫離人類控制的跡象。法新社報導，總部位於舊金山、開發Claude系列AI模型的Anthropic在報告中指出，全球放慢尖端AI發展速度「可能是件好事」；但該公司也警告，若只有單一公司暫停研發，競爭對手只會加快腳步。Anthropic表示，要讓暫停機制真正發揮作用，需要跨國多間主要AI公司，"
+          "title": "孩子！這些事在社群上「絕對別做」：以為只是傳給朋友，但永遠無法預料誰會看到",
+          "link": "https://www.gvm.com.tw/article/130580",
+          "published": "2026-06-06T11:36:00",
+          "summary": "孩子的手機成癮並非因為意志力薄弱，而科技巨頭投入數十億美元，利用演算法精準獵捕人類心理弱點。要求一個大腦尚未發育成熟（前額葉皮質還在生長中）的孩子自我克制，就像要老酒鬼在酒精面前保持理性一樣困難。全球已有近1/4的國家實施校園手機禁令，聯合國也正式呼籲禁用。全世界都在幫孩子拿回專注力！（本文節錄自《用界線，讓孩子放下手機》一書，作者：珍．特溫格／三采出版，以下為摘文。）教養不只是訂下規則──你也應"
         }
       ]
     },
@@ -96,40 +59,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "全球<b>氣候變遷</b>衝擊葡萄酒產業面臨風土危機與轉型挑戰 - GeneOnline News",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://geneonline.news/%25E5%2585%25A8%25E7%2590%2583%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E8%25A1%259D%25E6%2593%258A%25E8%2591%25A1%25E8%2590%2584%25E9%2585%2592%25E7%2594%25A2%25E6%25A5%25AD%25E9%259D%25A2%25E8%2587%25A8%25E9%25A2%25A8%25E5%259C%259F%25E5%258D%25B1%25E6%25A9%259F%25E8%2588%2587%25E8%25BD%2589%25E5%259E%258B/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3ET2O4AXJhwQTU1PQwhk7P",
-          "published": "2026-06-05T23:10:50+00:00",
-          "summary": "隨著全球氣溫持續攀升，世界各地備受推崇的葡萄酒產區正陷入一場前所未有的氣候危機。葡萄藤（Grapevines）"
+          "title": "航空業機構仍堅持2050年實現<b>淨零</b>排放的目標，儘管清潔燃料進展令人失望，Walsh表示- Moomoo",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.moomoo.com/hant/news/flash/22605321/airline-body-sticking-with-net-zero-by-2050-target-despite&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1b8fMWVEAtPyprqhanhprX",
+          "published": "2026-06-07T01:54:24+00:00",
+          "summary": "Airline Body Sticking With Net-Zero by 2050 Target Despite Clean Fuel Disappointment, Walsh Says. 航空業機構仍堅持2050年實現淨零排放的目標，儘管&nbsp;..."
         },
         {
-          "title": "澎湖區漁會115年5月份抽驗魚貨全部合格",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.phnes.net/%25E6%25BE%258E%25E6%25B9%2596%25E5%258D%2580%25E6%25BC%2581%25E6%259C%2583115%25E5%25B9%25B45%25E6%259C%2588%25E4%25BB%25BD%25E6%258A%25BD%25E9%25A9%2597%25E9%25AD%259A%25E8%25B2%25A8%25E5%2585%25A8%25E9%2583%25A8%25E5%2590%2588%25E6%25A0%25BC&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3f6rsK_xOd5AFdX3ZEbXpV",
-          "published": "2026-06-05T22:16:40+00:00",
-          "summary": "為控管本縣水產品品質及讓民眾買魚消費安心，澎湖縣政府農漁局積極輔導澎湖區漁會每月不定期在第三漁港魚市場執行抽驗進場魚貨工作，本（115）年5月份2次抽驗&nbsp;..."
+          "title": "出席工商協進會南部午餐會陳其邁：數位與<b>淨零</b>雙軸轉型打造產業競爭力",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%2587%25BA%25E5%25B8%25AD%25E5%25B7%25A5%25E5%2595%2586%25E5%258D%2594%25E9%2580%25B2%25E6%259C%2583%25E5%258D%2597%25E9%2583%25A8%25E5%258D%2588%25E9%25A4%2590%25E6%259C%2583-%25E9%2599%25B3%25E5%2585%25B6%25E9%2582%2581-%25E6%2595%25B8%25E4%25BD%258D%25E8%2588%2587%25E6%25B7%25A8%25E9%259B%25B6%25E9%259B%2599%25E8%25BB%25B8%25E8%25BD%2589%25E5%259E%258B%25E6%2589%2593%25E9%2580%25A0%25E7%2594%25A2%25E6%25A5%25AD%25E7%25AB%25B6%25E7%2588%25AD%25E5%258A%259B-162000725.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw35XcA6gR7auj5YV72nkrAR",
+          "published": "2026-06-06T23:28:10+00:00",
+          "summary": "高雄市長陳其邁6日陪同行政院長卓榮泰出席「中華民國工商協進會南部工商午餐會」，歡迎工商界領袖齊聚高雄交流。"
         },
         {
-          "title": "極端酷熱過後的不穩定天氣｜香港天文台(HKO)",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hko.gov.hk/tc/%25E5%25A4%25A9%25E6%25B0%25A3%25E9%259A%25A8%25E7%25AD%2586/110610/%25E6%25A5%25B5%25E7%25AB%25AF%25E9%2585%25B7%25E7%2586%25B1%25E9%2581%258E%25E5%25BE%258C%25E7%259A%2584%25E4%25B8%258D%25E7%25A9%25A9%25E5%25AE%259A%25E5%25A4%25A9%25E6%25B0%25A3&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw30_wESikt2Yevc5jZ9gZ4n",
-          "published": "2026-06-05T19:58:46+00:00",
-          "summary": "受位於南海東北部的熱帶低氣壓的下沉氣流影響."
+          "title": "工商界向政院提24項提案涵蓋資產管理、<b>淨零</b>轉型等- 地方- 華視新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.cts.com.tw/cna/local/202606/202606063040714.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1mKLED4qzZVKpur7O15ob3",
+          "published": "2026-06-06T20:58:39+00:00",
+          "summary": "（中央社記者林巧璉高雄6日電）中華民國工商協進會今天舉辦115年南部工商午餐會，會中業界提出24項提案、61項具體建議，涵蓋亞洲資產管理中心、永續轉型、勞資政策等&nbsp;..."
         },
         {
-          "title": "台北市議會獲<b>碳中和</b>認證將再汰換照明深化節能 - 僑務電子報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ocacnews.net/article/427508&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3BHyberyZi4JlLs3HefNAS",
-          "published": "2026-06-05T19:03:24+00:00",
-          "summary": "5日是世界環境日，台北市議會宣布取得碳中和等2項證書，後續規劃汰換照明設備及導入高效率變頻空調系統；市長蔣萬安說，將持續與議會努力邁向2050淨零排放目標。"
+          "title": "工商界向政院提24項提案涵蓋資產管理、<b>淨零</b>轉型等",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/living/cna/20260606/index-17807338969260618009.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0tL4fqLI2aaSPRuzpGcoJ1",
+          "published": "2026-06-06T20:36:53+00:00",
+          "summary": "工商協進會表示，多數議題獲行政部門正面回應。 南部工商午餐會今天在高雄萬豪酒店登場，由行政院長卓榮泰與工商協進會理事長吳東亮共同主持。 高雄市長陳其邁致詞&nbsp;..."
         },
         {
-          "title": "科學研究證實減少食物浪費是達成農業<b>淨零</b>排放的關鍵策略 - GeneOnline News",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://geneonline.news/%25E7%25A7%2591%25E5%25AD%25B8%25E7%25A0%2594%25E7%25A9%25B6%25E8%25AD%2589%25E5%25AF%25A6%25E6%25B8%259B%25E5%25B0%2591%25E9%25A3%259F%25E7%2589%25A9%25E6%25B5%25AA%25E8%25B2%25BB%25E6%2598%25AF%25E9%2581%2594%25E6%2588%2590%25E8%25BE%25B2%25E6%25A5%25AD%25E6%25B7%25A8%25E9%259B%25B6%25E6%258E%2592%25E6%2594%25BE%25E7%259A%2584/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1VwxAAOP50Da0-LKeYL2Kr",
-          "published": "2026-06-05T18:15:45+00:00",
-          "summary": "近期，由扎卡拉托斯（Zacharatos）、科萊蒂（Coletti）、德利斯（Dellis）及其研究團隊共同發表的一項突破性研究，為農業邁向淨零排放（Net-Zero）指引出一條具備轉型潛力&nbsp;..."
+          "title": "陪同行政院長出席「中華民國工商協進會南部工商午餐會」 陳其邁 - PChome news",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/public/kcg/20260606/index-78073364051539128016.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Dayr-fw1G15ZcEt8QvqSV",
+          "published": "2026-06-06T20:31:29+00:00",
+          "summary": "陪同行政院長出席「中華民國工商協進會南部工商午餐會」 陳其邁：以數位與淨零雙軸轉型打造產業競爭力. 【高雄訊】重視高雄產業發展與轉型，高雄市長陳其邁今&nbsp;..."
         },
         {
-          "title": "減少食物浪費是達成全球農業<b>淨零</b>排放的關鍵策略 - GeneOnline News",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://geneonline.news/%25E6%25B8%259B%25E5%25B0%2591%25E9%25A3%259F%25E7%2589%25A9%25E6%25B5%25AA%25E8%25B2%25BB%25E6%2598%25AF%25E9%2581%2594%25E6%2588%2590%25E5%2585%25A8%25E7%2590%2583%25E8%25BE%25B2%25E6%25A5%25AD%25E6%25B7%25A8%25E9%259B%25B6%25E6%258E%2592%25E6%2594%25BE%25E7%259A%2584%25E9%2597%259C%25E9%258D%25B5%25E7%25AD%2596%25E7%2595%25A5/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0NTAylIXCQEDqBe1dX4I-H",
-          "published": "2026-06-05T17:23:21+00:00",
-          "summary": "近期，由扎卡拉托斯（Zacharatos）、科萊蒂（Coletti）、戴利斯（Dellis）及其研究團隊共同發表的一項突破性研究，為農業邁向淨零排放（Net-Zero）指引出一條關鍵路徑。"
+          "title": "首都雙帥合體! 蔣萬安、戴錫欽攜手邁向2050<b>淨零</b>排放目標 - MSN",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/news/other/%25E9%25A6%2596%25E9%2583%25BD%25E9%259B%2599%25E5%25B8%25A5%25E5%2590%2588%25E9%25AB%2594-%25E8%2594%25A3%25E8%2590%25AC%25E5%25AE%2589-%25E6%2588%25B4%25E9%258C%25AB%25E6%25AC%25BD%25E6%2594%259C%25E6%2589%258B%25E9%2582%2581%25E5%2590%25912050%25E6%25B7%25A8%25E9%259B%25B6%25E6%258E%2592%25E6%2594%25BE%25E7%259B%25AE%25E6%25A8%2599/ar-AA24TdIJ&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw25v-DoxA-h4LftbTmheut4",
+          "published": "2026-06-06T17:03:37+00:00",
+          "summary": "台北市長蔣萬安出席2026世界環境日「府會攜手．淨零台北」碳中和認證暨淨零排放成果記者會。（圖／記者陳家祥攝） 記者陳家祥／台北報導今天6月5日為世界環境日，&nbsp;..."
         }
       ]
     }
