@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-06-07T05:21:27.329526+00:00",
-    "date": "2026-06-07",
+    "generated_at": "2026-06-08T05:50:37.478617+00:00",
+    "date": "2026-06-08",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -10,47 +10,60 @@
     {
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
-      "items": []
+      "items": [
+        {
+          "title": "只有 26% 受訪企業知道自己的 AI 花多少錢：Token 計費時代，企業新管理難題浮現",
+          "link": "https://techorange.com/2026/06/08/ai-tokenmaxxing-cost/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-08T04:34:16+00:00",
+          "summary": "當企業從試驗 AI 走向大規模部署，一個新的管理難題正在浮現：沒人真的知道 AI 花了多少錢。 顧問機構 KPMG 一份尚未公開的調查指出，只有 26% 的受訪企業表示對自家 AI 成本擁有全面的掌握，50% 僅有部分可見度，另有 22% 表示完全沒有可見度，或要等帳單寄來後才知道。KPMG 全球 AI 主管 Steve Chase 形容，這是一種過去不存在、如今卻需要被管理的新資源，而且正在呈現"
+        },
+        {
+          "title": "拆解 NVIDIA 的韓國 AI Factory 布局：聯手 SK 海力士搶 HBM4，攜 NAVER 打造主權 AI 基礎設施",
+          "link": "https://techorange.com/2026/06/08/nvidia-sk-hynix-naver/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-08T04:31:17+00:00",
+          "summary": "在全球 AI 算力軍備競賽白熱化之際，NVIDIA 執行長黃仁勳近日親赴韓國，達成一系列的戰略結盟，合作對象涵蓋半導體巨頭 SK 海力士（SK Hynix）、網路巨頭 NAVER，並延伸至電信與重工業的領頭羊 SK Telecom 及斗山集團（Doosan）。 這場被視為 NVIDIA 深化韓國科技圈布局的關鍵行動，主要圍繞兩大核心：其一是與 SK 海力士深化多年技術同盟，築起下一代記憶體產能的護"
+        },
+        {
+          "title": "【全美第一所 AI 高中的現實】沒有明確定義的 AI 素養，如何衡量一所 AI 學校的成效？",
+          "link": "https://techorange.com/2026/06/08/ai-high-school/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-08T02:52:56+00:00",
+          "summary": "美國喬治亞州的 Seckinger 高中以「全美第一所人工智慧主題教育機構」自居，吸引了媒體廣泛報導，也引來其他學區競相仿效。 Seckinger 集群共涵蓋五所學校，從 Harmony 小學到 Seckinger 高中，全部遵循同一套 AI 學習框架，框架由六個面向組成：程式設計、資料科學、數學推理、創意問題解決、倫理，以及應用體驗。 這套框架在每個年段以不同方式呈現，AI 主題也延伸至各個科目"
+        },
+        {
+          "title": "生產設備 20 年沒升級成工廠大隱患：AI 讓製造業現代化從高風險改造，變成可量化投資",
+          "link": "https://techorange.com/2026/06/08/old-manufacturing-equipment-ai-upgrade/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-08T02:09:52+00:00",
+          "summary": "全球大約有 50% 到 70% 的工業控制系統，即將達到或超過 20 年使用時間，使得企業難以將工廠內部數據，轉化為提高生產效率的營運智慧，迫切需要 AI 時代升級。"
+        },
+        {
+          "title": "從 DTC 到 AI 供應鏈：平價奢華品牌 Quince 為何成為電商新黑馬？",
+          "link": "https://techorange.com/2026/06/08/quince-ai-supply-chain/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-08T01:41:49+00:00",
+          "summary": "成立於 2019 年的平價奢華品牌 Quince 總部位於美國舊金山，近期快速崛起，憑藉獨特的供應鏈策略與 AI 技術應用，成功顛覆傳統零售模式，如今公司估值超過 100 億美元，成為近年成長最快的電商品牌之一。 靠高 CP 值「奢華基本款」，Quince 如何快速崛起？ Quince 主打價格親民的「奢華基本款」商品，包括售價 50 美元的喀什米爾毛衣、歐洲亞麻寢具以及各類家居用品。由於產品設計"
+        },
+        {
+          "title": "【科技早餐】Google 砸 9.2 億美元月租 SpaceX 算力，Anthropic 示警 AI 可能自我改良",
+          "link": "https://techorange.com/2026/06/08/google-spends-920-million-per-month-on-spacex-computing-power-anthropic-warns-ai-cloud-start-improving-itself/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-07T22:50:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Google 月付 9.2 億美元買 SpaceX 算力，AI 基建戰轉向容量鎖定 《路透》報導，Google 已與太空探索科技（SpaceX）簽署大型雲端服務協議，從 2026 年 10 月至 2029 年 6 月，每月支付 9.2 億美元購買運算資源。這份合約將讓 Google 取得約 11 萬顆 NVIDIA GPU 對應的運算容量，以及相"
+        }
+      ]
     },
     {
       "feed_name": "遠見雜誌 - 前進的動力",
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "外泌體不全是良藥！國衛院最新研究揭「2關鍵」恐成癌細胞轉移幫兇",
-          "link": "https://www.gvm.com.tw/article/130663",
-          "published": "2026-06-06T16:00:00",
-          "summary": "外泌體產品在生技界正夯，但國家衛生研究院最新發現，部分細胞外囊泡可能有釀成癌症轉移的風險，宣稱療效但未釐清成分的外泌體產品，難以確保安全，呼籲建立完整品質標準。細胞外囊泡（EVs）是再生醫療熱門話題，其中外泌體是最廣為人知的一類，國衛院長司徒惠康今天在記者會表示，外泌體就像細胞間的「傳聲筒」與「快遞員」，負責傳遞訊息並協調細胞間的互動，外泌體具高穿透力與標靶特性，有望成為奈米導彈般的藥物載體。司徒"
+          "title": "大多數人無力消費？不患寡只患不均，只顧AI出口被稱「台灣病」",
+          "link": "https://www.gvm.com.tw/article/130667",
+          "published": "2026-06-07T11:00:00",
+          "summary": "台灣經濟過去增速大概在 3~4%，今年第一季暴增到 14%，創下 39 年單季最高紀錄。去年出口額大幅成長四成，韓國、日本企業利潤都創下紀錄。然而，東北亞雖然處於一場出口導向的經濟繁榮，但這是兩極化的道路，一條是 AI 飆速，另外一條是非 AI 產業的殞落。「荷蘭病」是指&nbsp;1959&nbsp;年北海天然氣田被發現後，荷蘭天然氣出口大增，推高物價和薪資，卻忽略其他產業的競爭力，最終導致國民"
         },
         {
-          "title": "現代人對金錢最悲哀的誤解：把「Belongings」誤認成「Belonging」",
-          "link": "https://www.gvm.com.tw/article/130653",
-          "published": "2026-06-06T11:46:00",
-          "summary": "現代文化中，財富幾乎被簡化為一場關於「累積」的競賽：累積愈多物質資源、創造愈高利潤、讓數字不斷成長，彷彿就愈接近成功。然而，當我們誤將「金錢」與「財富」劃上等號時，就會打造出帳面富裕、內在卻匱乏的生活——擁有資產，卻缺少連結；追求效率，卻失去意義。（本文節錄自《打開錢意識》一書，作者：伊莉莎白．胡瑟爾／今周刊出版，以下為摘文。）在現代社會，良好的財務狀況確實能解決許多有關安全感的難題，但它對親密度"
-        },
-        {
-          "title": "女兒成績滿級分卻泣問讀書價值：當孩子說「不想上學了」，爸爸做了「這決定」",
-          "link": "https://www.gvm.com.tw/article/130651",
-          "published": "2026-06-06T11:44:00",
-          "summary": "如何當一個孩子信任的大人，在需要的時候提供陪伴和幫助，成為支持孩子的後盾，是為人父母的一大難題。放手是一個漸進、不斷發生的過程，將子女視為「準大人」，透過評估孩子的生活能力、責任承擔、自由度與信任度，決定放手的範圍。（本文節錄自《放手，不放養》一書，作者：許恆嘉／今周刊出版，以下為摘文。）家姊小學五年級時，有天問我：「爸爸，為什麼電子會有上自旋（spin up）和下自旋（spin down）？」「"
-        },
-        {
-          "title": "養出自律孩子，先帶他學時間管理：一寫作業就拖拖拉拉？2步驟建立「自驅力」",
-          "link": "https://www.gvm.com.tw/article/122886",
-          "published": "2026-06-06T11:39:00",
-          "summary": "每一位家長都希望自己的孩子能夠自律，掌握時間管理的方法，但常常無論如何苦口婆心地給孩子講道理、做示範，效果總是不盡人意，產生挫敗感。其實是因為孩子對時間沒有概念，家長也沒有找到適合孩子的時間管理方法。家長應該從時間的基本概念入手，幫孩子一步步了解時間、親近時間，鼓勵孩子利用時間做更有用、更有意義的事情。（本文節錄自《自驅力》一書，作者：青藍圖書，時報出版，以下為摘文。）小樂的國語和英語作業都能自己"
-        },
-        {
-          "title": "當戰爭或災難發生！台灣醫師分析2真相：醫療變成「跟時間賽跑」",
-          "link": "https://www.gvm.com.tw/article/130639",
-          "published": "2026-06-06T11:38:00",
-          "summary": "二十一世紀的戰爭，早已不再是教科書裡描述的模樣。在台灣，我們習慣了穩定的醫療體系、順暢的基礎設施與高度組織化的救援系統。安全似乎是一種理所當然的存在。然而，當國際局勢變動、系統可能暫時失效時，真正能帶來穩定感的，絕不是恐慌，而是做好準備。（本文節錄自《急難救命第一線》一書，作者：白映俞、唐貞綾／商周出版，以下為摘文。）二十一世紀的戰爭，早已不再是教科書裡描述的模樣。它不是電影《特洛伊》裡兩軍對峙的"
-        },
-        {
-          "title": "孩子！這些事在社群上「絕對別做」：以為只是傳給朋友，但永遠無法預料誰會看到",
-          "link": "https://www.gvm.com.tw/article/130580",
-          "published": "2026-06-06T11:36:00",
-          "summary": "孩子的手機成癮並非因為意志力薄弱，而科技巨頭投入數十億美元，利用演算法精準獵捕人類心理弱點。要求一個大腦尚未發育成熟（前額葉皮質還在生長中）的孩子自我克制，就像要老酒鬼在酒精面前保持理性一樣困難。全球已有近1/4的國家實施校園手機禁令，聯合國也正式呼籲禁用。全世界都在幫孩子拿回專注力！（本文節錄自《用界線，讓孩子放下手機》一書，作者：珍．特溫格／三采出版，以下為摘文。）教養不只是訂下規則──你也應"
+          "title": "缺牙、咬合不佳竟與失智症有關！北榮最新研究：「4關鍵因素」讓大腦神經退化",
+          "link": "https://www.gvm.com.tw/article/130665",
+          "published": "2026-06-07T07:00:00",
+          "summary": "台灣邁入超高齡社會，失智症盛行率也隨人口老化攀升，北榮最新研究提醒，缺牙越多、無法正常咬合的長者，失智機率越高，若缺牙逾14顆，罹患阿茲海默症風險比一般人高10倍。台劇「忘了我記得」深刻描繪失智症對家庭衝擊，在這部劇中，失智症不再只是一個醫學名詞，更是悄悄改變生活的漸進式旅程。台北榮民總醫院最新研究發現，「口腔健康」與失智風險高度相關，當缺牙越多，越早走上失智路。國內最新調查指出，全台65歲以上長"
         }
       ]
     },
@@ -59,40 +72,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "航空業機構仍堅持2050年實現<b>淨零</b>排放的目標，儘管清潔燃料進展令人失望，Walsh表示- Moomoo",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.moomoo.com/hant/news/flash/22605321/airline-body-sticking-with-net-zero-by-2050-target-despite&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1b8fMWVEAtPyprqhanhprX",
-          "published": "2026-06-07T01:54:24+00:00",
-          "summary": "Airline Body Sticking With Net-Zero by 2050 Target Despite Clean Fuel Disappointment, Walsh Says. 航空業機構仍堅持2050年實現淨零排放的目標，儘管&nbsp;..."
+          "title": "高科大航海節登場產官學研齊聚御風輪共探輪機科技與綠色航運 - 中央社",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/postwrite/chi/435642&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0hOZdPksoUjK6aeZUdSCTP",
+          "published": "2026-06-08T02:55:14+00:00",
+          "summary": "因應全球航運產業邁向淨零轉型與智慧化發展， 國立高雄科技大學（簡稱高科大）輪機工程系於6月7日在高雄港20號碼頭御風實習船舉辦「2026中華民國第72屆航海節&nbsp;..."
         },
         {
-          "title": "出席工商協進會南部午餐會陳其邁：數位與<b>淨零</b>雙軸轉型打造產業競爭力",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%2587%25BA%25E5%25B8%25AD%25E5%25B7%25A5%25E5%2595%2586%25E5%258D%2594%25E9%2580%25B2%25E6%259C%2583%25E5%258D%2597%25E9%2583%25A8%25E5%258D%2588%25E9%25A4%2590%25E6%259C%2583-%25E9%2599%25B3%25E5%2585%25B6%25E9%2582%2581-%25E6%2595%25B8%25E4%25BD%258D%25E8%2588%2587%25E6%25B7%25A8%25E9%259B%25B6%25E9%259B%2599%25E8%25BB%25B8%25E8%25BD%2589%25E5%259E%258B%25E6%2589%2593%25E9%2580%25A0%25E7%2594%25A2%25E6%25A5%25AD%25E7%25AB%25B6%25E7%2588%25AD%25E5%258A%259B-162000725.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw35XcA6gR7auj5YV72nkrAR",
-          "published": "2026-06-06T23:28:10+00:00",
-          "summary": "高雄市長陳其邁6日陪同行政院長卓榮泰出席「中華民國工商協進會南部工商午餐會」，歡迎工商界領袖齊聚高雄交流。"
+          "title": "斯瓦巴群島成極圈戰略關鍵俄國、挪威爭奪資源｜20260606 全球現場深度週報 - YouTube",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DOAda81jYTQI&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2i_UDh_X2ZaC9-Xkt8QxM_",
+          "published": "2026-06-08T02:08:51+00:00",
+          "summary": "北極不再只是氣候變遷與冰川消融的象徵，位於北極圈內由挪威治理的斯瓦巴群島，近年因俄烏戰爭與北極航道開發，逐漸成為俄羅斯與北約角力的重要區域。"
         },
         {
-          "title": "工商界向政院提24項提案涵蓋資產管理、<b>淨零</b>轉型等- 地方- 華視新聞網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.cts.com.tw/cna/local/202606/202606063040714.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1mKLED4qzZVKpur7O15ob3",
-          "published": "2026-06-06T20:58:39+00:00",
-          "summary": "（中央社記者林巧璉高雄6日電）中華民國工商協進會今天舉辦115年南部工商午餐會，會中業界提出24項提案、61項具體建議，涵蓋亞洲資產管理中心、永續轉型、勞資政策等&nbsp;..."
+          "title": "點燃永續科普魂！第四屆全國風力盃在南臺科大跨國美馬專家齊聚引領<b>淨零</b>未來",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.peopo.org/news/847658&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2jBx17jxkwc6nE7Ac1Qqoq",
+          "published": "2026-06-08T02:03:31+00:00",
+          "summary": "在台灣全面邁向2050 淨零碳排的關鍵時刻，新世代的綠能科技人才究竟該如何養成？由國科會指導、南臺科技大學機械工程系「藏碳蘊風科普團隊」主辦的「2026 第四&nbsp;..."
         },
         {
-          "title": "工商界向政院提24項提案涵蓋資產管理、<b>淨零</b>轉型等",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/living/cna/20260606/index-17807338969260618009.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0tL4fqLI2aaSPRuzpGcoJ1",
-          "published": "2026-06-06T20:36:53+00:00",
-          "summary": "工商協進會表示，多數議題獲行政部門正面回應。 南部工商午餐會今天在高雄萬豪酒店登場，由行政院長卓榮泰與工商協進會理事長吳東亮共同主持。 高雄市長陳其邁致詞&nbsp;..."
+          "title": "「碳」問<b>氣候變遷</b>新解方科博館、中央大學邀你《碳鎖未來》共創永續碳循環 - Yahoo新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E7%25A2%25B3-%25E5%2595%258F%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E6%2596%25B0%25E8%25A7%25A3%25E6%2596%25B9-%25E7%25A7%2591%25E5%258D%259A%25E9%25A4%25A8-%25E4%25B8%25AD%25E5%25A4%25AE%25E5%25A4%25A7%25E5%25AD%25B8%25E9%2582%2580%25E4%25BD%25A0-%25E7%25A2%25B3%25E9%258E%2596%25E6%259C%25AA%25E4%25BE%2586-013326960.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw12zngnGpDfo_TDgsiG099T",
+          "published": "2026-06-08T01:47:27+00:00",
+          "summary": "【互傳媒／記者林明佑／台中報導】面對氣候變遷與淨零轉型，二氧化碳常被視為暖化元凶。然而，真正的問題是二氧化碳？還是人類短時間內大量燃燒化石燃料&nbsp;..."
         },
         {
-          "title": "陪同行政院長出席「中華民國工商協進會南部工商午餐會」 陳其邁 - PChome news",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/public/kcg/20260606/index-78073364051539128016.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Dayr-fw1G15ZcEt8QvqSV",
-          "published": "2026-06-06T20:31:29+00:00",
-          "summary": "陪同行政院長出席「中華民國工商協進會南部工商午餐會」 陳其邁：以數位與淨零雙軸轉型打造產業競爭力. 【高雄訊】重視高雄產業發展與轉型，高雄市長陳其邁今&nbsp;..."
+          "title": "中華民國工商協進會南部工商午餐會陳其邁：以數位與<b>淨零</b>雙軸轉型打造產業競爭力 - 台灣好報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://newstaiwan.net/2026/06/07/446153/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0JSG2ZYtf3goymtTdAwnho",
+          "published": "2026-06-07T22:27:18+00:00",
+          "summary": "... △市長陳其邁陪同行政院卓榮泰院長出席「中華民國工商協進會南部工商午餐會」，表示致力高雄展業轉型發展，持續強化市府服務效能，為企業發展提供最堅實的&nbsp;..."
         },
         {
-          "title": "首都雙帥合體! 蔣萬安、戴錫欽攜手邁向2050<b>淨零</b>排放目標 - MSN",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.msn.com/zh-tw/news/other/%25E9%25A6%2596%25E9%2583%25BD%25E9%259B%2599%25E5%25B8%25A5%25E5%2590%2588%25E9%25AB%2594-%25E8%2594%25A3%25E8%2590%25AC%25E5%25AE%2589-%25E6%2588%25B4%25E9%258C%25AB%25E6%25AC%25BD%25E6%2594%259C%25E6%2589%258B%25E9%2582%2581%25E5%2590%25912050%25E6%25B7%25A8%25E9%259B%25B6%25E6%258E%2592%25E6%2594%25BE%25E7%259B%25AE%25E6%25A8%2599/ar-AA24TdIJ&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw25v-DoxA-h4LftbTmheut4",
-          "published": "2026-06-06T17:03:37+00:00",
-          "summary": "台北市長蔣萬安出席2026世界環境日「府會攜手．淨零台北」碳中和認證暨淨零排放成果記者會。（圖／記者陳家祥攝） 記者陳家祥／台北報導今天6月5日為世界環境日，&nbsp;..."
+          "title": "為什麼蚊子變得越來越多？引發的病變也變多！",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.singtao.ca/7528119/2026-06-07/news-%25E7%2582%25BA%25E4%25BB%2580%25E9%25BA%25BC%25E8%259A%258A%25E5%25AD%2590%25E8%25AE%258A%25E5%25BE%2597%25E8%25B6%258A%25E4%25BE%2586%25E8%25B6%258A%25E5%25A4%259A%25EF%25BC%259F%25E5%25BC%2595%25E7%2599%25BC%25E7%259A%2584%25E7%2597%2585%25E8%25AE%258A%25E4%25B9%259F%25E8%25AE%258A%25E5%25A4%259A%25EF%25BC%2581/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2JaB17Ys1EODAGLVZnwVlR",
+          "published": "2026-06-07T21:05:37+00:00",
+          "summary": "專家表示，簡單說：都是天氣變暖惹的禍。 Daily Hive 報道，卑詩省疾病管制中心(BCCDC) 的病媒專家艾瓦薩瓦(Stefan Iwasawa) 表示，氣候變遷&nbsp;..."
         }
       ]
     }
