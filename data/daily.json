@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-06-08T05:50:37.478617+00:00",
-    "date": "2026-06-08",
+    "generated_at": "2026-06-09T05:06:02.209268+00:00",
+    "date": "2026-06-09",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "只有 26% 受訪企業知道自己的 AI 花多少錢：Token 計費時代，企業新管理難題浮現",
-          "link": "https://techorange.com/2026/06/08/ai-tokenmaxxing-cost/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-08T04:34:16+00:00",
-          "summary": "當企業從試驗 AI 走向大規模部署，一個新的管理難題正在浮現：沒人真的知道 AI 花了多少錢。 顧問機構 KPMG 一份尚未公開的調查指出，只有 26% 的受訪企業表示對自家 AI 成本擁有全面的掌握，50% 僅有部分可見度，另有 22% 表示完全沒有可見度，或要等帳單寄來後才知道。KPMG 全球 AI 主管 Steve Chase 形容，這是一種過去不存在、如今卻需要被管理的新資源，而且正在呈現"
+          "title": "當 GPU 從成本負擔變成獲利引擎，企業 AI 經濟進入新賽局",
+          "link": "https://techorange.com/2026/06/09/computex2026-infinitix-gpu-aiagent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-09T04:35:08+00:00",
+          "summary": "當全球 AI 競賽的焦點從「模型演算法」轉向「算力基礎設施」，誰能高效調度 GPU、誰能將算力資產商業化，誰就掌握了下個世代 AI 經濟的話語權。 在剛落幕的 COMPUTEX 2026 上，深耕 AI 基礎設施近十年的 INFINITIX 數位無限，以「從 AI 基礎設施到 AI 雲端經濟」為主題，協助企業將手中昂貴卻無法最大化效率的 GPU，轉化為可營運、可計價、可變現的雲端服務。 「AI 經"
         },
         {
-          "title": "拆解 NVIDIA 的韓國 AI Factory 布局：聯手 SK 海力士搶 HBM4，攜 NAVER 打造主權 AI 基礎設施",
-          "link": "https://techorange.com/2026/06/08/nvidia-sk-hynix-naver/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-08T04:31:17+00:00",
-          "summary": "在全球 AI 算力軍備競賽白熱化之際，NVIDIA 執行長黃仁勳近日親赴韓國，達成一系列的戰略結盟，合作對象涵蓋半導體巨頭 SK 海力士（SK Hynix）、網路巨頭 NAVER，並延伸至電信與重工業的領頭羊 SK Telecom 及斗山集團（Doosan）。 這場被視為 NVIDIA 深化韓國科技圈布局的關鍵行動，主要圍繞兩大核心：其一是與 SK 海力士深化多年技術同盟，築起下一代記憶體產能的護"
+          "title": "Apple 終於揭曉 AI 戰略：新版 Siri AI 為何把「理解你」看得比模型更重要？",
+          "link": "https://techorange.com/2026/06/09/apple-siri-ai-wwdc-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-09T04:32:26+00:00",
+          "summary": "歷經兩年延遲與外界質疑後，Apple 終於在 WWDC 2026 端出新版 Siri：Siri AI。根據 Apple 官方說明，這次 Siri AI 將不再只是回答天氣、設定提醒或執行單一步驟指令，而是成為一個更具對話能力、能理解個人情境、螢幕內容，並跨 App 執行任務的 AI 助理。Apple 表示，Siri AI 將於今年稍晚以 Beta 形式推出，初期推出範圍不包含歐盟與中國。 不過，這"
         },
         {
-          "title": "【全美第一所 AI 高中的現實】沒有明確定義的 AI 素養，如何衡量一所 AI 學校的成效？",
-          "link": "https://techorange.com/2026/06/08/ai-high-school/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-08T02:52:56+00:00",
-          "summary": "美國喬治亞州的 Seckinger 高中以「全美第一所人工智慧主題教育機構」自居，吸引了媒體廣泛報導，也引來其他學區競相仿效。 Seckinger 集群共涵蓋五所學校，從 Harmony 小學到 Seckinger 高中，全部遵循同一套 AI 學習框架，框架由六個面向組成：程式設計、資料科學、數學推理、創意問題解決、倫理，以及應用體驗。 這套框架在每個年段以不同方式呈現，AI 主題也延伸至各個科目"
+          "title": "台積電產能不足反成 Intel 福音：傳 Google 下單 300 萬顆 TPU、NVIDIA 測試 18A，AI 晶片進入備援製造時代",
+          "link": "https://techorange.com/2026/06/09/google-nvidia-consider-intel-backup-chip-manufacturer/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-09T04:18:32+00:00",
+          "summary": "AI 晶片的爆發性需求，正嚴重壓縮台積電（TSMC）的先進製程與先進封裝產能。此外，過度依賴單一供應商的現況，已成為科技巨頭的戰略風險，這也迫使 Google、NVIDIA 等主要 AI 晶片設計公司，開始將目光轉向台積電的替代選項：Intel。對於近年來在晶圓代工領域苦苦追趕，且持續面臨虧損的 Intel 而言，這更是多年來少見的轉機。 據傳 Google 下單 300 萬顆 TPU，為 Int"
         },
         {
-          "title": "生產設備 20 年沒升級成工廠大隱患：AI 讓製造業現代化從高風險改造，變成可量化投資",
-          "link": "https://techorange.com/2026/06/08/old-manufacturing-equipment-ai-upgrade/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-08T02:09:52+00:00",
-          "summary": "全球大約有 50% 到 70% 的工業控制系統，即將達到或超過 20 年使用時間，使得企業難以將工廠內部數據，轉化為提高生產效率的營運智慧，迫切需要 AI 時代升級。"
+          "title": "機器人現在還是戰國時期！廣宇董事長李光曜：美國做 AI 大腦、中國做硬體，台灣可以兩頭賺",
+          "link": "https://techorange.com/2026/06/09/panpi-ai-robot-podcast/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-09T02:41:13+00:00",
+          "summary": "專訪：戴季全撰稿：李昀蔚 在鴻海邁向「九兆帝國」的藍圖中，機器人不只是新事業，更是鴻海科技集團董事長劉揚偉押注的下一個關鍵轉型引擎，而這個最前沿的新戰場，被交到鴻海集團歷史最悠久的 C 事業群，以及擁有 50 年歷史的廣宇科技手上。 本集《全新一週》邀請到鴻海 C 事業群負責人兼總經理、廣宇董事長李光曜，解析廣宇如何從傳統製造基因切入最前沿的機器人戰場，並透過生態系合作，在美國 AI 大腦與中國硬"
         },
         {
-          "title": "從 DTC 到 AI 供應鏈：平價奢華品牌 Quince 為何成為電商新黑馬？",
-          "link": "https://techorange.com/2026/06/08/quince-ai-supply-chain/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-08T01:41:49+00:00",
-          "summary": "成立於 2019 年的平價奢華品牌 Quince 總部位於美國舊金山，近期快速崛起，憑藉獨特的供應鏈策略與 AI 技術應用，成功顛覆傳統零售模式，如今公司估值超過 100 億美元，成為近年成長最快的電商品牌之一。 靠高 CP 值「奢華基本款」，Quince 如何快速崛起？ Quince 主打價格親民的「奢華基本款」商品，包括售價 50 美元的喀什米爾毛衣、歐洲亞麻寢具以及各類家居用品。由於產品設計"
+          "title": "產業人才結構重塑中：AI 把開發成本砍半，工程師的市場價值不跌反漲",
+          "link": "https://techorange.com/2026/06/09/ai-will-create-more-engineers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-09T01:22:57+00:00",
+          "summary": "AI 能寫程式、生成測試、搭建服務，速度超過任何人類，市場也開始用股價表態；AI 模型的重大突破不斷引發軟體股拋售潮，彷彿整個產業正被工程師自己催生的技術慢慢替代。 但這個邏輯有一個根本的破綻，它把「寫程式」當成工程師的工作，但工程師的工作從來不是這樣定義的。 軟體工程師的工作不只有寫程式？ 首先，外界把「寫程式」當成工程師的工作，這是最根本的誤解。工程師的工作從來不是打打程式碼而已，重點在於解決"
         },
         {
-          "title": "【科技早餐】Google 砸 9.2 億美元月租 SpaceX 算力，Anthropic 示警 AI 可能自我改良",
-          "link": "https://techorange.com/2026/06/08/google-spends-920-million-per-month-on-spacex-computing-power-anthropic-warns-ai-cloud-start-improving-itself/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-07T22:50:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Google 月付 9.2 億美元買 SpaceX 算力，AI 基建戰轉向容量鎖定 《路透》報導，Google 已與太空探索科技（SpaceX）簽署大型雲端服務協議，從 2026 年 10 月至 2029 年 6 月，每月支付 9.2 億美元購買運算資源。這份合約將讓 Google 取得約 11 萬顆 NVIDIA GPU 對應的運算容量，以及相"
+          "title": "電子郵件是駭客入侵的核心破口，改變五個習慣讓你的網路帳號更安全",
+          "link": "https://techorange.com/2026/06/09/change-6-email-habit-to-avoid-hackers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-09T01:22:42+00:00",
+          "summary": "每當使用電子郵件登入網路服務時，便等於是將另一個帳戶跟電子郵件帳戶進行連結，隨著電子郵件信箱成為串聯起所有服務的樞紐，E-Mail 更化身個人資安最脆弱的一環。"
         }
       ]
     },
@@ -54,16 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "大多數人無力消費？不患寡只患不均，只顧AI出口被稱「台灣病」",
-          "link": "https://www.gvm.com.tw/article/130667",
-          "published": "2026-06-07T11:00:00",
-          "summary": "台灣經濟過去增速大概在 3~4%，今年第一季暴增到 14%，創下 39 年單季最高紀錄。去年出口額大幅成長四成，韓國、日本企業利潤都創下紀錄。然而，東北亞雖然處於一場出口導向的經濟繁榮，但這是兩極化的道路，一條是 AI 飆速，另外一條是非 AI 產業的殞落。「荷蘭病」是指&nbsp;1959&nbsp;年北海天然氣田被發現後，荷蘭天然氣出口大增，推高物價和薪資，卻忽略其他產業的競爭力，最終導致國民"
+          "title": "《失樂園》最惡少女掀熱議！李夢苡樺反派演出大受矚目",
+          "link": "https://www.gvm.com.tw/article/130711",
+          "published": "2026-06-08T21:38:00",
+          "summary": "電影《失樂園》由蔡銀娟執導，故事開場的李夢苡樺飾演一名關鍵角色，成了全片的反派之一，引發熱烈討論。由蔡銀娟執導的電影《失樂園》上映後好評持續發酵，首週票房突破200萬元。電影探討霸凌、性侵害、兒少創傷與制度崩壞等議題，引發觀眾熱烈討論。李夢苡樺飾演的育幼院少女「小冰」成為全片話題焦點，她的出現也點出育幼院中可能存在的黑暗現況。片中涉及「欺負」兒少演員的情節，也因她極具張力的演出掀起網路熱議。戲裡戲"
         },
         {
-          "title": "缺牙、咬合不佳竟與失智症有關！北榮最新研究：「4關鍵因素」讓大腦神經退化",
-          "link": "https://www.gvm.com.tw/article/130665",
-          "published": "2026-06-07T07:00:00",
-          "summary": "台灣邁入超高齡社會，失智症盛行率也隨人口老化攀升，北榮最新研究提醒，缺牙越多、無法正常咬合的長者，失智機率越高，若缺牙逾14顆，罹患阿茲海默症風險比一般人高10倍。台劇「忘了我記得」深刻描繪失智症對家庭衝擊，在這部劇中，失智症不再只是一個醫學名詞，更是悄悄改變生活的漸進式旅程。台北榮民總醫院最新研究發現，「口腔健康」與失智風險高度相關，當缺牙越多，越早走上失智路。國內最新調查指出，全台65歲以上長"
+          "title": "專家胡偉良3面向談台灣「土方之亂」：不是營建問題，而是國家治理問題",
+          "link": "https://www.gvm.com.tw/article/130709",
+          "published": "2026-06-08T18:41:00",
+          "summary": "近年來，台灣營建業面臨一項愈來愈嚴重、卻長期被忽視的問題，那就是「土方處理危機」。當鄰近國家早已將合規土方視為可再利用資源，用於造陸、填海、港區擴建與國土開發時，台灣一立方公尺土方的棄置費用，竟然高於一立方公尺預拌混凝土的價格。這是多麼的荒謬，也是舉世所首見。隨著都市更新、危老重建、大型公共建設及捷運工程持續推動，開挖土方數量不斷增加，但合法收容場容量有限、運輸距離拉長、環保規範日益嚴格，再加上部"
+        },
+        {
+          "title": "新青安「最強外掛」將退場！新青安2.0添緊箍咒，房市將大洗牌？",
+          "link": "https://www.gvm.com.tw/article/130705",
+          "published": "2026-06-08T18:09:00",
+          "summary": "新青安貸款自2023年8月上路以來，大幅降低青年首購門檻，被視為近年影響台灣房市最深遠的政策之一。隨著現行新青安將於今年7月底落日，新版「新青安2.0」規劃接棒上路，房市進入盤整期、房價漲勢趨緩下，將改變新世代首購族購屋模式，也可能牽動下半年房市結構出現新一波洗牌。根據財政部統計，截至2026年第一季，新青安累計撥貸約15.9萬戶，總撥貸金額達1.24兆元，近一年平均每季撥貸戶數均維持在1.1萬至"
+        },
+        {
+          "title": "黑色星期一！台股跌1568點、券商大當機，「這些ETF」成交量衝前5",
+          "link": "https://www.gvm.com.tw/article/130693",
+          "published": "2026-06-08T17:50:00",
+          "summary": "上週五（6／5）美股崩跌讓台指期夜盤大跌超過3000點，一度引起市場恐慌，不過台股今（8）日一開盤雖雪崩近2700點，創盤中最大跌點！但之後跌幅逐漸收斂至1500多點，後勢再跌？專家這樣說。上週五美國5月非農就業報告爆表，澆熄市場對於降息的期待，且關注聯準會（Fed）今年再度升息的可能性，使美股四大指數同步被血洗。道瓊指數下跌1.35%，納斯達克指數重挫4.18%，與台股息息相關的費城半導體更崩跌"
+        },
+        {
+          "title": "高金素梅涉貪遭起訴求刑12年6月！本人回應：黑夜一定會結束",
+          "link": "https://www.gvm.com.tw/article/130706",
+          "published": "2026-06-08T17:36:00",
+          "summary": "台北地檢署今天依貪污等罪起訴無黨籍立委高金素梅。高金素梅表示，謝謝熱心協助的律師、關心她的族人朋友，有大家的扶持和鼓勵，她將繼續捍衛原住民族權利，持續監督政府施政；黑夜一定會結束，大家都將會是手持火把、等待黎明的守夜人。高金素梅涉詐領助理費等共新台幣787萬餘元，助理張俊傑涉詐補助款933萬餘元，台北地檢署今天依貪污等罪起訴高金素梅等24人，對高金素梅、張俊傑各求刑12年6月以上徒刑、16年以上徒"
+        },
+        {
+          "title": "王品重返Uber Eats，19個品牌「主餐買1送1」，史上最大百萬會員串接背後盤算？",
+          "link": "https://www.gvm.com.tw/article/130702",
+          "published": "2026-06-08T17:03:00",
+          "summary": "台灣餐飲龍頭王品集團與外送雙雄之間的分合，隨著日前王品與Uber Eats正式二度結盟，並宣布展開外送平台史上最大規模的百萬會員串接後，正式開啟新篇章。外送平台Uber Eats與台灣餐飲龍頭王品集團日前舉行記者會正式預告，Uber Eats App與王品集團「瘋美食」會員串接預計於8月登場，未來王品會員於Uber Eats App點購王品集團旗下品牌餐點，完成綁定後即可享有王品集團會員專屬優惠，"
         }
       ]
     },
@@ -72,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "高科大航海節登場產官學研齊聚御風輪共探輪機科技與綠色航運 - 中央社",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/postwrite/chi/435642&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0hOZdPksoUjK6aeZUdSCTP",
-          "published": "2026-06-08T02:55:14+00:00",
-          "summary": "因應全球航運產業邁向淨零轉型與智慧化發展， 國立高雄科技大學（簡稱高科大）輪機工程系於6月7日在高雄港20號碼頭御風實習船舉辦「2026中華民國第72屆航海節&nbsp;..."
+          "title": "產業<b>碳中和</b>聯盟推動台日綠色合作|半導體|產業新聞 - IEK產業情報網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D5%26nsl_id%3D2cea3e26df38496f925346b363d483ab&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw10tSKXkcRYycXYFTZ1y6O0",
+          "published": "2026-06-08T22:25:04+00:00",
+          "summary": "邀請日本GX推進機構理事高田英樹、經理山口諒來台進行交流座談，內容聚焦在日本推動產業淨零轉型的組織變革，以及碳交易制度的發展規劃。 ... Net-Zero&nbsp;..."
         },
         {
-          "title": "斯瓦巴群島成極圈戰略關鍵俄國、挪威爭奪資源｜20260606 全球現場深度週報 - YouTube",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DOAda81jYTQI&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2i_UDh_X2ZaC9-Xkt8QxM_",
-          "published": "2026-06-08T02:08:51+00:00",
-          "summary": "北極不再只是氣候變遷與冰川消融的象徵，位於北極圈內由挪威治理的斯瓦巴群島，近年因俄烏戰爭與北極航道開發，逐漸成為俄羅斯與北約角力的重要區域。"
+          "title": "聯合國：世界必須“擺脫化石燃料“ - RFI - 法國國際廣播電台",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rfi.fr/tw/%25E5%259C%258B%25E9%259A%259B/20260608-%25E8%2581%25AF%25E5%2590%2588%25E5%259C%258B-%25E4%25B8%2596%25E7%2595%258C%25E5%25BF%2585%25E9%25A0%2588-%25E6%2593%25BA%25E8%2584%25AB%25E5%258C%2596%25E7%259F%25B3%25E7%2587%2583%25E6%2596%2599&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw25eOIxkCPYs24TjsTqDLzR",
+          "published": "2026-06-08T21:10:06+00:00",
+          "summary": "聯合國氣候峰會主席西蒙·斯蒂爾（Chris Bowen）6月8日告訴法新社，中東戰爭表明，世界必須“擺脫化石燃料“。"
         },
         {
-          "title": "點燃永續科普魂！第四屆全國風力盃在南臺科大跨國美馬專家齊聚引領<b>淨零</b>未來",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.peopo.org/news/847658&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2jBx17jxkwc6nE7Ac1Qqoq",
-          "published": "2026-06-08T02:03:31+00:00",
-          "summary": "在台灣全面邁向2050 淨零碳排的關鍵時刻，新世代的綠能科技人才究竟該如何養成？由國科會指導、南臺科技大學機械工程系「藏碳蘊風科普團隊」主辦的「2026 第四&nbsp;..."
+          "title": "工商協進會提24建言，涵蓋資產管理、<b>淨零</b>轉型、產業發展等5大面向，獲行政部門逐案回應",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/DR6wjlg&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0SRX32WkEiEJf1zghkvx44",
+          "published": "2026-06-08T18:28:26+00:00",
+          "summary": "他強調，「提升南臺灣的經濟韌性，就是強化台灣的安全保障」，並肯定政府推動「均衡臺灣」及「大南方新矽谷」政策方向，期待透過產業、科技、金融與人才資源的整合&nbsp;..."
         },
         {
-          "title": "「碳」問<b>氣候變遷</b>新解方科博館、中央大學邀你《碳鎖未來》共創永續碳循環 - Yahoo新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E7%25A2%25B3-%25E5%2595%258F%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E6%2596%25B0%25E8%25A7%25A3%25E6%2596%25B9-%25E7%25A7%2591%25E5%258D%259A%25E9%25A4%25A8-%25E4%25B8%25AD%25E5%25A4%25AE%25E5%25A4%25A7%25E5%25AD%25B8%25E9%2582%2580%25E4%25BD%25A0-%25E7%25A2%25B3%25E9%258E%2596%25E6%259C%25AA%25E4%25BE%2586-013326960.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw12zngnGpDfo_TDgsiG099T",
-          "published": "2026-06-08T01:47:27+00:00",
-          "summary": "【互傳媒／記者林明佑／台中報導】面對氣候變遷與淨零轉型，二氧化碳常被視為暖化元凶。然而，真正的問題是二氧化碳？還是人類短時間內大量燃燒化石燃料&nbsp;..."
+          "title": "北市防災教育頒獎表揚KOL與律動唱跳優勝隊伍 - 樂聯網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://leho.com.tw/archives/322584&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2jE10APD1L6ukrMqgTdIAR",
+          "published": "2026-06-08T18:00:18+00:00",
+          "summary": "為深化校園防災教育，提升學生防減災與氣候變遷調適素養，臺北市政府教育局辦理「115年度防減災及氣候變遷調適教育新世代防災KOL徵選」及「115年度幼兒園暨&nbsp;..."
         },
         {
-          "title": "中華民國工商協進會南部工商午餐會陳其邁：以數位與<b>淨零</b>雙軸轉型打造產業競爭力 - 台灣好報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://newstaiwan.net/2026/06/07/446153/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0JSG2ZYtf3goymtTdAwnho",
-          "published": "2026-06-07T22:27:18+00:00",
-          "summary": "... △市長陳其邁陪同行政院卓榮泰院長出席「中華民國工商協進會南部工商午餐會」，表示致力高雄展業轉型發展，持續強化市府服務效能，為企業發展提供最堅實的&nbsp;..."
+          "title": "2026年6月8日菲律賓棉蘭老島南部近岸7.8級大地震｜香港天文台(HKO)",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hko.gov.hk/tc/%25E5%25A4%25A9%25E6%2596%2587%25E5%258F%25B0%25E7%25B6%25B2%25E8%25AA%258C/110612/2026%25E5%25B9%25B46%25E6%259C%25888%25E6%2597%25A5%25E8%258F%25B2%25E5%25BE%258B%25E8%25B3%2593%25E6%25A3%2589%25E8%2598%25AD%25E8%2580%2581%25E5%25B3%25B6%25E5%258D%2597%25E9%2583%25A8%25E8%25BF%2591%25E5%25B2%25B878%25E7%25B4%259A%25E5%25A4%25A7%25E5%259C%25B0%25E9%259C%2587&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Lxca7aje6nQp3EeRyw680",
+          "published": "2026-06-08T17:56:47+00:00",
+          "summary": "震中位於達沃之西南偏南約160公里，距離香港約2,190公里。由於距離震中較遠，本港並無震感，而本港寶珊寬頻地震站探測到的地震波形（圖1）顯示P波於協調世界時6月7日&nbsp;..."
         },
         {
-          "title": "為什麼蚊子變得越來越多？引發的病變也變多！",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.singtao.ca/7528119/2026-06-07/news-%25E7%2582%25BA%25E4%25BB%2580%25E9%25BA%25BC%25E8%259A%258A%25E5%25AD%2590%25E8%25AE%258A%25E5%25BE%2597%25E8%25B6%258A%25E4%25BE%2586%25E8%25B6%258A%25E5%25A4%259A%25EF%25BC%259F%25E5%25BC%2595%25E7%2599%25BC%25E7%259A%2584%25E7%2597%2585%25E8%25AE%258A%25E4%25B9%259F%25E8%25AE%258A%25E5%25A4%259A%25EF%25BC%2581/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2JaB17Ys1EODAGLVZnwVlR",
-          "published": "2026-06-07T21:05:37+00:00",
-          "summary": "專家表示，簡單說：都是天氣變暖惹的禍。 Daily Hive 報道，卑詩省疾病管制中心(BCCDC) 的病媒專家艾瓦薩瓦(Stefan Iwasawa) 表示，氣候變遷&nbsp;..."
+          "title": "<b>氣候變遷</b>衝擊母嬰健康醫療體系亟需推動氣候智慧型照護 - GeneOnline News",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://geneonline.news/%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E8%25A1%259D%25E6%2593%258A%25E6%25AF%258D%25E5%25AC%25B0%25E5%2581%25A5%25E5%25BA%25B7-%25E9%2586%25AB%25E7%2599%2582%25E9%25AB%2594%25E7%25B3%25BB%25E4%25BA%259F%25E9%259C%2580%25E6%258E%25A8%25E5%258B%2595%25E6%25B0%25A3%25E5%2580%2599%25E6%2599%25BA%25E6%2585%25A7/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1ZxleNLCE2sitXfidK6EAu",
+          "published": "2026-06-08T17:56:45+00:00",
+          "summary": "氣候變遷對全球健康的威脅日益嚴峻，其中孕婦與嬰兒被視為最脆弱的族群之一。根據最新研究顯示，地球暖化帶來的影響已."
         }
       ]
     }
