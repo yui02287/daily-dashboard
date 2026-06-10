@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-06-09T05:06:02.209268+00:00",
-    "date": "2026-06-09",
+    "generated_at": "2026-06-10T05:18:34.641476+00:00",
+    "date": "2026-06-10",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "當 GPU 從成本負擔變成獲利引擎，企業 AI 經濟進入新賽局",
-          "link": "https://techorange.com/2026/06/09/computex2026-infinitix-gpu-aiagent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-09T04:35:08+00:00",
-          "summary": "當全球 AI 競賽的焦點從「模型演算法」轉向「算力基礎設施」，誰能高效調度 GPU、誰能將算力資產商業化，誰就掌握了下個世代 AI 經濟的話語權。 在剛落幕的 COMPUTEX 2026 上，深耕 AI 基礎設施近十年的 INFINITIX 數位無限，以「從 AI 基礎設施到 AI 雲端經濟」為主題，協助企業將手中昂貴卻無法最大化效率的 GPU，轉化為可營運、可計價、可變現的雲端服務。 「AI 經"
+          "title": "從黑名單到全鏈追蹤：台灣擬將 AI 晶片管制擴大到所有中國客戶，伺服器供應鏈迎合規新考驗",
+          "link": "https://techorange.com/2026/06/10/taiwan-mulls-curbs-on-ai-chip-exports-to-china/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-10T04:27:06+00:00",
+          "summary": "為了防堵先進硬體設備流向中國並進一步與美國的政策看齊，台灣正考慮實施更嚴格的 AI 晶片出口管制，這項措施同時也是目前台美雙方正在進行的貿易談判一部分。據報導，未來的管制對象可能進一步擴大，預計會限制對中國所有客戶的銷售，不再僅限於華為（Huawei）或中芯國際（SMIC）等已被列入出口黑名單的特定企業。 這波管制升級的背後，與美國持續施壓防堵第三地轉運漏洞的政策息息相關。具體而言，美國共和黨參議"
         },
         {
-          "title": "Apple 終於揭曉 AI 戰略：新版 Siri AI 為何把「理解你」看得比模型更重要？",
-          "link": "https://techorange.com/2026/06/09/apple-siri-ai-wwdc-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-09T04:32:26+00:00",
-          "summary": "歷經兩年延遲與外界質疑後，Apple 終於在 WWDC 2026 端出新版 Siri：Siri AI。根據 Apple 官方說明，這次 Siri AI 將不再只是回答天氣、設定提醒或執行單一步驟指令，而是成為一個更具對話能力、能理解個人情境、螢幕內容，並跨 App 執行任務的 AI 助理。Apple 表示，Siri AI 將於今年稍晚以 Beta 形式推出，初期推出範圍不包含歐盟與中國。 不過，這"
+          "title": "Anthropic 推出 Fable 5 與 Mythos 5，最重要的升級其實不是模型",
+          "link": "https://techorange.com/2026/06/10/anthropic-fable-5-mythos-5-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-10T04:24:19+00:00",
+          "summary": "今年 4 月，Anthropic 首度公開 Mythos Preview 模型時，曾以資安風險為由拒絕全面開放。當時 Anthropic 認為，這類模型如果直接開放，可能被惡意攻擊者用來開發新的網路工具。然而不到三個月，Anthropic 在今日正式發表 Claude Fable 5 與 Claude Mythos 5，首次把 Mythos 級能力以 Fable 5 的形式推向大眾市場。仔細觀察，"
         },
         {
-          "title": "台積電產能不足反成 Intel 福音：傳 Google 下單 300 萬顆 TPU、NVIDIA 測試 18A，AI 晶片進入備援製造時代",
-          "link": "https://techorange.com/2026/06/09/google-nvidia-consider-intel-backup-chip-manufacturer/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-09T04:18:32+00:00",
-          "summary": "AI 晶片的爆發性需求，正嚴重壓縮台積電（TSMC）的先進製程與先進封裝產能。此外，過度依賴單一供應商的現況，已成為科技巨頭的戰略風險，這也迫使 Google、NVIDIA 等主要 AI 晶片設計公司，開始將目光轉向台積電的替代選項：Intel。對於近年來在晶圓代工領域苦苦追趕，且持續面臨虧損的 Intel 而言，這更是多年來少見的轉機。 據傳 Google 下單 300 萬顆 TPU，為 Int"
+          "title": "半導體出口暴增 169%、變壓器訂單衝上 32 兆韓元：AI 算力戰如何讓南韓成為全球戰略產業贏家？",
+          "link": "https://techorange.com/2026/06/10/south-korea-booms-on-ai-race-and-global-conflict/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-10T03:04:52+00:00",
+          "summary": "南韓目前正處於經濟發展的「甜蜜點」，成為全球經濟的贏家，這主要歸功於全球 AI 霸權爭奪戰以及各國重新武裝的浪潮。根據 Insight Communications 執行長 Michael Breen 的觀察，儘管南韓面臨能源高度依賴進口、高昂生活成本與青年失業等挑戰，但其經濟成長引擎依然全速運轉中。 受惠於全球 AI 投資熱潮，南韓五月出口額以高達 53.2% 的年增率飆升，創下自 1984 年"
         },
         {
-          "title": "機器人現在還是戰國時期！廣宇董事長李光曜：美國做 AI 大腦、中國做硬體，台灣可以兩頭賺",
-          "link": "https://techorange.com/2026/06/09/panpi-ai-robot-podcast/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-09T02:41:13+00:00",
-          "summary": "專訪：戴季全撰稿：李昀蔚 在鴻海邁向「九兆帝國」的藍圖中，機器人不只是新事業，更是鴻海科技集團董事長劉揚偉押注的下一個關鍵轉型引擎，而這個最前沿的新戰場，被交到鴻海集團歷史最悠久的 C 事業群，以及擁有 50 年歷史的廣宇科技手上。 本集《全新一週》邀請到鴻海 C 事業群負責人兼總經理、廣宇董事長李光曜，解析廣宇如何從傳統製造基因切入最前沿的機器人戰場，並透過生態系合作，在美國 AI 大腦與中國硬"
+          "title": "印度 AI 轉型的兩難：培訓 3.5 億人，但模型不在自己手上",
+          "link": "https://techorange.com/2026/06/10/indias-ai-ambitions/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-10T02:48:50+00:00",
+          "summary": "印度擁有約 6 億名勞動力，是全球最大的 IT 服務人力市場之一。然而根據 IBM 商業價值研究院與 IndiaAI 本月發布的聯合報告，這 6 億人中目前具備足夠 AI 知識的只有約 2 億人，佔整體勞動力的 30%。 要讓 AI 真正成為印度下一波經濟成長的引擎，這個比例必須在不到五年內提升到 57%，也就是再培訓 1.5 億人。 市場已經先行反應 市場對這個衝擊的判斷，比多數分析師更早到來。"
         },
         {
-          "title": "產業人才結構重塑中：AI 把開發成本砍半，工程師的市場價值不跌反漲",
-          "link": "https://techorange.com/2026/06/09/ai-will-create-more-engineers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-09T01:22:57+00:00",
-          "summary": "AI 能寫程式、生成測試、搭建服務，速度超過任何人類，市場也開始用股價表態；AI 模型的重大突破不斷引發軟體股拋售潮，彷彿整個產業正被工程師自己催生的技術慢慢替代。 但這個邏輯有一個根本的破綻，它把「寫程式」當成工程師的工作，但工程師的工作從來不是這樣定義的。 軟體工程師的工作不只有寫程式？ 首先，外界把「寫程式」當成工程師的工作，這是最根本的誤解。工程師的工作從來不是打打程式碼而已，重點在於解決"
+          "title": "幫草莓拍張照就知道能不能賣：美連鎖超商的 AI 生鮮品管工具，如何解決人工檢驗標準不一的老問題？",
+          "link": "https://techorange.com/2026/06/10/albertsons-ai-quality-control/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-10T00:00:00+00:00",
+          "summary": "美國連鎖超商巨頭 Albertsons 宣布推出正在申請專利的「智慧品質控管（Intelligent Quality Control）」工具，透過 AI 與電腦視覺技術協助物流中心品管人員進行生鮮蔬果檢測，提升品質評估的一致性與效率。 導入 AI 智慧品管，首波鎖定高損耗水果類 對於大型零售業者而言，生鮮蔬果是供應鏈管理中最具挑戰性的品項之一。草莓、葡萄等水果保存期限短，品質狀況又容易受到運輸、溫"
         },
         {
-          "title": "電子郵件是駭客入侵的核心破口，改變五個習慣讓你的網路帳號更安全",
-          "link": "https://techorange.com/2026/06/09/change-6-email-habit-to-avoid-hackers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-09T01:22:42+00:00",
-          "summary": "每當使用電子郵件登入網路服務時，便等於是將另一個帳戶跟電子郵件帳戶進行連結，隨著電子郵件信箱成為串聯起所有服務的樞紐，E-Mail 更化身個人資安最脆弱的一環。"
+          "title": "【科技早餐】OpenAI 接續 Anthropic 申請 IPO，晶片備援與主權算力同步升溫",
+          "link": "https://techorange.com/2026/06/10/openai-files-ipo-following-anthropic/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-09T22:50:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊OpenAI、Anthropic 排隊 IPO，Perplexity 押 2028 上市 OpenAI 已秘密在美國申請首次公開發行，也就是 IPO，加入 Anthropic 前進股市的行列。OpenAI 目前尚未公布上市規模、條件與明確時間表，只表示上市可能還需要一段時間，因為有些事情作為私人公司比較容易完成。《路透》先前引述消息人士報導，Op"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "《失樂園》最惡少女掀熱議！李夢苡樺反派演出大受矚目",
-          "link": "https://www.gvm.com.tw/article/130711",
-          "published": "2026-06-08T21:38:00",
-          "summary": "電影《失樂園》由蔡銀娟執導，故事開場的李夢苡樺飾演一名關鍵角色，成了全片的反派之一，引發熱烈討論。由蔡銀娟執導的電影《失樂園》上映後好評持續發酵，首週票房突破200萬元。電影探討霸凌、性侵害、兒少創傷與制度崩壞等議題，引發觀眾熱烈討論。李夢苡樺飾演的育幼院少女「小冰」成為全片話題焦點，她的出現也點出育幼院中可能存在的黑暗現況。片中涉及「欺負」兒少演員的情節，也因她極具張力的演出掀起網路熱議。戲裡戲"
+          "title": "奇蹟生還！鄧姓工地主任遭馬太鞍溪水沖走，救援人員曝：因「這情況」幸運獲救",
+          "link": "https://www.gvm.com.tw/article/130734",
+          "published": "2026-06-09T19:08:00",
+          "summary": "馬太鞍溪水暴漲，鄧姓工地主任遭洪流連人帶車沖走，今天清晨被警義消和部落族人合力救出送醫；醫院表示，腦部受撞擊，有輕微腦出血，住院觀察；救援人員說，他幸運頭部枕在1根木頭上。花蓮慈濟醫院急診部緊急暨災難醫學科主任徐子恒接受媒體聯訪表示，鄧姓男子被救護車送來時，身體有擦傷跟挫傷，且全身都是髒水、爛泥，先清洗乾淨再仔細檢查，發現腦部有受到撞擊，輕微腦出血，會診神經外科醫師，目前住院觀察。徐子恒說，剛送進"
         },
         {
-          "title": "專家胡偉良3面向談台灣「土方之亂」：不是營建問題，而是國家治理問題",
-          "link": "https://www.gvm.com.tw/article/130709",
-          "published": "2026-06-08T18:41:00",
-          "summary": "近年來，台灣營建業面臨一項愈來愈嚴重、卻長期被忽視的問題，那就是「土方處理危機」。當鄰近國家早已將合規土方視為可再利用資源，用於造陸、填海、港區擴建與國土開發時，台灣一立方公尺土方的棄置費用，竟然高於一立方公尺預拌混凝土的價格。這是多麼的荒謬，也是舉世所首見。隨著都市更新、危老重建、大型公共建設及捷運工程持續推動，開挖土方數量不斷增加，但合法收容場容量有限、運輸距離拉長、環保規範日益嚴格，再加上部"
+          "title": "桃園推可負擔宅是什麼？比社宅更適合買房族？一文拆解",
+          "link": "https://www.gvm.com.tw/article/130733",
+          "published": "2026-06-09T18:55:00",
+          "summary": "為平衡居住正義，桃園市府近期推動「可負擔宅」政策，主打民眾可用市價一半的價格，買一棟不會漲價的房子，創新政策引起輿論關注。不過該政策上月底經桃園市議會三讀通過後，卻在中央這邊碰上軟釘子。專家分析指出，「可負擔宅政策」實驗性質較高，若之後的地方政府承受不住民粹壓力，導致出現民眾跟政府「對賭」的空間，將有公平性的問題。可負擔宅是什麼？桃園首創可負擔宅，希望藉此緩解青年買房壓力。所謂的可負擔，就是可用「"
         },
         {
-          "title": "新青安「最強外掛」將退場！新青安2.0添緊箍咒，房市將大洗牌？",
-          "link": "https://www.gvm.com.tw/article/130705",
-          "published": "2026-06-08T18:09:00",
-          "summary": "新青安貸款自2023年8月上路以來，大幅降低青年首購門檻，被視為近年影響台灣房市最深遠的政策之一。隨著現行新青安將於今年7月底落日，新版「新青安2.0」規劃接棒上路，房市進入盤整期、房價漲勢趨緩下，將改變新世代首購族購屋模式，也可能牽動下半年房市結構出現新一波洗牌。根據財政部統計，截至2026年第一季，新青安累計撥貸約15.9萬戶，總撥貸金額達1.24兆元，近一年平均每季撥貸戶數均維持在1.1萬至"
+          "title": "今日韓國明日台灣？只印50％選票引爆陰謀論，上萬年輕人示威喊重選",
+          "link": "https://www.gvm.com.tw/article/130732",
+          "published": "2026-06-09T18:38:00",
+          "summary": "韓國地方大選爆發選票不足的嚴重風波，全國50處投票所選票用盡、22處暫停投票，引發大規模抗議與舞弊質疑。大批民眾包圍票箱及開票所，要求重新選舉。事件導致選管會委員長辭職，總統李在明下令檢警調查並啟動選務改革，韓國的選舉公信力與民主制度面臨考驗。韓國3日舉行地方大選，竟發生選票準備不足的嚴重疏失。中央選舉管理委員會（NEC）證實，全國1萬4300個投票所中，高達50處投票所選票用盡、22處被迫暫停投"
         },
         {
-          "title": "黑色星期一！台股跌1568點、券商大當機，「這些ETF」成交量衝前5",
-          "link": "https://www.gvm.com.tw/article/130693",
-          "published": "2026-06-08T17:50:00",
-          "summary": "上週五（6／5）美股崩跌讓台指期夜盤大跌超過3000點，一度引起市場恐慌，不過台股今（8）日一開盤雖雪崩近2700點，創盤中最大跌點！但之後跌幅逐漸收斂至1500多點，後勢再跌？專家這樣說。上週五美國5月非農就業報告爆表，澆熄市場對於降息的期待，且關注聯準會（Fed）今年再度升息的可能性，使美股四大指數同步被血洗。道瓊指數下跌1.35%，納斯達克指數重挫4.18%，與台股息息相關的費城半導體更崩跌"
+          "title": "老師該引導學生用AI學習！中教大如何創新師培？",
+          "link": "https://www.gvm.com.tw/article/130729",
+          "published": "2026-06-09T16:10:00",
+          "summary": "在現今少子化及教改的衝擊下，許多師範體系的學校紛紛面臨轉型期，選擇「去師培化」以尋求綜合型大學的發展空間，但卻有一所學校選擇了一條截然不同的道路。台中教育大學明確地宣示：「我們就是師培大學！」校長郭伯臣深信「我們這個社會不可能不需要老師」，因而將師培看做學校的核心競爭力與特色，同時大力導入AI智慧學習，幫助未來的基礎教育師培生利用AI備課。中教大為何堅持培育老師？當許多大學急於發展其他領域時，中教"
         },
         {
-          "title": "高金素梅涉貪遭起訴求刑12年6月！本人回應：黑夜一定會結束",
-          "link": "https://www.gvm.com.tw/article/130706",
-          "published": "2026-06-08T17:36:00",
-          "summary": "台北地檢署今天依貪污等罪起訴無黨籍立委高金素梅。高金素梅表示，謝謝熱心協助的律師、關心她的族人朋友，有大家的扶持和鼓勵，她將繼續捍衛原住民族權利，持續監督政府施政；黑夜一定會結束，大家都將會是手持火把、等待黎明的守夜人。高金素梅涉詐領助理費等共新台幣787萬餘元，助理張俊傑涉詐補助款933萬餘元，台北地檢署今天依貪污等罪起訴高金素梅等24人，對高金素梅、張俊傑各求刑12年6月以上徒刑、16年以上徒"
+          "title": "換護照更方便了！外交部線上申換護照再放寬，效期不足1年者適用",
+          "link": "https://www.gvm.com.tw/article/130728",
+          "published": "2026-06-09T15:48:00",
+          "summary": "外交部「有條件式線上申換護照」適用對象將再放寬，外交部發言人蕭光偉今天預告，今年7月1日上午10時起，護照效期不足1年且符合條件的民眾，也可使用自然人憑證透過線上申換護照。「有條件式線上申換護照」自2025年1月1日正式上路，去年7月放寬適用對象至護照效期不足6個月的民眾。外交部發言人蕭光偉上午於記者會表示，為了讓更多民眾利用這項服務，領務局從今年7月1日上午10時起再擴大適用對象，只要現持護照過"
         },
         {
-          "title": "王品重返Uber Eats，19個品牌「主餐買1送1」，史上最大百萬會員串接背後盤算？",
-          "link": "https://www.gvm.com.tw/article/130702",
-          "published": "2026-06-08T17:03:00",
-          "summary": "台灣餐飲龍頭王品集團與外送雙雄之間的分合，隨著日前王品與Uber Eats正式二度結盟，並宣布展開外送平台史上最大規模的百萬會員串接後，正式開啟新篇章。外送平台Uber Eats與台灣餐飲龍頭王品集團日前舉行記者會正式預告，Uber Eats App與王品集團「瘋美食」會員串接預計於8月登場，未來王品會員於Uber Eats App點購王品集團旗下品牌餐點，完成綁定後即可享有王品集團會員專屬優惠，"
+          "title": "企業成敗看「基因」？三得利、麒麟命運在出手前就決定",
+          "link": "https://www.gvm.com.tw/article/130727",
+          "published": "2026-06-09T15:30:00",
+          "summary": "金融風暴後，日本市場萎縮、全球競爭加劇，麒麟與三得利在合併破局後，幾乎同時壓注海外併購，試圖突圍成長困局。然而，十年後結果卻南轅北轍：一方因高價錯配付出慘痛代價，另一方則憑藉長線布局躍升全球烈酒巨頭。這不只是併購成敗的差異，更關鍵的是：策略背後的企業基因，早已在出手那一刻，決定了結局。金融風暴後，面臨日本國內市場萎縮與國際巨頭整併壓力，麒麟（Kirin）與三得利（Suntory）啟動了長達七個月的"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "產業<b>碳中和</b>聯盟推動台日綠色合作|半導體|產業新聞 - IEK產業情報網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D5%26nsl_id%3D2cea3e26df38496f925346b363d483ab&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw10tSKXkcRYycXYFTZ1y6O0",
-          "published": "2026-06-08T22:25:04+00:00",
-          "summary": "邀請日本GX推進機構理事高田英樹、經理山口諒來台進行交流座談，內容聚焦在日本推動產業淨零轉型的組織變革，以及碳交易制度的發展規劃。 ... Net-Zero&nbsp;..."
+          "title": "市政新聞-新北赴德國波昂參加ICLEI執委會分享新北8年永續<b>淨零</b>治理實績-新北市政府",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ntpc.gov.tw/ch/home.jsp%3Fid%3De8ca970cde5c00e1%26dataserno%3D6014ff76dc1b42cf8ce118cb27b13046&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3Qx2X7YMoWBpgvlBkm9ZrY",
+          "published": "2026-06-10T04:01:29+00:00",
+          "summary": "劉副市長於會中與ICLEI 主席Katrin Stjernfeldt Jammeh、秘書長Gino Van Begin 及歐洲各城市首長深入交流，分享新北市在氣候行動與永續治理上的豐碩成果，獲得與會&nbsp;..."
         },
         {
-          "title": "聯合國：世界必須“擺脫化石燃料“ - RFI - 法國國際廣播電台",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rfi.fr/tw/%25E5%259C%258B%25E9%259A%259B/20260608-%25E8%2581%25AF%25E5%2590%2588%25E5%259C%258B-%25E4%25B8%2596%25E7%2595%258C%25E5%25BF%2585%25E9%25A0%2588-%25E6%2593%25BA%25E8%2584%25AB%25E5%258C%2596%25E7%259F%25B3%25E7%2587%2583%25E6%2596%2599&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw25eOIxkCPYs24TjsTqDLzR",
-          "published": "2026-06-08T21:10:06+00:00",
-          "summary": "聯合國氣候峰會主席西蒙·斯蒂爾（Chris Bowen）6月8日告訴法新社，中東戰爭表明，世界必須“擺脫化石燃料“。"
+          "title": "中國<b>碳中和</b>(01372)股價上升5.556%，現價港幣$0.95AASTOCKS市場異動- 所有",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.aastocks.com/tc/stocks/news/aamm-content/AAR2606102151/aamm-all-category&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1GQ-PFGX8odBbFcsQDPmCC",
+          "published": "2026-06-10T03:19:39+00:00",
+          "summary": "[上升股]中國碳中和(01372) 股價在上午11:00比前收市價上升5.556%，現股價為港幣$0.95。至目前為止，今日最高價為$0.95，而最低價為$0.86。總成交量為57.7萬股，&nbsp;..."
         },
         {
-          "title": "工商協進會提24建言，涵蓋資產管理、<b>淨零</b>轉型、產業發展等5大面向，獲行政部門逐案回應",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/DR6wjlg&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0SRX32WkEiEJf1zghkvx44",
-          "published": "2026-06-08T18:28:26+00:00",
-          "summary": "他強調，「提升南臺灣的經濟韌性，就是強化台灣的安全保障」，並肯定政府推動「均衡臺灣」及「大南方新矽谷」政策方向，期待透過產業、科技、金融與人才資源的整合&nbsp;..."
+          "title": "戰爭加劇飢餓危機教會團體譴責道德失敗 - 台灣醒報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.anntw.com/articles/20260609-EVUr&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3Ew7VvcnS3pTH786cBdqun",
+          "published": "2026-06-10T03:03:57+00:00",
+          "summary": "根據聯合國統計，全球飢餓危機已達到史無前例的嚴峻程度，而在資金大幅縮減之下只能優先救助最危急的難民。另外，氣候變遷與經濟動盪亦加劇了營養不良問題，並促使&nbsp;..."
         },
         {
-          "title": "北市防災教育頒獎表揚KOL與律動唱跳優勝隊伍 - 樂聯網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://leho.com.tw/archives/322584&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2jE10APD1L6ukrMqgTdIAR",
-          "published": "2026-06-08T18:00:18+00:00",
-          "summary": "為深化校園防災教育，提升學生防減災與氣候變遷調適素養，臺北市政府教育局辦理「115年度防減災及氣候變遷調適教育新世代防災KOL徵選」及「115年度幼兒園暨&nbsp;..."
+          "title": "多倫多青創交流凝聚新創能量共探挑戰與永續發展 - 僑務委員會",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ocac.gov.tw/OCAC/SubSites/Pages/Detail.aspx%3Fsite%3Dc55e39de-d249-440f-b24a-0fb7a7bc9ab6%26nodeid%3D990%26pid%3D87056984&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3BcxNTi3MlkmMNKbmLx93r",
+          "published": "2026-06-10T02:42:52+00:00",
+          "summary": "藍柏青同時帶領與會者進行僑臺商淨零碳排座談，探討企業永續經營及綠色轉型議題，引發與會者關注。 多倫多臺灣商會會長楊家潤及理事鄭秀貞亦到場分享創業&nbsp;..."
         },
         {
-          "title": "2026年6月8日菲律賓棉蘭老島南部近岸7.8級大地震｜香港天文台(HKO)",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hko.gov.hk/tc/%25E5%25A4%25A9%25E6%2596%2587%25E5%258F%25B0%25E7%25B6%25B2%25E8%25AA%258C/110612/2026%25E5%25B9%25B46%25E6%259C%25888%25E6%2597%25A5%25E8%258F%25B2%25E5%25BE%258B%25E8%25B3%2593%25E6%25A3%2589%25E8%2598%25AD%25E8%2580%2581%25E5%25B3%25B6%25E5%258D%2597%25E9%2583%25A8%25E8%25BF%2591%25E5%25B2%25B878%25E7%25B4%259A%25E5%25A4%25A7%25E5%259C%25B0%25E9%259C%2587&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Lxca7aje6nQp3EeRyw680",
-          "published": "2026-06-08T17:56:47+00:00",
-          "summary": "震中位於達沃之西南偏南約160公里，距離香港約2,190公里。由於距離震中較遠，本港並無震感，而本港寶珊寬頻地震站探測到的地震波形（圖1）顯示P波於協調世界時6月7日&nbsp;..."
+          "title": "勞動部助勞工轉型免費AI、<b>淨零</b>線上課程開跑 - 經濟日報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/5612/9557023&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2eKGdyiYkeo6udHzh3MsKE",
+          "published": "2026-06-10T02:17:36+00:00",
+          "summary": "為使勞工能因應數位科技發展，勞動力發展數位服務平台除提供人工智慧、雲端服務應用、物聯網趨勢、Python網頁爬蟲基礎應用等AI相關範疇數位課程外，還增加自動控制&nbsp;..."
         },
         {
-          "title": "<b>氣候變遷</b>衝擊母嬰健康醫療體系亟需推動氣候智慧型照護 - GeneOnline News",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://geneonline.news/%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E8%25A1%259D%25E6%2593%258A%25E6%25AF%258D%25E5%25AC%25B0%25E5%2581%25A5%25E5%25BA%25B7-%25E9%2586%25AB%25E7%2599%2582%25E9%25AB%2594%25E7%25B3%25BB%25E4%25BA%259F%25E9%259C%2580%25E6%258E%25A8%25E5%258B%2595%25E6%25B0%25A3%25E5%2580%2599%25E6%2599%25BA%25E6%2585%25A7/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1ZxleNLCE2sitXfidK6EAu",
-          "published": "2026-06-08T17:56:45+00:00",
-          "summary": "氣候變遷對全球健康的威脅日益嚴峻，其中孕婦與嬰兒被視為最脆弱的族群之一。根據最新研究顯示，地球暖化帶來的影響已."
+          "title": "從美國洪災保費風暴思考台灣：洪水風險應由誰承擔？ - 環境資訊中心",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://e-info.org.tw/node/243525&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw03ya0sy2wrNdiqUIaGtX7-",
+          "published": "2026-06-10T01:18:12+00:00",
+          "summary": "四，假借名義、逾越職權（acted pretextually）：FEMA以調整洪水保費為名，實則推動氣候變遷政策，已超出其法定職權（statutory authority）。 Risk Rating 2.0目前仍在&nbsp;..."
         }
       ]
     }
