@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-06-11T05:48:03.494712+00:00",
-    "date": "2026-06-11",
+    "generated_at": "2026-06-12T05:49:01.806495+00:00",
+    "date": "2026-06-12",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "AI Agent 不只導購，還能下單付款：Visa 串接 OpenAI 讓「機器買家」也能被授權與控管",
-          "link": "https://techorange.com/2026/06/11/visa-chatgpt-openai-ai-agent-shopping/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-11T04:28:08+00:00",
-          "summary": "OpenAI 與 Visa 近日在 Visa Payments Forum 上，正式宣布擴大戰略合作，目的是將「代理驅動商務（agentic commerce）」推向主流市場。這項合作將把 Visa 的支付服務整合進 OpenAI 的平台中，讓使用者能直接將 Visa 信用卡與 ChatGPT 綁定。 這也代表，未來使用者在給予授權後，可以直接指示 AI Agent 代為完成線上購物，不僅涵蓋支付"
+          "title": "貝佐斯反駁 AI 失業潮：Prometheus 要用「通用人工智慧工程師」賦能工程師，讓發明更簡單快速",
+          "link": "https://techorange.com/2026/06/12/jeff-bezoss-prometheus/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-12T04:29:13+00:00",
+          "summary": "亞馬遜創辦人貝佐斯（Jeff Bezos）自 2021 年卸下執行長後，再度親自出任 CEO，與 Google 生命科學部門 Verily 前共同創辦人 Vik Bajaj 共同領導 AI 新創 Prometheus。 Prometheus 近日宣布完成 120 億美元的第二輪募資，使估值一舉達到 410 億美元。Prometheus 的野心極大，他們並不是要打造 AI 聊天機器人或實體機器人，而"
         },
         {
-          "title": "Anthropic 監管立場大轉向：Dario Amodei 為何發長文主張政府有權阻止 AI 上線？",
-          "link": "https://techorange.com/2026/06/11/anthropic-dario-amodei-policy-on-the-ai-exponential/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-11T04:12:27+00:00",
-          "summary": "Anthropic 執行長 Dario Amodei 發表長文〈Policy on the AI Exponential〉（AI 指數成長政策），試圖系統性提出 AI 時代的政策藍圖。這篇文章值得關注的地方，不只是 Anthropic 再次呼籲監管 AI，而是其主張明顯從過去的「透明化」走向更具約束力的政府管制。 Amodei 在文中直言，過去幾年 Anthropic 支持的政策，多半是讓模型開發"
+          "title": "史上最大 IPO 背後：SpaceX 如何把太空定調成 AI 時代的新基礎設施？",
+          "link": "https://techorange.com/2026/06/12/spacex-ipo-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-12T03:56:51+00:00",
+          "summary": "馬斯克（Elon Musk）的火箭公司 SpaceX 完成了一場改寫紀錄的首次公開發行（IPO）。但比起 IPO 的規模，更值得關注的，是市場究竟在為什麼買單。一家去年才剛由盈轉虧的公司，如何說服投資人給出近百倍的市銷率，並把自己從一家火箭公司，重新定義為 AI 時代的基礎設施平台。 史上最大 IPO：750 億美元，超越 Saudi Aramco 根據《Reuters》，SpaceX 週四將 I"
         },
         {
-          "title": "【哲學家也進科技業了】從 Claude 佈道者到首席 AI 長，在 AI 時代誕生的全新職位有哪些？",
-          "link": "https://techorange.com/2026/06/11/new-job-titles-that-ai-created/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-11T02:26:05+00:00",
-          "summary": "當多數新聞聚焦在 AI 造成企業裁員時，宣布裁員的企業同時也正在大舉招募兩年前根本不存在的職位。 AI 時代正在出現哪些新職位 目前 AI 產業最搶手的角色，是前沿部署工程師（Forward Deployed Engineer）。這個職稱最早由 Palantir 在 2010 年代推廣，做法是把專精的工程師直接派駐客戶端，量身打造 AI 解決方案，而非交付現成軟體。 根據求職平台 Indeed 的"
+          "title": "AI 用越多不代表越有價值：當 token 成本升高，企業決策者開始追問真正 ROI",
+          "link": "https://techorange.com/2026/06/12/ai-token-reckoning-execs-on-measuring-return-on-investment/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-12T02:33:19+00:00",
+          "summary": "矽谷在過去一年裡，逐漸將 AI 的使用量變成一種職場上的計分板。然而，這股追求 token 用量最大化（tokenmaxxing）的風氣正迎來反思聲浪，愈來愈多企業高層開始質疑，最大化 AI 使用量是否真的是衡量技術採用成效的正確方式。 《Business Insider》近日在 Mistral AI 峰會上訪問四位企業高層，當他們談到如何衡量 AI 的投資報酬率（ROI）時，沒有任何一個人一開始"
         },
         {
-          "title": "氣候異常、原料波動、通膨壓力同時來：食品大廠 Cargill 如何用 AI 穩定供應鏈運作？",
-          "link": "https://techorange.com/2026/06/11/cargill-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-11T01:53:12+00:00",
-          "summary": "近年來，全球食品產業面臨前所未有的挑戰。極端氣候影響農作物產量與品質，地緣政治與貿易摩擦持續干擾原料供應，通膨則推高食品生產成本。在消費者要求價格合理、兼顧美味與永續的情況下，傳統食品研發模式正面臨越來越大的壓力。 作為全球最大的農業與食品企業之一，成立超過 150 年的企業掌握全球糧食、農產品加工、食品原料與供應鏈網的 Cargill 近年積極將 AI 導入產品開發流程，希望透過資料驅動的方式加"
+          "title": "研發週期砍半、搜尋能見度翻倍：聯合利華怎麼用 AI 改造食品事業？",
+          "link": "https://techorange.com/2026/06/12/unilever-ai-search-visibility/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-12T01:58:51+00:00",
+          "summary": "當消費者想找晚餐靈感時，打開搜尋引擎已不再是唯一選項。愈來愈多人開始直接向 AI 助理或大型語言模型（LLM）提問，例如「適合派對的三明治食譜有哪些？」或「適合年輕族群的熱門料理是什麼？」。在這樣的情境下，品牌是否能被 AI 推薦，正逐漸成為影響消費者購買決策的重要因素。 AI 搜尋時代來臨：品牌開始優化「被 AI 推薦」能力 快消品巨頭聯合利華（Unilever）觀察到，2026 年消費者的食物"
         },
         {
-          "title": "【科技早餐】OpenAI 傳租 10GW 園區，台積電、資安與資料中心人力同步承壓",
-          "link": "https://techorange.com/2026/06/11/openai-leases-10-gw-campus/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-10T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊OpenAI 傳租 10GW 園區，AI 算力戰從模型燒到電力與金融 OpenAI 正在洽談租用一座位於美國俄亥俄州南部、能源部土地上的資料中心園區，規劃容量高達 10GW。報導指出，這項交易可能獲得 NVIDIA 的財務支持，建設成本可能至少達到 5,000 億美元，租期長達 20 年，第一階段預計 2028 年啟用。不過，《路透》也表示，尚未"
+          "title": "展示容易部署難，人形機器人距離真正的工業化還有多遠？",
+          "link": "https://techorange.com/2026/06/12/ai-humanoid-robot-tipping-point-is-near/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-12T01:32:24+00:00",
+          "summary": "中國智元機器人（AgiBot）具身業務部總裁姚卯青博士指出，客戶開始探討該如何部署機器人，因此轉捩點不僅在於人型機器人產能或產量的提升，更在於市場需求開始形成良性循環之時。"
         },
         {
-          "title": "Loop Engineering 崛起：當 AI Agent 能自己工作，Google 工程師點人類三大職責",
-          "link": "https://techorange.com/2026/06/10/loop-engineering-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-10T10:27:52+00:00",
-          "summary": "AI Coding 的玩法，正從 Prompt Engineering（提示工程）擴大至「Loop Engineering（迴圈工程）」。OpenClaw 創辦人 Peter Steinberger 近日於社群平台 X 上發文：「每月提醒：你不該再對 Coding Agent 下提示了。你該設計的是會自動去提示 Agent 的 loop（迴圈系統）。」這則貼文截至發稿前獲得超過 790 萬次瀏覽。"
+          "title": "【科技早餐】台積電捲入美國專利戰，OpenAI 價格戰與 AI 監管同步壓上來",
+          "link": "https://techorange.com/2026/06/12/tsmc-us-patent-battle/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-11T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊台積電捲入美國 ITC 專利案，AI 晶片供應鏈碰上執法壓力 台積電在美國面臨專利爭議。《Axios》報導，兩家與美國私募股權公司 Vector Capital 有關的專利公司，向美國國際貿易委員會提出申訴，指控台積電先進製程製造的晶片侵犯專利。這起案件也引發美國國會關注，四名共和黨議員已致函國際貿易委員會主席，要求對被認定侵犯美國專利的外國製晶"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "馬斯克將成首位兆元富豪！SpaceX創最高IPO紀錄，引爆華爾街震盪",
-          "link": "https://www.gvm.com.tw/article/130762",
-          "published": "2026-06-10T19:01:00",
-          "summary": "SpaceX即將以1.77兆美元估值，創下史上最大IPO紀錄，創辦人馬斯克可望成為全球首位兆元富豪。從瀕臨破產到稱霸商業太空市場，SpaceX憑藉星鏈與火箭發射崛起。分析師認為，SpaceX上市不僅將帶動OpenAI、Anthropic等科技巨頭IPO潮，更可能重塑美股資金流向，衝擊科技七巨頭主導的格局。全球首富馬斯克（Elon Musk）旗下「太空探索技術公司」（SpaceX）將於12日首次公開"
+          "title": "被家長怒斥「你不配當老師！」國中教師體悟：工作的重量，從不只在課堂",
+          "link": "https://www.gvm.com.tw/article/130783",
+          "published": "2026-06-11T21:04:00",
+          "summary": "教師這份工作的重量，從來不只來自課堂。真正消耗人的，往往是行政流程裡的誤解、人際關係的摩擦，以及那些毫無預警落下、卻必須當場接住的重任。楊徹老師沒有選擇轉身離開，而是練習守住界線：並非所有重量都該由老師獨自承擔。把必要的力氣留給真正重要的地方，是他嘗試讓自己能長久留在現場的方式。（本文節錄自《留下，不只是堅持》一書，作者：劉宇挺，陳育霖，林柏勳，林柏全，楊徹／商周出版，以下為摘文。）回頭才看見的重"
         },
         {
-          "title": "美對台140億美元軍售「暫停」變「審查中」，對台恐非正面訊號",
-          "link": "https://www.gvm.com.tw/article/130754",
-          "published": "2026-06-10T18:55:00",
-          "summary": "為因應中國軍力提升帶來的壓力，台灣也啟動自身的軍力提升計畫，歷經近半年朝野激烈的政治攻防後，立法院於上月初通過總額7800億的國防特別條例，分兩階段對美軍購，其中第二階段的4000億軍售又遇波折。美方日前先以「對伊戰爭」為由喊停，近日國務卿盧比歐（Marco Rubio）又改稱「審查中」，這筆攸關「台灣之盾」建設的軍售，目前狀態為何？5月中旬，美國海軍代理部長高雄（Hung Cao）在國會指出，為"
+          "title": "孩子知識滿滿成績卻很爛？當兒子怒吼自我否定，爸爸給出「這關鍵建議」",
+          "link": "https://www.gvm.com.tw/article/130800",
+          "published": "2026-06-11T20:37:00",
+          "summary": "孩子從小成績平平，卻對世界充滿好奇，總愛追問歷史、科學與人生大小事，因此被同學封為「許寶傑」。直到國中某天，他發現自己懂得比許多人多，考試成績卻不理想，開始思考學習與教育的本質。在父親的引導下，他終於領悟了知識系統與考試邏輯的差異，短短一個月成績大幅躍進，也從中找到屬於自己的學習方法與成長道路。（本文節錄自《放手，不放養》一書，作者：許恆嘉／今周刊出版，以下為摘文。）諾亞從小成績不特別突出。學校生"
         },
         {
-          "title": "大阪王將代理十年和平分手？揭台灣餐飲代理的生存卡位戰",
-          "link": "https://www.gvm.com.tw/article/130761",
-          "published": "2026-06-10T18:41:00",
-          "summary": "以煎餃和炒飯聞名的日本連鎖餐廳「大阪王將」近期傳出台灣代理權在10月結束後，日方將收回代理權，改為直營。餐飲品牌在海外市場站穩腳步後，為何傾向收回直營？台灣餐飲集團又該如何在這場「為人作嫁」的賽局中找到新出路？長年深受日本人喜愛的中華料理連鎖店「大阪王將」在日本擁有超過350家分店，版圖更擴展至韓國、泰國、新加坡等全球六個國家和地區。2016年由王座國際餐飲正式代理引進，現有門市位於南港Lalap"
+          "title": "愈富有的人看起來愈不像有錢人？41個財商成熟跡象，證明你是真懂理財",
+          "link": "https://www.gvm.com.tw/article/130799",
+          "published": "2026-06-11T20:11:00",
+          "summary": "你可能得工作3、40年，才能存夠錢、辭去工作、靠存款過生活。但這不代表在這3、40年，你得一直為錢煩惱。雖然，你可能要花幾十年，才能達到真正的財務自由，但是你可以在短短幾年內，就能感受到某種程度的財務自由。要如何知道自己的財務狀況已經上軌道？以下41個跡象，顯示你已經是一位精明的投資者和聰明的存錢達人。（本文節錄自《會想的人，先有錢》一書，作者：喬納森．克雷蒙／遠流出版，以下為摘文。）一、不再把購"
         },
         {
-          "title": "富邦媒逆勢翻漲！蔡明忠一句「爬回千金股」點燃四大利多",
-          "link": "https://www.gvm.com.tw/article/130760",
-          "published": "2026-06-10T18:34:00",
-          "summary": "沉寂近三年的電商龍頭富邦媒（8454）自5月底股東會後，富邦媒股價從不到200元起步，在數個交易日內連續亮燈漲停，兩週內的波段漲幅超過一倍，不僅重返市場焦點，也帶動數位雲端和電商類股轉強。6月10日台股大跌1478點，但富邦媒卻漲逾5%，盤中一度漲至467元的波段新高點，究竟有何底氣支撐？從5月底的188元低點起漲，富邦媒（8454）到短短數日內連拉多根漲停，兩週內漲勢凌厲，股價翻升超過一倍！沉寂"
+          "title": "住小房反而比住豪宅更有錢？退休金試算結果令人太意外",
+          "link": "https://www.gvm.com.tw/article/130606",
+          "published": "2026-06-11T20:06:00",
+          "summary": "你會如何累積財富？又希望金錢如何服務你的人生？現在最流行的退休儲蓄策略之一：先買一間大房子，期待房市一路走高，等到退休時再換小一點的房子，將房屋淨值變現。聽起來很誘人，但問題是：這些年你投入的成本高得驚人，但真正儲蓄的退休金卻少得可憐。想知道為什麼嗎？（本文節錄自《會想的人，先有錢》一書，作者：喬納森．克雷蒙／遠流出版，以下為摘文。）假設你35歲，有一棟價值40萬美元的房產，身上背負30萬的房貸，"
         },
         {
-          "title": "麥當勞鬆餅堡回歸！開賣時間、價錢、熱量資訊？逾400家販售門市一次看",
-          "link": "https://www.gvm.com.tw/article/130757",
-          "published": "2026-06-10T18:28:00",
-          "summary": "麥當勞人氣商品回歸！麥當勞10日宣布，堪稱「日本早餐界巨星」的「McGriddles厚鬆餅堡」再次登上早餐菜單，除了經典的豬肉、豬肉蛋、火腿蛋口味，還多了一個新口味！這系列商品首度開放外送平台購買，如果不想出門，歡樂送、Ubereats、Foodpanda也都「點得到」。麥當勞楓糖風味厚鬆餅堡曾於2024年在台販售，大批民眾搶著嘗鮮，販售第一天引爆熱潮，開賣一小時就售罄，獨特口感和風味擄獲大批粉絲"
+          "title": "靠投資AI賺十倍，卻看空黃仁勳！德國24歲股神如何引全球跟單？",
+          "link": "https://www.gvm.com.tw/article/130798",
+          "published": "2026-06-11T18:49:00",
+          "summary": "沒有任何專業投資經歷，靠的是在OpenAI待過的第一手判斷，以及一份165頁的長文預言，24歲的奧森伯納（Leopold Aschenbrenner）的對沖基金已成長至逾200億美元，更吸引華爾街最神祕的量化交易巨頭Jane Street成為投資人。今年當全球追著黃仁勳引領的輝達買進時，他的操作很逆風，看壞半導體，押注許多新興公司，為何卻引起全球散戶跟單，甚至華爾街專業人士關注與入股？如何看出他的"
         },
         {
-          "title": "高第逝世百年依然還沒完全蓋完！聖家堂傳奇建築背後的5個精彩故事",
-          "link": "https://www.gvm.com.tw/article/130747",
-          "published": "2026-06-10T17:40:00",
-          "summary": "從1882開始蓋、蓋到2026高第逝世百年後的聖家堂，在主塔樓封頂後，正式成了全世界最高的教堂，但這座建築其實至今依然還未完工。聖家堂與高第背後的精彩故事，更見證這傳奇建築的榮耀。每個來到西班牙（Spain）的旅客，都幾乎會造訪聖家堂（Sagrada Família）。無論是第一次踏上巴塞隆納的觀光客，還是早已熟悉這座城市的旅人，當人們穿過街道、抬起頭望向天際時，總會被那一座充滿曲線與想像力的巨大"
+          "title": "待業能領錢！勞動部「學習獎勵金」最高9.6萬，申請步驟一次看",
+          "link": "https://www.gvm.com.tw/article/130797",
+          "published": "2026-06-11T18:10:00",
+          "summary": "正在待業、想轉職，或是剛畢業還在尋找方向嗎？為了協助青年在轉職期間安心投入職業訓練，勞動部積極推動「青年職前訓練學習獎勵金」政策。只要符合資格並參加指定產業課程，不只享有學費補助，上課完每月還能領取8000元，最長可領一年，最高把96000元帶回家！這筆錢該怎麼領？有什麼限制？【目錄】• 誰能領？「學習獎勵金」2大申請門檻• 獎勵金額怎麼算？最高可領9.6萬• 「學習獎勵金」輕鬆請領3步驟• 注意"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "臺南<b>淨零</b>嘟嘟車出發！ 陪伴孩子認識<b>淨零</b>綠生活 - 台灣好新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.taiwanhot.net/news/1139178/%25E8%2587%25BA%25E5%258D%2597%25E6%25B7%25A8%25E9%259B%25B6%25E5%2598%259F%25E5%2598%259F%25E8%25BB%258A%25E5%2587%25BA%25E7%2599%25BC%25EF%25BC%2581%2B%25E9%2599%25AA%25E4%25BC%25B4%25E5%25AD%25A9%25E5%25AD%2590%25E8%25AA%258D%25E8%25AD%2598%25E6%25B7%25A8%25E9%259B%25B6%25E7%25B6%25A0%25E7%2594%259F%25E6%25B4%25BB&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3cH2LAwIbLcjzBTJ2Xh9W_",
-          "published": "2026-06-11T03:56:41+00:00",
-          "summary": "課程內容包含環保圖卡互動、淨零綠生活主題簡報、帶動跳及綠生活挑戰任務，讓孩童透過遊戲與情境學習，理解淨零碳排與資源循環的重要性。 活動採線上報名方式辦理，&nbsp;..."
+          "title": "高雄民政局推<b>淨零</b>轉型舉辦民政機關<b>淨零</b>講習強化專業力| 大成報Great News",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://greatnews.com.tw/news_pagein.php%3FiType%3D1010%26n_id%3D312502&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2YBqctMpgRbHhcd3dTJ59l",
+          "published": "2026-06-12T03:17:52+00:00",
+          "summary": "【大成報記者張淑慧／高雄報導】高雄市政府民政局於11日舉辦「高雄市115年度民政機關淨零推動及宗教場所低碳措施講習會」，邀集全市民政機關主管人員共同參與，&nbsp;..."
         },
         {
-          "title": "網羅全臺22縣市！環境部發布CoolMap抗高溫地圖統一識別標誌目前累積超過 ... - 環境部新聞專區",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/page/3b3c62c78849f32f/3f568ba1-a2ef-45dc-b6e1-a402b786055d&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1OOVXctvdGvbBYTXfDXhcF",
-          "published": "2026-06-11T03:18:49+00:00",
-          "summary": "面對氣候變遷下日益頻繁的極端高溫環境，環境部今(11)日正式對外發布「Coo."
+          "title": "WRI：因應<b>氣候變遷</b>的公共衛生投資之經濟效益大！ | 中央社訊息平台",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/postwrite/chi/436157&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw00Mwc4_WgYqf95DSDZw8LZ",
+          "published": "2026-06-12T02:28:37+00:00",
+          "summary": "面對極端高溫、暴雨、病媒蚊擴散及新興傳染病風險持續升高，氣候變遷已不再只是環境議題，而是攸關公共衛生與國家韌性的重大挑戰。台灣經濟研究社（台經社）指出&nbsp;..."
         },
         {
-          "title": "花蓮結合中華電信「樹木碳匯公民科學家」共創<b>淨零</b>綠校園 - TCnews慈善新聞網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tcnews.com.tw/news/item/29695.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2WYyfF4oxhMTGdHZgSRJte",
-          "published": "2026-06-11T03:18:31+00:00",
-          "summary": "縣府積極推動生態與氣候教育紮根校園，期能深度融入學校課程以實踐永續教育價值。本次研習聚焦於「校園樹木碳匯調查說明與實作」及「樹木碳匯調查公民科學家認證&nbsp;..."
+          "title": "「掌握<b>淨零</b>趨勢」民政局辦理民政機關<b>淨零</b>推動及低碳管理講習 - 波新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bo6s.com.tw/news_detail.php%3FNewsID%3D112798&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2xVJT953STbh1pmyoU6rsW",
+          "published": "2026-06-12T00:37:46+00:00",
+          "summary": "民政局自113年起辦理宗教團體低碳祭祀講習，透過課程宣導及案例分享，協助宗教團體瞭解淨零排放趨勢及各項低碳措施，推廣低碳祭祀與節能減碳觀念；115年則進一步就碳&nbsp;..."
         },
         {
-          "title": "劉和然赴德參加ICLEI執委會分享新北&quot;連8年<b>淨零</b>&quot;實績－民視新聞 - YouTube",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DH2FOF3IHXLQ&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2UFiOdZUQ5d6qTheV7RAqz",
-          "published": "2026-06-11T03:17:34+00:00",
-          "summary": "【民視即時新聞】新北市副市長劉和然9號以東亞區執行委員身份，出席在德國波昂舉行的「2026地方政府環境永續發展全球執委會」，劉和然也提到，波昂跟新北都是非&nbsp;..."
+          "title": "【永續新聞快訊】全球升溫1.5°C 門檻，恐於2030 年前後突破",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://csrone.com/news/9961&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0Un9SUdXjpWFQYM8fPrkMi",
+          "published": "2026-06-12T00:05:05+00:00",
+          "summary": "碳費 CBAM ESG報告 淨零排放 TCFD 永續報告書 GRI準則 碳中和 &middot; CSRone &middot; 深度 ... 《全球氣候變遷指標報告》指出，若排放趨勢未改變，1.5°C 升溫門檻可能於&nbsp;..."
         },
         {
-          "title": "<b>淨零</b>轉型帶動綠領人才需求高科大開設培育課程 - 蕃新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20260611698431&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3P16in0mRXtNVLhXut00NM",
-          "published": "2026-06-11T02:59:11+00:00",
-          "summary": "(中央社訊息服務20260611 10:43:51)隨著全球淨零碳排目標加速推進，永續發展已從企業社會責任議題，逐漸成為產業競爭力的重要關鍵。從製造業、科技業到金融&nbsp;..."
+          "title": "東方證券首次達成運營層面<b>碳中和</b> - FX168财经",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.fx168news.com/cooperate/2606/7460135.shtml&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3mZ7SInA22jKs6z2zcwLdm",
+          "published": "2026-06-11T23:55:08+00:00",
+          "summary": "为响应国家“30·60”双碳目标，切实履行金融机构在推动绿色低碳发展中的责任担当，近年来，东方证券围绕节能降碳、能源转型等方面开展多项管理行动，并系统..."
         },
         {
-          "title": "<b>淨零</b>轉型帶動綠領人才需求高科大開設培育課程| 中央社訊息平台",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/postwrite/chi/436039&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2eSdj092zVUtGDJ7j_2OmD",
-          "published": "2026-06-11T02:52:13+00:00",
-          "summary": "隨著全球淨零碳排目標加速推進，永續發展已從企業社會責任議題，逐漸成為產業競爭力的重要關鍵。從製造業、科技業到金融服務業，企業紛紛投入碳盤查、碳管理及&nbsp;..."
+          "title": "<b>淨零</b>轉型吳東進：新光醫院7月啟用1000KW瓦斯發電機年減70公噸碳排",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/5612/9561737&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2ZMIm1xt8ikjQAPtjQd8rH",
+          "published": "2026-06-11T23:49:31+00:00",
+          "summary": "大台北瓦斯董事長、新光醫院董事長吳東進11日出席新海瓦斯60周年慶祝晚宴，並公布好消息，因應醫療機構對電力穩定與淨零轉型的雙重需求，新光醫院率先全國，引進&nbsp;..."
         }
       ]
     }
