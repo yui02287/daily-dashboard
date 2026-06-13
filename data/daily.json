@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-06-12T05:49:01.806495+00:00",
-    "date": "2026-06-12",
+    "generated_at": "2026-06-13T05:20:36.553056+00:00",
+    "date": "2026-06-13",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
+          "title": "【AI 吞噬世界】別把數位轉型停在 AI 聊天對話框，企業如何跨越淺層採用深耕具體商業場景？",
+          "link": "https://techorange.com/2026/06/13/ai-eats-the-world-benedict-evans/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-12T22:29:00+00:00",
+          "summary": "知名分析師 Benedict Evans 於 2026 年 5 月發布了《AI 吞噬世界》（AI eats the world）報告，探討企業導入 AI 時面臨的實務難題：為何投入預算後，產出與營收未見等比例成長。報告指出，問題的核心在於企業現有的營運體制尚未與新技術對接。 以下摘要梳理報告重點，涵蓋三個面向： 📎&nbsp;這份報告適合誰閱讀？ 適合企業內部負責戰略規劃、資源分配，以及推動數位轉"
+        },
+        {
+          "title": "台灣 AI 動能指數居亞洲之冠，但鄧白氏點出最大挑戰：資料與系統整合",
+          "link": "https://techorange.com/2026/06/12/dun-bradstreet-taiwan-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-12T11:15:09+00:00",
+          "summary": "台灣企業的 AI 動能，正以亞洲最快的速度往前衝，但是卻卡在最基礎的數據問題。美商鄧白氏（Dun &amp; Bradstreet）今（6/12）發布《企業 AI 動能指數》最新調查，台灣本季拿下 72 分，不僅較上一季的 53 分大幅躍升，拿下亞洲最高分，更成為帶動全球總分成長的主要力量。 但同一份成績單藏著一個反差：在構成指數的八個維度裡，台灣的「AI 投資」拿下 87 分，高於本次調查公布的"
+        },
+        {
+          "title": "企業正在付錢養出自己的競爭對手？從 Claude Code 到 Claude Design，Anthropic 正在進攻客戶核心業務",
+          "link": "https://techorange.com/2026/06/12/anthropic-blindsides-business-partners/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-12T08:46:11+00:00",
+          "summary": "Anthropic 是許多企業用來打造 AI 應用的重要模型供應商。然而，近日《The Information》揭露一個令企業不安的趨勢：Anthropic 正利用其領先的底層技術，積極跨足應用層並銷售自家的產品。 在這樣的背景下，越來越多企業開始意識到，他們仰賴的 AI 供應商可能正準備搶走飯碗，讓企業面臨「付錢養出自己競爭對手」的窘境，並對這種身兼「基礎設施提供者」與「直接競爭者」的雙重角色感"
+        },
+        {
+          "title": "麗臺於 COMPUTEX 2026 推出終極 AI 工作站，打造高彈性 AI 解決方案",
+          "link": "https://techorange.com/2026/06/12/leadtek-nvidia-computex-2026-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-12T07:11:56+00:00",
+          "summary": "麗臺科技（Leadtek）將於 COMPUTEX 2026 展出「終極桌邊 AI 超級電腦」（Ultimate Deskside AI Supercomputer），主打將資料中心等級的運算能力導入辦公環境，讓用戶可在本地端快速開發、微調與執行大型 AI 模型，並支援 AI 代理長時間穩定運作。 此次亮相的 Deskside AI Supercomputer，搭載 NVIDIA GB300 Gra"
+        },
+        {
+          "title": "解鎖 AWS 國際雙認證，新北青年局「AI 實戰職涯營」助攻媒合熱門科技職缺",
+          "link": "https://techorange.com/2026/06/12/ntpc-aws-2026-aipractitionerprogram/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-12T06:17:35+00:00",
+          "summary": "新北市政府青年局「2026 AI Practitioner Program（AI 實戰職涯營）」即日起開放報名！今年活動全面升級，由市府全額補助市值達 6.6 萬元課程，以 3 個月 AI 人才密集培訓為核心，導入 Amazon Web Services（AWS）技術專家培訓，協助 21 歲至 30 歲青年考取 2 張 AWS 國際認證，並解鎖 AWS 企業參訪，結訓後更有機會獲得雲端服務領導品牌"
+        },
+        {
           "title": "貝佐斯反駁 AI 失業潮：Prometheus 要用「通用人工智慧工程師」賦能工程師，讓發明更簡單快速",
           "link": "https://techorange.com/2026/06/12/jeff-bezoss-prometheus/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
           "published": "2026-06-12T04:29:13+00:00",
           "summary": "亞馬遜創辦人貝佐斯（Jeff Bezos）自 2021 年卸下執行長後，再度親自出任 CEO，與 Google 生命科學部門 Verily 前共同創辦人 Vik Bajaj 共同領導 AI 新創 Prometheus。 Prometheus 近日宣布完成 120 億美元的第二輪募資，使估值一舉達到 410 億美元。Prometheus 的野心極大，他們並不是要打造 AI 聊天機器人或實體機器人，而"
-        },
-        {
-          "title": "史上最大 IPO 背後：SpaceX 如何把太空定調成 AI 時代的新基礎設施？",
-          "link": "https://techorange.com/2026/06/12/spacex-ipo-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-12T03:56:51+00:00",
-          "summary": "馬斯克（Elon Musk）的火箭公司 SpaceX 完成了一場改寫紀錄的首次公開發行（IPO）。但比起 IPO 的規模，更值得關注的，是市場究竟在為什麼買單。一家去年才剛由盈轉虧的公司，如何說服投資人給出近百倍的市銷率，並把自己從一家火箭公司，重新定義為 AI 時代的基礎設施平台。 史上最大 IPO：750 億美元，超越 Saudi Aramco 根據《Reuters》，SpaceX 週四將 I"
-        },
-        {
-          "title": "AI 用越多不代表越有價值：當 token 成本升高，企業決策者開始追問真正 ROI",
-          "link": "https://techorange.com/2026/06/12/ai-token-reckoning-execs-on-measuring-return-on-investment/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-12T02:33:19+00:00",
-          "summary": "矽谷在過去一年裡，逐漸將 AI 的使用量變成一種職場上的計分板。然而，這股追求 token 用量最大化（tokenmaxxing）的風氣正迎來反思聲浪，愈來愈多企業高層開始質疑，最大化 AI 使用量是否真的是衡量技術採用成效的正確方式。 《Business Insider》近日在 Mistral AI 峰會上訪問四位企業高層，當他們談到如何衡量 AI 的投資報酬率（ROI）時，沒有任何一個人一開始"
-        },
-        {
-          "title": "研發週期砍半、搜尋能見度翻倍：聯合利華怎麼用 AI 改造食品事業？",
-          "link": "https://techorange.com/2026/06/12/unilever-ai-search-visibility/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-12T01:58:51+00:00",
-          "summary": "當消費者想找晚餐靈感時，打開搜尋引擎已不再是唯一選項。愈來愈多人開始直接向 AI 助理或大型語言模型（LLM）提問，例如「適合派對的三明治食譜有哪些？」或「適合年輕族群的熱門料理是什麼？」。在這樣的情境下，品牌是否能被 AI 推薦，正逐漸成為影響消費者購買決策的重要因素。 AI 搜尋時代來臨：品牌開始優化「被 AI 推薦」能力 快消品巨頭聯合利華（Unilever）觀察到，2026 年消費者的食物"
-        },
-        {
-          "title": "展示容易部署難，人形機器人距離真正的工業化還有多遠？",
-          "link": "https://techorange.com/2026/06/12/ai-humanoid-robot-tipping-point-is-near/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-12T01:32:24+00:00",
-          "summary": "中國智元機器人（AgiBot）具身業務部總裁姚卯青博士指出，客戶開始探討該如何部署機器人，因此轉捩點不僅在於人型機器人產能或產量的提升，更在於市場需求開始形成良性循環之時。"
-        },
-        {
-          "title": "【科技早餐】台積電捲入美國專利戰，OpenAI 價格戰與 AI 監管同步壓上來",
-          "link": "https://techorange.com/2026/06/12/tsmc-us-patent-battle/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-11T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊台積電捲入美國 ITC 專利案，AI 晶片供應鏈碰上執法壓力 台積電在美國面臨專利爭議。《Axios》報導，兩家與美國私募股權公司 Vector Capital 有關的專利公司，向美國國際貿易委員會提出申訴，指控台積電先進製程製造的晶片侵犯專利。這起案件也引發美國國會關注，四名共和黨議員已致函國際貿易委員會主席，要求對被認定侵犯美國專利的外國製晶"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "被家長怒斥「你不配當老師！」國中教師體悟：工作的重量，從不只在課堂",
-          "link": "https://www.gvm.com.tw/article/130783",
-          "published": "2026-06-11T21:04:00",
-          "summary": "教師這份工作的重量，從來不只來自課堂。真正消耗人的，往往是行政流程裡的誤解、人際關係的摩擦，以及那些毫無預警落下、卻必須當場接住的重任。楊徹老師沒有選擇轉身離開，而是練習守住界線：並非所有重量都該由老師獨自承擔。把必要的力氣留給真正重要的地方，是他嘗試讓自己能長久留在現場的方式。（本文節錄自《留下，不只是堅持》一書，作者：劉宇挺，陳育霖，林柏勳，林柏全，楊徹／商周出版，以下為摘文。）回頭才看見的重"
+          "title": "新青安2.0要來了！利息補貼擬採逐年退場、增「80條款」",
+          "link": "https://www.gvm.com.tw/article/130832",
+          "published": "2026-06-12T19:02:00",
+          "summary": "新青安2.0將於6月底出爐，外界關心公股行庫是否繼續利息補貼、以及5年寬限期等面向。行庫主管今天透露，利率補貼可能採逐年退場，前3年維持政府及公股銀共2碼補貼，之後分4年逐年減少半碼，也就是說，利息補貼會在第7年退場，不過仍待拍板。根據財政部國庫署統計，截至今年4月底，公股銀行辦理青年安心成家貸款（新青安）累計受理戶數達52萬6006戶、金額新台幣2兆8221.47億元，各行庫中以台灣銀行、土地銀"
         },
         {
-          "title": "孩子知識滿滿成績卻很爛？當兒子怒吼自我否定，爸爸給出「這關鍵建議」",
-          "link": "https://www.gvm.com.tw/article/130800",
-          "published": "2026-06-11T20:37:00",
-          "summary": "孩子從小成績平平，卻對世界充滿好奇，總愛追問歷史、科學與人生大小事，因此被同學封為「許寶傑」。直到國中某天，他發現自己懂得比許多人多，考試成績卻不理想，開始思考學習與教育的本質。在父親的引導下，他終於領悟了知識系統與考試邏輯的差異，短短一個月成績大幅躍進，也從中找到屬於自己的學習方法與成長道路。（本文節錄自《放手，不放養》一書，作者：許恆嘉／今周刊出版，以下為摘文。）諾亞從小成績不特別突出。學校生"
+          "title": "當地緣政治風險成為企業營運新常態，BCP如何因應美中博弈？",
+          "link": "https://www.gvm.com.tw/article/130613",
+          "published": "2026-06-12T18:26:00",
+          "summary": "美國總統川普屢次重話批台「偷走美國半導體產業」，足證地緣政治的複雜程度，遠超出傳統營運風險的思維。對企業而言，地緣政治早已不只是一則又一則國際新聞，而是衝擊供應鏈、能源價格與市場穩定的風險。5月27日日經平均指數首次飆破6萬6千點，同一天台股也以4萬4千點站上歷史新高，台日兩地資本市場狂飆，其實各方檯面下的威脅和風險的評估從來沒停過。地緣政治風險「不可保」，台灣評等被降級&nbsp;臺中科技大學保"
         },
         {
-          "title": "愈富有的人看起來愈不像有錢人？41個財商成熟跡象，證明你是真懂理財",
-          "link": "https://www.gvm.com.tw/article/130799",
-          "published": "2026-06-11T20:11:00",
-          "summary": "你可能得工作3、40年，才能存夠錢、辭去工作、靠存款過生活。但這不代表在這3、40年，你得一直為錢煩惱。雖然，你可能要花幾十年，才能達到真正的財務自由，但是你可以在短短幾年內，就能感受到某種程度的財務自由。要如何知道自己的財務狀況已經上軌道？以下41個跡象，顯示你已經是一位精明的投資者和聰明的存錢達人。（本文節錄自《會想的人，先有錢》一書，作者：喬納森．克雷蒙／遠流出版，以下為摘文。）一、不再把購"
+          "title": "用Codex做PPT，勝NotebookLM！一步驟匯出圖文可修",
+          "link": "https://www.gvm.com.tw/article/130831",
+          "published": "2026-06-12T17:56:00",
+          "summary": "OpenAI的Codex是近期打造AI Agent的熱門選擇，無論是整理資料、做網頁或排行程，都可以在與Codex對話後輕鬆完成。作為各種文書工作的得力助手，許多人不知道Codex也很適合用來「做簡報PPT」，將雜亂的數據變成清晰圖表，且圖文皆可編輯，這一點更勝NotebookLM。本文拆解用Codex做簡報的步驟，並附上新手需多留意的資安保護技巧。目錄&nbsp;● Codex 是什麼？怎麼用？"
         },
         {
-          "title": "住小房反而比住豪宅更有錢？退休金試算結果令人太意外",
-          "link": "https://www.gvm.com.tw/article/130606",
-          "published": "2026-06-11T20:06:00",
-          "summary": "你會如何累積財富？又希望金錢如何服務你的人生？現在最流行的退休儲蓄策略之一：先買一間大房子，期待房市一路走高，等到退休時再換小一點的房子，將房屋淨值變現。聽起來很誘人，但問題是：這些年你投入的成本高得驚人，但真正儲蓄的退休金卻少得可憐。想知道為什麼嗎？（本文節錄自《會想的人，先有錢》一書，作者：喬納森．克雷蒙／遠流出版，以下為摘文。）假設你35歲，有一棟價值40萬美元的房產，身上背負30萬的房貸，"
+          "title": "美學者建議史瓦帝尼與中國建交，外交部回應：台史邦誼穩固",
+          "link": "https://www.gvm.com.tw/article/130830",
+          "published": "2026-06-12T17:37:00",
+          "summary": "外媒報導，美國經濟學者薩克斯受邀參與台灣友邦史瓦帝尼內閣研討會，建議史國與中國建交換取經濟利益。外交部今天表示，薩克斯意見純屬個人觀點，也引發史國友台議員強烈關切與質疑，台史邦誼穩固友好，持續推展雙邊互助互惠合作關係。針對外媒「史瓦濟蘭新聞」（Swaziland News）相關報導，外交部上午回覆中央社記者詢問指出，有關設於南非的網路媒體報導稱史國總理戴羅素（Russell Dlamini）4月曾"
         },
         {
-          "title": "靠投資AI賺十倍，卻看空黃仁勳！德國24歲股神如何引全球跟單？",
-          "link": "https://www.gvm.com.tw/article/130798",
-          "published": "2026-06-11T18:49:00",
-          "summary": "沒有任何專業投資經歷，靠的是在OpenAI待過的第一手判斷，以及一份165頁的長文預言，24歲的奧森伯納（Leopold Aschenbrenner）的對沖基金已成長至逾200億美元，更吸引華爾街最神祕的量化交易巨頭Jane Street成為投資人。今年當全球追著黃仁勳引領的輝達買進時，他的操作很逆風，看壞半導體，押注許多新興公司，為何卻引起全球散戶跟單，甚至華爾街專業人士關注與入股？如何看出他的"
+          "title": "《鐵拳教育》紅什麼？超過癮的教育神劇，背後是對霸凌、暴力的深刻怒吼",
+          "link": "https://www.gvm.com.tw/article/130825",
+          "published": "2026-06-12T17:36:00",
+          "summary": "Netflix影集《鐵拳教育》由洪鍾燦執導，金武烈、李星民、秦基周、表志勳主演，描述一個名為「教權保護局」的特殊單位，以「非常手段解決非常問題」為核心理念，專門介入處理各種失控的校園案件。你是否有想過，充滿暴力、霸凌、歧視的求學環境，會是怎麼樣的模樣？對許多人而言，校園應該是學習知識、建立友誼與探索未來的地方。然而，當教室裡充斥著霸凌與暴力，當老師失去管教學生的權力，當家長與學校之間的衝突愈演愈烈"
         },
         {
-          "title": "待業能領錢！勞動部「學習獎勵金」最高9.6萬，申請步驟一次看",
-          "link": "https://www.gvm.com.tw/article/130797",
-          "published": "2026-06-11T18:10:00",
-          "summary": "正在待業、想轉職，或是剛畢業還在尋找方向嗎？為了協助青年在轉職期間安心投入職業訓練，勞動部積極推動「青年職前訓練學習獎勵金」政策。只要符合資格並參加指定產業課程，不只享有學費補助，上課完每月還能領取8000元，最長可領一年，最高把96000元帶回家！這筆錢該怎麼領？有什麼限制？【目錄】• 誰能領？「學習獎勵金」2大申請門檻• 獎勵金額怎麼算？最高可領9.6萬• 「學習獎勵金」輕鬆請領3步驟• 注意"
+          "title": "屏東迎半導體產業！魏哲家推遲赴美到屏科，賴清德：他要見誰想得到吧？",
+          "link": "https://www.gvm.com.tw/article/130828",
+          "published": "2026-06-12T17:21:00",
+          "summary": "總統賴清德今天與台積電董事長魏哲家出席屏科半導體供應鏈專區聯合動土典禮時表示，魏哲家原有公務要去美國，但留下來參加動土，「他要去見誰你們大概都想得到吧？」屏東科學園區設有半導體供應鏈專區，由台積電統籌整體規劃，占地約28公頃，今天由台積電率領7家廠商舉行聯合動土儀式，雖然現場下起大雷雨，賴總統、魏哲家、屏東縣長周春米、國家科學及技術委員會主委吳誠文等人仍出席見證。賴總統致詞表示，屏科半導體供應鏈專"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "高雄民政局推<b>淨零</b>轉型舉辦民政機關<b>淨零</b>講習強化專業力| 大成報Great News",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://greatnews.com.tw/news_pagein.php%3FiType%3D1010%26n_id%3D312502&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2YBqctMpgRbHhcd3dTJ59l",
-          "published": "2026-06-12T03:17:52+00:00",
-          "summary": "【大成報記者張淑慧／高雄報導】高雄市政府民政局於11日舉辦「高雄市115年度民政機關淨零推動及宗教場所低碳措施講習會」，邀集全市民政機關主管人員共同參與，&nbsp;..."
+          "title": "接軌國際永續發展脈動高雄<b>淨零</b>學院獲英國綠色世界獎肯定| 陳其邁| Newtalk討論區",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://newtalk.tw/forum/post/87494&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3oUbFd8A2AvwsLwzv-qnjv",
+          "published": "2026-06-12T22:07:47+00:00",
+          "summary": "高雄市長陳其邁今(26)日主持市政會議，宣布淨零學院參加英國綠色組織(The Green Organisation)舉辦的綠色世界獎(Green World Awards 2026)，獲「氣候變遷永續&nbsp;..."
         },
         {
-          "title": "WRI：因應<b>氣候變遷</b>的公共衛生投資之經濟效益大！ | 中央社訊息平台",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/postwrite/chi/436157&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw00Mwc4_WgYqf95DSDZw8LZ",
-          "published": "2026-06-12T02:28:37+00:00",
-          "summary": "面對極端高溫、暴雨、病媒蚊擴散及新興傳染病風險持續升高，氣候變遷已不再只是環境議題，而是攸關公共衛生與國家韌性的重大挑戰。台灣經濟研究社（台經社）指出&nbsp;..."
+          "title": "宗教也吹<b>淨零</b>風！高市推低碳管理打造永續新典範",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://newstaiwan.net/2026/06/12/447952/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3oOYSbbd9q4s-rpT7rZpHv",
+          "published": "2026-06-12T20:28:04+00:00",
+          "summary": "【記者王苡蘋╱高雄報導】高雄市政府民政局於（11）日辦理「高雄市115年度民政機關淨零推動及宗教場所低碳措施講習會」，邀集本市民政機關主管人員齊聚一堂，共同關注&nbsp;..."
         },
         {
-          "title": "「掌握<b>淨零</b>趨勢」民政局辦理民政機關<b>淨零</b>推動及低碳管理講習 - 波新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bo6s.com.tw/news_detail.php%3FNewsID%3D112798&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2xVJT953STbh1pmyoU6rsW",
-          "published": "2026-06-12T00:37:46+00:00",
-          "summary": "民政局自113年起辦理宗教團體低碳祭祀講習，透過課程宣導及案例分享，協助宗教團體瞭解淨零排放趨勢及各項低碳措施，推廣低碳祭祀與節能減碳觀念；115年則進一步就碳&nbsp;..."
+          "title": "NASA衛星高光譜技術突破實現秋季植被變色精準監測| GeneOnline News",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://geneonline.news/nasa%25E8%25A1%259B%25E6%2598%259F%25E9%25AB%2598%25E5%2585%2589%25E8%25AD%259C%25E6%258A%2580%25E8%25A1%2593%25E7%25AA%2581%25E7%25A0%25B4%25E5%25AF%25A6%25E7%258F%25BE%25E7%25A7%258B%25E5%25AD%25A3%25E6%25A4%258D%25E8%25A2%25AB%25E8%25AE%258A%25E8%2589%25B2%25E7%25B2%25BE%25E6%25BA%2596%25E7%259B%25A3%25E6%25B8%25AC/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1SXaap4jGbBhnWZA3uesyv",
+          "published": "2026-06-12T20:22:57+00:00",
+          "summary": "然而，PACE 衛星所提供的數據流，讓研究人員能夠建立更為精確的植被健康模型。透過對葉片生化特徵的持續追蹤，團隊能更有效地評估氣候變遷對森林生態系統的影響，並&nbsp;..."
         },
         {
-          "title": "【永續新聞快訊】全球升溫1.5°C 門檻，恐於2030 年前後突破",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://csrone.com/news/9961&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0Un9SUdXjpWFQYM8fPrkMi",
-          "published": "2026-06-12T00:05:05+00:00",
-          "summary": "碳費 CBAM ESG報告 淨零排放 TCFD 永續報告書 GRI準則 碳中和 &middot; CSRone &middot; 深度 ... 《全球氣候變遷指標報告》指出，若排放趨勢未改變，1.5°C 升溫門檻可能於&nbsp;..."
+          "title": "如果北極的冰雪全部融化，台灣會變成什麼樣子？ - YouTube",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DYQka5UmPX9k&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2dYbwX1G6r9H5E7mbWz87t",
+          "published": "2026-06-12T19:46:08+00:00",
+          "summary": "... 氣候變遷#錢樺#中央大學#科學人#海平面上升#台北盆地#環境危機#不懂就問."
         },
         {
-          "title": "東方證券首次達成運營層面<b>碳中和</b> - FX168财经",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.fx168news.com/cooperate/2606/7460135.shtml&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3mZ7SInA22jKs6z2zcwLdm",
-          "published": "2026-06-11T23:55:08+00:00",
-          "summary": "为响应国家“30·60”双碳目标，切实履行金融机构在推动绿色低碳发展中的责任担当，近年来，东方证券围绕节能降碳、能源转型等方面开展多项管理行动，并系统..."
+          "title": "杜拜水電局在全球最高、最大、最智慧的<b>淨零</b>能耗政府大樓Al Shera'a舉辦第二屆代理式AI研討會",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.businesswire.com/news/home/20260612731021/zh-HK&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3M4g-fqEbJ2zHohPUT6oGc",
+          "published": "2026-06-12T19:36:27+00:00",
+          "summary": "(美國商業資訊)-- 杜拜水電局(DEWA)董事總經理兼執行長Saeed Mohammed Al Tayer閣下強調，DEWA正在部署最新的代理式AI技術，這符合其提升自身領先地位並鞏固杜&nbsp;..."
         },
         {
-          "title": "<b>淨零</b>轉型吳東進：新光醫院7月啟用1000KW瓦斯發電機年減70公噸碳排",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/5612/9561737&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2ZMIm1xt8ikjQAPtjQd8rH",
-          "published": "2026-06-11T23:49:31+00:00",
-          "summary": "大台北瓦斯董事長、新光醫院董事長吳東進11日出席新海瓦斯60周年慶祝晚宴，並公布好消息，因應醫療機構對電力穩定與淨零轉型的雙重需求，新光醫院率先全國，引進&nbsp;..."
+          "title": "桃園「高溫網」建議去百貨吹冷氣挨轟環保局回應了- 政治 - 自由時報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.ltn.com.tw/news/politics/breakingnews/5470447&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1qUMguP1309ygqZkt-4KCo",
+          "published": "2026-06-12T17:36:03+00:00",
+          "summary": "... 氣候變遷調適與高溫健康風險應用計畫」，建置「桃園市碳中和資訊平台」網站。（擷取自網路）. 桃園市政府斥資983萬元推動「桃園市氣候變遷調適與高溫健康風險&nbsp;..."
         }
       ]
     }
