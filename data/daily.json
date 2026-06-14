@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-06-13T05:20:36.553056+00:00",
-    "date": "2026-06-13",
+    "generated_at": "2026-06-14T05:49:35.027952+00:00",
+    "date": "2026-06-14",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -10,84 +10,47 @@
     {
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
-      "items": [
-        {
-          "title": "【AI 吞噬世界】別把數位轉型停在 AI 聊天對話框，企業如何跨越淺層採用深耕具體商業場景？",
-          "link": "https://techorange.com/2026/06/13/ai-eats-the-world-benedict-evans/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-12T22:29:00+00:00",
-          "summary": "知名分析師 Benedict Evans 於 2026 年 5 月發布了《AI 吞噬世界》（AI eats the world）報告，探討企業導入 AI 時面臨的實務難題：為何投入預算後，產出與營收未見等比例成長。報告指出，問題的核心在於企業現有的營運體制尚未與新技術對接。 以下摘要梳理報告重點，涵蓋三個面向： 📎&nbsp;這份報告適合誰閱讀？ 適合企業內部負責戰略規劃、資源分配，以及推動數位轉"
-        },
-        {
-          "title": "台灣 AI 動能指數居亞洲之冠，但鄧白氏點出最大挑戰：資料與系統整合",
-          "link": "https://techorange.com/2026/06/12/dun-bradstreet-taiwan-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-12T11:15:09+00:00",
-          "summary": "台灣企業的 AI 動能，正以亞洲最快的速度往前衝，但是卻卡在最基礎的數據問題。美商鄧白氏（Dun &amp; Bradstreet）今（6/12）發布《企業 AI 動能指數》最新調查，台灣本季拿下 72 分，不僅較上一季的 53 分大幅躍升，拿下亞洲最高分，更成為帶動全球總分成長的主要力量。 但同一份成績單藏著一個反差：在構成指數的八個維度裡，台灣的「AI 投資」拿下 87 分，高於本次調查公布的"
-        },
-        {
-          "title": "企業正在付錢養出自己的競爭對手？從 Claude Code 到 Claude Design，Anthropic 正在進攻客戶核心業務",
-          "link": "https://techorange.com/2026/06/12/anthropic-blindsides-business-partners/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-12T08:46:11+00:00",
-          "summary": "Anthropic 是許多企業用來打造 AI 應用的重要模型供應商。然而，近日《The Information》揭露一個令企業不安的趨勢：Anthropic 正利用其領先的底層技術，積極跨足應用層並銷售自家的產品。 在這樣的背景下，越來越多企業開始意識到，他們仰賴的 AI 供應商可能正準備搶走飯碗，讓企業面臨「付錢養出自己競爭對手」的窘境，並對這種身兼「基礎設施提供者」與「直接競爭者」的雙重角色感"
-        },
-        {
-          "title": "麗臺於 COMPUTEX 2026 推出終極 AI 工作站，打造高彈性 AI 解決方案",
-          "link": "https://techorange.com/2026/06/12/leadtek-nvidia-computex-2026-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-12T07:11:56+00:00",
-          "summary": "麗臺科技（Leadtek）將於 COMPUTEX 2026 展出「終極桌邊 AI 超級電腦」（Ultimate Deskside AI Supercomputer），主打將資料中心等級的運算能力導入辦公環境，讓用戶可在本地端快速開發、微調與執行大型 AI 模型，並支援 AI 代理長時間穩定運作。 此次亮相的 Deskside AI Supercomputer，搭載 NVIDIA GB300 Gra"
-        },
-        {
-          "title": "解鎖 AWS 國際雙認證，新北青年局「AI 實戰職涯營」助攻媒合熱門科技職缺",
-          "link": "https://techorange.com/2026/06/12/ntpc-aws-2026-aipractitionerprogram/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-12T06:17:35+00:00",
-          "summary": "新北市政府青年局「2026 AI Practitioner Program（AI 實戰職涯營）」即日起開放報名！今年活動全面升級，由市府全額補助市值達 6.6 萬元課程，以 3 個月 AI 人才密集培訓為核心，導入 Amazon Web Services（AWS）技術專家培訓，協助 21 歲至 30 歲青年考取 2 張 AWS 國際認證，並解鎖 AWS 企業參訪，結訓後更有機會獲得雲端服務領導品牌"
-        },
-        {
-          "title": "貝佐斯反駁 AI 失業潮：Prometheus 要用「通用人工智慧工程師」賦能工程師，讓發明更簡單快速",
-          "link": "https://techorange.com/2026/06/12/jeff-bezoss-prometheus/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-12T04:29:13+00:00",
-          "summary": "亞馬遜創辦人貝佐斯（Jeff Bezos）自 2021 年卸下執行長後，再度親自出任 CEO，與 Google 生命科學部門 Verily 前共同創辦人 Vik Bajaj 共同領導 AI 新創 Prometheus。 Prometheus 近日宣布完成 120 億美元的第二輪募資，使估值一舉達到 410 億美元。Prometheus 的野心極大，他們並不是要打造 AI 聊天機器人或實體機器人，而"
-        }
-      ]
+      "items": []
     },
     {
       "feed_name": "遠見雜誌 - 前進的動力",
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "新青安2.0要來了！利息補貼擬採逐年退場、增「80條款」",
-          "link": "https://www.gvm.com.tw/article/130832",
-          "published": "2026-06-12T19:02:00",
-          "summary": "新青安2.0將於6月底出爐，外界關心公股行庫是否繼續利息補貼、以及5年寬限期等面向。行庫主管今天透露，利率補貼可能採逐年退場，前3年維持政府及公股銀共2碼補貼，之後分4年逐年減少半碼，也就是說，利息補貼會在第7年退場，不過仍待拍板。根據財政部國庫署統計，截至今年4月底，公股銀行辦理青年安心成家貸款（新青安）累計受理戶數達52萬6006戶、金額新台幣2兆8221.47億元，各行庫中以台灣銀行、土地銀"
+          "title": "咖啡因攝取過量會導致高血壓？研究揭：「這樣喝」促進血管健康",
+          "link": "https://www.gvm.com.tw/article/130815",
+          "published": "2026-06-14T07:00:00",
+          "summary": "早上一杯拿鐵，下午可能會想再來一杯醒腦，但又擔心咖啡因攝取過量導致高血壓。現在科學研究釐清咖啡與血壓之間的長期關係，咖啡因確實會導致血壓暫時升高，但只是短暫現象，實際上咖啡益處大於壞處，咖啡中的一些天然化合物，甚至有助於促進血管健康。健康的血壓讀數是收縮壓低於&nbsp;120&nbsp;毫米汞柱&nbsp;(mmHg)，舒張壓低於&nbsp;80&nbsp;毫米汞柱&nbsp;(mmHg)。血壓"
         },
         {
-          "title": "當地緣政治風險成為企業營運新常態，BCP如何因應美中博弈？",
-          "link": "https://www.gvm.com.tw/article/130613",
-          "published": "2026-06-12T18:26:00",
-          "summary": "美國總統川普屢次重話批台「偷走美國半導體產業」，足證地緣政治的複雜程度，遠超出傳統營運風險的思維。對企業而言，地緣政治早已不只是一則又一則國際新聞，而是衝擊供應鏈、能源價格與市場穩定的風險。5月27日日經平均指數首次飆破6萬6千點，同一天台股也以4萬4千點站上歷史新高，台日兩地資本市場狂飆，其實各方檯面下的威脅和風險的評估從來沒停過。地緣政治風險「不可保」，台灣評等被降級&nbsp;臺中科技大學保"
+          "title": "偷粽的「女兒賊」：每回返鄉她偷的不是物資也不是錢，而是偷偷想念",
+          "link": "https://www.gvm.com.tw/article/130837",
+          "published": "2026-06-13T22:00:00",
+          "summary": "多年來，賊與母親一直維持著奇怪的供給關係，還常以女兒賊這個名號沾沾自喜。每次打包的東西愈滿，彷彿受到的疼愛愈多，心中產生了被寵溺的錯覺。上客運前，我依舊偷了一顆肉粽走。確實，我沒有很喜歡吃粽子，但必須從這個家帶走些什麼。（本文節錄自《賣瓜的人》一書，作者：洪倪／遠流出版，以下為摘文。）搭三小時火車，再轉將近兩小時客運，五小時的移動，她終於回到了西部沿海的老家。盯著車窗外灰灰綠綠的休耕農地思考，怪了"
         },
         {
-          "title": "用Codex做PPT，勝NotebookLM！一步驟匯出圖文可修",
-          "link": "https://www.gvm.com.tw/article/130831",
-          "published": "2026-06-12T17:56:00",
-          "summary": "OpenAI的Codex是近期打造AI Agent的熱門選擇，無論是整理資料、做網頁或排行程，都可以在與Codex對話後輕鬆完成。作為各種文書工作的得力助手，許多人不知道Codex也很適合用來「做簡報PPT」，將雜亂的數據變成清晰圖表，且圖文皆可編輯，這一點更勝NotebookLM。本文拆解用Codex做簡報的步驟，並附上新手需多留意的資安保護技巧。目錄&nbsp;● Codex 是什麼？怎麼用？"
+          "title": "「我是為你好」掛嘴邊？諮商心理師：1句話看出成長背景有「這問題」",
+          "link": "https://www.gvm.com.tw/article/122349",
+          "published": "2026-06-13T19:54:00",
+          "summary": "「如果你不是我的另一半，我才懶得管你。」、「我是為你好。」、「你跑去哪裡鬼混，為什麼不準時回家？」這些話，是否聽來熟悉？它們常被掛在愛的名義下，卻往往成了關係中最沉重的枷鎖。專業諮商心理師林萃芬指出，當關心變成管束，當叮嚀變成批判，這段關係，也許早已在不知不覺中開始受傷。本文摘自《從說話洞察人心》一書，作者為林萃芬，時報出版，以下為摘文。）一次雜誌圈朋友聚會上，小玲穿著一向前衛的服裝，卻罕見地一臉"
         },
         {
-          "title": "美學者建議史瓦帝尼與中國建交，外交部回應：台史邦誼穩固",
-          "link": "https://www.gvm.com.tw/article/130830",
-          "published": "2026-06-12T17:37:00",
-          "summary": "外媒報導，美國經濟學者薩克斯受邀參與台灣友邦史瓦帝尼內閣研討會，建議史國與中國建交換取經濟利益。外交部今天表示，薩克斯意見純屬個人觀點，也引發史國友台議員強烈關切與質疑，台史邦誼穩固友好，持續推展雙邊互助互惠合作關係。針對外媒「史瓦濟蘭新聞」（Swaziland News）相關報導，外交部上午回覆中央社記者詢問指出，有關設於南非的網路媒體報導稱史國總理戴羅素（Russell Dlamini）4月曾"
+          "title": "用「富人思維」看你的可支配所得：如何「用錢」決定人與人的差距",
+          "link": "https://www.gvm.com.tw/article/122060",
+          "published": "2026-06-13T19:39:00",
+          "summary": "戴勝益當年「月薪不到50,000不要儲蓄」的發言曾被很多人抨擊，說他是典型的富二代，缺乏同理心。但其實他的思考邏輯是典型的「富人思維」：富人們總會思考如何拿錢換回他們沒有的東西，請顧問節省自己學習的時間，請管家節省自己處理家務的時間，因為相較於錢，時間與注意力對他們來說更寶貴。（本文節錄自《用商業思維優化你的人生選擇》一書，作者：游舒帆（Gipi），聯經出版，以下為摘文。）審視常態性支出與可支配所"
         },
         {
-          "title": "《鐵拳教育》紅什麼？超過癮的教育神劇，背後是對霸凌、暴力的深刻怒吼",
-          "link": "https://www.gvm.com.tw/article/130825",
-          "published": "2026-06-12T17:36:00",
-          "summary": "Netflix影集《鐵拳教育》由洪鍾燦執導，金武烈、李星民、秦基周、表志勳主演，描述一個名為「教權保護局」的特殊單位，以「非常手段解決非常問題」為核心理念，專門介入處理各種失控的校園案件。你是否有想過，充滿暴力、霸凌、歧視的求學環境，會是怎麼樣的模樣？對許多人而言，校園應該是學習知識、建立友誼與探索未來的地方。然而，當教室裡充斥著霸凌與暴力，當老師失去管教學生的權力，當家長與學校之間的衝突愈演愈烈"
+          "title": "期待下一代未來變有錢？理財專家：送孩子去「做這件事」投報率最差",
+          "link": "https://www.gvm.com.tw/article/122007",
+          "published": "2026-06-13T19:30:00",
+          "summary": "「教育會翻轉階級」觀念深植人心，許多父母認為，只要小孩好好讀書，找到穩定工作，就能衣食無虞，因此覺得送小孩去補習是最好的投資。韓國投資之神John Lee是華爾街的基金經理人，獲利超過1兆韓元，他指出，讓小孩去補習，是報酬率最低的投資，其實，翻轉貧窮的第一步，不是「好好讀書」，而是從改變「思維」開始！（本文節錄自《讓你和小孩財富翻身的脫貧思維》一書，作者：John Lee，采實文化出版，以下為摘文"
         },
         {
-          "title": "屏東迎半導體產業！魏哲家推遲赴美到屏科，賴清德：他要見誰想得到吧？",
-          "link": "https://www.gvm.com.tw/article/130828",
-          "published": "2026-06-12T17:21:00",
-          "summary": "總統賴清德今天與台積電董事長魏哲家出席屏科半導體供應鏈專區聯合動土典禮時表示，魏哲家原有公務要去美國，但留下來參加動土，「他要去見誰你們大概都想得到吧？」屏東科學園區設有半導體供應鏈專區，由台積電統籌整體規劃，占地約28公頃，今天由台積電率領7家廠商舉行聯合動土儀式，雖然現場下起大雷雨，賴總統、魏哲家、屏東縣長周春米、國家科學及技術委員會主委吳誠文等人仍出席見證。賴總統致詞表示，屏科半導體供應鏈專"
+          "title": "廚餘養豬禁令2027上路！吃到飽餐廳面對顧客「求回本」卻剩食，有何解方？",
+          "link": "https://www.gvm.com.tw/article/130813",
+          "published": "2026-06-13T17:00:00",
+          "summary": "吃到飽餐廳最大的浪費，不在後場廚房，而在前場餐桌。數據顯示，吃到飽餐廳廚餘超過六成來自顧客剩食。面對永續壓力、成本挑戰、消費者滿意度，業者必須從中求平衡；而隨著消費文化轉向品質，「吃回本」的時代漸退場，也為餐飲業從源頭減少廚餘，帶來新契機。2027年廚餘養豬禁令即將上路，當餐飲業者積極尋找廚餘去化新解方時，更根本的問題也浮上檯面，「從源頭減少浪費，比事後處理更有效」，餐飲業者已如此認知。談到吃到飽"
         }
       ]
     },
@@ -96,40 +59,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "接軌國際永續發展脈動高雄<b>淨零</b>學院獲英國綠色世界獎肯定| 陳其邁| Newtalk討論區",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://newtalk.tw/forum/post/87494&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3oUbFd8A2AvwsLwzv-qnjv",
-          "published": "2026-06-12T22:07:47+00:00",
-          "summary": "高雄市長陳其邁今(26)日主持市政會議，宣布淨零學院參加英國綠色組織(The Green Organisation)舉辦的綠色世界獎(Green World Awards 2026)，獲「氣候變遷永續&nbsp;..."
+          "title": "迎戰AI與綠色浪潮！環境部長出席北科大畢業典禮勉勵社會新鮮人以「務實創新」翻轉雙軸未來",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/page/3b3c62c78849f32f/adf987ab-97eb-4ef6-8c06-a16a4bec23de&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2n3Nm9_bjvYhXGIt_AFYej",
+          "published": "2026-06-14T02:14:11+00:00",
+          "summary": "部長由衷感謝同樣出身北科大校友的環境部氣候變遷署蔡玲儀署長，發揮務實溝通的特質： ... 部長指出，若依循傳統思維，淨零轉型將完全無法達標，而AI 正是協助達成淨零&nbsp;..."
         },
         {
-          "title": "宗教也吹<b>淨零</b>風！高市推低碳管理打造永續新典範",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://newstaiwan.net/2026/06/12/447952/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3oOYSbbd9q4s-rpT7rZpHv",
-          "published": "2026-06-12T20:28:04+00:00",
-          "summary": "【記者王苡蘋╱高雄報導】高雄市政府民政局於（11）日辦理「高雄市115年度民政機關淨零推動及宗教場所低碳措施講習會」，邀集本市民政機關主管人員齊聚一堂，共同關注&nbsp;..."
+          "title": "觀光與生態雙贏大鵬灣永續治理成果獲國家級肯定 - 焦點時報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://focus.586.com.tw/2026/06/14/p391373/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0H6ohoUYgLL-VxRu1xpDDP",
+          "published": "2026-06-14T02:10:30+00:00",
+          "summary": "... 淨零排放與永續發展議題。多位同仁更主動取得專業認證，展現推動環境教育與淨零轉型的專業實力。 低碳觀光推動成果同樣亮眼。「台灣好行－大鵬灣琉球線」自&nbsp;..."
         },
         {
-          "title": "NASA衛星高光譜技術突破實現秋季植被變色精準監測| GeneOnline News",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://geneonline.news/nasa%25E8%25A1%259B%25E6%2598%259F%25E9%25AB%2598%25E5%2585%2589%25E8%25AD%259C%25E6%258A%2580%25E8%25A1%2593%25E7%25AA%2581%25E7%25A0%25B4%25E5%25AF%25A6%25E7%258F%25BE%25E7%25A7%258B%25E5%25AD%25A3%25E6%25A4%258D%25E8%25A2%25AB%25E8%25AE%258A%25E8%2589%25B2%25E7%25B2%25BE%25E6%25BA%2596%25E7%259B%25A3%25E6%25B8%25AC/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1SXaap4jGbBhnWZA3uesyv",
-          "published": "2026-06-12T20:22:57+00:00",
-          "summary": "然而，PACE 衛星所提供的數據流，讓研究人員能夠建立更為精確的植被健康模型。透過對葉片生化特徵的持續追蹤，團隊能更有效地評估氣候變遷對森林生態系統的影響，並&nbsp;..."
+          "title": "<b>淨零</b>轉型卡關？電動巴士、廢電池到瀕危鰻魚台灣產業生存戰開打【台灣新思路】｜94要賺錢",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DSlaep996v24&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1FNVbr7j80SGnE-ueZM0hZ",
+          "published": "2026-06-14T02:05:01+00:00",
+          "summary": "訂閱【94要賺錢】頻道  最新【財經直播】與【即時財經】： https://inews.setn.com/ ◎更多即時新聞看這裡！【三立新聞網】：https://www.setn.com ◎下載【三立&nbsp;..."
         },
         {
-          "title": "如果北極的冰雪全部融化，台灣會變成什麼樣子？ - YouTube",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DYQka5UmPX9k&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2dYbwX1G6r9H5E7mbWz87t",
-          "published": "2026-06-12T19:46:08+00:00",
-          "summary": "... 氣候變遷#錢樺#中央大學#科學人#海平面上升#台北盆地#環境危機#不懂就問."
+          "title": "返鄉扛起農務移工業務劉碧華見證美濃轉變 - 放言Fount Media",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.fountmedia.io/article/391619&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2fmmPFi6ipR8aecgpyJ8aF",
+          "published": "2026-06-14T01:53:24+00:00",
+          "summary": "摸石過河近7年，她說，有農友認為計畫「解決」缺工，使她感到欣慰，「這兩個字真的不容易」，農村勞力與產能逐步趨向合法與穩定，但她也指出，氣候變遷帶來的極端降雨與&nbsp;..."
         },
         {
-          "title": "杜拜水電局在全球最高、最大、最智慧的<b>淨零</b>能耗政府大樓Al Shera'a舉辦第二屆代理式AI研討會",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.businesswire.com/news/home/20260612731021/zh-HK&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3M4g-fqEbJ2zHohPUT6oGc",
-          "published": "2026-06-12T19:36:27+00:00",
-          "summary": "(美國商業資訊)-- 杜拜水電局(DEWA)董事總經理兼執行長Saeed Mohammed Al Tayer閣下強調，DEWA正在部署最新的代理式AI技術，這符合其提升自身領先地位並鞏固杜&nbsp;..."
+          "title": "新墨西哥州樹木死亡率2025年增兩倍 - 星島日報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.singtaousa.com/2026/06/13/news/usa/tree-mortality-in-new-mexico-tripled-in-2025-driven-by-drought-climate-change-insects/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0wZqz0f6zsrF8Sc6k5vymj",
+          "published": "2026-06-14T01:50:04+00:00",
+          "summary": "報告指出，樹皮甲蟲及其他昆蟲侵襲導致的森林死亡面積高達20.9萬英畝，顯示出氣候壓力對生態系統的嚴重影響。 數據年份：2025年。 死亡&nbsp;..."
         },
         {
-          "title": "桃園「高溫網」建議去百貨吹冷氣挨轟環保局回應了- 政治 - 自由時報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.ltn.com.tw/news/politics/breakingnews/5470447&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1qUMguP1309ygqZkt-4KCo",
-          "published": "2026-06-12T17:36:03+00:00",
-          "summary": "... 氣候變遷調適與高溫健康風險應用計畫」，建置「桃園市碳中和資訊平台」網站。（擷取自網路）. 桃園市政府斥資983萬元推動「桃園市氣候變遷調適與高溫健康風險&nbsp;..."
+          "title": "畢業求職免焦慮！ 環境部推「綠領認同專區」 企業承諾優先面試",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/page/3b3c62c78849f32f/401147ea-6a16-4006-9188-b76f1955a4de&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3dYc7pMMOuHLPO7rG9tK0z",
+          "published": "2026-06-14T01:34:05+00:00",
+          "summary": "此時正值大專院校畢業生準備投入職場的關鍵期，專區目前已有53家大型企業熱烈響應，並承諾將優先面試取得「環境部淨零綠領人才培育課程合格證明」的求職者&nbsp;..."
         }
       ]
     }
