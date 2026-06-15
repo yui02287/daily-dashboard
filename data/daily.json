@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-06-14T05:49:35.027952+00:00",
-    "date": "2026-06-14",
+    "generated_at": "2026-06-15T06:24:27.037231+00:00",
+    "date": "2026-06-15",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -10,47 +10,84 @@
     {
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
-      "items": []
+      "items": [
+        {
+          "title": "當 AI 把專業知識商品化，企業的差異化優勢剩什麼？Nadella 說答案在「學習迴圈」",
+          "link": "https://techorange.com/2026/06/15/satya-nadella-the-future-of-the-firm-in-an-ai-driven-economy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-15T04:43:53+00:00",
+          "summary": "當市場焦點仍集中在模型能力的競賽時，微軟執行長 Satya Nadella 卻提出不同觀點：真正決定企業競爭力的，未必是模型本身，而是圍繞模型建立而起的生態系。在其最新長文〈A frontier without an ecosystem is not stable〉中，他嘗試重新定義 AI 時代的企業角色，並提出「前沿生態系（Frontier Ecosystem）」概念。 這次平台轉移不一樣 Na"
+        },
+        {
+          "title": "Anthropic 被迫關閉 Fable 5、Mythos 5：美國經濟學家 Tyler Cowen 警告，全球可能轉向中國 AI",
+          "link": "https://techorange.com/2026/06/15/anthropic-tyler-cowen/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-15T04:41:03+00:00",
+          "summary": "近日，Anthropic 的 Fable 5 與 Mythos 5 模型，因為美國政府的出口管制要求而被迫暫停存取。這項舉動不僅讓前沿 AI 模型首次被正式放進「國安風險」與「出口限制」的討論框架中，更引發全球科技界的擔憂。這項管制更創下首例，因為美國政府將過去用來管制武器與先進晶片的「出口管制法」，史無前例地用在一個已廣泛被公眾使用的商業軟體產品。&nbsp; 美國經濟學家 Tyler Cowe"
+        },
+        {
+          "title": "【從賣時間到賣成果】麥肯錫薪酬結構調整，AI 推動知識型服務業的商業模式重寫",
+          "link": "https://techorange.com/2026/06/15/consulting-work-charge/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-15T03:03:24+00:00",
+          "summary": "麥肯錫正在調整合夥人的薪酬結構，把更多比例轉為股權，同時保留更多現金。這個看起來像是內部財務安排的決定，背後其實指向整個專業服務業共同面對的處境，因為客戶越來越不願意按工時付費，而 AI 正在加速這個轉變。 工時計費的失效，從麥肯錫開始顯現 麥肯錫面臨的壓力是，客戶要求將顧問費與實際交付的成果掛鉤，例如降低成本、提升利潤或增加市場占有率，而不是按照顧問花了多少時間提供建議來計費。 麥肯錫英國、愛爾"
+        },
+        {
+          "title": "時隔 14 年再度開放申請：「品牌頂級域名」正影響企業資安、客戶信任與網路行銷",
+          "link": "https://techorange.com/2026/06/15/brand-tld-domain-name-and-cybersecurity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-15T02:03:43+00:00",
+          "summary": "資安領域近年來正嘗試一種全新的解決方案，那就是透過「品牌頂級域名（Brand TLD）」的方式，提高企業網站的辨識度以達成雙贏。"
+        },
+        {
+          "title": "限時折扣不管用了？《哈佛商業評論》揭 AI 購物代理的決策邏輯",
+          "link": "https://techorange.com/2026/06/15/research-traditional-marketing-doesnt-work-on-ai-shopping-agents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-15T01:49:41+00:00",
+          "summary": "如今，越來越多消費者開始透過 ChatGPT、Google AI 以及各類智慧助理尋找商品、比較規格甚至直接完成購買，企業面對的顧客已不再只有人類；這意味著企業未來除了要說服消費者，也必須學會如何與 AI 代理溝通。 AI 不再照單全收：傳統促銷訊號效果開始分化 然而，長期以來建立在消費心理學基礎上的行銷手法，對 AI 代理未必有效。根據《哈佛商業評論》最新研究，許多電商常見的促銷設計，例如限時倒"
+        },
+        {
+          "title": "【333 Robots Community Meetup】交大資工系副教授陳奕廷拆解 Physical AI 開發迷思，讓機器人回到真實需求",
+          "link": "https://techorange.com/2026/06/15/333-robots-community-meetup-may/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-15T00:30:00+00:00",
+          "summary": "目前台灣正面臨高齡化與缺工的嚴峻挑戰，產業界迫切尋求科技解方，使得「實體 AI（Physical AI）」迅速成為熱門焦點。然而，當 AI 快速走向實體世界，開發者是否也陷入「為了 AI 而 AI」的技術焦慮？ 在五月舉行的「333 Robots Community Meetup」系列活動中，特別邀請到國立陽明交通大學資工系副教授陳奕廷。他也在演講中直指當前的產業盲點，呼籲開發者比起跟上「AI 加"
+        }
+      ]
     },
     {
       "feed_name": "遠見雜誌 - 前進的動力",
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
+          "title": "當減碳成為日常：臺北的淨零新生活實踐",
+          "link": "https://www.gvm.com.tw/article/130051",
+          "published": "2026-06-15T00:00:00",
+          "summary": "在臺北的早晨，有人選擇騎YouBike、搭捷運通勤，也有人帶著環保杯買咖啡，這些看似微小的選擇，正悄悄改變一座城市的樣貌。當氣候變遷不再只是遙遠的議題，而成為日常生活的一部分，臺北也開始思考：一座城市，該如何在發展之中，找到與環境共存的節奏？作為全國第一個制訂「淨零排放管理自治條例」的城市，臺北市已明確訂下2030年減碳40%、2050年淨零排放的目標。然而，真正的挑戰從來不只是政策或數據，而是如"
+        },
+        {
+          "title": "以高級製錶的進化美學   RICHARD MILLE經典演譯建築、賽車與雕塑語彙",
+          "link": "https://www.gvm.com.tw/article/130443",
+          "published": "2026-06-15T00:00:00",
+          "summary": "自品牌創立以來，RICHARD MILLE堅持尖端創新、美學結構與極致工藝三大核心精神，無論機芯、錶殼到人體工學，皆以高度複雜的工程思維打造，是高級製錶界的先行。無論酒桶形的RM 65-01雙秒追針自動上鍊計時碼錶、方形錶殼的RM 16-02超薄自動腕錶，或圓形錶殼的RM 33-03自動上鍊腕錶，每一只腕錶都具強烈辨識度，見證RICHARD MILLE在當代高級製錶極具未來感的存在。&nbsp;R"
+        },
+        {
+          "title": "職場霸凌法上路倒數！有毒主管10種行為，主管和員工如何自保？",
+          "link": "https://www.gvm.com.tw/article/130819",
+          "published": "2026-06-14T21:00:00",
+          "summary": "2026年7月，《職業安全衛生法》職場霸凌防治專章會上路，違規雇主最高面臨450萬元罰鍰。對許多企業來說，最棘手的問題不是罰金數字，而是：那些行之多年的管理方式，究竟哪些已悄悄踩上違法紅線？本文取得《哈佛商業評論》全球繁體中文版官網授權，由全球知名職場文化變革專家柯林・伊利斯（Colin D. Ellis）歸納出「有毒主管」的10種行為樣貌。對照國內新法認定的五類不當行為：言語暴力、社交排斥、權力"
+        },
+        {
+          "title": "為何今天思緒不清？研究指大腦認知能力會隨「這三件事」波動",
+          "link": "https://www.gvm.com.tw/article/130817",
+          "published": "2026-06-14T17:00:00",
+          "summary": "智商再高的人，也會感覺自己有時頭腦超敏銳，有時又覺得反應慢半拍，這是正常現象。科學研究發現，人的大腦會經歷認知波動，影響因素可能與睡眠、工作疲勞有關，這時候的解決方式無他，就是放過自己，好好休息一下讓大腦恢復。思維敏銳度，指的是一個人在任何特定時刻的思維清晰度、專注度和效率。當思維敏銳度高時，人們更容易集中注意力，更快做出決定，並能更有效率的完成任務。當思維敏銳度低時，即使是簡單的活動也會感覺很困"
+        },
+        {
+          "title": "從傳產二代到億萬女老闆，我悟出「真·有錢人」鑑別指南",
+          "link": "https://www.gvm.com.tw/article/130796",
+          "published": "2026-06-14T11:00:00",
+          "summary": "前陣子，我認識了一位家族世代從商的傳統產業第二代，但我周遭朋友完全看不出樸實的他身家相當驚人，才發現許多人分不出真假有錢人。其實我還認識一些企業女老闆，從中可歸納出一個「真·有錢人」鑑別指南，就來談談分享。那是一個晴朗的午後，我們吃完飯後，他順道載我回公司工作。目送他離去後，一起工作的女同事湊過來，帶著一絲疑惑說：「他穿得好休閒、好樸素喔，完全看不出來是傳產二代耶！」我聽了只是笑笑，淡淡地回應：「"
+        },
+        {
           "title": "咖啡因攝取過量會導致高血壓？研究揭：「這樣喝」促進血管健康",
           "link": "https://www.gvm.com.tw/article/130815",
           "published": "2026-06-14T07:00:00",
           "summary": "早上一杯拿鐵，下午可能會想再來一杯醒腦，但又擔心咖啡因攝取過量導致高血壓。現在科學研究釐清咖啡與血壓之間的長期關係，咖啡因確實會導致血壓暫時升高，但只是短暫現象，實際上咖啡益處大於壞處，咖啡中的一些天然化合物，甚至有助於促進血管健康。健康的血壓讀數是收縮壓低於&nbsp;120&nbsp;毫米汞柱&nbsp;(mmHg)，舒張壓低於&nbsp;80&nbsp;毫米汞柱&nbsp;(mmHg)。血壓"
-        },
-        {
-          "title": "偷粽的「女兒賊」：每回返鄉她偷的不是物資也不是錢，而是偷偷想念",
-          "link": "https://www.gvm.com.tw/article/130837",
-          "published": "2026-06-13T22:00:00",
-          "summary": "多年來，賊與母親一直維持著奇怪的供給關係，還常以女兒賊這個名號沾沾自喜。每次打包的東西愈滿，彷彿受到的疼愛愈多，心中產生了被寵溺的錯覺。上客運前，我依舊偷了一顆肉粽走。確實，我沒有很喜歡吃粽子，但必須從這個家帶走些什麼。（本文節錄自《賣瓜的人》一書，作者：洪倪／遠流出版，以下為摘文。）搭三小時火車，再轉將近兩小時客運，五小時的移動，她終於回到了西部沿海的老家。盯著車窗外灰灰綠綠的休耕農地思考，怪了"
-        },
-        {
-          "title": "「我是為你好」掛嘴邊？諮商心理師：1句話看出成長背景有「這問題」",
-          "link": "https://www.gvm.com.tw/article/122349",
-          "published": "2026-06-13T19:54:00",
-          "summary": "「如果你不是我的另一半，我才懶得管你。」、「我是為你好。」、「你跑去哪裡鬼混，為什麼不準時回家？」這些話，是否聽來熟悉？它們常被掛在愛的名義下，卻往往成了關係中最沉重的枷鎖。專業諮商心理師林萃芬指出，當關心變成管束，當叮嚀變成批判，這段關係，也許早已在不知不覺中開始受傷。本文摘自《從說話洞察人心》一書，作者為林萃芬，時報出版，以下為摘文。）一次雜誌圈朋友聚會上，小玲穿著一向前衛的服裝，卻罕見地一臉"
-        },
-        {
-          "title": "用「富人思維」看你的可支配所得：如何「用錢」決定人與人的差距",
-          "link": "https://www.gvm.com.tw/article/122060",
-          "published": "2026-06-13T19:39:00",
-          "summary": "戴勝益當年「月薪不到50,000不要儲蓄」的發言曾被很多人抨擊，說他是典型的富二代，缺乏同理心。但其實他的思考邏輯是典型的「富人思維」：富人們總會思考如何拿錢換回他們沒有的東西，請顧問節省自己學習的時間，請管家節省自己處理家務的時間，因為相較於錢，時間與注意力對他們來說更寶貴。（本文節錄自《用商業思維優化你的人生選擇》一書，作者：游舒帆（Gipi），聯經出版，以下為摘文。）審視常態性支出與可支配所"
-        },
-        {
-          "title": "期待下一代未來變有錢？理財專家：送孩子去「做這件事」投報率最差",
-          "link": "https://www.gvm.com.tw/article/122007",
-          "published": "2026-06-13T19:30:00",
-          "summary": "「教育會翻轉階級」觀念深植人心，許多父母認為，只要小孩好好讀書，找到穩定工作，就能衣食無虞，因此覺得送小孩去補習是最好的投資。韓國投資之神John Lee是華爾街的基金經理人，獲利超過1兆韓元，他指出，讓小孩去補習，是報酬率最低的投資，其實，翻轉貧窮的第一步，不是「好好讀書」，而是從改變「思維」開始！（本文節錄自《讓你和小孩財富翻身的脫貧思維》一書，作者：John Lee，采實文化出版，以下為摘文"
-        },
-        {
-          "title": "廚餘養豬禁令2027上路！吃到飽餐廳面對顧客「求回本」卻剩食，有何解方？",
-          "link": "https://www.gvm.com.tw/article/130813",
-          "published": "2026-06-13T17:00:00",
-          "summary": "吃到飽餐廳最大的浪費，不在後場廚房，而在前場餐桌。數據顯示，吃到飽餐廳廚餘超過六成來自顧客剩食。面對永續壓力、成本挑戰、消費者滿意度，業者必須從中求平衡；而隨著消費文化轉向品質，「吃回本」的時代漸退場，也為餐飲業從源頭減少廚餘，帶來新契機。2027年廚餘養豬禁令即將上路，當餐飲業者積極尋找廚餘去化新解方時，更根本的問題也浮上檯面，「從源頭減少浪費，比事後處理更有效」，餐飲業者已如此認知。談到吃到飽"
         }
       ]
     },
@@ -59,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "迎戰AI與綠色浪潮！環境部長出席北科大畢業典禮勉勵社會新鮮人以「務實創新」翻轉雙軸未來",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/page/3b3c62c78849f32f/adf987ab-97eb-4ef6-8c06-a16a4bec23de&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2n3Nm9_bjvYhXGIt_AFYej",
-          "published": "2026-06-14T02:14:11+00:00",
-          "summary": "部長由衷感謝同樣出身北科大校友的環境部氣候變遷署蔡玲儀署長，發揮務實溝通的特質： ... 部長指出，若依循傳統思維，淨零轉型將完全無法達標，而AI 正是協助達成淨零&nbsp;..."
+          "title": "新北率團赴德考察循環經濟借鏡減廢經驗邁向<b>淨零</b>轉型 - 中華日報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cdns.com.tw/articles/1415831&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1p4PqmtGH92VmdST_-jXE-",
+          "published": "2026-06-15T05:16:51+00:00",
+          "summary": "記者蔡琇惠／新北報導為接軌中央循環經濟政策，新北市副市長劉和然於6月上旬率市府團隊前往德國考察，實地參訪全球循環經濟龍頭「瑞曼迪斯（REMONDIS）利佩園區」&nbsp;..."
         },
         {
-          "title": "觀光與生態雙贏大鵬灣永續治理成果獲國家級肯定 - 焦點時報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://focus.586.com.tw/2026/06/14/p391373/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0H6ohoUYgLL-VxRu1xpDDP",
-          "published": "2026-06-14T02:10:30+00:00",
-          "summary": "... 淨零排放與永續發展議題。多位同仁更主動取得專業認證，展現推動環境教育與淨零轉型的專業實力。 低碳觀光推動成果同樣亮眼。「台灣好行－大鵬灣琉球線」自&nbsp;..."
+          "title": "花蓮推動在地體驗學習與<b>淨零</b>APP行動徐榛蔚：讓減碳成為日常生活習慣 - 是新聞YesMedia",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.yesmedia.com.tw/%25E8%258A%25B1%25E8%2593%25AE%25E6%258E%25A8%25E5%258B%2595%25E5%259C%25A8%25E5%259C%25B0%25E9%25AB%2594%25E9%25A9%2597%25E5%25AD%25B8%25E7%25BF%2592%25E8%2588%2587%25E6%25B7%25A8%25E9%259B%25B6app%25E8%25A1%258C%25E5%258B%2595-%25E5%25BE%2590%25E6%25A6%259B%25E8%2594%259A%25EF%25BC%259A%25E8%25AE%2593%25E6%25B8%259B/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1SL9i6KAWptO0cz2TKZyBG",
+          "published": "2026-06-15T05:06:51+00:00",
+          "summary": "徐榛蔚指出，面對全球氣候變遷挑戰，淨零排放已成為世界共同目標，而淨零不只是政府政策，更應成為全民共同實踐的生活方式。她強調，環保減碳就像維持健康&nbsp;..."
         },
         {
-          "title": "<b>淨零</b>轉型卡關？電動巴士、廢電池到瀕危鰻魚台灣產業生存戰開打【台灣新思路】｜94要賺錢",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DSlaep996v24&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1FNVbr7j80SGnE-ueZM0hZ",
-          "published": "2026-06-14T02:05:01+00:00",
-          "summary": "訂閱【94要賺錢】頻道  最新【財經直播】與【即時財經】： https://inews.setn.com/ ◎更多即時新聞看這裡！【三立新聞網】：https://www.setn.com ◎下載【三立&nbsp;..."
+          "title": "大氣化學家索羅門揭臭氧破洞之謎獲唐獎永續發展獎",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.fountmedia.io/article/391931&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1T0p-AcANs3iqCvKsqWEzs",
+          "published": "2026-06-15T05:03:04+00:00",
+          "summary": "此外，索羅門提出二氧化碳排放對地表溫度、降雨與海平面的衝擊將持續千年以上；另外，她也在共同領導聯合國政府間氣候變遷專門委員會（IPCC）時，提出第4次評估報告「&nbsp;..."
         },
         {
-          "title": "返鄉扛起農務移工業務劉碧華見證美濃轉變 - 放言Fount Media",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.fountmedia.io/article/391619&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2fmmPFi6ipR8aecgpyJ8aF",
-          "published": "2026-06-14T01:53:24+00:00",
-          "summary": "摸石過河近7年，她說，有農友認為計畫「解決」缺工，使她感到欣慰，「這兩個字真的不容易」，農村勞力與產能逐步趨向合法與穩定，但她也指出，氣候變遷帶來的極端降雨與&nbsp;..."
+          "title": "<b>淨零</b>綠領中區中心揭牌彭啓明：中台灣為轉型戰場 - 聯合新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/6929/9567181&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw142hYCSRTGezZKS1ZmLH5f",
+          "published": "2026-06-15T05:00:26+00:00",
+          "summary": "為加速培育達成2050淨零排放所需人才，環境部國家環境研究院結合全國37所大專校院成立「環境部淨零綠領人才培育聯盟」，分設北、中、南、東4區培育中心。 環境部&nbsp;..."
         },
         {
-          "title": "新墨西哥州樹木死亡率2025年增兩倍 - 星島日報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.singtaousa.com/2026/06/13/news/usa/tree-mortality-in-new-mexico-tripled-in-2025-driven-by-drought-climate-change-insects/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0wZqz0f6zsrF8Sc6k5vymj",
-          "published": "2026-06-14T01:50:04+00:00",
-          "summary": "報告指出，樹皮甲蟲及其他昆蟲侵襲導致的森林死亡面積高達20.9萬英畝，顯示出氣候壓力對生態系統的嚴重影響。 數據年份：2025年。 死亡&nbsp;..."
+          "title": "<b>淨零</b>綠領中區中心揭牌彭啓明：中台灣為轉型戰場 - Yahoo新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E6%25B7%25A8%25E9%259B%25B6%25E7%25B6%25A0%25E9%25A0%2598%25E4%25B8%25AD%25E5%258D%2580%25E4%25B8%25AD%25E5%25BF%2583%25E6%258F%25AD%25E7%2589%258C-%25E5%25BD%25AD%25E5%2595%2593%25E6%2598%258E-%25E4%25B8%25AD%25E5%258F%25B0%25E7%2581%25A3%25E7%2582%25BA%25E8%25BD%2589%25E5%259E%258B%25E6%2588%25B0%25E5%25A0%25B4-042025055.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0_pH1I5N3qrqcozH_mJUBB",
+          "published": "2026-06-15T04:52:07+00:00",
+          "summary": "（中央社記者張雄風台北15日電）環境部淨零綠領人才中區培育中心今天正式揭牌。環境部長彭啓明表示，中台灣製造業與傳統產業聚落密集，是淨零轉型的關鍵戰場，&nbsp;..."
         },
         {
-          "title": "畢業求職免焦慮！ 環境部推「綠領認同專區」 企業承諾優先面試",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/page/3b3c62c78849f32f/401147ea-6a16-4006-9188-b76f1955a4de&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3dYc7pMMOuHLPO7rG9tK0z",
-          "published": "2026-06-14T01:34:05+00:00",
-          "summary": "此時正值大專院校畢業生準備投入職場的關鍵期，專區目前已有53家大型企業熱烈響應，並承諾將優先面試取得「環境部淨零綠領人才培育課程合格證明」的求職者&nbsp;..."
+          "title": "美國大氣化學家蘇珊．索羅門獲唐獎「永續發展獎」 當年揪出南極臭氧洞擴大原因",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.i-meihua.com/Article/Detail/50793&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw14thbwVCILRkv3-HrWs0nb",
+          "published": "2026-06-15T04:46:33+00:00",
+          "summary": "唐獎教育基金會今天（15日）起一連4天公布2026年唐獎得獎人，今日首先揭曉「永續發展獎」，由美國大氣化學家蘇珊‧索羅門（Susan Solomon）獲獎，以表彰她藉由在大氣&nbsp;..."
         }
       ]
     }
