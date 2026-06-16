@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-06-15T06:24:27.037231+00:00",
-    "date": "2026-06-15",
+    "generated_at": "2026-06-16T06:33:07.493489+00:00",
+    "date": "2026-06-16",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "當 AI 把專業知識商品化，企業的差異化優勢剩什麼？Nadella 說答案在「學習迴圈」",
-          "link": "https://techorange.com/2026/06/15/satya-nadella-the-future-of-the-firm-in-an-ai-driven-economy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-15T04:43:53+00:00",
-          "summary": "當市場焦點仍集中在模型能力的競賽時，微軟執行長 Satya Nadella 卻提出不同觀點：真正決定企業競爭力的，未必是模型本身，而是圍繞模型建立而起的生態系。在其最新長文〈A frontier without an ecosystem is not stable〉中，他嘗試重新定義 AI 時代的企業角色，並提出「前沿生態系（Frontier Ecosystem）」概念。 這次平台轉移不一樣 Na"
+          "title": "比 NVIDIA 系統快 4 倍、功耗只有五分之一：Tensordyne 用一個數學技巧重新設計 AI 推理晶片",
+          "link": "https://techorange.com/2026/06/16/tensordyne-nvidia-ai-inference/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-16T04:31:36+00:00",
+          "summary": "當 AI 產業焦點逐漸從訓練競賽轉向推理競賽，市場開始思考：下一代 AI 系統比拼的，是堆疊更多的 GPU，還是更低的 Token 成本？AI 晶片新創 Tensordyne 給出的答案，是後者：從「數學架構」重新設計 AI 運算。根據《Reuters》報導，這家公司宣布即將推出的推理系統 Tensordyne Napier（TDN）已吸引超過 2 億美元的預估需求，並有十多家企業表達測試意向。 "
         },
         {
-          "title": "Anthropic 被迫關閉 Fable 5、Mythos 5：美國經濟學家 Tyler Cowen 警告，全球可能轉向中國 AI",
-          "link": "https://techorange.com/2026/06/15/anthropic-tyler-cowen/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-15T04:41:03+00:00",
-          "summary": "近日，Anthropic 的 Fable 5 與 Mythos 5 模型，因為美國政府的出口管制要求而被迫暫停存取。這項舉動不僅讓前沿 AI 模型首次被正式放進「國安風險」與「出口限制」的討論框架中，更引發全球科技界的擔憂。這項管制更創下首例，因為美國政府將過去用來管制武器與先進晶片的「出口管制法」，史無前例地用在一個已廣泛被公眾使用的商業軟體產品。&nbsp; 美國經濟學家 Tyler Cowe"
+          "title": "戰場即研發場！漢翔總經理莊秀美：無人機每兩個月技術翻轉，AI 正在改寫國防製造節奏",
+          "link": "https://techorange.com/2026/06/16/aerospace-industrial-development-corporation-podcast/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-16T02:11:34+00:00",
+          "summary": "專訪：沈貝怡撰稿：李昀蔚 台灣擁有深厚製造業基礎，如今當 AI 從雲端與軟體世界走向真實物理場域，Physical AI 正成為台灣下一個必須把握的產業機會。然而，Physical AI 不只代表機器人，也包含無人載具、自主移動系統與智慧化設備，尤其近年無人機需求在戰場、國防、物流與巡檢等場景快速升溫，也讓台灣原本強大的製造能力、電子供應鏈與航太技術基礎，有機會重塑競爭力。 本集《全新一週》特別邀"
         },
         {
-          "title": "【從賣時間到賣成果】麥肯錫薪酬結構調整，AI 推動知識型服務業的商業模式重寫",
-          "link": "https://techorange.com/2026/06/15/consulting-work-charge/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-15T03:03:24+00:00",
-          "summary": "麥肯錫正在調整合夥人的薪酬結構，把更多比例轉為股權，同時保留更多現金。這個看起來像是內部財務安排的決定，背後其實指向整個專業服務業共同面對的處境，因為客戶越來越不願意按工時付費，而 AI 正在加速這個轉變。 工時計費的失效，從麥肯錫開始顯現 麥肯錫面臨的壓力是，客戶要求將顧問費與實際交付的成果掛鉤，例如降低成本、提升利潤或增加市場占有率，而不是按照顧問花了多少時間提供建議來計費。 麥肯錫英國、愛爾"
+          "title": "1 秒攔截瑕疵、LLM 幫司機打電話！家具巨頭 Wayfair 如何靠 AI 降低最後一哩路隱形浪費",
+          "link": "https://techorange.com/2026/06/16/wayfair-ai-delivery/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-16T01:47:59+00:00",
+          "summary": "在電商競爭日益激烈的環境下，物流效率已成為影響消費者體驗與企業成本的重要關鍵。北美家具電商巨頭 Wayfair 近年持續強化物流網路建設，積極將 AI 導入倉儲與配送流程。 透過電腦視覺（Computer Vision）、生成式 AI 與大語言模型（LLM）等技術，Wayfair 正試圖解決家具配送長期存在的尺寸誤差、包裝損壞與配送溝通等難題，進一步提升最後一哩路配送效率。 用智慧視覺精準分配車輛"
         },
         {
-          "title": "時隔 14 年再度開放申請：「品牌頂級域名」正影響企業資安、客戶信任與網路行銷",
-          "link": "https://techorange.com/2026/06/15/brand-tld-domain-name-and-cybersecurity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-15T02:03:43+00:00",
-          "summary": "資安領域近年來正嘗試一種全新的解決方案，那就是透過「品牌頂級域名（Brand TLD）」的方式，提高企業網站的辨識度以達成雙贏。"
+          "title": "【維運工程師被 AI 取代？】最新測試：最先進 AI 模型的故障分析能力仍不及人類專家",
+          "link": "https://techorange.com/2026/06/16/ai-site-reliability-engineer-arfbench/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-16T01:24:22+00:00",
+          "summary": "Datadog 推出 ARFBench 讓 AI 模型針對實際的服務中斷事件進行故障研究、原因推理，結果發現，即便是最優秀、最先進的人工智慧模型，仍無法勝過人類工程師。"
         },
         {
-          "title": "限時折扣不管用了？《哈佛商業評論》揭 AI 購物代理的決策邏輯",
-          "link": "https://techorange.com/2026/06/15/research-traditional-marketing-doesnt-work-on-ai-shopping-agents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-15T01:49:41+00:00",
-          "summary": "如今，越來越多消費者開始透過 ChatGPT、Google AI 以及各類智慧助理尋找商品、比較規格甚至直接完成購買，企業面對的顧客已不再只有人類；這意味著企業未來除了要說服消費者，也必須學會如何與 AI 代理溝通。 AI 不再照單全收：傳統促銷訊號效果開始分化 然而，長期以來建立在消費心理學基礎上的行銷手法，對 AI 代理未必有效。根據《哈佛商業評論》最新研究，許多電商常見的促銷設計，例如限時倒"
+          "title": "四隻手、沒有腿，Helios 四臂機器人如何做到為太空站而生？",
+          "link": "https://techorange.com/2026/06/16/helios/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-16T01:24:09+00:00",
+          "summary": "當大多數機器人公司在比拚誰的人形機器人走得更穩、跑得更快時，瑞士蘇黎世新創 Orbit Robotics 推出的 Helios 走了一條完全不同的路：Helios 有四條手臂、沒有任何雙腿，靠著這副在地球上看起來奇特的身形，在太空站裡替太空人分擔重複、耗時又昂貴的例行工作。 「為環境量身打造機器人的身體」，從這個前提出發，Orbit Robotics 做出了一款與市面上絕大多數機器人截然不同的產品"
         },
         {
-          "title": "【333 Robots Community Meetup】交大資工系副教授陳奕廷拆解 Physical AI 開發迷思，讓機器人回到真實需求",
-          "link": "https://techorange.com/2026/06/15/333-robots-community-meetup-may/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-15T00:30:00+00:00",
-          "summary": "目前台灣正面臨高齡化與缺工的嚴峻挑戰，產業界迫切尋求科技解方，使得「實體 AI（Physical AI）」迅速成為熱門焦點。然而，當 AI 快速走向實體世界，開發者是否也陷入「為了 AI 而 AI」的技術焦慮？ 在五月舉行的「333 Robots Community Meetup」系列活動中，特別邀請到國立陽明交通大學資工系副教授陳奕廷。他也在演講中直指當前的產業盲點，呼籲開發者比起跟上「AI 加"
+          "title": "【科技早餐】鴻海搶 AI 資料中心，字節跳動去 NVIDIA、Google 分散 TPU 供應鏈",
+          "link": "https://techorange.com/2026/06/16/foxconn-schneider-electric-partner-ai-data-center/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-15T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊鴻海聯手施耐德搶 AI 資料中心，基建戰從機櫃燒到電力冷卻 施耐德電機（Schneider Electric）與鴻海（Foxconn）宣布展開策略合作，雙方將共同開發並擴大次世代 AI 資料中心基礎設施。這項合作將結合鴻海在製造與 AI 系統方面的能力，以及施耐德電機在電力、冷卻與能源管理的專長，目標是提供可部署的 AI 資料中心解決方案，相關生"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "當減碳成為日常：臺北的淨零新生活實踐",
-          "link": "https://www.gvm.com.tw/article/130051",
-          "published": "2026-06-15T00:00:00",
-          "summary": "在臺北的早晨，有人選擇騎YouBike、搭捷運通勤，也有人帶著環保杯買咖啡，這些看似微小的選擇，正悄悄改變一座城市的樣貌。當氣候變遷不再只是遙遠的議題，而成為日常生活的一部分，臺北也開始思考：一座城市，該如何在發展之中，找到與環境共存的節奏？作為全國第一個制訂「淨零排放管理自治條例」的城市，臺北市已明確訂下2030年減碳40%、2050年淨零排放的目標。然而，真正的挑戰從來不只是政策或數據，而是如"
+          "title": "台東留才大計",
+          "link": "https://www.gvm.com.tw/article/130775",
+          "published": "2026-06-16T00:00:00",
+          "summary": "隨著台東邁向舉債歸零的財政新局，經濟產業結構大步邁向多元化，過去在地青年外流已轉變為如今的「歸鄉定居」與「東漂移居」熱潮。各行各業建構更完善的員工福利及職涯環境，讓每位專業人才都能在這裡安心扎根、大展身手。首先，台東縣政府在工程人力上透過「實質加薪」、「育才培訓」雙管齊下，強力應對土木建設與道路養護人力外流。同時，在地機構也積極推動留才方案，以台東馬偕紀念醫院為例，鼓勵護理師進修激勵方案及留任績效"
         },
         {
-          "title": "以高級製錶的進化美學   RICHARD MILLE經典演譯建築、賽車與雕塑語彙",
-          "link": "https://www.gvm.com.tw/article/130443",
-          "published": "2026-06-15T00:00:00",
-          "summary": "自品牌創立以來，RICHARD MILLE堅持尖端創新、美學結構與極致工藝三大核心精神，無論機芯、錶殼到人體工學，皆以高度複雜的工程思維打造，是高級製錶界的先行。無論酒桶形的RM 65-01雙秒追針自動上鍊計時碼錶、方形錶殼的RM 16-02超薄自動腕錶，或圓形錶殼的RM 33-03自動上鍊腕錶，每一只腕錶都具強烈辨識度，見證RICHARD MILLE在當代高級製錶極具未來感的存在。&nbsp;R"
+          "title": "台灣35+族群為何砸10萬買鍋？創WMF鍋風潮的法國賽博集團解答",
+          "link": "https://www.gvm.com.tw/article/130865",
+          "published": "2026-06-15T17:54:00",
+          "summary": "你知道嗎？台灣35至40歲的年輕消費力正崛起，甚至會砸超過10萬元新台幣買鍋具產品。這也讓法國SEB賽博集團開始深度布局台灣。與全聯攜手創造過WMF鍋風潮的法國賽博集團（Groupe SEB）如何解析台灣人買鍋背後的消費升級趨勢？近期，該集團高層更親自造訪台灣，攜手代理商恆隆行打造「廚具界 Dyson」，背後看準台灣哪些市場？近期，《台灣米其林指南》攜手在台灣米其林一星餐廳 FRASSI ，舉辦首"
         },
         {
-          "title": "職場霸凌法上路倒數！有毒主管10種行為，主管和員工如何自保？",
-          "link": "https://www.gvm.com.tw/article/130819",
-          "published": "2026-06-14T21:00:00",
-          "summary": "2026年7月，《職業安全衛生法》職場霸凌防治專章會上路，違規雇主最高面臨450萬元罰鍰。對許多企業來說，最棘手的問題不是罰金數字，而是：那些行之多年的管理方式，究竟哪些已悄悄踩上違法紅線？本文取得《哈佛商業評論》全球繁體中文版官網授權，由全球知名職場文化變革專家柯林・伊利斯（Colin D. Ellis）歸納出「有毒主管」的10種行為樣貌。對照國內新法認定的五類不當行為：言語暴力、社交排斥、權力"
+          "title": "「煩躁」是領導者必修課？部屬每個請求，都藏著重要訊號",
+          "link": "https://www.gvm.com.tw/article/130864",
+          "published": "2026-06-15T17:06:00",
+          "summary": "部屬提出需求時，領導者第一時間感受到的煩躁與壓力，其實藏著重要的管理線索。當你看懂員工請求背後的安全感、歸屬感與成就需求，就能化解衝突，打造更高效的職場團隊。為什麼部屬的請求總讓你煩躁？職場裡，領導者每天都要面對來自部屬的大量需求。有人希望獲得更多資源，有人想討論升遷機會，也有人尋求工作上的支持與協助。面對這些請求，許多主管的第一反應不是理解，而是疲憊與煩躁。但真正值得注意的，不是部屬提出了什麼，"
         },
         {
-          "title": "為何今天思緒不清？研究指大腦認知能力會隨「這三件事」波動",
-          "link": "https://www.gvm.com.tw/article/130817",
-          "published": "2026-06-14T17:00:00",
-          "summary": "智商再高的人，也會感覺自己有時頭腦超敏銳，有時又覺得反應慢半拍，這是正常現象。科學研究發現，人的大腦會經歷認知波動，影響因素可能與睡眠、工作疲勞有關，這時候的解決方式無他，就是放過自己，好好休息一下讓大腦恢復。思維敏銳度，指的是一個人在任何特定時刻的思維清晰度、專注度和效率。當思維敏銳度高時，人們更容易集中注意力，更快做出決定，並能更有效率的完成任務。當思維敏銳度低時，即使是簡單的活動也會感覺很困"
+          "title": "俄軍猛轟烏克蘭！基輔世界遺產「洞窟修道院」陷火海",
+          "link": "https://www.gvm.com.tw/article/130863",
+          "published": "2026-06-15T16:56:00",
+          "summary": "俄羅斯對烏克蘭多座主要城市發動空襲，使基輔歷史悠久的聖母安息主教座堂陷入火海，並造成至少9人死亡；另一方面，烏克蘭對莫斯科以南地區發動的攻擊也造成3人喪命。烏克蘭空軍表示，俄軍共發射70枚飛彈和611架無人機，主要鎖定基輔為攻擊目標；烏克蘭防空部隊則成功擊落50枚飛彈及582架無人機。這波攻擊發生之際，美國與伊朗達成協議的消息為中東戰爭帶來和平曙光，也凸顯持續逾4年的俄烏戰爭至今仍不見盡頭。烏克蘭"
         },
         {
-          "title": "從傳產二代到億萬女老闆，我悟出「真·有錢人」鑑別指南",
-          "link": "https://www.gvm.com.tw/article/130796",
-          "published": "2026-06-14T11:00:00",
-          "summary": "前陣子，我認識了一位家族世代從商的傳統產業第二代，但我周遭朋友完全看不出樸實的他身家相當驚人，才發現許多人分不出真假有錢人。其實我還認識一些企業女老闆，從中可歸納出一個「真·有錢人」鑑別指南，就來談談分享。那是一個晴朗的午後，我們吃完飯後，他順道載我回公司工作。目送他離去後，一起工作的女同事湊過來，帶著一絲疑惑說：「他穿得好休閒、好樸素喔，完全看不出來是傳產二代耶！」我聽了只是笑笑，淡淡地回應：「"
+          "title": "更年期怎麼吃？醫師推薦「彩虹飲食法」：5種簡單訣竅護心顧腸還省錢",
+          "link": "https://www.gvm.com.tw/article/130861",
+          "published": "2026-06-15T16:31:00",
+          "summary": "隨著年齡增長，身體的代謝、荷爾蒙與腸道菌相都會悄悄改變，而飲食正是維持健康的重要關鍵。研究發現，多攝取不同顏色的蔬果，不僅有助降低心血管疾病、糖尿病與部分癌症風險，還能滋養腸道好菌、提升免疫力。其實不用追求昂貴食材，只要掌握「彩虹飲食法」，從日常生活增加蔬果攝取量，就能為健康打下穩固基礎。（本文節錄自《妳的身體沒有壞，只是在轉變》一書，作者：夏莎迪．哈柏醫師，艾瑪．巴德威／遠流出版，以下為摘文。）"
         },
         {
-          "title": "咖啡因攝取過量會導致高血壓？研究揭：「這樣喝」促進血管健康",
-          "link": "https://www.gvm.com.tw/article/130815",
-          "published": "2026-06-14T07:00:00",
-          "summary": "早上一杯拿鐵，下午可能會想再來一杯醒腦，但又擔心咖啡因攝取過量導致高血壓。現在科學研究釐清咖啡與血壓之間的長期關係，咖啡因確實會導致血壓暫時升高，但只是短暫現象，實際上咖啡益處大於壞處，咖啡中的一些天然化合物，甚至有助於促進血管健康。健康的血壓讀數是收縮壓低於&nbsp;120&nbsp;毫米汞柱&nbsp;(mmHg)，舒張壓低於&nbsp;80&nbsp;毫米汞柱&nbsp;(mmHg)。血壓"
+          "title": "用ChatGPT搜尋答案，是能源黑洞？聯合國報告揭AI浪費水電代價",
+          "link": "https://www.gvm.com.tw/article/130859",
+          "published": "2026-06-15T16:24:00",
+          "summary": "當全球科技巨頭競逐AI霸權、許多人也愈來愈習慣萬事都要問ChatGPT時，聯合國卻發布一份震撼報告。報告指出，支撐AI運作的資料中心不僅大量耗電，更正快速消耗水資源、土地並製造電子廢棄物。到了2030年，全球資料中心用電量恐達9450億度，足跡規模甚至堪比一個中型國家，也讓AI革命背後的環境代價首次被完整攤在陽光下。當你隨意跟GPT聊天說聲謝謝，這個算力帳單到底算誰頭上？一文完整拆解。當你向Cha"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "新北率團赴德考察循環經濟借鏡減廢經驗邁向<b>淨零</b>轉型 - 中華日報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cdns.com.tw/articles/1415831&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1p4PqmtGH92VmdST_-jXE-",
-          "published": "2026-06-15T05:16:51+00:00",
-          "summary": "記者蔡琇惠／新北報導為接軌中央循環經濟政策，新北市副市長劉和然於6月上旬率市府團隊前往德國考察，實地參訪全球循環經濟龍頭「瑞曼迪斯（REMONDIS）利佩園區」&nbsp;..."
+          "title": "台灣硬實力閃耀歐洲！經部率40家新創前進科技大展VivaTech 搶AI<b>淨零</b>轉型紅利 - 永豐金證券",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/6a30d14ade5d6e5504d1f382&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3I6Eso3OyRXLJenyzXvzHI",
+          "published": "2026-06-16T04:37:30+00:00",
+          "summary": "中企署指出，法國近期正全力宣布將成為歐洲人工智慧運算中心樞紐，並持續透過外資推動AI、資料中心、半導體與醫療健康等領域布局，藉此吸引全球AI 產業進駐。"
         },
         {
-          "title": "花蓮推動在地體驗學習與<b>淨零</b>APP行動徐榛蔚：讓減碳成為日常生活習慣 - 是新聞YesMedia",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.yesmedia.com.tw/%25E8%258A%25B1%25E8%2593%25AE%25E6%258E%25A8%25E5%258B%2595%25E5%259C%25A8%25E5%259C%25B0%25E9%25AB%2594%25E9%25A9%2597%25E5%25AD%25B8%25E7%25BF%2592%25E8%2588%2587%25E6%25B7%25A8%25E9%259B%25B6app%25E8%25A1%258C%25E5%258B%2595-%25E5%25BE%2590%25E6%25A6%259B%25E8%2594%259A%25EF%25BC%259A%25E8%25AE%2593%25E6%25B8%259B/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1SL9i6KAWptO0cz2TKZyBG",
-          "published": "2026-06-15T05:06:51+00:00",
-          "summary": "徐榛蔚指出，面對全球氣候變遷挑戰，淨零排放已成為世界共同目標，而淨零不只是政府政策，更應成為全民共同實踐的生活方式。她強調，環保減碳就像維持健康&nbsp;..."
+          "title": "台灣硬實力閃耀歐洲！經部率40家新創前進科技大展VivaTech 搶AI<b>淨零</b>轉型紅利 - 鉅亨網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6486490&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0Sjx0o21hwpRGzPlDMvdNZ",
+          "published": "2026-06-16T04:18:43+00:00",
+          "summary": "本次行程特別與國科會台灣科技新創基地攜手合作，共同參與歐洲指標性科技展會VivaTech 2026，聚焦人工智慧與半導體等前瞻領域，展現台灣科技硬實力。"
         },
         {
-          "title": "大氣化學家索羅門揭臭氧破洞之謎獲唐獎永續發展獎",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.fountmedia.io/article/391931&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1T0p-AcANs3iqCvKsqWEzs",
-          "published": "2026-06-15T05:03:04+00:00",
-          "summary": "此外，索羅門提出二氧化碳排放對地表溫度、降雨與海平面的衝擊將持續千年以上；另外，她也在共同領導聯合國政府間氣候變遷專門委員會（IPCC）時，提出第4次評估報告「&nbsp;..."
+          "title": "<b>氣候變遷</b>敲警鐘！非洲蚊媒病毒首度現蹤蘇格蘭| 民視新聞網 - LINE TODAY",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/WBKY3XQ&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2rCOUkOrmIzjDwQr7VUIkP",
+          "published": "2026-06-16T04:10:23+00:00",
+          "summary": "原本源自非洲的「烏蘇圖病毒」首度在蘇格蘭黑鳥身上驗出，令科學家大感震驚。專家指出，氣候變遷導致氣溫上升，打破了以往低溫的地理屏障，這項發現無..."
         },
         {
-          "title": "<b>淨零</b>綠領中區中心揭牌彭啓明：中台灣為轉型戰場 - 聯合新聞網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/6929/9567181&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw142hYCSRTGezZKS1ZmLH5f",
-          "published": "2026-06-15T05:00:26+00:00",
-          "summary": "為加速培育達成2050淨零排放所需人才，環境部國家環境研究院結合全國37所大專校院成立「環境部淨零綠領人才培育聯盟」，分設北、中、南、東4區培育中心。 環境部&nbsp;..."
+          "title": "中企署率40家新創企業赴法國、比利時展現AI與<b>淨零</b>實力搶攻歐洲商機 - 經濟部",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.moea.gov.tw/Mns/populace/news/News.aspx%3Fkind%3D1%26menu_id%3D40%26news_id%3D123036&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0K9eGeTGog9iOZMNDBEI2Y",
+          "published": "2026-06-16T02:59:28+00:00",
+          "summary": "中企署指出，法國近期宣布將成為歐洲人工智慧（AI）運算中心樞紐，並透過外資推動AI、資料中心、半導體、醫療健康等領域布局，吸引全球AI產業進駐，今年中企署與國科會&nbsp;..."
         },
         {
-          "title": "<b>淨零</b>綠領中區中心揭牌彭啓明：中台灣為轉型戰場 - Yahoo新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E6%25B7%25A8%25E9%259B%25B6%25E7%25B6%25A0%25E9%25A0%2598%25E4%25B8%25AD%25E5%258D%2580%25E4%25B8%25AD%25E5%25BF%2583%25E6%258F%25AD%25E7%2589%258C-%25E5%25BD%25AD%25E5%2595%2593%25E6%2598%258E-%25E4%25B8%25AD%25E5%258F%25B0%25E7%2581%25A3%25E7%2582%25BA%25E8%25BD%2589%25E5%259E%258B%25E6%2588%25B0%25E5%25A0%25B4-042025055.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0_pH1I5N3qrqcozH_mJUBB",
-          "published": "2026-06-15T04:52:07+00:00",
-          "summary": "（中央社記者張雄風台北15日電）環境部淨零綠領人才中區培育中心今天正式揭牌。環境部長彭啓明表示，中台灣製造業與傳統產業聚落密集，是淨零轉型的關鍵戰場，&nbsp;..."
+          "title": "蛇正在搬家<b>氣候變遷</b>改寫毒蛇版圖 - 環境資訊中心",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://e-info.org.tw/node/243516&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2AN9qAV3Kv4BKKLbvAogSt",
+          "published": "2026-06-16T01:41:24+00:00",
+          "summary": "氣候變遷提高熱浪和暴雨風險，也改寫毒蛇的生活版圖。世界衛生組織（WHO ... PLOS（2026年5月21日），Climate change induced complex shifts in snake&nbsp;..."
         },
         {
-          "title": "美國大氣化學家蘇珊．索羅門獲唐獎「永續發展獎」 當年揪出南極臭氧洞擴大原因",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.i-meihua.com/Article/Detail/50793&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw14thbwVCILRkv3-HrWs0nb",
-          "published": "2026-06-15T04:46:33+00:00",
-          "summary": "唐獎教育基金會今天（15日）起一連4天公布2026年唐獎得獎人，今日首先揭曉「永續發展獎」，由美國大氣化學家蘇珊‧索羅門（Susan Solomon）獲獎，以表彰她藉由在大氣&nbsp;..."
+          "title": "臺北市氣候行動獎開放徵件邀企業與社區攜手打造<b>淨零</b>城市 - 新住民全球新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.immigration.gov.tw/NewsSection/Detail/047E0983-2179-4ADB-8AAE-63C0DFA69DB3%3Flang%3Dth%26topic%3Donetouch&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1Y5IMQlYoqbu1iDuFm6ZXo",
+          "published": "2026-06-16T01:38:02+00:00",
+          "summary": "為推動淨零轉型並鼓勵民間投入減碳行動，臺北市政府環保局宣布「2026臺北市氣候行動獎」即日起開放報名，邀請企業與社區共同參與，以實際行動落實節能減碳與&nbsp;..."
         }
       ]
     }
