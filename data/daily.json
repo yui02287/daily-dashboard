@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-06-17T06:11:46.791220+00:00",
-    "date": "2026-06-17",
+    "generated_at": "2026-06-18T05:55:13.963144+00:00",
+    "date": "2026-06-18",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "SpaceX 為何願意砸 600 億美元買 Cursor？AI 競爭正從模型轉向工作流程",
-          "link": "https://techorange.com/2026/06/17/spacex-buys-cursor-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-17T04:21:30+00:00",
-          "summary": "SpaceX 才剛完成史上最大規模的 IPO，就宣布以價值 600 億美元的 A 類普通股收購 AI 程式開發工具 Cursor 的母公司 Anysphere，創下 AI Coding 領域最大交易之一。表面上，這是其執行長馬斯克替旗下 Grok 補足企業級開發工具與開發者生態系；但進一步來看，這筆交易反映出 AI 產業的競爭焦點正在轉移：當模型能力逐漸趨同，開發者入口、工作流程與使用場景，正成為"
+          "title": "川普對 Anthropic 禁令引爆 G7 角力：AI 出口管制戰場，已從晶片變「誰能用模型」",
+          "link": "https://techorange.com/2026/06/18/anthropic-ai-g7/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-18T04:15:58+00:00",
+          "summary": "過去談 AI 出口管制，主角多半是 NVIDIA 的高階晶片；如今被擋下的，換成了 AI 模型本身。美國上週以國家安全為由，要求 Anthropic 限制海外用戶存取最先進的 Mythos 5 與 Fable 5 模型。這道禁令在本週於法國舉行的 G7 峰會上成為焦點，被推上檯面的問題，已經不只是這些模型安不安全，而是未來誰有權決定先進 AI 模型如何跨越國界流通。 從晶片到模型：被「一鍵關掉」的"
         },
         {
-          "title": "Dyson 工程長談家用機器人的邊界，為什麼你家的手持吸塵器還不會消失？",
-          "link": "https://techorange.com/2026/06/17/jake-dyson/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-17T02:36:57+00:00",
-          "summary": "當多數機器人吸塵器廠商在比拚誰能爬樓梯、誰有機械臂能撿東西時，Dyson 最新推出的 Spot+Scrub Ai 選擇了一個切入點：辨識並清除地板上的頑固污漬，這選擇和 Dyson 首席工程師 Jake Dyson 想闡述的產品哲學相關。 先找到真實問題，再驗證解法是否真的有效 Jake Dyson 是創辦人 James Dyson 的兒子，22 歲時曾短暫在 Dyson 工作，隨後離開，獨立發展"
+          "title": "2026 世界盃的科技戰略：AI 與生物辨識從賽事亮點，變成常態監控基礎設施",
+          "link": "https://techorange.com/2026/06/18/world-cup-google-gemini-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-18T01:39:58+00:00",
+          "summary": "隨著 2026 年 FIFA 世界盃足球賽開踢，由 Google 主導的消費級 AI 產品 Gemini，以及能將球迷面貌轉化為門票驗證與入場方式的生物辨識，正在成為全新的焦點。"
         },
         {
-          "title": "【Google Cloud 林書平專欄】以快制快：當資安攻擊已達機器速度，企業防禦該怎麼跟上？",
-          "link": "https://techorange.com/2026/06/17/ai-cybersecurity-google-cloud-harry-lin/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-17T02:10:55+00:00",
-          "summary": "文 / Google Cloud 台灣技術總經理 林書平 當我們談論 AI 如何解放企業生產力時，也看見另一個不容忽視的現實：駭客也正積極將 AI「武器化」。駭客現在能利用 AI 自動生成幾可亂真的多國語言釣魚誘餌，極速探測系統漏洞。這不僅大幅降低了攻擊門檻，更讓威脅擴散的速度遠超以往。在這場技術軍備競賽中，AI 顯然已成為一把雙面刃。 面對 AI 驅動的極速擴張威脅，傳統高度仰賴人員介入的被動防"
+          "title": "【DEAT 專欄】城市治理的新拼圖：數位平台正在成為治理夥伴",
+          "link": "https://techorange.com/2026/06/18/deat-urban-governance/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-18T00:02:00+00:00",
+          "summary": "文／台灣數位平台經濟協會（DEAT） 如果要形容一座城市的數位發展，你會想到什麼？ 是路邊的智慧站牌、免費 Wi-Fi、線上申辦服務，還是手機裡各種早已融入生活的 App？過去談到智慧城市，人們往往先想到各種數位建設與科技設備。但當這些基礎條件逐漸普及之後，一個新的問題開始浮現：當每個城市都擁有相近的數位基礎條件，未來的競爭力將由什麼決定？ 台灣數位平台經濟協會（DEAT）與政治大學公共行政學系共"
         },
         {
-          "title": "【科技早餐】美商會點名 AI 用電是國安題，NVIDIA 發債把基建戰燒進資本市場",
-          "link": "https://techorange.com/2026/06/17/amcham-taiwan-fliags-ai-power-demand-as-national-security-issue/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-16T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊美商會點名 AI 用電是國安題，台美合作延伸到無人機供應鏈 台灣美國商會發布 2026 台灣白皮書，將能源與基礎建設韌性列為優先議題，並主張應把能源供應充足與電網韌性視為國安議題。白皮書指出，企業長期關注台灣電力供應可靠性，近期 AI 需求快速增加，也讓能源政策的穩定性與可預測性更加重要。 除了 AI 用電，科技領域策略合作也被列為重點。台灣美國"
+          "title": "【科技早餐】Microsoft 評估 DeepSeek 進 Copilot，ChatGPT、SpaceX 與 Intel 同步改寫 AI 戰局",
+          "link": "https://techorange.com/2026/06/18/microsoft-deepseek-copilot-ai-cost-chatgpt-spacex-intel/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-17T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊Microsoft 評估 DeepSeek 進 Copilot，低成本模型牽動美中角力 Microsoft 正評估把中國 AI 新創 DeepSeek 的模型，納入企業 AI 平台 Copilot Cowork，作為較低成本的模型選項。Microsoft 同時計畫讓 Copilot Cowork 改採依運算資源使用量計費，因應代理型 AI 工具普"
         },
         {
-          "title": "金融業押注 Agentic AI：從支付到授信的流程重組，這場效率革命背後有哪些治理挑戰？",
-          "link": "https://techorange.com/2026/06/16/why-the-finance-industry-is-looking-to-agentic-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-16T09:34:00+00:00",
-          "summary": "金融業對 AI 的想像，正在經歷一場典範轉移：從單純回答問題的 AI 助理，正式轉向能替使用者完成付款、交易、客服與銀行流程的自主系統。 在近期於阿姆斯特丹舉辦的 Money 20/20 Europe 會場上，具備自主執行能力的 Agentic AI（代理型 AI）成為金融科技產業最熱議的主題，也反映出銀行、支付公司與金融科技（fintech）新創正從過去的競爭關係，走向共同導入新技術的合作模式。"
+          "title": "放棄遠端遙控、捨棄人形設計：Genesis AI 如何用資料解決機器人發展瓶頸？",
+          "link": "https://techorange.com/2026/06/17/genesis-ai-unveiled-its-first-general-purpose-robot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-17T09:57:57+00:00",
+          "summary": "機器人新創 Genesis AI 推出其首款通用機器人 Eno，沒有頭、也沒有腿，採用輪式設計。另值得關注的是，這家公司放棄了業界常見的遠端遙控（teleoperation）路線，改以感測手套蒐集真人操作資料，同時自行打造模型、模擬器、資料平台與機器人本體。當整個產業仍在追逐人形機器人熱潮時，Genesis AI 想解決的核心問題之一是：通用機器人的資料，究竟從哪裡來？ 據《TNW》報導，這家新創"
         },
         {
-          "title": "小米把 Tesla 十年前沒做成的「充電蛇」推向家用車庫，無感充電成下一個 EV 競爭焦點",
-          "link": "https://techorange.com/2026/06/16/xiaomi-robotic-charging-arm-ev-home-garage-tesla-snake/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-16T09:15:18+00:00",
-          "summary": "雖然對多數電動車主而言，在家充電是相當便利的日常，但手動插拔沉重的充電線，仍是一件生活中的麻煩事。為了解決這個日常痛點，中國科技巨頭小米近期發表一款專為家用車庫設計的「自動充電機械臂」，目標是完全免除手動充電的步驟，實現車主將車輛停妥後，即可轉身離開的無縫體驗。 這項產品推出後，立刻讓市場聯想到馬斯克（Elon Musk）在 2014 年的言論。當時馬斯克表示，特斯拉正在開發一款充電器，會「自動從"
+          "title": "中國機器人產業加速打造 AI 大腦：阿里巴巴推出機器人套件，從導航到操作一手包辦",
+          "link": "https://techorange.com/2026/06/17/qwen-ai-robotsuite-source-chatgpt/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-17T09:30:00+00:00",
+          "summary": "阿里巴巴推出首套機器人 AI 模型「通義機器人套件」（Qwen Robot Suite），正式進軍實體 AI 市場。《南華早報》報導，隨著全球科技業積極推動 AI 從虛擬對話走向實體應用，阿里巴巴也希望透過新技術提升機器人的環境感知、推理決策與實際操作能力，搶占下一波人工智慧發展商機。 阿里巴巴推出通義機器人 AI 套件，瞄準實體 AI 新戰場 阿里巴巴表示，這套系統由旗下 AI 研發團隊通義實驗"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "迎戰金控 2.0！從數位銀行到 AI 原生銀行，玉山走在金融轉型最前線",
-          "link": "https://www.gvm.com.tw/article/130803",
-          "published": "2026-06-17T00:00:00",
-          "summary": "最新公布富比士（Forbes）2026 年「全球最佳銀行」排名，玉山銀行以便捷的數位金融與卓越客戶體驗，再次獲得高度肯定，連續六年蟬聯臺灣銀行業第一。玉山銀結合微軟雲端與 AI，打造金融 AI 原生新典範這份成績的背後，不只是服務升級，更代表玉山銀行早已將科技創新視為企業核心戰略。從數位轉型、核心系統重構、服務上雲，到如今積極擁抱生成式 AI，玉山始終站在金融科技變革浪潮的最前端，持續朝「AI 原"
+          "title": "擁有生物製程百年血統的Cytiva，如何協助臺灣生技業打造第二座護國神山？",
+          "link": "https://www.gvm.com.tw/article/130829",
+          "published": "2026-06-18T00:00:00",
+          "summary": "臺灣生技產業正處於邁向國際的關鍵路口。面對新藥開發的高昂成本與全球市場的殘酷競爭，許多業者雖具備新研發實力，卻受限於「規模化生產」、國際法規與大型跨國營運經驗，難以跨越的死亡之谷。當先進療法競速戰全面開打，擁有百年製程底蘊的領導品牌Cytiva（思拓凡）以「橋樑」與「陪跑者」的角色深耕臺灣。他們如何協助在地業者從研發起點佈局量產、接軌國際法規，攜手打造下一座揚名國際的生技護國神山？你或許難以想像，"
         },
         {
-          "title": "捐贈股票總市值逾6億元！李瑞華、何麗梅、陳美琪捐助政大仲尼基金",
-          "link": "https://www.gvm.com.tw/article/130892",
-          "published": "2026-06-16T18:59:00",
-          "summary": "國立政治大學成立仲尼基金，並在今（16）日舉辦股票捐贈儀式，由前台積電（2330）人資長暨政大教授李瑞華、前台積電資深副總何麗梅，以及勤誠興業（8210）董事長陳美琪，各自捐贈100張所屬公司股票給仲尼基金。今日台積電股價攀上2400元高價，合計本次捐贈股票的總市值已突破新台幣6億元，是政大史上最大的一筆股票捐贈。何麗梅指出，自己大學時拿清寒獎學金，現在也想幫助他人。她如何看好自己捐贈的台積電股票"
+          "title": "又一家隱形冠軍將上市！大鵬科靠技術打下歐洲智慧安防江山",
+          "link": "https://www.gvm.com.tw/article/130920",
+          "published": "2026-06-17T19:09:00",
+          "summary": "大鵬科技（7689）專注於無線通訊安防與遠距照護設備，為全球保全與照護業者提供智慧安全與遠距照護解決方案。目前在興櫃的大鵬科上市申請案已於昨（16）日通過，正準備辦理上市前現金增資，預計最快可於今年底之前上市。成立超過40年的大鵬科技（7689），在台灣是多數人幾乎沒有聽過的名字，但在歐洲專業保全市場名聲卻是響叮噹；高達95%的營收來自海外市場，其中光是歐洲地區的占比就高達六成，是典型的台股隱形冠"
         },
         {
-          "title": "馬高航線成航空公司「金雞母」，連江縣長吐露復航秘辛",
-          "link": "https://www.gvm.com.tw/article/130890",
-          "published": "2026-06-16T17:28:00",
-          "summary": "曾停航20年的馬高航線，2025年復活後竟成為華信航空的「黃金航線」，統計去年6月至10月的旅遊旺季，高雄飛馬祖（南竿）、馬祖（南竿）飛高雄的載客率均突破9成，讓航空公司願意今年再每週加開一班機。20年前的慘澹退場，到如今的金雞母，《遠見》專訪連江縣長王忠銘，透露馬高航線華麗轉身的背後秘辛。馬高航線並非新航線，早在2004年10月就曾開航，但營運不到半年，於2005年4月就宣布停航，原因就是當時的"
+          "title": "旅法導演回台拍攝故鄉故事！《明日的過客》探索重逢後微妙而複雜的情感",
+          "link": "https://www.gvm.com.tw/article/130919",
+          "published": "2026-06-17T18:52:00",
+          "summary": "電影《明日的過客》由旅法導演郭承衢執導，陳妤與侯彥西主演，故事從一場意外重逢展開。由《德布西森林》旅法導演郭承衢，睽違多年返台執導的都會愛情電影《明日的過客》，由金鐘女星陳妤與實力派男星侯彥西領銜主演，攜手新銳演員郭子豪、毛祁芸共同演出。本片去年於溫哥華影展世界首映後獲得熱烈迴響，隨後受邀至高雄電影節進行亞洲首映，如今再入選紐約亞洲電影節，持續受到國內外影壇關注。《明日的過客》故事從一場意外重逢展"
         },
         {
-          "title": "長成優秀大人，內心卻藏著疲憊孩子！心理師周慕姿：高功能者6大隱性創傷",
-          "link": "https://www.gvm.com.tw/article/130889",
-          "published": "2026-06-16T17:13:00",
-          "summary": "我們每個人，都是帶著「腳本」來到這個世界的。在諮商室與日常的多年觀察中，我發現許多來到我面前的「高功能者」──那些在職場卓越、在家庭負責、在外人眼中無堅不摧的靈魂，內心深處都藏著一個疲憊不堪的孩子。他們像是穿上了脫不掉的戰袍，或躲在透明的水晶棺材裡，雖然維持了環境的運作，卻也隔絕了真實的呼吸。（本文節錄自《高功能倖存者》一書，作者：周慕姿／寶瓶文化出版，以下為摘文。）對於長期高功能、親職化的孩子來"
+          "title": "新北暑假怎麼玩？2026九份紅燈籠祭、音樂節、沙雕活動一次看",
+          "link": "https://www.gvm.com.tw/article/130918",
+          "published": "2026-06-17T18:09:00",
+          "summary": "迎接2026年的熱情盛夏，新北市今年公布了「2026 Fun新北play一夏」活動完整檔期，地點囊括新北重要觀光據點如：淡水、八里、九份、福隆，活動類型則從沙雕展、音樂節到地方文化慶典，串聯逾20場接力舉辦。以下精選今年夏天新北市最具指標性的「六大必玩活動」，快速掌握夏日出遊的精華情報！【目錄】&nbsp;• 2026新北夏至音樂節• 2026新北市河海音樂季• 2026福隆國際沙雕藝術季• 20"
         },
         {
-          "title": "為什麼保齡球不再流行？保齡球館一間間熄燈，成為時代的眼淚",
-          "link": "https://www.gvm.com.tw/article/130878",
-          "published": "2026-06-16T17:05:00",
-          "summary": "台灣保齡球館最興盛時期，數量一度突破600家，幾乎每個縣市、每個大型商圈都能找到保齡球館的身影。如今，全台仍在營運的保齡球館已不到50家，經營一甲子的圓山保齡球館也悄悄停業，為什麼保齡球不再流行？試著回想，你上一次走進保齡球館，是什麼時候？對許多年輕世代而言，保齡球或許已經變得有些陌生，但對經歷過1980、1990年代的人來說，保齡球曾經是最時髦、最熱門，也最具代表性的社交娛樂之一。那是一個沒有智"
+          "title": "喪屍煙彈氾濫！「依托咪酯」改列第一級毒品，法務部：製販運最重可處死刑",
+          "link": "https://www.gvm.com.tw/article/130917",
+          "published": "2026-06-17T18:03:00",
+          "summary": "法務部表示，今天毒品審議委員會審議通過，將第二級毒品依托咪酯等提升為第一級毒品，全面提高依托咪酯類毒品刑責，其中製造、運輸、販賣第一級毒品，最重可處死刑。法務部發布新聞稿表示，鑑於當前「依托咪酯」類毒品氾濫，嚴重危害國人健康及社會安全，第12屆第2次毒品審議委員會會議今天召開，依毒品成癮性、濫用性及對社會危害性程度進行審議。根據新聞稿，毒品審議委員會審議通過，將第二級毒品依托咪酯、美托咪酯、丙帕酯"
         },
         {
-          "title": "Uber為何買不下foodpanda？控制權革命正在改寫商業規則",
-          "link": "https://www.gvm.com.tw/article/130887",
-          "published": "2026-06-16T16:57:00",
-          "summary": "編按：Uber Eats對foodpanda的併購案雖遭否決，外送平台的市場角力卻仍未停歇。當股權、投資與合作關係交錯，真正改變產業版圖的，或許已不只是誰擁有市場，更是誰能持續影響競爭規則與產業未來走向。2024年底，公平交易委員會以限制競爭不利益大於整體經濟利益為由，禁止Uber Eats併購foodpanda台灣業務。這項決定一度被視為替這場牽動消費者、外送員與餐飲業者的重大交易劃下句點。公平"
+          "title": "同事愛偷懶最讓人火大！聰明人為何反而感謝「薪水小偷」的存在？",
+          "link": "https://www.gvm.com.tw/article/113410",
+          "published": "2026-06-17T17:13:00",
+          "summary": "對於偷懶、裝忙或擺爛的人，其實主管和其他同事都看在眼裡。但也多虧有這樣的薪水小偷，能讓他人對認真工作的你有更高的評價，知道你是「很努力的人」、「工作能力很強」。如果你身邊都是能力出眾、表現優異的人，他們的鋒芒就會蓋過你，即使你再努力也很難被注意到。（本文節錄自《女子人際學》一書，作者：有川真由美，時報出版，以下為摘文。）如果你問40歲左右的工作者：「工作中最令你討厭的是哪種人？」絕大多數人的答案都"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "深化台歐盟職安衛合作攜手因應<b>氣候變遷</b>、勞動轉型| 科技產業 - 經濟日報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/11162/9571805%3Ffrom%3Dedn_related_storybottom&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2frGAhDrCVcIKTD2WEppPN",
-          "published": "2026-06-17T04:34:15+00:00",
-          "summary": "雙方代表透過深入交流與經驗分享，達成多項具體共識，展現共同打造安全、健康工作環境的決心。 洪申翰致詞指出，EU-OSHA是勞動部在職安衛領域&nbsp;..."
+          "title": "亞東預拌成立低碳永續供應鏈聯盟新推「LoopCon岡固」低碳混凝土品牌",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/6a336d47de5d6e5504a004fe&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3crw6xe4WJl3v8kOyrtGQo",
+          "published": "2026-06-18T04:03:30+00:00",
+          "summary": "因應全球淨零排放與永續建築發展趨勢，亞泥（1102）旗下亞東預拌公司17日舉辦「2026亞東低碳永續供應鏈聯盟大會」，正..."
         },
         {
-          "title": "中分署助企業培育AI與<b>淨零</b>人才建立自主辦訓能力迎接轉型挑戰| 中廣新聞網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/j7KGwm2&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2GSk6T3_zlgNKIXGkH3ZLO",
-          "published": "2026-06-17T03:57:41+00:00",
-          "summary": "因應AI快速發展及全球淨零轉型趨勢，強化員工技能，成為企業提升競爭力的重要課題。勞動部勞動力發展署中彰投分署推動「小型企業人力提升計畫」及「..."
+          "title": "亞東預拌成立低碳永續供應鏈聯盟冀推動<b>淨零</b>轉型",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/0M7XNVj&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1mwzRsxZNjIUiWdpMDRdYQ",
+          "published": "2026-06-18T03:35:58+00:00",
+          "summary": "MoneyDJ新聞2026-06-18 10:03:16 新聞中心發佈因應全球淨零排放與永續建築發展趨勢，亞東預拌於昨(17)日舉辦「..."
         },
         {
-          "title": "凱基銀行7分行減碳專案獲准落實<b>淨零</b>行動再添成果| 中央社訊息平台",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/postwrite/chi/436601&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2hsOoL4AEk0namqMsKvQ96",
-          "published": "2026-06-17T03:29:00+00:00",
-          "summary": "凱基銀行響應全球淨零排放，積極推動永續發展。凱基銀行今（17）日宣布，日前成功以嘉義、台東、花蓮、豐原、彰化、歸仁和鳳山等7家分行申請通過自願減量專案，&nbsp;..."
+          "title": "推動清潔能源發展與<b>碳中和</b>目標的實現 - 群益期貨",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.capitalfutures.com.tw/zh-tw/Financial/BreakingNewsArticle%3FContentId%3DC26061800664&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1IDb0uQvCCF02yC9l4jhML",
+          "published": "2026-06-18T03:08:35+00:00",
+          "summary": "【國家發改委：加快實現新增清潔能源發電量覆蓋全社會新增用電需求】6月18日訊，6月18日，國家發展改革委政策研究室副主任、新聞發言人李超在新聞發佈會上表示，&nbsp;..."
         },
         {
-          "title": "深化臺歐盟職安衛合作！洪申翰部長率團赴西班牙與EU-OSHA攜手因應<b>氣候變遷</b>與勞動轉型 ...",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.mol.gov.tw/1607/1632/1633/93026/post&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1WyQfYUWt_p4p7cPabHBKV",
-          "published": "2026-06-17T02:46:09+00:00",
-          "summary": "本次會議由雙方首長共同主持，不僅展現臺灣對國際職安衛合作的高度重視，也為臺歐實質合作開啟新的里程碑。 本屆會議聚焦全球職場共同面臨的兩項重要議題：「氣候&nbsp;..."
+          "title": "印度紡織廠高溫難耐氣候變化加劇工人困境 - 巴士的報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bastillepost.com/hongkong/article/16190608-%25E5%258D%25B0%25E5%25BA%25A6%25E7%25B4%25A1%25E7%25B9%2594%25E5%25BB%25A0%25E9%25AB%2598%25E6%25BA%25AB%25E9%259B%25A3%25E8%2580%2590-%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E5%258C%2596%25E5%258A%25A0%25E5%258A%2587%25E5%25B7%25A5%25E4%25BA%25BA%25E5%259B%25B0%25E5%25A2%2583&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1sKn3c69jMW6_OqdkLYti8",
+          "published": "2026-06-18T02:37:05+00:00",
+          "summary": "印度蘇拉特紡織廠工人長期在高溫高濕環境下工作，氣候變化導致氣溫上升，加劇工人困境。儘管部分工廠安裝降溫設備，但效果有限，加上經濟壓力，廠主投資意願不高&nbsp;..."
         },
         {
-          "title": "力挺中小企業與<b>淨零</b>轉型兆豐銀行再獲金管會四項大獎肯定 - 中華日報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cdns.com.tw/articles/1416787&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw16Ojb1-Y_Fu3HS_i7XHhw6",
-          "published": "2026-06-17T02:44:50+00:00",
-          "summary": "記者陳建興／台北報導兆豐銀行展現政策金融領航實力，在金管會舉辦的「本國銀行總經理第61次業務聯繫會議及表揚典禮」中，榮獲頒發「辦理中小企業放款方案績優&nbsp;..."
+          "title": "高雄推企業低碳轉型示範計畫診斷、媒合、補助三箭齊發助攻減碳 - 波新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bo6s.com.tw/news_detail.php%3FNewsID%3D113027&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1D9cfkfYREL5Ru0zyN4_kM",
+          "published": "2026-06-18T01:43:12+00:00",
+          "summary": "波新聞─李至文／高雄因應淨零排放與國際供應鏈減碳趨勢，高雄市經發局推出「115年高雄市企業低碳轉型示範計畫」，透過專家診斷、技術媒合以及設備改善補助三箭&nbsp;..."
         },
         {
-          "title": "鴻海於河內舉辦綠色能源論壇構築越南綠色供應鏈韌性- 鴻海科技集團",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.foxconn.com/zh-tw/press-center/events/csr-events/2066&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1Fb2hBcHqZmsthCfQIQuFp",
-          "published": "2026-06-17T02:28:15+00:00",
-          "summary": "... 淨零排放願景。 本次河內論壇邀請Brookfield、亞洲潔淨能源聯盟(ACEC)、 Reset Carbon、 Schneider Electric Advisory等產業與技術專家，共同針對越南最新&nbsp;..."
+          "title": "Tokai Gas supports local events in achieving <b>carbon neutrality</b> through its community co ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.futunn.com/en/post/74754246/tokai-tokai-gas-supports-local-events-in-achieving-carbon-neutrality&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1k2k7iEyFfv06gxcjpvpQP",
+          "published": "2026-06-18T01:33:42+00:00",
+          "summary": "TOKAI — Tokai Gas supports local events in achieving carbon neutrality through its community co-creation carbon offset program. ... net-zero CO2&nbsp;..."
         }
       ]
     }
