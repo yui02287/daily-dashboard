@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-06-18T05:55:13.963144+00:00",
-    "date": "2026-06-18",
+    "generated_at": "2026-06-19T06:20:15.702273+00:00",
+    "date": "2026-06-19",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -11,6 +11,24 @@
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
       "items": [
+        {
+          "title": "NVIDIA 把機器人實驗交給 AI 代理：研究速度的瓶頸，原來不只是演算法",
+          "link": "https://techorange.com/2026/06/18/nvidia-enpire-ai-robotics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-18T11:01:06+00:00",
+          "summary": "過去兩年，AI 產業最重要的變化之一，是 AI 開始參與軟體開發本身：從 OpenAI 的 Codex、Anthropic 的 Claude Code，到近期快速崛起的各類 AI Coding Agent，這些工具不再只是回答問題，而是能閱讀程式碼、撰寫程式、執行測試、修正錯誤，甚至在有限範圍內完成整個開發循環。如今，這股「AI 研發 AI」的趨勢正開始從數位世界延伸到實體世界。 NVIDIA G"
+        },
+        {
+          "title": "全球首創：愛沙尼亞預計啟動 AI 代理人專屬數位身分，能終結「借用人類帳號」治理難題？",
+          "link": "https://techorange.com/2026/06/18/estonia-ai-agents-personal-id-numbers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-18T10:30:06+00:00",
+          "summary": "AI 代理要替使用者執行任務，通常必須以使用者本人的帳號登入，幾乎等同取得其所有系統權限。愛沙尼亞共和國（Republic of Estonia）希望改變這種做法，終結 AI 代理必須「借用人類身分」運作的模式。 愛沙尼亞總理 Kristen Michal 在 6 月 17 日核准國家 AI 顧問委員會 Eesti.ai 提出的相關構想，計畫為 AI 助手核發專屬個人識別號碼（ID），將使該國成為"
+        },
+        {
+          "title": "世界模型迎來 GPT-3 時刻？新創 Odyssey 獲亞馬遜、NVIDIA 等投資，將採用 Trainium AI 晶片",
+          "link": "https://techorange.com/2026/06/18/odyssey-amazon-transform-ai-model-simulation/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-18T10:23:44+00:00",
+          "summary": "AI 新創公司 Odyssey 宣布完成 3.1 億美元融資。根據《Financial Times》報導，參與投資的企業包括亞馬遜，反映其持續加強在世界模型（World Models）技術上的布局。這類模型透過學習物理規律與環境互動關係，讓 AI 能夠理解並模擬真實世界，未來可望應用於機器人、自動駕駛及遊戲開發等領域。 Odyssey 完成募資後，公司估值達 14.5 億美元。除了亞馬遜之外，本輪"
+        },
         {
           "title": "川普對 Anthropic 禁令引爆 G7 角力：AI 出口管制戰場，已從晶片變「誰能用模型」",
           "link": "https://techorange.com/2026/06/18/anthropic-ai-g7/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -22,30 +40,6 @@
           "link": "https://techorange.com/2026/06/18/world-cup-google-gemini-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
           "published": "2026-06-18T01:39:58+00:00",
           "summary": "隨著 2026 年 FIFA 世界盃足球賽開踢，由 Google 主導的消費級 AI 產品 Gemini，以及能將球迷面貌轉化為門票驗證與入場方式的生物辨識，正在成為全新的焦點。"
-        },
-        {
-          "title": "【DEAT 專欄】城市治理的新拼圖：數位平台正在成為治理夥伴",
-          "link": "https://techorange.com/2026/06/18/deat-urban-governance/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-18T00:02:00+00:00",
-          "summary": "文／台灣數位平台經濟協會（DEAT） 如果要形容一座城市的數位發展，你會想到什麼？ 是路邊的智慧站牌、免費 Wi-Fi、線上申辦服務，還是手機裡各種早已融入生活的 App？過去談到智慧城市，人們往往先想到各種數位建設與科技設備。但當這些基礎條件逐漸普及之後，一個新的問題開始浮現：當每個城市都擁有相近的數位基礎條件，未來的競爭力將由什麼決定？ 台灣數位平台經濟協會（DEAT）與政治大學公共行政學系共"
-        },
-        {
-          "title": "【科技早餐】Microsoft 評估 DeepSeek 進 Copilot，ChatGPT、SpaceX 與 Intel 同步改寫 AI 戰局",
-          "link": "https://techorange.com/2026/06/18/microsoft-deepseek-copilot-ai-cost-chatgpt-spacex-intel/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-17T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊Microsoft 評估 DeepSeek 進 Copilot，低成本模型牽動美中角力 Microsoft 正評估把中國 AI 新創 DeepSeek 的模型，納入企業 AI 平台 Copilot Cowork，作為較低成本的模型選項。Microsoft 同時計畫讓 Copilot Cowork 改採依運算資源使用量計費，因應代理型 AI 工具普"
-        },
-        {
-          "title": "放棄遠端遙控、捨棄人形設計：Genesis AI 如何用資料解決機器人發展瓶頸？",
-          "link": "https://techorange.com/2026/06/17/genesis-ai-unveiled-its-first-general-purpose-robot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-17T09:57:57+00:00",
-          "summary": "機器人新創 Genesis AI 推出其首款通用機器人 Eno，沒有頭、也沒有腿，採用輪式設計。另值得關注的是，這家公司放棄了業界常見的遠端遙控（teleoperation）路線，改以感測手套蒐集真人操作資料，同時自行打造模型、模擬器、資料平台與機器人本體。當整個產業仍在追逐人形機器人熱潮時，Genesis AI 想解決的核心問題之一是：通用機器人的資料，究竟從哪裡來？ 據《TNW》報導，這家新創"
-        },
-        {
-          "title": "中國機器人產業加速打造 AI 大腦：阿里巴巴推出機器人套件，從導航到操作一手包辦",
-          "link": "https://techorange.com/2026/06/17/qwen-ai-robotsuite-source-chatgpt/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-17T09:30:00+00:00",
-          "summary": "阿里巴巴推出首套機器人 AI 模型「通義機器人套件」（Qwen Robot Suite），正式進軍實體 AI 市場。《南華早報》報導，隨著全球科技業積極推動 AI 從虛擬對話走向實體應用，阿里巴巴也希望透過新技術提升機器人的環境感知、推理決策與實際操作能力，搶占下一波人工智慧發展商機。 阿里巴巴推出通義機器人 AI 套件，瞄準實體 AI 新戰場 阿里巴巴表示，這套系統由旗下 AI 研發團隊通義實驗"
         }
       ]
     },
@@ -54,40 +48,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "擁有生物製程百年血統的Cytiva，如何協助臺灣生技業打造第二座護國神山？",
-          "link": "https://www.gvm.com.tw/article/130829",
-          "published": "2026-06-18T00:00:00",
-          "summary": "臺灣生技產業正處於邁向國際的關鍵路口。面對新藥開發的高昂成本與全球市場的殘酷競爭，許多業者雖具備新研發實力，卻受限於「規模化生產」、國際法規與大型跨國營運經驗，難以跨越的死亡之谷。當先進療法競速戰全面開打，擁有百年製程底蘊的領導品牌Cytiva（思拓凡）以「橋樑」與「陪跑者」的角色深耕臺灣。他們如何協助在地業者從研發起點佈局量產、接軌國際法規，攜手打造下一座揚名國際的生技護國神山？你或許難以想像，"
+          "title": "內臟脂肪高、腰圍變粗也會傷腦！研究：40至45歲肥胖者失智風險增74%",
+          "link": "https://www.gvm.com.tw/article/130925",
+          "published": "2026-06-19T07:00:00",
+          "summary": "台灣超高齡社會來臨，失智海嘯來襲，醫師提醒中年腰圍變粗，就等於替大腦多上一層「霧」，美國研究發現40至45歲族群過重者失智風險增加45%、肥胖者失智風險更增加至74%。台灣臨床失智症協會理事長徐榮隆15日告訴中央社記者，失智症並非單一疾病，而是影響腦部功能的一組疾病總稱，主要包括退化性失智症（如阿茲海默症）與血管性失智症。前者是腦細胞逐漸受損，後者則與腦部供血不良有關。整體而言，約7成失智症與代謝"
         },
         {
-          "title": "又一家隱形冠軍將上市！大鵬科靠技術打下歐洲智慧安防江山",
-          "link": "https://www.gvm.com.tw/article/130920",
-          "published": "2026-06-17T19:09:00",
-          "summary": "大鵬科技（7689）專注於無線通訊安防與遠距照護設備，為全球保全與照護業者提供智慧安全與遠距照護解決方案。目前在興櫃的大鵬科上市申請案已於昨（16）日通過，正準備辦理上市前現金增資，預計最快可於今年底之前上市。成立超過40年的大鵬科技（7689），在台灣是多數人幾乎沒有聽過的名字，但在歐洲專業保全市場名聲卻是響叮噹；高達95%的營收來自海外市場，其中光是歐洲地區的占比就高達六成，是典型的台股隱形冠"
+          "title": "誰都沒義務照顧巨嬰！如何堅守自己的界限？不如現在就讓他「心理斷奶」",
+          "link": "https://www.gvm.com.tw/article/74459",
+          "published": "2026-06-18T20:25:00",
+          "summary": "最近一直在思考一個問題：是什麼讓你認為，我每天靜靜躺在你的好友列表或通訊錄裡，就是隨時等待你召喚，為你排憂解難的呢？（本文摘自《我們心裡都有病》一書，作者：大將軍郭，以下為摘文。）最近的留言太多，因為精力有限，所以我決定讓這些訊息石沉大海，我可能永不回覆。有人問我為什麼不回，是不是生病了？ 事實上，我並沒有不舒服，體溫隨夏天到來自然上升了0.2度，內分泌正常，胃口很好，心跳依然維持在每分鐘75下左"
         },
         {
-          "title": "旅法導演回台拍攝故鄉故事！《明日的過客》探索重逢後微妙而複雜的情感",
-          "link": "https://www.gvm.com.tw/article/130919",
-          "published": "2026-06-17T18:52:00",
-          "summary": "電影《明日的過客》由旅法導演郭承衢執導，陳妤與侯彥西主演，故事從一場意外重逢展開。由《德布西森林》旅法導演郭承衢，睽違多年返台執導的都會愛情電影《明日的過客》，由金鐘女星陳妤與實力派男星侯彥西領銜主演，攜手新銳演員郭子豪、毛祁芸共同演出。本片去年於溫哥華影展世界首映後獲得熱烈迴響，隨後受邀至高雄電影節進行亞洲首映，如今再入選紐約亞洲電影節，持續受到國內外影壇關注。《明日的過客》故事從一場意外重逢展"
+          "title": "6/21夏至陽氣最旺卻最「傷心」？醫師提醒「4大關鍵」預防身心失衡",
+          "link": "https://www.gvm.com.tw/article/122131",
+          "published": "2026-06-18T20:15:00",
+          "summary": "6月21日為24節氣中的「夏至」，是一年之中白晝最長、陽氣最盛的時節，也是一個陰陽交替的臨界點，若不留心調節，容易招致身心失衡。知名身心靈預防醫學專家，洛桑加參醫師歸納出4大關鍵修煉、5項預防原則，提醒讀者在夏至之時守護身心健康。（本文節錄自《靜心・淨心》一書，作者：洛桑加參，時報出版，以下為摘文。）6/21夏至是一年之中白晝最長、陽氣最盛的時節。陽氣強盛到什麼程度？在北極圈內，你可以整天看到太陽"
         },
         {
-          "title": "新北暑假怎麼玩？2026九份紅燈籠祭、音樂節、沙雕活動一次看",
-          "link": "https://www.gvm.com.tw/article/130918",
-          "published": "2026-06-17T18:09:00",
-          "summary": "迎接2026年的熱情盛夏，新北市今年公布了「2026 Fun新北play一夏」活動完整檔期，地點囊括新北重要觀光據點如：淡水、八里、九份、福隆，活動類型則從沙雕展、音樂節到地方文化慶典，串聯逾20場接力舉辦。以下精選今年夏天新北市最具指標性的「六大必玩活動」，快速掌握夏日出遊的精華情報！【目錄】&nbsp;• 2026新北夏至音樂節• 2026新北市河海音樂季• 2026福隆國際沙雕藝術季• 20"
+          "title": "高階主管都在學「3週習慣養成法」：讓大腦GPS帶你養出好習慣的複利效應",
+          "link": "https://www.gvm.com.tw/article/130952",
+          "published": "2026-06-18T19:53:00",
+          "summary": "為什麼至今你已嘗試過各種養成習慣的方法，卻總是不順利呢？原因就出在：「一開始就想要長期堅持。」這套3週習慣養成法則，能為做事經常半途而廢的你，建立方向、節奏與回彈力，不再持續卡在原點。習慣還會產生複利效應：養成一個好習慣就猶如「第一塊骨牌」，進而產生養成其他各種好習慣的力量。（本文節錄自《最強3週習慣養成法》一書，作者：名鄉根修／時報出版，以下為摘文。）早起、減重、運動、閱讀、理財、戒煙、學語言…"
         },
         {
-          "title": "喪屍煙彈氾濫！「依托咪酯」改列第一級毒品，法務部：製販運最重可處死刑",
-          "link": "https://www.gvm.com.tw/article/130917",
-          "published": "2026-06-17T18:03:00",
-          "summary": "法務部表示，今天毒品審議委員會審議通過，將第二級毒品依托咪酯等提升為第一級毒品，全面提高依托咪酯類毒品刑責，其中製造、運輸、販賣第一級毒品，最重可處死刑。法務部發布新聞稿表示，鑑於當前「依托咪酯」類毒品氾濫，嚴重危害國人健康及社會安全，第12屆第2次毒品審議委員會會議今天召開，依毒品成癮性、濫用性及對社會危害性程度進行審議。根據新聞稿，毒品審議委員會審議通過，將第二級毒品依托咪酯、美托咪酯、丙帕酯"
+          "title": "你的「Comfort Food」是什麼？從飲食看見內心需求：吃一口療癒的不只味蕾",
+          "link": "https://www.gvm.com.tw/article/130951",
+          "published": "2026-06-18T19:24:00",
+          "summary": "經過我多年來的觀察所得，屬於我們的「ComfortFood」，很多時間都不是人見人愛、大眾都會讚好的「美食」，「ComfortFood」可以純粹是一種個人喜好，甚至癖好，可以是一些對你充滿特殊意義的食物，這些食物的主要功效，就是「安慰」我們的心靈，甚至承載著回憶、情感與安全感。（本文節錄自《回憶中的香港味道》一書，作者：何故／時報出版，以下為摘文。）我是車老師，我是一個「食育師」。一個以美食來教育"
         },
         {
-          "title": "同事愛偷懶最讓人火大！聰明人為何反而感謝「薪水小偷」的存在？",
-          "link": "https://www.gvm.com.tw/article/113410",
-          "published": "2026-06-17T17:13:00",
-          "summary": "對於偷懶、裝忙或擺爛的人，其實主管和其他同事都看在眼裡。但也多虧有這樣的薪水小偷，能讓他人對認真工作的你有更高的評價，知道你是「很努力的人」、「工作能力很強」。如果你身邊都是能力出眾、表現優異的人，他們的鋒芒就會蓋過你，即使你再努力也很難被注意到。（本文節錄自《女子人際學》一書，作者：有川真由美，時報出版，以下為摘文。）如果你問40歲左右的工作者：「工作中最令你討厭的是哪種人？」絕大多數人的答案都"
+          "title": "今日的價格不再是昨日的價格！成功人士金錢決策：真正的財富升級，從「放棄」開始",
+          "link": "https://www.gvm.com.tw/article/130950",
+          "published": "2026-06-18T18:42:00",
+          "summary": "在追求職涯晉升與財富積累的過程中，許多人常陷入「成長陷阱」，依循過去的成功法則而忽略了環境變遷。從「經營之神」松下幸之助的職涯轉折，到機會成本的思維運用，都揭示了一個重要道理：昨天有效的方法，未必適用今天。當你的身價提升，時間的價值也該重新定價。（本文節錄自《財富階梯》一書，作者：尼克．馬朱利／商業周刊出版，以下為摘文。）松下幸之助出生於1894 年，在家中的八個孩子中排行老么，在日本大阪南部和歌"
         }
       ]
     },
@@ -96,40 +90,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "亞東預拌成立低碳永續供應鏈聯盟新推「LoopCon岡固」低碳混凝土品牌",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/6a336d47de5d6e5504a004fe&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3crw6xe4WJl3v8kOyrtGQo",
-          "published": "2026-06-18T04:03:30+00:00",
-          "summary": "因應全球淨零排放與永續建築發展趨勢，亞泥（1102）旗下亞東預拌公司17日舉辦「2026亞東低碳永續供應鏈聯盟大會」，正..."
+          "title": "擴大<b>淨零</b>綠領人才培育環境部即日起推新優惠| 青年日報 - LINE TODAY",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/PGeoyKr&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0hi4JA_btab3-X9rUoHdVQ",
+          "published": "2026-06-19T05:28:42+00:00",
+          "summary": "課程內容涵蓋「氣候變遷與溫室氣體管理、溫室氣體盤查、自願減量及產品碳足跡」等，並納入歐盟碳邊境調整機制（CBAM）、碳費及我國即將試辦的碳排放交易（ETS）等最新&nbsp;..."
         },
         {
-          "title": "亞東預拌成立低碳永續供應鏈聯盟冀推動<b>淨零</b>轉型",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/0M7XNVj&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1mwzRsxZNjIUiWdpMDRdYQ",
-          "published": "2026-06-18T03:35:58+00:00",
-          "summary": "MoneyDJ新聞2026-06-18 10:03:16 新聞中心發佈因應全球淨零排放與永續建築發展趨勢，亞東預拌於昨(17)日舉辦「..."
+          "title": "擴大<b>淨零</b>綠領人才培育！環境部推學費新優惠：環境教育人員享半額補助",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/page/3b3c62c78849f32f/127aca60-ba58-4195-9701-33409ccbdd36&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw08hvCCk8q2iW7msyV-0RNM",
+          "published": "2026-06-19T03:21:39+00:00",
+          "summary": "課程內容涵蓋氣候變遷與溫室氣體管理、溫室氣體盤查、自願減量及產品碳足跡，並納入歐盟碳邊境調整機制(CBAM)、碳費及我國即將試辦的碳排放交易(ETS)等最新&nbsp;..."
         },
         {
-          "title": "推動清潔能源發展與<b>碳中和</b>目標的實現 - 群益期貨",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.capitalfutures.com.tw/zh-tw/Financial/BreakingNewsArticle%3FContentId%3DC26061800664&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1IDb0uQvCCF02yC9l4jhML",
-          "published": "2026-06-18T03:08:35+00:00",
-          "summary": "【國家發改委：加快實現新增清潔能源發電量覆蓋全社會新增用電需求】6月18日訊，6月18日，國家發展改革委政策研究室副主任、新聞發言人李超在新聞發佈會上表示，&nbsp;..."
+          "title": "吉利遠程綠色智慧交通解決方案亮相香港車博會",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=http://hkcna.hk/docDetail.jsp%3Fid%3D101349613%26channel%3D2803&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw34h-lHzHq57yWmgr7HHOAX",
+          "published": "2026-06-19T03:07:23+00:00",
+          "summary": "作為全球新能源商用車引領者，吉利遠程新能源商用車攜“甲醇電動+純電動”技術路線全產品矩陣連續第二年亮相，覆蓋公共出行、城市物流、無人車、輪渡船舶、應急發電&nbsp;..."
         },
         {
-          "title": "印度紡織廠高溫難耐氣候變化加劇工人困境 - 巴士的報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bastillepost.com/hongkong/article/16190608-%25E5%258D%25B0%25E5%25BA%25A6%25E7%25B4%25A1%25E7%25B9%2594%25E5%25BB%25A0%25E9%25AB%2598%25E6%25BA%25AB%25E9%259B%25A3%25E8%2580%2590-%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E5%258C%2596%25E5%258A%25A0%25E5%258A%2587%25E5%25B7%25A5%25E4%25BA%25BA%25E5%259B%25B0%25E5%25A2%2583&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1sKn3c69jMW6_OqdkLYti8",
-          "published": "2026-06-18T02:37:05+00:00",
-          "summary": "印度蘇拉特紡織廠工人長期在高溫高濕環境下工作，氣候變化導致氣溫上升，加劇工人困境。儘管部分工廠安裝降溫設備，但效果有限，加上經濟壓力，廠主投資意願不高&nbsp;..."
+          "title": "碳定價驅動氣候行動彭啓明：台灣以多元碳定價組合接軌國際、加速<b>淨零</b>",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/page/3b3c62c78849f32f/e996c571-beb5-4a27-b6bf-a062699944ba&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3QCoOJiLiLff6czBTZOWOT",
+          "published": "2026-06-19T02:04:02+00:00",
+          "summary": "彭部長說明，台灣將以碳費奠定治理基礎，逐步推進總量管制排放交易制度。環境部規劃於115年下半年提出ETS試行計畫，並見證臺灣碳權交易所與歐洲能源交易所（EEX）合作&nbsp;..."
         },
         {
-          "title": "高雄推企業低碳轉型示範計畫診斷、媒合、補助三箭齊發助攻減碳 - 波新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bo6s.com.tw/news_detail.php%3FNewsID%3D113027&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1D9cfkfYREL5Ru0zyN4_kM",
-          "published": "2026-06-18T01:43:12+00:00",
-          "summary": "波新聞─李至文／高雄因應淨零排放與國際供應鏈減碳趨勢，高雄市經發局推出「115年高雄市企業低碳轉型示範計畫」，透過專家診斷、技術媒合以及設備改善補助三箭&nbsp;..."
+          "title": "新住民全球新聞網-國環院綠領人才專區上線53家企業響應招募",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.immigration.gov.tw/NewsSection/Detail/481d02ce-8cc7-4c3d-ae5f-6398e458b761&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3dxoiqU2yNCBaSHYHcDULJ",
+          "published": "2026-06-19T01:54:52+00:00",
+          "summary": "... 環境部國家環境研究院攜手104人力銀行建置「淨零綠領人才企業認同專區」，協助企業媒合具備淨零與永續專業能力的人才。（圖／envato / AtlasComposer&nbsp;..."
         },
         {
-          "title": "Tokai Gas supports local events in achieving <b>carbon neutrality</b> through its community co ...",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.futunn.com/en/post/74754246/tokai-tokai-gas-supports-local-events-in-achieving-carbon-neutrality&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1k2k7iEyFfv06gxcjpvpQP",
-          "published": "2026-06-18T01:33:42+00:00",
-          "summary": "TOKAI — Tokai Gas supports local events in achieving carbon neutrality through its community co-creation carbon offset program. ... net-zero CO2&nbsp;..."
+          "title": "Xtrackers<b>淨零</b>路徑ETF宣佈每季派息0.1154美元，投資者關注收益機會！ - 理財寶",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/notes/note-detail.aspx%3Fnid%3D1220582&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2z8K7SeoIfnOatiimjulRQ",
+          "published": "2026-06-18T23:18:52+00:00",
+          "summary": "Xtrackers Net Zero Pathway Paris Aligned US Equity ETF宣佈將於6月26日 ... 隨著全球對於碳中和及可持續發展的重視，Xtrackers的淨零路徑ETF正是&nbsp;..."
         }
       ]
     }
