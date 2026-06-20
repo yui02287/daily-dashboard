@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-06-19T06:20:15.702273+00:00",
-    "date": "2026-06-19",
+    "generated_at": "2026-06-20T05:14:12.620047+00:00",
+    "date": "2026-06-20",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,34 +12,10 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "NVIDIA 把機器人實驗交給 AI 代理：研究速度的瓶頸，原來不只是演算法",
-          "link": "https://techorange.com/2026/06/18/nvidia-enpire-ai-robotics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-18T11:01:06+00:00",
-          "summary": "過去兩年，AI 產業最重要的變化之一，是 AI 開始參與軟體開發本身：從 OpenAI 的 Codex、Anthropic 的 Claude Code，到近期快速崛起的各類 AI Coding Agent，這些工具不再只是回答問題，而是能閱讀程式碼、撰寫程式、執行測試、修正錯誤，甚至在有限範圍內完成整個開發循環。如今，這股「AI 研發 AI」的趨勢正開始從數位世界延伸到實體世界。 NVIDIA G"
-        },
-        {
-          "title": "全球首創：愛沙尼亞預計啟動 AI 代理人專屬數位身分，能終結「借用人類帳號」治理難題？",
-          "link": "https://techorange.com/2026/06/18/estonia-ai-agents-personal-id-numbers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-18T10:30:06+00:00",
-          "summary": "AI 代理要替使用者執行任務，通常必須以使用者本人的帳號登入，幾乎等同取得其所有系統權限。愛沙尼亞共和國（Republic of Estonia）希望改變這種做法，終結 AI 代理必須「借用人類身分」運作的模式。 愛沙尼亞總理 Kristen Michal 在 6 月 17 日核准國家 AI 顧問委員會 Eesti.ai 提出的相關構想，計畫為 AI 助手核發專屬個人識別號碼（ID），將使該國成為"
-        },
-        {
-          "title": "世界模型迎來 GPT-3 時刻？新創 Odyssey 獲亞馬遜、NVIDIA 等投資，將採用 Trainium AI 晶片",
-          "link": "https://techorange.com/2026/06/18/odyssey-amazon-transform-ai-model-simulation/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-18T10:23:44+00:00",
-          "summary": "AI 新創公司 Odyssey 宣布完成 3.1 億美元融資。根據《Financial Times》報導，參與投資的企業包括亞馬遜，反映其持續加強在世界模型（World Models）技術上的布局。這類模型透過學習物理規律與環境互動關係，讓 AI 能夠理解並模擬真實世界，未來可望應用於機器人、自動駕駛及遊戲開發等領域。 Odyssey 完成募資後，公司估值達 14.5 億美元。除了亞馬遜之外，本輪"
-        },
-        {
-          "title": "川普對 Anthropic 禁令引爆 G7 角力：AI 出口管制戰場，已從晶片變「誰能用模型」",
-          "link": "https://techorange.com/2026/06/18/anthropic-ai-g7/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-18T04:15:58+00:00",
-          "summary": "過去談 AI 出口管制，主角多半是 NVIDIA 的高階晶片；如今被擋下的，換成了 AI 模型本身。美國上週以國家安全為由，要求 Anthropic 限制海外用戶存取最先進的 Mythos 5 與 Fable 5 模型。這道禁令在本週於法國舉行的 G7 峰會上成為焦點，被推上檯面的問題，已經不只是這些模型安不安全，而是未來誰有權決定先進 AI 模型如何跨越國界流通。 從晶片到模型：被「一鍵關掉」的"
-        },
-        {
-          "title": "2026 世界盃的科技戰略：AI 與生物辨識從賽事亮點，變成常態監控基礎設施",
-          "link": "https://techorange.com/2026/06/18/world-cup-google-gemini-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-18T01:39:58+00:00",
-          "summary": "隨著 2026 年 FIFA 世界盃足球賽開踢，由 Google 主導的消費級 AI 產品 Gemini，以及能將球迷面貌轉化為門票驗證與入場方式的生物辨識，正在成為全新的焦點。"
+          "title": "【2026 網路安全創投趨勢】告別單點防禦工具，「AI 原生資安架構」正在改寫估值邏輯",
+          "link": "https://techorange.com/2026/06/20/cybersecurity-vc-trends/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-19T22:29:00+00:00",
+          "summary": "金融資料與研究平台公司 PitchBook 發佈《2026 年第一季網路安全創投趨勢》報告，梳理了全球資安資金的最新動態與產業變革；從數據可觀察到，即便整體創投交易件數來到近年新低，總投資金額卻依然穩健。 市場資金不再平均分散於單一功能的防禦工具，而是加速集中到少數具備 AI 原生架構與平台整合能力的強勢供應商身上。 以下從資金分佈與併購動態摘要出決策視角，了解目前資金高度集中的三大資安防禦熱區，"
         }
       ]
     },
@@ -48,40 +24,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
+          "title": "橋水創辦人：我12歲就炒股討厭背課本，但建議兩件事仍得學",
+          "link": "https://www.gvm.com.tw/article/130909",
+          "published": "2026-06-19T16:00:00",
+          "summary": "身價154億美元、全球最大對沖基金橋水的創辦人瑞．達利歐（Ray Dalio），近期回到母校長島大學發表畢業演講，影片上線後在社群上瘋傳，許多網友表示看到眼眶泛紅。白手起家的他，針對近期許多人熱衷快速致富提出看法，並以切身經歷從當「少年股神」、後來被市場教訓慘虧、以及家人意外等事件，回頭領悟出兩樣死背課本找不到的東西，是他自認最值得送給大學畢業生的禮物。這位甚有智慧的投資大師怎麼說？今年5月，76"
+        },
+        {
+          "title": "Codex簡報教學：PPT圖文全可改，附資安技巧",
+          "link": "https://www.gvm.com.tw/article/130831",
+          "published": "2026-06-19T15:07:00",
+          "summary": "OpenAI的Codex是近期打造AI Agent的熱門選擇，無論是整理資料、做網頁或排行程，都可以在與Codex對話後輕鬆完成。作為各種文書工作的得力助手，許多人不知道Codex也很適合用來「做簡報PPT」，將雜亂的數據變成清晰圖表，且圖文皆可編輯，這一點更勝NotebookLM。本文拆解用Codex做簡報的步驟，並附上新手需多留意的資安保護技巧。目錄&nbsp;● Codex 是什麼？怎麼用？"
+        },
+        {
+          "title": "2026FIFA世界盃》世界盃足球賽賽程資訊全攻略！參賽國家、分組名單、比賽賽制、各組賽程、轉播資訊一次看",
+          "link": "https://www.gvm.com.tw/article/129431",
+          "published": "2026-06-19T14:48:00",
+          "summary": "全世界球迷們最期待的2026世界盃足球賽，於6月11日至7月19日，在美國、加拿大、墨西哥舉行，本屆參賽隊伍首次從以往的32支，擴大到48支隊伍參賽，規模是史上最大。今年你看好哪隊能奪冠呢？精華：世足賽必看10大亮點、世足賽10個必懂足球規則懶人包2026世界盃足球賽（2026 FIFA World Cup），於6月11日至7月19日，在美國、加拿大、墨西哥舉行，這項4年一度、全世界球迷最矚目的足"
+        },
+        {
+          "title": "吃粽子怎麼處理綁繩、粽葉？一文看懂規定，小心丟錯最高罰6千",
+          "link": "https://www.gvm.com.tw/article/130927",
+          "published": "2026-06-19T11:00:00",
+          "summary": "端午節吃粽子最應景！但你是否曾想過，粽子吃完，粽葉及綁繩該如何處理？究竟粽葉要當廚餘回收，還是當一般垃圾直接丟棄？環境部表示，粽葉因為纖維太長難以分解，所以要當作一般垃圾處理。根據《廢棄物清理法》規定，若民眾不小心分類錯誤，未依規定丟棄可處 1200 至 6000 元罰鍰。粽葉是垃圾嗎？一圖看懂粽葉處理！環境部解答：粽葉、綁繩「正確分類」端午節享用完節慶美食後，剩下的粽子葉和綁繩又該如何正確處理？"
+        },
+        {
+          "title": "什麼是「女兒賊」？她被家人冷言催婚，彷彿是一個占空間的行李",
+          "link": "https://www.gvm.com.tw/article/130928",
+          "published": "2026-06-19T09:00:00",
+          "summary": "最近看了一篇文章談「女兒賊」，當下聽到這個詞我只想反駁。倒不是針對文章或者作者，應該是出自於我個人的成長經驗反思。我這幾年發現原來許多家庭裡都有這樣像我責任較重、卻不受疼愛的女兒，也許也有一些是兒子。正逢端午連假，應該是不少家庭團聚的時節，我來逆風講一下對女兒賊的想法。前陣子去富國島旅遊，聽著身旁許多退休夫妻聊起當年重男輕女的故事。在那個年代，家裡的女生往往得提早休學、早早出社會賺錢，只為了供哥哥"
+        },
+        {
           "title": "內臟脂肪高、腰圍變粗也會傷腦！研究：40至45歲肥胖者失智風險增74%",
           "link": "https://www.gvm.com.tw/article/130925",
           "published": "2026-06-19T07:00:00",
           "summary": "台灣超高齡社會來臨，失智海嘯來襲，醫師提醒中年腰圍變粗，就等於替大腦多上一層「霧」，美國研究發現40至45歲族群過重者失智風險增加45%、肥胖者失智風險更增加至74%。台灣臨床失智症協會理事長徐榮隆15日告訴中央社記者，失智症並非單一疾病，而是影響腦部功能的一組疾病總稱，主要包括退化性失智症（如阿茲海默症）與血管性失智症。前者是腦細胞逐漸受損，後者則與腦部供血不良有關。整體而言，約7成失智症與代謝"
-        },
-        {
-          "title": "誰都沒義務照顧巨嬰！如何堅守自己的界限？不如現在就讓他「心理斷奶」",
-          "link": "https://www.gvm.com.tw/article/74459",
-          "published": "2026-06-18T20:25:00",
-          "summary": "最近一直在思考一個問題：是什麼讓你認為，我每天靜靜躺在你的好友列表或通訊錄裡，就是隨時等待你召喚，為你排憂解難的呢？（本文摘自《我們心裡都有病》一書，作者：大將軍郭，以下為摘文。）最近的留言太多，因為精力有限，所以我決定讓這些訊息石沉大海，我可能永不回覆。有人問我為什麼不回，是不是生病了？ 事實上，我並沒有不舒服，體溫隨夏天到來自然上升了0.2度，內分泌正常，胃口很好，心跳依然維持在每分鐘75下左"
-        },
-        {
-          "title": "6/21夏至陽氣最旺卻最「傷心」？醫師提醒「4大關鍵」預防身心失衡",
-          "link": "https://www.gvm.com.tw/article/122131",
-          "published": "2026-06-18T20:15:00",
-          "summary": "6月21日為24節氣中的「夏至」，是一年之中白晝最長、陽氣最盛的時節，也是一個陰陽交替的臨界點，若不留心調節，容易招致身心失衡。知名身心靈預防醫學專家，洛桑加參醫師歸納出4大關鍵修煉、5項預防原則，提醒讀者在夏至之時守護身心健康。（本文節錄自《靜心・淨心》一書，作者：洛桑加參，時報出版，以下為摘文。）6/21夏至是一年之中白晝最長、陽氣最盛的時節。陽氣強盛到什麼程度？在北極圈內，你可以整天看到太陽"
-        },
-        {
-          "title": "高階主管都在學「3週習慣養成法」：讓大腦GPS帶你養出好習慣的複利效應",
-          "link": "https://www.gvm.com.tw/article/130952",
-          "published": "2026-06-18T19:53:00",
-          "summary": "為什麼至今你已嘗試過各種養成習慣的方法，卻總是不順利呢？原因就出在：「一開始就想要長期堅持。」這套3週習慣養成法則，能為做事經常半途而廢的你，建立方向、節奏與回彈力，不再持續卡在原點。習慣還會產生複利效應：養成一個好習慣就猶如「第一塊骨牌」，進而產生養成其他各種好習慣的力量。（本文節錄自《最強3週習慣養成法》一書，作者：名鄉根修／時報出版，以下為摘文。）早起、減重、運動、閱讀、理財、戒煙、學語言…"
-        },
-        {
-          "title": "你的「Comfort Food」是什麼？從飲食看見內心需求：吃一口療癒的不只味蕾",
-          "link": "https://www.gvm.com.tw/article/130951",
-          "published": "2026-06-18T19:24:00",
-          "summary": "經過我多年來的觀察所得，屬於我們的「ComfortFood」，很多時間都不是人見人愛、大眾都會讚好的「美食」，「ComfortFood」可以純粹是一種個人喜好，甚至癖好，可以是一些對你充滿特殊意義的食物，這些食物的主要功效，就是「安慰」我們的心靈，甚至承載著回憶、情感與安全感。（本文節錄自《回憶中的香港味道》一書，作者：何故／時報出版，以下為摘文。）我是車老師，我是一個「食育師」。一個以美食來教育"
-        },
-        {
-          "title": "今日的價格不再是昨日的價格！成功人士金錢決策：真正的財富升級，從「放棄」開始",
-          "link": "https://www.gvm.com.tw/article/130950",
-          "published": "2026-06-18T18:42:00",
-          "summary": "在追求職涯晉升與財富積累的過程中，許多人常陷入「成長陷阱」，依循過去的成功法則而忽略了環境變遷。從「經營之神」松下幸之助的職涯轉折，到機會成本的思維運用，都揭示了一個重要道理：昨天有效的方法，未必適用今天。當你的身價提升，時間的價值也該重新定價。（本文節錄自《財富階梯》一書，作者：尼克．馬朱利／商業周刊出版，以下為摘文。）松下幸之助出生於1894 年，在家中的八個孩子中排行老么，在日本大阪南部和歌"
         }
       ]
     },
@@ -90,40 +66,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "擴大<b>淨零</b>綠領人才培育環境部即日起推新優惠| 青年日報 - LINE TODAY",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/PGeoyKr&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0hi4JA_btab3-X9rUoHdVQ",
-          "published": "2026-06-19T05:28:42+00:00",
-          "summary": "課程內容涵蓋「氣候變遷與溫室氣體管理、溫室氣體盤查、自願減量及產品碳足跡」等，並納入歐盟碳邊境調整機制（CBAM）、碳費及我國即將試辦的碳排放交易（ETS）等最新&nbsp;..."
+          "title": "聯合再生綠電需求與台灣太陽能政策的關聯：企業採購、<b>淨零</b>轉型與案源落地觀察",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://readmo.cmoney.tw/article/0e2c8a5f-cbcd-4bcf-935a-b71e50b2e5f9%3Ftitle%3D%25E8%2581%25AF%25E5%2590%2588%25E5%2586%258D%25E7%2594%259F%25E7%25B6%25A0%25E9%259B%25BB%25E9%259C%2580%25E6%25B1%2582%25E8%2588%2587%25E5%258F%25B0%25E7%2581%25A3%25E5%25A4%25AA%25E9%2599%25BD%25E8%2583%25BD%25E6%2594%25BF%25E7%25AD%2596%25E7%259A%2584%25E9%2597%259C%25E8%2581%25AF%25EF%25BC%259A%25E4%25BC%2581%25E6%25A5%25AD%25E6%258E%25A1%25E8%25B3%25BC%25E3%2580%2581%25E6%25B7%25A8%25E9%259B%25B6%25E8%25BD%2589%25E5%259E%258B%25E8%2588%2587%25E6%25A1%2588%25E6%25BA%2590%25E8%2590%25BD%25E5%259C%25B0%25E8%25A7%2580%25E5%25AF%259F&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3jQJL86eB4TGPY42Z_LIDz",
+          "published": "2026-06-19T23:24:00+00:00",
+          "summary": "聯合再生綠電需求與政策有何關聯聯合再生的綠電需求本質上和台灣能源政策高度連動政策決定市場規模企業採購則決定需求能否落地當政府持續推動淨零轉型再生&nbsp;..."
         },
         {
-          "title": "擴大<b>淨零</b>綠領人才培育！環境部推學費新優惠：環境教育人員享半額補助",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/page/3b3c62c78849f32f/127aca60-ba58-4195-9701-33409ccbdd36&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw08hvCCk8q2iW7msyV-0RNM",
-          "published": "2026-06-19T03:21:39+00:00",
-          "summary": "課程內容涵蓋氣候變遷與溫室氣體管理、溫室氣體盤查、自願減量及產品碳足跡，並納入歐盟碳邊境調整機制(CBAM)、碳費及我國即將試辦的碳排放交易(ETS)等最新&nbsp;..."
+          "title": "台北101<b>淨零</b>減碳化身最高綠建築 - Yahoo新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%258F%25B0%25E5%258C%2597101%25E6%25B7%25A8%25E9%259B%25B6%25E6%25B8%259B%25E7%25A2%25B3-%25E5%258C%2596%25E8%25BA%25AB%25E6%259C%2580%25E9%25AB%2598%25E7%25B6%25A0%25E5%25BB%25BA%25E7%25AF%2589-223621893.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw04wf0WkD37OSvkOYIR3cFb",
+          "published": "2026-06-19T22:51:55+00:00",
+          "summary": "台北一○一重視節能減碳，從自身更改設備先做起，先前將停車場照明系統ＬＥＤ化，將傳統高耗能燈具全面汰換為高效率ＬＥＤ照明設備，不僅提升照明品質與維護效率，也大幅降低&nbsp;..."
         },
         {
-          "title": "吉利遠程綠色智慧交通解決方案亮相香港車博會",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=http://hkcna.hk/docDetail.jsp%3Fid%3D101349613%26channel%3D2803&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw34h-lHzHq57yWmgr7HHOAX",
-          "published": "2026-06-19T03:07:23+00:00",
-          "summary": "作為全球新能源商用車引領者，吉利遠程新能源商用車攜“甲醇電動+純電動”技術路線全產品矩陣連續第二年亮相，覆蓋公共出行、城市物流、無人車、輪渡船舶、應急發電&nbsp;..."
+          "title": "北市產發獎勵補助聚焦<b>淨零</b>科技- 生活 - 自由時報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.ltn.com.tw/news/life/paper/1759490&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3yrZeKLmYM2kMePVBJZDdw",
+          "published": "2026-06-19T21:44:27+00:00",
+          "summary": "產業局說，為協助北市企業將永續思維轉化為實質商業模式，本次補助積極對接市場實務需求，提案範疇特別鎖定五大前瞻領域，包含「智慧節能與能源管理」、「低碳運輸與&nbsp;..."
         },
         {
-          "title": "碳定價驅動氣候行動彭啓明：台灣以多元碳定價組合接軌國際、加速<b>淨零</b>",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/page/3b3c62c78849f32f/e996c571-beb5-4a27-b6bf-a062699944ba&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3QCoOJiLiLff6czBTZOWOT",
-          "published": "2026-06-19T02:04:02+00:00",
-          "summary": "彭部長說明，台灣將以碳費奠定治理基礎，逐步推進總量管制排放交易制度。環境部規劃於115年下半年提出ETS試行計畫，並見證臺灣碳權交易所與歐洲能源交易所（EEX）合作&nbsp;..."
+          "title": "積極落實可持續發展",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://invest.hket.com/article/4149289/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3LOi7Ww-YmhE7QY7xQM165",
+          "published": "2026-06-19T19:22:37+00:00",
+          "summary": "在可持續發展方面，百威的抱負是到2040年達至全價值鏈淨零排放，範疇三排放佔公司總排放約95%，因此供應商、物流伙伴及包裝材料，才是減碳成敗的主戰場。 （資料&nbsp;..."
         },
         {
-          "title": "新住民全球新聞網-國環院綠領人才專區上線53家企業響應招募",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.immigration.gov.tw/NewsSection/Detail/481d02ce-8cc7-4c3d-ae5f-6398e458b761&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3dxoiqU2yNCBaSHYHcDULJ",
-          "published": "2026-06-19T01:54:52+00:00",
-          "summary": "... 環境部國家環境研究院攜手104人力銀行建置「淨零綠領人才企業認同專區」，協助企業媒合具備淨零與永續專業能力的人才。（圖／envato / AtlasComposer&nbsp;..."
+          "title": "Invesco Global Equity <b>Net Zero</b> ETF將於2026年6月22日除權除息，1股派股息0.14848USD",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.moomoo.com/hant/news/post/71754518/invesco-global-equity-net-zero-etf-to-go-ex-dividend&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3GP-cnjbocMLBQa3vJacKd",
+          "published": "2026-06-19T19:14:11+00:00",
+          "summary": "美東時間6月18日消息，$InvescoGlobal Equity Net Zero ETF(IQSZ.US)$將於2026年6月22日除淨，1股派股息0.14848USD。相關派息股權登記日爲2026年6月22日，&nbsp;..."
         },
         {
-          "title": "Xtrackers<b>淨零</b>路徑ETF宣佈每季派息0.1154美元，投資者關注收益機會！ - 理財寶",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/notes/note-detail.aspx%3Fnid%3D1220582&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2z8K7SeoIfnOatiimjulRQ",
-          "published": "2026-06-18T23:18:52+00:00",
-          "summary": "Xtrackers Net Zero Pathway Paris Aligned US Equity ETF宣佈將於6月26日 ... 隨著全球對於碳中和及可持續發展的重視，Xtrackers的淨零路徑ETF正是&nbsp;..."
+          "title": "土地銀行發行第六檔永續債券10億元累計規模達56億元「助攻<b>淨零</b>轉型」 - 觀傳媒",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.watchmedia01.com/archives/523468&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1uoxClAGUtY_mu2RK_G9fW",
+          "published": "2026-06-19T17:45:43+00:00",
+          "summary": "所募資金將運用於具備環境改善及社會公益效益的投資計畫，包括再生能源、能源科技、社會住宅、危老重建等領域，透過金融力量協助推動能源轉型、居住正義及提升社會&nbsp;..."
         }
       ]
     }
