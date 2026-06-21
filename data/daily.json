@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-06-20T05:14:12.620047+00:00",
-    "date": "2026-06-20",
+    "generated_at": "2026-06-21T06:01:36.414076+00:00",
+    "date": "2026-06-21",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -10,54 +10,47 @@
     {
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
-      "items": [
-        {
-          "title": "【2026 網路安全創投趨勢】告別單點防禦工具，「AI 原生資安架構」正在改寫估值邏輯",
-          "link": "https://techorange.com/2026/06/20/cybersecurity-vc-trends/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-19T22:29:00+00:00",
-          "summary": "金融資料與研究平台公司 PitchBook 發佈《2026 年第一季網路安全創投趨勢》報告，梳理了全球資安資金的最新動態與產業變革；從數據可觀察到，即便整體創投交易件數來到近年新低，總投資金額卻依然穩健。 市場資金不再平均分散於單一功能的防禦工具，而是加速集中到少數具備 AI 原生架構與平台整合能力的強勢供應商身上。 以下從資金分佈與併購動態摘要出決策視角，了解目前資金高度集中的三大資安防禦熱區，"
-        }
-      ]
+      "items": []
     },
     {
       "feed_name": "遠見雜誌 - 前進的動力",
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "橋水創辦人：我12歲就炒股討厭背課本，但建議兩件事仍得學",
-          "link": "https://www.gvm.com.tw/article/130909",
-          "published": "2026-06-19T16:00:00",
-          "summary": "身價154億美元、全球最大對沖基金橋水的創辦人瑞．達利歐（Ray Dalio），近期回到母校長島大學發表畢業演講，影片上線後在社群上瘋傳，許多網友表示看到眼眶泛紅。白手起家的他，針對近期許多人熱衷快速致富提出看法，並以切身經歷從當「少年股神」、後來被市場教訓慘虧、以及家人意外等事件，回頭領悟出兩樣死背課本找不到的東西，是他自認最值得送給大學畢業生的禮物。這位甚有智慧的投資大師怎麼說？今年5月，76"
+          "title": "家暴通報飆升！親密關係「分手前後」最危險，專家揭恐怖情人7特徵",
+          "link": "https://www.gvm.com.tw/article/130942",
+          "published": "2026-06-21T07:00:00",
+          "summary": "北美現象級神片「愛你致死不渝」，恐怖情人議題再掀討論，據統計，台灣親密關係暴力正逐年悄悄微升，甚至男性被害人略微上升，個性或生活習慣不合是最大導火線。家庭暴力防治法實施滿28週年前夕，衛生福利部18日舉辦記者會，公布最新統計家庭暴力通報案件數，以親密關係暴力約占5成為大宗；專家提醒，恐怖情人常見控制慾強、情緒勒索等7大特徵，呼籲民眾提高警覺、及早求助，必要時可利用「110視訊報案」APP報案保護自"
         },
         {
-          "title": "Codex簡報教學：PPT圖文全可改，附資安技巧",
-          "link": "https://www.gvm.com.tw/article/130831",
-          "published": "2026-06-19T15:07:00",
-          "summary": "OpenAI的Codex是近期打造AI Agent的熱門選擇，無論是整理資料、做網頁或排行程，都可以在與Codex對話後輕鬆完成。作為各種文書工作的得力助手，許多人不知道Codex也很適合用來「做簡報PPT」，將雜亂的數據變成清晰圖表，且圖文皆可編輯，這一點更勝NotebookLM。本文拆解用Codex做簡報的步驟，並附上新手需多留意的資安保護技巧。目錄&nbsp;● Codex 是什麼？怎麼用？"
+          "title": "林安可回家了！西武獅首登台北大巨蛋，2027年2月連兩天獻上台日棒球交流賽",
+          "link": "https://www.gvm.com.tw/article/130959",
+          "published": "2026-06-20T20:53:00",
+          "summary": "日本株式會社西武獅今（20）日於中華職棒統一7-ELEVEn獅（以下簡稱「統一獅」）主場亞太國際棒球訓練中心成棒主球場舉辦發布會，正式宣布將於 2027 年 2 月 27 日（六）及 2 月 28 日（日），在「台北大巨蛋」舉辦台日交流賽「SEIBU LIONS TAIWAN SERIES – LEGENDS GAME –」。發布會邀請到有「東方特快車」之稱的台灣傳奇投手郭泰源，以及曾效力台灣球界"
         },
         {
-          "title": "2026FIFA世界盃》世界盃足球賽賽程資訊全攻略！參賽國家、分組名單、比賽賽制、各組賽程、轉播資訊一次看",
-          "link": "https://www.gvm.com.tw/article/129431",
-          "published": "2026-06-19T14:48:00",
-          "summary": "全世界球迷們最期待的2026世界盃足球賽，於6月11日至7月19日，在美國、加拿大、墨西哥舉行，本屆參賽隊伍首次從以往的32支，擴大到48支隊伍參賽，規模是史上最大。今年你看好哪隊能奪冠呢？精華：世足賽必看10大亮點、世足賽10個必懂足球規則懶人包2026世界盃足球賽（2026 FIFA World Cup），於6月11日至7月19日，在美國、加拿大、墨西哥舉行，這項4年一度、全世界球迷最矚目的足"
+          "title": "世足爆紅維德角：美中歐爭搶，還曾有來台留學生",
+          "link": "https://www.gvm.com.tw/article/130958",
+          "published": "2026-06-20T18:42:00",
+          "summary": "如果不是2026世界盃足球賽，維德角逼和西班牙，99.9％台灣人沒聽過也不認識它。這個神祕島國約1.96個新北市大，總人口僅相當於一個「板橋區」，但為何美國、中國、歐盟都要拉攏它？最令人意外的是，台灣校園裡也曾有維德角留學生的身影！維德角共和國（Cabo Verde）到底是什麼國家？它的土地面積約4033平方公里，總人口50幾萬。很多人常誤以為是非洲大陸一部分，事實上，它是由10個主要火山島組成，"
         },
         {
-          "title": "吃粽子怎麼處理綁繩、粽葉？一文看懂規定，小心丟錯最高罰6千",
-          "link": "https://www.gvm.com.tw/article/130927",
-          "published": "2026-06-19T11:00:00",
-          "summary": "端午節吃粽子最應景！但你是否曾想過，粽子吃完，粽葉及綁繩該如何處理？究竟粽葉要當廚餘回收，還是當一般垃圾直接丟棄？環境部表示，粽葉因為纖維太長難以分解，所以要當作一般垃圾處理。根據《廢棄物清理法》規定，若民眾不小心分類錯誤，未依規定丟棄可處 1200 至 6000 元罰鍰。粽葉是垃圾嗎？一圖看懂粽葉處理！環境部解答：粽葉、綁繩「正確分類」端午節享用完節慶美食後，剩下的粽子葉和綁繩又該如何正確處理？"
+          "title": "雲林不只有北港媽祖！轉型「智慧城市」狂吸3200萬人次，躍上國際舞台",
+          "link": "https://www.gvm.com.tw/article/130934",
+          "published": "2026-06-20T16:00:00",
+          "summary": "雲林縣近年有哪些改變？除了北港朝天宮、古坑咖啡和農業大縣印象外，智慧城市、數位教育、高齡照護與運動建設，正成為這座城市的新關鍵字。根據2026年施政滿意度調查，雲林縣八大施政面向平均滿意度達68.3％，較2019年成長10.5個百分點，排名本島13縣市第三。從全台唯一入選全球 Top 7 智慧城市，到打造智慧校園、5G智慧救護與全齡照顧體系，雲林如何走出自己的轉型之路，也成為外界觀察地方治理的重要"
         },
         {
-          "title": "什麼是「女兒賊」？她被家人冷言催婚，彷彿是一個占空間的行李",
-          "link": "https://www.gvm.com.tw/article/130928",
-          "published": "2026-06-19T09:00:00",
-          "summary": "最近看了一篇文章談「女兒賊」，當下聽到這個詞我只想反駁。倒不是針對文章或者作者，應該是出自於我個人的成長經驗反思。我這幾年發現原來許多家庭裡都有這樣像我責任較重、卻不受疼愛的女兒，也許也有一些是兒子。正逢端午連假，應該是不少家庭團聚的時節，我來逆風講一下對女兒賊的想法。前陣子去富國島旅遊，聽著身旁許多退休夫妻聊起當年重男輕女的故事。在那個年代，家裡的女生往往得提早休學、早早出社會賺錢，只為了供哥哥"
+          "title": "颱風最新動態：米克拉路徑預測出爐，「此時」最接近台灣",
+          "link": "https://www.gvm.com.tw/article/130957",
+          "published": "2026-06-20T14:26:00",
+          "summary": "輕度颱風米克拉今天凌晨生成，將以西北西的方向接近菲律賓東北方海面，氣象署表示，環境條件有利颱風發展，成中度颱風機率高，預估25日最接近台灣，但路徑變化仍待觀察。中央氣象署凌晨發布颱風生成訊息，原位於關島西方海面的熱帶性低氣壓發展為輕度颱風，編號第7號米克拉（國際命名：MEKKHALA），預測未來朝西北西轉北往琉球南方海面移動。氣象署今天表示，颱風米克拉週末距離台灣仍遙遠，但22日前受到太平洋高壓導"
         },
         {
-          "title": "內臟脂肪高、腰圍變粗也會傷腦！研究：40至45歲肥胖者失智風險增74%",
-          "link": "https://www.gvm.com.tw/article/130925",
-          "published": "2026-06-19T07:00:00",
-          "summary": "台灣超高齡社會來臨，失智海嘯來襲，醫師提醒中年腰圍變粗，就等於替大腦多上一層「霧」，美國研究發現40至45歲族群過重者失智風險增加45%、肥胖者失智風險更增加至74%。台灣臨床失智症協會理事長徐榮隆15日告訴中央社記者，失智症並非單一疾病，而是影響腦部功能的一組疾病總稱，主要包括退化性失智症（如阿茲海默症）與血管性失智症。前者是腦細胞逐漸受損，後者則與腦部供血不良有關。整體而言，約7成失智症與代謝"
+          "title": "AI掀造富狂潮！韓國父母不再買房給兒，「開戶買三星股票」更有價值",
+          "link": "https://www.gvm.com.tw/article/130935",
+          "published": "2026-06-20T14:00:00",
+          "summary": "台灣這幾年房價漲幅驚人，但比起首爾，台灣漲幅只能算溫和。疫情爆發到現在，首爾房價上漲 80~100%，韓國人買不起房，做父母的為了留財產給孩子，現在流行幫孩子開證券戶，送給孩子的生日禮也不再是遙控飛機，而是三星股票。在東亞國家，幾十年來，房產和儲蓄一直是主要的財富投資方式，尤其是在中國。房產一直被視為累積家族財富最安全的方式之一，擁有房產不僅代表安全感和社會地位，對許多家庭來說，也被視為通往婚姻和"
         }
       ]
     },
@@ -66,40 +59,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "聯合再生綠電需求與台灣太陽能政策的關聯：企業採購、<b>淨零</b>轉型與案源落地觀察",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://readmo.cmoney.tw/article/0e2c8a5f-cbcd-4bcf-935a-b71e50b2e5f9%3Ftitle%3D%25E8%2581%25AF%25E5%2590%2588%25E5%2586%258D%25E7%2594%259F%25E7%25B6%25A0%25E9%259B%25BB%25E9%259C%2580%25E6%25B1%2582%25E8%2588%2587%25E5%258F%25B0%25E7%2581%25A3%25E5%25A4%25AA%25E9%2599%25BD%25E8%2583%25BD%25E6%2594%25BF%25E7%25AD%2596%25E7%259A%2584%25E9%2597%259C%25E8%2581%25AF%25EF%25BC%259A%25E4%25BC%2581%25E6%25A5%25AD%25E6%258E%25A1%25E8%25B3%25BC%25E3%2580%2581%25E6%25B7%25A8%25E9%259B%25B6%25E8%25BD%2589%25E5%259E%258B%25E8%2588%2587%25E6%25A1%2588%25E6%25BA%2590%25E8%2590%25BD%25E5%259C%25B0%25E8%25A7%2580%25E5%25AF%259F&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3jQJL86eB4TGPY42Z_LIDz",
-          "published": "2026-06-19T23:24:00+00:00",
-          "summary": "聯合再生綠電需求與政策有何關聯聯合再生的綠電需求本質上和台灣能源政策高度連動政策決定市場規模企業採購則決定需求能否落地當政府持續推動淨零轉型再生&nbsp;..."
+          "title": "穩步推進減碳調適政策南市第2屆<b>氣候變遷</b>因應推動會檢視成果 - Yahoo新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E7%25A9%25A9%25E6%25AD%25A5%25E6%258E%25A8%25E9%2580%25B2%25E6%25B8%259B%25E7%25A2%25B3%25E8%25AA%25BF%25E9%2581%25A9%25E6%2594%25BF%25E7%25AD%2596-%25E5%258D%2597%25E5%25B8%2582%25E7%25AC%25AC2%25E5%25B1%2586%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E5%259B%25A0%25E6%2587%2589%25E6%258E%25A8%25E5%258B%2595%25E6%259C%2583%25E6%25AA%25A2%25E8%25A6%2596%25E6%2588%2590%25E6%259E%259C-104912828.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0yhz5XWzxnmCt-rJYGewGQ",
+          "published": "2026-06-20T17:18:48+00:00",
+          "summary": "... 氣候變遷因應推動會第1次會議」，邀集專家學者及各局處代表檢視南市溫室氣體減量與氣候變遷調適推動成果，並透過跨域合作及專業建議精進氣候治理策略，打造兼具淨零&nbsp;..."
         },
         {
-          "title": "台北101<b>淨零</b>減碳化身最高綠建築 - Yahoo新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%258F%25B0%25E5%258C%2597101%25E6%25B7%25A8%25E9%259B%25B6%25E6%25B8%259B%25E7%25A2%25B3-%25E5%258C%2596%25E8%25BA%25AB%25E6%259C%2580%25E9%25AB%2598%25E7%25B6%25A0%25E5%25BB%25BA%25E7%25AF%2589-223621893.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw04wf0WkD37OSvkOYIR3cFb",
-          "published": "2026-06-19T22:51:55+00:00",
-          "summary": "台北一○一重視節能減碳，從自身更改設備先做起，先前將停車場照明系統ＬＥＤ化，將傳統高耗能燈具全面汰換為高效率ＬＥＤ照明設備，不僅提升照明品質與維護效率，也大幅降低&nbsp;..."
+          "title": "冰河時期的「洞獅」，並非現代獅子的祖先 - TechNews 科技新報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://technews.tw/2026/06/21/ice-age-cave-lion-ancestor-modern-lions/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1o6129dXI4l-tzRsgNPdmB",
+          "published": "2026-06-20T16:08:39+00:00",
+          "summary": "「洞獅」（cave lion）曾是冰河時期最強大的掠食者之一，足跡遍布歐亞大陸與北美。由於牠與現代獅子在外型上有許多相似處，科學家一直試圖釐清兩者的親緣關係。"
         },
         {
-          "title": "北市產發獎勵補助聚焦<b>淨零</b>科技- 生活 - 自由時報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.ltn.com.tw/news/life/paper/1759490&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3yrZeKLmYM2kMePVBJZDdw",
-          "published": "2026-06-19T21:44:27+00:00",
-          "summary": "產業局說，為協助北市企業將永續思維轉化為實質商業模式，本次補助積極對接市場實務需求，提案範疇特別鎖定五大前瞻領域，包含「智慧節能與能源管理」、「低碳運輸與&nbsp;..."
+          "title": "中區綠領人才培育中心雲科大揭牌產官學攜手推動<b>淨零</b>轉型 - Yahoo新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E4%25B8%25AD%25E5%258D%2580%25E7%25B6%25A0%25E9%25A0%2598%25E4%25BA%25BA%25E6%2589%258D%25E5%259F%25B9%25E8%2582%25B2%25E4%25B8%25AD%25E5%25BF%2583%25E9%259B%25B2%25E7%25A7%2591%25E5%25A4%25A7%25E6%258F%25AD%25E7%2589%258C-%25E7%2594%25A2%25E5%25AE%2598%25E5%25AD%25B8%25E6%2594%259C%25E6%2589%258B%25E6%258E%25A8%25E5%258B%2595%25E6%25B7%25A8%25E9%259B%25B6%25E8%25BD%2589%25E5%259E%258B-065840125.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0-8_slgMAmOP7yrRUSHzYA",
+          "published": "2026-06-20T15:11:09+00:00",
+          "summary": "互傳媒／記者劉美君／雲林報導】​面對全球2050淨零排放趨勢，各國積極推動綠色轉型，環境部推動的綠領人才."
         },
         {
-          "title": "積極落實可持續發展",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://invest.hket.com/article/4149289/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3LOi7Ww-YmhE7QY7xQM165",
-          "published": "2026-06-19T19:22:37+00:00",
-          "summary": "在可持續發展方面，百威的抱負是到2040年達至全價值鏈淨零排放，範疇三排放佔公司總排放約95%，因此供應商、物流伙伴及包裝材料，才是減碳成敗的主戰場。 （資料&nbsp;..."
+          "title": "台灣中區綠領人才培育中心在雲科大揭牌立委劉建國協助促成產官學攜手推動<b>淨零</b>轉型！",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.kingtop.com.tw/detail.php%3Ftype%3Dlastest%26id%3D50866&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw17AoZ4GvRiuYY1XZvWL7eT",
+          "published": "2026-06-20T15:08:00+00:00",
+          "summary": "​【記者陳信利／雲林報導】面對全球2050淨零排放趨勢，各國積極推動綠色轉型，環境部推動的綠領人才培育計畫也持續擴大成果！ 立法委員劉建國與環境部長彭啓明等&nbsp;..."
         },
         {
-          "title": "Invesco Global Equity <b>Net Zero</b> ETF將於2026年6月22日除權除息，1股派股息0.14848USD",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.moomoo.com/hant/news/post/71754518/invesco-global-equity-net-zero-etf-to-go-ex-dividend&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3GP-cnjbocMLBQa3vJacKd",
-          "published": "2026-06-19T19:14:11+00:00",
-          "summary": "美東時間6月18日消息，$InvescoGlobal Equity Net Zero ETF(IQSZ.US)$將於2026年6月22日除淨，1股派股息0.14848USD。相關派息股權登記日爲2026年6月22日，&nbsp;..."
+          "title": "<b>氣候變遷</b>助長櫟列隊蛾毛蟲向北德擴散柏林成重災區 - 自由時報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.ltn.com.tw/amp/news/world/breakingnews/5478564&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw14Xm8F6FJVMAbRGnWKLLf8",
+          "published": "2026-06-20T14:50:20+00:00",
+          "summary": "〔中央社〕柏林今年夏天受到櫟列隊蛾毛蟲侵擾，多座公園、戶外游泳池被迫暫時關閉。專家指出，這種過去主要分布於德國南部的有毒毛蟲，近年受氣候變遷影響逐漸&nbsp;..."
         },
         {
-          "title": "土地銀行發行第六檔永續債券10億元累計規模達56億元「助攻<b>淨零</b>轉型」 - 觀傳媒",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.watchmedia01.com/archives/523468&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1uoxClAGUtY_mu2RK_G9fW",
-          "published": "2026-06-19T17:45:43+00:00",
-          "summary": "所募資金將運用於具備環境改善及社會公益效益的投資計畫，包括再生能源、能源科技、社會住宅、危老重建等領域，透過金融力量協助推動能源轉型、居住正義及提升社會&nbsp;..."
+          "title": "岑智明指厄爾尼諾現象會令全球各地氣溫異常出現乾旱及水災- RTHK - 香港電台新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.rthk.hk/rthk/ch/component/k2/1859285-20260620.htm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw04asSBPKNXN4hjR5GOwrsK",
+          "published": "2026-06-20T14:04:43+00:00",
+          "summary": "香港新聞博覽館舉行講座討論氣候變化情況。香港天文台前台長、香港科技大學環境及可持續發展學部客席教授岑智明表示，近十年全球平均氣溫加速上升，2024年的&nbsp;..."
         }
       ]
     }
