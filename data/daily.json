@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-06-21T06:01:36.414076+00:00",
-    "date": "2026-06-21",
+    "generated_at": "2026-06-22T06:29:14.595207+00:00",
+    "date": "2026-06-22",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -10,47 +10,78 @@
     {
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
-      "items": []
+      "items": [
+        {
+          "title": "MIH 聯盟宣告轉型！籌組「MIH 台灣機器智能產業協會」，號召跨域生態系共建 AI 機器新標準",
+          "link": "https://techorange.com/2026/06/22/mih-announcement-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-22T05:11:49+00:00",
+          "summary": "為引領下一世代的產業變革，MIH 聯盟宣布啟動轉型，籌備成立「MIH 台灣機器智能產業協會」，並正式對外展開全新階段的會員招募。MIH 將從原有電動車與智慧移動的堅實基礎出發，以「實體 AI」為核心聚焦領域，全面連結機器人、邊緣運算、智慧硬體與軟體開發夥伴，共同建構面向「AI 機器」時代的全球開放式軟硬體生態系。 本協會將以推廣機器智能生態系統之創新、應用、科技及工業發展為核心宗旨。未來的重點任務"
+        },
+        {
+          "title": "Anthropic 與白宮從對抗轉向合作：一場管制風波，正逼出 AI 安全新規則",
+          "link": "https://techorange.com/2026/06/22/white-house-talks-with-anthropic-shift-to-setting-ai-security-rules/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-22T04:58:11+00:00",
+          "summary": "當美國以國家安全為由對 Anthropic 祭出出口管制、迫使其最先進的 Fable 5 與 Mythos 5 模型全面下架時，根據《POLITICO》報導，這場衝突正轉向更有建設性的方向：白宮與 Anthropic 已開始共同制定一套框架，用來評估新一代 AI 模型安全漏洞的嚴重程度，並據此決定政府是否需要介入。這意味著，雙方的角力可能正從對抗，轉向替前沿 AI 的安全風險評估建立一套共同標準。"
+        },
+        {
+          "title": "當 AI 進駐結帳頁：支付系統如何變成下一個推薦引擎",
+          "link": "https://techorange.com/2026/06/22/payment-method-marketing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-22T02:43:05+00:00",
+          "summary": "過去 20 年來，電商產業的競爭焦點圍繞在首頁版位、搜尋引擎排名與個人化推薦演算法。品牌投入大量資源爭取曝光，希望在消費者進入購物網站的第一時間搶占注意力。然而，隨著支付科技快速演進，影響消費決策的關鍵節點，正逐漸由商品探索階段移向付款環節，讓結帳頁面成為零售、金融與科技業者爭奪的新戰場。 捕捉最高購買意圖！用智慧結帳拉高客單價與轉換率 根據 PYMNTS Intelligence 與金融科技公司"
+        },
+        {
+          "title": "【AI 經濟新藍圖】矽谷創投提三階段美國財稅藍圖，用運算稅與主權基金重建社會安全網",
+          "link": "https://techorange.com/2026/06/22/new-tax-code/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-22T02:36:28+00:00",
+          "summary": "隨著人工智慧與機器人技術的超高速演進，勞動市場正面臨前所未有的結構性海嘯。Khosla Ventures 創辦人 Vinod Khosla 發表評論指出，這場重大技術革命將迫使人類社會重新談判最基本的經濟契約。 過去 40 年專注於微處理器、網路、行動電話到 OpenAI 等破壞性創新的 Khosla 斷言，從 2030 年開始，高達 80% 的現存工作都將能由 AI 系統獨立完成。這意味著，美國"
+        },
+        {
+          "title": "直擊 AI Agent 創造高生產力實戰：Qualcomm 與 MoBagel 共同打造安全地端 AI 平台、鴻海 CityGPT 提升智慧城市決策效能",
+          "link": "https://techorange.com/2026/06/22/ai-agent-qualcomm-mobagel-innodisk-foxconn-deloitte-citygpt/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-22T02:21:02+00:00",
+          "summary": "全球企業正迎來一波顛覆性的 AI 變革，這股浪潮已從單純的輔助工具，進化為 Agentic loop 的自動化協作模式，如今工作者只需設定好任務的邊界條件，就能讓多個 Agentic AI 持續自主運作。面對這波科技躍進，TechOrange 科技報橘與 MoBagel 日前聯合舉辦「2026 AI Agent 新工作革命論壇暨 AI &amp; Beyond 年會」，以探索生產力提升與幻滅的多重"
+        },
+        {
+          "title": "【AI 代理越學越退步？】「決策脈絡圖」框架補強 RAG，整合背景讓決策更精確",
+          "link": "https://techorange.com/2026/06/22/decision-context-graph-ai-agent-rag/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-22T02:12:38+00:00",
+          "summary": "一種被稱作「決策脈絡圖（decision context graph）」的全新框架，透過為 AI 代理提供結構化記憶、具有時間意識的推理能力，以及明確的決策邏輯，試圖彌補 RAG 的技術缺口。"
+        }
+      ]
     },
     {
       "feed_name": "遠見雜誌 - 前進的動力",
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
+          "title": "BIF Asia攜手慈濟推動「善經濟」 讓「利他」成為動盪時代下最難複製的競爭力",
+          "link": "https://www.gvm.com.tw/article/130897",
+          "published": "2026-06-22T00:00:00",
+          "summary": "由美國加州大學柏克萊分校哈斯商學院與慈濟基金會共同主辦的「2026柏克萊創新論壇亞洲峰會 (BIF Asia 2026)」，日前在台北與花蓮盛大登場。亞洲峰會以「善經濟」為核心，探討企業如何將無形的善意轉化為實質競爭力，引導領袖將社會影響力化為無可取代的核心價值。2026年，慈濟邁入一甲子。在此關鍵時刻，慈濟攜手柏克萊哈斯商學院（UC Berkeley Haas）主辦 BIF Asia 峰會，將「"
+        },
+        {
+          "title": "黑天鵝時代下，企業如何突圍？ 慈濟串聯柏克萊創新論壇，開啟開放式創新的跨界對話",
+          "link": "https://www.gvm.com.tw/article/130895",
+          "published": "2026-06-22T00:00:00",
+          "summary": "地緣政治重組、極端氣候與AI以前所未有的速度重塑產業，企業單靠埋頭研發已難以應對變局；唯有跨界協作建構韌性生態系，才是永續經營關鍵。慈濟攜手柏克萊頂級智庫，首度將矽谷最頂級的閉門商業論壇移師亞洲，結合「開放式創新」與「善經濟」，引領企業透過跨界協作建構韌性生態系、走向共好共榮。2026年適逢慈濟邁入60週年，在今年所推動的全球系列活動中，攜手美國加州大學柏克萊分校哈斯商學院（UC Berkeley"
+        },
+        {
+          "title": "2026FIFA世界盃》世界盃足球賽賽程資訊全攻略！參賽國家、分組名單、比賽賽制、各組賽程、轉播資訊一次看",
+          "link": "https://www.gvm.com.tw/article/129431",
+          "published": "2026-06-21T14:04:00",
+          "summary": "全世界球迷們最期待的2026世界盃足球賽，於6月11日至7月19日，在美國、加拿大、墨西哥舉行，本屆參賽隊伍首次從以往的32支，擴大到48支隊伍參賽，規模是史上最大。今年你看好哪隊能奪冠呢？精華：世足賽必看10大亮點、世足賽10個必懂足球規則懶人包2026世界盃足球賽（2026 FIFA World Cup），於6月11日至7月19日，在美國、加拿大、墨西哥舉行，這項4年一度、全世界球迷最矚目的足"
+        },
+        {
+          "title": "腦裡的大象？研究：父母社經地位會影響兒童大腦發育",
+          "link": "https://www.gvm.com.tw/article/130943",
+          "published": "2026-06-21T11:00:00",
+          "summary": "貧富差距正在侵蝕兒童的大腦。一項 1.2 萬兒童的大規模研究分析，證實兒童的社會環境，對發育中的大腦留下的結構和功能印記，比任何其他生物學、行為學或心理學因素都更為深刻，徹底改變科學家對神經發育的理解。是什麼造就了我們的大腦？從螢幕時間到睡眠再到疾病，無數的經歷和特徵定義了孩子的生活和身分，科學家想知道，其中哪些因素會在孩子的大腦褶皺中留下印記。研究人員分析近&nbsp;1.2&nbsp;萬名&n"
+        },
+        {
           "title": "家暴通報飆升！親密關係「分手前後」最危險，專家揭恐怖情人7特徵",
           "link": "https://www.gvm.com.tw/article/130942",
           "published": "2026-06-21T07:00:00",
           "summary": "北美現象級神片「愛你致死不渝」，恐怖情人議題再掀討論，據統計，台灣親密關係暴力正逐年悄悄微升，甚至男性被害人略微上升，個性或生活習慣不合是最大導火線。家庭暴力防治法實施滿28週年前夕，衛生福利部18日舉辦記者會，公布最新統計家庭暴力通報案件數，以親密關係暴力約占5成為大宗；專家提醒，恐怖情人常見控制慾強、情緒勒索等7大特徵，呼籲民眾提高警覺、及早求助，必要時可利用「110視訊報案」APP報案保護自"
-        },
-        {
-          "title": "林安可回家了！西武獅首登台北大巨蛋，2027年2月連兩天獻上台日棒球交流賽",
-          "link": "https://www.gvm.com.tw/article/130959",
-          "published": "2026-06-20T20:53:00",
-          "summary": "日本株式會社西武獅今（20）日於中華職棒統一7-ELEVEn獅（以下簡稱「統一獅」）主場亞太國際棒球訓練中心成棒主球場舉辦發布會，正式宣布將於 2027 年 2 月 27 日（六）及 2 月 28 日（日），在「台北大巨蛋」舉辦台日交流賽「SEIBU LIONS TAIWAN SERIES – LEGENDS GAME –」。發布會邀請到有「東方特快車」之稱的台灣傳奇投手郭泰源，以及曾效力台灣球界"
-        },
-        {
-          "title": "世足爆紅維德角：美中歐爭搶，還曾有來台留學生",
-          "link": "https://www.gvm.com.tw/article/130958",
-          "published": "2026-06-20T18:42:00",
-          "summary": "如果不是2026世界盃足球賽，維德角逼和西班牙，99.9％台灣人沒聽過也不認識它。這個神祕島國約1.96個新北市大，總人口僅相當於一個「板橋區」，但為何美國、中國、歐盟都要拉攏它？最令人意外的是，台灣校園裡也曾有維德角留學生的身影！維德角共和國（Cabo Verde）到底是什麼國家？它的土地面積約4033平方公里，總人口50幾萬。很多人常誤以為是非洲大陸一部分，事實上，它是由10個主要火山島組成，"
-        },
-        {
-          "title": "雲林不只有北港媽祖！轉型「智慧城市」狂吸3200萬人次，躍上國際舞台",
-          "link": "https://www.gvm.com.tw/article/130934",
-          "published": "2026-06-20T16:00:00",
-          "summary": "雲林縣近年有哪些改變？除了北港朝天宮、古坑咖啡和農業大縣印象外，智慧城市、數位教育、高齡照護與運動建設，正成為這座城市的新關鍵字。根據2026年施政滿意度調查，雲林縣八大施政面向平均滿意度達68.3％，較2019年成長10.5個百分點，排名本島13縣市第三。從全台唯一入選全球 Top 7 智慧城市，到打造智慧校園、5G智慧救護與全齡照顧體系，雲林如何走出自己的轉型之路，也成為外界觀察地方治理的重要"
-        },
-        {
-          "title": "颱風最新動態：米克拉路徑預測出爐，「此時」最接近台灣",
-          "link": "https://www.gvm.com.tw/article/130957",
-          "published": "2026-06-20T14:26:00",
-          "summary": "輕度颱風米克拉今天凌晨生成，將以西北西的方向接近菲律賓東北方海面，氣象署表示，環境條件有利颱風發展，成中度颱風機率高，預估25日最接近台灣，但路徑變化仍待觀察。中央氣象署凌晨發布颱風生成訊息，原位於關島西方海面的熱帶性低氣壓發展為輕度颱風，編號第7號米克拉（國際命名：MEKKHALA），預測未來朝西北西轉北往琉球南方海面移動。氣象署今天表示，颱風米克拉週末距離台灣仍遙遠，但22日前受到太平洋高壓導"
-        },
-        {
-          "title": "AI掀造富狂潮！韓國父母不再買房給兒，「開戶買三星股票」更有價值",
-          "link": "https://www.gvm.com.tw/article/130935",
-          "published": "2026-06-20T14:00:00",
-          "summary": "台灣這幾年房價漲幅驚人，但比起首爾，台灣漲幅只能算溫和。疫情爆發到現在，首爾房價上漲 80~100%，韓國人買不起房，做父母的為了留財產給孩子，現在流行幫孩子開證券戶，送給孩子的生日禮也不再是遙控飛機，而是三星股票。在東亞國家，幾十年來，房產和儲蓄一直是主要的財富投資方式，尤其是在中國。房產一直被視為累積家族財富最安全的方式之一，擁有房產不僅代表安全感和社會地位，對許多家庭來說，也被視為通往婚姻和"
         }
       ]
     },
@@ -59,40 +90,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "穩步推進減碳調適政策南市第2屆<b>氣候變遷</b>因應推動會檢視成果 - Yahoo新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E7%25A9%25A9%25E6%25AD%25A5%25E6%258E%25A8%25E9%2580%25B2%25E6%25B8%259B%25E7%25A2%25B3%25E8%25AA%25BF%25E9%2581%25A9%25E6%2594%25BF%25E7%25AD%2596-%25E5%258D%2597%25E5%25B8%2582%25E7%25AC%25AC2%25E5%25B1%2586%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E5%259B%25A0%25E6%2587%2589%25E6%258E%25A8%25E5%258B%2595%25E6%259C%2583%25E6%25AA%25A2%25E8%25A6%2596%25E6%2588%2590%25E6%259E%259C-104912828.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0yhz5XWzxnmCt-rJYGewGQ",
-          "published": "2026-06-20T17:18:48+00:00",
-          "summary": "... 氣候變遷因應推動會第1次會議」，邀集專家學者及各局處代表檢視南市溫室氣體減量與氣候變遷調適推動成果，並透過跨域合作及專業建議精進氣候治理策略，打造兼具淨零&nbsp;..."
+          "title": "小港區大坪里舉辦水資源宣導暨<b>氣候變遷</b>影響活動 - 行銷人",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.marketersgo.com/uncategorized/202606/%25E5%25B0%258F%25E6%25B8%25AF%25E5%258D%2580%25E5%25A4%25A7%25E5%259D%25AA%25E9%2587%258C%25E8%2588%2589%25E8%25BE%25A6%25E6%25B0%25B4%25E8%25B3%2587%25E6%25BA%2590%25E5%25AE%25A3%25E5%25B0%258E%25E6%259A%25A8%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E5%25BD%25B1%25E9%259F%25BF%25E6%25B4%25BB%25E5%258B%2595/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2PCIY24Tc_GgBl_Ndel5Ox",
+          "published": "2026-06-22T04:17:51+00:00",
+          "summary": "活動現場除了安排在地社團帶來熱情洋溢的精彩舞蹈演出外，更邀請小丑魔術表演與民眾近距離互動，以趣味十足的方式炒熱現場氣氛，讓大小朋友都能沉浸在歡樂之中。"
         },
         {
-          "title": "冰河時期的「洞獅」，並非現代獅子的祖先 - TechNews 科技新報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://technews.tw/2026/06/21/ice-age-cave-lion-ancestor-modern-lions/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1o6129dXI4l-tzRsgNPdmB",
-          "published": "2026-06-20T16:08:39+00:00",
-          "summary": "「洞獅」（cave lion）曾是冰河時期最強大的掠食者之一，足跡遍布歐亞大陸與北美。由於牠與現代獅子在外型上有許多相似處，科學家一直試圖釐清兩者的親緣關係。"
+          "title": "環團民調：逾半數民眾憂<b>氣候變遷</b>墊高家庭成本| 生活 - 中央社",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/news/ahel/202606220060.aspx&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw03Eru60djxED66y4ARE6_E",
+          "published": "2026-06-22T04:13:33+00:00",
+          "summary": "許晃雄認為，這份民調是從民間的角度來看，是由下而上的訴求，人民對因應氣候變遷及淨零的意願提高，將有助於政府快速執行淨零方案。 黃業棠表示，目前已經&nbsp;..."
         },
         {
-          "title": "中區綠領人才培育中心雲科大揭牌產官學攜手推動<b>淨零</b>轉型 - Yahoo新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E4%25B8%25AD%25E5%258D%2580%25E7%25B6%25A0%25E9%25A0%2598%25E4%25BA%25BA%25E6%2589%258D%25E5%259F%25B9%25E8%2582%25B2%25E4%25B8%25AD%25E5%25BF%2583%25E9%259B%25B2%25E7%25A7%2591%25E5%25A4%25A7%25E6%258F%25AD%25E7%2589%258C-%25E7%2594%25A2%25E5%25AE%2598%25E5%25AD%25B8%25E6%2594%259C%25E6%2589%258B%25E6%258E%25A8%25E5%258B%2595%25E6%25B7%25A8%25E9%259B%25B6%25E8%25BD%2589%25E5%259E%258B-065840125.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0-8_slgMAmOP7yrRUSHzYA",
-          "published": "2026-06-20T15:11:09+00:00",
-          "summary": "互傳媒／記者劉美君／雲林報導】​面對全球2050淨零排放趨勢，各國積極推動綠色轉型，環境部推動的綠領人才."
+          "title": "台灣民眾對高溫最有感環團籲候選人提家戶氣候對策政見 - 中央廣播電臺",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rti.org.tw/news%3Fuid%3D3%26pid%3D215851&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2_sq3IJJ2w8u-5QMW1VhPZ",
+          "published": "2026-06-22T04:00:05+00:00",
+          "summary": "氣候對策協會執行長黃業棠表示，這次民調特別聚焦於家戶層級，希望了解民眾願意採取哪些實際行動，及政府應如何透過政策協助民眾參與淨零轉型。因此，問卷設計關注各&nbsp;..."
         },
         {
-          "title": "台灣中區綠領人才培育中心在雲科大揭牌立委劉建國協助促成產官學攜手推動<b>淨零</b>轉型！",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.kingtop.com.tw/detail.php%3Ftype%3Dlastest%26id%3D50866&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw17AoZ4GvRiuYY1XZvWL7eT",
-          "published": "2026-06-20T15:08:00+00:00",
-          "summary": "​【記者陳信利／雲林報導】面對全球2050淨零排放趨勢，各國積極推動綠色轉型，環境部推動的綠領人才培育計畫也持續擴大成果！ 立法委員劉建國與環境部長彭啓明等&nbsp;..."
+          "title": "小港區大坪里舉辦水資源宣導暨<b>氣候變遷</b>影響活動 - PChome news",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/public/morenews/20260622/index-78209652057190350016.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1rSNyNJdnEhzmyvff5wyeI",
+          "published": "2026-06-22T03:47:35+00:00",
+          "summary": "墨新聞｜新聞策劃編輯部記者李婉如／綜合報導為提升民眾對水資源保育及氣候變遷議題的重視，高雄市小港區大坪里於115年6月21日舉辦「水資源宣導暨氣候變遷影響&nbsp;..."
         },
         {
-          "title": "<b>氣候變遷</b>助長櫟列隊蛾毛蟲向北德擴散柏林成重災區 - 自由時報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.ltn.com.tw/amp/news/world/breakingnews/5478564&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw14Xm8F6FJVMAbRGnWKLLf8",
-          "published": "2026-06-20T14:50:20+00:00",
-          "summary": "〔中央社〕柏林今年夏天受到櫟列隊蛾毛蟲侵擾，多座公園、戶外游泳池被迫暫時關閉。專家指出，這種過去主要分布於德國南部的有毒毛蟲，近年受氣候變遷影響逐漸&nbsp;..."
+          "title": "九合一選舉倒數200天為氣候而選團隊將走訪競選辦公室催生氣候政見 - 聯合新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/amp/story/7266/9580292&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3oRQnKCzc588bqASMwZsXa",
+          "published": "2026-06-22T02:43:57+00:00",
+          "summary": "... 淨零排放、再生能源轉型的政策有廣泛且正面的支持，其中有52.4%民眾認為，未來5年內就要為氣候變遷多付出成本。為氣候而選團隊表示，未來2個月將擴大蒐集&nbsp;..."
         },
         {
-          "title": "岑智明指厄爾尼諾現象會令全球各地氣溫異常出現乾旱及水災- RTHK - 香港電台新聞網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.rthk.hk/rthk/ch/component/k2/1859285-20260620.htm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw04asSBPKNXN4hjR5GOwrsK",
-          "published": "2026-06-20T14:04:43+00:00",
-          "summary": "香港新聞博覽館舉行講座討論氣候變化情況。香港天文台前台長、香港科技大學環境及可持續發展學部客席教授岑智明表示，近十年全球平均氣溫加速上升，2024年的&nbsp;..."
+          "title": "環保標章電子證書新登場！ 數位轉型，更安全、更快速、更好查！",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/page/3b3c62c78849f32f/7e5be16f-c671-4527-9aab-043403eaf35d&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0e1tFmYgdcfH36SgHuTSOm",
+          "published": "2026-06-22T02:18:43+00:00",
+          "summary": "為因應政府數位轉型並落實淨零減碳政策，環境部於22日發布「環境部環境."
         }
       ]
     }
