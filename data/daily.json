@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-06-23T05:00:41.227889+00:00",
-    "date": "2026-06-23",
+    "generated_at": "2026-06-24T05:01:59.010267+00:00",
+    "date": "2026-06-24",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "OpenAI 啟動開源資安計畫 Patch the Planet：資安戰場正從「找漏洞」轉向「修漏洞」",
-          "link": "https://techorange.com/2026/06/23/openai-patch-the-planet-daybreak-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-23T03:48:15+00:00",
-          "summary": "AI 已經改寫了資安的物理規則，而本週，OpenAI 正式把這場改寫推進到下一階段。該公司擴大旗下的 Daybreak 資安計畫，把重心從「發現漏洞」推向端到端的修補自動化，一連串發布裡最受關注的，是一項名為「Patch the Planet」的開源計畫。 這背後是一個正在發生的瓶頸轉移。長期以來，找出一個嚴重漏洞需要稀缺的專業、大量時間，以及對複雜系統的深入熟悉，這道門檻讓「發現漏洞」成為整條資"
+          "title": "5 大巨型 AI 交易案吸走全球創投近 60% 資金：KPMG 揭台灣新創如何站上硬體巨人肩膀突圍？",
+          "link": "https://techorange.com/2026/06/24/q1-26-venture-pulse-report-global/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-24T04:24:30+00:00",
+          "summary": "專訪：戴季全撰稿：李昀蔚 KPMG 在最新發布的《2026年第一季創投脈動：全球創業投資分析》指出，2026 年 Q1 全球創投投資總金額達 3,309 億美元，創下單季歷史新高。KPMG 安侯建業創新與新創服務團隊主持會計師黃海寧在《全新一週》專訪中指出，這波成長真正值得注意的，不只是金額變大，而是市場呈現出「高品質資產受到巨頭追逐，但一般標的流動性還是受到限制」的「雙速發展」局面。 AI 巨型"
         },
         {
-          "title": "川普按下量子競賽加速鍵：2028 量子電腦目標，為何讓比特幣、金融網路與政府資安同步備戰？",
-          "link": "https://techorange.com/2026/06/23/trump-launches-quantum-race-as-crypto-faces-q-day-threat/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-23T03:47:04+00:00",
-          "summary": "美國總統川普在 6 月 22 日簽署兩項具備高度戰略意義的行政命令：一項目的是在加速美國量子運算技術的發展，另一項則著眼於防範量子技術成熟後，對現有加密系統造成的資安威脅。 這兩項命令不只將量子科技明確提升至美國經濟與國家安全的優先層級，更被視為美中科技角力的關鍵布局。與此同時，聯邦政府大動作推進的防禦政策，也讓「後量子加密」與比特幣的資安問題，再次成為焦點。 劍指 2028，開啟「量子驅動科學發"
+          "title": "SAS Customer Intelligence 360 結合代理 AI 再次攜手遠東商銀打造「懂你」的財富管理",
+          "link": "https://techorange.com/2026/06/24/sas-customer-intelligence-360-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-24T03:00:00+00:00",
+          "summary": "當數位金融從產品導向走向客戶體驗導向，客戶期待的，不再只是快速便利的交易流程，而是銀行能在不同人生階段與互動情境中，提供更即時、更貼近需求的服務價值。遠東商銀與全球數據分析大廠 SAS 強強聯手，近期導入 SAS Customer Intelligence 360，結合數據分析、AI 應用、代理式人工智慧（Agentic AI），實踐行銷自動化，布局智慧金融下一階段成長動能。 以客戶旅程為核心　遠"
         },
         {
-          "title": "AI Agent 進公司誰來管？Accenture 點名 HR 扛責，PwC 示警入門職缺「資深化」",
-          "link": "https://techorange.com/2026/06/23/ai-agent-accenture-pwc/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-23T02:10:20+00:00",
-          "summary": "隨著技術快速演進，AI 逐漸引發一場從管理核心到基層人才庫的全面結構性革命。在企業內部，AI Agent 正逐漸轉變為需要被導入、訓練與管理的數位工作夥伴。Accenture UK and Ireland 執行長 Matt Prebble 近日表示，AI 正在促使企業董事會重新思考如何重塑員工隊伍與領導架構，未來企業在營運時，將必須面對同時管理人類員工、AI 代理程式與技術系統的混合型態。 同時，"
+          "title": "AI 機器人最缺的不是模型而是資料，新創 XDOF 如何切入這個基礎設施缺口？",
+          "link": "https://techorange.com/2026/06/24/ukraines-land-robots/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-24T02:48:57+00:00",
+          "summary": "要讓機器人真正能運作，需要的不只是更好的模型或更快的晶片，而是一種非常稀缺的東西：大規模、高品質的物理互動訓練資料。新創公司 XDOF 想做的，正是填補這個缺口。 語言模型有公開文字，機器人沒有 語言模型的崛起，很大程度上靠的是網路上海量的公開文字資料。但機器人需要的是捕捉物理互動的資料，包括手如何抓取物件、力道如何調整、動作如何修正，這類資料幾乎不存在。 YouTube 影片和外包工作者拍攝的畫"
         },
         {
-          "title": "攔截消費決策最起點：房產巨頭 Zillow 布局 NotebookLM，讓 AI 化身購屋族專屬軍師",
-          "link": "https://techorange.com/2026/06/23/zillow-notebooklm-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-23T01:47:59+00:00",
-          "summary": "生成式 AI 快速改變消費者獲取資訊的方式，品牌競爭的戰場也正在悄悄前移。過去，購屋族可能先上房地產網站搜尋物件、閱讀文章，接著才聯繫房仲或申請貸款；如今，越來越多人習慣先向 AI 詢問問題、整理資訊，再決定下一步行動。對房地產平台而言，誰能在消費者形成決策之前搶先提供可信賴的答案，誰就更有機會成為最終被選擇的品牌。 美國房地產平台 Zillow 近日宣布與 Google 合作，在 Noteboo"
+          "title": "PepsiCo 41 輛無人卡車上路：全美首家公開大規模商轉的消費品巨頭",
+          "link": "https://techorange.com/2026/06/24/pepsico-driveless-trucks-ai-gatik/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-24T01:56:57+00:00",
+          "summary": "一輛載滿 Doritos 和 Frito-Lay 零食的卡車駛出配送中心，沿著亞利桑那州的公路前往 Walmart 門市時，外觀看起來與一般貨車並無不同。然而，駕駛座上卻空無一人。這並非測試場景，而是 PepsiCo 已經投入日常營運的物流網路。 《華爾街日報》報導，PepsiCo 近日宣布，已在亞利桑那、德州、阿肯色州部署共 41 輛由自駕物流公司 Gatik 提供技術的無人駕駛卡車，成為美國第"
         },
         {
-          "title": "【金融業資安新威脅】駭客改打 IT 支援電話，傳統憑證防禦出現結構性破口",
-          "link": "https://techorange.com/2026/06/23/hacker-mfa-steals-token-crowdstrike/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-23T01:12:36+00:00",
-          "summary": "多因素驗證（MFA）雖能保護基於密碼的認證機制，但當前主導金融服務業的駭客攻擊，卻是正在透過重設密碼、授予驗證碼及漏洞利用等方式，繞過傳統的密碼竊取，構成全新的威脅體系。"
+          "title": "【科技早餐】五眼聯盟示警 AI 資安倒數，微軟搶電、NVIDIA 液冷與美光記憶體同步升溫",
+          "link": "https://techorange.com/2026/06/24/ai-cybersecurity-infrastructure-race/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-23T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊五眼聯盟示警 AI 資安進入「數月倒數」 由美國、英國、加拿大、澳洲和紐西蘭組成的情報共享網路「五眼聯盟」發布聯合聲明，警告前沿 AI 模型正在快速改變網路攻防能力，而且時間表不是以年計，而是以月計。聲明指出，前沿 AI 模型預計將超越現有產業預期，從根本改變攻擊與防禦兩端的網路能力。 五眼聯盟認為，先進 AI 模型可能協助攻擊者更快尋找漏洞、撰"
         },
         {
-          "title": "【個人化虛擬商場】從爬蟲技術到品牌數據生意，The Mall 想做購物版 Spotify",
-          "link": "https://techorange.com/2026/06/23/the-mall/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-23T01:12:08+00:00",
-          "summary": "線上購物的資訊長期處於碎片狀態，每個品牌各自經營官網、社群與電子報，消費者得自己開著一堆分頁、訂閱一堆電子報，才能拼湊出完整的購物情報，而新創公司 The Mall 想解決的正是這個問題，於是它把「逛商場」這件事搬回線上。 The Mall 讓使用者用自己最愛的品牌打造一座專屬的虛擬商場，並同步追蹤所有折扣，滿足消費者對「個人化虛擬商場」的想像。 立志把時尚品牌收攏到同一個數位屋簷下 The Ma"
+          "title": "「未來一定是機器人送包裹。」京東集團創辦人劉強東揭如何讓 70 萬配送員轉型維修人才",
+          "link": "https://techorange.com/2026/06/23/robots-will-replace-700000-delivery-workers-sooner-or-later-warns-jd-com-boss/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-23T10:17:51+00:00",
+          "summary": "中國大型電商京東集團創辦人、董事局主席劉強東近日在亞太經濟合作會議（APEC）CEO 論壇上表示，未來的包裹配送一定會由機器人完成，配送員遲早將不再被需要。 然而，劉強東同時表示：「我真的不希望我們的 70 萬名兄弟沒有飯吃、沒有工作。」因此，京東已經開始為這批龐大的配送員大軍規劃重新培訓與轉型方向，劉強東也強調，科技應該「讓人類的生活變得更好」，讓工作「更有趣」，而不是「剝奪人類工作的權利」。 "
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "直擊六千億大繼承潮焦慮！看遠銀家族辦公室如何結合慈善信託，幫客戶化解家族傳承危機",
-          "link": "https://www.gvm.com.tw/article/129659",
-          "published": "2026-06-23T00:00:00",
-          "summary": "2026年，臺灣將迎來規模高達六千億元的中小企業「大繼承潮」。面對這場世紀傳承，許多第一代創辦人赫然發現，傳統只看投資績效與單點避稅的理財模式早已失靈。當接班焦慮、全球反避稅浪潮與家族成員跨境佈局的三方夾擊來襲，稍有不慎，便可能引發天價稅務與股權分裂危機。高資產客群需要的，不再只是單純的「管錢」，而是涵蓋有形資產防禦與無形價值延續的「家族治理」。&nbsp;一對年近七旬的跨國自行車零件廠創辦人，打"
+          "title": "英相施凱爾辭職後，可望入主唐寧街的「北方之王」柏南是誰？",
+          "link": "https://www.gvm.com.tw/article/131009",
+          "published": "2026-06-23T19:08:00",
+          "summary": "因陷入施政爭議、支持度暴跌，加上地方選舉慘敗等多重危機，英國首相施凱爾22日宣布辭去首相與工黨黨魁職務。工黨預計在7月啟動黨魁改選程序，而有「北方之王」之稱的柏南已獲大批議員支持，極可能接任工黨黨魁，成為英國新任首相。英國首相施凱爾（Keir Starmer）22日宣布請辭首相及執政黨工黨（Labour Party）黨魁，成為過去10年來第6位下台的首相。他此次辭職，是由於任內面臨連串施政爭議，包"
         },
         {
-          "title": "「永豐小店學」打造小店永續韌性",
-          "link": "https://www.gvm.com.tw/article/130853",
-          "published": "2026-06-23T00:00:00",
-          "summary": "一家復育台灣原生種的有機農場、一個照護鄰里長者的社區據點、或是一間傳承產業文化的社會企業，這些懷抱理想的小店，在無數地方角落編織著獨特的地方生態系。但日常營運所面臨到的商品開發、社群行銷、帳務管理、通路策略等，每一道關卡都可能讓懷抱理想的創業路窒礙難行。小店，是地方創生最真實的載體永豐基金會自2022年啟動「小店永豐計畫」，在實際走訪近百家小店的過程中，深刻感受到小店們對於實務問題的迫切需求，小店"
+          "title": "少子化下的生育時差！從備孕到就診隔2至7年，立委：用人工生殖補助「38歲最多」",
+          "link": "https://www.gvm.com.tw/article/131008",
+          "published": "2026-06-23T18:44:00",
+          "summary": "從備孕到走進生殖門診，為何一拖多年？婦產科醫師出身的國民黨立委陳菁徽說，居住、養育、薪資與工時的壓力，讓不少人生育規畫延後；部分人從嘗試懷孕到就診相隔2至7年。她引述國健署資料指出，人工生殖補助使用者以38歲最多。補助之外，生育資訊、托育銜接與心理支持也待補上。台灣少子化問題嚴峻，生育困境常被概括為三類：「不想生」、「不敢生」，以及「想生但生不出來」。三者面對的處境不同，政策也不能只靠同一套解方。"
         },
         {
-          "title": "美國夢破滅！一年花費320萬太沉重，「這國」逆襲成留學黑馬",
-          "link": "https://www.gvm.com.tw/article/130980",
-          "published": "2026-06-22T19:12:00",
-          "summary": "1970年代，台灣盛行一句口號「來來來，來臺大；去去去，去美國！」短短12個字成為當年精英學子的「人生勝利組方程式」，即便進入21世紀，依然如此。不過近兩年情勢逆轉，赴美留學一年總費用突破10萬美元大關（逼近新台幣320萬元），導致全球高教大洗牌，日、韓、新、香港等地國際生增加。其中，最意外的是馬來西亞，單季的「留學」搜尋量暴增64％，為什麼？今年5月底，NAFSA（美國國際教育者協會）、Stud"
+          "title": "記憶體夯，PC如何度低潮？祥碩押注高速互連、ASIC與實體AI",
+          "link": "https://www.gvm.com.tw/article/131007",
+          "published": "2026-06-23T18:35:00",
+          "summary": "千金股祥碩（5269），去年一度叩關2000元股價，今年因PC進入低潮期股價較不亮麗，能翻身嗎？近期股東會後，總經理林哲偉受訪談公司轉型大計。他表示，受到記憶體供給失衡與價格飆漲影響，傳統PC市場正面臨需求放緩壓力，主機板市場更是首當其衝。面對既有市場成長趨緩，祥碩已啟動為期5年的轉型計畫，將資源投入AI伺服器、實體AI（Physical AI）、機器人以及高速互連技術等新領域，希望打造下一波成長"
         },
         {
-          "title": "國防部：教召14天今年起全面實施，取消「1次抵2次」鼓勵",
-          "link": "https://www.gvm.com.tw/article/130987",
-          "published": "2026-06-22T18:49:00",
-          "summary": "國防部今天表示，14天教召自111年起試行，當時仍與5至7天教召制度併行，而今年起統一為14天訓期，同時給予14天教召者以教召2次計算的鼓勵也取消，統一改為列計1次；另外，今年採「原兵歸原位」作法使專長相符率達93%。立法院外交及國防委員會邀請國防部長顧立雄24、25日專案報告「教育召集制度公平性、後備軍人實戰化施訓成效與女性召訓配套措施」、並備質詢，報告書下午已送抵立法院。國防部在報告書中指出，"
+          "title": "花蓮新堰塞湖最快10天恐溢流！萬里溪橋「封閉警戒值」擬調嚴",
+          "link": "https://www.gvm.com.tw/article/131006",
+          "published": "2026-06-23T18:24:00",
+          "summary": "花蓮萬里溪上游發現新增堰塞湖，估10到20天內有溢流風險。交通部今天表示，萬里溪橋距離新堰塞湖約30公里，相關單位正研議更嚴格封閉警戒值，已成立群組，交通部後續將配合。花蓮縣萬里溪上游發現新增堰塞湖，行政院政務委員季連成今天接受廣播節目專訪時表示，目前估計10天到20天內有溢流風險，林保署已經成立應變小組。交通部公路局表示，內部針對防災都有一套相對完整的機制，像是預警性封閉，目的為發生災害時，道路"
         },
         {
-          "title": "英國首相施凱爾宣布請辭，談話語帶哽咽！執政黨新黨魁可能是誰？",
-          "link": "https://www.gvm.com.tw/article/130985",
-          "published": "2026-06-22T18:40:00",
-          "summary": "英國首相施凱爾（Keir Starmer）今天上午在唐寧街宣布請辭執政黨工黨黨魁一職。新黨魁的選舉將自7月9日起接受候選人提名，最晚在8月底確認新黨魁；在此之前，施凱爾將擔任看守首相。在英國的內閣制體制下，首相原則上就是執政黨黨魁，執政黨選出的新黨魁就是英國新首相。新選出的工黨黨魁將是英國自2016年舉行脫歐（Brexit）公投以來，近10年來的第7位首相。施凱爾今天在唐寧街對全國民眾發表談話時，"
+          "title": "給新手主管：部屬叫不動，可能是你這6件事沒做對",
+          "link": "https://www.gvm.com.tw/article/131005",
+          "published": "2026-06-23T15:20:00",
+          "summary": "新手主管一上任，最常遇見的問題是，你拚命要部屬「當責」，得到的卻是無視與被動。為何我的部屬老是叫不動？但其他團隊卻可以很主動？專家指出，問題可能不在主管是否真誠或懂得賦權，而是誤判了同事們當下的需要。這六大基本需求，你顧到了嗎？沒接住這些部屬的真實需求，你最終還是會帶出消極團隊。組織從未如此大力投資領導，然而，員工對領導人的信任現正降到前所未有的低點。全球員工與經理人的工作投入分數正在下滑，職業倦"
         },
         {
-          "title": "台灣新手奶爸的告白：這個社會預設養小孩很辛苦，自然沒人想吃苦",
-          "link": "https://www.gvm.com.tw/article/130986",
-          "published": "2026-06-22T18:27:00",
-          "summary": "根據政府的統計數據，台灣近年總生育率持續探底，2020年起總生育率跌破1（婦女一生中生育子女的總數），2022年起跌破0.9，到了去年甚至再跌破國發會預估的0.87，來到新低的0.695，生育率全球最低。為何沒人想生小孩？《遠見》採訪兩位新手奶爸，分享最真實的育兒甘苦談。為何他們認為韓國雖然也少子化，這一點似乎比台灣好？看到許多網友留言抱怨育兒補貼，認為他們的稅金「不該用來養小孩」，心中又有何感受"
+          "title": "尹衍樑辭世後首露面！尹崇堯憶父親誠信正直風範，談接班「專注南山人壽」",
+          "link": "https://www.gvm.com.tw/article/131001",
+          "published": "2026-06-23T14:49:00",
+          "summary": "潤泰集團總裁尹衍樑5月底辭世，南山人壽董事長尹崇堯今天對外首談父親。他說，父親是很誠信正直的人，為人瀟灑自在，「真的是大俠心懷天下的風格」，他的精神與風骨對家人都有很深的影響。談及集團接班議題，尹崇堯回應，他身為南山人壽董事長，就是專注南山人壽發展，與過去角色沒有太大變化。南山人壽今天舉行115年股東常會，尹崇堯會後接受媒體聯訪。潤泰集團總裁、唐獎創辦人暨南山人壽董事尹衍樑於5月26日辭世，外界關"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "ESG遠見共好圈》高齡、缺工、<b>淨零</b>風險夾擊，8大首獎企業分享永續如何變成競爭力？",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://esg.gvm.com.tw/article/119940&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1it6IjfeJSyDiWE1RsRu62",
-          "published": "2026-06-23T02:39:25+00:00",
-          "summary": "《遠見》共好圈於6月17日舉辦「ESG企業典範培力課程」，邀集2026《遠見》ESG企業永續獎八大主題首獎企業，分享從樂齡友善、職場共融、人才發展到低碳營運、社會&nbsp;..."
+          "title": "今年碳費預計支出29億元補助地方以住商、運輸減量為先 - 環境資訊中心",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://e-info.org.tw/node/243571&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0fnuDULSbWQ6vB1mbGzF6P",
+          "published": "2026-06-24T01:31:23+00:00",
+          "summary": "20260618_碳費研商會_溫管基金_淨零轉型_環境 環境部氣候變遷署18日舉辦「溫室氣體減量技術及氣候變遷調適補助辦法」草案及「溫室氣體管理基金專案貸款信用&nbsp;..."
         },
         {
-          "title": "<b>淨零</b>減碳顧海洋廢棄漁網回收換禮券 - 台灣民眾電子報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.allnews.tw/news/91275&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw347b8Occikr64w_zZE2QAJ",
-          "published": "2026-06-23T02:21:56+00:00",
-          "summary": "台灣民眾電子報| 【本報記者楊雅晴高雄報導】高雄市政府海洋局今（115）年持續與海洋委員會海洋保育署、各區漁會攜手合作，正式啟動「廢漁網回收再利用計畫」，&nbsp;..."
+          "title": "巴黎羅浮宮因熱浪罕見提前閉館：<b>氣候變遷</b>衝擊文化遺產 - 新華報導",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ccss3172.blogspot.com/2026/06/blog-post_3477.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0C_nUvTACUylfNq69fh07x",
+          "published": "2026-06-24T00:41:29+00:00",
+          "summary": "當地時間6月23日，法國巴黎羅浮宮博物館宣布，受持續高溫天氣影響，自6月24日至27日，該館每日閉館時間將由原定的18時提前至16時。這項罕見的措施，不僅反映了歐洲正&nbsp;..."
         },
         {
-          "title": "引領<b>淨零</b>新風潮！第5屆綠色化學應用及創新獎登場 - 環境部新聞專區",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/page/3b3c62c78849f32f/c82dd481-d55f-449c-9380-845353a97878&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3OAOFkMA6EyOzKyaBkzKXi",
-          "published": "2026-06-23T02:02:02+00:00",
-          "summary": "一場屬於臺灣綠色化學頂尖對決的盛事正式拉開序幕！由環境部主辦之「第5."
+          "title": "<b>淨零</b>減碳顧海洋高市海洋局啟動廢漁網回收每10公斤可換100元禮券 - 亞太新聞網ATA News",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.atanews.net/%3Fnews%3D121762&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3ulof1kPqZUPvVdwwQc3cD",
+          "published": "2026-06-23T23:25:00+00:00",
+          "summary": "為落實淨零減碳與海洋環境永續目標，高雄市政府海洋局今年持續攜手海洋委員會海洋保育署及各區漁會推動「廢漁網回收再利用計畫」，鼓勵漁民將閒置不用的廢棄漁網&nbsp;..."
         },
         {
-          "title": "<b>气候变迁</b>发威！全球面临极端“热压力” 增10亿人受影响",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sinchew.com.my/news/20260623/international/7609846%3Fvariant%3Dzh-hant&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3I_uyX4Fisfou1Ner_Dvh0",
-          "published": "2026-06-22T23:31:24+00:00",
-          "summary": "（馬賽23日綜合電）今天發佈的一項研究指出，在氣候變遷的推波助瀾下，過去半世紀以來，全球暴露於危險“熱壓力”（heat stress）的人數急遽增加。"
+          "title": "因應<b>氣候變遷</b>苗縣府推綠建築 - 中時新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/newspapers/20260624000648-260107&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3RHHaah5smXsQC1hzGxs-P",
+          "published": "2026-06-23T23:24:30+00:00",
+          "summary": "為因應全球氣候變遷與淨零排放趨勢，推動環境友善與資源永續利用，縣府工商發展處制定綠建築基準，落實永續與淨零目標，並提醒民眾與建築業者在申請建造執照或&nbsp;..."
         },
         {
-          "title": "碳費入帳七成補助企業|半導體|產業新聞|產科國際所【IEK產業情報網】",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D9%26nsl_id%3D237186d204164dcb8e1e7eb09c471857&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2f81O6LBhIFs8u9tgXdwxb",
-          "published": "2026-06-22T22:31:09+00:00",
-          "summary": "首筆碳費入帳，撥入溫管基金可支用部分，將有七成、約29億元用於補助企業，包含利息補貼、獎勵減碳技術投資、淨零 ... Net-Zero Sustainability2022｜樂淨零：綠色生活&nbsp;..."
+          "title": "法國創下有記錄以來最熱一天政府啟動醫療應急響應機制 - RFI",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rfi.fr/tw/%25E4%25B8%25AD%25E5%259C%258B/20260623-%25E6%25B3%2595%25E5%259C%258B%25E5%2589%25B5%25E4%25B8%258B%25E6%259C%2589%25E8%25A8%2598%25E9%258C%2584%25E4%25BB%25A5%25E4%25BE%2586%25E6%259C%2580%25E7%2586%25B1%25E4%25B8%2580%25E5%25A4%25A9-%25E6%2594%25BF%25E5%25BA%259C%25E5%2595%259F%25E5%258B%2595%25E9%2586%25AB%25E7%2599%2582%25E6%2587%2589%25E6%2580%25A5%25E9%259F%25BF%25E6%2587%2589%25E6%25A9%259F%25E5%2588%25B6&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1BD-kMtW9uvKpTbX6AztIv",
+          "published": "2026-06-23T21:29:28+00:00",
+          "summary": "法國周二（6月23日）創下有氣象記錄以來全國最熱一天的紀錄。席捲全國的強烈熱浪已持續一周，多地氣溫接連刷新歷史紀錄，並已導致人員死亡，對醫療、教育、能源&nbsp;..."
         },
         {
-          "title": "歐洲遭遇強烈熱浪襲擊法國創6月歷史最高溫紀錄 - RFI",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rfi.fr/tw/%25E4%25B8%25AD%25E5%259C%258B/20260622-%25E6%25AD%2590%25E6%25B4%25B2%25E9%2581%25AD%25E9%2581%2587%25E5%25BC%25B7%25E7%2583%2588%25E7%2586%25B1%25E6%25B5%25AA%25E8%25A5%25B2%25E6%2593%258A-%25E6%25B3%2595%25E5%259C%258B%25E5%2589%25B56%25E6%259C%2588%25E6%25AD%25B7%25E5%258F%25B2%25E6%259C%2580%25E9%25AB%2598%25E6%25BA%25AB%25E7%25B4%2580%25E9%258C%2584&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Rwyj5FJpwRCUOKuqQ65xc",
-          "published": "2026-06-22T21:29:16+00:00",
-          "summary": "這是不到一個月內襲擊西歐的第二輪熱浪。科學界普遍認為，人類活動導致的氣候變化正在加劇包括熱浪在內的極端天氣事件。 法國創下多項歷史高溫紀錄."
+          "title": "法國致命熱浪來襲創1947年以來最高溫",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.worldjournal.com/wj/amp/story/121488/9584531&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0zagYCNFh5ZJy0xk1d_RBZ",
+          "published": "2026-06-23T21:25:11+00:00",
+          "summary": "... 氣候變遷有關。 法國國家氣象局23日將法國一半地區的54 個部門置於紅色熱浪警報之下，巴黎人在聖馬丁運河沐浴。（美聯社）. 氣候變遷 熱浪. 推薦文章. 伊朗&nbsp;..."
         }
       ]
     }
