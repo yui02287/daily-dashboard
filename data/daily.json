@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-06-26T05:08:32.129611+00:00",
-    "date": "2026-06-26",
+    "generated_at": "2026-06-27T04:53:06.825616+00:00",
+    "date": "2026-06-27",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -11,6 +11,24 @@
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
       "items": [
+        {
+          "title": "【麥肯錫人力資源監測報告】HR 職能的存亡分水嶺：主導 AI 勞動力與人機協作或被全面取代",
+          "link": "https://techorange.com/2026/06/27/hr-monitor-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-26T22:29:00+00:00",
+          "summary": "麥肯錫發布的《2026 人力資源監測報告》指出，儘管市場對人工智慧與人本相關技能的需求持續增加，目前僅有 11% 的企業具備長期的戰略能力規劃機制，絕大多數組織的實務操作仍受限於短期的人力數量計算模型。 這種數據反差反映出，企業在營運前瞻與技術導入之間存在結構性斷層。隨著組織逐步引入 AI 代理勞動力，傳統人力資源職責若未能及時適應技術發展，相關業務將面臨被資訊技術或數位部門吸收的可能。 為因應此"
+        },
+        {
+          "title": "AI 資料中心引爆新一波通膨：從記憶體到電力成本升溫，Apple、Xbox 漲價只是開始？",
+          "link": "https://techorange.com/2026/06/26/the-data-center-boom-is-sparking-a-third-wave-of-inflation/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-26T10:26:43+00:00",
+          "summary": "AI 熱潮不只讓科技巨頭的資本支出大幅增加，如今更成為美國新一波的通膨壓力來源。根據全國企業經濟學家協會（NABE）的調查，高達 81% 的受訪經濟學家認為，AI 建設將在未來一年內推升通膨。 《華爾街日報》報導，隨著大規模興建 AI 資料中心，記憶體、儲存晶片、電力與工程人力等成本正加速升溫。例如，近期 Apple 調漲 Mac 與 iPad 價格，以及 Microsoft 再度調漲 Xbox "
+        },
+        {
+          "title": "極致便利 vs 感官探索：麥肯錫拆解 AI 時代的實體門市生存策略",
+          "link": "https://techorange.com/2026/06/26/shopping-in-the-age-of-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-26T10:23:16+00:00",
+          "summary": "生成式 AI 正快速改變消費者的購物方式，也重新定義實體店存在的價值。根據麥肯錫（McKinsey）與國際購物中心協會（ICSC）針對 3,000 多名美國消費者的最新調查，AI 逐漸參與商品搜尋、比較、補貨，甚至直接代為下單，消費者進入實體店的理由正在改變。 實體門市依然是零售的重要據點，但在 AI 時代，消費者每一次走進實體店，都會重新衡量這趟旅程是否值得，因此門市將逐漸分化成兩種截然不同的定"
+        },
         {
           "title": "近 1,000 億電晶體塞進指甲大小晶片：IBM 0.7 奈米技術亮相，靠 3D 堆疊超車先進製程競賽",
           "link": "https://techorange.com/2026/06/26/ibm-sub-1-nm-nanostack-chip/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -28,24 +46,6 @@
           "link": "https://techorange.com/2026/06/26/ai-agents-start-shopping-for-us-retails-identity-stack-needs-a-rewrite/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
           "published": "2026-06-26T02:50:10+00:00",
           "summary": "AI 代理人商務在 2025 年經歷從概念走向現實的關鍵發展階段。在去年全球最繁忙的線上購物季期間，高達 20% 的訂單背後都有 AI 代理人的參與，這也標誌著 AI 代理人商務已經不再只是理論，而是正在成長的趨勢。 隨著這股趨勢迅速蔓延，越來越多零售業者將面對一項新挑戰，那就是出現在結帳環節的顧客，不一定是人類。如果這種新興的購物方式持續發展，預計到 2030 年，AI 代理購物者在美國電子商務"
-        },
-        {
-          "title": "AI 巨頭自己怎麼用 AI？OpenAI、Google、Anthropic 員工正從執行者變「審稿人」",
-          "link": "https://techorange.com/2026/06/26/how-ai-giants-are-using-ai-in-their-own-offices/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-26T02:12:41+00:00",
-          "summary": "未來工作會長什麼樣子？看看那些打造出 AI 工具的公司怎麼用 AI，或許可以找到答案。《華爾街日報》報導，當許多企業還在想辦法催員工使用 AI 時，OpenAI、Google 與 Anthropic 已經走到下一步：把複雜的多步驟任務直接交給 AI「Agent（代理）」，讓員工轉而扮演「審稿人」的角色，負責對 AI 的產出做事實查核。 只是，把工作託付給一個會自己跑出去執行任務的 Agent，本身"
-        },
-        {
-          "title": "【AI 推理成本革命】不再靠人類直覺設計策略，AutoTTS 讓 AI 自己找最省 Token 推理方式",
-          "link": "https://techorange.com/2026/06/26/ai-llm-autotts-framework-token/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-26T01:59:15+00:00",
-          "summary": "來自 Meta、Google 及多所大學的 AI 研究人員，共同研發出了一套能夠自動找出最佳測試階段擴展（Test-time scaling，TTS）策略的框架 AutoTTS，降低模型 Token 用量及營運成本。"
-        },
-        {
-          "title": "【科技早餐】NVIDIA 押 AI 工廠，OpenAI、高通、日本同步重押 AI 基建戰",
-          "link": "https://techorange.com/2026/06/26/nvidia-ai-factory-openai-qualcomm-japan-ai-infrastructure/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-25T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊NVIDIA 押 AI 工廠，黃仁勳喊國安優先 NVIDIA 執行長黃仁勳在年度股東大會上表示，AI 已經從「有趣」走向「有用」，當 AI 開始創造經濟價值，算力需求也會加速擴張。他把新一代資料中心稱為 AI 工廠，核心不再是儲存和傳輸檔案，而是生產 token。這些 token 會成為程式碼、答案、設計、行動和服務的原材料。目前全球近 40 個"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "黃金價格跌破4000美元，近三年的漲勢告終？",
-          "link": "https://www.gvm.com.tw/article/131065",
-          "published": "2026-06-25T19:01:00",
-          "summary": "紐約黃金現貨價格24日盤中跌破每英兩4,000美元，這是去年11月以來首見金價回到3字頭。23日金價收盤己跌1.74%，24日連續第二個交易日挫低，紐約早盤跌幅一度達3.7%，至3,964.72美元。過去三年來，金價年線漲幅都有兩位數，價格已經漲了超過一倍。除了各央行買進，基金經理人和散戶也蜂擁投資黃金。不過今年1月末，就在金價觸及史上最高價，接近每英兩5,600美元後沒有多，黃金上漲的引擎開始失"
+          "title": "北京第一高樓遭小飛機撞擊！「中國尊」大樓冒煙殘骸四散，中國疑封鎖消息",
+          "link": "https://www.gvm.com.tw/article/131122",
+          "published": "2026-06-26T22:26:00",
+          "summary": "中國北京市朝陽區中央商務區（CBD）地標建築「中國尊」（北京中信大廈）26日晚間傳出疑似遭一架小型飛機撞擊。根據目前在社群平台流傳的影片顯示，大樓部分外牆玻璃破裂，地面疑似飛機殘骸，現場一度冒出濃煙，消防車及救援人員迅速抵達，樓內人員也緊急疏散。截至目前為止，中國官方未發布正式事故通報，也未說明是否有人員傷亡及事故原因。根據流傳畫面，一架疑似小型飛機解體後墜落於中信大廈附近，部分殘骸散落在建築物下"
         },
         {
-          "title": "SpaceX能建太空資料中心？七大瓶頸卡關，AWS執行長：火箭根本不夠",
-          "link": "https://www.gvm.com.tw/article/131064",
-          "published": "2026-06-25T18:55:00",
-          "summary": "AI運算需求爆發，SpaceX計畫打造太空資料中心，並於2028年展開部署，透過100萬顆衛星提供龐大算力。然而，專家指出仍面臨重重挑戰。太空運算雖具發展潛力，但距離大規模商業化仍有漫長道路要走。人工智慧（AI）運算需求飆升，但超大規模資料中心，面臨地面電力與散熱的限制，業界對太空資料中心的討論再次升溫。日前創下史上最大IPO紀錄的「太空探索技術公司」（SpaceX）雄心勃勃地計畫，要發射多達10"
+          "title": "老後不健康躺8年！解方：中醫喚醒人體自癒力",
+          "link": "https://www.gvm.com.tw/article/131109",
+          "published": "2026-06-26T19:00:00",
+          "summary": "台灣街頭正以肉眼可見的速度變老，隨著正式跨入「超高齡社會」，殘酷數據也浮上檯面：長輩臨終前，平均有近8年時間臥病在床、生活無法自理。而「不健康餘命」背後，是無數家庭的沉重負擔。面對慢性老化與機能衰退，除了求助西醫，還有其他選擇嗎？專家指出，中醫藥或許是迎戰高齡海嘯的解方，它能從根本啟動人體的自癒生機！想像一個場景：45歲、正在半導體大廠擔任高階主管的中生代，正值事業、收入的黃金時期。他10歲的孩子"
         },
         {
-          "title": "跨黨議員轟北市府「螺絲根本不見」！豪雨釀災內湖最慘，工務局回應了",
-          "link": "https://www.gvm.com.tw/article/131063",
-          "published": "2026-06-25T18:50:00",
-          "summary": "台北市今天大雨導致逾百件積淹水災情，跨黨派議員齊轟市府反應速度慢、「螺絲根本不見」，市府表示，此次降雨量已超過區域排水系統容受力，將持續提升全市承洪量。受颱風米克拉及西南風增強影響，台北市今天上午出現劇烈降雨，市府統計至下午2時止，共接獲150件災情通報，包含積淹水107件、土石災情22件，多數發生在內湖區。國民黨台北市議員游淑慧下午在台北市議會臨時大會發言表示，市府處理內湖災情的狀況已經不是「螺"
+          "title": "「連五秒逃生時間都沒有！」委內瑞拉百年最強震，恐逾萬人死亡",
+          "link": "https://www.gvm.com.tw/article/131120",
+          "published": "2026-06-26T18:54:00",
+          "summary": "委內瑞拉24日接連發生規模7.2、7.5強震，創下逾百年最強地震紀錄，首都卡拉卡斯及周邊地區災情慘重，大量大樓倒塌、停電斷網，民眾驚呼「連五秒逃生時間都沒有」。許多民眾受困瓦礫堆，搜救持續進行，美國地質調查局估算死亡人數恐達數千至逾萬人。委內瑞拉24日傍晚接連發生規模7.2及7.5強震，兩次地震相隔僅約一分鐘，為該國逾百年來遭遇的最強地震。首當其衝的首都卡拉卡斯（Caracas）及周邊地區災情極為"
         },
         {
-          "title": "工程師獎金多到不知如何花、非科技業遭排擠：紐時直擊竹科AI榮景另一面",
-          "link": "https://www.gvm.com.tw/article/131061",
-          "published": "2026-06-25T18:13:00",
-          "summary": "隨著台灣半導體產業起飛，台積電開始生產幾乎用於各類電子裝置的晶片，其中包括驅動人工智慧（AI）熱潮的先進晶片。新竹原本的稻田已讓位給一座座工廠，成為推動全球經濟的重要產業核心，但工廠、辦公大樓與豪華住宅林立，也逐漸將農民擠出這片土地。紐約時報報導，艾波．羅（April Lo）16年前搬到新竹時，這裡沒有百貨公司、商業園區，也沒有高級餐廳。她還記得，台灣最搶手的不動產曾經是農地，「當時非常荒涼。」如"
+          "title": "委內瑞拉強震警訊：這種建物很致命！台灣921地震也是前車之鑑",
+          "link": "https://www.gvm.com.tw/article/131118",
+          "published": "2026-06-26T18:49:00",
+          "summary": "委內瑞拉日前接連發生規模7.2及7.5的兩起強震，造成首都卡拉卡斯大量建築倒塌、死傷慘重。雖然發生在遠方，但這場災難為美國加州敲響警鐘。洛杉磯、舊金山與卡拉卡斯同樣位於活躍地震帶，都存在大量耐震力不足的老舊建築，一旦遭遇強震，恐重演類似悲劇。委內瑞拉地震中大量建築倒塌的悲劇，過去也曾發生在台灣1999年921地震、紐西蘭2011年地震、墨西哥2017年地震，以及2023年土耳其、敘利亞強震。專家表"
         },
         {
-          "title": "《名偵探柯南：高速公路的墮天使》寫下連4部破百億的影史紀錄！柯南如何締造票房奇蹟？",
-          "link": "https://www.gvm.com.tw/article/131039",
-          "published": "2026-06-25T18:01:00",
-          "summary": "動畫電影《名偵探柯南：高速公路的墮天使》是《名偵探柯南》劇場版系列的第29部作品，也是連續第4年突破100億日圓的柯南電影。隨著每年電影的上映，柯南早已超越單純的動漫角色，而是一種陪伴無數人成長的共同記憶。《名偵探柯南》自1994年連載至今，它早已成了日本最具代表性的漫畫經典，在青山剛昌筆下，這是部描述高中生偵探工藤新一被黑衣組織灌下神祕藥物導致自己縮小後，他試圖調查該組織，以及破獲其他各種案件，"
+          "title": "怕暈船也能玩！屏東海生館「室內搭船」7/1啟航，上帝視角解鎖海底隧道",
+          "link": "https://www.gvm.com.tw/article/131117",
+          "published": "2026-06-26T18:37:00",
+          "summary": "炎炎夏日，想要親近海洋卻又害怕外海的驚濤駭浪與暈船不適嗎？屏東國立海洋生物博物館今年暑假帶來了顛覆傳統的全新玩法！打破過去只能「隔著玻璃看魚」的靜態參觀模式，海生館於6月18日正式宣布推出全新體驗活動「零距離海上漫遊」，並全面開放7月1日起的場次報名。這不僅是全台極罕見的博物館室內乘船體驗，更是首度將神祕的「後場水域」化為遊客專屬航道。一起來開箱這場不用出海也能感受的沉浸式生態之旅！【目錄】 • "
         },
         {
-          "title": "真正的「上流老人」不是住豪宅、開名車、坐商務艙，是顧好「這3件事」",
-          "link": "https://www.gvm.com.tw/article/131060",
-          "published": "2026-06-25T17:38:00",
-          "summary": "什麼是「上流老人」？不是住豪宅、開名車，也不是退休後天天出國旅行。真正的上流老人，是老了以後，依然擁有選擇人生的能力：有穩定現金流，不必每天擔心錢夠不夠用；有健康的身體，不用害怕自己突然倒下；有生活重心與目標，不會把晚年活成漫長的空虛。（本文節錄自《上流老人退休寶典》一書，作者：葉美麗，吳俊德／聲音研制所出版，以下為摘文。）人生最慘的情況，就是「錢花完了，人還活著！」什麼叫作「上流老人」？不是住豪"
+          "title": "限量球衣、噴水與球場美食，西武獅如何吸引年輕人進場？",
+          "link": "https://www.gvm.com.tw/article/131116",
+          "published": "2026-06-26T18:34:00",
+          "summary": "走進日本埼玉縣的Belluna巨蛋，迎面而來的除了激烈的棒球賽以外，還有時尚品牌的聯名限定服飾、活力四射的啦啦隊，以及選手敲出全壘打時、加農砲對著觀眾席噴水狂歡的派對現場。在本土市場已趨於飽和的現狀下，西武獅的對手早已不再只是計分板上的對手，他們必須和電影、演唱會與串流平台爭奪消費者的時間。隨著雙獅交流賽在台灣熱烈開打，他們的跨海戰略也超越單純的情懷交流，希望開拓B2B商機。西武獅「不只看球」的體"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "【兩岸經貿講座】台南場延期公告",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.seftb.org/cp-2-2734-53690-1.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Aeo1YaKj_fGvBKx9y1-36",
-          "published": "2026-06-26T00:26:44+00:00",
-          "summary": "【最新影片】兩岸經貿講座：2026淨零碳中和路徑實務、碳會計與CBAM申報【焦點新訊】. 蘇嘉全：感謝台商攜手海基會守護國人持續協助台商轉型升級再創商機&nbsp;..."
+          "title": "全球日夜複合高溫事件增彭啓明：擬推抗40度演練",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.immigration.gov.tw/NewsSection/Detail/f42e9c02-5847-4bb1-bfce-4dcc1bbca881&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0E05so11FmYskgnFA6H4CG",
+          "published": "2026-06-27T01:46:48+00:00",
+          "summary": "由國際期刊「自然氣候變遷（Nature Climate Change）」發布的一篇由歐洲中期天氣預報中心等機構團隊完成的研究指出，全球熱壓力正在增強，且影響範圍正在&nbsp;..."
         },
         {
-          "title": "歐洲熱浪將東移德國和捷克等發出極端高溫預警- RTHK",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.rthk.hk/rthk/ch/component/k2/1859941-20260626.htm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2jWzY1glqkAsSFODDABjB7",
-          "published": "2026-06-25T20:19:43+00:00",
-          "summary": "《聯合國氣候變化框架公約》執行秘書斯蒂爾說，席捲歐洲的熱浪明顯可見氣候變遷的影響，呼籲加快向可再生能源轉型，保護森林，並增強應對氣候變遷的能力。"
+          "title": "致命毒蛇變鄰居<b>氣候變遷</b>改寫蛇類版圖 - 倡議家",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ubrand.udn.com/ubrand/amp/story/123658/9574392&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0p8x-pSoPj4VV2E2fKFyBO",
+          "published": "2026-06-27T00:53:14+00:00",
+          "summary": "參考資料. 衛報（2026年5月21日），Risk of snakebites increasing as reptiles adapt to changing world, says study; PLOS（2026年5月21日），Climate change&nbsp;..."
         },
         {
-          "title": "【活動】<b>氣候變遷</b>調適：災害治理自然解方(NbS) 的實踐與思辨論壇",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.civilmedia.tw/event/%25E3%2580%2590%25E6%25B4%25BB%25E5%258B%2595%25E3%2580%2591%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E8%25AA%25BF%25E9%2581%25A9%25EF%25BC%259A%25E7%2581%25BD%25E5%25AE%25B3%25E6%25B2%25BB%25E7%2590%2586%25E8%2587%25AA%25E7%2584%25B6%25E8%25A7%25A3%25E6%2596%25B9-nbs-%25E7%259A%2584%25E5%25AF%25A6&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1pW4Eh3Sy2VFZEa-7TkuBK",
-          "published": "2026-06-25T18:35:41+00:00",
-          "summary": "文／地球公民基金會. 時間：2026/6/27（六）13:30-17:00 地點：生態公會講堂（台北市大同區南京西路293巷9號2樓）. 台灣過去為了因應災害風險，習慣透過築堤束水、築&nbsp;..."
+          "title": "Five cutting-edge inventions win ITRI Elite Awards - Formosa News - 民視新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://english.ftvnews.com.tw/news/2026626W01EA&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0kviGTN9av0FTVCpwa7Kk2",
+          "published": "2026-06-26T23:22:14+00:00",
+          "summary": "The projects covered fields such as AI, next generation communications and net-zero sustainability. ... 淨零永續等領域。其中，「AI賦能百工百業&nbsp;..."
         },
         {
-          "title": "BEKO 推出HOC-R熱回收式乾燥機助力企業加速<b>淨零</b>轉型 - 是新聞YesMedia",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.yesmedia.com.tw/beko-%25E6%258E%25A8%25E5%2587%25BAhoc-r%25E7%2586%25B1%25E5%259B%259E%25E6%2594%25B6%25E5%25BC%258F%25E4%25B9%25BE%25E7%2587%25A5%25E6%25A9%259F-%25E5%258A%25A9%25E5%258A%259B%25E4%25BC%2581%25E6%25A5%25AD%25E5%258A%25A0%25E9%2580%259F%25E6%25B7%25A8%25E9%259B%25B6%25E8%25BD%2589%25E5%259E%258B/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0lRIa8wgTgR5srW83qL5Iw",
-          "published": "2026-06-25T17:58:43+00:00",
-          "summary": "【記者張嘉誠／綜合報導】. 為喚起全球對氣候變遷與永續發展的關注，企業在節能減碳與ESG實踐上的行動力，正成為衡量競爭力的重要指標。"
+          "title": "台積電推半導體供應鏈<b>淨零</b>轉型|半導體|產業新聞|產科國際所【IEK產業情報網】",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D1%26nsl_id%3D812dff5d8b904678a18749c6db0d7cde&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0WdKJQE-hI_orbgaK1e1US",
+          "published": "2026-06-26T22:51:46+00:00",
+          "summary": "為協助供應鏈夥伴強化碳管理能力，經濟部產業發展署委託財團法人台灣綜合研究院辦理「製造部門淨零 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
         },
         {
-          "title": "臺南推動ESG產業交流鏈結再生水應用新契機-勁報Power News",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://twpowernews.com/news_pagein.php%3FiType%3D1011%26n_id%3D292822&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw36kHH0v8tyBNdc97QCxnPa",
-          "published": "2026-06-25T17:42:36+00:00",
-          "summary": "勁報記者于郁金/臺南報導】面對全球淨零轉型與永續供應鏈趨勢，臺南市政府持續推動產業ESG轉型與跨域合作；25日由南市府經濟發展局與南台灣紡織研發聯盟共同&nbsp;..."
+          "title": "廉政專區 - 高雄市政府環境保護局",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ksepb.kcg.gov.tw/FileList/integrity%3FSubCategoryID%3Ddf686bfe-2960-4786-8b4a-8b9bbfebfff3%26ID%3Dcf667f41-9594-49ec-b6f0-bb1f7a671945%26PageIndex%3D11%26PageType%3D1&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0i-SonQHpMefGMLhpjweIS",
+          "published": "2026-06-26T21:20:37+00:00",
+          "summary": "２、活動方式：運用「全國法規資料庫」融入法治教育相關議題進行教案設計，本屆教案甄選之主題如下： (１)人權法治與性別平等議題。 (２)重大修法議題。 (３)資訊與網路&nbsp;..."
         },
         {
-          "title": "全國觀光<b>淨零</b>轉型論壇台南登場共議永續觀光實踐<b>淨零</b>轉型取得國際碳註銷證明 - 很角色傳媒",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://taidaily.com/2026/06/25/576796/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1i2YcKQlK8C9AC9Scmpae1",
-          "published": "2026-06-25T17:07:16+00:00",
-          "summary": "全國觀光淨零轉型論壇將論壇期間活動、與會貴賓住宿及會後虎頭埤低碳旅遊所產生的碳排放量進行抵銷，並取得國際黃金標準（Gold Standard）碳註銷證明。"
+          "title": "百年大金全球獎不完榮獲日本省能源大賞節能創新",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.allnews.tw/news/91437&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3NPhuAGAS4mCHcq-8f5cBR",
+          "published": "2026-06-26T16:49:25+00:00",
+          "summary": "其中氣候變遷領域已累計第五度入選A List，展現其在減碳策略、環境管理及 ... 未來將持續聚焦碳中和、空氣價值創造與智慧解決方案服務，透過全球研發與&nbsp;..."
         }
       ]
     }
