@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T05:16:33.783640+00:00",
-    "date": "2026-06-28",
+    "generated_at": "2026-06-29T05:50:35.091304+00:00",
+    "date": "2026-06-29",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -10,47 +10,84 @@
     {
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
-      "items": []
+      "items": [
+        {
+          "title": "連 Meta 都買不夠算力：Google 一道限令揭 AI 產業真正瓶頸",
+          "link": "https://techorange.com/2026/06/29/googe-meta-gemini/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-29T04:10:18+00:00",
+          "summary": "在社群媒體巨頭 Meta 尋求比競爭對手 Google 所能提供的更多運算能力後，Google 限制了 Meta 對其 Gemini AI 模型的使用。這再次證明，即使是世界上最大的 AI 供應商，也同樣面臨基礎設施的限制。 據《Financial Times》報導，Google 在今年三月前後告知 Meta，無法供應這家社群巨頭想採購的全部 Gemini 算力，這項至今仍未解除的限制，已經打亂並"
+        },
+        {
+          "title": "從 8 小時到 22 秒就能破解！當 AI 變成駭客工具，你的公司準備好了嗎？（上篇）",
+          "link": "https://techorange.com/2026/06/29/ai-hacker-aiagent-google-honestcue/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-29T03:44:00+00:00",
+          "summary": "過去三年間，攻擊者從「取得初始存取權」到「交接給下一波攻擊者」的時間，從原本的 8 小時大幅縮短到 22 秒。這是 Google 旗下資安情報單位 Mandiant 在《M-Trends2026》報告中最新的研究，22 秒甚至比資安分析師「打開告警頁面 → 確認 IP → 回報主管」所需的時間還短。 當駭客將 AI 用做可短時間內大規模的攻擊武器，譬如使用 LLM 產生高度擬真的釣魚內容、自動化偵"
+        },
+        {
+          "title": "全球油氣廠可能需要 10 萬台巡檢機器人：能源巨頭 Shell 與 BP 如何用 Physical AI 迎戰缺工與工安風險？",
+          "link": "https://techorange.com/2026/06/29/exrobotics-shell-bp/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-29T03:02:58+00:00",
+          "summary": "一場由自動化技術驅動的變革，正在全球能源產業的危險前線展開。面對管線老化、氣體洩漏與化學品外溢等難以預測的工安威脅，油氣與化工廠正逐漸將高風險的現場巡檢與維護工作，交接給機器人與無人機執行。根據專門為高危險環境研發自主巡檢機器人的 ExRobotics 估計，全球油氣廠與化工煉製設施，最多可能需要部署高達 10 萬台機器人來執行這類巡檢任務。 這些自動化設備不僅能代替人力深入險境、為工安把關，更能"
+        },
+        {
+          "title": "語言模型輸了，工廠或許還沒：歐洲能靠工業 AI 打一場翻身仗嗎？",
+          "link": "https://techorange.com/2026/06/29/ai-for-industry-europe/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-29T02:26:09+00:00",
+          "summary": "歐洲在消費 AI 的競賽上已經輸了，這一點幾乎沒有爭議，但在工廠裡情況還沒有定論。當語言模型的發展被美國與中國遠遠甩開，歐洲製造業正在押注一個不同的問題：如果 AI 的戰場從聊天機器人轉移到生產線，超過百年累積的工業數據與製造專業，能不能成為一張有效的底牌？ 消費 AI 輸了，工業 AI 還是開放競局 德國經濟部長 Katherina Reiche 在今年 5 月直白指出：「我們可能已經輸掉開發最"
+        },
+        {
+          "title": "【AI 增能 vs. AI 取代】裁員不是唯一解，施耐德用「人機協作」改革客服與產品製造",
+          "link": "https://techorange.com/2026/06/29/ai-schneider-electric-productivity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-29T01:50:34+00:00",
+          "summary": "史丹佛大學數位經濟實驗室主任指出，許多人誤以為 AI 提升生產力的唯一途徑，僅僅只有削減勞動力成本，例如開除員工，但施耐德電氣正以 AI 人機協作提高效率成為最佳案例。"
+        },
+        {
+          "title": "美國工程師招募逆勢成長 7%，設計、行銷卻雙雙腰斬：AI 重塑了誰的飯碗",
+          "link": "https://techorange.com/2026/06/29/ai-engineering-jobs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-29T01:49:32+00:00",
+          "summary": "AI 是否已經開始取代工作，目前正引發激烈的爭論。根據再就業顧問公司 Challenger, Gray &amp; Christmas 的統計，今年 5 月，科技業裁員創下數年來的單月新高，理論上，在這波浪潮中最受衝擊的是被 AI 寫程式工具快速滲透的軟體工程，但創投機構 SignalFire 的〈2026 人才現況報告〉顯示出正好相反的情況。 SignalFire 報告顯示，工程反而是科技業裡最"
+        }
+      ]
     },
     {
       "feed_name": "遠見雜誌 - 前進的動力",
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "比太陽系老3倍！科學家發現「120億年」最古老星際彗星",
-          "link": "https://www.gvm.com.tw/article/131079",
-          "published": "2026-06-27T16:00:00",
-          "summary": "研究星際彗星3I/ATLAS的科學家23日表示，這顆彗星估計形成於100億至120億年前的一個原始行星系統，年齡幾乎是太陽系的3倍，且組成與太陽系內的天體截然不同。綜合法新社與路透社報導，3I/ATLAS是人類觀測到第3個來自太陽系外的星際天體，研究人員透過分析化學組成來了解它所形成的行星系統，以及那裡的物理與化學環境，這篇研究今天發表在權威期刊「自然」（Nature）。這份研究主筆、美國國家航空"
+          "title": "安靜解僱也算嗎？職場霸凌法上路，律師爆這兩種「台式冷暴力」更常被起訴",
+          "link": "https://www.gvm.com.tw/article/131090",
+          "published": "2026-06-28T16:00:00",
+          "summary": "你是否曾被主管刻意冷落、排除在重要專案之外，或覺得工作量明顯不合理？隨著《職場霸凌防治準則》於2026年7月上路，職場霸凌將正式納入法制規範。但冷暴力、安靜解僱、能者多勞都算霸凌嗎？當職場霸凌更進一步牽動ESG治理與企業風險時，勞資雙方該如何避免踩到法律紅線？勞動部日前預告《職場霸凌防治準則》草案，配合《職業安全衛生法》修法，預計於2026年7月1日上路，職場霸凌防治將從企業自主管理正式升級為法定"
         },
         {
-          "title": "新加坡填海造陸、日本整建人工島！胡偉良：鄰國珍貴資源在台灣成「土方之亂」",
-          "link": "https://www.gvm.com.tw/article/130709",
-          "published": "2026-06-27T14:56:00",
-          "summary": "近年來，台灣營建業面臨一項愈來愈嚴重、卻長期被忽視的問題，那就是「土方處理危機」。當鄰近國家早已將合規土方視為可再利用資源，用於造陸、填海、港區擴建與國土開發時，台灣一立方公尺土方的棄置費用，竟然高於一立方公尺預拌混凝土的價格。這是多麼的荒謬，也是舉世所首見。隨著都市更新、危老重建、大型公共建設及捷運工程持續推動，開挖土方數量不斷增加，但合法收容場容量有限、運輸距離拉長、環保規範日益嚴格，再加上部"
+          "title": "2026FIFA世界盃》世足賽32強名單正式出爐！哪隊晉級希望最大？各國戰力一次看！",
+          "link": "https://www.gvm.com.tw/article/131128",
+          "published": "2026-06-28T12:28:00",
+          "summary": "隨著2026世界盃足球賽進入白熱化階段，全球球迷的目光，也逐漸聚焦在一支支成功挺進淘汰賽的勁旅身上，究竟，哪支球隊能挺進到最後呢？賽程資訊：2026FIFA世界盃》世界盃足球賽賽程資訊全攻略隨著2026世界盃足球賽進入白熱化階段，全球球迷的目光，也逐漸聚焦在一支支成功挺進淘汰賽的勁旅身上。從小組賽開始，各國球隊歷經一場又一場激烈對決，有人一路勢如破竹，也有人直到最後一輪才驚險取得晉級資格，每一場比"
         },
         {
-          "title": "把你現在的一天重複過100天：人生會變得更好，還是更糟？",
-          "link": "https://www.gvm.com.tw/article/130999",
-          "published": "2026-06-27T14:52:00",
-          "summary": "「思考日」的概念，是從比爾蓋茲在1980年代提出的思考週延伸而來的、更具可行性的版本。當時，比爾．蓋茲會隱居在偏遠地區，切斷所有對外聯繫，花一整週的時間閱讀與思考。這讓他得以暫時抽離日常工作的壓力，拉高視角，看見更大的全局。（本文節錄自《人生的五種財富》一書，作者：薩希．布魯姆／商業周刊出版，以下為摘文。）「思考日」則是一個每季進行的儀式，用來創造空間、重新取得視角，並深入思考關於人生的整體問題。"
+          "title": "iPhone 是一種「高級避孕工具」？兩項研究證實關聯，學術界掀論戰",
+          "link": "https://www.gvm.com.tw/article/131087",
+          "published": "2026-06-28T12:00:00",
+          "summary": "iPhone 改變世界，這句話大家都聽過；但如果說，iPhone 也可能改變了美國出生率，聽起來就有點意想不到。據《紐約時報》報導指出，美國出生率自 2007 年開始下滑，而這一年正好也是蘋果發表並推出第一代 iPhone 的年份，這究竟只是時間上的巧合，還是智慧手機真的悄悄改變了人們的親密關係？《紐約時報》的這份報導中引用兩份研究，試圖從不同角度解釋智慧手機普及與生育率下降之間的關聯。其中一項研"
         },
         {
-          "title": "營養師解析食材保存迷思：肉類買回家應該先洗嗎？葉菜類其實不要冷藏？",
-          "link": "https://www.gvm.com.tw/article/131049",
-          "published": "2026-06-27T14:51:00",
-          "summary": "肉類、豆腐、葉菜類如何保存？許多人習以為常的保存方式、錯誤的觀念，可能正在影響食材新鮮度，甚至增加食安風險。廚房是料理美味的起點，別讓新鮮食材成為細菌溫床。掌握正確保存方法，不僅能延長賞味期限、減少浪費，也能保留更多營養與美味，讓日常飲食吃得更安心。（本文節錄自《一人份的飲控生活提案》一書，作者：黃品瑄（品瑄營養師）／高寶出版，以下為摘文。）肉類如何保存？1. 肉類買回家要不要先清洗？●肉品為真空"
+          "title": "心理學家：管理衝動的4大技巧，讓「自律」不再像是「苦行」",
+          "link": "https://www.gvm.com.tw/article/131089",
+          "published": "2026-06-28T11:37:00",
+          "summary": "很多人以為自律靠的是意志力，卻總是在幾天後半途而廢，因為自律並非靠意志力苦撐，而是對「不適感」的耐受訓練：能否面對不舒服、管理衝動，並打造有利於堅持的環境，將短期痛苦轉化為長期韌性。如果你能夠將對衝動和誘惑的態度轉變為好奇心，而不是恐懼、抗拒或放棄，你也就有機會改變自己的行為。（本文節錄自《你需要的不是自律，而是改變行為》一書，作者：彼得．霍林斯／聯經出版，以下為摘文。）自律本來就會帶來不舒服的感"
         },
         {
-          "title": "東大生公開「高效記憶」秘密：如何收納「大腦衣櫃」成決勝關鍵",
-          "link": "https://www.gvm.com.tw/article/131057",
-          "published": "2026-06-27T14:49:00",
-          "summary": "當我們獲得一份資料，「死記硬背」絕非觸類旁通的不二法門。若無法歸納相同性質的內容，或者建立資訊之間的關聯性，便絕對無法將這些訊息內化成知識並加以運用。接著我想介紹「輸入筆記」，也就是能將事情牢記於心、增強記憶能力的筆記方式。（本文節錄自《東大最強筆記法》一書，作者：西岡壱誠／創意市集出版，以下為摘文。）當我們獲得一份資料，「死記硬背」絕非觸類旁通的不二法門。若無法歸納相同性質的內容，或者建立資訊之"
+          "title": "感情裡該不該談錢？金錢不是浪漫的敵人，而是關係的現實基礎",
+          "link": "https://www.gvm.com.tw/article/131086",
+          "published": "2026-06-28T11:35:00",
+          "summary": "很多人以為談錢是要把感情「算清楚」，然而雖然表面上談的是錢，實際上卻是讓雙方更清楚地明白——我們能不能一起面對現實？我們的三觀是否相近？我們對未來的規劃是否一致？ 能夠在愛情裡把錢談清楚，不僅展現了雙方的誠意，更是一種「我想和你在一起生活」的承諾，是把漂浮在空中的浪漫拉下來接上地氣。（本文節錄自《既要又要還要》一書，作者：凱特王／時報出版，以下為摘文。）我很喜歡一部日劇，年輕時驚豔於它的觀念先進，"
         },
         {
-          "title": "人生最慘的是「錢花完了，人還活著」！健康與財富相遇，如何打造理想的退休生活？",
-          "link": "https://www.gvm.com.tw/article/131060",
-          "published": "2026-06-27T14:46:00",
-          "summary": "什麼是「上流老人」？不是住豪宅、開名車，也不是退休後天天出國旅行。真正的上流老人，是老了以後，依然擁有選擇人生的能力：有穩定現金流，不必每天擔心錢夠不夠用；有健康的身體，不用害怕自己突然倒下；有生活重心與目標，不會把晚年活成漫長的空虛。（本文節錄自《上流老人退休寶典》一書，作者：葉美麗，吳俊德／聲音研制所出版，以下為摘文。）人生最慘的情況，就是「錢花完了，人還活著！」什麼叫作「上流老人」？不是住豪"
+          "title": "友誼「3大支柱」決定關係去留：放下對朋友的控制慾，才能徹底擺脫內耗",
+          "link": "https://www.gvm.com.tw/article/131062",
+          "published": "2026-06-28T11:33:00",
+          "summary": "看到只有自己單方面付出努力的真相真的很痛苦。當這種情況發生時，不妨回頭檢視友誼的三大支柱：接近度、時機和能量。當一段友誼淡去，或有人表露他的真實想法時，往往就代表，三大支柱中的其中一個出了問題，有時可能還不只一個。在你開始自怨自艾、孤立自己或生氣之前，請先看清事實。（本文節錄自《隨他們去》一書，作者：梅爾．羅賓斯／平安文化出版，以下為摘文。）事情是這樣的。我一生中其中一段最充滿樂趣的時光，是當我三"
         }
       ]
     },
@@ -59,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "蔡英文出席全球女性領袖峰會交流科技、<b>氣候變遷</b>等議題 - Yahoo新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E8%2594%25A1%25E8%258B%25B1%25E6%2596%2587%25E5%2587%25BA%25E5%25B8%25AD%25E5%2585%25A8%25E7%2590%2583%25E5%25A5%25B3%25E6%2580%25A7%25E9%25A0%2598%25E8%25A2%2596%25E5%25B3%25B0%25E6%259C%2583-%25E4%25BA%25A4%25E6%25B5%2581%25E7%25A7%2591%25E6%258A%2580-%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E7%25AD%2589%25E8%25AD%25B0%25E9%25A1%258C-032230513.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1lvaf_71115V3revEaQivv",
-          "published": "2026-06-28T04:08:50+00:00",
-          "summary": "在團體合照時，她也與前美國國務卿希拉蕊並肩同框。另外，順訪羅馬期間，蔡英文也會晤多位義大利參眾議員，持續為提升台灣民主的國際能見度來努力。"
+          "title": "東訊、商研院推中小企業碳健檢AFACT以AI智慧能源管理加速ESG布局 - 好生活",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://howlife.cna.com.tw/sdgs/20260629s001.aspx&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1373eLixtjizOYB3YBFGLr",
+          "published": "2026-06-29T00:54:13+00:00",
+          "summary": "... （Digitalization）與低碳化（Decarbonization）雙軸轉型浪潮，人工智慧（AI）更成為企業推動淨零 ... Net-Zero Transformation and Energy Resilience Through AI」 為題&nbsp;..."
         },
         {
-          "title": "蔡英文出席全球女性領袖峰會交流科技、<b>氣候變遷</b>等議題 - 公視新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pts.org.tw/article/815085&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1ec1XQ-yUYMqbZOs-T9gR8",
-          "published": "2026-06-28T03:32:28+00:00",
-          "summary": "前總統蔡英文受邀到義大利出席「全球女性領袖峰會」，與各國的女性領導者，交流數位科技、人工智慧、氣候變遷，以及國際秩序等重要議題。"
+          "title": "百思買促銷今晚結束筆電價格恐在11 月前飆漲17% - 行銷人",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.marketersgo.com/media-collaboration/sunmedia/202606/%25E7%2599%25BE%25E6%2580%259D%25E8%25B2%25B7%25E4%25BF%2583%25E9%258A%25B7%25E4%25BB%258A%25E6%2599%259A%25E7%25B5%2590%25E6%259D%259F-%25E7%25AD%2586%25E9%259B%25BB%25E5%2583%25B9%25E6%25A0%25BC%25E6%2581%2590%25E5%259C%25A8-11-%25E6%259C%2588%25E5%2589%258D%25E9%25A3%2586%25E6%25BC%25B2-17/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3MiSbNx3mLsKxPshFlyAo1",
+          "published": "2026-06-29T00:21:05+00:00",
+          "summary": "根據《Tech Times》報導，每生產一片HBM 晶圓，就意味著有三片DDR5 晶圓無法供應給筆記型電腦。台灣科技市調公司集邦科技（TrendForce）估計，AI 工作負載將在2026 年&nbsp;..."
         },
         {
-          "title": "IMF批准撥款3.5億美元助民主剛果抗<b>氣候變遷</b>與建設| 民視新聞網 - LINE TODAY",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/Op7MrDD&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2PqWfIDVViST6a4jatj3mS",
-          "published": "2026-06-28T01:18:17+00:00",
-          "summary": "國際貨幣基金（IMF）宣布已批准向民主剛果發放約3.485億美元的資金。這筆資金將用於支持該國的財政預算、應對氣候變遷、推動基礎建設及鞏固外..."
+          "title": "歐洲熱浪奪逾1300 條人命世衛示警<b>氣候變遷</b>衝擊健康 - 商傳媒",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://sunmedia.tw/news/health/1782688131-%25E6%25AD%2590%25E6%25B4%25B2%25E7%2586%25B1%25E6%25B5%25AA%25E5%25A5%25AA%25E9%2580%25BE%25201,300%2520%25E6%25A2%259D%25E4%25BA%25BA%25E5%2591%25BD%25E3%2580%2580%25E4%25B8%2596%25E8%25A1%259B%25E7%25A4%25BA%25E8%25AD%25A6%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E8%25A1%259D%25E6%2593%258A%25E5%2581%25A5%25E5%25BA%25B7&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0Z82TJzdgbLV3IbGb6i-WV",
+          "published": "2026-06-28T23:31:32+00:00",
+          "summary": "世界衛生組織秘書長譚德塞（Tedros Adhanom Ghebreyesus）指出，歐洲是全球暖化速度最快的大洲，暖化速度是全球平均的兩倍。 此次歐洲&nbsp;..."
         },
         {
-          "title": "偕張麗善赴二崙勘災張嘉郡助爭取農損補助、改善排水 - 匯流新聞網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://cnews.com.tw/250260627a05/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3T5cvaa6y2gLwboazifP2X",
-          "published": "2026-06-28T00:49:04+00:00",
-          "summary": "張嘉郡強調，她會協助農民爭取天然災害補助，也會因應氣候變遷一併檢討改善排水灌溉系統，避免未來遇到強降雨導致農民損失慘重。 張嘉郡與張麗善到二崙鄉勘&nbsp;..."
+          "title": "因應<b>氣候變遷</b>經濟部持續推動系統性治水| 青年日報 - LINE TODAY",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/1DeyaN3&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0MR2ZJa2letENaLsQn5y0T",
+          "published": "2026-06-28T20:58:17+00:00",
+          "summary": "記者吳典叡／臺北報導經濟部今（27）日指出，目前縣市管河川及區域排水治理率已由19%提高到45%，許多地區治水已展現成效。治水沒有捷徑，中..."
         },
         {
-          "title": "IMF批准撥款3.5億美元助民主剛果抗<b>氣候變遷</b>與建設 - 民視新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ftvnews.com.tw/news/detail/2026628W0024&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2UYtOPH6hx3ErDK-p_17nq",
-          "published": "2026-06-28T00:47:33+00:00",
-          "summary": "Reuters 路透社報導國際貨幣基金（IMF）宣布已批准向民主剛果發放約3.485億美元的資金。這筆資金將用於支持該國的財政預算、應對氣候變遷、推動基礎建設及鞏固&nbsp;..."
+          "title": "法鼓雜誌-網路版438期2026.06 出刊",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ddm.org.tw/maze/438/page8.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0sG7VPsIi5yzGA89f-eea1",
+          "published": "2026-06-28T19:06:43+00:00",
+          "summary": "從心出發，實踐淨心淨零的四環生活，各地民眾臺北、新竹、臺中三地， 體驗溫馨祥樂的心靈環保日，將對佛陀和母親的感恩， 化為守護地球、永續環保的行動。"
         },
         {
-          "title": "南大×郡泰電子打造智慧節能獲國科會產學特優獎-勁報Power News",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://twpowernews.com/news_pagein.php%3FiType%3D1003%26n_id%3D292879&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0_1A8YotfLcWzrwDzxa7uv",
-          "published": "2026-06-28T00:27:11+00:00",
-          "summary": "勁報記者于郁金/臺南報導】隨著智慧製造、淨零碳排及ESG永續發展成為全球趨勢，如何提升設備能源效率、改善工作環境，已成為製造業重要課題；國立臺南大學材料&nbsp;..."
+          "title": "兆聯實業台美拓版圖｜新聞快訊 - 永豐金證券",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/6a416f34de5d6e550446d5d8&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0G4Gdny5mwD2sr_AZ0tidT",
+          "published": "2026-06-28T19:05:55+00:00",
+          "summary": "... 碳中和超效降導除氟劑、水資源濾材再生延壽服務與相關工程，公司產品能提升製程用水效率並降低碳足跡，協助客戶因應先進製程發展及氣候變遷挑戰。 受惠客戶&nbsp;..."
         }
       ]
     }
