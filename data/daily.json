@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-06-29T05:50:35.091304+00:00",
-    "date": "2026-06-29",
+    "generated_at": "2026-06-30T05:03:12.031069+00:00",
+    "date": "2026-06-30",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "連 Meta 都買不夠算力：Google 一道限令揭 AI 產業真正瓶頸",
-          "link": "https://techorange.com/2026/06/29/googe-meta-gemini/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-29T04:10:18+00:00",
-          "summary": "在社群媒體巨頭 Meta 尋求比競爭對手 Google 所能提供的更多運算能力後，Google 限制了 Meta 對其 Gemini AI 模型的使用。這再次證明，即使是世界上最大的 AI 供應商，也同樣面臨基礎設施的限制。 據《Financial Times》報導，Google 在今年三月前後告知 Meta，無法供應這家社群巨頭想採購的全部 Gemini 算力，這項至今仍未解除的限制，已經打亂並"
+          "title": "從 8 小時到 22 秒就能破解！當 AI 變成駭客工具，你的公司準備好了嗎？（下篇）",
+          "link": "https://techorange.com/2026/06/30/google-cloudnext26-hacker-agent-wiz-cloudfrauddefense/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-30T02:40:07+00:00",
+          "summary": "企業正在用 AI 加速業務，攻擊者也正在用 AI 加速攻擊，但大多數公司的資安防護可能還沒跟上，上篇我們談到 AI 如何讓駭客的速度快到傳統資安可能來不及反應，這一篇，我們要談解法，當你的公司已經、或即將部署 AI 代理人，有哪些防禦架構值得現在就放進開發清單？ Google 在今年 Cloud Next &#8217;26 上提出了一套新的防禦思維，核心概念只有一句話：要對抗 AI 攻擊，防禦也"
         },
         {
-          "title": "從 8 小時到 22 秒就能破解！當 AI 變成駭客工具，你的公司準備好了嗎？（上篇）",
-          "link": "https://techorange.com/2026/06/29/ai-hacker-aiagent-google-honestcue/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-29T03:44:00+00:00",
-          "summary": "過去三年間，攻擊者從「取得初始存取權」到「交接給下一波攻擊者」的時間，從原本的 8 小時大幅縮短到 22 秒。這是 Google 旗下資安情報單位 Mandiant 在《M-Trends2026》報告中最新的研究，22 秒甚至比資安分析師「打開告警頁面 → 確認 IP → 回報主管」所需的時間還短。 當駭客將 AI 用做可短時間內大規模的攻擊武器，譬如使用 LLM 產生高度擬真的釣魚內容、自動化偵"
+          "title": "資安長看不到的「暗物質」：放手讓 AI 自動修補前，先過 5 道門檻",
+          "link": "https://techorange.com/2026/06/30/autonomous-security-ai-agents-data/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-30T01:53:16+00:00",
+          "summary": "當企業決定讓 AI Agent 自動接手資安工作，例如調查可疑事件、隔離有問題的設備，甚至直接修補漏洞，聽起來是資安效率的一大躍進，但在按下這個開關之前，有件事比模型聰不聰明更值得先確認：這個 Agent 用來做判斷的那份資料，到底完不完整。 根據《VentureBeat》報導，這當中藏著一個容易被忽視的問題：資安防護通常靠一支安裝在每台裝置上的「小程式」來監控與回報狀態，但是這套機制有先天死角："
         },
         {
-          "title": "全球油氣廠可能需要 10 萬台巡檢機器人：能源巨頭 Shell 與 BP 如何用 Physical AI 迎戰缺工與工安風險？",
-          "link": "https://techorange.com/2026/06/29/exrobotics-shell-bp/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-29T03:02:58+00:00",
-          "summary": "一場由自動化技術驅動的變革，正在全球能源產業的危險前線展開。面對管線老化、氣體洩漏與化學品外溢等難以預測的工安威脅，油氣與化工廠正逐漸將高風險的現場巡檢與維護工作，交接給機器人與無人機執行。根據專門為高危險環境研發自主巡檢機器人的 ExRobotics 估計，全球油氣廠與化工煉製設施，最多可能需要部署高達 10 萬台機器人來執行這類巡檢任務。 這些自動化設備不僅能代替人力深入險境、為工安把關，更能"
+          "title": "【AI 代理資安漏洞】繼承了員工權限、卻不隨員工離職而消失，AI 代理成身分治理盲區",
+          "link": "https://techorange.com/2026/06/30/identity-security-ai-agent-governing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-30T01:29:21+00:00",
+          "summary": "隨著具備自主行為能力的 AI 代理登場，它不僅為身分識別增添了全新類別，更徹底打破了傳統藩籬，即便權限不斷被繼承，但卻沒有任何單一工具，有能力對此進行端到端的資安監控。"
         },
         {
-          "title": "語言模型輸了，工廠或許還沒：歐洲能靠工業 AI 打一場翻身仗嗎？",
-          "link": "https://techorange.com/2026/06/29/ai-for-industry-europe/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-29T02:26:09+00:00",
-          "summary": "歐洲在消費 AI 的競賽上已經輸了，這一點幾乎沒有爭議，但在工廠裡情況還沒有定論。當語言模型的發展被美國與中國遠遠甩開，歐洲製造業正在押注一個不同的問題：如果 AI 的戰場從聊天機器人轉移到生產線，超過百年累積的工業數據與製造專業，能不能成為一張有效的底牌？ 消費 AI 輸了，工業 AI 還是開放競局 德國經濟部長 Katherina Reiche 在今年 5 月直白指出：「我們可能已經輸掉開發最"
+          "title": "人形機器人民主化：Hugging Face 的 LeRobot 要讓任何人都能做真機 AI 實驗",
+          "link": "https://techorange.com/2026/06/30/3d-printable-humanoid-legs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-30T01:28:49+00:00",
+          "summary": "要理解 Hugging Face 最新發布的 LeRobot Humanoid 專案在做什麼，得先知道機器人 AI 是怎麼訓練的。目前的標準流程是，先在電腦模擬裡讓虛擬機器人反覆練習走路，等 AI 學會了，再把它裝到真實機器人上測試。 模擬這一步無論是誰都可以用電腦做到，但走到真機測試階段卻是少數專業實驗室的特權。一台商用人形機器人要價數萬美元，系統封閉，壞了不能自己修，想改裝也動不了。結果就是大"
         },
         {
-          "title": "【AI 增能 vs. AI 取代】裁員不是唯一解，施耐德用「人機協作」改革客服與產品製造",
-          "link": "https://techorange.com/2026/06/29/ai-schneider-electric-productivity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-29T01:50:34+00:00",
-          "summary": "史丹佛大學數位經濟實驗室主任指出，許多人誤以為 AI 提升生產力的唯一途徑，僅僅只有削減勞動力成本，例如開除員工，但施耐德電氣正以 AI 人機協作提高效率成為最佳案例。"
+          "title": "【科技早餐】AI 算力不夠了，Google 卡 Meta、南韓 800 兆韓元擴產記憶體",
+          "link": "https://techorange.com/2026/06/30/ai-compute-memory-supply-crunch/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-29T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊Google 卡 Meta 用 Gemini，AI 巨頭也缺算力 根據《金融時報》報導，Google 已經限制 Meta 使用旗下 Gemini AI 模型，原因是 Meta 想購買的算力規模，超過 Google 能供應的能力。知情人士透露，Google 已告知 Meta，無法提供 Meta 想要的全部 Gemini 算力，這項限制影響 Meta"
         },
         {
-          "title": "美國工程師招募逆勢成長 7%，設計、行銷卻雙雙腰斬：AI 重塑了誰的飯碗",
-          "link": "https://techorange.com/2026/06/29/ai-engineering-jobs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-29T01:49:32+00:00",
-          "summary": "AI 是否已經開始取代工作，目前正引發激烈的爭論。根據再就業顧問公司 Challenger, Gray &amp; Christmas 的統計，今年 5 月，科技業裁員創下數年來的單月新高，理論上，在這波浪潮中最受衝擊的是被 AI 寫程式工具快速滲透的軟體工程，但創投機構 SignalFire 的〈2026 人才現況報告〉顯示出正好相反的情況。 SignalFire 報告顯示，工程反而是科技業裡最"
+          "title": "出口暴增 75% 卻僅增千個職缺：南韓半導體高中爆紅，高薪職涯入口背後藏什麼風險？",
+          "link": "https://techorange.com/2026/06/29/korea-chip-high-school/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-06-29T09:49:53+00:00",
+          "summary": "全球 AI 熱潮正在加速推升記憶體晶片的需求，使半導體成為南韓當前最受矚目的職涯選項。由於股價飆升，三星電子（Samsung Electronics）、SK 海力士（SK Hynix）的員工不僅獲得高額獎金，在求職與婚戀市場的身價也水漲船高，從過去的 B+ 或 A- 等級，躍升為與醫師、律師齊名的「A+」頂尖理想對象。 然而，這場將「進入科技巨頭工作」視為「階級躍升」的熱潮背後，折射出南韓社會的深"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "安靜解僱也算嗎？職場霸凌法上路，律師爆這兩種「台式冷暴力」更常被起訴",
-          "link": "https://www.gvm.com.tw/article/131090",
-          "published": "2026-06-28T16:00:00",
-          "summary": "你是否曾被主管刻意冷落、排除在重要專案之外，或覺得工作量明顯不合理？隨著《職場霸凌防治準則》於2026年7月上路，職場霸凌將正式納入法制規範。但冷暴力、安靜解僱、能者多勞都算霸凌嗎？當職場霸凌更進一步牽動ESG治理與企業風險時，勞資雙方該如何避免踩到法律紅線？勞動部日前預告《職場霸凌防治準則》草案，配合《職業安全衛生法》修法，預計於2026年7月1日上路，職場霸凌防治將從企業自主管理正式升級為法定"
+          "title": "在學就在產業裡！高科大以AI算力共享翻轉技職教育",
+          "link": "https://www.gvm.com.tw/article/131025",
+          "published": "2026-06-30T00:00:00",
+          "summary": "人工智慧（AI）技術正加速全球製造業智慧化與數位轉型，也為技職教育帶來巨大的挑戰。位處南部科技S廊道核心位置上的國立高雄科技大學正透過一系列跨域整合、多場域實作、接軌產業等規劃，培養具跨域協作及AI素養的即戰力人才。國立高雄科技大學（高科大）是台灣規模最大的科技大學，以豐沛的產學合作能量著稱，近三年產學金額逾40億元。連續兩年（114、115年度）獲得社團法人中國工程師學會評為「產學合作績優單位」"
         },
         {
-          "title": "2026FIFA世界盃》世足賽32強名單正式出爐！哪隊晉級希望最大？各國戰力一次看！",
-          "link": "https://www.gvm.com.tw/article/131128",
-          "published": "2026-06-28T12:28:00",
-          "summary": "隨著2026世界盃足球賽進入白熱化階段，全球球迷的目光，也逐漸聚焦在一支支成功挺進淘汰賽的勁旅身上，究竟，哪支球隊能挺進到最後呢？賽程資訊：2026FIFA世界盃》世界盃足球賽賽程資訊全攻略隨著2026世界盃足球賽進入白熱化階段，全球球迷的目光，也逐漸聚焦在一支支成功挺進淘汰賽的勁旅身上。從小組賽開始，各國球隊歷經一場又一場激烈對決，有人一路勢如破竹，也有人直到最後一輪才驚險取得晉級資格，每一場比"
+          "title": "進擊AI浪潮下 南臺科大重塑技職教育DNA",
+          "link": "https://www.gvm.com.tw/article/130862",
+          "published": "2026-06-30T00:00:00",
+          "summary": "AI浪潮席捲百工百業，技職教育也迎來關鍵轉型。面對未來許多基礎技能將逐漸被機器人取代，南臺科大以深厚產學合作為基礎，積極將AI融入專業群科，從教學現場到類生產線，培育「人機協作」與「跨域整合」能力，從實作中培養解決問題的能力，為技職教育帶來嶄新價值。自ChatGPT問世以來，AI發展快速迭代，更迅速滲透至百工百業。南臺科技大學校長黃能富指出，單一專業或技藝已無法應付挑戰，要不被AI取代，就要成為可"
         },
         {
-          "title": "iPhone 是一種「高級避孕工具」？兩項研究證實關聯，學術界掀論戰",
-          "link": "https://www.gvm.com.tw/article/131087",
-          "published": "2026-06-28T12:00:00",
-          "summary": "iPhone 改變世界，這句話大家都聽過；但如果說，iPhone 也可能改變了美國出生率，聽起來就有點意想不到。據《紐約時報》報導指出，美國出生率自 2007 年開始下滑，而這一年正好也是蘋果發表並推出第一代 iPhone 的年份，這究竟只是時間上的巧合，還是智慧手機真的悄悄改變了人們的親密關係？《紐約時報》的這份報導中引用兩份研究，試圖從不同角度解釋智慧手機普及與生育率下降之間的關聯。其中一項研"
+          "title": "大同大學以跨域實作接軌國際，培育破百企業CEO",
+          "link": "https://www.gvm.com.tw/article/131149",
+          "published": "2026-06-30T00:00:00",
+          "summary": "為什麼大同大學能多年維持CEO高產出率？答案不只在課堂，而在「做中學」的實戰場域。從校園裡的新創聚落、24小時開放的MAKERSPACE，到跨領域產學合作與海外交流實習，大同大學把產業現場搬進校園，讓學生在動手做、跨域解題與國際移動中，提早養成面對未來職場的能力。擁有「CEO搖籃」美譽的大同大學，2026年適逢創校70週年，校友總數雖只有4萬人，但已培育出超過百位的頂尖CEO；每兩年一次的《哈佛商"
         },
         {
-          "title": "心理學家：管理衝動的4大技巧，讓「自律」不再像是「苦行」",
-          "link": "https://www.gvm.com.tw/article/131089",
-          "published": "2026-06-28T11:37:00",
-          "summary": "很多人以為自律靠的是意志力，卻總是在幾天後半途而廢，因為自律並非靠意志力苦撐，而是對「不適感」的耐受訓練：能否面對不舒服、管理衝動，並打造有利於堅持的環境，將短期痛苦轉化為長期韌性。如果你能夠將對衝動和誘惑的態度轉變為好奇心，而不是恐懼、抗拒或放棄，你也就有機會改變自己的行為。（本文節錄自《你需要的不是自律，而是改變行為》一書，作者：彼得．霍林斯／聯經出版，以下為摘文。）自律本來就會帶來不舒服的感"
+          "title": "從AI到實戰，雲科大重塑跨域工程新人才",
+          "link": "https://www.gvm.com.tw/article/130993",
+          "published": "2026-06-30T00:00:00",
+          "summary": "AI浪潮下，臺灣正處於將硬體製造與供應鏈優勢，升級為智慧生態系的關鍵節點，而人才成為驅動臺灣ICT產業再攀高峰的核心，國立雲林科技大學（雲科大）正快速布局，培育跨域工程新世代人才。AI改寫了產業營運模式，同樣地，人才如何在未來發揮更大價值，也考驗著高教體系。雲科大工程學院院長陳維東不諱言，「AI是一體兩面，有其正面加值效益，但也帶來很大衝擊。」因此，雲科大工程學院很早就開始布局，從課程內容、教學模"
         },
         {
-          "title": "感情裡該不該談錢？金錢不是浪漫的敵人，而是關係的現實基礎",
-          "link": "https://www.gvm.com.tw/article/131086",
-          "published": "2026-06-28T11:35:00",
-          "summary": "很多人以為談錢是要把感情「算清楚」，然而雖然表面上談的是錢，實際上卻是讓雙方更清楚地明白——我們能不能一起面對現實？我們的三觀是否相近？我們對未來的規劃是否一致？ 能夠在愛情裡把錢談清楚，不僅展現了雙方的誠意，更是一種「我想和你在一起生活」的承諾，是把漂浮在空中的浪漫拉下來接上地氣。（本文節錄自《既要又要還要》一書，作者：凱特王／時報出版，以下為摘文。）我很喜歡一部日劇，年輕時驚豔於它的觀念先進，"
+          "title": "不只排名躍升 亞洲大學正在打造AI醫療生態系",
+          "link": "https://www.gvm.com.tw/article/131052",
+          "published": "2026-06-30T00:00:00",
+          "summary": "迎向創校25週年，亞洲大學以「AI、半導體、智慧醫療」三大主軸，展現私校少見的國際衝刺能量。英國QS最新2027世界大學排名中，亞洲大學躍升至全球第649名，從2023年版1001–1200名一路挺進「六百名俱樂部」，國內排名也由第15名升至第13名，持續穩居台灣私校非醫大第一。從魏哲家名譽博士到史丹佛MOU　25週年寫下新里程碑亞大校長蔡進發表示，排名躍升不是偶然，而是學校長期深耕國際化、AI應"
         },
         {
-          "title": "友誼「3大支柱」決定關係去留：放下對朋友的控制慾，才能徹底擺脫內耗",
-          "link": "https://www.gvm.com.tw/article/131062",
-          "published": "2026-06-28T11:33:00",
-          "summary": "看到只有自己單方面付出努力的真相真的很痛苦。當這種情況發生時，不妨回頭檢視友誼的三大支柱：接近度、時機和能量。當一段友誼淡去，或有人表露他的真實想法時，往往就代表，三大支柱中的其中一個出了問題，有時可能還不只一個。在你開始自怨自艾、孤立自己或生氣之前，請先看清事實。（本文節錄自《隨他們去》一書，作者：梅爾．羅賓斯／平安文化出版，以下為摘文。）事情是這樣的。我一生中其中一段最充滿樂趣的時光，是當我三"
+          "title": "打破框架！北市大讓學生「設計自己的學位」，還能大玩AI",
+          "link": "https://www.gvm.com.tw/article/130847",
+          "published": "2026-06-30T00:00:00",
+          "summary": "當僵化的單一科系已不足以應對社會發展與職場需求不斷改變，臺北市立大學（北市大）打破課程框架，推動跨領域學士制度；同時，將運動、師培、都市研究三大核心優勢與AI深度整合，全力培育能夠跨界應變、迎向未來的新世代人才。面對少子化與科系M型化的趨勢，傳統教育模式已難以滿足社會對多元人才的需求。「誰都無法預知15年後的人才樣貌！」臺北市立大學校長邱英浩指出，既然無法準確預測未來職業需求，大學教育更應及早為學"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "東訊、商研院推中小企業碳健檢AFACT以AI智慧能源管理加速ESG布局 - 好生活",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://howlife.cna.com.tw/sdgs/20260629s001.aspx&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1373eLixtjizOYB3YBFGLr",
-          "published": "2026-06-29T00:54:13+00:00",
-          "summary": "... （Digitalization）與低碳化（Decarbonization）雙軸轉型浪潮，人工智慧（AI）更成為企業推動淨零 ... Net-Zero Transformation and Energy Resilience Through AI」 為題&nbsp;..."
+          "title": "中國建築興業集團榮獲2026年<b>碳中和</b>先鋒大獎 - 搜狐",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.sohu.com/a/1043624696_121613636%3Fscm%3D10001.325_13-325_13.0.0-0-0-0-0.5_1334&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2QJdGKWFjMQmg1koYSsAwx",
+          "published": "2026-06-30T03:56:38+00:00",
+          "summary": "近日，中國建築興業集團（簡稱“中建興業”）憑藉在綠色建築、低碳營運、BIPV（光伏外牆成套技術）及可持續發展實踐等方面的突出表現，榮獲由大灣區碳中和協會頒發&nbsp;..."
         },
         {
-          "title": "百思買促銷今晚結束筆電價格恐在11 月前飆漲17% - 行銷人",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.marketersgo.com/media-collaboration/sunmedia/202606/%25E7%2599%25BE%25E6%2580%259D%25E8%25B2%25B7%25E4%25BF%2583%25E9%258A%25B7%25E4%25BB%258A%25E6%2599%259A%25E7%25B5%2590%25E6%259D%259F-%25E7%25AD%2586%25E9%259B%25BB%25E5%2583%25B9%25E6%25A0%25BC%25E6%2581%2590%25E5%259C%25A8-11-%25E6%259C%2588%25E5%2589%258D%25E9%25A3%2586%25E6%25BC%25B2-17/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3MiSbNx3mLsKxPshFlyAo1",
-          "published": "2026-06-29T00:21:05+00:00",
-          "summary": "根據《Tech Times》報導，每生產一片HBM 晶圓，就意味著有三片DDR5 晶圓無法供應給筆記型電腦。台灣科技市調公司集邦科技（TrendForce）估計，AI 工作負載將在2026 年&nbsp;..."
+          "title": "世界盃讓歐洲人愛上冷氣？熱浪下歐洲<b>淨零</b>政策陷兩難 - Yahoo 財經",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://hk.finance.yahoo.com/news/%25E4%25B8%2596%25E7%2595%258C%25E7%259B%2583%25E8%25AE%2593%25E6%25AD%2590%25E6%25B4%25B2%25E4%25BA%25BA%25E6%2584%259B%25E4%25B8%258A%25E5%2586%25B7%25E6%25B0%25A3-%25E7%2586%25B1%25E6%25B5%25AA%25E4%25B8%258B%25E6%25AD%2590%25E6%25B4%25B2%25E6%25B7%25A8%25E9%259B%25B6%25E6%2594%25BF%25E7%25AD%2596%25E9%2599%25B7%25E5%2585%25A9%25E9%259B%25A3-031004619.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3qTYLimjR3PMSatFBlQkaz",
+          "published": "2026-06-30T03:55:58+00:00",
+          "summary": "這項爭議源自2021 年建築法規。當時英國政府要求新建住宅優先使用通風、遮陽等方式降溫，避免過度依賴冷氣。支持者認為，這有助於達成淨零排放(Net Zero) 目標；但&nbsp;..."
         },
         {
-          "title": "歐洲熱浪奪逾1300 條人命世衛示警<b>氣候變遷</b>衝擊健康 - 商傳媒",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://sunmedia.tw/news/health/1782688131-%25E6%25AD%2590%25E6%25B4%25B2%25E7%2586%25B1%25E6%25B5%25AA%25E5%25A5%25AA%25E9%2580%25BE%25201,300%2520%25E6%25A2%259D%25E4%25BA%25BA%25E5%2591%25BD%25E3%2580%2580%25E4%25B8%2596%25E8%25A1%259B%25E7%25A4%25BA%25E8%25AD%25A6%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E8%25A1%259D%25E6%2593%258A%25E5%2581%25A5%25E5%25BA%25B7&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0Z82TJzdgbLV3IbGb6i-WV",
-          "published": "2026-06-28T23:31:32+00:00",
-          "summary": "世界衛生組織秘書長譚德塞（Tedros Adhanom Ghebreyesus）指出，歐洲是全球暖化速度最快的大洲，暖化速度是全球平均的兩倍。 此次歐洲&nbsp;..."
+          "title": "玉山連續9年榮獲「負責任商業領袖獎」創亞洲最佳紀錄 - 中央社",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/business/chinese/437676&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1cl4WrKZ5En_7CjIMbf29n",
+          "published": "2026-06-30T03:35:59+00:00",
+          "summary": "此外，玉山更獲得MSCI ESG Rating AAA最高評級，並在碳揭露專案（CDP）氣候變遷、森林、水3大議題獲領導級肯定，這些成就皆充分展現玉山將ESG深度結合金融本業，讓世界&nbsp;..."
         },
         {
-          "title": "因應<b>氣候變遷</b>經濟部持續推動系統性治水| 青年日報 - LINE TODAY",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/1DeyaN3&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0MR2ZJa2letENaLsQn5y0T",
-          "published": "2026-06-28T20:58:17+00:00",
-          "summary": "記者吳典叡／臺北報導經濟部今（27）日指出，目前縣市管河川及區域排水治理率已由19%提高到45%，許多地區治水已展現成效。治水沒有捷徑，中..."
+          "title": "世界盃讓歐洲人愛上冷氣？熱浪下歐洲<b>淨零</b>政策陷兩難",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6516581&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2xQW7mptl2aze6VMrYyVZf",
+          "published": "2026-06-30T03:15:26+00:00",
+          "summary": "支持者認為，這有助於達成淨零排放(Net Zero) 目標；但批評者認為，隨著英國 ... 另一方面，英國氣候變化委員會(CCC) 也提醒，英國許多建築已無法適應&nbsp;..."
         },
         {
-          "title": "法鼓雜誌-網路版438期2026.06 出刊",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ddm.org.tw/maze/438/page8.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0sG7VPsIi5yzGA89f-eea1",
-          "published": "2026-06-28T19:06:43+00:00",
-          "summary": "從心出發，實踐淨心淨零的四環生活，各地民眾臺北、新竹、臺中三地， 體驗溫馨祥樂的心靈環保日，將對佛陀和母親的感恩， 化為守護地球、永續環保的行動。"
+          "title": "歐洲致命熱浪｜科學家：若沒有人為<b>氣候變遷</b>不可能6月就這麼熱 - ＨＫ０１",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hk01.com/%25E5%258D%25B3%25E6%2599%2582%25E5%259C%258B%25E9%259A%259B/60365113/%25E6%25AD%2590%25E6%25B4%25B2%25E8%2587%25B4%25E5%2591%25BD%25E7%2586%25B1%25E6%25B5%25AA-%25E7%25A7%2591%25E5%25AD%25B8%25E5%25AE%25B6-%25E8%258B%25A5%25E6%25B2%2592%25E6%259C%2589%25E4%25BA%25BA%25E7%2582%25BA%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7-%25E4%25B8%258D%25E5%258F%25AF%25E8%2583%25BD6%25E6%259C%2588%25E5%25B0%25B1%25E9%2580%2599%25E9%25BA%25BC%25E7%2586%25B1&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2cuO9_sMlJ9IrY5WmBozzV",
+          "published": "2026-06-30T02:20:28+00:00",
+          "summary": "研究人員在分析中利用氣溫紀錄，估算全球暖化如何改變過去數十年不同強度熱浪的發生機率。分析結果顯示，若發生機率相同的熱浪在2000年代侵襲歐洲，平均白天氣溫將&nbsp;..."
         },
         {
-          "title": "兆聯實業台美拓版圖｜新聞快訊 - 永豐金證券",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/6a416f34de5d6e550446d5d8&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0G4Gdny5mwD2sr_AZ0tidT",
-          "published": "2026-06-28T19:05:55+00:00",
-          "summary": "... 碳中和超效降導除氟劑、水資源濾材再生延壽服務與相關工程，公司產品能提升製程用水效率並降低碳足跡，協助客戶因應先進製程發展及氣候變遷挑戰。 受惠客戶&nbsp;..."
+          "title": "科學家：若無人為<b>氣候變遷</b>歐洲不可能6月就這麼熱 - 聚財網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.wearn.com/c2014126.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2vSJdQyBrX1lZfvJMoO5rj",
+          "published": "2026-06-29T23:38:38+00:00",
+          "summary": "紐約時報報導，科學家表示，人為引起的氣候變遷，使歐洲酷熱高溫機率遠高於20年前，而歐洲的在地因素，讓當地升溫速度是全球平均兩倍以上。"
         }
       ]
     }
