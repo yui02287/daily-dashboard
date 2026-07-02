@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-07-01T05:21:10.453320+00:00",
-    "date": "2026-07-01",
+    "generated_at": "2026-07-02T04:57:02.325775+00:00",
+    "date": "2026-07-02",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "AI 太貴難落地、太強又怕失控：Anthropic Sonnet 5 如何把企業 AI 變便宜，又不踩政府安全紅線？",
-          "link": "https://techorange.com/2026/07/01/anthropic-sonnet-5/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-01T04:20:40+00:00",
-          "summary": "Gartner 預測，今年全球 AI 支出將飆升 47%，達到驚人的 2.6 兆美元，這迫使許多企業在收到鉅額帳單後，開始重新檢視技術導入成本。因此，在 AI 供應商不得不轉向強調成本效率的趨勢下，Anthropic 近日推出的 Claude Sonnet 5，正是對這種「AI 價格震撼（AI sticker shock）」現象的直接回應。 然而，Anthropic 試圖解決的並不只有商業層面的難"
+          "title": "Meta 傳搶進 AI Cloud 市場：AI 基礎建設競爭，開始比誰能把算力變生意",
+          "link": "https://techorange.com/2026/07/02/meta-ai-cloud/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-02T04:13:35+00:00",
+          "summary": "當各大科技巨頭仍在為 AI 算力四處搶購資料中心，Meta 卻打算反過來當賣方。據《Bloomberg》報導，Meta 正籌組一個名為 Meta Compute 的雲端事業，要把自用之外的過剩運算容量對外出租，直接切入 Amazon AWS、Microsoft Azure 與 Google Cloud 長年經營的地盤。消息一出，市場反應卻是兩樣情：Meta 股價收盤上漲近 9%，但專做 GPU 租"
         },
         {
-          "title": "140 家企業聯手推出美元穩定幣 Open USD，為何讓 Circle、Tether 緊張？",
-          "link": "https://techorange.com/2026/07/01/open-usd-open-standard-stablecoin/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-01T04:19:12+00:00",
-          "summary": "穩定幣的勝負邏輯，過去是誰發行市值最大的幣、誰就掌握網路，然而 6/30，超過 140 家公司決定聯手改寫這條規則。Visa、Mastercard、Stripe、Coinbase、BlackRock、Google 等平日彼此競爭的巨頭，共同加入一個名為 Open Standard 的聯盟，宣布推出美元穩定幣 Open USD（OUSD），預計今年稍晚上線。 這枚幣直接對準目前市占最高的兩大發行商 "
+          "title": "【AI Agent 身分治理】企業擁抱 AI Agent 卻幾乎不做把關，三個方向現在就能補救",
+          "link": "https://techorange.com/2026/07/02/governing-ai-agents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-02T02:14:02+00:00",
+          "summary": "今日在企業裡，AI Agent 登入最重要的系統、讀取最敏感的資料、代替員工把工作流程跑完，速度和數量遠超任何真人。Gartner 預估，到 2026 年，每 10 個企業應用就有 4 個內建這類 AI Agent，而一年前的 2025 年，這個比例還不到 5%。 企業正敞開雙手擁抱 AI Agent，但幾乎沒有人在管它們。我們花了幾十年替「人」建立身分與權限的管理規則，卻在給 AI Agent "
         },
         {
-          "title": "Q-Day 倒數中：池安量子資安揭企業啟動「後量子遷移」的 4 大關鍵步驟",
-          "link": "https://techorange.com/2026/07/01/chelpis-podcast/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-01T03:29:30+00:00",
-          "summary": "專訪：沈貝怡撰稿：李昀蔚 在 AI 大爆發、算力軍備競賽白熱化之外，科技界近年也提出一個重要警告：隨著量子運算逐漸成熟，足以破解現行加密方法的「Q-Day」可能比想像中更快到來。所謂 Q-Day，指的是量子電腦算力成熟到足以破解目前主流公鑰加密系統的那一天。一旦這一天來臨，過去被視為安全的密碼、電子簽章、金融交易驗證與機密通訊，都可能面臨瓦解。因此，影響範圍不只包含一般民眾的網路生活，也可能波及金"
+          "title": "高盛預估到 2030 年 Token 用量暴增 24 倍，企業如何避免 AI 帳單失控？",
+          "link": "https://techorange.com/2026/07/02/how-companies-are-managing-ai-token-spend/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-02T02:04:27+00:00",
+          "summary": "AI 越來越聰明，token 單價也越來越便宜，但只要缺乏管控，帳單很可能失控。根據高盛（Goldman Sachs）研究團隊預估，隨著消費者與企業導入 AI 代理（AI Agent），全球 token 消耗量將在 2026 至 2030 年間暴增 24 倍，來到每月 120 千兆（quadrillion）token。《華爾街日報》報導，企業開始部署一系列策略，包括雲端時代練就的老方法，以應對不斷"
         },
         {
-          "title": "人才是一切，但晶片才是天花板：俄羅斯主權 AI 戰略的結構性矛盾",
-          "link": "https://techorange.com/2026/07/01/russia-wants-ai-sovereignty/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-01T02:15:48+00:00",
-          "summary": "俄羅斯在世界 AI 競賽中的處境是什麼？今年 4 月的俄羅斯年度 Data Fusion 大會上，主持人提問，「俄羅斯發展 AI 最關鍵的是什麼？」主持人先點名透過視訊連線出席的普丁小女兒 Katerina Vladimirovna Tikhonova，她說，「人才是一切，其他一切都是人才的結果。」 台上的人表示同意，但整場大會幾乎沒有人認真討論另一個問題：沒有晶片，人才能做什麼？ 從奧林匹亞競賽"
+          "title": "【科技早餐】Anthropic 解禁、台灣拚 2 萬片 GPU，AI 審查與算力戰同步升溫",
+          "link": "https://techorange.com/2026/07/02/anthropic-ai-review-taiwan-gpu-compute/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-01T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Anthropic 模型解禁，美國 AI 審查卡到產品上線 美國政府解除對 Anthropic 先進 AI 模型 Fable 5 與 Mythos 5 的相關限制，結束這場持續兩週多的模型上線爭議。根據《路透》報導，美國商務部長盧特尼克（Howard Lutnick）表示，過去兩週，美國政府與 Anthropic 密切合作，分析並核准 Fable"
         },
         {
-          "title": "讓電商顧客每次造訪營收衝高 4.75 倍：百貨巨頭 Macy&#8217;s 如何用 AI 當導購？",
-          "link": "https://techorange.com/2026/07/01/macys-ai-powered-shopping-assistant/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-01T01:53:39+00:00",
-          "summary": "線上購物已發展近三十年，電商平台商品愈來愈豐富，卻也讓消費者面臨「選擇過多」的新困境。當消費者沒有明確購買目標時，往往需要反覆搜尋、瀏覽大量商品頁面，花費許多時間仍難以做出決定。根據使用者體驗研究公司 Baymard Institute 2025 年彙整 50 份研究平均值，目前全球平均購物車棄單率仍高達約 70%，如何降低搜尋成本、提升購物體驗，已成為各大零售商的重要課題。 美國百貨零售品牌 M"
+          "title": "AI 接管排程、品管與物流：西門子砸 2 億歐元，把整座工廠變成會自我調度的系統",
+          "link": "https://techorange.com/2026/07/01/siemens-amberg-digital-twin-factory/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-01T11:11:24+00:00",
+          "summary": "西門子近期宣布投資約 2 億歐元，在德國安貝格（Amberg）為旗下智慧基礎設施（Smart Infrastructure）事業部打造新一代的智慧工廠，預計將於 2030 年完工。這座新工廠將全面結合工業 AI、數位孿生與先進自動化技術，不僅能大幅擴充高科技電子製造的能力，目標更在提升整體營運效率、永續性與生產彈性。 與此同時，中國的製造業也正透過 AI 來強化工業機器人的辨識、品質控管與產線監督"
         },
         {
-          "title": "【科技早餐】長鑫存儲拿下 Tencent，歐日 AI 主權與企業成本戰同步升溫",
-          "link": "https://techorange.com/2026/07/01/ai-memory-sovereignty-cost/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-06-30T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊長鑫存儲拿下 Tencent，中國 AI 記憶體自給加速 《路透》報導，中國記憶體廠長鑫存儲已與 Tencent 簽下長期供應協議，規模超過 200 億人民幣，約 29.4 億美元，合約期間為三到五年。這項協議主要涵蓋伺服器用 DRAM，對雲端、資料庫和 AI 工作負載都很關鍵。不過，目前還不清楚是否包含高頻寬記憶體 HBM。 這項協議出現在全球"
+          "title": "成立不到 4 年拿下 10 億美元訂單：AI 晶片新創 Etched 為何被視為 NVIDIA 新勁敵？",
+          "link": "https://techorange.com/2026/07/01/ai-chip-startup-etched/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-01T10:17:12+00:00",
+          "summary": "一家成立不到 4 年、目標與 NVIDIA 競爭的 AI 晶片新創近日公開成績單：Etched 已累計募資 8 億美元、投後估值達 50 億美元，並簽下逾 10 億美元的客戶合約，投資人名單裡不只有 Peter Thiel、Geoffrey Hinton、李飛飛等科技界的重量級人物，還有量化交易巨頭 Jane Street，以及與台積電有策略合作關係的創投 VentureTech Alliance"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "青年有未來、產業有舞台　鍾東錦的苗栗進行式",
-          "link": "https://www.gvm.com.tw/article/131198",
-          "published": "2026-07-01T00:00:00",
-          "summary": "近年來，苗栗在科技產業投資帶動下快速轉型，從招商引資、人才培育、社會住宅到托育與長照體系，這座山城正以驚人的速度補齊青年移居所需的每一塊拼圖。產業投資到位，創造人才磁吸效應對許多年輕人而言，一座城市是否值得移居，首先看的是工作機會。隨著記憶體大廠美光科技加碼投資銅鑼科學園區，預計分年投入2,317億元，並可望創造約2,500個就業機會，苗栗正逐漸從傳統農業縣轉型為科技人才的新舞台，為青年返鄉與跨縣"
+          "title": "瞄準跨域創新的人才缺口，實踐大學用「無界」理念打造新實用教育平台",
+          "link": "https://www.gvm.com.tw/article/130763",
+          "published": "2026-07-02T00:00:00",
+          "summary": "今年三月，2026台灣燈會在嘉義開幕。主燈「光沐——世界的阿里山」以阿里山神木為意象，二十一公尺高的塔體以循環木料拼貼而成，地面層二十四條放射式光束向外延展，像一座正在呼吸的巨木。下方環形螢幕播映著從海洋孕育、生命演化到文明形成的影像敘事，三分鐘的展演壓縮了一座島嶼數百萬年的時間跨距。現場觀眾排隊一個半小時只為站到主燈面前。多數人不知道的是，主燈的核心團隊都來自實踐大學設計學院 VISION BA"
         },
         {
-          "title": "人人都是公民科學家！ 大亞電纜攜手台灣河溪網，號召全民打造「溪流守護地圖」",
-          "link": "https://www.gvm.com.tw/article/130557",
-          "published": "2026-07-01T00:00:00",
-          "summary": "從守護台灣步道的成功經驗出發，大亞電纜美麗家園基金會將友善觸角從山林延伸至溪流，攜手台灣河溪網協會成立「台灣河溪守護網」環境即時記錄平台，希望匯聚全台公民力量，讓溪流重現自然生命力。每次打開水龍頭，是否曾想過，這道水是從何而來？水是所有生命的命脈，更在生態系統中扮演關鍵角色，然而，人與河川的距離，卻越來越遠。會有這樣的落差，從事河川研究與保育倡議逾二十年的台灣河溪網協會理事長廖桂賢指出，長久以來，"
+          "title": "員工不敢生，公司留不住人！揭開企業穩賺不賠的養才密碼",
+          "link": "https://www.gvm.com.tw/article/130451",
+          "published": "2026-07-02T00:00:00",
+          "summary": "沒有人力哪來人才！少子化的國安警報響得越來越急，這場危機我們該怎麼救？面對系統性難題，絕非單一政策就能破解，為此《遠見雜誌》邀集產、官、醫多位專家學者，聆聽各方聲音共擬解方。為協助企業跨出第一步，輝凌藥品接軌國際發布一份《企業孕育友善行動指南》，完整彙整打造友善職場的行動原則，期盼成為台灣企業對接國家政策、落實願景的操作手冊。「台灣生育率正在雪崩式下降，不僅連年探底，就連產科機構開始出現倒閉潮，」"
         },
         {
-          "title": "凝視腕間的藝術殿堂！  RM HJ-02以珠寶與機械共譜時間之美",
-          "link": "https://www.gvm.com.tw/article/130575",
-          "published": "2026-07-01T00:00:00",
-          "summary": "當寶石折射的璀璨，與機芯精密的推動相遇，腕錶將迸發何等靈動之美？RICHARD MILLE全新RM HJ-02自製機芯自動上鍊陀飛輪腕錶，將高級珠寶工藝深度融入機芯與結構之中，全系列僅12只孤品，為品牌高級珠寶腕錶開啟全新篇章。&nbsp;如果說傳統珠寶鑲嵌追求的是寶石本身的璀璨，RM HJ-02更像是一幅凝結於腕間的印象派畫作。&nbsp;RM HJ-02系列分為粉、紫、藍、綠四大色系，透過不同"
+          "title": "Disney+ 7月上線必看片單出爐！《殺人者的購物中心》第二季強勢登場，《穿著Prada的惡魔2》正式登上串流",
+          "link": "https://www.gvm.com.tw/article/131271",
+          "published": "2026-07-01T20:30:00",
+          "summary": "Disney+7月必看片單出爐，許多精彩的影集和電影都將和觀眾見面，許多精彩的戲劇和電影都將和觀眾見面，包含韓劇《殺人者的購物中心》第二季、《婚姻之後》、電影《穿著Prada的惡魔2》等，都非常令人期待。Disney+ 7月強檔片單正式出爐，在正式邁入夏天的這個時刻，Disney+有哪些最令人期待的作品？許多精彩的戲劇和電影都將和觀眾見面，包含韓劇《殺人者的購物中心》第二季、《婚姻之後》、電影《穿"
         },
         {
-          "title": "中原大學電機工程學系以跨域實作及國際視野，陪伴學子迎向未來",
-          "link": "https://www.gvm.com.tw/article/130921",
-          "published": "2026-07-01T00:00:00",
-          "summary": "AI浪潮來襲，技術持續更新，各領域都在爭搶科技人才。本著全人教育精神，從扎實的專業訓練、跨域整合與溝通的能力，到開啟國際交流、展現人文關懷，中原大學電機工程學系希望學生帶走的不只是知識，還有面對未來的能力與底氣。當AI顛覆產業，科技創新加速全球化競爭，愈來愈多新世代人才投身電機領域。然而，未來企業真正需要的是什麼樣的人才？「AI可以提供答案，但無法取代人的誠信、責任感與溝通能力。」中原大學電機工程"
+          "title": "《小小兵&大怪獸》最爆笑的5大亮點！系列最幽默故事，一封寫給電影誕生的",
+          "link": "https://www.gvm.com.tw/article/131256",
+          "published": "2026-07-01T18:55:00",
+          "summary": "動畫電影《小小兵&amp;大怪獸》是《神偷奶爸》系列的第7部作品，也是第3部外傳電影，這個橫跨16年的動畫宇宙，不僅締造驚人票房，更成為影史最成功、最賣座的動畫系列之一。你是否曾想過，一群幾乎聽不懂在說什麼、總是闖禍、甚至經常把事情搞得一團亂的黃色小傢伙，為什麼能在短短十多年內，成為全世界最受歡迎的動畫角色之一？2010年，環球影業（Universal Pictures）與照明娛樂（Illumin"
         },
         {
-          "title": "植下樹苗、陪伴長者、社區共好！台灣保樂力加讓「永續」走進每個角落",
-          "link": "https://www.gvm.com.tw/article/131018",
-          "published": "2026-07-01T00:00:00",
-          "summary": "隨著 ESG 在全球蔚為浪潮，對企業來說，「永續發展」早已不再只是口號，而是衡量營運韌性、長期競爭力和社會影響力的關鍵指標。作為全球烈酒與香檳產業的領導品牌，保樂力加深信美好時光來自美好之處（ Good Times from a Good Place），始終將守護環境、社會共好，視為企業最核心的承諾，並進一步將這樣的願景，具體化為「以人為本」、「循環生產」、「培育風土」和「理性聚會」等四大支柱。然"
+          "title": "美最高法院駁回限制出生公民權命令！川普諷習近平：恭喜贏得巨大勝利",
+          "link": "https://www.gvm.com.tw/article/131269",
+          "published": "2026-07-01T18:32:00",
+          "summary": "美國最高法院裁定，川普終止出生公民權的行政命令，違反憲法第14修正案，重申任何在美國本土出生者，皆自動取得公民身分。該判決對川普移民政策造成重大打擊，川普隨即諷刺中國國家主席習近平「贏得巨大勝利」，並喊話國會修法限制出生公民權。美國民權團體則將此裁決視為重大勝利。美國總統川普（Donald Trump）去年重返白宮首日，即簽署行政命令，終止無條件的出生公民權。6月30日，美國最高法院以6比3的投票"
         },
         {
-          "title": "培養共善跨域的實踐人才！國立臺南大學把城市變成未來人才培育基地",
-          "link": "https://www.gvm.com.tw/article/130874",
-          "published": "2026-07-01T00:00:00",
-          "summary": "面對AI浪潮、永續轉型與地方發展課題，國立臺南大學以跨域教育與社會實踐為核心，陪伴大學生走進真實場域，在參與中學習，在行動中創造影響力。隨著AI快速改變產業與教育，座落於文化底蘊與科技創新能量匯聚的臺南市，國立臺南大學面對少子化、產業轉型、永續治理與地方發展等多元挑戰，深信當前大學生除了專業知識外，更需要培養理解真實世界、跨域合作與解決問題的能力。近年來，臺南大學更將「城市即課堂」的理念化為行動，"
+          "title": "郭台銘的「神木」一課：永悅健康從鴻海保健室走向上市之路",
+          "link": "https://www.gvm.com.tw/article/131268",
+          "published": "2026-07-01T18:08:00",
+          "summary": "「神木的種子，落在馬路邊也只能長成小樹；要有夠大的市場，才成得了神木。」鴻海創辦人郭台銘多年前這樣對永悅健康董事長暨執行長陳俊嘉說。當年郭台銘沒有收掉的那間小公司，從鴻海科技集團保健室起步；歷經13年發展，如今以H2U永悅健康之名，預定7月底前掛牌創新板，走進更大的市場。H2U永悅健康今（1日）舉行上市前業績發表會，邀請約300位貴賓出席。會場花籃一字排開，現場座無虛席，出席者涵蓋產業界、投資界、"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "日本金屬推全新裝飾不銹鋼簡化製程助攻<b>碳中和</b> - 民視新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ftvnews.com.tw/news/detail/2026701W0128&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0JAnNuECMfdbJhM9E9EDp_",
-          "published": "2026-07-01T00:23:45+00:00",
-          "summary": "日本金屬株式會社（NIPPON KINZOKU）表示，新產品廣泛應用於汽車外觀飾條、智慧型手機及行動電腦外殼。該公司憑藉數十年的冷軋技術，採用「捲對捲」（coil-to-coil）&nbsp;..."
+          "title": "AI<b>淨零</b>／強化安全與韌性林右昌：台印菲再生能源合作潛力大 - 中央社",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/news/aipl/202607020017.aspx&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3gXKRvvIMpz3FOwBs_yDLL",
+          "published": "2026-07-01T23:28:38+00:00",
+          "summary": "能源安全與韌性成為各國關切議題，前內政部長林右昌今天在美國智庫舉辦的座談表示，台灣、印度和菲律賓在再生能源方面有很大的合作空間。"
         },
         {
-          "title": "熱浪東移布達佩斯初夏高溫飆至38度- 客家電視台",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hakkatv.org.tw/news-detail/1782815435845187&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0T_RQbE_CBSuLHvpD01Tzl",
-          "published": "2026-06-30T23:06:50+00:00",
-          "summary": "許多貝爾格萊德居民，將這場熱浪歸咎於氣候變遷，科學家指出，若非人類造成的氣候變遷，這波熱浪幾乎不可能發生，人為暖化，已使這星期夜間極端高溫出現的機率，比20年&nbsp;..."
+          "title": "國泰<b>氣候變遷</b>論壇拚永續創新 - Yahoo新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%259C%258B%25E6%25B3%25B0%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E8%25AB%2596%25E5%25A3%2587-%25E6%258B%259A%25E6%25B0%25B8%25E7%25BA%258C%25E5%2589%25B5%25E6%2596%25B0-201000409.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1uXMFtLOrd57Ldsz40SbWs",
+          "published": "2026-07-01T21:53:50+00:00",
+          "summary": "國泰金控第10屆「國泰永續金融暨氣候變遷高峰論壇」1日登場，以「永續創新韌性發展」為論壇核心主軸，催生國泰氣變論壇誕生的美國前副總統高爾（Al Gore）與金管&nbsp;..."
         },
         {
-          "title": "打破碳隧道症候群，改寫全球商業規則的TNFD 實戰指南 - CSRone 永續智庫",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://csrone.com/topics/9987&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1HZ7LC0xT3K0A8YNY1lw5V",
-          "published": "2026-06-30T23:02:37+00:00",
-          "summary": "碳費 CBAM ESG報告 淨零排放 TCFD 永續報告書 GRI準則 碳中和 &middot; CSRone &middot; 深度 ... 當氣候變遷引發極端乾旱，或是傳粉昆蟲因農藥濫用而大量消失，導致咖啡&nbsp;..."
+          "title": "存亡危機?! 歐洲熱浪&quot;催熱&quot;空調市場威脅<b>淨零</b>政策？ 法國太平間&quot;人&quot;滿為患【國際360】20260701 ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DzEw7Xn0Jcb4&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2i6CjYGmHj4h4LAG2DTGy6",
+          "published": "2026-07-01T21:25:57+00:00",
+          "summary": "除了歐洲遭遇罕見熱浪，許多地方氣溫飆破40度，美國東岸也出現熱穹現象，在獨立日週末出現極端高溫。#歐洲熱浪#美國熱穹#柏油  Anytime Anywhere 想學就學【快點&nbsp;..."
         },
         {
-          "title": "商研院推碳規劃管理師課程- 日報- 工商時報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260701700212-439901&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2p_YqfA8PQu47-wPxf4Ljo",
-          "published": "2026-06-30T19:13:16+00:00",
-          "summary": "隨著全球氣候變遷加劇，歐盟碳邊境調整機制（CBAM）逐步實施，以及台灣《氣候變遷因應法》全面上路，企業面臨淨零轉型與碳管理的挑戰日益升高，「碳管理能力」已&nbsp;..."
+          "title": "<b>淨零</b>轉型環部與學者對談 - Yahoo新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E6%25B7%25A8%25E9%259B%25B6%25E8%25BD%2589%25E5%259E%258B-%25E7%2592%25B0%25E9%2583%25A8%25E8%2588%2587%25E5%25AD%25B8%25E8%2580%2585%25E5%25B0%258D%25E8%25AB%2587-132225921.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1qR-YNrTbjspKrHiINsbrY",
+          "published": "2026-07-01T19:41:22+00:00",
+          "summary": "... 淨零轉型是一項長期工程，當前的環境治理正面臨氣候變遷、資源循環、AI資料治理及新興污染物等全新挑戰，亟需整個世代持續接棒。 ..."
         },
         {
-          "title": "第5屆綠色化學應用及創新獎參選說明會開跑！ - 澎湖e傳媒",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.phnes.net/%25E7%25AC%25AC5%25E5%25B1%2586%25E7%25B6%25A0%25E8%2589%25B2%25E5%258C%2596%25E5%25AD%25B8%25E6%2587%2589%25E7%2594%25A8%25E5%258F%258A%25E5%2589%25B5%25E6%2596%25B0%25E7%258D%258E-%25E5%258F%2583%25E9%2581%25B8%25E8%25AA%25AA%25E6%2598%258E%25E6%259C%2583%25E9%2596%258B%25E8%25B7%2591%25EF%25BC%2581&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3eprWWhSXrIAo4hGo2SUzA",
-          "published": "2026-06-30T17:42:19+00:00",
-          "summary": "推動化學物質的綠色永續轉型，不僅是繼氣候變遷後另一重要議題，也是達到溫室氣體減量的重要手段。而面對永續發展目標與淨零轉型的結構性變革，不論是政府&nbsp;..."
+          "title": "2026國泰永續金融暨<b>氣候變遷</b>高峰論壇凝聚下個十年韌性轉型力量",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/6a450144de5d6e55047aac56&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2PkLFGLNHnuC2KyAUMHLp_",
+          "published": "2026-07-01T18:04:49+00:00",
+          "summary": "面對全球永續金融秩序重整，全球淨零轉型所需的大量資本、技術與創新動能正加速向亞洲匯聚，驅動亞洲成為推動氣候行動與產業轉型..."
         },
         {
-          "title": "有片丨歐洲高溫肆虐法國官員反對全民加裝空調稱「沒有用處」 - 香港商報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hkcd.com.hk/hkcdweb/content/2026/06/30/content_8762483.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3jGc_yHMhYmDabjeTXkYti",
-          "published": "2026-06-30T16:24:28+00:00",
-          "summary": "... 氣候變化的辦法。」莫妮克呼籲針對氣候變化採取長期適應措施，而非僅僅依賴應急手段。許多網民批評莫妮克的言論太瘋狂，稱她在喊口號，而有人卻在高溫中死去&nbsp;..."
+          "title": "厄爾尼諾現象——為何2026年將是「最強一次」 - BBC News 中文",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bbc.com/zhongwen/resources/idt-54f4e985-a7fb-48b2-8246-f3be0d699402&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2GnBO73-WcW5lapEphbzUy",
+          "published": "2026-07-01T16:33:42+00:00",
+          "summary": "科學家群體擔憂，厄爾尼諾現象（聖嬰現象）加上人為氣候變化，將重塑全球天氣。"
         }
       ]
     }
