@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-07-04T04:34:41.310909+00:00",
-    "date": "2026-07-04",
+    "generated_at": "2026-07-05T04:56:23.462597+00:00",
+    "date": "2026-07-05",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -10,84 +10,47 @@
     {
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
-      "items": [
-        {
-          "title": "【人工智慧經濟現狀】AI 擴張比網路時代快 3 倍，但總經佔比僅 0.42%，為何獲利仍不見實質爆發？",
-          "link": "https://techorange.com/2026/07/04/ai-economy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-03T22:29:00+00:00",
-          "summary": "科技研究與分析平台 Exponential View 近日發布《2026 AI 經濟現況》（The State of the AI Economy）報告，內容顯示，當前生成式 AI 生態系年化營收已達 1,750 億美元，擴張速度比網路時代快上 3 倍，但佔美國整體 GDP 的比例僅為 0.42%（按：該年化營收之統計範圍為全球市場，排除中國。） 此數據落差反映出當前市場的發展結構：龐大的基礎資本"
-        },
-        {
-          "title": "退貨詐欺正在墊高零售成本：從空盒退貨到 AI 假照片，品牌如何用 AI 守住利潤？",
-          "link": "https://techorange.com/2026/07/03/return-fraud-ai-retail-happy-returns-optoro-2026-6/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-03T09:58:41+00:00",
-          "summary": "全球零售商正遭受新一波由生成式 AI 驅動的退貨詐欺襲擊。根據數位信任與詐欺防範平台 Forter 的最新數據指出，利用生成式 AI 技術捏造商品受損的申請，已高居目前成長最快的退貨濫用形式。這項新型態的威脅正在侵蝕商家的生存空間，在英國已有高達 44% 的企業表示自身正蒙受退貨與退款濫用的打擊，情況的嚴峻程度也迫使將近半數的零售業領袖坦言，他們在今年曾認真考慮縮減業務規模，甚至是直接結束營業。 "
-        },
-        {
-          "title": "供應鏈 AI 瓶頸不在技術，而在「決策權」：Deloitte 給主管的 5 個提醒",
-          "link": "https://techorange.com/2026/07/03/ai-deloitte-the-agentic-supply-chain/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-03T08:57:50+00:00",
-          "summary": "AI 技術飛快發展，供應鏈導入 AI 如果遲遲看不到成效，原因往往已經不在技術。顧問公司 Deloitte 最新《The Agentic Supply Chain》報告觀察，過去讓供應鏈 AI 停留在實驗階段的 4 道結構性障礙，其中 3 道：技術、衡量方式與治理，已大多鬆動，真正沒有鬆動的是第 4 道障礙，而它與技術無關。 代理式供應鏈已能規模化落地，共同模式浮現 支撐這個判斷的，是已經進入生產"
-        },
-        {
-          "title": "AI 會摧毀 SaaS，還是救回軟體公司？SAP 正在做一場關鍵實驗",
-          "link": "https://techorange.com/2026/07/03/sap-ai-jobs-skilled-workers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-03T07:29:42+00:00",
-          "summary": "歐洲最大軟體巨頭 SAP 正在進行一場勞動力轉型實驗。兩年前，SAP 在重組計畫中裁減近萬個職位，且部分裁員與 AI 的導入有關。然而，這家軟體巨頭如今正試圖避免進一步的人力縮編，轉向積極重新部署員工、引導他們在更能發揮 AI 價值的崗位上提升生產力。 這場組織變革的成敗，對於面臨人口老化與勞動人口嚴重短缺的歐洲，具有指標性的經濟意義。隨著嬰兒潮世代迎來退休潮，德國在未來 10 年內預計將流失近 "
-        },
-        {
-          "title": "Vitals ESP 7 重磅登場 重塑知識管理新體驗",
-          "link": "https://techorange.com/2026/07/03/vitals-esp-7-gss-km/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-03T07:00:00+00:00",
-          "summary": "叡揚資訊於日前舉辦「2026 KM 使用者大會」，以「重塑知識管理新體驗 開啟智慧辦公新篇章」為主題，首度揭曉知識管理平台 Vitals ESP 7 跨世代重大改版全貌，同時邀請學界權威與跨產業標竿企業同台交流，現場座無虛席，為今年度知識管理領域最具規模的產業盛會。 跨世代改版 讓知識從「找得到」躍升「問得到」 歷經二十多年深耕、服務超過八百家企業客戶，Vitals ESP 迎來跨世代重大改版。V"
-        },
-        {
-          "title": "微軟砸 25 億美元、AWS 投 10 億美元派駐工程師：企業 AI 戰場為何從「單一模型」轉向「多模型調度」？",
-          "link": "https://techorange.com/2026/07/03/microsoft-launches-new-artificial-intelligence-unit-compete-with-amazon/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-03T05:11:23+00:00",
-          "summary": "雲端運算與 AI 領域的競爭焦點，正迎來一次根本性的典範轉移。過去各家雲端巨頭競逐的是誰的基礎模型效能最強、誰的雲端基礎設施容量最大，但如今，戰線已全面延伸到協助企業將 AI 應用真正部署到內部複雜場景的「最後一哩路」。背後的核心原因，在於 AI 模型正在走向商品化，效能與價格正變得更加相似且便宜，這也讓單純銷售模型很難維持長久的競爭優勢。相較之下，協助大企業將 AI 融入工作流程的服務與導入市場"
-        }
-      ]
+      "items": []
     },
     {
       "feed_name": "遠見雜誌 - 前進的動力",
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "中產階級的黃金年代已過？全球發生的「5個變化」讓翻身愈來愈難",
-          "link": "https://www.gvm.com.tw/article/122798",
-          "published": "2026-07-03T23:42:00",
-          "summary": "全球的先進經濟體都可以觀察：從紐約、台北到柏林、倫敦、墨爾本和香港，大城市的年輕人愈來愈覺得要在自己成長的地方買間房子是非常困難的事，薪資的成長就是跟不上不動產價格，廣大的中產階級也在逐漸銷蝕。你或許會忍不住問道：我們是哪裡出了錯？不過，更貼切的問題其實是「什麼事情變了？」（本文節錄自《覺醒社畜的贏家理財課》一書，作者：柿內尚文，平安文化出版，以下為摘文。）從1950 年代到1980 年代，美國郊"
+          "title": "德國車的時代過去了？每十台新車有一台中國車，福斯要裁員十萬人",
+          "link": "https://www.gvm.com.tw/article/131306",
+          "published": "2026-07-04T16:00:00",
+          "summary": "歐洲人買車再也沒有民族主義，在高通膨時代，性價比高最重要，在此趨勢下，歐洲汽車大廠面臨存亡危機，外媒揭露福斯汽車準備進行史上最徹底的改革，全球可能裁員比原先宣布的多一倍，高達 10 萬人，並關閉四家德國工廠。歐盟對中國純電車加徵關稅後，中國車廠迅速調整策略，推出插電式油電車與一般油電車，且車價比對手更實惠，品質也不輸歐洲競爭對手。由於性價比更有吸引力，中國品牌在歐洲整體市占率已接近&nbsp;9～"
         },
         {
-          "title": "醫讚台灣是「養生者天堂」！哈佛醫學院推薦的10大「超級食物」",
-          "link": "https://www.gvm.com.tw/article/122393",
-          "published": "2026-07-03T23:39:00",
-          "summary": "當你吃下一口當季蔬果、挑選冷壓橄欖油入菜、或是將白飯換成紅藜飯時，也許你沒意識到，這些選擇不只是為了健康，更是對這個世界的一種責任。知名身心靈預防醫學專家，洛桑加參醫師特別整理出哈佛醫學院推薦的10類超級食物，幫助你打造健康與永續並行的日常。（本文節錄自《簡單豐足》一書，作者：洛桑加參，時報出版，以下為摘文。）愈來愈多研究證實，「植物性飲食為主」不僅能有效預防慢性病，還能延緩地球資源危機。如果你願"
+          "title": "味全龍為何又攜手hololive辦主題日？現場亮點、聯名商品與球團專訪一次看",
+          "link": "https://www.gvm.com.tw/article/131331",
+          "published": "2026-07-04T14:40:00",
+          "summary": "味全龍去年首度與hololive production合作，把VTuber主題日帶進台北大巨蛋。今年活動續辦，檔期也從單一場地拉長為兩週、四個比賽日，擴大到天母棒球場與台北大巨蛋。相較於2025年，今年不只場次增加，參與陣容、入場特典、應援套組與天母場限定互動也都一起擴大。2025年，味全龍第一次舉辦hololive主題日，參與成員全數來自hololive English。到了2026年，活動拆成"
         },
         {
-          "title": "逼大腦正向思考？千萬別讓「吸引力法則」成負能量溫床",
-          "link": "https://www.gvm.com.tw/article/73305",
-          "published": "2026-07-03T23:35:00",
-          "summary": "編按：各位或許都聽說過「吸引力法則」，吸引力法則就具有暗示的效果，它可以幫助你獲得想要的東西。但是，運用這個法則時，如果腦子想的不是正面而是負面狀況的話，最後所吸引到的就會是負面的結果，所以運用時要格外小心！有什麼方法可以讓大腦正向思考？可以參考「拉橡皮筋彈手腕」！（本文摘自《做事輕鬆的人都很懂的正向誘導技術》一書，以下為摘文。）吸引力法則，最強烈的念頭會成真自我暗示失敗的人，似乎都有同一種思考模"
+          "title": "中聯油脂點燃食安風暴！這家油品大戶，如何讓供應鏈淪陷？",
+          "link": "https://www.gvm.com.tw/article/131338",
+          "published": "2026-07-04T14:06:00",
+          "summary": "一桶大豆沙拉油驗出致癌物苯駢芘超標，不僅掀起一場食安風暴，更意外揭開台灣食用油供應鏈鮮少曝光的真相：看似互相競爭的品牌，背後竟共享同一座上游加工廠。這也引發外界重新檢視，現行台灣以自主檢驗為核心的食安管理制度，是否足以因應高度集中的供應鏈結構。&nbsp;消費者走進超市，貨架上擺著琳瑯滿目的食用油，大多數人以為它們既然是不同品牌，不管是公司還是製程都不會一樣，當然，品質把關也有著各自的要求。然而，"
         },
         {
-          "title": "商場稱呼最忌以疏為親：社會上「哥、姊」不是你可以隨便叫的",
-          "link": "https://www.gvm.com.tw/article/123038",
-          "published": "2026-07-03T23:32:00",
-          "summary": "人在江湖，對人的稱呼是一門大學問，稱「先生」、「小姐」是常態，稱「董事長」、「總經理」、「副總」的頭銜，也是多數人的習慣，但是有時想要表現親密的「哥」、「姊」，這種稱呼就要小心謹慎。（本文節錄自《自在慢行》一書，作者：何飛鵬，商周出版，以下為摘文。）我的一個朋友，她也是我們公司的客戶，打電話向我抱怨，說我們的一個業務代表去拜訪她，竟用「姊」稱呼她，讓她覺得很不爽，一來彼此並不熟，還稱呼得這麼親熱；"
+          "title": "2026FIFA世界盃》世足賽16強名單正式出爐！哪幾隊最可能挺進8強？各國戰力一次看！",
+          "link": "https://www.gvm.com.tw/article/131336",
+          "published": "2026-07-04T11:40:00",
+          "summary": "隨著2026世界盃足球賽進入白熱化階段，全球球迷的目光，也逐漸聚焦在一支支成功挺進淘汰賽的勁旅身上從32強到16強，究竟，哪支球隊能挺進到最後呢？賽程資訊：2026FIFA世界盃》世界盃足球賽賽程資訊全攻略、世足賽32強名單正式出爐、世足賽16強名單正式出爐從48支參賽球隊，到32強，再到如今只剩下最後16支隊伍，2026世界盃足球賽的競爭，也正式進入最殘酷的階段。歷經小組賽的激烈廝殺，以及32強"
         },
         {
-          "title": "「這所大學」錄取率不到1％、被稱為「比哈佛大學更難進的大學」",
-          "link": "https://www.gvm.com.tw/article/123047",
-          "published": "2026-07-03T23:27:00",
-          "summary": "美國也和韓國一樣，到現在還是有許多學校以20世紀的方式教育孩子，比起以討論方式深入學習主題的教學，大多數學校還是重背誦或解題。但這種沿襲過去的教學方式已不符教育現狀，很可能會被AI取代。那麼，在邁向22世紀的今天，我們該如何教育孩子，才能讓他們在未來具有競爭力呢？我在密涅瓦大學和以色列大學找到答案。（本文節錄自《哈佛不喜歡模範生》一書，作者：安宰賢，創意市集出版，以下為摘文。）先來看看密涅瓦大學在"
+          "title": "理解Z世代同事，從不當「討厭的老人」開始",
+          "link": "https://www.gvm.com.tw/article/131303",
+          "published": "2026-07-04T11:00:00",
+          "summary": "最近剛落幕的金曲獎頒獎典禮，由於獲獎的新世代藝人陳嫺靜音樂風格相當新潮，讓不少中高齡觀眾抱怨聽不懂，甚至「好難聽」！結果反被年輕網友拿來警惕「以後我不要當這種討厭的大人」。其實，我也常在職場上看到「討厭的老人」型主管，不但較難領導年輕團隊，還容易被時代淘汰。該怎麼避免自己成為這類人？第一步不必硬學流行話，請從這類「聽不懂還要嫌」的心態中解套吧。第37屆金曲獎頒獎剛落下帷幕。打開當晚的社群媒體動態，"
         },
         {
-          "title": "去花蓮海洋公園，沒特技還能看海豚？轉型攜手《進擊巨人》新體驗亮點",
-          "link": "https://www.gvm.com.tw/article/131333",
-          "published": "2026-07-03T18:26:00",
-          "summary": "陪伴無數台灣人長大的花蓮遠雄海洋公園海豚秀，在今年4月正式劃下句點。面對全球日益高漲的動物福利聲浪，這座東台灣最具代表性的主題樂園選擇了一條不容易的路——歷經10年，於今年7月正式將劇場轉型為「海豚守護基地」。未來的海豚不再表演特技，而是退居保育與醫療照護的第一線。這場轉型，究竟會為台灣的主題樂園帶來什麼樣的新面貌？【目錄】• 因應全球動物福利，招牌「跳浪奇緣」成絕響• 沒有特技表演，遊客去海洋公"
+          "title": "心理學家導正迷思：矽谷風行「24小時多巴胺斷食」幫大腦排毒，是錯誤觀念！",
+          "link": "https://www.gvm.com.tw/article/131301",
+          "published": "2026-07-04T10:28:00",
+          "summary": "24小時的「多巴胺斷食」(dopamine fasting)是在矽谷蔚為風行的生活方式；進行多巴胺斷食的人會盡可能遠離所有刺激源整整一天，希望能藉由禁絕所有刺激大腦多巴胺的活動，來「重置」多巴胺濃度。但想解決這個問題，絕不是單靠短短24小時斷絕所有相關活動就能達成。（本文節錄自《【誰在讓你失控？】駕馭多巴胺，打造最強大腦行動力》一書，作者：安納斯塔西雅．赫羅尼斯／聯經出版，以下為摘文。）迷思1：多"
         }
       ]
     },
@@ -96,40 +59,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "氣象組織：未來數月全球多地熱浪等極端天氣風險上升 - RFI",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rfi.fr/tw/%25E4%25B8%25AD%25E5%259C%258B/20260703-%25E6%25B0%25A3%25E8%25B1%25A1%25E7%25B5%2584%25E7%25B9%2594-%25E6%259C%25AA%25E4%25BE%2586%25E6%2595%25B8%25E6%259C%2588%25E5%2585%25A8%25E7%2590%2583%25E5%25A4%259A%25E5%259C%25B0%25E7%2586%25B1%25E6%25B5%25AA%25E7%25AD%2589%25E6%25A5%25B5%25E7%25AB%25AF%25E5%25A4%25A9%25E6%25B0%25A3%25E9%25A2%25A8%25E9%259A%25AA%25E4%25B8%258A%25E5%258D%2587&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0iIppNtcfY2R1Ni3Tn_lRK",
-          "published": "2026-07-03T21:48:03+00:00",
-          "summary": "氣象組織最新一期《全球季節性氣候通報》顯示，強厄爾尼諾條件預計將在7月至9月迅速發展。多模式集合預報顯示，赤道中東太平洋海溫將持續顯著偏高，關鍵監測&nbsp;..."
+          "title": "高雄社宅推動<b>淨零</b>生活凱旋青樹邀住戶從日常實踐永續 - 蕃新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20260704211099&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2XojA1-VxjWBzUjAU8z0tY",
+          "published": "2026-07-05T02:37:07+00:00",
+          "summary": "【Kaonews焦點新聞／報導】面對全球氣候變遷與淨零排放趨勢，高雄市政府都市發展局與高雄市住宅及都市更新中心(下稱高住都中心)攜手於115年3月至6月於凱旋青樹&nbsp;..."
         },
         {
-          "title": "城市展現氣候行動如何改善生活 - 信報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.hkej.com/landing/mobarticle2/id/4448927/%2525E5%25259F%25258E%2525E5%2525B8%252582%2525E5%2525B1%252595%2525E7%25258F%2525BE%2525E6%2525B0%2525A3%2525E5%252580%252599%2525E8%2525A1%25258C%2525E5%25258B%252595%2525E5%2525A6%252582%2525E4%2525BD%252595%2525E6%252594%2525B9%2525E5%252596%252584%2525E7%252594%25259F%2525E6%2525B4%2525BB&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0Ze68_dLpmGAE-I0OPcjMc",
-          "published": "2026-07-03T21:04:23+00:00",
-          "summary": "市長們深知那些減少溫室氣體排放和增強氣候韌性的措施也能改善市民的日常生活。節能住宅能降低家庭的能源支出。可再生能源的普及減少了對進口化石燃料的依賴，也&nbsp;..."
+          "title": "高溫調適成氣候科技新趨勢睿田能源布局立面彩繪光電與<b>淨零</b>建築資產化 - 今傳媒JNEWS",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://focusnews.com.tw/2026/07/709883/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0zH7kR1KsyCE4Pdg6k6ABV",
+          "published": "2026-07-04T22:22:52+00:00",
+          "summary": "彭部長指出，氣候調適不是成本項目，而是未來產業競爭力的一部分；誰能提早管理熱風險，誰就能在淨零轉型與永續治理中取得先機。 社團法人臺灣防災產業協會理事長&nbsp;..."
         },
         {
-          "title": "冷氣太少影響經濟競爭力？ 專家疾呼歐洲要追趕美國",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.worldjournal.com/wj/amp/story/121617/9606157&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2A6IFItkoO1pZUmjWiKicr",
-          "published": "2026-07-03T20:22:42+00:00",
-          "summary": "氣候科技公司高階主管Taco Engelaar在《財星雜誌》撰發專欄，直陳「冷氣（空調）落差」（AC gap）已經令歐洲的經濟競爭力處於劣勢。他說，美國家庭冷氣普及率&nbsp;..."
+          "title": "瞄準氣候科技新藍海睿田能源布局彩繪光電打造建築降溫新解方 - 蕃新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20260704295873&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw232Irfj2Fvw_4P3vzmW4fz",
+          "published": "2026-07-04T21:00:18+00:00",
+          "summary": "彭部長指出，氣候調適不是成本項目，而是未來產業競爭力的一部分；誰能提早管理熱風險，誰就能在淨零轉型與永續治理中取得先機。 82c15a1929ad33de1f0593ef7d81559b."
         },
         {
-          "title": "沒有中國的投入，我們就沒辦法應對氣候變化 - 华侨网",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.chinesepress.com/archives/177212&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1R-gkoBoWA5a6stHmtl3yZ",
-          "published": "2026-07-03T18:32:49+00:00",
-          "summary": "7月3日，牛津大学新学院院长罗宾·尼布利特在第十四届世界和平论坛上表示，巴西和欧洲国家真的需要在气候变化问题上和中国打交道。 “没有中国的投入，&nbsp;..."
+          "title": "科工館攜手台日大聯盟展示極端氣候與涼適科技 - 新唐人亞太電視台",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ntdtv.com.tw/b5/20260704/video/409930.html%3F%25E7%25A7%2591%25E5%25B7%25A5%25E9%25A4%25A8%25E6%2594%259C%25E6%2589%258B%25E5%258F%25B0%25E6%2597%25A5%25E5%25A4%25A7%25E8%2581%25AF%25E7%259B%259F%2520%25E5%25B1%2595%25E7%25A4%25BA%25E6%25A5%25B5%25E7%25AB%25AF%25E6%25B0%25A3%25E5%2580%2599%25E8%2588%2587%25E6%25B6%25BC%25E9%2581%25A9%25E7%25A7%2591%25E6%258A%2580&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0vm0z7ALMpCXWyReOQBWoI",
+          "published": "2026-07-04T19:36:56+00:00",
+          "summary": "高溫、暴雨與強颱已成為影響民眾健康、勞動安全及城市治理的重要風險。為提升全民對氣候風險的認知與因應能力，環境部氣候變遷署主辦，由高雄市政府與國立科學&nbsp;..."
         },
         {
-          "title": "大灣區<b>碳中和</b>協會首屆「2026 大灣區<b>碳中和</b>先鋒大獎」 - 信報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hkej.com/dailynews/investment/article/4449396/%25E5%25A4%25A7%25E7%2581%25A3%25E5%258D%2580%25E7%25A2%25B3%25E4%25B8%25AD%25E5%2592%258C%25E5%258D%2594%25E6%259C%2583%25E9%25A6%2596%25E5%25B1%2586%25E3%2580%258C2026%2B%25E5%25A4%25A7%25E7%2581%25A3%25E5%258D%2580%25E7%25A2%25B3%25E4%25B8%25AD%25E5%2592%258C%25E5%2585%2588%25E9%258B%2592%25E5%25A4%25A7%25E7%258D%258E%25E3%2580%258D&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3NWWc7JhZTT4gjhS9j5dSJ",
-          "published": "2026-07-03T18:29:16+00:00",
-          "summary": "為積極響應國家氣候策略並加速推進本地減碳進程，大灣區碳中和協會（GBACNA）聯同香港黃金業集團有限公司及香港西貢將軍澳工商聯會，早前在香港萬豪酒店隆重舉行&nbsp;..."
+          "title": "熱浪洪水野火不斷今夏遭極端天氣輪襲 - 华侨网",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.chinesepress.com/archives/177477&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw32ZzHNRXCvrrhAmwZGEVL_",
+          "published": "2026-07-04T19:12:53+00:00",
+          "summary": "但今年夏天已經給許多加拿大人帶來了混亂和破壞。到底發生了什麼？ 急流和厄爾尼諾如何影響天氣. 加拿大環境與氣候變化部駐薩斯卡通研究科學家Barrie Bonsal表示，&nbsp;..."
         },
         {
-          "title": "中市水利局赴丹麥取經能源正效益技術借鏡循環經濟打造<b>淨零</b>永續城市 - 行銷人",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.marketersgo.com/uncategorized/202607/%25E4%25B8%25AD%25E5%25B8%2582%25E6%25B0%25B4%25E5%2588%25A9%25E5%25B1%2580%25E8%25B5%25B4%25E4%25B8%25B9%25E9%25BA%25A5%25E5%258F%2596%25E7%25B6%2593%25E8%2583%25BD%25E6%25BA%2590%25E6%25AD%25A3%25E6%2595%2588%25E7%259B%258A%25E6%258A%2580%25E8%25A1%2593%25E3%2580%2580%25E5%2580%259F%25E9%258F%25A1%25E5%25BE%25AA%25E7%2592%25B0/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw073Kny-YJa31FfZyqSRHtM",
-          "published": "2026-07-03T16:46:10+00:00",
-          "summary": "【今傳媒記者王于誠報導】. 為加速推動城市減碳，提升污水處理能源效率，台中市政府水利局赴丹麥考察環保科技與循環經濟發展成果。考察聚焦國際知名的「能源正&nbsp;..."
+          "title": "股市爆料同學會 - 理財寶",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/stock/TWI101%3Ftab%3Dcolumn&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2lLsYkOETMO_JJzSGb5yWK",
+          "published": "2026-07-04T19:02:42+00:00",
+          "summary": "臺灣淨零轉型ESG 50指數 TWI101 &middot; 即時走勢 &middot; 技術分析 &middot; 籌碼分析."
         }
       ]
     }
