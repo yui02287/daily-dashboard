@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-07-05T04:56:23.462597+00:00",
-    "date": "2026-07-05",
+    "generated_at": "2026-07-07T04:51:36.128037+00:00",
+    "date": "2026-07-07",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -10,47 +10,84 @@
     {
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
-      "items": []
+      "items": [
+        {
+          "title": "Anthropic 發現 Claude 藏想法的「J 空間」：只看 AI 寫出來的推理，治理恐怕不夠",
+          "link": "https://techorange.com/2026/07/07/anthropic-a-global-workspace-in-claude/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-07T04:32:43+00:00",
+          "summary": "隨著推理模型與 AI 代理（AI Agent）崛起，人類開始要求 AI 不只給答案，也要「說明自己怎麼想」。模型展開的思維鏈（Chain-of-Thought，CoT），因此被視為觀察 AI 決策過程的重要窗口，研究人員也嘗試從中辨識錯誤、欺騙或危險意圖。但 Anthropic 最新研究提出一個更棘手的問題：AI 說出口的「思考過程」，可能不是全部。 Anthropic 最新一篇由 16 位作者完"
+        },
+        {
+          "title": "《虛擬資產服務法》將上路，台灣如何搶進鏈上金融新秩序？臺灣金融科技協會名譽理事長蔡玉玲解析穩定幣、VASP 與供應鏈金融新機會",
+          "link": "https://techorange.com/2026/07/07/2026-tech-finance-forum/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-07T03:08:59+00:00",
+          "summary": "撰稿：李昀蔚 《虛擬資產服務法》 6 月 30 日正式三讀通過，台灣虛擬資產產業迎來關鍵轉折。過去，虛擬資產多半處在體制外，缺乏明確的法律定位，這也讓許多機構法人與傳統金融業即使高度關注，也大多只能維持觀望態度。如今，隨著專法正式將虛擬資產服務提供商（VASP）納入監管體制，台灣終於有了自己的監管框架，讓產業得以在合規的基石上，重新思考台灣在全球鏈上金融秩序中的位置。 本集《全新一週》主題為臺灣金"
+        },
+        {
+          "title": "演算法引路、會員制收網：零售品牌如何用忠誠度打造 AI 時代護城河？",
+          "link": "https://techorange.com/2026/07/07/retailers-omnichannel-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-07T01:39:27+00:00",
+          "summary": "生成式 AI 正快速改變消費者探索商品的方式，愈來愈多人不再直接搜尋品牌名稱，而是向 AI 描述自己的需求，讓 AI 推薦最適合的產品。然而，當 AI 開始接手商品發現（product discovery），真正決定消費者最終在哪裡下單、是否持續回購的關鍵，卻未必是演算法，而是會員制度、品牌信任，以及長期建立的人際互動。 AI 負責提供問題解方，而「忠誠度」負責鎖定結帳終點 根據行銷科技公司 No"
+        },
+        {
+          "title": "【人形機器人家用化】22 度手指自由度、22 分貝靜音，1X NEO 用硬體差異化搶進家庭市場",
+          "link": "https://techorange.com/2026/07/07/neo-humanoid-ai-robot-1x-tech/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-07T01:30:58+00:00",
+          "summary": "1X Technologies 所開發的 AI 家用人形機器人 NEO，除了 60 萬台幣的低廉售價外，更有 22 度的可驅動自由度，既達到人類等級靈巧度，更是機器人業界新標竿。"
+        },
+        {
+          "title": "【華爾街人才洗牌】例行報告交機器、判斷交給人，五種新職能重定義金融人才",
+          "link": "https://techorange.com/2026/07/07/ai-replacing-finance-jobs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-07T01:30:47+00:00",
+          "summary": "人工智慧正全面重塑金融業的營運模式，如今 AI 被大量利用在自然語言處理技術，解讀市場報告、標記會計錯誤並自動整理企業銀行文件。由於技術大幅節省工作時間，各大銀行正在改變其團隊的日常工作方式。 當 AI 開始大量接手資料處理與報告產出，工作者心裡或多或少都會浮現同一個問題：AI 會不會取代我的工作？ 以下把這個焦慮拆開，釐清 AI 對金融業的實際衝擊到底有多大、哪些職位真正面臨被替代的風險，以及在"
+        },
+        {
+          "title": "【科技早餐】AI 供應鏈吃緊：韓國晶片戰加速、三星獲利暴增、NVIDIA 機櫃延後",
+          "link": "https://techorange.com/2026/07/07/ai-supply-chain-korea-chip-samsung-nvidia-rack-delay/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-06T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊韓國晶片戰加速，水電審批與未來基金同步上路 韓國總統李在明指示官員加快推動上週宣布的重大晶片與人工智慧（AI）專案。根據《路透》報導，李在明警告，如果許可審批、土地取得，以及水電供應出現延誤，可能削弱韓國在先進產業取得主導地位的努力。他表示，現在的關鍵是誰行動更快、誰率先搶占先機，並呼籲在可行範圍內縮短環境審查與其他核准程序。 除了審批速度，電力"
+        }
+      ]
     },
     {
       "feed_name": "遠見雜誌 - 前進的動力",
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "德國車的時代過去了？每十台新車有一台中國車，福斯要裁員十萬人",
-          "link": "https://www.gvm.com.tw/article/131306",
-          "published": "2026-07-04T16:00:00",
-          "summary": "歐洲人買車再也沒有民族主義，在高通膨時代，性價比高最重要，在此趨勢下，歐洲汽車大廠面臨存亡危機，外媒揭露福斯汽車準備進行史上最徹底的改革，全球可能裁員比原先宣布的多一倍，高達 10 萬人，並關閉四家德國工廠。歐盟對中國純電車加徵關稅後，中國車廠迅速調整策略，推出插電式油電車與一般油電車，且車價比對手更實惠，品質也不輸歐洲競爭對手。由於性價比更有吸引力，中國品牌在歐洲整體市占率已接近&nbsp;9～"
+          "title": "老花年齡層下降、3C世代最有感",
+          "link": "https://www.gvm.com.tw/article/131034",
+          "published": "2026-07-07T00:00:00",
+          "summary": "看不清菜單、手機越拿越遠？老花，早已不是熟齡族的專利。長時間緊盯螢幕的現代人，眼睛老化速度悄悄加快，各種生活困擾也接踵而來。隨著雷射技術持續升級，德國新型老花雷射LBV裸視美，一次解決老花、近視、散光以及遠視等視力痛點，為3C世代帶來新解方。過去提到老花，多數人直覺聯想到五、六十歲的長輩。但近年臨床上，不少四十歲出頭、甚至也有少數未滿四十歲的重度3C使用者，已開始出現初期老花困擾。長時間近距離使用"
         },
         {
-          "title": "味全龍為何又攜手hololive辦主題日？現場亮點、聯名商品與球團專訪一次看",
-          "link": "https://www.gvm.com.tw/article/131331",
-          "published": "2026-07-04T14:40:00",
-          "summary": "味全龍去年首度與hololive production合作，把VTuber主題日帶進台北大巨蛋。今年活動續辦，檔期也從單一場地拉長為兩週、四個比賽日，擴大到天母棒球場與台北大巨蛋。相較於2025年，今年不只場次增加，參與陣容、入場特典、應援套組與天母場限定互動也都一起擴大。2025年，味全龍第一次舉辦hololive主題日，參與成員全數來自hololive English。到了2026年，活動拆成"
+          "title": "軍公教最高加薪10%！公務員實際「到手薪資」差在哪？",
+          "link": "https://www.gvm.com.tw/article/131368",
+          "published": "2026-07-06T18:39:00",
+          "summary": "上週行政院拍板軍公教全體加薪，最高幅度10%，幅度看似不小，但扣掉高昂的退撫金額後，公務員實際到手的薪資，其實可能沒有大家想像的多。以實拿薪資計算，最基層的初考人員加薪幅度確實有達到10%，但實拿薪資僅約35K，其他職等的公務員都沒有來到10%，且愈高階加薪幅度愈低，對照銓敘部公布的報告，近年公務員離職人數持續攀升，這樣的加薪力度能否幫助留才，有待後續觀察。到底薪資加在哪？《遠見》完整解析。行政院"
         },
         {
-          "title": "中聯油脂點燃食安風暴！這家油品大戶，如何讓供應鏈淪陷？",
-          "link": "https://www.gvm.com.tw/article/131338",
-          "published": "2026-07-04T14:06:00",
-          "summary": "一桶大豆沙拉油驗出致癌物苯駢芘超標，不僅掀起一場食安風暴，更意外揭開台灣食用油供應鏈鮮少曝光的真相：看似互相競爭的品牌，背後竟共享同一座上游加工廠。這也引發外界重新檢視，現行台灣以自主檢驗為核心的食安管理制度，是否足以因應高度集中的供應鏈結構。&nbsp;消費者走進超市，貨架上擺著琳瑯滿目的食用油，大多數人以為它們既然是不同品牌，不管是公司還是製程都不會一樣，當然，品質把關也有著各自的要求。然而，"
+          "title": "放寬輝達晶片出口前偷買股？「川普投顧」3600筆交易時機惹議",
+          "link": "https://www.gvm.com.tw/article/131367",
+          "published": "2026-07-06T18:34:00",
+          "summary": "川普最新財產申報顯示，重返白宮首年收入逾22億美元，其中加密貨幣獲利超過14億美元；其帳戶頻繁交易股票，時點與政策及發文相近，引發利益衝突與內線交易質疑。倫理專家與民主黨要求調查，川普及白宮則否認牟利，強調相關行為合法。美國政府倫理辦公室6月底發布一份長達927頁的財產申報資料。報告顯示，美國總統川普重返白宮第一年的個人總收入超過22億美元，遠高於2024年的6億多美元。其中，加密貨幣為最大來源，"
         },
         {
-          "title": "2026FIFA世界盃》世足賽16強名單正式出爐！哪幾隊最可能挺進8強？各國戰力一次看！",
-          "link": "https://www.gvm.com.tw/article/131336",
-          "published": "2026-07-04T11:40:00",
-          "summary": "隨著2026世界盃足球賽進入白熱化階段，全球球迷的目光，也逐漸聚焦在一支支成功挺進淘汰賽的勁旅身上從32強到16強，究竟，哪支球隊能挺進到最後呢？賽程資訊：2026FIFA世界盃》世界盃足球賽賽程資訊全攻略、世足賽32強名單正式出爐、世足賽16強名單正式出爐從48支參賽球隊，到32強，再到如今只剩下最後16支隊伍，2026世界盃足球賽的競爭，也正式進入最殘酷的階段。歷經小組賽的激烈廝殺，以及32強"
+          "title": "中聯翻車百家遭殃！南僑揭開食安一級品管漏洞",
+          "link": "https://www.gvm.com.tw/article/131364",
+          "published": "2026-07-06T18:18:00",
+          "summary": "中聯油脂致癌大豆沙拉油事件，愈演愈烈，食藥署公布全台19個縣市淪陷、受影響廠商257家，涵蓋聯華、桂冠、廣達香、晶華酒店、老協珍、路易莎等知名業者，還有130幾所學校的團膳也受到波及。如非南僑複驗發現、扮演吹哨者，國人恐吃進一級致癌物而不自知，進而揭開台灣食安「一級品管」的漏洞。這次的食用油事件與2014年的地溝油案完全不同，食藥署研判問題可能出在「原料產地轉換」與「不均勻汙染」。中聯近期將來源從"
         },
         {
-          "title": "理解Z世代同事，從不當「討厭的老人」開始",
-          "link": "https://www.gvm.com.tw/article/131303",
-          "published": "2026-07-04T11:00:00",
-          "summary": "最近剛落幕的金曲獎頒獎典禮，由於獲獎的新世代藝人陳嫺靜音樂風格相當新潮，讓不少中高齡觀眾抱怨聽不懂，甚至「好難聽」！結果反被年輕網友拿來警惕「以後我不要當這種討厭的大人」。其實，我也常在職場上看到「討厭的老人」型主管，不但較難領導年輕團隊，還容易被時代淘汰。該怎麼避免自己成為這類人？第一步不必硬學流行話，請從這類「聽不懂還要嫌」的心態中解套吧。第37屆金曲獎頒獎剛落下帷幕。打開當晚的社群媒體動態，"
+          "title": "半導體人才荒延燒，陽明交大、中山、中興不限科系開暑期課",
+          "link": "https://www.gvm.com.tw/article/131365",
+          "published": "2026-07-06T17:54:00",
+          "summary": "大學念文組科系，也有機會切入護國神山？沒錯！台灣多所大學在2026年暑假攜手「護國神山」台積電開設暑期半導體專項課程，並且不限學生科系，非電機、電子或半導體相關科系的學生也確定可以參與。這些大學規劃了哪些課程？相關與非相關科系的學生，分別能從課程中獲得什麼樣的助益？陽明交大、中山大與中興大學釋出多少名額？怎麼去就讀呢？台積電持續擴廠，帶動台灣高科技業榮景，同時產業對於人才的需求也隨之擴大，因此，為"
         },
         {
-          "title": "心理學家導正迷思：矽谷風行「24小時多巴胺斷食」幫大腦排毒，是錯誤觀念！",
-          "link": "https://www.gvm.com.tw/article/131301",
-          "published": "2026-07-04T10:28:00",
-          "summary": "24小時的「多巴胺斷食」(dopamine fasting)是在矽谷蔚為風行的生活方式；進行多巴胺斷食的人會盡可能遠離所有刺激源整整一天，希望能藉由禁絕所有刺激大腦多巴胺的活動，來「重置」多巴胺濃度。但想解決這個問題，絕不是單靠短短24小時斷絕所有相關活動就能達成。（本文節錄自《【誰在讓你失控？】駕馭多巴胺，打造最強大腦行動力》一書，作者：安納斯塔西雅．赫羅尼斯／聯經出版，以下為摘文。）迷思1：多"
+          "title": "長榮海運爆內線交易！北檢搜索約談張國華等9人",
+          "link": "https://www.gvm.com.tw/article/131363",
+          "published": "2026-07-06T16:13:00",
+          "summary": "長榮集團創辦人張榮發長子張國華，遭長榮海運股東指控涉內線交易長榮海運股票。北檢今天搜索張國華、張國政、柯麗卿等被告住居所及長榮海運等地，通知張國華等9名被告到案說明。長榮海運股東、律師林文鵬於民國113年4月22日前往台北地檢署，按鈴控告張國華、長榮董事柯麗卿，涉嫌於長榮海運112年8月14日處分長榮航空股票的重大消息公布前買賣長榮海運股票，涉違反證券交易法內線交易罪。對此，張國華當時表示，交易都"
         }
       ]
     },
@@ -59,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "高雄社宅推動<b>淨零</b>生活凱旋青樹邀住戶從日常實踐永續 - 蕃新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20260704211099&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2XojA1-VxjWBzUjAU8z0tY",
-          "published": "2026-07-05T02:37:07+00:00",
-          "summary": "【Kaonews焦點新聞／報導】面對全球氣候變遷與淨零排放趨勢，高雄市政府都市發展局與高雄市住宅及都市更新中心(下稱高住都中心)攜手於115年3月至6月於凱旋青樹&nbsp;..."
+          "title": "中研院士：人類邁入智慧時代需仰賴國際科研合作|半導體|產業新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D1%26nsl_id%3D647cbc8e967641278a5f019324eb5466&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1IfGc9wR8u_DNoE4il2qkW",
+          "published": "2026-07-06T23:15:31+00:00",
+          "summary": "她認為，面對氣候變遷、疫情、能源轉型等跨越國界的複雜挑戰，國際間唯有建立開放且 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
         },
         {
-          "title": "高溫調適成氣候科技新趨勢睿田能源布局立面彩繪光電與<b>淨零</b>建築資產化 - 今傳媒JNEWS",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://focusnews.com.tw/2026/07/709883/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0zH7kR1KsyCE4Pdg6k6ABV",
-          "published": "2026-07-04T22:22:52+00:00",
-          "summary": "彭部長指出，氣候調適不是成本項目，而是未來產業競爭力的一部分；誰能提早管理熱風險，誰就能在淨零轉型與永續治理中取得先機。 社團法人臺灣防災產業協會理事長&nbsp;..."
+          "title": "富邦<b>淨零</b>ESG50(009809) 散戶能追嗎？先看這個 - YouTube",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D20C64Rmz40I&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0g6de4LaiCGf9a0sDzNJCM",
+          "published": "2026-07-06T19:08:27+00:00",
+          "summary": "富邦淨零ESG50 #009809 #主力成本#支撐壓力判讀   富邦淨零ESG50(009809) 主力成本分析主力成本在11.81 元附近從支撐壓力判讀、五層位階到操作策略，&nbsp;..."
         },
         {
-          "title": "瞄準氣候科技新藍海睿田能源布局彩繪光電打造建築降溫新解方 - 蕃新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20260704295873&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw232Irfj2Fvw_4P3vzmW4fz",
-          "published": "2026-07-04T21:00:18+00:00",
-          "summary": "彭部長指出，氣候調適不是成本項目，而是未來產業競爭力的一部分；誰能提早管理熱風險，誰就能在淨零轉型與永續治理中取得先機。 82c15a1929ad33de1f0593ef7d81559b."
+          "title": "最新消息| 國泰綜合證券Cathay Securities Corporation",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20260707%26CSeqNO%3DE9611037&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3UKeZF4UFLsOI2pADSUc8h",
+          "published": "2026-07-06T18:57:32+00:00",
+          "summary": "因應氣候變遷帶來的考驗，環境部推動「抗高溫調適對策聯盟」，攜手公私部門共同打造更具氣候韌性的工作環境。美商Coupang酷澎積極響應政府政策，將體貼物流&nbsp;..."
         },
         {
-          "title": "科工館攜手台日大聯盟展示極端氣候與涼適科技 - 新唐人亞太電視台",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ntdtv.com.tw/b5/20260704/video/409930.html%3F%25E7%25A7%2591%25E5%25B7%25A5%25E9%25A4%25A8%25E6%2594%259C%25E6%2589%258B%25E5%258F%25B0%25E6%2597%25A5%25E5%25A4%25A7%25E8%2581%25AF%25E7%259B%259F%2520%25E5%25B1%2595%25E7%25A4%25BA%25E6%25A5%25B5%25E7%25AB%25AF%25E6%25B0%25A3%25E5%2580%2599%25E8%2588%2587%25E6%25B6%25BC%25E9%2581%25A9%25E7%25A7%2591%25E6%258A%2580&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0vm0z7ALMpCXWyReOQBWoI",
-          "published": "2026-07-04T19:36:56+00:00",
-          "summary": "高溫、暴雨與強颱已成為影響民眾健康、勞動安全及城市治理的重要風險。為提升全民對氣候風險的認知與因應能力，環境部氣候變遷署主辦，由高雄市政府與國立科學&nbsp;..."
+          "title": "東元<b>碳中和</b>方案的競爭力在哪？",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://readmo.cmoney.tw/article/d184804a-232f-4e99-a385-23505984764a&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1dUDP1hYAsM7bqqjilW0Bz",
+          "published": "2026-07-06T16:38:31+00:00",
+          "summary": "若方案能有效提升能效、降低維護成本，客戶採用意願就會提高；換句話說，東元碳中和方案的競爭力，來自技術整合能力、工程落地能力，以及能否讓客戶看到明確的成本&nbsp;..."
         },
         {
-          "title": "熱浪洪水野火不斷今夏遭極端天氣輪襲 - 华侨网",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.chinesepress.com/archives/177477&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw32ZzHNRXCvrrhAmwZGEVL_",
-          "published": "2026-07-04T19:12:53+00:00",
-          "summary": "但今年夏天已經給許多加拿大人帶來了混亂和破壞。到底發生了什麼？ 急流和厄爾尼諾如何影響天氣. 加拿大環境與氣候變化部駐薩斯卡通研究科學家Barrie Bonsal表示，&nbsp;..."
+          "title": "澳洲大堡礁免列瀕危世遺…仍難擺脫珊瑚白化",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.worldjournal.com/wj/amp/story/121617/9609442&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1HP0nF_FDf5DP1HfFlIq7l",
+          "published": "2026-07-06T16:28:51+00:00",
+          "summary": "自2016年以來，大堡礁經歷了五個夏季的大規模珊瑚白化，當時由於承受熱應力（heat stress），一大片珊瑚礁變成白色，死亡風險也隨之增加。昆士蘭州政府表示，氣候變遷是&nbsp;..."
         },
         {
-          "title": "股市爆料同學會 - 理財寶",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/stock/TWI101%3Ftab%3Dcolumn&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2lLsYkOETMO_JJzSGb5yWK",
-          "published": "2026-07-04T19:02:42+00:00",
-          "summary": "臺灣淨零轉型ESG 50指數 TWI101 &middot; 即時走勢 &middot; 技術分析 &middot; 籌碼分析."
+          "title": "拓展花東智慧農業廣泛應用 - 更生日報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ksnews.com.tw/e/118195&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3b8x13svzs7EbWmzF1OpZB",
+          "published": "2026-07-06T16:27:22+00:00",
+          "summary": "整體言之，人工智慧進入農業體系後，不僅大幅提升農產的質與量，更明顯緩解農業人口老化、氣候變遷及勞動力短缺等當前危機。 分析各國智慧農業實際的具體&nbsp;..."
         }
       ]
     }
