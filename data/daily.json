@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-07-07T04:51:36.128037+00:00",
-    "date": "2026-07-07",
+    "generated_at": "2026-07-08T04:14:13.392828+00:00",
+    "date": "2026-07-08",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "Anthropic 發現 Claude 藏想法的「J 空間」：只看 AI 寫出來的推理，治理恐怕不夠",
-          "link": "https://techorange.com/2026/07/07/anthropic-a-global-workspace-in-claude/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-07T04:32:43+00:00",
-          "summary": "隨著推理模型與 AI 代理（AI Agent）崛起，人類開始要求 AI 不只給答案，也要「說明自己怎麼想」。模型展開的思維鏈（Chain-of-Thought，CoT），因此被視為觀察 AI 決策過程的重要窗口，研究人員也嘗試從中辨識錯誤、欺騙或危險意圖。但 Anthropic 最新研究提出一個更棘手的問題：AI 說出口的「思考過程」，可能不是全部。 Anthropic 最新一篇由 16 位作者完"
+          "title": "AI 工具部署容易，轉成商業價值很難：BCG、Revelio 示警企業勝負卡在策略與流程",
+          "link": "https://techorange.com/2026/07/08/ai-adoption-strategies-companies/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-08T03:08:21+00:00",
+          "summary": "過去兩年來，全球企業競相部署聊天機器人、AI 代理人與各種自動化助理，期望能在這波技術浪潮中搶佔先機。現在，這股部署熱潮正迎來關鍵的分水嶺，因為在企業實際運作中，部署 AI 工具其實相對容易，真正困難的是如何將其轉化為商業價值 。許多企業在完成技術部署後，卻赫然發現，如何引導員工「用得好」才是最艱難的挑戰，這導致多數新工具未能轉化為實際的營運成效。 這場技術革命究竟是策略重要，還是工具關鍵？波士頓"
         },
         {
-          "title": "《虛擬資產服務法》將上路，台灣如何搶進鏈上金融新秩序？臺灣金融科技協會名譽理事長蔡玉玲解析穩定幣、VASP 與供應鏈金融新機會",
-          "link": "https://techorange.com/2026/07/07/2026-tech-finance-forum/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-07T03:08:59+00:00",
-          "summary": "撰稿：李昀蔚 《虛擬資產服務法》 6 月 30 日正式三讀通過，台灣虛擬資產產業迎來關鍵轉折。過去，虛擬資產多半處在體制外，缺乏明確的法律定位，這也讓許多機構法人與傳統金融業即使高度關注，也大多只能維持觀望態度。如今，隨著專法正式將虛擬資產服務提供商（VASP）納入監管體制，台灣終於有了自己的監管框架，讓產業得以在合規的基石上，重新思考台灣在全球鏈上金融秩序中的位置。 本集《全新一週》主題為臺灣金"
+          "title": "【後 LLM 時代】AI 頂尖研究者競逐的下一個前沿：從預測文字到理解物理世界",
+          "link": "https://techorange.com/2026/07/08/shifting-from-chatbots-to-physical-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-08T02:53:39+00:00",
+          "summary": "電腦科學家 Louis Castricato 花八年研究大型語言模型，但他離開了布朗大學的博士班，因為他認為，人們基本上已經過了做真正基礎 LLM 研究的時間點；而 Castricato 不是唯一這樣想的人，包含 AI 教母李飛飛在內，愈來愈多 AI 領域的頂尖研究者，正在投入他們認為的下一個前沿：讓 AI 系統學會如何在物理環境中反應的「世界模型」。 聊天機器人不會拿起咖啡杯 語言模型的運作方式"
         },
         {
-          "title": "演算法引路、會員制收網：零售品牌如何用忠誠度打造 AI 時代護城河？",
-          "link": "https://techorange.com/2026/07/07/retailers-omnichannel-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-07T01:39:27+00:00",
-          "summary": "生成式 AI 正快速改變消費者探索商品的方式，愈來愈多人不再直接搜尋品牌名稱，而是向 AI 描述自己的需求，讓 AI 推薦最適合的產品。然而，當 AI 開始接手商品發現（product discovery），真正決定消費者最終在哪裡下單、是否持續回購的關鍵，卻未必是演算法，而是會員制度、品牌信任，以及長期建立的人際互動。 AI 負責提供問題解方，而「忠誠度」負責鎖定結帳終點 根據行銷科技公司 No"
+          "title": "企業 AI 太難用，員工就自己找工具？企業治理影子 AI 的 90 天解法",
+          "link": "https://techorange.com/2026/07/08/practical-advice-on-addressing-shadow-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-08T01:54:30+00:00",
+          "summary": "企業砸重金導入 AI，效率雖然提升，但有一個問題正在檯面下擴大：公司其實不太清楚員工到底怎麼使用 AI。資安業者 Teramind 的研究發現，就算公司已經買了企業級授權，仍有 67% 的 AI 使用跑在沒人管的個人帳號上。錢花了、工具買了，真正的使用卻落在企業看不到的地方。 這種公司看不見、也管不到的 AI 使用，就叫 Shadow AI（影子 AI）。它指的是員工繞過公司核准的工具，改用個人帳"
         },
         {
-          "title": "【人形機器人家用化】22 度手指自由度、22 分貝靜音，1X NEO 用硬體差異化搶進家庭市場",
-          "link": "https://techorange.com/2026/07/07/neo-humanoid-ai-robot-1x-tech/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-07T01:30:58+00:00",
-          "summary": "1X Technologies 所開發的 AI 家用人形機器人 NEO，除了 60 萬台幣的低廉售價外，更有 22 度的可驅動自由度，既達到人類等級靈巧度，更是機器人業界新標竿。"
+          "title": "【科技早餐】AI 全球重排：聯合國喊管制、中國轉本土晶片、Microsoft 裁 4,800 人控成本",
+          "link": "https://techorange.com/2026/07/08/ai-global-realignment-un-regulation-china-chips-microsoft-layoffs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-07T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊聯合國首場 AI 治理對話，古特瑞斯籲禁止殺手機器人 聯合國在日內瓦舉行首屆「全球 AI 治理對話」（First Global Dialogue on AI Governance），會議為期兩天，邀集各國政府、科技業、學術界與公民社會代表，討論 AI 發展下的治理方向。聯合國秘書長古特瑞斯（Antonio Guterres）警告，AI 正以極快速"
         },
         {
-          "title": "【華爾街人才洗牌】例行報告交機器、判斷交給人，五種新職能重定義金融人才",
-          "link": "https://techorange.com/2026/07/07/ai-replacing-finance-jobs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-07T01:30:47+00:00",
-          "summary": "人工智慧正全面重塑金融業的營運模式，如今 AI 被大量利用在自然語言處理技術，解讀市場報告、標記會計錯誤並自動整理企業銀行文件。由於技術大幅節省工作時間，各大銀行正在改變其團隊的日常工作方式。 當 AI 開始大量接手資料處理與報告產出，工作者心裡或多或少都會浮現同一個問題：AI 會不會取代我的工作？ 以下把這個焦慮拆開，釐清 AI 對金融業的實際衝擊到底有多大、哪些職位真正面臨被替代的風險，以及在"
+          "title": "不賣家用人形機器人夢：Agility Robotics 如何用 RaaS、工業認證與真實數據打進倉儲物流現場？",
+          "link": "https://techorange.com/2026/07/07/agility-humanoid-robots/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-07T09:27:31+00:00",
+          "summary": "總部位於美國奧勒岡州的雙足人形機器人製造商 Agility Robotics，宣布將透過與 Churchill Capital Corp XI 合併，以高達 25 億美元的估值登上公開市場，成為首家完全致力於人形機器人開發與銷售的上市公司。 然而，與許多喜歡宣傳家用人形機器人願景的競爭對手不同，Agility Robotics 執行長 Peggy Johnson 並未向投資人推銷家用機器人即將普及"
         },
         {
-          "title": "【科技早餐】AI 供應鏈吃緊：韓國晶片戰加速、三星獲利暴增、NVIDIA 機櫃延後",
-          "link": "https://techorange.com/2026/07/07/ai-supply-chain-korea-chip-samsung-nvidia-rack-delay/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-06T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊韓國晶片戰加速，水電審批與未來基金同步上路 韓國總統李在明指示官員加快推動上週宣布的重大晶片與人工智慧（AI）專案。根據《路透》報導，李在明警告，如果許可審批、土地取得，以及水電供應出現延誤，可能削弱韓國在先進產業取得主導地位的努力。他表示，現在的關鍵是誰行動更快、誰率先搶占先機，並呼籲在可行範圍內縮短環境審查與其他核准程序。 除了審批速度，電力"
+          "title": "一句話 AI 就幫你生影片，背後它怎麼思考的？",
+          "link": "https://techorange.com/2026/07/07/aiagent-adk-multimodalreasoning-mcp-veo-lyria/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-07T08:30:10+00:00",
+          "summary": "一句話生成整部影片，AI Agent 正在搶走導演的工作？AI 不只聽懂你，它開始「自己拍片」了 想像一下：你只是說了一句「我想做一部關於西施犬獨自在家的短片」，然後去泡了杯咖啡回來，結果畫面、配音、背景音樂全部都好了，這就是 AI Agent（代理人）現在正在做的事。 提示工程之後，下一步是什麼？ 在目前的生成式 AI 領域，我們正從「提示工程」轉向「創意導向」，所謂提示工程（Prompt En"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "老花年齡層下降、3C世代最有感",
-          "link": "https://www.gvm.com.tw/article/131034",
-          "published": "2026-07-07T00:00:00",
-          "summary": "看不清菜單、手機越拿越遠？老花，早已不是熟齡族的專利。長時間緊盯螢幕的現代人，眼睛老化速度悄悄加快，各種生活困擾也接踵而來。隨著雷射技術持續升級，德國新型老花雷射LBV裸視美，一次解決老花、近視、散光以及遠視等視力痛點，為3C世代帶來新解方。過去提到老花，多數人直覺聯想到五、六十歲的長輩。但近年臨床上，不少四十歲出頭、甚至也有少數未滿四十歲的重度3C使用者，已開始出現初期老花困擾。長時間近距離使用"
+          "title": "AI熱潮能延續？鴻海劉揚偉：算力需求只會愈來愈大",
+          "link": "https://www.gvm.com.tw/article/131392",
+          "published": "2026-07-07T18:48:00",
+          "summary": "隨著Meta傳出將出租算力，也讓各界擔憂AI基礎建設將迎來泡沫。台灣創投暨私募投資年會於7日登場，鴻海（2317）、緯創（3231）董事長登台演講，兩人皆指出AI非泡沫，台灣企業應把握機會，積極從硬體設備製造往「平台」轉型。此外，緯創捐贈240萬小時算力、鴻海合資成立百億創投基金，也期待讓台灣往應用大國發展。從生成式AI問世以來，「AI泡沫論」成各界持續探問的終極問題。隨著Anthropic於六月"
         },
         {
-          "title": "軍公教最高加薪10%！公務員實際「到手薪資」差在哪？",
-          "link": "https://www.gvm.com.tw/article/131368",
-          "published": "2026-07-06T18:39:00",
-          "summary": "上週行政院拍板軍公教全體加薪，最高幅度10%，幅度看似不小，但扣掉高昂的退撫金額後，公務員實際到手的薪資，其實可能沒有大家想像的多。以實拿薪資計算，最基層的初考人員加薪幅度確實有達到10%，但實拿薪資僅約35K，其他職等的公務員都沒有來到10%，且愈高階加薪幅度愈低，對照銓敘部公布的報告，近年公務員離職人數持續攀升，這樣的加薪力度能否幫助留才，有待後續觀察。到底薪資加在哪？《遠見》完整解析。行政院"
+          "title": "考試時眼鏡發燙有玄機！國內外頻傳AI眼鏡作弊，抓得到嗎？",
+          "link": "https://www.gvm.com.tw/article/131390",
+          "published": "2026-07-07T18:33:00",
+          "summary": "在重視考試成績與升學、就業壓力的全球環境下，學生為了獲取高分，正逐漸將作弊工具升級為AI智慧眼鏡與生成式AI程式，國內外都出現類似情事，例如台大醫學院，在115學年的大學申請入學第二階段甄試時就發現有人使用AI眼鏡作弊。到底如何分辨跟傳統眼鏡的不同？能確實抓到嗎？已成為教育界必須緊急面對的重大課題。學生利用AI工具考試作弊的情形，已經引起廣泛關注，《CNN》更指出，高度重視考試競爭的東亞地區是「重"
         },
         {
-          "title": "放寬輝達晶片出口前偷買股？「川普投顧」3600筆交易時機惹議",
-          "link": "https://www.gvm.com.tw/article/131367",
-          "published": "2026-07-06T18:34:00",
-          "summary": "川普最新財產申報顯示，重返白宮首年收入逾22億美元，其中加密貨幣獲利超過14億美元；其帳戶頻繁交易股票，時點與政策及發文相近，引發利益衝突與內線交易質疑。倫理專家與民主黨要求調查，川普及白宮則否認牟利，強調相關行為合法。美國政府倫理辦公室6月底發布一份長達927頁的財產申報資料。報告顯示，美國總統川普重返白宮第一年的個人總收入超過22億美元，遠高於2024年的6億多美元。其中，加密貨幣為最大來源，"
+          "title": "為什麼足球在全世界會這麼紅？足球如何成為全球最受歡迎的運動？",
+          "link": "https://www.gvm.com.tw/article/131382",
+          "published": "2026-07-07T17:48:00",
+          "summary": "足球為什麼能成為全世界最受歡迎的運動？它究竟擁有什麼魅力，能讓無數人為了一顆球歡笑、落淚，甚至凝聚一整個國家的情感？足球如何成為全世界共同的語言？賽程資訊：2026FIFA世界盃》世界盃足球賽賽程資訊全攻略2026年世界盃足球賽期間，來自維德角（Cabo Verde）的40歲門將沃齊尼亞（Vozinha），憑藉著一場又一場令人驚艷的表現，不僅帶領球隊寫下驚奇，更在短短幾週內於社群媒體掀起全球熱潮，"
         },
         {
-          "title": "中聯翻車百家遭殃！南僑揭開食安一級品管漏洞",
-          "link": "https://www.gvm.com.tw/article/131364",
-          "published": "2026-07-06T18:18:00",
-          "summary": "中聯油脂致癌大豆沙拉油事件，愈演愈烈，食藥署公布全台19個縣市淪陷、受影響廠商257家，涵蓋聯華、桂冠、廣達香、晶華酒店、老協珍、路易莎等知名業者，還有130幾所學校的團膳也受到波及。如非南僑複驗發現、扮演吹哨者，國人恐吃進一級致癌物而不自知，進而揭開台灣食安「一級品管」的漏洞。這次的食用油事件與2014年的地溝油案完全不同，食藥署研判問題可能出在「原料產地轉換」與「不均勻汙染」。中聯近期將來源從"
+          "title": "分科測驗因巴威颱風延期！招聯會：最快8日公布確切日期",
+          "link": "https://www.gvm.com.tw/article/131378",
+          "published": "2026-07-07T17:24:00",
+          "summary": "受到颱風巴威影響，教育部長鄭英耀今天說，原訂11日到12日舉行的115學年分科測驗確定延期，但具體要延到何時，招聯會預計明天會公布。颱風巴威預計帶來強烈風雨，影響分科測驗。鄭英耀今天出席在新竹縣舉辦的115年度全國教育局處長會議，會後接受媒體聯訪，被問及相關議題。鄭英耀表示，目前看來颱風巴威對台灣一定會造成影響，大學招聯會今天下午開會，已確定會延期，但因還要有更精準的判斷，招聯會明天還會再開會，確"
         },
         {
-          "title": "半導體人才荒延燒，陽明交大、中山、中興不限科系開暑期課",
-          "link": "https://www.gvm.com.tw/article/131365",
-          "published": "2026-07-06T17:54:00",
-          "summary": "大學念文組科系，也有機會切入護國神山？沒錯！台灣多所大學在2026年暑假攜手「護國神山」台積電開設暑期半導體專項課程，並且不限學生科系，非電機、電子或半導體相關科系的學生也確定可以參與。這些大學規劃了哪些課程？相關與非相關科系的學生，分別能從課程中獲得什麼樣的助益？陽明交大、中山大與中興大學釋出多少名額？怎麼去就讀呢？台積電持續擴廠，帶動台灣高科技業榮景，同時產業對於人才的需求也隨之擴大，因此，為"
+          "title": "2025年第三屆《遠見》校園領袖‧人才培育計畫 獲獎名單揭曉！「哪間豆漿店曾被人懸賞5萬元？」新生代這樣看《遠見》 啟發前瞻思維",
+          "link": "https://www.gvm.com.tw/article/131389",
+          "published": "2026-07-07T16:49:00",
+          "summary": "《遠見》1986年創刊，今年滿40週年。創辦初心就以傳播進步觀念為己任，並長期深耕永續議題。為培育更多永續人才，自2023年起，每年推動「校園領袖‧人才培育計畫」。2025年第三屆「校園領袖」共有150位大學生、研究生參與，累積一年成果後，《遠見》於今（2026）年7月公布年度獲獎名單，選出17所大專校院、23名學生獲獎。同時，2026年第四屆校園領袖招募也正在進行中∘歡慶《遠見》創辦40週年，今"
         },
         {
-          "title": "長榮海運爆內線交易！北檢搜索約談張國華等9人",
-          "link": "https://www.gvm.com.tw/article/131363",
-          "published": "2026-07-06T16:13:00",
-          "summary": "長榮集團創辦人張榮發長子張國華，遭長榮海運股東指控涉內線交易長榮海運股票。北檢今天搜索張國華、張國政、柯麗卿等被告住居所及長榮海運等地，通知張國華等9名被告到案說明。長榮海運股東、律師林文鵬於民國113年4月22日前往台北地檢署，按鈴控告張國華、長榮董事柯麗卿，涉嫌於長榮海運112年8月14日處分長榮航空股票的重大消息公布前買賣長榮海運股票，涉違反證券交易法內線交易罪。對此，張國華當時表示，交易都"
+          "title": "小黃比小孩消失得更快！誰來接住偏鄉最後一哩路？",
+          "link": "https://www.gvm.com.tw/article/131384",
+          "published": "2026-07-07T16:24:00",
+          "summary": "北投Uber機車案引發法規爭議，但更深的移動缺口在偏鄉。台南龍崎的孤獨站牌提醒我們：高齡駕駛與在地司機同步老去，偏鄉供給正在退場。政府已有補貼與長照交通制度，卻仍不足以承接分散、臨時、生活化的需求。真正的解方不是等平台進場，而是用制度設計讓平台、地方組織與公共資源，共同接住最後一哩路。2026年酷熱的7月，台南縣龍崎中坑里、清水宮廟埕前，長久都立著一支公車站牌，但它不太像都市裡熟悉的公車站。沒有排"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "中研院士：人類邁入智慧時代需仰賴國際科研合作|半導體|產業新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D1%26nsl_id%3D647cbc8e967641278a5f019324eb5466&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1IfGc9wR8u_DNoE4il2qkW",
-          "published": "2026-07-06T23:15:31+00:00",
-          "summary": "她認為，面對氣候變遷、疫情、能源轉型等跨越國界的複雜挑戰，國際間唯有建立開放且 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
+          "title": "市政新聞-竹市「衣起響應」舊衣回收募集近7千件高虹安市長：展現<b>淨零</b>綠生活行動力",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hccg.gov.tw/hccg/app/know/view%3Fmodule%3Dmunicipalnews%26id%3D30122%26serno%3Da55c662a-080d-429f-b5ba-3417a106bf90&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3CJMh9rCzTveM3YYnL7dV4",
+          "published": "2026-07-08T02:08:17+00:00",
+          "summary": "為深化源頭減量行動並擴大公益服務能量，新竹大遠百日前攜手社團法人新竹市脊髓損傷者協會，在百貨一樓廣場辦理「衣起響應髓新啟程」舊衣回收活動，獲得熱烈&nbsp;..."
         },
         {
-          "title": "富邦<b>淨零</b>ESG50(009809) 散戶能追嗎？先看這個 - YouTube",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D20C64Rmz40I&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0g6de4LaiCGf9a0sDzNJCM",
-          "published": "2026-07-06T19:08:27+00:00",
-          "summary": "富邦淨零ESG50 #009809 #主力成本#支撐壓力判讀   富邦淨零ESG50(009809) 主力成本分析主力成本在11.81 元附近從支撐壓力判讀、五層位階到操作策略，&nbsp;..."
+          "title": "玩大富翁學永續嘉市創新教材| 中華日報 - LINE TODAY",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/wJKpW8w&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2PCf6hFAuVQCnPe9YcJm3o",
+          "published": "2026-07-08T01:16:08+00:00",
+          "summary": "記者湯朝村∕嘉義報導面對全球淨零排放浪潮，嘉義市政府創新推出「淨零旅遊來我嘉」文宣教材，結合「大富翁」遊戲玩法並透過學校教育延伸至家庭與社..."
         },
         {
-          "title": "最新消息| 國泰綜合證券Cathay Securities Corporation",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20260707%26CSeqNO%3DE9611037&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3UKeZF4UFLsOI2pADSUc8h",
-          "published": "2026-07-06T18:57:32+00:00",
-          "summary": "因應氣候變遷帶來的考驗，環境部推動「抗高溫調適對策聯盟」，攜手公私部門共同打造更具氣候韌性的工作環境。美商Coupang酷澎積極響應政府政策，將體貼物流&nbsp;..."
+          "title": "【通講壇】熱浪“烤驗”歐洲深層治理危機",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://hkcna.hk/h5/docDetail.jsp%3Fid%3D101362566%26channel%3D5032&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0PDiylcnB-0Vah_jWY2ZPD",
+          "published": "2026-07-08T00:58:27+00:00",
+          "summary": "這段時間熱浪席捲歐洲，巴黎超過40度，德國甚至超過了41度，歐洲人紛紛搶購中國產的空調，成為了國際輿論場的熱門話題。 在這個現象背後，我們看到的不僅僅是一個氣候&nbsp;..."
         },
         {
-          "title": "東元<b>碳中和</b>方案的競爭力在哪？",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://readmo.cmoney.tw/article/d184804a-232f-4e99-a385-23505984764a&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1dUDP1hYAsM7bqqjilW0Bz",
-          "published": "2026-07-06T16:38:31+00:00",
-          "summary": "若方案能有效提升能效、降低維護成本，客戶採用意願就會提高；換句話說，東元碳中和方案的競爭力，來自技術整合能力、工程落地能力，以及能否讓客戶看到明確的成本&nbsp;..."
+          "title": "<b>淨零</b>轉型！義守大學連四年獲U-start補助學生研發半導體廢水回收技術奪50萬元| 徐炳文",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.storm.mg/article/11147700&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw24kmuShaxVY4hb9nz3jq-j",
+          "published": "2026-07-07T22:05:26+00:00",
+          "summary": "隨著人工智慧、高效能運算及先進半導體製程快速發展，晶圓製造用水需求持續攀升，其中化學機械研磨（CMP）製程所產生的大量廢水，已成為半導體產業推動永續的重要課題&nbsp;..."
         },
         {
-          "title": "澳洲大堡礁免列瀕危世遺…仍難擺脫珊瑚白化",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.worldjournal.com/wj/amp/story/121617/9609442&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1HP0nF_FDf5DP1HfFlIq7l",
-          "published": "2026-07-06T16:28:51+00:00",
-          "summary": "自2016年以來，大堡礁經歷了五個夏季的大規模珊瑚白化，當時由於承受熱應力（heat stress），一大片珊瑚礁變成白色，死亡風險也隨之增加。昆士蘭州政府表示，氣候變遷是&nbsp;..."
+          "title": "【創科新視野】務實推進新能源車普及助力<b>碳中和</b>- 香港文匯網 - 文匯報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.wenweipo.com/a/202607/08/AP6a4d5d58e4b0b49ad1c264bf.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2OKfghW-Q-qBNElUBk8nHO",
+          "published": "2026-07-07T20:16:31+00:00",
+          "summary": "為配合國家「雙碳」目標，特區政府致力於2050年前實現碳中和。國家「十五五」規劃亦明確將「加快經濟社會發展全面綠色轉型」列為核心方向。"
         },
         {
-          "title": "拓展花東智慧農業廣泛應用 - 更生日報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ksnews.com.tw/e/118195&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3b8x13svzs7EbWmzF1OpZB",
-          "published": "2026-07-06T16:27:22+00:00",
-          "summary": "整體言之，人工智慧進入農業體系後，不僅大幅提升農產的質與量，更明顯緩解農業人口老化、氣候變遷及勞動力短缺等當前危機。 分析各國智慧農業實際的具體&nbsp;..."
+          "title": "中國推進<b>碳中和</b>戰略目標內蒙古成煤電與綠電並行實驗場 - DIGITIMES",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.digitimes.com.tw/tech/dt/n/shwnws.asp%3FCnlId%3D1%26id%3D0000760889_STY9YVQ17BZV76LMRIMF6&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1PtL7o1k9gySKK8yOLfyVA",
+          "published": "2026-07-07T19:57:02+00:00",
+          "summary": "隨著中國積極推進2060年實現碳中和的戰略目標，中國政府正將其豐富的煤炭資源視為通往潔淨能源未來的重要過渡橋梁。北京當局目前大力倡導「先立後破」的慢而&nbsp;..."
         }
       ]
     }
