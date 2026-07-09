@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-07-08T04:14:13.392828+00:00",
-    "date": "2026-07-08",
+    "generated_at": "2026-07-09T04:52:29.427603+00:00",
+    "date": "2026-07-09",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "AI 工具部署容易，轉成商業價值很難：BCG、Revelio 示警企業勝負卡在策略與流程",
-          "link": "https://techorange.com/2026/07/08/ai-adoption-strategies-companies/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-08T03:08:21+00:00",
-          "summary": "過去兩年來，全球企業競相部署聊天機器人、AI 代理人與各種自動化助理，期望能在這波技術浪潮中搶佔先機。現在，這股部署熱潮正迎來關鍵的分水嶺，因為在企業實際運作中，部署 AI 工具其實相對容易，真正困難的是如何將其轉化為商業價值 。許多企業在完成技術部署後，卻赫然發現，如何引導員工「用得好」才是最艱難的挑戰，這導致多數新工具未能轉化為實際的營運成效。 這場技術革命究竟是策略重要，還是工具關鍵？波士頓"
+          "title": "比 Claude、GPT 便宜一半：Grok 4.5 不爭最強模型，要用成本效率戰撼動 AI 市場",
+          "link": "https://techorange.com/2026/07/09/spacexai-cursor-unveil-grok-ai-model-for-legal-finance-tasks/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-09T04:39:30+00:00",
+          "summary": "SpaceXAI 與 AI 程式開發新創公司 Cursor 深度整合後，正式推出首款聯合開發模型 Grok 4.5。相較於以往的 Grok 版本，Grok 4.5 被明確定位為面向軟體工程、法律與金融服務等高難度、長時間任務的旗艦產品，擺脫過去一般聊天機器人的定位。 《Bloomberg》指出，這款旗艦模型是 SpaceXAI 爭奪企業客戶、追趕 Anthropic 與 OpenAI 等強勁對手的"
         },
         {
-          "title": "【後 LLM 時代】AI 頂尖研究者競逐的下一個前沿：從預測文字到理解物理世界",
-          "link": "https://techorange.com/2026/07/08/shifting-from-chatbots-to-physical-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-08T02:53:39+00:00",
-          "summary": "電腦科學家 Louis Castricato 花八年研究大型語言模型，但他離開了布朗大學的博士班，因為他認為，人們基本上已經過了做真正基礎 LLM 研究的時間點；而 Castricato 不是唯一這樣想的人，包含 AI 教母李飛飛在內，愈來愈多 AI 領域的頂尖研究者，正在投入他們認為的下一個前沿：讓 AI 系統學會如何在物理環境中反應的「世界模型」。 聊天機器人不會拿起咖啡杯 語言模型的運作方式"
+          "title": "OpenAI 推 GPT-Live 加入 AI 全雙工競賽，「聊天框的終點」比想像更近？",
+          "link": "https://techorange.com/2026/07/09/openai-gpt-live-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-09T03:56:38+00:00",
+          "summary": "過去兩年，和 AI 對話大致有兩種樣子：在聊天框裡打字，或是對著麥克風口述，再等上一兩秒聽它一句略顯生硬的回覆。OpenAI 最新推出的語音模型 GPT-Live，想改寫的正是這個節奏，它讓 ChatGPT 能一邊說、一邊持續聆聽，正式把 OpenAI 推進 AI 全雙工（full-duplex）競賽。《VentureBeat》更指出，在多家業者已經投入相同技術的此刻，聊天框走向終點的那一天，可能"
         },
         {
-          "title": "企業 AI 太難用，員工就自己找工具？企業治理影子 AI 的 90 天解法",
-          "link": "https://techorange.com/2026/07/08/practical-advice-on-addressing-shadow-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-08T01:54:30+00:00",
-          "summary": "企業砸重金導入 AI，效率雖然提升，但有一個問題正在檯面下擴大：公司其實不太清楚員工到底怎麼使用 AI。資安業者 Teramind 的研究發現，就算公司已經買了企業級授權，仍有 67% 的 AI 使用跑在沒人管的個人帳號上。錢花了、工具買了，真正的使用卻落在企業看不到的地方。 這種公司看不見、也管不到的 AI 使用，就叫 Shadow AI（影子 AI）。它指的是員工繞過公司核准的工具，改用個人帳"
+          "title": "93% 的 CIO 做不了快決策：AI 時代的領導者困境",
+          "link": "https://techorange.com/2026/07/09/ai-is-changing-the-cios-role/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-09T01:52:49+00:00",
+          "summary": "過去，資訊長（CIO）職責主要圍繞在維護 IT 基礎設施，確保組織系統運作順暢。然而在生成式與 Agentic AI 席捲企業的此刻，這個角色經歷三十年來最劇烈的重塑。 在拉斯維加斯舉行的 Info-Tech LIVE 2026 大會上，IT 研究及顧問公司 Info-Tech Research Group 執行長 Tom Zehren 說，「CIO 已經沒有所謂正常的位置了」，一句話道盡 CIO"
         },
         {
-          "title": "【科技早餐】AI 全球重排：聯合國喊管制、中國轉本土晶片、Microsoft 裁 4,800 人控成本",
-          "link": "https://techorange.com/2026/07/08/ai-global-realignment-un-regulation-china-chips-microsoft-layoffs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-07T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊聯合國首場 AI 治理對話，古特瑞斯籲禁止殺手機器人 聯合國在日內瓦舉行首屆「全球 AI 治理對話」（First Global Dialogue on AI Governance），會議為期兩天，邀集各國政府、科技業、學術界與公民社會代表，討論 AI 發展下的治理方向。聯合國秘書長古特瑞斯（Antonio Guterres）警告，AI 正以極快速"
+          "title": "【科技早餐】前沿 AI 進入管制、供應鏈與資本戰，中美審模型、DeepSeek 補晶片",
+          "link": "https://techorange.com/2026/07/09/frontier-ai-regulation-supply-chain-capital/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-08T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊中國擬限制海外使用先進 AI 模型，模型出口也成國安議題 《路透》引述知情人士報導，中國政府最近與多家科技企業開會，討論是否限制海外存取中國最先進的 AI 模型。參與會談的企業包括阿里巴巴、字節跳動與智譜 AI，會議由中國商務部主導，國家發展和改革委員會也派員參與。 消息人士表示，討論內容包括是否對最先進 AI 模型加上限制，不論是閉源模型，還是"
         },
         {
-          "title": "不賣家用人形機器人夢：Agility Robotics 如何用 RaaS、工業認證與真實數據打進倉儲物流現場？",
-          "link": "https://techorange.com/2026/07/07/agility-humanoid-robots/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-07T09:27:31+00:00",
-          "summary": "總部位於美國奧勒岡州的雙足人形機器人製造商 Agility Robotics，宣布將透過與 Churchill Capital Corp XI 合併，以高達 25 億美元的估值登上公開市場，成為首家完全致力於人形機器人開發與銷售的上市公司。 然而，與許多喜歡宣傳家用人形機器人願景的競爭對手不同，Agility Robotics 執行長 Peggy Johnson 並未向投資人推銷家用機器人即將普及"
+          "title": "歐洲人形機器人新勢力：特斯拉前科學家成立 UMA，靠什麼吸引 50 家企業洽談？",
+          "link": "https://techorange.com/2026/07/08/uma-ai-robotics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-08T10:39:49+00:00",
+          "summary": "人形機器人競賽長期由美國與中國企業主導，如今歐洲也出現新的參賽者。曾參與 Tesla Optimus 與 Autopilot AI 開發的機器學習科學家 Rémi Cadene，與前 Google DeepMind、Hugging Face 工程師共同創立巴黎機器人新創 UMA，並在近日正式發表首款人形機器人 Northstar。 根據《Bloomberg》報導，UMA 已與約 50 家潛在客戶洽"
         },
         {
-          "title": "一句話 AI 就幫你生影片，背後它怎麼思考的？",
-          "link": "https://techorange.com/2026/07/07/aiagent-adk-multimodalreasoning-mcp-veo-lyria/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-07T08:30:10+00:00",
-          "summary": "一句話生成整部影片，AI Agent 正在搶走導演的工作？AI 不只聽懂你，它開始「自己拍片」了 想像一下：你只是說了一句「我想做一部關於西施犬獨自在家的短片」，然後去泡了杯咖啡回來，結果畫面、配音、背景音樂全部都好了，這就是 AI Agent（代理人）現在正在做的事。 提示工程之後，下一步是什麼？ 在目前的生成式 AI 領域，我們正從「提示工程」轉向「創意導向」，所謂提示工程（Prompt En"
+          "title": "為什麼 AI 做的 App 一眼就被看穿？三大跡象揭開 Vibe Coding 的 UI/UX 盲點",
+          "link": "https://techorange.com/2026/07/08/ai-coded-app-user-interface-experience-design/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-08T10:32:49+00:00",
+          "summary": "在 AI 技術快速發展的背景下，軟體開發領域正掀起一股 Vibe Coding 浪潮，像是 Claude Code、Lovable、Replit 與 Base44 等工具，讓完全不具備技術背景的創作者，也能在短短幾小時之內，僅憑直覺與想法打造出可變現的應用程式。 然而，這些由 AI 設計的應用程式在市場上大量湧現後，卻開始暴露出高度同質化的特徵，許多產品雖然外表看起來十分精美，實際使用時卻不夠直覺"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "AI熱潮能延續？鴻海劉揚偉：算力需求只會愈來愈大",
-          "link": "https://www.gvm.com.tw/article/131392",
-          "published": "2026-07-07T18:48:00",
-          "summary": "隨著Meta傳出將出租算力，也讓各界擔憂AI基礎建設將迎來泡沫。台灣創投暨私募投資年會於7日登場，鴻海（2317）、緯創（3231）董事長登台演講，兩人皆指出AI非泡沫，台灣企業應把握機會，積極從硬體設備製造往「平台」轉型。此外，緯創捐贈240萬小時算力、鴻海合資成立百億創投基金，也期待讓台灣往應用大國發展。從生成式AI問世以來，「AI泡沫論」成各界持續探問的終極問題。隨著Anthropic於六月"
+          "title": "巴威颱風動態》颱風假機率？暴風侵襲100%，周五晚起「籠罩全台灣」周六風雨最強",
+          "link": "https://www.gvm.com.tw/article/131370",
+          "published": "2026-07-08T22:00:00",
+          "summary": "7/8 22:00更新：強烈颱風巴威進逼來勢洶洶，中央氣象署預估，預估最快明（9日）深夜將會發布海上及陸上警報。最新資料顯示，巴威颱風8日20時的中心位置在北緯17.3度，東經131.9度，以每小時19公里速度，向西北西進行。中心氣壓900百帕，近中心最大風速每秒58公尺，瞬間最大陣風每秒73公尺，七級風平均暴風半徑380公里(西北側430公里、東北側430公里、西南側330公里、東南側330公里"
         },
         {
-          "title": "考試時眼鏡發燙有玄機！國內外頻傳AI眼鏡作弊，抓得到嗎？",
-          "link": "https://www.gvm.com.tw/article/131390",
-          "published": "2026-07-07T18:33:00",
-          "summary": "在重視考試成績與升學、就業壓力的全球環境下，學生為了獲取高分，正逐漸將作弊工具升級為AI智慧眼鏡與生成式AI程式，國內外都出現類似情事，例如台大醫學院，在115學年的大學申請入學第二階段甄試時就發現有人使用AI眼鏡作弊。到底如何分辨跟傳統眼鏡的不同？能確實抓到嗎？已成為教育界必須緊急面對的重大課題。學生利用AI工具考試作弊的情形，已經引起廣泛關注，《CNN》更指出，高度重視考試競爭的東亞地區是「重"
+          "title": "美國工程科學生去哪了？調查：技術人才短缺，台積電等半導體業者恐受影響",
+          "link": "https://www.gvm.com.tw/article/131397",
+          "published": "2026-07-08T17:35:00",
+          "summary": "美國全國高技能人力短缺日益嚴峻，若業界無法整合資源、政府也無法持續挹注資金，恐延誤全美數十億美元新建晶圓廠的進度，並限制未來晶片生產。麥肯錫、國際半導體設備及材料協會（SEMI）和美國國家科學基金會最新分析指出，人力缺口預料在德州、加州、亞利桑那州、紐約州和俄亥俄州等地最嚴重。這些州正是許多新廠規劃所在地。這項週二發布的研究，包括對雇主的調查，預估到 2030 年，全職技術勞工缺口最多可能達 15"
         },
         {
-          "title": "為什麼足球在全世界會這麼紅？足球如何成為全球最受歡迎的運動？",
-          "link": "https://www.gvm.com.tw/article/131382",
-          "published": "2026-07-07T17:48:00",
-          "summary": "足球為什麼能成為全世界最受歡迎的運動？它究竟擁有什麼魅力，能讓無數人為了一顆球歡笑、落淚，甚至凝聚一整個國家的情感？足球如何成為全世界共同的語言？賽程資訊：2026FIFA世界盃》世界盃足球賽賽程資訊全攻略2026年世界盃足球賽期間，來自維德角（Cabo Verde）的40歲門將沃齊尼亞（Vozinha），憑藉著一場又一場令人驚艷的表現，不僅帶領球隊寫下驚奇，更在短短幾週內於社群媒體掀起全球熱潮，"
+          "title": "批李洋「改革非二分法」後道歉！運彩公會理事長聲明退出經營",
+          "link": "https://www.gvm.com.tw/article/131421",
+          "published": "2026-07-08T17:19:00",
+          "summary": "運動彩券經銷商商業同業公會理事長何昱奇，日前在臉書發文批評運動部長李洋的體育改革引發爭議；今天他PO出長文向李洋道歉，也宣布自9月1日起繳回執照，退出運彩經營行列。何昱奇在7月6日於臉書上PO文，批評李洋上任將近滿1年，卻沒提出任何讓人民有感的成績單，甚至還提到李洋推動的體育改革方式有誤，強調「改革從來不是二分法，不是把舊的人全部打成既得利益者，也不是只要態度強硬就是改革成功。」結果此文引發外界熱"
         },
         {
-          "title": "分科測驗因巴威颱風延期！招聯會：最快8日公布確切日期",
-          "link": "https://www.gvm.com.tw/article/131378",
-          "published": "2026-07-07T17:24:00",
-          "summary": "受到颱風巴威影響，教育部長鄭英耀今天說，原訂11日到12日舉行的115學年分科測驗確定延期，但具體要延到何時，招聯會預計明天會公布。颱風巴威預計帶來強烈風雨，影響分科測驗。鄭英耀今天出席在新竹縣舉辦的115年度全國教育局處長會議，會後接受媒體聯訪，被問及相關議題。鄭英耀表示，目前看來颱風巴威對台灣一定會造成影響，大學招聯會今天下午開會，已確定會延期，但因還要有更精準的判斷，招聯會明天還會再開會，確"
+          "title": "致癌沙拉油最新進展：金色三麥、路易莎上榜！今再增169項下架名單，退款方法一次看",
+          "link": "https://www.gvm.com.tw/article/131403",
+          "published": "2026-07-08T15:59:00",
+          "summary": "中聯油脂1300公噸大豆沙拉油檢出一級致癌物苯駢芘超標，引發食安疑慮持續延燒，受影響業者一路擴大。南僑（1702）原本被外界以為是「吹哨者」的角色，卻沒想到因未及時通報，遭北市衛生局認定違反《食品安全衛生管理法》，重罰新台幣300萬元，7日也發出重訊喊冤，待後續收到正式裁罰書後，將與律師研商依法提出行政救濟。本文持續追蹤最新中鏢名單與問題油流向、受影響批號、各大品牌退費方式，以及吃到問題油的健康風"
         },
         {
-          "title": "2025年第三屆《遠見》校園領袖‧人才培育計畫 獲獎名單揭曉！「哪間豆漿店曾被人懸賞5萬元？」新生代這樣看《遠見》 啟發前瞻思維",
-          "link": "https://www.gvm.com.tw/article/131389",
-          "published": "2026-07-07T16:49:00",
-          "summary": "《遠見》1986年創刊，今年滿40週年。創辦初心就以傳播進步觀念為己任，並長期深耕永續議題。為培育更多永續人才，自2023年起，每年推動「校園領袖‧人才培育計畫」。2025年第三屆「校園領袖」共有150位大學生、研究生參與，累積一年成果後，《遠見》於今（2026）年7月公布年度獲獎名單，選出17所大專校院、23名學生獲獎。同時，2026年第四屆校園領袖招募也正在進行中∘歡慶《遠見》創辦40週年，今"
+          "title": "為何我不再害怕「衝突」？",
+          "link": "https://www.gvm.com.tw/article/131416",
+          "published": "2026-07-08T15:24:00",
+          "summary": "編按：人事問題，往往是管理者最大的考驗。面對衝突、壓力與不同立場，如何兼顧情、理、法，做出最適決策，並將危機化為團隊的成長契機，是每位領導者都應該學會的重要管理課題。前陣子我受邀參加一場銀色的聚餐，席間都是已經退休，或是即將交棒的資深前輩。那些曾經呼風喚雨、渡過巨浪的堅毅面容，在卸下重要職位後顯得格外慈祥。身為席間年紀最輕的組織領導人，我感受到強大又溫暖的支持力量，那是經驗的無私傳承，更是對後進的"
         },
         {
-          "title": "小黃比小孩消失得更快！誰來接住偏鄉最後一哩路？",
-          "link": "https://www.gvm.com.tw/article/131384",
-          "published": "2026-07-07T16:24:00",
-          "summary": "北投Uber機車案引發法規爭議，但更深的移動缺口在偏鄉。台南龍崎的孤獨站牌提醒我們：高齡駕駛與在地司機同步老去，偏鄉供給正在退場。政府已有補貼與長照交通制度，卻仍不足以承接分散、臨時、生活化的需求。真正的解方不是等平台進場，而是用制度設計讓平台、地方組織與公共資源，共同接住最後一哩路。2026年酷熱的7月，台南縣龍崎中坑里、清水宮廟埕前，長久都立著一支公車站牌，但它不太像都市裡熟悉的公車站。沒有排"
+          "title": "會問問題的人工作效率翻倍：別再回「怎麼做？」高手都用提案式發問",
+          "link": "https://www.gvm.com.tw/article/131415",
+          "published": "2026-07-08T15:13:00",
+          "summary": "在職場上，有一種能力至今仍難以被AI取代，就是「安排工作的能力」。因為AI雖然可以幫你「做事」，卻不知道什麼事情應該先做、工作應該怎麼安排、什麼時候完成最合適、眼前的任務真正要達成的目標是什麼。這些能力，才是職場上最不容易被取代的競爭力。（本文節錄自《為什麼你每天都很忙，工作卻做不完？》一書，作者：井出元子／寶鼎出版，以下為摘文。）以建議的方式提出疑問在工作時，遇到不確定的地方時，與其模糊地問一句"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "市政新聞-竹市「衣起響應」舊衣回收募集近7千件高虹安市長：展現<b>淨零</b>綠生活行動力",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hccg.gov.tw/hccg/app/know/view%3Fmodule%3Dmunicipalnews%26id%3D30122%26serno%3Da55c662a-080d-429f-b5ba-3417a106bf90&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3CJMh9rCzTveM3YYnL7dV4",
-          "published": "2026-07-08T02:08:17+00:00",
-          "summary": "為深化源頭減量行動並擴大公益服務能量，新竹大遠百日前攜手社團法人新竹市脊髓損傷者協會，在百貨一樓廣場辦理「衣起響應髓新啟程」舊衣回收活動，獲得熱烈&nbsp;..."
+          "title": "德國六月熱浪致5000人超額死亡氣候變化加劇歐洲極端高溫 - 星島日報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.singtaousa.com/2026/07/08/news/world/germany-recorded-5-000-excess-deaths-in-late-june-heat-wave/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1Y-OahZRiBJreD-X-uIKMj",
+          "published": "2026-07-09T02:55:16+00:00",
+          "summary": "德國聯邦統計局初步數據顯示，六月底熱浪期間錄得超過5000宗超額死亡。氣候變化正加劇歐洲熱浪的頻率和強度，對醫療、交通和電力系統構成壓力。 | 星島日報."
         },
         {
-          "title": "玩大富翁學永續嘉市創新教材| 中華日報 - LINE TODAY",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/wJKpW8w&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2PCf6hFAuVQCnPe9YcJm3o",
-          "published": "2026-07-08T01:16:08+00:00",
-          "summary": "記者湯朝村∕嘉義報導面對全球淨零排放浪潮，嘉義市政府創新推出「淨零旅遊來我嘉」文宣教材，結合「大富翁」遊戲玩法並透過學校教育延伸至家庭與社..."
+          "title": "高雄社宅推動<b>淨零</b>生活凱旋青樹邀住戶從日常實踐永續",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/public/taiwanhot/20260709/index-78355280088488221016.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2RH0L_XKSIg_24AZVBHuBf",
+          "published": "2026-07-09T00:16:54+00:00",
+          "summary": "地方中心／高雄報導（圖／高雄市住宅及都市更新中心）面對全球氣候變遷與淨零排放趨勢，高雄市政府都市發展局與高雄市住宅及都市更新中心(下稱高住都中心)攜手&nbsp;..."
         },
         {
-          "title": "【通講壇】熱浪“烤驗”歐洲深層治理危機",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://hkcna.hk/h5/docDetail.jsp%3Fid%3D101362566%26channel%3D5032&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0PDiylcnB-0Vah_jWY2ZPD",
-          "published": "2026-07-08T00:58:27+00:00",
-          "summary": "這段時間熱浪席捲歐洲，巴黎超過40度，德國甚至超過了41度，歐洲人紛紛搶購中國產的空調，成為了國際輿論場的熱門話題。 在這個現象背後，我們看到的不僅僅是一個氣候&nbsp;..."
+          "title": "中新社東西問》從歐洲爭論空調，應看到什麼？（韓禹） - 海納百川 - 中時新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/opinion/20260708003981-262110&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2owGKnJ-f--CynfZTI3nE9",
+          "published": "2026-07-09T00:10:29+00:00",
+          "summary": "自2019年《歐洲綠色協議》推出，歐盟氣候政策的主線，一直是把歐洲經濟和社會推向氣候中和，其政策重點集中在減碳、可再生能源和產業綠色化。 但歐洲氣候變化科學&nbsp;..."
         },
         {
-          "title": "<b>淨零</b>轉型！義守大學連四年獲U-start補助學生研發半導體廢水回收技術奪50萬元| 徐炳文",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.storm.mg/article/11147700&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw24kmuShaxVY4hb9nz3jq-j",
-          "published": "2026-07-07T22:05:26+00:00",
-          "summary": "隨著人工智慧、高效能運算及先進半導體製程快速發展，晶圓製造用水需求持續攀升，其中化學機械研磨（CMP）製程所產生的大量廢水，已成為半導體產業推動永續的重要課題&nbsp;..."
+          "title": "竹市「衣起響應」舊衣回收募集<b>淨零</b>綠生活行動力展現",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://focusnews.com.tw/2026/07/710461/%3Famp%3D1&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3K557H0mgmozk-AKMEizOB",
+          "published": "2026-07-08T18:48:22+00:00",
+          "summary": "【今傳媒/記者黃誌寬報導】新竹大遠百日前攜手社團法人新竹市脊髓損傷者協會，在百貨一樓廣場辦理「衣起響應髓新啟程」舊衣回收活動，獲得熱烈支持，共310位&nbsp;..."
         },
         {
-          "title": "【創科新視野】務實推進新能源車普及助力<b>碳中和</b>- 香港文匯網 - 文匯報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.wenweipo.com/a/202607/08/AP6a4d5d58e4b0b49ad1c264bf.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2OKfghW-Q-qBNElUBk8nHO",
-          "published": "2026-07-07T20:16:31+00:00",
-          "summary": "為配合國家「雙碳」目標，特區政府致力於2050年前實現碳中和。國家「十五五」規劃亦明確將「加快經濟社會發展全面綠色轉型」列為核心方向。"
+          "title": "當未來ESG 退去之後，企業永續還會剩下什麼？ | 安永台灣 - EY",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ey.com/zh_tw/insights/climate-change-sustainability-services/what-remains-after-esg-the-future-of-corporate-sustainability-and-value-creation&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw08KjXZKVrUzt-judpM6Tci",
+          "published": "2026-07-08T18:37:11+00:00",
+          "summary": "隨著氣候變遷、AI、資安及地緣政治等風險加劇，傳統財務報表已難以完整反映企業價值。企業競爭力不再僅來自獲利與資產，更涵蓋人才、創新能力、品牌信任及營運&nbsp;..."
         },
         {
-          "title": "中國推進<b>碳中和</b>戰略目標內蒙古成煤電與綠電並行實驗場 - DIGITIMES",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.digitimes.com.tw/tech/dt/n/shwnws.asp%3FCnlId%3D1%26id%3D0000760889_STY9YVQ17BZV76LMRIMF6&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1PtL7o1k9gySKK8yOLfyVA",
-          "published": "2026-07-07T19:57:02+00:00",
-          "summary": "隨著中國積極推進2060年實現碳中和的戰略目標，中國政府正將其豐富的煤炭資源視為通往潔淨能源未來的重要過渡橋梁。北京當局目前大力倡導「先立後破」的慢而&nbsp;..."
+          "title": "【創科新視野】務實推進新能源車普及助力<b>碳中和</b> - 文匯報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.wenweipo.com/epaper/view/newsDetail/2074546236995801088.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw18MqvyAbqx9jjU-DSzEZ_k",
+          "published": "2026-07-08T18:21:41+00:00",
+          "summary": "在本港各主要排放源中，運輸業約佔整體碳排放近兩成，是低碳轉型的重點領域。近年電動私家車發展成效顯著，截至2026年2月，登記數量四年間增長四倍至逾14萬輛，增速位&nbsp;..."
         }
       ]
     }
