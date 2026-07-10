@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-07-09T04:52:29.427603+00:00",
-    "date": "2026-07-09",
+    "generated_at": "2026-07-10T04:51:40.207440+00:00",
+    "date": "2026-07-10",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "比 Claude、GPT 便宜一半：Grok 4.5 不爭最強模型，要用成本效率戰撼動 AI 市場",
-          "link": "https://techorange.com/2026/07/09/spacexai-cursor-unveil-grok-ai-model-for-legal-finance-tasks/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-09T04:39:30+00:00",
-          "summary": "SpaceXAI 與 AI 程式開發新創公司 Cursor 深度整合後，正式推出首款聯合開發模型 Grok 4.5。相較於以往的 Grok 版本，Grok 4.5 被明確定位為面向軟體工程、法律與金融服務等高難度、長時間任務的旗艦產品，擺脫過去一般聊天機器人的定位。 《Bloomberg》指出，這款旗艦模型是 SpaceXAI 爭奪企業客戶、追趕 Anthropic 與 OpenAI 等強勁對手的"
+          "title": "從開源 Llama 到付費 Muse Spark 1.1：Meta 如何用低價 API 搶攻 AI Agent 開發入口？",
+          "link": "https://techorange.com/2026/07/10/meta-muse-spark/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-10T04:35:10+00:00",
+          "summary": "在 SpaceXAI 推出新模型、OpenAI 發表最新 GPT 5.6 之際，Meta 隨後也推出最新的專有 AI 模型 Muse Spark 1.1。這款內部研發代號為「Avocado（酪梨）」的新模型，不僅在功能上瞄準 AI Coding 與 Agentic AI，更在商業策略上搭配極具競爭力的超低價 API 與免費額度，試圖在開發者採用及大規模商業部署的入口處，正面迎戰 OpenAI、An"
         },
         {
-          "title": "OpenAI 推 GPT-Live 加入 AI 全雙工競賽，「聊天框的終點」比想像更近？",
-          "link": "https://techorange.com/2026/07/09/openai-gpt-live-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-09T03:56:38+00:00",
-          "summary": "過去兩年，和 AI 對話大致有兩種樣子：在聊天框裡打字，或是對著麥克風口述，再等上一兩秒聽它一句略顯生硬的回覆。OpenAI 最新推出的語音模型 GPT-Live，想改寫的正是這個節奏，它讓 ChatGPT 能一邊說、一邊持續聆聽，正式把 OpenAI 推進 AI 全雙工（full-duplex）競賽。《VentureBeat》更指出，在多家業者已經投入相同技術的此刻，聊天框走向終點的那一天，可能"
+          "title": "ChatGPT Work + GPT-5.6 同日登場，OpenAI 這次比的不是誰更聰明",
+          "link": "https://techorange.com/2026/07/10/openai-gpt-5-6-chatgpt-work-tool/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-10T04:01:45+00:00",
+          "summary": "OpenAI 同時端出兩項產品：主打企業市場的 AI 代理 ChatGPT Work，以及新一代模型 GPT-5.6。《Reuters》形容，前者是期待已久的 AI「超級 App」正式登場，後者的重點則從更聰明轉向更省──OpenAI 執行長 Sam Altman 強調的，GPT-5.6 做同樣的事更省。 搶白領工作入口，ChatGPT Work 正面對決 Claude Cowork ChatGP"
         },
         {
-          "title": "93% 的 CIO 做不了快決策：AI 時代的領導者困境",
-          "link": "https://techorange.com/2026/07/09/ai-is-changing-the-cios-role/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-09T01:52:49+00:00",
-          "summary": "過去，資訊長（CIO）職責主要圍繞在維護 IT 基礎設施，確保組織系統運作順暢。然而在生成式與 Agentic AI 席捲企業的此刻，這個角色經歷三十年來最劇烈的重塑。 在拉斯維加斯舉行的 Info-Tech LIVE 2026 大會上，IT 研究及顧問公司 Info-Tech Research Group 執行長 Tom Zehren 說，「CIO 已經沒有所謂正常的位置了」，一句話道盡 CIO"
+          "title": "Vitals ESP 7 重大改版 打造 AI 時代知識管理新體驗",
+          "link": "https://techorange.com/2026/07/10/vitals-esp-7-gss-ai-aiagent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-10T02:46:26+00:00",
+          "summary": "「AI 能力越強，越需要高品質、可信、可治理的企業知識」。生成式 AI 持續改變企業取得與運用知識的方式，如何讓組織知識更容易保存、查找及活用，也成為企業推動 AI 轉型的重要課題。歷經 20 多年的深耕與超過 800 家企業客戶的實務淬鍊，知識管理領導品牌 Vitals ESP 日前迎來跨世代重大改版。除了優化平台介面、強化使用者體驗，更深化 AI 智能與資訊安全應用，全面提升日常使用便利性，協"
         },
         {
-          "title": "【科技早餐】前沿 AI 進入管制、供應鏈與資本戰，中美審模型、DeepSeek 補晶片",
-          "link": "https://techorange.com/2026/07/09/frontier-ai-regulation-supply-chain-capital/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-08T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊中國擬限制海外使用先進 AI 模型，模型出口也成國安議題 《路透》引述知情人士報導，中國政府最近與多家科技企業開會，討論是否限制海外存取中國最先進的 AI 模型。參與會談的企業包括阿里巴巴、字節跳動與智譜 AI，會議由中國商務部主導，國家發展和改革委員會也派員參與。 消息人士表示，討論內容包括是否對最先進 AI 模型加上限制，不論是閉源模型，還是"
+          "title": "【影子 AI 治理危機】AI 政策沒人遵守，高管隱瞞 AI 使用的比例是基層員工 2 倍",
+          "link": "https://techorange.com/2026/07/10/ai-governance-six-question-ivanti/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-10T02:26:09+00:00",
+          "summary": "企業 AI 治理失效問題有 6 大主要面向，分別是影子 AI、AI 代理所有權不明、AI 僅在部署前審查、AI 治理政策執行不一致、對 AI 過度信任，以及缺乏對 AI 代理進行逐次授權的機制。"
         },
         {
-          "title": "歐洲人形機器人新勢力：特斯拉前科學家成立 UMA，靠什麼吸引 50 家企業洽談？",
-          "link": "https://techorange.com/2026/07/08/uma-ai-robotics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-08T10:39:49+00:00",
-          "summary": "人形機器人競賽長期由美國與中國企業主導，如今歐洲也出現新的參賽者。曾參與 Tesla Optimus 與 Autopilot AI 開發的機器學習科學家 Rémi Cadene，與前 Google DeepMind、Hugging Face 工程師共同創立巴黎機器人新創 UMA，並在近日正式發表首款人形機器人 Northstar。 根據《Bloomberg》報導，UMA 已與約 50 家潛在客戶洽"
+          "title": "不再埋頭比價、彙整報表：TAMKO、Amazon 用 AI 代理，讓採購時間更值錢",
+          "link": "https://techorange.com/2026/07/10/ai-procurement-tamko-amazon/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-10T01:53:17+00:00",
+          "summary": "企業採購正迎來新一波 AI 轉型浪潮。隨著生成式 AI、AI 代理（AI Agents）以及智慧自動化工具快速成熟，採購部門開始擺脫過去仰賴人工分析報表、比價與彙整資料的工作模式，將重心轉向更高價值的策略決策。 波士頓顧問集團（BCG）指出，企業若將 AI 整合至採購流程，最高可降低 45% 的整體成本，並減少採購團隊約 30% 的工作量，使人力得以投入供應商管理、策略規劃等更具價值的工作。另一份"
         },
         {
-          "title": "為什麼 AI 做的 App 一眼就被看穿？三大跡象揭開 Vibe Coding 的 UI/UX 盲點",
-          "link": "https://techorange.com/2026/07/08/ai-coded-app-user-interface-experience-design/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-08T10:32:49+00:00",
-          "summary": "在 AI 技術快速發展的背景下，軟體開發領域正掀起一股 Vibe Coding 浪潮，像是 Claude Code、Lovable、Replit 與 Base44 等工具，讓完全不具備技術背景的創作者，也能在短短幾小時之內，僅憑直覺與想法打造出可變現的應用程式。 然而，這些由 AI 設計的應用程式在市場上大量湧現後，卻開始暴露出高度同質化的特徵，許多產品雖然外表看起來十分精美，實際使用時卻不夠直覺"
+          "title": "AI 省下初階人力，卻可能形成人才斷層：南韓、瑞士揭職場新警訊",
+          "link": "https://techorange.com/2026/07/10/korea-swiss-junior-roles/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-10T01:32:32+00:00",
+          "summary": "受惠於全球對 AI 晶片與資料中心的龐大需求，南韓半導體巨頭三星電子（Samsung Electronics）與 SK 海力士（SK Hynix）的市值雙雙突破 1 兆美元。在工會的推動下，晶片部門的員工甚至迎來高達將近 40 萬美元的平均獎金。然而，這股令人矚目的 AI 紅利並未均等地流向所有勞工，而是沿著既有的勞動市場斷層分配：利益高度向擁有強大就業保護的「大企業內部員工」傾斜，而外包商、中小"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "巴威颱風動態》颱風假機率？暴風侵襲100%，周五晚起「籠罩全台灣」周六風雨最強",
+          "title": "巴威颱風動態》週五放颱風假？北北基桃停止上班上課，全台停班停課情形、最新路徑與影響範圍一覽",
           "link": "https://www.gvm.com.tw/article/131370",
-          "published": "2026-07-08T22:00:00",
-          "summary": "7/8 22:00更新：強烈颱風巴威進逼來勢洶洶，中央氣象署預估，預估最快明（9日）深夜將會發布海上及陸上警報。最新資料顯示，巴威颱風8日20時的中心位置在北緯17.3度，東經131.9度，以每小時19公里速度，向西北西進行。中心氣壓900百帕，近中心最大風速每秒58公尺，瞬間最大陣風每秒73公尺，七級風平均暴風半徑380公里(西北側430公里、東北側430公里、西南側330公里、東南側330公里"
+          "published": "2026-07-09T20:00:00",
+          "summary": "7/9 20:00更新：強烈颱風巴威進逼來勢洶洶，中央氣象署今（9）日下午14時30分正式發布強颱「巴威」（BAVI）海上警報，其中心目前位於鵝鑾鼻東南東方920海面之處、向北北西轉西北移動，接下來將對巴士海峽、東南部海面、東北部海面構成威脅，預估明（10）日清晨發布陸上颱風警報。至於是否明天會不會放颱風假？氣象署下午5時發布最新風雨預測，今天晚上8時至明天晚上8時，24小時累積雨量僅有桃園市山區"
         },
         {
-          "title": "美國工程科學生去哪了？調查：技術人才短缺，台積電等半導體業者恐受影響",
-          "link": "https://www.gvm.com.tw/article/131397",
-          "published": "2026-07-08T17:35:00",
-          "summary": "美國全國高技能人力短缺日益嚴峻，若業界無法整合資源、政府也無法持續挹注資金，恐延誤全美數十億美元新建晶圓廠的進度，並限制未來晶片生產。麥肯錫、國際半導體設備及材料協會（SEMI）和美國國家科學基金會最新分析指出，人力缺口預料在德州、加州、亞利桑那州、紐約州和俄亥俄州等地最嚴重。這些州正是許多新廠規劃所在地。這項週二發布的研究，包括對雇主的調查，預估到 2030 年，全職技術勞工缺口最多可能達 15"
+          "title": "0050正2怎麼買？00685L分割降門檻，四檔正2ETF比較",
+          "link": "https://www.gvm.com.tw/article/131453",
+          "published": "2026-07-09T19:00:00",
+          "summary": "本週二（7日），群益臺灣加權正2（00685L）完成分割，單日引爆逾百億元買盤搶進；但同一天，台股卻寫下2026年第八大跌點。這時候真的該買進槓桿型ETF嗎？目前台股市場共有四檔正2型ETF掛牌，分別是元大（00631L）、群益（00685L）、富邦（00675L）、國泰（00663L），追蹤指數、費用結構與流動性各有差異。到底該買0050還是正2好？近期在社群上引起論戰，本文也整理四檔正2ETF"
         },
         {
-          "title": "批李洋「改革非二分法」後道歉！運彩公會理事長聲明退出經營",
-          "link": "https://www.gvm.com.tw/article/131421",
-          "published": "2026-07-08T17:19:00",
-          "summary": "運動彩券經銷商商業同業公會理事長何昱奇，日前在臉書發文批評運動部長李洋的體育改革引發爭議；今天他PO出長文向李洋道歉，也宣布自9月1日起繳回執照，退出運彩經營行列。何昱奇在7月6日於臉書上PO文，批評李洋上任將近滿1年，卻沒提出任何讓人民有感的成績單，甚至還提到李洋推動的體育改革方式有誤，強調「改革從來不是二分法，不是把舊的人全部打成既得利益者，也不是只要態度強硬就是改革成功。」結果此文引發外界熱"
+          "title": "歐洲熱浪奪萬條人命！這款「降溫神器」一夜爆紅斷貨",
+          "link": "https://www.gvm.com.tw/article/131451",
+          "published": "2026-07-09T18:49:00",
+          "summary": "今年夏天，歐洲熱浪炸裂，很多國家飆破攝氏40度高溫。荷、比、法三國，因熱浪死亡的人數已達到1萬6880人！就在民眾苦不堪言、瘋搶冷氣機之際，竟有一款免安裝的「移動式冷氣」賣到全歐斷貨，連二手價都瘋漲2〜3倍。此時，外界才知道這款商品是來自中國浙江的一座產業聚落，「移動式冷氣」也因而一夜爆紅。6月底，英國廣播公司（BBC）報導指出，前所未有的熱浪正襲擊歐洲，各國陸續偵測到逾40度的高溫。世界衛生組織"
         },
         {
-          "title": "致癌沙拉油最新進展：金色三麥、路易莎上榜！今再增169項下架名單，退款方法一次看",
-          "link": "https://www.gvm.com.tw/article/131403",
-          "published": "2026-07-08T15:59:00",
-          "summary": "中聯油脂1300公噸大豆沙拉油檢出一級致癌物苯駢芘超標，引發食安疑慮持續延燒，受影響業者一路擴大。南僑（1702）原本被外界以為是「吹哨者」的角色，卻沒想到因未及時通報，遭北市衛生局認定違反《食品安全衛生管理法》，重罰新台幣300萬元，7日也發出重訊喊冤，待後續收到正式裁罰書後，將與律師研商依法提出行政救濟。本文持續追蹤最新中鏢名單與問題油流向、受影響批號、各大品牌退費方式，以及吃到問題油的健康風"
+          "title": "遠見40週年「不老台灣」論壇〉衛福部次長、健保署長拆解「健康到老」新戰略",
+          "link": "https://www.gvm.com.tw/article/131452",
+          "published": "2026-07-09T18:38:00",
+          "summary": "台灣已邁入超高齡社會，但是國人生命最後階段，臥病時間約長達7到9年。未來如何讓各年齡層的國人不只活得長壽還要健康？《遠見》40週年首部曲封面報導特以此為題深入報導，今（9日）更以「不老台灣・全齡健康」論壇作為40週年慶首場活動。論壇上衛福部常務次長莊人祥、健保署署長陳亮妤、《遠見雜誌》社長楊瑪利與《遠見雜誌》印刷版總編輯萬年生紛紛在場發表獨特觀察。台灣2025年底邁入超高齡社會，從高齡到超高齡僅7"
         },
         {
-          "title": "為何我不再害怕「衝突」？",
-          "link": "https://www.gvm.com.tw/article/131416",
-          "published": "2026-07-08T15:24:00",
-          "summary": "編按：人事問題，往往是管理者最大的考驗。面對衝突、壓力與不同立場，如何兼顧情、理、法，做出最適決策，並將危機化為團隊的成長契機，是每位領導者都應該學會的重要管理課題。前陣子我受邀參加一場銀色的聚餐，席間都是已經退休，或是即將交棒的資深前輩。那些曾經呼風喚雨、渡過巨浪的堅毅面容，在卸下重要職位後顯得格外慈祥。身為席間年紀最輕的組織領導人，我感受到強大又溫暖的支持力量，那是經驗的無私傳承，更是對後進的"
+          "title": "川普：停火已結束！美軍連轟逾80處，伊朗揚言退出核不擴散條約",
+          "link": "https://www.gvm.com.tw/article/131450",
+          "published": "2026-07-09T18:11:00",
+          "summary": "川普宣布，美伊停火協議已結束。接下來美軍兩天內空襲伊朗逾80處目標，伊朗則以無人機與飛彈反擊科威特、巴林美軍基地，更研擬退出《核不擴散條約》並調整核戰略。中東衝突升高，油價大漲、金融市場震盪。因為伊朗日前襲擊荷姆茲海峽（Strait of Hormuz）三艘商船，美軍從7日起，連續兩天對荷姆茲海峽附近共80多個伊朗目標，發動一系列空襲。伊朗伊斯蘭革命衛隊（IRGC）隨即展開報復，襲擊設有美軍基地的"
         },
         {
-          "title": "會問問題的人工作效率翻倍：別再回「怎麼做？」高手都用提案式發問",
-          "link": "https://www.gvm.com.tw/article/131415",
-          "published": "2026-07-08T15:13:00",
-          "summary": "在職場上，有一種能力至今仍難以被AI取代，就是「安排工作的能力」。因為AI雖然可以幫你「做事」，卻不知道什麼事情應該先做、工作應該怎麼安排、什麼時候完成最合適、眼前的任務真正要達成的目標是什麼。這些能力，才是職場上最不容易被取代的競爭力。（本文節錄自《為什麼你每天都很忙，工作卻做不完？》一書，作者：井出元子／寶鼎出版，以下為摘文。）以建議的方式提出疑問在工作時，遇到不確定的地方時，與其模糊地問一句"
+          "title": "廣西淹水傷亡慘重！潰堤水庫建於近70年前「大躍進年代」",
+          "link": "https://www.gvm.com.tw/article/131449",
+          "published": "2026-07-09T17:38:00",
+          "summary": "廣西南寧市防汛救災新聞記者會今日通報，包括南寧六藍水庫潰口洪災在內，至少39人死亡、9人失聯。廣西橫州市的六藍水庫6日決堤，造成當地傷亡慘重，該水庫建於「大躍進」時期。綜合香港媒體報導，記者會通報，位於橫州市的六藍水庫、雲表水庫都建於1958年，屬於中型水庫，壩體都是均質土壩。從7月6日起，水利專家到現場開展搶險救災指導，評估出現漫壩缺口的水庫，密切觀測水位變化，查看堤壩變形情況，分析下泄流量，研"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "德國六月熱浪致5000人超額死亡氣候變化加劇歐洲極端高溫 - 星島日報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.singtaousa.com/2026/07/08/news/world/germany-recorded-5-000-excess-deaths-in-late-june-heat-wave/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1Y-OahZRiBJreD-X-uIKMj",
-          "published": "2026-07-09T02:55:16+00:00",
-          "summary": "德國聯邦統計局初步數據顯示，六月底熱浪期間錄得超過5000宗超額死亡。氣候變化正加劇歐洲熱浪的頻率和強度，對醫療、交通和電力系統構成壓力。 | 星島日報."
+          "title": "教育部協助37師取得環教認證<b>淨零</b>排放融入課程 - 放言Fount Media",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.fountmedia.io/article/401321&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0V-IuHEXb3WnCUYWu9cTTu",
+          "published": "2026-07-10T03:39:08+00:00",
+          "summary": "（中央社記者陳至中台北10日電）教育部近期透過研習，協助37名教師取得環境教育人員認證資格，將氣候變遷、淨零排放、能源轉型、永續發展等重要議題，&nbsp;..."
         },
         {
-          "title": "高雄社宅推動<b>淨零</b>生活凱旋青樹邀住戶從日常實踐永續",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/public/taiwanhot/20260709/index-78355280088488221016.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2RH0L_XKSIg_24AZVBHuBf",
-          "published": "2026-07-09T00:16:54+00:00",
-          "summary": "地方中心／高雄報導（圖／高雄市住宅及都市更新中心）面對全球氣候變遷與淨零排放趨勢，高雄市政府都市發展局與高雄市住宅及都市更新中心(下稱高住都中心)攜手&nbsp;..."
+          "title": "教育部協助37師取得環教認證<b>淨零</b>排放融入課程 - 華視新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.cts.com.tw/cna/life/202607/202607103053809.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2IxnJory4VAEZnLm43Mbq7",
+          "published": "2026-07-10T03:32:20+00:00",
+          "summary": "中央社記者陳至中台北10日電）教育部近期透過研習，協助37名教師取得環境教育人員認證資格，將氣候變遷、淨零排放、能源轉型、永續發展等重要議題，融入到課程之&nbsp;..."
         },
         {
-          "title": "中新社東西問》從歐洲爭論空調，應看到什麼？（韓禹） - 海納百川 - 中時新聞網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/opinion/20260708003981-262110&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2owGKnJ-f--CynfZTI3nE9",
-          "published": "2026-07-09T00:10:29+00:00",
-          "summary": "自2019年《歐洲綠色協議》推出，歐盟氣候政策的主線，一直是把歐洲經濟和社會推向氣候中和，其政策重點集中在減碳、可再生能源和產業綠色化。 但歐洲氣候變化科學&nbsp;..."
+          "title": "教育部協助37師取得環教認證<b>淨零</b>排放融入課程 - 經濟日報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/7307/9619432&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0xuA7mpad0M5Gg1C5Web3R",
+          "published": "2026-07-10T03:12:34+00:00",
+          "summary": "教育部近期透過研習，協助37名教師取得環境教育人員認證資格，將氣候變遷、淨零排放、能源轉型、永續發展等重要議題，融入到課..."
         },
         {
-          "title": "竹市「衣起響應」舊衣回收募集<b>淨零</b>綠生活行動力展現",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://focusnews.com.tw/2026/07/710461/%3Famp%3D1&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3K557H0mgmozk-AKMEizOB",
-          "published": "2026-07-08T18:48:22+00:00",
-          "summary": "【今傳媒/記者黃誌寬報導】新竹大遠百日前攜手社團法人新竹市脊髓損傷者協會，在百貨一樓廣場辦理「衣起響應髓新啟程」舊衣回收活動，獲得熱烈支持，共310位&nbsp;..."
+          "title": "教育部協助37師取得環教認證<b>淨零</b>排放融入課程| 生活| 中央社CNA",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/news/ahel/202607100049.aspx&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2-3GA1WVfBsW2NxZvs2jFk",
+          "published": "2026-07-10T03:10:44+00:00",
+          "summary": "教育部近期透過研習，協助37名教師取得環境教育人員認證資格，將氣候變遷、淨零排放、能源轉型、永續發展等重要議題，融入到課程之中。"
         },
         {
-          "title": "當未來ESG 退去之後，企業永續還會剩下什麼？ | 安永台灣 - EY",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ey.com/zh_tw/insights/climate-change-sustainability-services/what-remains-after-esg-the-future-of-corporate-sustainability-and-value-creation&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw08KjXZKVrUzt-judpM6Tci",
-          "published": "2026-07-08T18:37:11+00:00",
-          "summary": "隨著氣候變遷、AI、資安及地緣政治等風險加劇，傳統財務報表已難以完整反映企業價值。企業競爭力不再僅來自獲利與資產，更涵蓋人才、創新能力、品牌信任及營運&nbsp;..."
+          "title": "建物關鍵作為「租金讓房東都心動」！啥都不做的老屋「競爭力雪崩」？ | 好房網News",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.housefun.com.tw/news/article/amp/323907486769.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2OYzT8G-FNg-1L_5U7U3RA",
+          "published": "2026-07-10T00:41:10+00:00",
+          "summary": "在全球淨零碳排趨勢與台灣「2050淨零排放路徑」政策目標的雙重驅動下，融合建築能效標示（BERS）、綠建築標章（EEWH/LEED）與淨零減碳節能三合一的「永續低&nbsp;..."
         },
         {
-          "title": "【創科新視野】務實推進新能源車普及助力<b>碳中和</b> - 文匯報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.wenweipo.com/epaper/view/newsDetail/2074546236995801088.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw18MqvyAbqx9jjU-DSzEZ_k",
-          "published": "2026-07-08T18:21:41+00:00",
-          "summary": "在本港各主要排放源中，運輸業約佔整體碳排放近兩成，是低碳轉型的重點領域。近年電動私家車發展成效顯著，截至2026年2月，登記數量四年間增長四倍至逾14萬輛，增速位&nbsp;..."
+          "title": "建物關鍵作為「租金讓房東都心動」！啥都不做的老屋「競爭力雪崩」？ | 好房網News",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.housefun.com.tw/news/article/323907486769.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3TqmVkODyfndDNQs3WE_wW",
+          "published": "2026-07-10T00:41:09+00:00",
+          "summary": "在全球淨零碳排趨勢與台灣「2050淨零排放路徑」政策目標的雙重驅動下，融合建築能效標示（BERS）、綠建築標章（EEWH/LEED）與淨零減碳節能三合一的「永續低碳&nbsp;..."
         }
       ]
     }
