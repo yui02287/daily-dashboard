@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-07-11T04:12:05.808871+00:00",
-    "date": "2026-07-11",
+    "generated_at": "2026-07-12T04:24:22.854244+00:00",
+    "date": "2026-07-12",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -16,36 +16,6 @@
           "link": "https://techorange.com/2026/07/11/ads-measurement-in-the-ai-era/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
           "published": "2026-07-10T22:29:00+00:00",
           "summary": "董事會與經營層在審視行銷預算時常面臨一個痛點：大家知道預算花出去了，但到底帶回多少實質收益？如果只看報表上的「最後點擊」來發放獎金或分配預算，很容易漏算那些在前期默默幫企業「創造需求」的行銷投資。這不僅是報表誤差，更會影響管理層的資本配置判斷。 Google 發佈的《The Science of Demand: Ads measurement in the AI Era（需求科學：人工智慧時代的曝"
-        },
-        {
-          "title": "64% 製造業主管稱 AI 提升效率，為何營收、成本仍沒明顯改善？揭開 3 大 ROI 盲點",
-          "link": "https://techorange.com/2026/07/10/manufacturers-rushed-into-ai-the-returns-arent-showing-up/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-10T08:45:09+00:00",
-          "summary": "製造業正以前所未有的速度將 AI 導入日常營運場景，然而這股技術熱潮的成果，卻無法完全體現在財務報表中。根據 Grant Thornton 最新發布的「2026 年 AI 影響力調查」（Grant Thornton&#8217;s 2026 AI Impact Survey），在受訪的 100 位製造業主管中，沒有任何一個人表示 AI 為企業帶來顯著的營收增長，同時也沒有人說明 AI 已經帶來顯著"
-        },
-        {
-          "title": "公開人形機器人 25 自由度機器手！1X：手是通往物理世界的 API",
-          "link": "https://techorange.com/2026/07/10/neos-hands-25-dof/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-10T08:11:33+00:00",
-          "summary": "手指能撿起錢包裡的硬幣、旋轉並裝上燈泡、拉起外套拉鍊，也能察覺物品正從掌中滑落，立即調整抓握。人形機器人新創 1X 最新公開 NEO 的新一代機器手，試圖把人類每天不假思索完成的手部動作，交給機器人。 根據《WIRED》報導，NEO 的五指機器手具備 25 個自由度，接近人手常見的 27 個自由度，並採類似人體肌腱的驅動設計。1X 表示，開發這雙手的目標，是移除限制人形機器人能力的「硬體上限」，讓"
-        },
-        {
-          "title": "AI 理財顧問為何比傳統業者更有優勢？金融業正在陷入一場「不對等競爭」",
-          "link": "https://techorange.com/2026/07/10/why-ai-financial-advisers-have-a-leg-up-on-their-old-world-rivals/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-10T08:05:27+00:00",
-          "summary": "搜尋引擎最初的設計並非用來診斷疾病，但如今已有數百萬人在看醫生之前，會先諮詢所謂的「Google 醫生」。現在，AI 也正在對個人財務領域帶來極為相似的影響。 目前通用型聊天機器人已被越來越多人用來詢問理財問題，這股新興趨勢更被《金融時報》形容為「ChatIFA」。根據英國金融行為監理局（FCA）發布的報告顯示，已有約 1,100 萬名英國消費者願意或正在使用 AI 協助理財決策，範圍涵蓋儲蓄、借"
-        },
-        {
-          "title": "高雄市政府經濟發展局局長廖泰翔：讓 AI 應用從過去的單點案例，串連成產業網",
-          "link": "https://techorange.com/2026/07/10/2026-smart-manufacturing-foxconn-asus-mirdc-goodlinker/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-10T05:30:59+00:00",
-          "summary": "製造業升級目前的瓶頸，是老師傅腦中累積數十年的隱性經驗難以複製與傳承。當資深員工陸續退休、師徒制逐漸瓦解，如何用 AI 把「人」的 know-how 留下來，成為台灣製造業共同的課題。 TechOrange 科技報橘日前在高雄舉辦「2026 AI 智慧大工廠論壇」，以跨越經驗斷層，重塑製造韌性為主題，邀請高雄市政府經濟發展局指導，並集結鴻海科技集團、華碩、金屬工業研究發展中心、杰倫智能、谷林運算等"
-        },
-        {
-          "title": "從開源 Llama 到付費 Muse Spark 1.1：Meta 如何用低價 API 搶攻 AI Agent 開發入口？",
-          "link": "https://techorange.com/2026/07/10/meta-muse-spark/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-10T04:35:10+00:00",
-          "summary": "在 SpaceXAI 推出新模型、OpenAI 發表最新 GPT 5.6 之際，Meta 隨後也推出最新的專有 AI 模型 Muse Spark 1.1。這款內部研發代號為「Avocado（酪梨）」的新模型，不僅在功能上瞄準 AI Coding 與 Agentic AI，更在商業策略上搭配極具競爭力的超低價 API 與免費額度，試圖在開發者採用及大規模商業部署的入口處，正面迎戰 OpenAI、An"
         }
       ]
     },
@@ -54,40 +24,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "颱風窗戶怎麼貼？實測結果：膠帶貼錯可能有反效果，這件事才是關鍵",
-          "link": "https://www.gvm.com.tw/article/131463",
-          "published": "2026-07-11T00:00:00",
-          "summary": "巴威颱風來勢洶洶！防颱窗戶貼膠帶、膠布有用嗎？每到颱風天，許多住家、商店會在玻璃門窗上貼上膠帶，希望能藉此防止玻璃因強風破裂。但「颱風窗戶怎麼貼？要貼X型、井字型、口字型，還是全貼滿？颱風天窗戶貼膠帶防爆有沒有效？」也成為許多人常有的疑問，對此，內政部揭建築研究所實測實驗結果解答。內政部過去曾發布新聞稿表示，颱風來臨時，很多人會在玻璃門窗上貼滿膠帶，以為能增加抗風能力，防止玻璃破裂。不過，根據建築"
+          "title": "AI律師勝訴了！「機器人律師」成功在英國法庭贏得訴訟，法律人飯碗會被端走嗎？",
+          "link": "https://www.gvm.com.tw/article/131465",
+          "published": "2026-07-11T16:00:00",
+          "summary": "近年生成式 AI 文字處理力爆發，全球法律界掀起寧靜革命。兩年來 AI 在法律領域的作用多停在後台協助律師做資料檢索、合約審查等瑣碎工作，然而，5 月英國旺茲沃思郡法院（Wandsworth County Court），徹底將法律科技推向歷史性新紀元。Garfield AI法律事務所成功協助一名自由工作者用AI起草法律函件與庭審材料，在英格蘭法院贏得訴訟，幫當事人追回高達7,000英鎊欠款。這個案"
         },
         {
-          "title": "GEO要取代SEO？Google專家解惑：AI時代SEO請這麼做",
-          "link": "https://www.gvm.com.tw/article/131482",
-          "published": "2026-07-10T18:32:00",
-          "summary": "科技巨頭在舞台上展示算力、最先進Agent能力的同時，企業第一線的行銷推動者，卻正陷入前所未有的集體焦慮。過去品牌熟悉的分工是：SEO顧自然流量、SEM顧轉換、YouTube做品牌、官網是資訊櫥窗。但當搜尋從輸入關鍵字，走向AI摘要、Gemini對話、多模態互動以後，品牌到底該如何應對？在Google Marketing Live大會上，專家們的答案是，搜尋沒死，SEO也沒過時，它只是變成一場更難"
+          "title": "巴威颱風何時走？全台1.4萬人撤離，北台雨勢這時緩解",
+          "link": "https://www.gvm.com.tw/article/131484",
+          "published": "2026-07-11T16:00:00",
+          "summary": "巴威颱風到底什麼時候走？移動比預期緩慢，讓台灣多個縣市連放兩天假的巴威，目前已經在各地帶來不少災情，其中不少為路樹災情，所幸目前未傳出重大傷亡案件。不過有潰堤隱憂的花蓮萬里溪堰塞湖現況如何？雨量累積最高的縣市？預計未來路徑？一次看懂。中颱巴威直襲北台灣，多個縣市嚴加戒備，連放兩天假。根據氣象署今（11）日上午的資訊，巴威的中心目前位於台北東北海面，暴風圈已籠罩北部、東部地區，並帶來強風豪雨，在各地"
         },
         {
-          "title": "吉伊卡哇、迷宮飯、我獨自升級展！北中南暑假動漫展時間地點一次看",
-          "link": "https://www.gvm.com.tw/article/131481",
-          "published": "2026-07-10T18:29:00",
-          "summary": "夏日炎炎放暑假，動漫迷準備好衝一波了嗎？今年夏天的台灣動漫圈精彩絕倫，各大話題IP紛紛推出大型特展與快閃活動。不論是席捲全球的萌系霸主《吉伊卡哇》、奇幻美食神作《迷宮飯》，還是硬核王道代表《我獨自升級》，都將在台北華山、松菸及三創生活園區熱烈登場！中南部的朋友也不孤單，話題滿點的《孤獨搖滾！》與《藥師少女的獨語》巡迴展同樣引爆期待！各地展覽時間、地點、門票價格，《遠見》懶人包一網打盡，動漫迷們快帶"
+          "title": "漲了想追，跌了想殺？投資專家：不如從「被動等待」轉向「主動規劃」",
+          "link": "https://www.gvm.com.tw/article/131410",
+          "published": "2026-07-11T14:40:00",
+          "summary": "技術分析並沒有失效，而是市場早已改變。如果還停留在傳統看線圖、等突破、追訊號的操作方式，往往容易落入假突破與主力洗盤的陷阱。新式型態學結合結構、週期與交易規劃，從動態思維重新解讀市場，協助投資人提早掌握高勝率進場時機，建立更有紀律的交易策略。（本文節錄自《新式型態學2.0全方位實戰獲利系統》一書，作者：莎拉（Sara Wang）／商周出版，以下為摘文。）從傳統技術分析進化到新式型態學，可分為4大核"
         },
         {
-          "title": "巴威颱風動態》陸警擴大14縣市！全台停班停課、最新路徑與影響範圍一覽",
+          "title": "致癌油衝擊食安！醫示警：日抽一包菸等同於吃進「50克苯駢芘」直攻人體器官",
+          "link": "https://www.gvm.com.tw/article/131464",
+          "published": "2026-07-11T11:00:00",
+          "summary": "苯駢芘問題油引熱議，台灣拒菸聯盟今天提醒，若民眾如此恐懼問題油，就不能忽視一個事實，就是1天1包菸相當於吃進50克問題油，甚至吸入的苯駢芘會繞過肝臟解毒防線，直攻肺部。中聯油脂大豆沙拉油致癌物「苯駢芘（BaP）」檢驗超標，疑慮油品流向全台，引起社會震驚與恐慌，苯駢芘是多環芳香烴的一種，主要來自高溫與不完全燃燒，也是國際公認的人類致癌物。董氏基金會菸害防制中心主任林清麗今天透過新聞表示，在較接近重度"
+        },
+        {
+          "title": "巴威颱風動態》7/12停班停課？北北基桃竹一次看",
           "link": "https://www.gvm.com.tw/article/131370",
-          "published": "2026-07-10T18:05:00",
-          "summary": "7/10 18:20更新：巴威颱風海陸警齊發，陸警範圍再擴大至14縣市。中央氣象署提醒，今晚開始到明天整天都將是颱風影響最明顯時刻，預估巴威颱風明天凌晨觸陸，新北、宜蘭及花蓮皆為可能登陸地點，而明天中午至下午最接近台灣。&nbsp;中央氣象署技正謝佩芸指出，目前颱風位於台灣東方600公里海面，今晚至明天將是影響最明顯時段，上午北台灣已出現間歇性降雨，午後降雨區域擴及中部，南部則因熱力作用出現雷陣雨"
+          "published": "2026-07-11T10:53:00",
+          "summary": "7/11 20:00編按更新：根據各縣市公告，週日12日台北、新北，基隆，桃園正常上班上課。新竹縣市除了尖石鄉與五峰鄉停班停課外，也維持正常上班上課。巴威颱風週六發威，全台20縣市停班停課，台北捷運文湖線停駛，市府並且指出本日暫停收運垃圾，嚴防颱風中。12日會繼續放颱風假嗎？目前預估有10縣市達標，但仍需依照各縣市最終放假公告為準，將持續更新。中央氣象署提醒，今晚開始到明天整天都將是颱風影響最明顯"
         },
         {
-          "title": "分遺產喬不攏代價大！千萬稅金遲繳，多付百萬滯納金",
-          "link": "https://www.gvm.com.tw/article/131480",
-          "published": "2026-07-10T17:09:00",
-          "summary": "遺產分配若遲遲無法取得共識，不只影響財產分配，還可能因此增加龐大稅務成本。一起近1.9億元遺產繼承案，因多名繼承人遲遲無法就遺產分配達成共識，導致約1,298萬元遺產稅未能如期繳納，最後晚繳約一個月，被加徵171萬餘元滯納金。判決指出，被繼承人留下遺產總額約1億9,050萬元，扣除免稅額及相關扣除額後，遺產淨額約1億2,983萬元，國稅局核定應繳遺產稅約1,298萬元。由於稅額龐大，繼承人曾申請展"
-        },
-        {
-          "title": "該先還款或存起來？27歲財務自由作家：先搞懂你對債務的情緒負擔",
-          "link": "https://www.gvm.com.tw/article/78849",
-          "published": "2026-07-10T16:45:00",
-          "summary": "編按：沒有好的債務這種事，頂多是還可以忍受的債務，但一樣是壞的債務。拿你的融資利率來跟標的資產的上漲比率做比較，就會確知你在背債以前是否做對了選擇。（本文摘自《讓可愛的錢自動滾進來》一書，作者為瑞秋．李察斯Rachel Richards，以下為摘文。）美國人的信用卡債超過 9,999 億美元。這個數字後面可是跟著九個零：999,000,000,000 美元的信用卡債。我現在一邊想把飲料拿好，一邊試"
+          "title": "2026FIFA世界盃》世界盃足球賽賽程資訊全攻略！參賽國家、分組名單、比賽賽制、各組賽程、轉播資訊一次看",
+          "link": "https://www.gvm.com.tw/article/129431",
+          "published": "2026-07-11T05:27:00",
+          "summary": "全世界球迷們最期待的2026世界盃足球賽，於6月11日至7月19日，在美國、加拿大、墨西哥舉行，本屆參賽隊伍首次從以往的32支，擴大到48支隊伍參賽，規模是史上最大。今年你看好哪隊能奪冠呢？精華：台灣為什麼踢不進世足、足球為什麼如此受歡迎、世足賽必看10大亮點、世足賽10個必懂足球規則懶人包、世足賽32強名單正式出爐、世足賽16強名單正式出爐、世足賽8強名單正式出爐、世足賽4強名單正式出爐2026"
         }
       ]
     },
@@ -96,40 +66,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "強勁熱穹籠罩全美「比平常高25  」 會熱到下周這天",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.worldjournal.com/wj/amp/story/121469/9620856&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2o-kWuHf4TY0F0cdAMS7px",
-          "published": "2026-07-11T00:11:22+00:00",
-          "summary": "美國本土48州從本周末開始連續一整個星期，大部分地區將因異常強勁的持續性熱穹(heat domes)而氣溫飆升，國家氣象局(National Weather Service)稱，這波危險&nbsp;..."
+          "title": "明德水庫畔的綠色奇蹟2-2》公廁變身發電廠！明德社區走向<b>淨零</b>未來 - 自由時報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.ltn.com.tw/news/life/breakingnews/5502089&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3F0xrEct4_Fkns_dzgeONY",
+          "published": "2026-07-12T03:16:18+00:00",
+          "summary": "明德社區與工業技術研究院合作，在社區活動中心男廁設置「尿液微生物燃料電池系統」。該系統利用厭氧微生物分解尿液中的有機物產生電位差，轉化為電能，再透過行動&nbsp;..."
         },
         {
-          "title": "政策利多加持，如何帶動民間資金投入<b>淨零</b>？",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://technews.tw/ai-agent/carbon-fee-might-be-different-help/19598/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1hlLVNW1AuXUfFnFvxGIwS",
-          "published": "2026-07-10T22:14:19+00:00",
-          "summary": "台灣政府為達成2050淨零目標，已盤點至2030年約9000億元的預算需求，重點投入再生能源、氫能、電網韌性及運具電動化。隨著2025年碳費制度正式上路，每噸300元的&nbsp;..."
+          "title": "澳大教授參與氣候文件修訂 - 澳門日報電子版",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.macaodaily.com/html/2026-07/12/content_1920480.htm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3axbSCYBvkgs4hCpcsOYlR",
+          "published": "2026-07-12T01:45:28+00:00",
+          "summary": "澳大教授參與氣候文件修訂. 美國供暖製冷及空調工程師學會(ASHRAE)理事會日前批准通過最新版本《氣候變化立場文件》。澳門大學土木及環境工程系助理教授&nbsp;..."
         },
         {
-          "title": "經部新建廳舍動土打造<b>淨零</b>地標 - Yahoo新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E7%25B6%2593%25E9%2583%25A8%25E6%2596%25B0%25E5%25BB%25BA%25E5%25BB%25B3%25E8%2588%258D%25E5%258B%2595%25E5%259C%259F-%25E6%2589%2593%25E9%2580%25A0%25E6%25B7%25A8%25E9%259B%25B6%25E5%259C%25B0%25E6%25A8%2599-133338040.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0E122UsjQppmMaXEOIRiqw",
-          "published": "2026-07-10T19:52:44+00:00",
-          "summary": "經濟部規劃多年，位於北市愛國東路與杭州南路二段交叉路口，基地面積約一·九公頃的經濟部園區新建辦公廳舍，於日前辦理「經濟部新建辦公廳舍統包工程」動土典禮&nbsp;..."
+          "title": "陸部署碳達峰行動減碳攻堅2030年前進入關鍵期 - 翻爆",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://turnnewsapp.com/livenews/chinav3/20260711002826-260409&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0i0KMgsLm20vtXozbNWs8l",
+          "published": "2026-07-12T01:23:56+00:00",
+          "summary": "... 碳中和奠定堅實基礎。 當前，大陸建成全球最大的可再生能源體系，構建全球最 ... 北京清華大學氣候變化與可持續發展研究院院長李政表示，這是把用電&nbsp;..."
         },
         {
-          "title": "釐清圖利便民界線厚植綠能競爭力新北建構廉潔投資環境 - 是新聞YesMedia",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.yesmedia.com.tw/%25E9%2587%2590%25E6%25B8%2585%25E5%259C%2596%25E5%2588%25A9%25E4%25BE%25BF%25E6%25B0%2591%25E7%2595%258C%25E7%25B7%259A-%25E5%258E%259A%25E6%25A4%258D%25E7%25B6%25A0%25E8%2583%25BD%25E7%25AB%25B6%25E7%2588%25AD%25E5%258A%259B-%25E6%2596%25B0%25E5%258C%2597%25E5%25BB%25BA%25E6%25A7%258B%25E5%25BB%2589%25E6%25BD%2594/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw297NWHVb3VIuD5LSwm_SCh",
-          "published": "2026-07-10T19:18:31+00:00",
-          "summary": "【記者葉柏成／新北報導】新北市政府積極推動淨零轉型與廉能治理，昨（9）日在新北市立圖書館總館舉辦「115年新北企業誠信暨綠能產業區辨圖利與便民講座」，攜手產業&nbsp;..."
+          "title": "邁向2050<b>淨零</b>碳排目標！智慧移動產業協會發起討論望助產業轉型 - 三立新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.setn.com/news/1485705&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2PSTLpZW9X6-uky-KyjaOG",
+          "published": "2026-07-12T00:11:51+00:00",
+          "summary": "全球朝向2050淨零碳排目標前進，緊追國際趨勢，臺灣智慧移動產業協會集結產官學各界專家一起討論機車產業的未來，以及電車產業轉型的願景。"
         },
         {
-          "title": "科工館推海洋教育嘉年華互動體驗認識<b>氣候變遷</b> - 中央社",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/news/aloc/202607100119.aspx&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1EGv14iU0ZFXw4CqJJmOy_",
-          "published": "2026-07-10T19:12:09+00:00",
-          "summary": "... ，結合海洋教育與氣候科學，透過多元體驗，引導民眾認識海洋資源、氣候變遷及調適策略， ... 淨零碳排新聞學院中央社電子報中央社好POD. 關於中央社. 本社簡介識別系統&nbsp;..."
+          "title": "碳達峰進入攻堅期內地部署未來五年行動方案 - 華僑報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.vakiodaily.com/news/view/id/705354&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3C31U9KmmEERK1VcCY9c9v",
+          "published": "2026-07-11T19:27:16+00:00",
+          "summary": "... 碳中和奠定堅實基礎。 當前，中國建成了全球最大的可再生能源體系，構建了 ... 清華大學氣候變化與可持續發展研究院院長李政表示，這是把用電增長的&nbsp;..."
         },
         {
-          "title": "郭瓊瑩／企業積極推ESG 政府呢？ - 聯合新聞網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7340/9620551&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3-YHiMM2lxcG8H569ZcgKN",
-          "published": "2026-07-10T16:07:42+00:00",
-          "summary": "近來因中東及俄烏戰火、國際貿易關稅、氣候變遷、能源安全等國際局勢緊迫，加以國際氣候條約控制全球升溫、推動各國減碳淨零，乃在歷次ＣＯＰ會議上要求各國企業&nbsp;..."
+          "title": "產能規劃翻倍成長，如何因應全球<b>淨零</b>需求？",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://technews.tw/ai-agent/three-electric-system/20249/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw32oS6OsftE-SCtUnn3ozur",
+          "published": "2026-07-11T18:27:23+00:00",
+          "summary": "隨著AI 產業進入軍備競賽，半導體產能規劃翻倍成長，預估未來五年電力需求將以年增8% 至10% 的速度攀升。為因應全球淨零排放與COP28 提高再生能源裝置量至三倍&nbsp;..."
         }
       ]
     }
