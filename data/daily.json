@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-07-12T04:24:22.854244+00:00",
-    "date": "2026-07-12",
+    "generated_at": "2026-07-13T04:29:32.708703+00:00",
+    "date": "2026-07-13",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,10 +12,28 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "【AI 時代的曝光成效衡量】14 倍長期價值遭財報低估，CMO 需打破「最後點擊」盲點找回獲利",
-          "link": "https://techorange.com/2026/07/11/ads-measurement-in-the-ai-era/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-10T22:29:00+00:00",
-          "summary": "董事會與經營層在審視行銷預算時常面臨一個痛點：大家知道預算花出去了，但到底帶回多少實質收益？如果只看報表上的「最後點擊」來發放獎金或分配預算，很容易漏算那些在前期默默幫企業「創造需求」的行銷投資。這不僅是報表誤差，更會影響管理層的資本配置判斷。 Google 發佈的《The Science of Demand: Ads measurement in the AI Era（需求科學：人工智慧時代的曝"
+          "title": "【裝了就拔不掉】AI 監控合約讓美城市進退兩難，Flock Safety 與它製造的監控困局",
+          "link": "https://techorange.com/2026/07/13/flock-cameras/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-13T02:46:55+00:00",
+          "summary": "在美國，一套 AI 監控基礎設施正以快於公眾察覺的速度蔓延，這套系統的核心產品叫做自動車牌辨識系統（ALPR），由 Flock Safety 公司生產，通常安裝在道路旁，記錄所有經過車輛的影像與行蹤。 全美目前已安裝逾 10 萬台，絕大多數來自 Flock。但這個數字背後，卻是資安漏洞、執法人員濫用、讓無辜市民收到傳票的 AI 誤判，以及一套讓城市幾乎無法退出的合約機制。 能力遠超「車牌辨識」 外"
+        },
+        {
+          "title": "56% 英美消費者已讓 AI 幫忙篩品牌、擋廣告，忠誠度計畫該如何重寫？",
+          "link": "https://techorange.com/2026/07/13/ai-loyalty-preference-economy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-13T01:53:37+00:00",
+          "summary": "生成式 AI 快速滲透消費者的日常決策流程，也開始改變品牌建立忠誠度的方式。顧問公司 Gale 最新發布的《The Preference Economy》報告指出，當大型語言模型（LLM）逐漸成為消費者搜尋、比較與購買商品的入口，品牌與消費者之間的關係正被 AI 重新定義。 過去仰賴點數累積、會員折扣與優惠券維繫顧客的忠誠度策略，正面臨前所未有的挑戰。未來真正決定品牌能否被消費者看見的，可能不是廣"
+        },
+        {
+          "title": "同時服務人類與 AI 的網站才能生存，WordPress VIP 技術長解析品牌下一步",
+          "link": "https://techorange.com/2026/07/13/serve-human-ai-agent-geo-seo-wordpress/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-13T01:35:58+00:00",
+          "summary": "WordPress VIP 技術長 Brian Alvey 表示，對於 AI 代理而言若網站內容難以解析，那麼網站實際上將直接隱形，而能夠同時服務人類與 AI 代理的企業，才能於未來生存下來。"
+        },
+        {
+          "title": "【科技早餐】AI 基建從缺貨走向自研：SK 海力士示警 2027 最缺，Meta 晶片交台積電",
+          "link": "https://techorange.com/2026/07/13/ai-infrastructure-memory-shortage-meta-tsmc-chip/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-12T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 9 則國內外重要科技新聞。 ＊SK 海力士赴美募資 265 億美元，示警 2027 年記憶體最缺貨 韓國記憶體大廠 SK 海力士（SK Hynix）正式登上美國那斯達克（Nasdaq），這次發行的美國存託憑證每股定價 149 美元，共募集約 265 億美元，超越阿里巴巴，創下外國企業赴美股票發行最大規模紀錄。這次發行獲得超過七倍認購，顯示市場仍看好 AI 帶動的記憶體需求。 "
         }
       ]
     },
@@ -24,40 +42,22 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "AI律師勝訴了！「機器人律師」成功在英國法庭贏得訴訟，法律人飯碗會被端走嗎？",
-          "link": "https://www.gvm.com.tw/article/131465",
-          "published": "2026-07-11T16:00:00",
-          "summary": "近年生成式 AI 文字處理力爆發，全球法律界掀起寧靜革命。兩年來 AI 在法律領域的作用多停在後台協助律師做資料檢索、合約審查等瑣碎工作，然而，5 月英國旺茲沃思郡法院（Wandsworth County Court），徹底將法律科技推向歷史性新紀元。Garfield AI法律事務所成功協助一名自由工作者用AI起草法律函件與庭審材料，在英格蘭法院贏得訴訟，幫當事人追回高達7,000英鎊欠款。這個案"
-        },
-        {
-          "title": "巴威颱風何時走？全台1.4萬人撤離，北台雨勢這時緩解",
-          "link": "https://www.gvm.com.tw/article/131484",
-          "published": "2026-07-11T16:00:00",
-          "summary": "巴威颱風到底什麼時候走？移動比預期緩慢，讓台灣多個縣市連放兩天假的巴威，目前已經在各地帶來不少災情，其中不少為路樹災情，所幸目前未傳出重大傷亡案件。不過有潰堤隱憂的花蓮萬里溪堰塞湖現況如何？雨量累積最高的縣市？預計未來路徑？一次看懂。中颱巴威直襲北台灣，多個縣市嚴加戒備，連放兩天假。根據氣象署今（11）日上午的資訊，巴威的中心目前位於台北東北海面，暴風圈已籠罩北部、東部地區，並帶來強風豪雨，在各地"
-        },
-        {
-          "title": "漲了想追，跌了想殺？投資專家：不如從「被動等待」轉向「主動規劃」",
-          "link": "https://www.gvm.com.tw/article/131410",
-          "published": "2026-07-11T14:40:00",
-          "summary": "技術分析並沒有失效，而是市場早已改變。如果還停留在傳統看線圖、等突破、追訊號的操作方式，往往容易落入假突破與主力洗盤的陷阱。新式型態學結合結構、週期與交易規劃，從動態思維重新解讀市場，協助投資人提早掌握高勝率進場時機，建立更有紀律的交易策略。（本文節錄自《新式型態學2.0全方位實戰獲利系統》一書，作者：莎拉（Sara Wang）／商周出版，以下為摘文。）從傳統技術分析進化到新式型態學，可分為4大核"
-        },
-        {
-          "title": "致癌油衝擊食安！醫示警：日抽一包菸等同於吃進「50克苯駢芘」直攻人體器官",
-          "link": "https://www.gvm.com.tw/article/131464",
-          "published": "2026-07-11T11:00:00",
-          "summary": "苯駢芘問題油引熱議，台灣拒菸聯盟今天提醒，若民眾如此恐懼問題油，就不能忽視一個事實，就是1天1包菸相當於吃進50克問題油，甚至吸入的苯駢芘會繞過肝臟解毒防線，直攻肺部。中聯油脂大豆沙拉油致癌物「苯駢芘（BaP）」檢驗超標，疑慮油品流向全台，引起社會震驚與恐慌，苯駢芘是多環芳香烴的一種，主要來自高溫與不完全燃燒，也是國際公認的人類致癌物。董氏基金會菸害防制中心主任林清麗今天透過新聞表示，在較接近重度"
-        },
-        {
-          "title": "巴威颱風動態》7/12停班停課？北北基桃竹一次看",
-          "link": "https://www.gvm.com.tw/article/131370",
-          "published": "2026-07-11T10:53:00",
-          "summary": "7/11 20:00編按更新：根據各縣市公告，週日12日台北、新北，基隆，桃園正常上班上課。新竹縣市除了尖石鄉與五峰鄉停班停課外，也維持正常上班上課。巴威颱風週六發威，全台20縣市停班停課，台北捷運文湖線停駛，市府並且指出本日暫停收運垃圾，嚴防颱風中。12日會繼續放颱風假嗎？目前預估有10縣市達標，但仍需依照各縣市最終放假公告為準，將持續更新。中央氣象署提醒，今晚開始到明天整天都將是颱風影響最明顯"
+          "title": "2026FIFA世界盃》世足賽4強名單正式出爐！大力神盃冠軍就在其中，各國戰力一次看！",
+          "link": "https://www.gvm.com.tw/article/131489",
+          "published": "2026-07-12T11:46:00",
+          "summary": "隨著2026世界盃足球賽進入最終，全球球迷的目光，也逐漸聚焦在一支支成功挺進淘汰賽的勁旅身上。從32強到16強，現在進入到8強、以及最終4強，究竟，哪支球隊能挺進到最後呢？賽程資訊：2026FIFA世界盃》世界盃足球賽賽程資訊全攻略、世足賽32強名單正式出爐、世足賽16強名單正式出爐、世足賽8強名單正式出爐、世足賽4強名單正式出爐 隨著8強賽正式落幕，2026世界盃足球賽也進入最關鍵、最令人屏息的"
         },
         {
           "title": "2026FIFA世界盃》世界盃足球賽賽程資訊全攻略！參賽國家、分組名單、比賽賽制、各組賽程、轉播資訊一次看",
           "link": "https://www.gvm.com.tw/article/129431",
-          "published": "2026-07-11T05:27:00",
+          "published": "2026-07-12T07:49:00",
           "summary": "全世界球迷們最期待的2026世界盃足球賽，於6月11日至7月19日，在美國、加拿大、墨西哥舉行，本屆參賽隊伍首次從以往的32支，擴大到48支隊伍參賽，規模是史上最大。今年你看好哪隊能奪冠呢？精華：台灣為什麼踢不進世足、足球為什麼如此受歡迎、世足賽必看10大亮點、世足賽10個必懂足球規則懶人包、世足賽32強名單正式出爐、世足賽16強名單正式出爐、世足賽8強名單正式出爐、世足賽4強名單正式出爐2026"
+        },
+        {
+          "title": "失智症與腸道菌相關！陽明交大重磅研究揪出 59種關鍵「護腦」益生菌",
+          "link": "https://www.gvm.com.tw/article/131466",
+          "published": "2026-07-12T07:00:00",
+          "summary": "腸道細菌與肥胖、心血管等多種慢性病息息相關，如今科學家發現延伸到大腦，陽明交大透過分析 439 位長者的糞便樣本、阿茲海默症生物標記與大腦影像，發現腸道內擁有較多次世代益生菌「嗜黏蛋白阿克曼菌」（Akkermansia muciniphila，Akk 菌），大腦中的類澱粉蛋白沉積較少。最新刊登在《Alzheimer’s Research &amp; Therapy》的研究發現，腸道內擁有較多次世代"
         }
       ]
     },
@@ -66,40 +66,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "明德水庫畔的綠色奇蹟2-2》公廁變身發電廠！明德社區走向<b>淨零</b>未來 - 自由時報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.ltn.com.tw/news/life/breakingnews/5502089&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3F0xrEct4_Fkns_dzgeONY",
-          "published": "2026-07-12T03:16:18+00:00",
-          "summary": "明德社區與工業技術研究院合作，在社區活動中心男廁設置「尿液微生物燃料電池系統」。該系統利用厭氧微生物分解尿液中的有機物產生電位差，轉化為電能，再透過行動&nbsp;..."
+          "title": "桃園環保局「生活涼感配方」特展讓<b>淨零</b>生活走進日常 - 台灣大紀元",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.epochtimes.com.tw/n508086/%25E6%25A1%2583%25E5%259C%2592%25E7%2592%25B0%25E4%25BF%259D%25E5%25B1%2580%25E7%2594%259F%25E6%25B4%25BB%25E6%25B6%25BC%25E6%2584%259F%25E9%2585%258D%25E6%2596%25B9%25E7%2589%25B9%25E5%25B1%2595---%25E8%25AE%2593%25E6%25B7%25A8%25E9%259B%25B6%25E7%2594%259F%25E6%25B4%25BB%25E8%25B5%25B0%25E9%2580%25B2%25E6%2597%25A5%25E5%25B8%25B8.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2x0e89Qd3y1PH2ow7QyK2e",
+          "published": "2026-07-13T03:18:13+00:00",
+          "summary": "因應全球暖化及極端高溫帶來的挑戰，桃園市環保局持續推動氣候調適與淨零轉型工作，不僅從城市治理著手，更希望將氣候調適理念融."
         },
         {
-          "title": "澳大教授參與氣候文件修訂 - 澳門日報電子版",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.macaodaily.com/html/2026-07/12/content_1920480.htm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3axbSCYBvkgs4hCpcsOYlR",
-          "published": "2026-07-12T01:45:28+00:00",
-          "summary": "澳大教授參與氣候文件修訂. 美國供暖製冷及空調工程師學會(ASHRAE)理事會日前批准通過最新版本《氣候變化立場文件》。澳門大學土木及環境工程系助理教授&nbsp;..."
+          "title": "史上最熱6月！歐洲熱浪釀「逾萬人超額死亡」 歐洲之星急訂耐高溫列車 - 鏡報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.mirrordaily.news/story/72782&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0U9VbezIOb340OJ5CcP2HF",
+          "published": "2026-07-13T03:06:09+00:00",
+          "summary": "魏君程 &middot; 全球暖化 &middot; 氣候變遷 &middot; 歐洲熱浪 &middot; 超額死亡. 歐洲熱浪來襲，世界氣象組織（WMO）引述歐洲哥白尼氣候變遷服務（C3S）最新月報指出，2026年6月是西歐有紀錄&nbsp;..."
         },
         {
-          "title": "陸部署碳達峰行動減碳攻堅2030年前進入關鍵期 - 翻爆",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://turnnewsapp.com/livenews/chinav3/20260711002826-260409&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0i0KMgsLm20vtXozbNWs8l",
-          "published": "2026-07-12T01:23:56+00:00",
-          "summary": "... 碳中和奠定堅實基礎。 當前，大陸建成全球最大的可再生能源體系，構建全球最 ... 北京清華大學氣候變化與可持續發展研究院院長李政表示，這是把用電&nbsp;..."
+          "title": "輔英科大USR夏令營結合無人機足球與<b>淨零</b>教育 - Yahoo新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E8%25BC%2594%25E8%258B%25B1%25E7%25A7%2591%25E5%25A4%25A7usr%25E5%25A4%258F%25E4%25BB%25A4%25E7%2587%259F%25E7%25B5%2590%25E5%2590%2588%25E7%2584%25A1%25E4%25BA%25BA%25E6%25A9%259F%25E8%25B6%25B3%25E7%2590%2583%25E8%2588%2587%25E6%25B7%25A8%25E9%259B%25B6%25E6%2595%2599%25E8%2582%25B2-023856343.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2MiAjA6aieBI8aZg5kV2fg",
+          "published": "2026-07-13T02:59:21+00:00",
+          "summary": "林院長表示，淨零碳排團康活動是將都市熱島的概念及SDGs永續發展目標設計成互動遊戲，引領學生在寓教於樂中，理解氣候變遷與淨零排放的重要性，並學習如何從&nbsp;..."
         },
         {
-          "title": "邁向2050<b>淨零</b>碳排目標！智慧移動產業協會發起討論望助產業轉型 - 三立新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.setn.com/news/1485705&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2PSTLpZW9X6-uky-KyjaOG",
-          "published": "2026-07-12T00:11:51+00:00",
-          "summary": "全球朝向2050淨零碳排目標前進，緊追國際趨勢，臺灣智慧移動產業協會集結產官學各界專家一起討論機車產業的未來，以及電車產業轉型的願景。"
+          "title": "2026下半年ESG最大挑戰：超級聖嬰＋<b>氣候變遷</b>帶來的「熱」！聯合國古特雷斯 - CSR@天下",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://csr.cw.com.tw/article/44752&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1l8EO29E0pOVT4BgLnPRiD",
+          "published": "2026-07-13T02:59:02+00:00",
+          "summary": "巴威颱風走後，台北市的內湖高工測得39.4°C的高溫。這麼熱的原因，除了氣候變遷造成的全球暖化，還有2026年可預期的「超級聖嬰現象」。「熱」，已成為2026夏季最&nbsp;..."
         },
         {
-          "title": "碳達峰進入攻堅期內地部署未來五年行動方案 - 華僑報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.vakiodaily.com/news/view/id/705354&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3C31U9KmmEERK1VcCY9c9v",
-          "published": "2026-07-11T19:27:16+00:00",
-          "summary": "... 碳中和奠定堅實基礎。 當前，中國建成了全球最大的可再生能源體系，構建了 ... 清華大學氣候變化與可持續發展研究院院長李政表示，這是把用電增長的&nbsp;..."
+          "title": "AI 平台與儲能如何優化綠電調度價值？ - TechNews 科技新報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://technews.tw/ai-agent/offshore-wind-become-one-of-the-green-power/19659/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1Nmh061NBbF0_LGApo5JHc",
+          "published": "2026-07-13T02:25:15+00:00",
+          "summary": "隨著再生能源滲透率提升，AI 平台與儲能系統正從單純的硬體設施轉向「智慧調度中心」。目前市場主流技術透過AI 演算法進行高精度的氣象預測與負載模擬，&nbsp;..."
         },
         {
-          "title": "產能規劃翻倍成長，如何因應全球<b>淨零</b>需求？",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://technews.tw/ai-agent/three-electric-system/20249/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw32oS6OsftE-SCtUnn3ozur",
-          "published": "2026-07-11T18:27:23+00:00",
-          "summary": "隨著AI 產業進入軍備競賽，半導體產能規劃翻倍成長，預估未來五年電力需求將以年增8% 至10% 的速度攀升。為因應全球淨零排放與COP28 提高再生能源裝置量至三倍&nbsp;..."
+          "title": "醫療永續走向供應鏈治理：共同治理成為轉型關鍵",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://csrone.com/topics/10016&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0DkiOy56GBaac6a61j3qKX",
+          "published": "2026-07-13T02:07:43+00:00",
+          "summary": "隨著淨零轉型與永續規範持續深化，醫院評估供應商時，除了品質、病人安全、價格及供貨穩定性，也開始將碳管理能力、資訊透明度與永續治理能力納入合作的重要條件。"
         }
       ]
     }
