@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-07-13T04:29:32.708703+00:00",
-    "date": "2026-07-13",
+    "generated_at": "2026-07-14T03:56:17.473298+00:00",
+    "date": "2026-07-14",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,28 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "【裝了就拔不掉】AI 監控合約讓美城市進退兩難，Flock Safety 與它製造的監控困局",
-          "link": "https://techorange.com/2026/07/13/flock-cameras/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-13T02:46:55+00:00",
-          "summary": "在美國，一套 AI 監控基礎設施正以快於公眾察覺的速度蔓延，這套系統的核心產品叫做自動車牌辨識系統（ALPR），由 Flock Safety 公司生產，通常安裝在道路旁，記錄所有經過車輛的影像與行蹤。 全美目前已安裝逾 10 萬台，絕大多數來自 Flock。但這個數字背後，卻是資安漏洞、執法人員濫用、讓無辜市民收到傳票的 AI 誤判，以及一套讓城市幾乎無法退出的合約機制。 能力遠超「車牌辨識」 外"
+          "title": "Harness Engineering 為何是 AI 軟體交付護城河？因為模型只會越來越可替換",
+          "link": "https://techorange.com/2026/07/14/harness-engineering-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-14T02:46:18+00:00",
+          "summary": "AI 已經能大量寫程式，但真正該解的問題正在改變。當 Claude Code、Codex 這類 AI 寫程式代理快速普及，軟體團隊很快發現一件事：讓代理產出更多程式碼，並不等於交付更好的軟體。OpenAI 一支內部團隊曾以 Codex 在 5 個月內寫出約 100 萬行、全程無人手寫的產品，這類案例說明 AI 會不會寫程式已不再是重點，接下來要解的，是怎麼讓它在真實、大型的專案裡穩定、安全又可重複"
         },
         {
-          "title": "56% 英美消費者已讓 AI 幫忙篩品牌、擋廣告，忠誠度計畫該如何重寫？",
-          "link": "https://techorange.com/2026/07/13/ai-loyalty-preference-economy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-13T01:53:37+00:00",
-          "summary": "生成式 AI 快速滲透消費者的日常決策流程，也開始改變品牌建立忠誠度的方式。顧問公司 Gale 最新發布的《The Preference Economy》報告指出，當大型語言模型（LLM）逐漸成為消費者搜尋、比較與購買商品的入口，品牌與消費者之間的關係正被 AI 重新定義。 過去仰賴點數累積、會員折扣與優惠券維繫顧客的忠誠度策略，正面臨前所未有的挑戰。未來真正決定品牌能否被消費者看見的，可能不是廣"
+          "title": "全球半導體信心創 21 年來第三高，企業為何依然焦慮？KPMG 揭三大韌性考驗",
+          "link": "https://techorange.com/2026/07/14/kpmg-semiconductor-report-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-14T02:26:05+00:00",
+          "summary": "專訪：沈貝怡撰稿：李昀蔚 AI 帶動的半導體景氣，究竟是真金白銀，還是資金炒作的泡沫？KPMG 最新發布的《2026 全球半導體產業大調查》顯示，產業信心指數升至 63 分，創 21 年來第三高紀錄，有 73% 的企業認為 AI 已成為主要營收來源，並預估 2026 年全球半導體市場規模將突破一兆美元。 然而，在需求快速成長的同時，企業也面臨原料與能源供應、跨國營運及人才短缺等壓力。本集《全新一週"
         },
         {
-          "title": "同時服務人類與 AI 的網站才能生存，WordPress VIP 技術長解析品牌下一步",
-          "link": "https://techorange.com/2026/07/13/serve-human-ai-agent-geo-seo-wordpress/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-13T01:35:58+00:00",
-          "summary": "WordPress VIP 技術長 Brian Alvey 表示，對於 AI 代理而言若網站內容難以解析，那麼網站實際上將直接隱形，而能夠同時服務人類與 AI 代理的企業，才能於未來生存下來。"
+          "title": "【GeoAI 電網革命】電力需求快速成長、電網設計跟不上，GeoAI 成智慧調度新解",
+          "link": "https://techorange.com/2026/07/14/ai-geoai-electricity-delivery-revolution/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-14T01:27:46+00:00",
+          "summary": "現代電網的設計與規劃，其實無法應對劇烈的電力傳輸波動，而單純增加發電量的傳統方式也已遠遠不夠，此時地理人工智慧（GeoAI）或許可以成為有效解決方案。"
         },
         {
-          "title": "【科技早餐】AI 基建從缺貨走向自研：SK 海力士示警 2027 最缺，Meta 晶片交台積電",
-          "link": "https://techorange.com/2026/07/13/ai-infrastructure-memory-shortage-meta-tsmc-chip/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-12T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 9 則國內外重要科技新聞。 ＊SK 海力士赴美募資 265 億美元，示警 2027 年記憶體最缺貨 韓國記憶體大廠 SK 海力士（SK Hynix）正式登上美國那斯達克（Nasdaq），這次發行的美國存託憑證每股定價 149 美元，共募集約 265 億美元，超越阿里巴巴，創下外國企業赴美股票發行最大規模紀錄。這次發行獲得超過七倍認購，顯示市場仍看好 AI 帶動的記憶體需求。 "
+          "title": "【iPod Shuffle 還在賣？】不推播、不演算、不連網，「慢科技」開始被當最大賣點",
+          "link": "https://techorange.com/2026/07/14/slow-tech-is-fixing-it/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-14T01:27:37+00:00",
+          "summary": "Tony Fadell 走進紐約 28 街地鐵站，迎面撞上一張巨幅廣告推銷 iPod Shuffle，訴求只有四個字：Zero screen time」——Fadell 是 iPod 的設計者之一，看到這張廣告他大吃一驚，不只因為一款他二十多年前做的東西還在賣，更因為站內每個人同時戴著藍牙耳機、盯著手機串流音樂，那張海報像是在對一個已經不存在的問題開藥方。 但那張廣告顯然有市場。廣告出自二手科技平"
+        },
+        {
+          "title": "【科技早餐】AI 擴張進入資源戰：川普重押 Intel、台積電營收創高、資料中心搶土地水電",
+          "link": "https://techorange.com/2026/07/14/ai-resource-race-intel-tsmc-data-centers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-13T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊川普重押 Intel，先進封裝成追趕台積電突破口 《華爾街日報》最新揭露，美國總統川普政府把振興 Intel 視為半導體戰略要務，不只將原本約 90 億美元的聯邦補助轉換為接近 10% 的公司股權，也積極協助 Intel 爭取 Apple、NVIDIA 與 SpaceX 等大型客戶，希望擴大美國本土晶片製造能力。消息人士指出，Apple 計畫將部"
+        },
+        {
+          "title": "AI 打敗 60/40？摩根大通測試 AI Agent 挑戰華爾街最經典投資策略",
+          "link": "https://techorange.com/2026/07/13/jpmorgan-ai-agents-beat-60-40-model-in-backtests/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-13T09:37:50+00:00",
+          "summary": "「60/40」股六債四，是全球投資人沿用數十年的經典資產配置，如今摩根大通（JPMorgan）首度公開揭露一項測試結果：讓 AI Agent 自己判讀市場、自主調整股債比例，並在過去 20 年的回測中，繳出勝過傳統 60/40 組合的成績。不過，率先端出這份成果的摩根大通，卻同時對外提醒：先別急著把這當成 AI 已能穩定打敗市場的證據。 之所以有人想挑戰這個老基準，和它近年的處境有關。60/40 "
         }
       ]
     },
@@ -42,22 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "2026FIFA世界盃》世足賽4強名單正式出爐！大力神盃冠軍就在其中，各國戰力一次看！",
-          "link": "https://www.gvm.com.tw/article/131489",
-          "published": "2026-07-12T11:46:00",
-          "summary": "隨著2026世界盃足球賽進入最終，全球球迷的目光，也逐漸聚焦在一支支成功挺進淘汰賽的勁旅身上。從32強到16強，現在進入到8強、以及最終4強，究竟，哪支球隊能挺進到最後呢？賽程資訊：2026FIFA世界盃》世界盃足球賽賽程資訊全攻略、世足賽32強名單正式出爐、世足賽16強名單正式出爐、世足賽8強名單正式出爐、世足賽4強名單正式出爐 隨著8強賽正式落幕，2026世界盃足球賽也進入最關鍵、最令人屏息的"
+          "title": "凝聚百年的家族智慧！解碼「無形財富」雙邊治理，臺灣企業主傳承交棒的三大關鍵策略",
+          "link": "https://www.gvm.com.tw/article/131426",
+          "published": "2026-07-13T21:00:00",
+          "summary": "臺灣大繼承潮來臨，高資產家族傳承的現實卻有殘酷現實：華人上市家族企業在世代交替期間，企業價值平均縮水高達六成。有鑑於此，中國信託銀行攜手政治大學成立「家族辦公室研究智庫」，發布首份《家族企業的家族治理》報告。本文將深入解構報告精髓，引領企業主跳脫股權分產的舊思維，透過「育人」核心、公私分明的雙邊規劃與動態實踐的家族憲章，將交棒難題轉化為百年家業長青的永續路徑。&nbsp;傳承魔咒，數字會說話！香港"
         },
         {
-          "title": "2026FIFA世界盃》世界盃足球賽賽程資訊全攻略！參賽國家、分組名單、比賽賽制、各組賽程、轉播資訊一次看",
-          "link": "https://www.gvm.com.tw/article/129431",
-          "published": "2026-07-12T07:49:00",
-          "summary": "全世界球迷們最期待的2026世界盃足球賽，於6月11日至7月19日，在美國、加拿大、墨西哥舉行，本屆參賽隊伍首次從以往的32支，擴大到48支隊伍參賽，規模是史上最大。今年你看好哪隊能奪冠呢？精華：台灣為什麼踢不進世足、足球為什麼如此受歡迎、世足賽必看10大亮點、世足賽10個必懂足球規則懶人包、世足賽32強名單正式出爐、世足賽16強名單正式出爐、世足賽8強名單正式出爐、世足賽4強名單正式出爐2026"
+          "title": "決策總卡關？四大常見錯誤一次破解",
+          "link": "https://www.gvm.com.tw/article/131521",
+          "published": "2026-07-13T18:36:00",
+          "summary": "決策效率低落，往往不是能力不足，而是角色分工與流程設計失靈。本文解析企業最常見的四大決策錯誤，並分享建立清晰權責與高效協作的方法，提升團隊執行力。一家全球醫療科技公司討論是否增設「創新長」職位時，12位高階主管全數參與決策會議，最終卻因權力角力爭論90分鐘，沒有任何結論。其實，公司原本已規劃好決策流程：由執行長拍板，營運長、人資長及兩位事業單位主管提供關鍵意見，其餘主管負責提供資訊或執行。然而，實"
         },
         {
-          "title": "失智症與腸道菌相關！陽明交大重磅研究揪出 59種關鍵「護腦」益生菌",
-          "link": "https://www.gvm.com.tw/article/131466",
-          "published": "2026-07-12T07:00:00",
-          "summary": "腸道細菌與肥胖、心血管等多種慢性病息息相關，如今科學家發現延伸到大腦，陽明交大透過分析 439 位長者的糞便樣本、阿茲海默症生物標記與大腦影像，發現腸道內擁有較多次世代益生菌「嗜黏蛋白阿克曼菌」（Akkermansia muciniphila，Akk 菌），大腦中的類澱粉蛋白沉積較少。最新刊登在《Alzheimer’s Research &amp; Therapy》的研究發現，腸道內擁有較多次世代"
+          "title": "中信銀500坪高雄亞灣旗艦分行開幕！高資產客戶、家族辦公室成主力",
+          "link": "https://www.gvm.com.tw/article/131520",
+          "published": "2026-07-13T18:25:00",
+          "summary": "響應政府推動亞洲資產管理中心政策，中國信託銀行位在高雄承億酒店內的亞灣分行、也是第159家分行今（13）日正式開幕。中信銀董事長陳佳文表示，亞灣分行將成為中國信託布局南台灣高資產財富管理的重要基地，而這也是對亞資政策的具體回應。現場見證分行開幕的高雄市長陳其邁則直言「高雄一年一小變、三年一大變」，正加速蛻變為金融與AI產業重鎮。響應政府推動亞洲資產管理中心政策，中國信託銀行今（13）日正式舉辦第1"
+        },
+        {
+          "title": "「護國神山不只是晶圓廠，更是每間教室」台師大出招解數理教師荒",
+          "link": "https://www.gvm.com.tw/article/131519",
+          "published": "2026-07-13T18:16:00",
+          "summary": "近期一所北市明星國中傳出缺七名理化老師引起討論，其實台灣近年數理教師荒尤其嚴重，為了緩解缺師問題，身為台灣大專校院師培龍頭的台灣師範大學於2026年暑假宣布啟動「STEM領域師資培育碩士公費專班」，祭出免學雜費、每月生活津貼以及畢業保障教職等誘因，強力號召具備科技與產業實務經驗的數理人才投入中學科學教育。台師大理學院院長陳界山也感性呼籲，「真正的護國神山，不只是晶圓廠，而是每一間教室！」這些有產業"
+        },
+        {
+          "title": "容許孩子發呆與無聊！兒童教育專家：兒時懂等待，長大後更自律",
+          "link": "https://www.gvm.com.tw/article/131518",
+          "published": "2026-07-13T17:42:00",
+          "summary": "在幼兒時期就養成等待習慣的孩子，長大後通常擁有更好的衝動控制能力與自制力。當我們的日常逐漸被螢幕的快速回饋所占滿，血清素便幾乎失去介入的空間。大腦愈是反覆暴露其中，就愈少啟動能延遲滿足的迴路；而長期不被使用的能力，終將逐漸退化。結果不只孩子，就連大人也養成一顆不懂得等待的大腦。（本文節錄自《智慧型手機拆散的家庭關係》一書，作者：李恩京／任性出版，以下為摘文。）容許孩子發呆，什麼都不做也很好即使只是"
+        },
+        {
+          "title": "分科測驗首見「AI眼鏡」作弊！考試時眼鏡發燙有玄機，抓得到嗎？",
+          "link": "https://www.gvm.com.tw/article/131390",
+          "published": "2026-07-13T16:20:00",
+          "summary": "在重視考試成績與升學、就業壓力的全球環境下，學生為了獲取高分，正逐漸將作弊工具升級為AI智慧眼鏡與生成式AI程式，國內外都出現類似情事，例如今（13）日舉行的分科測驗第一天，今年大考中心首度規定，試務人員必要時可對考生進行金屬探測，結果在上午物理考試時，有一名考生使用AI眼鏡考試被試務人員發現，也是分科測驗使用AI眼鏡作弊的首例。例如台大醫學院，在115學年的大學申請入學第二階段甄試時就發現有人使"
         }
       ]
     },
@@ -66,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "桃園環保局「生活涼感配方」特展讓<b>淨零</b>生活走進日常 - 台灣大紀元",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.epochtimes.com.tw/n508086/%25E6%25A1%2583%25E5%259C%2592%25E7%2592%25B0%25E4%25BF%259D%25E5%25B1%2580%25E7%2594%259F%25E6%25B4%25BB%25E6%25B6%25BC%25E6%2584%259F%25E9%2585%258D%25E6%2596%25B9%25E7%2589%25B9%25E5%25B1%2595---%25E8%25AE%2593%25E6%25B7%25A8%25E9%259B%25B6%25E7%2594%259F%25E6%25B4%25BB%25E8%25B5%25B0%25E9%2580%25B2%25E6%2597%25A5%25E5%25B8%25B8.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2x0e89Qd3y1PH2ow7QyK2e",
-          "published": "2026-07-13T03:18:13+00:00",
-          "summary": "因應全球暖化及極端高溫帶來的挑戰，桃園市環保局持續推動氣候調適與淨零轉型工作，不僅從城市治理著手，更希望將氣候調適理念融."
+          "title": "活動資訊 - 環境部新聞專區",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/moenv-news/zh-tw/Level/36%3Fqs%3D%25E7%259E%25AD%25E8%25A7%25A3%25E8%2587%25BA%25E7%2581%25A3%25E7%25B6%25A0%25E8%2589%25B2%25E6%2588%2590%25E9%2595%25B7%25E5%259F%25BA%25E9%2587%2591%25EF%25BD%259C%25E5%2585%25AC%25E7%25A7%2581%25E5%258D%2594%25E5%258A%259B%25E5%2595%259F%25E5%258B%2595%25E7%25B6%25A0%25E8%2589%25B2%25E6%258A%2595%25E8%25B3%2587%25E6%2596%25B0%25E6%25A0%25BC%25E5%25B1%2580&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3bd_DwL8Zsx3iZVNutZU38",
+          "published": "2026-07-14T02:54:42+00:00",
+          "summary": "󠀠 「2026 臺灣創投暨私募投資年會－環境部淨零永續專場」，與投資夥伴、綠色企業齊聚一堂，共同探討「臺灣綠色成長基金」的未來推動方向與願景！ 󠀠 ☆ 三大重點一次看&nbsp;..."
         },
         {
-          "title": "史上最熱6月！歐洲熱浪釀「逾萬人超額死亡」 歐洲之星急訂耐高溫列車 - 鏡報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.mirrordaily.news/story/72782&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0U9VbezIOb340OJ5CcP2HF",
-          "published": "2026-07-13T03:06:09+00:00",
-          "summary": "魏君程 &middot; 全球暖化 &middot; 氣候變遷 &middot; 歐洲熱浪 &middot; 超額死亡. 歐洲熱浪來襲，世界氣象組織（WMO）引述歐洲哥白尼氣候變遷服務（C3S）最新月報指出，2026年6月是西歐有紀錄&nbsp;..."
+          "title": "國際最新研究：生物多樣性減少會導緻亞馬孫文化知識損失 - 华侨网",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.chinesepress.com/archives/181557&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3q8zAdMDuH-cEKVBC1Ttqu",
+          "published": "2026-07-14T02:07:15+00:00",
+          "summary": "北京7月13日电(记者孙自法)国际学术期刊《自然》最新发表一篇气候研究论文称，气候变化可能导致南美洲亚马孙盆地居民文化中使用的本地植物物种数量减少约1/3&nbsp;..."
         },
         {
-          "title": "輔英科大USR夏令營結合無人機足球與<b>淨零</b>教育 - Yahoo新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E8%25BC%2594%25E8%258B%25B1%25E7%25A7%2591%25E5%25A4%25A7usr%25E5%25A4%258F%25E4%25BB%25A4%25E7%2587%259F%25E7%25B5%2590%25E5%2590%2588%25E7%2584%25A1%25E4%25BA%25BA%25E6%25A9%259F%25E8%25B6%25B3%25E7%2590%2583%25E8%2588%2587%25E6%25B7%25A8%25E9%259B%25B6%25E6%2595%2599%25E8%2582%25B2-023856343.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2MiAjA6aieBI8aZg5kV2fg",
-          "published": "2026-07-13T02:59:21+00:00",
-          "summary": "林院長表示，淨零碳排團康活動是將都市熱島的概念及SDGs永續發展目標設計成互動遊戲，引領學生在寓教於樂中，理解氣候變遷與淨零排放的重要性，並學習如何從&nbsp;..."
+          "title": "感謝龍燁主任深化交流｜臺法綠色夥伴情誼長存 - 環境部新聞專區",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/moenv-news/zh-tw/News/13619&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3BqHrVIBLGB60rwM2dUp3L",
+          "published": "2026-07-14T02:05:52+00:00",
+          "summary": "環境部誠摯感謝，法國在台協會龍燁主任，過去為深化臺法關係所做出的卓越貢獻，致上最崇高的敬意與謝意。 ​過去臺灣與法國在氣候變遷因應、能源轉型及循環經濟&nbsp;..."
         },
         {
-          "title": "2026下半年ESG最大挑戰：超級聖嬰＋<b>氣候變遷</b>帶來的「熱」！聯合國古特雷斯 - CSR@天下",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://csr.cw.com.tw/article/44752&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1l8EO29E0pOVT4BgLnPRiD",
-          "published": "2026-07-13T02:59:02+00:00",
-          "summary": "巴威颱風走後，台北市的內湖高工測得39.4°C的高溫。這麼熱的原因，除了氣候變遷造成的全球暖化，還有2026年可預期的「超級聖嬰現象」。「熱」，已成為2026夏季最&nbsp;..."
+          "title": "國家氣候調適綠蔭倍增計畫暨推動木質資源循環說明會 - 環境部新聞專區",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/moenv-news/zh-tw/Level/36%3Fqs%3D%25E5%259C%258B%25E5%25AE%25B6%25E6%25B0%25A3%25E5%2580%2599%25E8%25AA%25BF%25E9%2581%25A9%25E7%25B6%25A0%25E8%2594%25AD%25E5%2580%258D%25E5%25A2%259E%25E8%25A8%2588%25E7%2595%25AB%25E6%259A%25A8%25E6%258E%25A8%25E5%258B%2595%25E6%259C%25A8%25E8%25B3%25AA%25E8%25B3%2587%25E6%25BA%2590%25E5%25BE%25AA%25E7%2592%25B0%25E8%25AA%25AA%25E6%2598%258E%25E6%259C%2583%25EF%25BD%259C%25E9%25A6%2596%25E5%25A0%25B4%25E5%2598%2589%25E7%25BE%25A9%25E7%2599%25BB%25E5%25A0%25B4&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw12z9JAACY5bp1ZhuT2CMnj",
+          "published": "2026-07-14T02:05:44+00:00",
+          "summary": "氣候變遷, 氣候變遷調適, 環境教育, 環境衛生管理, 推動優質公廁, 毒性及關注化學物質管理, 綠色化學, 環教活動, 大氣環境, 空氣品質資訊, 淨零綠生活, 綠生活&nbsp;..."
         },
         {
-          "title": "AI 平台與儲能如何優化綠電調度價值？ - TechNews 科技新報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://technews.tw/ai-agent/offshore-wind-become-one-of-the-green-power/19659/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1Nmh061NBbF0_LGApo5JHc",
-          "published": "2026-07-13T02:25:15+00:00",
-          "summary": "隨著再生能源滲透率提升，AI 平台與儲能系統正從單純的硬體設施轉向「智慧調度中心」。目前市場主流技術透過AI 演算法進行高精度的氣象預測與負載模擬，&nbsp;..."
+          "title": "碳交所攜農試所推廣土壤碳匯|半導體|產業新聞 - IEK產業情報網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D5%26nsl_id%3D3db97cc0faaf44eb83cb01d7fbfc3ea9&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Dkte4QSG-TG7NKr_ZfoWk",
+          "published": "2026-07-13T22:26:09+00:00",
+          "summary": "... 淨零轉型中極具發展潛力的重要解方。 農試所長王仕賢表示，農試所長期致力於土壤管理 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
         },
         {
-          "title": "醫療永續走向供應鏈治理：共同治理成為轉型關鍵",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://csrone.com/topics/10016&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0DkiOy56GBaac6a61j3qKX",
-          "published": "2026-07-13T02:07:43+00:00",
-          "summary": "隨著淨零轉型與永續規範持續深化，醫院評估供應商時，除了品質、病人安全、價格及供貨穩定性，也開始將碳管理能力、資訊透明度與永續治理能力納入合作的重要條件。"
+          "title": "巴黎協定十周年高市<b>淨零</b>學院辦「台、歐氣候對話」 聚焦城市轉型角色與契機",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://mknews.com.tw/2026/07/969583/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2qI_GnULCHciNOUnSBFC9u",
+          "published": "2026-07-13T22:13:19+00:00",
+          "summary": "高雄淨零學院今(13)日辦理【台灣×歐洲｜永續氣候治理大師對話】，由ICLEI（地方政府永續發展理事會）吉諾•范•比金(Gino Van Begin) 秘書長、行政院能源及減碳辦公室&nbsp;..."
         }
       ]
     }
