@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-07-14T03:56:17.473298+00:00",
-    "date": "2026-07-14",
+    "generated_at": "2026-07-15T03:57:25.642369+00:00",
+    "date": "2026-07-15",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
+          "title": "什麼是「上下文炸彈」？防守方第一次把 AI 提示注入反過來當武器",
+          "link": "https://techorange.com/2026/07/15/ai-context-bomb-prompt-injection/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-15T01:24:04+00:00",
+          "summary": "長期以來，「提示注入（Prompt Injection）」是攻擊者手上最順手的武器之一：把一段惡意指令藏進郵件、文件或程式碼，就可能讓大型語言模型（LLM）背叛它的使用者，外洩機密或執行有害動作。然而，有資安公司最近做了一件反直覺的事，它用一種名為「上下文炸彈（Context Bomb）」的手法，把提示注入反過來當成防禦武器，讓入侵的 AI Agent 一讀到就主動停手。據資安研究者指出，這是已知"
+        },
+        {
+          "title": "【科技早餐】AI 算力擴張擠壓供應鏈，Meta 加碼 5GW、手機出貨創 13 年同期新低",
+          "link": "https://techorange.com/2026/07/15/meta-hyperion-5gw-ai-memory-shortage-smartphone-shipments/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-14T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Meta Hyperion 擴至 5GW，含 AI 晶片總成本估逾 2,500 億美元 Meta 宣布擴建位於美國路易斯安那州的 Hyperion 資料中心，將運算能力從原先超過 2GW，提高至至少 5GW，計畫投資金額也增加到超過 500 億美元。這座園區是 Meta 至今規模最大的資料中心，將用於訓練大型語言模型及其他 AI 系統。Meta "
+        },
+        {
+          "title": "機器人模擬資料不夠逼真？MIT 用 3 個 AI Agent 直接「生」出來",
+          "link": "https://techorange.com/2026/07/14/ai-agents-robots-training-data/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-14T09:39:23+00:00",
+          "summary": "會走路、能後空翻的機器人越來越常見，但要它們走進廚房或客廳幫忙做家事，得先在部署前大量練習。「模擬環境」成了諸多機器人主要的練習場，然而現有的模擬房間多半家具稀疏、擺設單調，機器人在裡面練得再熟，一進到現實仍可能派不上用場。MIT（麻省理工學院）電腦科學與 AI 實驗室（CSAIL）與 Toyota Research Institute（豐田研究院）最新發表的 SceneSmith，就是要縮小這道"
+        },
+        {
+          "title": "企業還沒準備好，AI Agent 卻已進入核心流程：34 位 CEO 示警四大治理難題",
+          "link": "https://techorange.com/2026/07/14/ceo-survey-agentic-ai-promise-fears/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-14T07:46:54+00:00",
+          "summary": "AI 在企業中所扮演的角色，正迎來一場從「生成內容」走向「自主決策與行動」的結構性轉變。《Fast Company》近期訪問 34 位來自醫療、金融、國防、行銷等領域的企業執行長，探討他們對 Agentic AI（代理型 AI）的策略、布局、期待與擔憂。多數受訪執行長認為，企業尚未為這場全面性變革做好準備，但 AI Agent 卻已經加速進入日常營運流程。 KPMG 在 2026 年 6 月進行的"
+        },
+        {
+          "title": "Anthropic、OpenAI「模型蒸餾」爭議延燒，為何燒成 AI 控制權之戰？",
+          "link": "https://techorange.com/2026/07/14/ai-anthropic-openai-distillation-debate/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-14T05:47:06+00:00",
+          "summary": "近期，美國 AI 政策圈一場關於「模型蒸餾（distillation）」的討論，意外讓另一個更大的議題浮上檯面：未來 AI 的競爭，究竟由誰決定規則？蒸餾本身是一道實驗室裡的常見技術：向一個模型丟出大量問題，把問答紀錄蒐集起來，再拿去訓練另一個模型，成本低、效果好，學界與小型開發者長期都在做。它原本毫無爭議，直到指控的對象變成中國公司。 根據《Bloomberg》報導，Anthropic、Open"
+        },
+        {
           "title": "Harness Engineering 為何是 AI 軟體交付護城河？因為模型只會越來越可替換",
           "link": "https://techorange.com/2026/07/14/harness-engineering-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
           "published": "2026-07-14T02:46:18+00:00",
           "summary": "AI 已經能大量寫程式，但真正該解的問題正在改變。當 Claude Code、Codex 這類 AI 寫程式代理快速普及，軟體團隊很快發現一件事：讓代理產出更多程式碼，並不等於交付更好的軟體。OpenAI 一支內部團隊曾以 Codex 在 5 個月內寫出約 100 萬行、全程無人手寫的產品，這類案例說明 AI 會不會寫程式已不再是重點，接下來要解的，是怎麼讓它在真實、大型的專案裡穩定、安全又可重複"
-        },
-        {
-          "title": "全球半導體信心創 21 年來第三高，企業為何依然焦慮？KPMG 揭三大韌性考驗",
-          "link": "https://techorange.com/2026/07/14/kpmg-semiconductor-report-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-14T02:26:05+00:00",
-          "summary": "專訪：沈貝怡撰稿：李昀蔚 AI 帶動的半導體景氣，究竟是真金白銀，還是資金炒作的泡沫？KPMG 最新發布的《2026 全球半導體產業大調查》顯示，產業信心指數升至 63 分，創 21 年來第三高紀錄，有 73% 的企業認為 AI 已成為主要營收來源，並預估 2026 年全球半導體市場規模將突破一兆美元。 然而，在需求快速成長的同時，企業也面臨原料與能源供應、跨國營運及人才短缺等壓力。本集《全新一週"
-        },
-        {
-          "title": "【GeoAI 電網革命】電力需求快速成長、電網設計跟不上，GeoAI 成智慧調度新解",
-          "link": "https://techorange.com/2026/07/14/ai-geoai-electricity-delivery-revolution/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-14T01:27:46+00:00",
-          "summary": "現代電網的設計與規劃，其實無法應對劇烈的電力傳輸波動，而單純增加發電量的傳統方式也已遠遠不夠，此時地理人工智慧（GeoAI）或許可以成為有效解決方案。"
-        },
-        {
-          "title": "【iPod Shuffle 還在賣？】不推播、不演算、不連網，「慢科技」開始被當最大賣點",
-          "link": "https://techorange.com/2026/07/14/slow-tech-is-fixing-it/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-14T01:27:37+00:00",
-          "summary": "Tony Fadell 走進紐約 28 街地鐵站，迎面撞上一張巨幅廣告推銷 iPod Shuffle，訴求只有四個字：Zero screen time」——Fadell 是 iPod 的設計者之一，看到這張廣告他大吃一驚，不只因為一款他二十多年前做的東西還在賣，更因為站內每個人同時戴著藍牙耳機、盯著手機串流音樂，那張海報像是在對一個已經不存在的問題開藥方。 但那張廣告顯然有市場。廣告出自二手科技平"
-        },
-        {
-          "title": "【科技早餐】AI 擴張進入資源戰：川普重押 Intel、台積電營收創高、資料中心搶土地水電",
-          "link": "https://techorange.com/2026/07/14/ai-resource-race-intel-tsmc-data-centers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-13T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊川普重押 Intel，先進封裝成追趕台積電突破口 《華爾街日報》最新揭露，美國總統川普政府把振興 Intel 視為半導體戰略要務，不只將原本約 90 億美元的聯邦補助轉換為接近 10% 的公司股權，也積極協助 Intel 爭取 Apple、NVIDIA 與 SpaceX 等大型客戶，希望擴大美國本土晶片製造能力。消息人士指出，Apple 計畫將部"
-        },
-        {
-          "title": "AI 打敗 60/40？摩根大通測試 AI Agent 挑戰華爾街最經典投資策略",
-          "link": "https://techorange.com/2026/07/13/jpmorgan-ai-agents-beat-60-40-model-in-backtests/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-13T09:37:50+00:00",
-          "summary": "「60/40」股六債四，是全球投資人沿用數十年的經典資產配置，如今摩根大通（JPMorgan）首度公開揭露一項測試結果：讓 AI Agent 自己判讀市場、自主調整股債比例，並在過去 20 年的回測中，繳出勝過傳統 60/40 組合的成績。不過，率先端出這份成果的摩根大通，卻同時對外提醒：先別急著把這當成 AI 已能穩定打敗市場的證據。 之所以有人想挑戰這個老基準，和它近年的處境有關。60/40 "
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "凝聚百年的家族智慧！解碼「無形財富」雙邊治理，臺灣企業主傳承交棒的三大關鍵策略",
-          "link": "https://www.gvm.com.tw/article/131426",
-          "published": "2026-07-13T21:00:00",
-          "summary": "臺灣大繼承潮來臨，高資產家族傳承的現實卻有殘酷現實：華人上市家族企業在世代交替期間，企業價值平均縮水高達六成。有鑑於此，中國信託銀行攜手政治大學成立「家族辦公室研究智庫」，發布首份《家族企業的家族治理》報告。本文將深入解構報告精髓，引領企業主跳脫股權分產的舊思維，透過「育人」核心、公私分明的雙邊規劃與動態實踐的家族憲章，將交棒難題轉化為百年家業長青的永續路徑。&nbsp;傳承魔咒，數字會說話！香港"
+          "title": "銘傳大學邁向70週年　以國際、AI雙軸放大影響力，打造有生命力的大學",
+          "link": "https://www.gvm.com.tw/article/131296",
+          "published": "2026-07-15T00:00:00",
+          "summary": "面對少子化與高教轉型浪潮，銘傳大學堅守「人之兒女，己之兒女」的教育理念，致力打造有溫度的生命力校園。身為全亞洲第一所美國MSCHE認證的私立大學，銘傳更積極佈局全球據點，結合AI科技與國際化的雙軸腳步，展現深耕在地、接軌國際的影響力。走在銘傳大學校園，迎面而來的不僅是青春氣息，更是一幅名副其實的「聯合國」風景。每學期至少有來自50個不同國家的學生在此就讀，國際學生占全校比例達13%，在全台私立大學"
         },
         {
-          "title": "決策總卡關？四大常見錯誤一次破解",
-          "link": "https://www.gvm.com.tw/article/131521",
-          "published": "2026-07-13T18:36:00",
-          "summary": "決策效率低落，往往不是能力不足，而是角色分工與流程設計失靈。本文解析企業最常見的四大決策錯誤，並分享建立清晰權責與高效協作的方法，提升團隊執行力。一家全球醫療科技公司討論是否增設「創新長」職位時，12位高階主管全數參與決策會議，最終卻因權力角力爭論90分鐘，沒有任何結論。其實，公司原本已規劃好決策流程：由執行長拍板，營運長、人資長及兩位事業單位主管提供關鍵意見，其餘主管負責提供資訊或執行。然而，實"
+          "title": "從資產累積到韌性傳承：「保誠人壽｜尊享」，以私銀思維全方位客製化重塑家族財富藍圖",
+          "link": "https://www.gvm.com.tw/article/130658",
+          "published": "2026-07-15T00:00:00",
+          "summary": "隨著台灣高資產族群持續成長、變動成為新常態，層峰人士對財富管理的需求已從「累積資產」邁向「有序傳承」。為此，承襲保誠集團逾175年悠久歷史，保誠人壽亦在台灣深耕逾25年，推出「保誠人壽｜尊享」，以私銀服務思維，量身打造具高度隱私性及客製化專屬服務，陪伴高資產族群在世代更迭中強化資產韌性、確保家族價值穩健延續。&nbsp;對高資產客群來說，財富的真正價值，在於能否在世代更迭時永續守富。然而，由於高資"
         },
         {
-          "title": "中信銀500坪高雄亞灣旗艦分行開幕！高資產客戶、家族辦公室成主力",
-          "link": "https://www.gvm.com.tw/article/131520",
-          "published": "2026-07-13T18:25:00",
-          "summary": "響應政府推動亞洲資產管理中心政策，中國信託銀行位在高雄承億酒店內的亞灣分行、也是第159家分行今（13）日正式開幕。中信銀董事長陳佳文表示，亞灣分行將成為中國信託布局南台灣高資產財富管理的重要基地，而這也是對亞資政策的具體回應。現場見證分行開幕的高雄市長陳其邁則直言「高雄一年一小變、三年一大變」，正加速蛻變為金融與AI產業重鎮。響應政府推動亞洲資產管理中心政策，中國信託銀行今（13）日正式舉辦第1"
+          "title": "英國新首相柏南將上任！面對政經壓力，還要搞定川普，他扛得住嗎？",
+          "link": "https://www.gvm.com.tw/article/131557",
+          "published": "2026-07-14T19:08:00",
+          "summary": "英國工黨議員柏南將接任工黨黨魁，成為英國首位天主教首相。他主張設立「北方唐寧街10號」、推動二戰後最大規模社會住宅建設與權力下放改革，但上任後，也將面對經濟成長疲弱、生活成本危機、國防預算壓力、移民爭議及重建英美關係等重大挑戰。英國（Labour Party）國會議員柏南（Andy Burnham）截至13日，已獲得403名工黨議員中349人的提名支持，將在17日接掌工黨黨魁，預計於20日正式入主"
         },
         {
-          "title": "「護國神山不只是晶圓廠，更是每間教室」台師大出招解數理教師荒",
-          "link": "https://www.gvm.com.tw/article/131519",
-          "published": "2026-07-13T18:16:00",
-          "summary": "近期一所北市明星國中傳出缺七名理化老師引起討論，其實台灣近年數理教師荒尤其嚴重，為了緩解缺師問題，身為台灣大專校院師培龍頭的台灣師範大學於2026年暑假宣布啟動「STEM領域師資培育碩士公費專班」，祭出免學雜費、每月生活津貼以及畢業保障教職等誘因，強力號召具備科技與產業實務經驗的數理人才投入中學科學教育。台師大理學院院長陳界山也感性呼籲，「真正的護國神山，不只是晶圓廠，而是每一間教室！」這些有產業"
+          "title": "世足賽樂高盒組是台灣人設計的！從喜歡樂高到成為樂高官方設計師，他打造許多別出心裁的作品",
+          "link": "https://www.gvm.com.tw/article/131541",
+          "published": "2026-07-14T19:07:00",
+          "summary": "從小沉浸在積木世界的「歐弟」趙子佑，長大後持續投入樂高創作，不僅成為台灣小有名氣的樂高玩家，更憑藉著長年的創作實力，成功加入樂高總部，從一位熱愛拼砌的玩家，蛻變為官方樂高設計師，而世足賽的相關盒組，就是他所設計的。當你打開一盒樂高（LEGO），拼上的不只是積木，更是一段創造力與想像力的旅程。從1932年創立樂高品牌、1949年正式推出塑膠積木以來，樂高已陪伴全球無數人成長，成為跨世代共同的童年回憶"
         },
         {
-          "title": "容許孩子發呆與無聊！兒童教育專家：兒時懂等待，長大後更自律",
-          "link": "https://www.gvm.com.tw/article/131518",
-          "published": "2026-07-13T17:42:00",
-          "summary": "在幼兒時期就養成等待習慣的孩子，長大後通常擁有更好的衝動控制能力與自制力。當我們的日常逐漸被螢幕的快速回饋所占滿，血清素便幾乎失去介入的空間。大腦愈是反覆暴露其中，就愈少啟動能延遲滿足的迴路；而長期不被使用的能力，終將逐漸退化。結果不只孩子，就連大人也養成一顆不懂得等待的大腦。（本文節錄自《智慧型手機拆散的家庭關係》一書，作者：李恩京／任性出版，以下為摘文。）容許孩子發呆，什麼都不做也很好即使只是"
+          "title": "新聞淪為AI飼料？讀者回站不到一成，亞洲媒體的三條出路",
+          "link": "https://www.gvm.com.tw/article/131556",
+          "published": "2026-07-14T18:55:00",
+          "summary": "AI加速改變資訊搜尋與內容分發模式，新聞媒體也面臨新的經營挑戰。當AI Overview與各種AI代理逐漸取代使用者整理資訊，讀者可能在搜尋頁面或聊天機器人中取得答案，不再進入原始新聞網站。像是日本新聞協會的調查就指出，讀者看到AI摘要後，實際造訪原始新聞網站的比例不到一成！亞洲新聞業者應該如何應對？來自日本、印度、菲律賓、印尼與台灣的媒體工作者，開始從對外爭取內容權益、對內重建新聞資產兩條路徑尋"
         },
         {
-          "title": "分科測驗首見「AI眼鏡」作弊！考試時眼鏡發燙有玄機，抓得到嗎？",
-          "link": "https://www.gvm.com.tw/article/131390",
-          "published": "2026-07-13T16:20:00",
-          "summary": "在重視考試成績與升學、就業壓力的全球環境下，學生為了獲取高分，正逐漸將作弊工具升級為AI智慧眼鏡與生成式AI程式，國內外都出現類似情事，例如今（13）日舉行的分科測驗第一天，今年大考中心首度規定，試務人員必要時可對考生進行金屬探測，結果在上午物理考試時，有一名考生使用AI眼鏡考試被試務人員發現，也是分科測驗使用AI眼鏡作弊的首例。例如台大醫學院，在115學年的大學申請入學第二階段甄試時就發現有人使"
+          "title": "藍綠白無人機特別條例，哪一個版本最能幫助產業？",
+          "link": "https://www.gvm.com.tw/article/131555",
+          "published": "2026-07-14T18:45:00",
+          "summary": "近年發生在地球另一端的俄烏戰爭、美伊衝突，翻轉外界對未來戰爭的想像，無人機正躍升新要角，而台灣在地緣政治局勢日趨緊繃的狀況下，朝野也罕見達成共識，有志一同發展無人機產業，紛紛提出自己的無人機發展條例。只是共識雖有，作法卻陷入分歧，不只扶持的經費來源意見不一，連主管機關、國產化等等細節的看法也不盡相同，到底藍綠白三方提出的方案，哪一個才是最能幫助產業的版本？儘管朝野對扶持無人機產業的做法吵破頭，但撇"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "活動資訊 - 環境部新聞專區",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/moenv-news/zh-tw/Level/36%3Fqs%3D%25E7%259E%25AD%25E8%25A7%25A3%25E8%2587%25BA%25E7%2581%25A3%25E7%25B6%25A0%25E8%2589%25B2%25E6%2588%2590%25E9%2595%25B7%25E5%259F%25BA%25E9%2587%2591%25EF%25BD%259C%25E5%2585%25AC%25E7%25A7%2581%25E5%258D%2594%25E5%258A%259B%25E5%2595%259F%25E5%258B%2595%25E7%25B6%25A0%25E8%2589%25B2%25E6%258A%2595%25E8%25B3%2587%25E6%2596%25B0%25E6%25A0%25BC%25E5%25B1%2580&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3bd_DwL8Zsx3iZVNutZU38",
-          "published": "2026-07-14T02:54:42+00:00",
-          "summary": "󠀠 「2026 臺灣創投暨私募投資年會－環境部淨零永續專場」，與投資夥伴、綠色企業齊聚一堂，共同探討「臺灣綠色成長基金」的未來推動方向與願景！ 󠀠 ☆ 三大重點一次看&nbsp;..."
+          "title": "聯手3縣市減碳近2千噸！國發會撒幣助攻<b>淨零</b>單一計畫最高補助500萬| 鉅亨網- 台灣政經",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6535373&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1bA0NtCR-wkbbVCjfGSvc1",
+          "published": "2026-07-15T03:05:30+00:00",
+          "summary": "宜蘭縣政府則採取獨特的在地創生策略，推動原鄉防災微電網與ESG 低碳旅遊，在能源脆弱區進行氣候風險與電網韌性評估，透過培力活動吸引超過200 人次參與。同時輔導&nbsp;..."
         },
         {
-          "title": "國際最新研究：生物多樣性減少會導緻亞馬孫文化知識損失 - 华侨网",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.chinesepress.com/archives/181557&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3q8zAdMDuH-cEKVBC1Ttqu",
-          "published": "2026-07-14T02:07:15+00:00",
-          "summary": "北京7月13日电(记者孙自法)国际学术期刊《自然》最新发表一篇气候研究论文称，气候变化可能导致南美洲亚马孙盆地居民文化中使用的本地植物物种数量减少约1/3&nbsp;..."
+          "title": "海水變暖變鹹「超級生蠔」能否挽救香港百年蠔業？ - 環境資訊中心",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://e-info.org.tw/node/243588&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2vpb6e_Twr0S2HXnKqlLOy",
+          "published": "2026-07-15T02:57:52+00:00",
+          "summary": "香港大學的教授華俊（左）和他的團隊開發了一種更能適應氣候變遷的「超級蠔」。陳國良（右）是與華俊團隊合作的蠔民代表之一。圖片來源：太古海洋科學研究所/香港&nbsp;..."
         },
         {
-          "title": "感謝龍燁主任深化交流｜臺法綠色夥伴情誼長存 - 環境部新聞專區",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/moenv-news/zh-tw/News/13619&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3BqHrVIBLGB60rwM2dUp3L",
-          "published": "2026-07-14T02:05:52+00:00",
-          "summary": "環境部誠摯感謝，法國在台協會龍燁主任，過去為深化臺法關係所做出的卓越貢獻，致上最崇高的敬意與謝意。 ​過去臺灣與法國在氣候變遷因應、能源轉型及循環經濟&nbsp;..."
+          "title": "<b>碳中和</b>ETF銀華：連續30個工作日資產淨值低於5000萬元 - 紫荊網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://bau.com.hk/web/article/1526895352729755649/web/content_1526895352729755649.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3VIla-DeVCUqTHCWUqa0eB",
+          "published": "2026-07-15T02:25:51+00:00",
+          "summary": "天文台在7月15日上午8時50分發出雷暴警告，有效時間至今日正午12時，預料香港有幾陣狂風雷暴。 預料強陣風繼續吹襲香港。如身處室外，請儘快到安全地方躲避。在..."
         },
         {
-          "title": "國家氣候調適綠蔭倍增計畫暨推動木質資源循環說明會 - 環境部新聞專區",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/moenv-news/zh-tw/Level/36%3Fqs%3D%25E5%259C%258B%25E5%25AE%25B6%25E6%25B0%25A3%25E5%2580%2599%25E8%25AA%25BF%25E9%2581%25A9%25E7%25B6%25A0%25E8%2594%25AD%25E5%2580%258D%25E5%25A2%259E%25E8%25A8%2588%25E7%2595%25AB%25E6%259A%25A8%25E6%258E%25A8%25E5%258B%2595%25E6%259C%25A8%25E8%25B3%25AA%25E8%25B3%2587%25E6%25BA%2590%25E5%25BE%25AA%25E7%2592%25B0%25E8%25AA%25AA%25E6%2598%258E%25E6%259C%2583%25EF%25BD%259C%25E9%25A6%2596%25E5%25A0%25B4%25E5%2598%2589%25E7%25BE%25A9%25E7%2599%25BB%25E5%25A0%25B4&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw12z9JAACY5bp1ZhuT2CMnj",
-          "published": "2026-07-14T02:05:44+00:00",
-          "summary": "氣候變遷, 氣候變遷調適, 環境教育, 環境衛生管理, 推動優質公廁, 毒性及關注化學物質管理, 綠色化學, 環教活動, 大氣環境, 空氣品質資訊, 淨零綠生活, 綠生活&nbsp;..."
+          "title": "AI搶不走的專業！iPAS<b>淨零</b>碳證照含金量升級輔英科大開班搶培人才 - 台灣好報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://newstaiwan.net/2026/07/15/459001/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1HBvnt5dFiOJjMZIdCRRHy",
+          "published": "2026-07-15T01:57:08+00:00",
+          "summary": "... 氣候變遷、COP國際氣候治理、臺灣2050淨零排放路徑、ISO 14064-1溫室氣體盤查、ISO 14067產品碳足跡、LCA生命週期評估及歷屆考題解析等，協助學員建立完整&nbsp;..."
         },
         {
-          "title": "碳交所攜農試所推廣土壤碳匯|半導體|產業新聞 - IEK產業情報網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D5%26nsl_id%3D3db97cc0faaf44eb83cb01d7fbfc3ea9&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Dkte4QSG-TG7NKr_ZfoWk",
-          "published": "2026-07-13T22:26:09+00:00",
-          "summary": "... 淨零轉型中極具發展潛力的重要解方。 農試所長王仕賢表示，農試所長期致力於土壤管理 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
+          "title": "環境部推循環雙法，加速資源循環與<b>淨零</b>轉型 - TechNews 科技新報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://technews.tw/2026/07/15/environment-ministry-circular-laws-accelerate-resource-circulation-net-zero-transition/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw22a1KarrVDqcGTHuDhCUoQ",
+          "published": "2026-07-15T01:41:01+00:00",
+          "summary": "環境部資源循環署今（14）日舉辦「循環雙法推動說明會」，說明《資源循環推動法》及《廢棄物清理法》修法方向與未來推動重點，並蒐集產業界、地方政府、公協會及&nbsp;..."
         },
         {
-          "title": "巴黎協定十周年高市<b>淨零</b>學院辦「台、歐氣候對話」 聚焦城市轉型角色與契機",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://mknews.com.tw/2026/07/969583/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2qI_GnULCHciNOUnSBFC9u",
-          "published": "2026-07-13T22:13:19+00:00",
-          "summary": "高雄淨零學院今(13)日辦理【台灣×歐洲｜永續氣候治理大師對話】，由ICLEI（地方政府永續發展理事會）吉諾•范•比金(Gino Van Begin) 秘書長、行政院能源及減碳辦公室&nbsp;..."
+          "title": "永續校園！大葉大學推動<b>淨零</b>教育展現永續實力| 觀傳媒 - LINE TODAY",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/ZaKvx0X&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0HtJ4INLFjh8A2isUmM9qH",
+          "published": "2026-07-15T00:25:25+00:00",
+          "summary": "（觀傳媒彰化新聞）【記者陳雅芳／彰化報導】在全球邁向淨零碳排與永續發展趨勢下，大學不再只是知識傳授場域，更肩負培育永續人才、推動社會轉型的重..."
         }
       ]
     }
