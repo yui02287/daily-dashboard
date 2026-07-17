@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-07-16T04:08:18.792910+00:00",
-    "date": "2026-07-16",
+    "generated_at": "2026-07-17T04:05:41.670977+00:00",
+    "date": "2026-07-17",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "電視不只拿來追劇！三星聯手 Glance 推 AI 語音管家，讓客廳大螢幕變身個人虛擬衣櫥",
-          "link": "https://techorange.com/2026/07/16/samsung-agentic-ai-glance-integration/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-16T03:30:39+00:00",
-          "summary": "過去數十年來，電視購物始終未能真正融入主流消費體驗。《Forbes》報導，早在 1970 年代末期，美國 Warner Cable 曾推出具備雙向互動能力的 QUBE 有線電視系統，希望讓觀眾直接透過電視參與互動，但最終未能成功普及。 如今，隨著生成式 AI 與 AI Agent 技術快速成熟，三星（Samsung）宣布攜手 AI 軟體公司 Glance，在美國數百萬台 Samsung 智慧電視上"
+          "title": "星巴克想自研工具取代微軟、IBM 應用，卻仍離不開 Azure：AI 正在重畫企業軟體價值鏈",
+          "link": "https://techorange.com/2026/07/17/starbucks-just-fired-a-warning-shot-at-microsoft-and-ibm-ai-apps/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-17T02:44:05+00:00",
+          "summary": "過去，星巴克（Starbucks）每年光是軟體採購支出就高達約 4 億美元。為了精簡支出，這家連鎖咖啡巨頭目前正積極利用 AI 協助開發內部工具，準備逐步取代過去向微軟（Microsoft）、IBM 等科技巨頭採購的部分應用程式。 雖然部分自行研發的軟體在通過測試的前提下，最快預計於 2027 年底前正式推出，但星巴克並非要全面與第三方供應商切斷合作。事實上，星巴克仍持續使用包括微軟在內的多款外部"
         },
         {
-          "title": "《虛擬資產服務法》即將上路、AI A2A 時代加速來臨：臺灣金融科技協會、叡揚資訊、Dell、海耶克科技解析金融轉型新路徑",
-          "link": "https://techorange.com/2026/07/16/2026-tech-finance-forum-2/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-16T02:57:37+00:00",
-          "summary": "立法院在 6 月 30 日三讀通過《虛擬資產服務法》，正式將虛擬資產納入監管框架，並打通實體資產與虛擬資產的界線。當台灣金融產業迎來結構重塑的新變革，各金融機構如何藉由 AI 與穩定幣技術建構未來生態基礎設施？TechOrange 科技報橘在近期舉辦「2026 科技金融論壇」，以「從 aGDP 到機器經濟：建構 AI A2A 新金融生態基礎設施」為主題，邀集來自臺灣金融科技協會、叡揚資訊、Dell"
+          "title": "捷豹路虎 JLR 打造「閉環供應鏈」：看數據與循環經濟如何重塑汽車製造韌性",
+          "link": "https://techorange.com/2026/07/17/jlr-closed-loop-supply-chain/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-17T02:21:20+00:00",
+          "summary": "面對電動化與淨零轉型趨勢，汽車產業近年持續探索如何降低製造過程中的碳排放，又隨著原物料價格波動、供應鏈風險升高，「循環經濟（Circular Economy）」逐漸成為另一項關鍵競爭力。 捷豹路虎（JLR）近日公布「Cornerstone」計畫成果，攜手超過 40 家供應鏈夥伴，共同開發出 49 項更具永續性的汽車零組件，希望透過回收材料、可維修設計與閉環供應鏈，提升未來汽車製造的資源效率與供應韌"
         },
         {
-          "title": "Apptronik 啟用「機器人樂園」，用資料工廠模式解決人形機器人訓練瓶頸",
-          "link": "https://techorange.com/2026/07/16/apptronik/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-16T02:33:05+00:00",
-          "summary": "位於美國德州奧斯汀、估值超過 55 億美元的人形機器人新創 Apptronik，最近啟用了一座近九萬平方英尺的「機器人樂園（Robot Park）」。這座樂園一週運轉七天，旗下的 Apollo 機器人在裡頭反覆練習把箱子搬上輸送帶、把玩具分類進不同箱子，操作員則站在一旁遠端遙控、引導並監看它們的每一個動作。 這些訓練畫面看似平凡，卻正是整個人形機器人產業最稀缺、也最關鍵的訓練資源來源。 資料飛輪如"
+          "title": "治好 AI 機器人「下班失憶症」，MIT DAAAM 技術讓機器人記住它去過的每個地方",
+          "link": "https://techorange.com/2026/07/17/ai-robot-memory-mit-daaam/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-17T01:13:36+00:00",
+          "summary": "為了解決 AI 機器人的「下班失憶症」，麻省理工學院（MIT）開發 DAAAM 技術，讓機器人建立 4D 場景圖，並主動替物件附加文字描述提高持久記憶能力，還可應對自然語言提問。"
         },
         {
-          "title": "AI 廣告支出將達 320 億美元，ChatGPT 點擊率最低卻僅 0.91%：為何逾 80% 預算仍留在傳統搜尋廣告？",
-          "link": "https://techorange.com/2026/07/16/ai-ad-spending-will-reach-32-billion-in-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-16T02:12:36+00:00",
-          "summary": "市場研究機構 eMarketer 預估，美國 AI 廣告支出將在 2026 年達到 320.3 億美元，規模接近前一年的三倍，並預計在 2030 年突破 682.5 億美元，顯示 AI 已從行銷規劃中的假設，正式成為品牌不可或缺的一環。 eMarketer 首席分析師 Nate Elliott 對此指出：「在未來五年內，AI 廣告將會成為核心預算項目。」這股浪潮預計會普及到每一個品牌的數位預算中。"
+          "title": "【科技早餐】台積電資本支出衝 640 億美元，AI 熱潮進入高投資、高成本競賽",
+          "link": "https://techorange.com/2026/07/17/tsmc-capex-64b-ai-high-investment-cost-race/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-16T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊台積電全年營收上修逾 40%，資本支出衝 640 億美元 台積電公布 2026 年第二季營收 402 億美元，季增 12%、年增 33.7%；稅後純益達新台幣 7,065.6 億元，季增 23.4%、年增 77.4%，創歷史新高，每股純益 27.25 元。第二季毛利率為 67.7%、營業利益率為 60.3%。公司預估第三季營收將達 446 億至 "
         },
         {
-          "title": "【科技早餐】AI 擴張進入安全與資源關卡：白宮啟動資安機制、H200 出貨中國、紐約暫停資料中心",
-          "link": "https://techorange.com/2026/07/16/ai-security-chip-exports-data-center-pressure/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-15T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊白宮啟動 GOLD EAGLE AI 資安機制，哈薩比斯倡前沿模型送檢 美國白宮啟動名為 GOLD EAGLE 的 AI 資安協調機制，串聯聯邦政府、前沿 AI 業者、開源軟體社群，以及金融、能源和醫療等關鍵基礎設施，加快處理 AI 發現的軟體與系統漏洞。這套機制將協助不同單位共享漏洞資訊，減少重複掃描，並加快漏洞的排序、驗證與修補。隨著先進 A"
+          "title": "模型可以換，能力不能換：Shopify 如何把 AI 變成自己的長期能力？",
+          "link": "https://techorange.com/2026/07/16/shopify-ai-agent-management/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-16T10:30:33+00:00",
+          "summary": "過去兩年，企業導入生成式 AI 最常討論的問題是該選哪一種模型，但當 AI 更新速度越來越快，今天的最佳選擇，可能半年後就被新的模型取代，另一個問題便開始浮現：如果模型終究可以替換，企業真正該長期投資的是什麼？ Shopify 工程副總裁暨 AI 負責人 Farhan Thawar 最近接受《VentureBeat》專訪時，公開分享 Shopify 內部的 AI 架構。整場訪談幾乎沒有討論哪一個模"
         },
         {
-          "title": "OpenAI Codex 負責人來台：下一代 AI 的定義，不再只由模型決定",
-          "link": "https://techorange.com/2026/07/15/aws-summit-taipei-openai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-15T11:00:47+00:00",
-          "summary": "「你不再只是要求 Agent 做事，而是能像委託同事一樣，完全將任務委託給它。」OpenAI 負責 Codex 的產品主管 Rohan Varma，在 AWS Summit Taipei 的主題演講中，用這句話定義了企業 AI 應用的下一個階段。 Rohan Varma 回顧，過去三年 AI 輔助寫程式的方式歷經三次演進。最初是自動補全，開發者仍親自寫程式，模型只建議接下來幾行程式碼。約一年前進入"
+          "title": "Intel 率先把 High-NA EUV 帶進 18A，台積電卻延後導入：曝光成本高 2.5 倍，誰算對了這筆帳？",
+          "link": "https://techorange.com/2026/07/16/asml-raises-full-year-guidance-intel-ships-first-high-na-euv-logic-chip/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-16T09:13:45+00:00",
+          "summary": "荷蘭半導體曝光設備巨頭艾司摩爾（ASML）在 2026 年第二季繳出亮眼成績單：單季淨銷售額高達 93 億歐元，淨利潤達 29 億歐元，毛利率為 54.0%。隨著全球 AI 基礎設施與技術蓬勃發展，先進邏輯與記憶體晶片需求持續上揚，促使晶片製造大廠紛紛加速產能擴張計畫。在這股強勁動能推升下，ASML 也決定將 2026 年全年營收預測大幅上調至 430 億至 450 億歐元。 與此同時，全球半導體"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "外送專法7月21日上路！外送費會變貴嗎？Uber Eats回應了",
-          "link": "https://www.gvm.com.tw/article/131588",
-          "published": "2026-07-15T18:36:00",
-          "summary": "外送專法將於7月21日上路，外送員報酬、保險與接單資訊保障全面升級，但新增成本會不會轉嫁給消費者？Uber Eats坦言尚在觀察，還提出「西雅圖經驗」回應，究竟外送費、餐點價格與訂單量後續如何變化？一文看懂相關討論。立法院今年1月6日三讀通過《外送員權益保障及外送平台管理法》（簡稱外送專法），針對外送員、消費者及合作商家建立專法規範，並將外送平台納入管理，預計7月21日正式施行。外送員報酬、保險及"
+          "title": "不只軍公教調薪！議員助理、村里長補助費7/1調升，116年再增4%",
+          "link": "https://www.gvm.com.tw/article/131616",
+          "published": "2026-07-16T18:46:00",
+          "summary": "內政部今天說，今年7月1日起調增直轄市及縣市議員助理補助費、以及村里長事務補助費，並於民國116年1月1日起，隨軍公教待遇調整再通案調增4%；以直轄市議員為例，每人每月將由現行新台幣32萬元，於今年7月1日調高至33萬6880元，明年元旦再調升至35萬355元。內政部透過新聞稿表示，此舉主要是配合行政院通過軍公教調薪，希望藉此促進議員助理勞動權益，協助議員強化問政量能，也讓基層村里長有更多資源推動"
         },
         {
-          "title": "全球駭客把台灣當試毒場！最新資安攻擊無解藥？",
-          "link": "https://www.gvm.com.tw/article/131579",
-          "published": "2026-07-15T18:30:00",
-          "summary": "台灣不過2300多萬人口，每週網路被攻擊次數達近4000次，高於全球平均值92％，為何僅3萬6000平方公里大的小島，會成為駭客眼中的肥羊？經資安專家深入分析後，答案令人震驚。駭客只要開發出全新惡意程式及攻擊法，都會先拿到台灣實地測試，就像「練蠱」一樣，我們所面對的竟是全球「還沒有解藥」的最新入侵方式。2026年一開春，資安事故頻傳，元月就有10家上市櫃公司公開發布重訊，包括榮成紙業、台產、祥圃、"
+          "title": "2026全台賞荷景點TOP 10！大王蓮體驗、花期、交通祕境一次看",
+          "link": "https://www.gvm.com.tw/article/131614",
+          "published": "2026-07-16T18:30:00",
+          "summary": "每到5月至9月，全台各地的蓮花田陸續綻放，今年的蓮花季同樣熱烈，本文精選全台10大最具人氣的賞荷秘境，從百年古厝、鐵道同框秘境，到網美必拍的「大王蓮」水上漂體驗，這個週末就出發拍美照吧！【目錄】• 荷花、蓮花怎麼分辨？• 全台賞荷景點推薦1｜金山清水濕地• 全台賞荷景點推薦2｜雙溪荷花田• 全台賞荷景點推薦3｜觀音區蓮花園• 全台賞荷景點推薦4｜通霄五南里水塘• 全台賞荷景點推薦5｜清水趙家古厝•"
         },
         {
-          "title": "無事恭維、假合作、借名號？四大職場警訊，代表有人在利用你",
-          "link": "https://www.gvm.com.tw/article/131586",
-          "published": "2026-07-15T18:26:00",
-          "summary": "你也曾被公司同事小人利用過，後來才發現嗎？當你在職場上開始成功，就容易被人「借力」。有人開口必有請求、用恭維鋪路、假協作真攀附，甚至未經同意就借你名號。這些看似友善的互動，其實在耗損你的時間與信任。本文提出真實案例，幫助職場歷練還不夠「厚黑」的你，辨識出4種被利用的警訊，學會設下界線、維護個人品牌與人脈，才是成熟人際關係的關鍵。「可否幫我寫一封推薦信？我正在申請你的母校的博士課程。」這是露絲（本文"
+          "title": "全聯最大旗艦店來了！台中新商場再一間，4000坪「全聯百貨進德店」7/18開幕優惠一覽",
+          "link": "https://www.gvm.com.tw/article/131613",
+          "published": "2026-07-16T17:53:00",
+          "summary": "全聯即將在台中東區開出全新旗艦店「全聯進德店」（又稱干城複合式旗艦店），占地約4245坪、規劃地上四層樓，是全聯首間結合超市、零售品牌、餐飲與停車場的複合式百貨商場，開幕日訂在2026年7月18日（週六）。這也讓「全台最大全聯」的封號從台南新營金華店，正式移交給這座台中新地標。本文整理位置交通、樓層規劃、進駐品牌與停車資訊。目錄&nbsp; －全台最大全聯在哪？&nbsp; －全聯首座複合式百貨規"
         },
         {
-          "title": "青安3.0重點一次看！擬限未滿50歲申貸、寬限期5年、利率補貼分年退場",
-          "link": "https://www.gvm.com.tw/article/131585",
-          "published": "2026-07-15T18:18:00",
-          "summary": "行政院會明天擬通過「青安3.0」方案，財政部國庫署長陳柏誠今天表示，重點包含一，未來將去除高齡因素，申請人規劃須未滿50歲；二，維持5年寬限期；三，利率補貼分年退場。四，依縣市設房屋總價門檻；五，排富條款將以借款人本人的年所得新台幣200萬元，作為貸款資格條件。六，貸款上限定在1000萬元，但會針對婚育家庭、新婚家庭（包含同性婚姻）兩類家庭分別依據實際情況提高上限額度。政府自民國99年12月起推出"
+          "title": "中國稀土管制收緊！與歐洲價差150倍，西方能擺脫供應鏈依賴？",
+          "link": "https://www.gvm.com.tw/article/131612",
+          "published": "2026-07-16T17:33:00",
+          "summary": "中國收緊稀土出口管制，導致氧化釔價格在中國與歐洲市場出現近150倍價差，衝擊全球半導體、AI、電動車與國防供應鏈。中國稀土企業迎來發展機遇，但西方國家加速布局關鍵礦產，試圖降低對中國依賴。中國政府因不滿日本首相高市早苗先前提出的「台灣有事論」，以及美國祭出的關稅政策，進一步收緊關鍵稀土礦物出口管制。全球高科技與國防產業，也因此承受新一波供應鏈壓力。從半導體製造不可或缺的釔，到雷達系統使用的鎵與國防"
         },
         {
-          "title": "颱風假對醫院影響大！北榮院長陳威明：不只是少看一天病那麼簡單",
-          "link": "https://www.gvm.com.tw/article/131584",
-          "published": "2026-07-15T18:04:00",
-          "summary": "颱風巴威日前襲台，颱風假議題引起討論。北榮院長陳威明今天指出，颱風假對醫院影響大，門診、檢查與手術都要重新安排，不只是少看一天病那麼簡單；他強調，發言無政治考量。台北榮民總醫院院長陳威明在院內公開信表示，「我想藉此機會，從醫療現場的角度，向大家說明台北榮總在面對天然災害時的準備，以及我們為什麼如此重視醫療服務的持續運作。」陳威明表示，台北榮總近3000名醫事人員住在院區宿舍，沒有住宿舍的同仁，也有"
+          "title": "台積電法說會》魏哲家如何談CPO布局、資本支出與對手競爭？",
+          "link": "https://www.gvm.com.tw/article/131610",
+          "published": "2026-07-16T17:02:00",
+          "summary": "台積電今（16）日舉行2026年第二季法說會，由董事長魏哲家親自主持。面對AI需求持續升溫，台積電不僅再度上修全年資本支出至600億至640億美元，較今年初預估的520億至560億美元大幅提高，也釋出未來三年資本支出將「比過去三年更加顯著成長」的訊號，展現持續擴產、滿足AI需求的決心。除了大幅提高資本支出，魏哲家也針對市場最關心的英特爾競爭、CPO、海外擴產、先進封裝與AI需求等議題一一回應。他強"
         },
         {
-          "title": "巴菲特談財產分配「確保孩子理解你決定」，為何父母該聽？",
-          "link": "https://www.gvm.com.tw/article/117453",
-          "published": "2026-07-15T17:58:00",
-          "summary": "2026/7/15更新：近日新竹發生一位陽明交大教授因不滿岳家將音樂教室經營權分配給妹婿，認為財產分配不公憤而砍殺對方。其實，股神巴菲特近期曾談過自己多年來財產分配有四個關鍵，其中之一是務必要在生前就充分讓孩子理解自己財產分配的邏輯。為何這件事重要？此外四大金言還有哪些寶貴智慧？為何爸媽都該聽？94歲的「股神」巴菲特（Warren Buffett），在2024年年底發布了最新的股東信，信中最令人驚"
+          "title": "青安3.0利率怎麼算？條件、額度、房價上限一次看",
+          "link": "https://www.gvm.com.tw/article/131609",
+          "published": "2026-07-16T16:40:00",
+          "summary": "青安政策2.0（即所謂的新青安）預定本月底落日，歷經多時討論，中央今（16）日正式拍板青安政策3.0方案，其中7項貸款對象與資格條件與先前的2.0一樣，但也新增5項條件。新方案與先前有何不同？資格條件更嚴格了嗎？利率到底補貼多少？誰可以最高省33.7萬？本文友善拆解。本日中央正式拍板青安3.0方案，能消除過往青安2.0的問題嗎？簡單來說，過往的青安2.0（即所謂的新青安）因未綁定申貸人的年齡、年所"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "環境部：碳費補助辦法發布每案上限為總經費50%|半導體|產業新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D0%26nsl_id%3D0aa13a834a174529b4f7ec42abdd30e7&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3syTLcCUQZePjm4tQtmZ2_",
-          "published": "2026-07-15T22:26:59+00:00",
-          "summary": "環境部今年徵收新台幣49.7億元碳費，已納入「溫室氣體管理基金」，專供執行溫室氣體減量及氣候變遷調適之用。 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我&nbsp;..."
+          "title": "台塑生醫搶攻廚餘回收鏈精煉生質燃料助攻<b>淨零</b>碳排|半導體|產業新聞 - IEK產業情報網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D8%26nsl_id%3D53e0cfee2ae0462ea6ad5cfb349a9d64&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0xTsN4XP3nOp51DP1jVDr7",
+          "published": "2026-07-17T00:57:25+00:00",
+          "summary": "... 淨零碳排. 中央社，; 2026/7/16 下午12:25; 31. （中央社記者潘智義台北2026年7月16日電 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
         },
         {
-          "title": "富邦金攜手企業加速<b>淨零</b>轉型- 日報- 工商時報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260716700177-439901&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3SxfH8SQwwwa5KgDphsQN9",
-          "published": "2026-07-15T19:11:54+00:00",
-          "summary": "富邦金控15日發布《2025年永續報告書》，與外界溝通永續發展成果與推動進程，並展現低碳、數位、激勵與影響四大ESG策略具體成效。富邦金2025年投入綠色金融&nbsp;..."
+          "title": "【永續新聞快訊】聯合國：SDGs進度落後，國際合作進入關鍵倒數四年",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://csrone.com/news/10029&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1tAoDcPf1MOCmZJJIg6FFu",
+          "published": "2026-07-17T00:02:29+00:00",
+          "summary": "從聯合國最新SDGs 進度檢視、亞太環境治理行動綱領，到首次全球AI 治理對話，顯示距離2030 年僅剩四年，各國正面臨融資不足、氣候風險與科技落差等多重挑戰。"
         },
         {
-          "title": "說好的2040<b>淨零</b>？亞馬遜碳排量連續2年不減反增去年增幅更達16% | ESG新知| 倡議家",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ubrand.udn.com/ubrand/story/123647/9627375&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3ULyJMUhAxLDQ8B8qeodXP",
-          "published": "2026-07-15T17:39:29+00:00",
-          "summary": "雲端運算與電商巨頭亞馬遜（Amazon）2025年的公司碳排量呈現連續第二年增加，主因是建置資料中心以及物流配送業務消耗的燃料。"
+          "title": "<b>淨零</b>新局長庚醫療推進範疇三拚減碳 - IEK產業情報網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D6%26nsl_id%3D142dda6c2ff34f93b99660681edbd594&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3zAxgkgv5I9IRiAe_r_sTB",
+          "published": "2026-07-16T21:41:29+00:00",
+          "summary": "... 淨零目標。 長庚醫療財團法人行政中心執行長游進邦表示，從門診服務碳足跡盤查可以 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
         },
         {
-          "title": "企業搶才<b>淨零</b>碳管理輔英科大開辦iPAS證照班培育永續人才 - Yahoo新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E4%25BC%2581%25E6%25A5%25AD%25E6%2590%25B6%25E6%2589%258D%25E6%25B7%25A8%25E9%259B%25B6%25E7%25A2%25B3%25E7%25AE%25A1%25E7%2590%2586-%25E8%25BC%2594%25E8%258B%25B1%25E7%25A7%2591%25E5%25A4%25A7%25E9%2596%258B%25E8%25BE%25A6ipas%25E8%25AD%2589%25E7%2585%25A7%25E7%258F%25AD%25E5%259F%25B9%25E8%2582%25B2%25E6%25B0%25B8%25E7%25BA%258C%25E4%25BA%25BA%25E6%2589%258D-091829843.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1EHsM4wMP8cZMU__mJlpqg",
-          "published": "2026-07-15T15:32:51+00:00",
-          "summary": "記者吳門鍵／高雄報導經濟部今年宣布iPAS 淨零碳規劃管理師初級證書納入氣候行動（…"
+          "title": "南方綠能暨循環經濟展開展內政部攜手產業加速<b>淨零</b>轉型落地 - 中華時報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://chtime.ikh.tw/%3Fpn%3Dvw%26id%3Dpz4wyl0me381&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1RRQL5JArm4ikRUoeAfTqf",
+          "published": "2026-07-16T20:04:42+00:00",
+          "summary": "所長王榮進指出，我國已提出「臺灣2050淨零排放路徑」，其中建築部門在整體淨零轉型中扮演關鍵角色。內政部持續推動近零碳建築政策，透過提升建築能效、老宅延壽、&nbsp;..."
         },
         {
-          "title": "攜手打造<b>淨零</b>永續幸福花蓮縣府表揚115年度績優環保志工",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hl.gov.tw/News_Content.aspx%3Fn%3D32725%26sms%3D25832%26s%3D213304&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0EyN5uCmkJnKbBX1HBeoXS",
-          "published": "2026-07-15T15:26:04+00:00",
-          "summary": "花蓮縣政府今(15)日在花蓮福容大飯店舉辦「115年度績優環保志工表揚典禮暨高峰會」，縣長徐榛蔚表揚績優環保志工團體等多單位與個人，感恩地方各界長期投入&nbsp;..."
+          "title": "會計師看時事／ISO 引路助攻金融<b>淨零</b>轉型 - 聯合新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7241/9632865&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0HdYEedew_F6uauJ9Bllcz",
+          "published": "2026-07-16T19:53:32+00:00",
+          "summary": "在全球加速邁向淨零的趨勢下，金融機構正由氣候資訊揭露走向實質轉型行動。近年，在主管機關期待下，企業應依循永續揭露準則IFRSS2建立氣候揭露架構及制定氣候&nbsp;..."
         },
         {
-          "title": "電動機車為何市售不到7%？ 2040年拚100%可能嗎？【新聞實驗室】 - 公視新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pts.org.tw/article/817768&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2l8F7om4P9gZmbsW3DR7EL",
-          "published": "2026-07-15T15:10:13+00:00",
-          "summary": "... ，其中九成以上都是加汽油，為了淨零排放， ... 因應氣候變遷的威脅，政府訂出「台灣2050淨零排放路徑」，其中規劃電動機車&nbsp;..."
+          "title": "會計師看時事／ISO 引路助攻金融<b>淨零</b>轉型| 經營管理| OFF學 - 經濟日報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/122331/9632865&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0J_mplKQ9riBvEw4KwX6zM",
+          "published": "2026-07-16T18:34:29+00:00",
+          "summary": "近年，在主管機關期待下，企業應依循永續揭露準則IFRSS2建立氣候揭露架構及制定氣候轉型計畫，並採用科學基礎減量目標倡議（SBTi）設定具科學依據的減碳目標與轉型&nbsp;..."
         }
       ]
     }
