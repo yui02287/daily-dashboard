@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-07-18T03:54:31.528223+00:00",
-    "date": "2026-07-18",
+    "generated_at": "2026-07-19T04:21:31.409630+00:00",
+    "date": "2026-07-19",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -16,36 +16,6 @@
           "link": "https://techorange.com/2026/07/18/ai-bots-and-the-agentic-future-of-the-web/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
           "published": "2026-07-17T22:29:00+00:00",
           "summary": "網路流量的樣貌已經改變，現在有一半的造訪其實來自自動化程式（機器人）。這不僅無形中增加伺服器的運算成本，更直接影響企業的情報安全與獲利模式。過去遇到機器人就「直接封鎖」的單一作法，已經難以應付現在複雜的流量意圖。 為幫助決策團隊釐清現況並擬定對策，全球網路技術服務商 Fastly 發布《威脅洞察報告（Threat Insights Report）》，內容梳理四個關鍵重點，包括盤點快取情報外洩與伺服"
-        },
-        {
-          "title": "一年少派工 310 萬次、停機時間減少 1,200 萬小時：美國電信巨頭 AT&amp;T 如何重寫維運模式？",
-          "link": "https://techorange.com/2026/07/17/att-telecom-ai-network-outage-prevention/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-17T09:09:47+00:00",
-          "summary": "現代電信網路由大量設備、軟體與相互依賴的系統組成，局部異常一旦未被及時發現，就可能造成服務中斷，影響大量用戶。像是澳洲電信龍頭 Telstra 近期發生的全國性網路事故，就凸顯這種單點失效的連鎖風險：這起事故起因於一台關鍵的時間同步伺服器，在進行維護重啟後，因軟體設定缺陷導致日期被誤設為 2006 年。在接下來的幾個小時內，錯誤日期導致其他伺服器中的驗證憑證失效，進而讓大批客戶陷入間歇性無法連上網"
-        },
-        {
-          "title": "用 Prompt 設計概念車、開發週期砍半：AI 如何改寫 GM 造車流程？",
-          "link": "https://techorange.com/2026/07/17/gm-ai-and-virtual-labs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-17T08:59:14+00:00",
-          "summary": "長久以來，車廠握有一項與真皮座椅或平順引擎都無關的奢侈品，那就是時間，一款熱賣車型往往能賣上十年才迎來全面改款，但這項奢侈正在快速消失。根據《IEEE Spectrum》，BYD 等中國車廠已能把一款電動車從繪圖板送進展示間的時間壓到 2 年以內，逼著包含 GM 在內的歐美車廠重新思考造車節奏。 GM 的做法，不是把既有流程加速，而是把大部分開發直接搬進虛擬世界。當造車從「先做原型、再測試」轉向「"
-        },
-        {
-          "title": "OpenAI、Anthropic 不再獨占最強 AI？中國 Kimi K3 讓開源模型站上 Frontier 戰場",
-          "link": "https://techorange.com/2026/07/17/moonshot-kimi-k3/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-17T04:29:50+00:00",
-          "summary": "過去兩年，企業導入生成式 AI 時，多半有一項共識：若追求最強能力，就選 OpenAI 或 Anthropic 等封閉模型；開源模型雖然成本較低、可自行部署，但能力通常仍落後一個世代。然而，今日這條界線正開始改變。 中國 AI 新創 Moonshot AI 在 7/17 推出開源模型 Kimi K3，號稱擁有 2.8 兆參數，是目前全球規模最大的開放權重大型語言模型，支援 100 萬 Token "
-        },
-        {
-          "title": "Circle 真正的威脅：當 Visa 與支付巨頭加入 Open Standard，穩定幣儲備收益將如何轉向分銷通路？",
-          "link": "https://techorange.com/2026/07/17/visa-new-platform-stablecoin-services/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-17T03:48:14+00:00",
-          "summary": "在美國監管取得進展、傳統金融機構積極布局區塊鏈支付之際，全球支付巨頭 Visa 宣布向特定 beta 測試客戶推出「Visa Stablecoin Platform」（以下簡稱 VSP）服務。這項全新的企業級服務，允許金融機構在由 Visa 管理的單一系統內，進行穩定幣的發行、儲存、移轉與贖回。VSP 初期支援由金融巨頭聯盟 Open Standard 發行的新穩定幣 Open USD，目的是降低"
-        },
-        {
-          "title": "星巴克想自研工具取代微軟、IBM 應用，卻仍離不開 Azure：AI 正在重畫企業軟體價值鏈",
-          "link": "https://techorange.com/2026/07/17/starbucks-just-fired-a-warning-shot-at-microsoft-and-ibm-ai-apps/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-17T02:44:05+00:00",
-          "summary": "過去，星巴克（Starbucks）每年光是軟體採購支出就高達約 4 億美元。為了精簡支出，這家連鎖咖啡巨頭目前正積極利用 AI 協助開發內部工具，準備逐步取代過去向微軟（Microsoft）、IBM 等科技巨頭採購的部分應用程式。 雖然部分自行研發的軟體在通過測試的前提下，最快預計於 2027 年底前正式推出，但星巴克並非要全面與第三方供應商切斷合作。事實上，星巴克仍持續使用包括微軟在內的多款外部"
         }
       ]
     },
@@ -54,40 +24,34 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
+          "title": "林志玲也推薦！富邦美術館新展出52件珍品，一生只有一次的展覽",
+          "link": "https://www.gvm.com.tw/article/131652",
+          "published": "2026-07-18T17:58:00",
+          "summary": "美國托雷多藝術博物館因百年來罕見的大規模整修，促成52件珍貴館藏首度大規模來台展出。富邦金控暨富邦美術館董事長蔡明興、富邦美術館館長翁美慧及林志玲出席開幕，邀請民眾把握這場對台灣而言「一生難得一次」的藝術盛會。林布蘭、哥雅、透納等西洋藝術大師真跡難得齊聚台灣。富邦美術館今夏推出年度國際藝術大展「古典光影大師：林布蘭到哥雅－托雷多美術館珍藏展Ⅰ」，於今（18）日正式開展。精選美國托雷多美術館52件珍"
+        },
+        {
+          "title": "沒人想坐中間？經濟艙愈來愈不經濟，美聯航推「旁邊無人」加價座位",
+          "link": "https://www.gvm.com.tw/article/131626",
+          "published": "2026-07-18T16:00:00",
+          "summary": "看準消費力，航空公司紛紛細分機票價格，提供更多舒適座位，也從中獲取更大利潤。現在經濟艙座位也不再是同一水平，依據腿部空間區分種類愈來愈多，美國聯合航空公司最近還推出一種新座位，就是封閉中間座位，讓靠窗與靠走道的座位有更寬的空間可以使用。買機票選位的時候，誰都不想選擇中間座位，美聯航乾脆不賣中間座位，但提高兩邊座位的票價。美聯航宣布，將在空中巴士&nbsp;A321XLR&nbsp;客機推出這種隔壁"
+        },
+        {
+          "title": "分科測驗成績公布何時？放榜前先選校！成績查詢時間、最佳大學排行一次看",
+          "link": "https://www.gvm.com.tw/article/131625",
+          "published": "2026-07-18T11:00:00",
+          "summary": "2026分科測驗因巴威颱風延期，於7月13、14日登場，考生將在8月3日查詢成績並寄發成績通知單，8月5日起進入登記志願階段，最終分發放榜日期為8月17日。成績尚未公布，選校功課卻不能等到最後一刻才開始。除了預估落點與檢視校系採計科目，考生也可從大學的教學資源、學術研究、產學合作、國際化程度及同業聲望，提早建立選校名單。2026年《遠見》台灣最佳大學排行榜以77項細指標、42項榜單檢視122所大學"
+        },
+        {
+          "title": "小心熱到吹出「冷氣病」！慢性缺水、頭痛？營養師揭7大症狀，這2種飲料別過量",
+          "link": "https://www.gvm.com.tw/article/131624",
+          "published": "2026-07-18T07:00:00",
+          "summary": "夏天感到疲倦、頭暈、注意力不集中？小心是身體缺水症狀！營養師提醒，別等感到口渴才補水，這代表身體已輕度缺水。一旦水分不足，恐引發精神不濟、便秘等 7 大隱藏「慢性缺水症狀」，尤其是久待冷氣房的上班族與長者最易忽略。究竟每個人每天喝多少水才夠？本文公開個人每天喝水量計算法，並解答只喝咖啡、濃茶是否可行。快掌握固定飲水、隨身帶水壺等正確喝水原則，主動建立喝水習慣，才能遠離熱傷害、築起夏日最強防護網。近"
+        },
+        {
           "title": "BanG Dream!演唱會調解不成立，爭議與回應一次看",
           "link": "https://www.gvm.com.tw/article/131651",
           "published": "2026-07-17T23:32:00",
           "summary": "今年4月於台北大佳河濱公園舉辦的《BanG Dream! Special LIVE in TAIPEI》演唱會，因為消費者認為進場動線混亂、VIP區體驗不符及票券超賣，爆發消費爭議。台北市法務局今日（7/17）召開大型調解會議，最後因主辦方未能提出通案補償方案，且受限於和版權方的保密協議無法單方面決定，調解最終宣告不成立。消費者有何訴求？主辦方怎麼回應？《遠見》採訪台北市文化局、水利處、律師、消基"
-        },
-        {
-          "title": "台股「黑色星期五」外資賣超創紀錄！央行防守新台幣爆量貶3.9分",
-          "link": "https://www.gvm.com.tw/article/131649",
-          "published": "2026-07-17T18:31:00",
-          "summary": "市場對於人工智慧（AI）泡沫化的疑慮升溫，加上美伊衝突再起，打擊風險偏好，台股上演「黑色星期五」，外資今天賣超創紀錄，在匯市更是洶湧匯出，新台幣兌美元連破32.3元、32.4元兩道關卡，在央行強力防守下，收在32.288元，貶值3.9分。儘管台積電16日法人說明會釋出正面訊號，市場對AI熱潮延續性的疑慮未減，且美股收黑、費城半導體指數重挫4.29%，台股今天電子權值股成殺盤重心，終場指數下跌295"
-        },
-        {
-          "title": "上百戶遭盤點！租屋補助漏洞防堵，國土署：擬設最低居住坪數門檻",
-          "link": "https://www.gvm.com.tw/article/131647",
-          "published": "2026-07-17T18:24:00",
-          "summary": "為避免租金補貼遭濫用，內政部國土署正著手盤點全台同一地址有六戶以上申請租金補貼、且每人居住面積不到6.88平方公尺（約2.08坪）的案件，目前約有上百戶。國土署表示，由於居住空間過小，已偏離租金補貼照顧租屋族的政策目的，未來將研議把最低居住坪數等條件納入租金補貼申請資格，防堵制度漏洞。國土署指出，「300億元中央擴大租金補貼專案計畫」自2022年推動以來，今年截至6月底已有85萬戶核定受惠。考量租"
-        },
-        {
-          "title": "致癌沙拉油最新進展：440項下架名單，7-11、全家退款方法一次看",
-          "link": "https://www.gvm.com.tw/article/131403",
-          "published": "2026-07-17T18:10:00",
-          "summary": "7/17更新：中聯油脂1300公噸大豆沙拉油檢出一級致癌物苯駢芘超標，引發食安疑慮持續延燒，受影響業者一路擴大。台北市長蔣萬安17日中午拜會國民黨團，商討後續監督中聯問題油品案後續的反制作為，宣布將於7月25日上凱道抗議賴政府。全家便利商店日前更新退款公告，退款品項擴大，新增「桂冠沙拉、黑胡椒蒜味雞柳條、義式經典嫩雞胸」共3項商品。本文持續追蹤最新中鏢名單與問題油流向、受影響批號、各大品牌退費方式"
-        },
-        {
-          "title": "《致富心態》作者：股災好可怕？擁有這些特質的人方能長期守富",
-          "link": "https://www.gvm.com.tw/article/131648",
-          "published": "2026-07-17T17:51:00",
-          "summary": "週五台股大跌，連財報穩健的台積電股價都暴跌7%多，更別說本週記憶體股跌個不停，讓不少股民心難安。當股災突然來襲，你怎麼應對？尖叫離場或者堅持長期策略不放棄？暢銷理財書《致富心態》作者豪瑟（Morgan Housel）在7月本週最新一集個人Podcast中表示，就是在這種時候，才能看得出一個人是否能長期守富（Staying Rich）。他也提出個人多年心法，只要具備這種人格，長期來說都能成功。最近股"
-        },
-        {
-          "title": "青安3.0更香！六年省30萬利息、「這個族群」最補",
-          "link": "https://www.gvm.com.tw/article/131641",
-          "published": "2026-07-17T17:34:00",
-          "summary": "過去被視為助長高房價的幫兇「新青安」政策，將於7月31日落幕，隨即交棒給青安3.0無縫接軌。沒想到房仲業專家竟然說，青安3.0不僅補齊漏洞，還送上大禮包，貸款千萬能省下30萬元利息，政策既香又補。為什麼他們這樣說？誰又是這波最幸運的族群？多數民眾搞不懂青安政策到底有幾種？住商機構企劃研究室執行總監徐佳馨話說從頭，財政部從2010年12月1日起推動「青年安心成家購屋優惠貸款」（簡稱青安貸款）；接著於"
         }
       ]
     },
@@ -96,40 +60,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "華碩結盟關渡醫院推動低碳醫療數位轉型|半導體|產業新聞|產科國際所【IEK產業情報網】",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D3%26nsl_id%3Dd8303bf9e2f14fb88353d55b197a9d1d&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0hOo9xVS-tQYx6fkaCEhSi",
-          "published": "2026-07-18T00:07:24+00:00",
-          "summary": "關渡醫院院長陳亮恭說，面對氣候變遷與淨零轉型趨勢，醫療院所除了持續提供優質照護 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
+          "title": "026新北濕地割稻趣500名額體驗城市農趣開放報名 - 波新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bo6s.com.tw/news_detail.php%3FNewsID%3D114226&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1Fvze3wSikPK818bco8c-8",
+          "published": "2026-07-18T23:12:06+00:00",
+          "summary": "「2026新北濕地割稻趣」將於8月1日上午及8月2日上午辦理，共2梯次，每梯次250個名額。活動規劃割稻、打穀體驗、濕地生態導覽、淨零減碳環境教育課程及稻草DIY等&nbsp;..."
         },
         {
-          "title": "借鏡歷史治理經驗應對<b>氣候變遷</b>下的野火煙霧危機 - GeneOnline News",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://geneonline.news/%25E5%2580%259F%25E9%258F%25A1%25E6%25AD%25B7%25E5%258F%25B2%25E6%25B2%25BB%25E7%2590%2586%25E7%25B6%2593%25E9%25A9%2597%25E6%2587%2589%25E5%25B0%258D%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E4%25B8%258B%25E7%259A%2584%25E9%2587%258E%25E7%2581%25AB%25E7%2585%2599%25E9%259C%25A7%25E5%258D%25B1%25E6%25A9%259F/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Bxgkov-FeEjvSFH6Yj-5E",
-          "published": "2026-07-17T21:14:48+00:00",
-          "summary": "面對氣候變遷（Climate change）導致野火頻率與強度增加的趨勢，單純依賴傳統的污染控制手段已不足以應對。專家在評論中指出，未來的空氣品質治理必須與氣候適應策略&nbsp;..."
+          "title": "供應鏈大洗牌ESG新挑戰|半導體 - IEK產業情報網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D0%26nsl_id%3Ded826b98dac54559afb0005556d62ff3&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3zTbICeCyQfM1mImRLkw0X",
+          "published": "2026-07-18T22:05:52+00:00",
+          "summary": "此外，自去年以來，國際間已有多家大型銀行陸續退出「淨零銀行聯盟」（NZBA），川普 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
         },
         {
-          "title": "熱浪乾旱夾擊法國農業苦撐葡萄烤乾乳品減逾2成",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.worldjournal.com/wj/amp/story/121480/9635378&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0mLNnekmWPgKE5LCcLu-k7",
-          "published": "2026-07-17T21:05:15+00:00",
-          "summary": "全國農人工會聯盟（FNSEA）主席羅梭（Arnaud Rousseau）接受法國新聞台（franceinfo）訪問時說，農業生產鏈除了受到近期氣候變化影響，還苦於肥料漲價和農產品價格下跌，&nbsp;..."
+          "title": "均衡臺灣週內政部秀<b>淨零</b>成果|半導體 - IEK產業情報網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D0%26nsl_id%3D4f2f72d7e425414b86660e3ba5524c0f&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1YJXNVi1ObLNawnVs7w5vn",
+          "published": "2026-07-18T22:05:48+00:00",
+          "summary": "... 淨零轉型、循環經濟與永續發展的最新成果。 內政 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
         },
         {
-          "title": "加拿大野火濃煙罩北美！<b>氣候變遷</b>助燃專家籲成立國家級機構 - LINE TODAY",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/vX8KwVK&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3FVdSp5Aa2qLVv13JsVFzs",
-          "published": "2026-07-17T20:45:58+00:00",
-          "summary": "近年來，受到全球氣溫上升影響，北美地區頻頻出現橘紅色天空與野火濃煙。加拿大目前的活躍野火數量已超越過去兩年同期，燒毀面積也高於十年平均值，濃..."
+          "title": "永續成為門檻跟上才有生意|半導體|產業新聞|產科國際所【IEK產業情報網】",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D0%26nsl_id%3Dc750ee91ad7d476c82f529172fc379ee&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3xEp3NxzU4kcYMyU7fONOY",
+          "published": "2026-07-18T22:05:45+00:00",
+          "summary": "... 氣候變遷影響，更別說來自供應鏈的減碳壓力。 台灣中小企業數量逾170萬家， ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
         },
         {
-          "title": "加拿大野火濃煙罩北美！<b>氣候變遷</b>助燃專家籲成立國家級機構 - 民視新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ftvnews.com.tw/news/detail/2026718W0036&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3gsXNJMqmguHSWp-qA_4yK",
-          "published": "2026-07-17T20:19:41+00:00",
-          "summary": "Reuters 路透社報導近年來，受到全&nbsp;..."
+          "title": "廉政專區 - 高雄市政府環境保護局",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ksepb.kcg.gov.tw/FileList/integrity%3FSubCategoryID%3Ddf686bfe-2960-4786-8b4a-8b9bbfebfff3%26ID%3Def698808-3aa8-4f4a-abfe-235613fa9c8b%26PageIndex%3D5%26PageType%3D1&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0ig51TZur6s6yMuYAtie4s",
+          "published": "2026-07-18T21:26:13+00:00",
+          "summary": "轉知嘉義市政府政風處製作《潘朵拉禮物：犀牛村長的考驗》廉政話劇影片事宜. 114年05月07日. 495. 一、依據高雄市政府政風處114年5月6日高市政預字&nbsp;..."
         },
         {
-          "title": "一券在手，解鎖綠色旅遊趣！ 體驗低碳旅行 - 太平洋新聞網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.pacificnews.com.tw/shownews.php%3Fpostnewsid%3D17%26titleid%3D100466&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2KszO6zVF3A9T5-CHJlH6X",
-          "published": "2026-07-17T19:42:28+00:00",
-          "summary": "一券在手，解鎖綠色旅遊趣！ 體驗低碳旅行 【記者黃燕／台南報導】為推廣淨零綠生活，臺南市府環保局推出「一券在手，解鎖臺南綠色旅遊趣！」活動，自115年7月18日&nbsp;..."
+          "title": "大文集團展位舉行「氣候變化與可持續發展」對談 - 今日大公",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://epaper.tkww.hk/a/202607/19/AP6a5bdfbbe4b04773b072a2dc.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2kUCogVpWzATln6216D28M",
+          "published": "2026-07-18T20:21:11+00:00",
+          "summary": "... 碳中和研究院教授周宇宇，中國檢驗有限公司氣候變化與可持續發展首席研究員徐稼軒，與主持人、大文集團發行運營和品牌推廣中心ESG項目經理方菲進行「氣候變化&nbsp;..."
         }
       ]
     }
