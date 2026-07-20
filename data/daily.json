@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-07-19T04:21:31.409630+00:00",
-    "date": "2026-07-19",
+    "generated_at": "2026-07-20T04:35:03.768291+00:00",
+    "date": "2026-07-20",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,10 +12,34 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "【AI、機器人與網路的代理化未來】99% 機器人是惡意程式，如何精準分辨「惡意攻擊」與「AI 變現機會」？",
-          "link": "https://techorange.com/2026/07/18/ai-bots-and-the-agentic-future-of-the-web/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-17T22:29:00+00:00",
-          "summary": "網路流量的樣貌已經改變，現在有一半的造訪其實來自自動化程式（機器人）。這不僅無形中增加伺服器的運算成本，更直接影響企業的情報安全與獲利模式。過去遇到機器人就「直接封鎖」的單一作法，已經難以應付現在複雜的流量意圖。 為幫助決策團隊釐清現況並擬定對策，全球網路技術服務商 Fastly 發布《威脅洞察報告（Threat Insights Report）》，內容梳理四個關鍵重點，包括盤點快取情報外洩與伺服"
+          "title": "從一艘橡皮艇到美國海軍合約，新創 Saronic 搭上美軍「無人艇」熱潮",
+          "link": "https://techorange.com/2026/07/20/u-s-naval-power/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-20T02:57:24+00:00",
+          "summary": "在美中海權競爭與造船工業版圖劇烈重組的此刻，一艘從 Amazon 買來、造價僅 800 美元的橡皮艇，意外成了美國海軍下一代作戰想像的起點。 2022 年，海豹六隊前成員 Dino Mavrookas 與多位來自 SpaceX、Anduril 的夥伴，在德州奧斯汀的簡陋倉庫裡，把這艘橡皮艇改裝成搭載攝影機、感測器與馬達的自主艦艇原型，總成本約 3 萬美元。這個克難實驗後來成為新創公司 Saroni"
+        },
+        {
+          "title": "投資達美國 2 倍、募資直追北美：為何歐洲量子產業仍難逃「研發在本土，控制權歸美國」的資本陷阱？",
+          "link": "https://techorange.com/2026/07/20/europes-quantum-computing-sector-faces-the-same-capital-trap-that-hit-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-20T02:44:34+00:00",
+          "summary": "在全球 AI 競賽中，歐洲幾乎在起跑前就已失去領先機會。當法國新創 Mistral 於 2023 年取得首輪融資時，美國 OpenAI 已募得超過 130 億美元。更早之前，總部位於倫敦、孕育多項開創性技術的 DeepMind，也已被 Google 收購，再次呈現技術在歐洲誕生，經濟價值與控制權卻落入美國企業手中的困境。 然而，下一場關鍵技術競賽或許不會這麼快分出勝負。量子運算的技術路線、商業模式"
+        },
+        {
+          "title": "AI 讓開發產出翻 3 倍，決策端卻跟不上，未來的工程師得開始做 PM 的工作",
+          "link": "https://techorange.com/2026/07/20/ai-claude-code-engineer-thinkers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-20T02:23:17+00:00",
+          "summary": "受惠於 AI 技術，軟體工程師的任務產出，比起過去增加大約 3 倍，但在產品管理方面，卻幾乎沒有任何變化，軟體開發的瓶頸早已不再是撰寫程式碼，而是決定應該要去開發哪些程式。"
+        },
+        {
+          "title": "Fintech 今年募資逆勢成長 23%，AI 下一個殺手級應用為何指向金融？",
+          "link": "https://techorange.com/2026/07/20/ai-fintech-funding-surges-in-h1-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-20T01:40:29+00:00",
+          "summary": "過去兩年，生成式 AI 最成功的商業應用，幾乎都圍繞著程式開發。從 GitHub Copilot、Cursor 到 Claude Code，AI 不斷改變軟體開發流程。但 Google Ventures（GV）合夥人 Elena Sakach 最近提出另一個值得企業決策者關注的判斷：繼程式開發之後，金融市場可能成為 AI 下一個 Killer App（殺手級應用）。 這個觀點，也開始反映在資本市場"
+        },
+        {
+          "title": "【科技早餐】中美 AI 差距縮小：Kimi K3 逼近美國，算力與監管戰同步升溫",
+          "link": "https://techorange.com/2026/07/20/kimi-k3-us-china-ai-gap-compute-regulation/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-19T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Kimi K3 逼近美國，中美 AI 技術差距持續縮小 中國新創月之暗面（Moonshot AI）發布 Kimi K3，模型共有 2.8 兆個參數，支援 100 萬 token 的上下文長度。月之暗面稱，Kimi K3 是目前參數規模最大的開放權重模型，主要鎖定複雜推理、長時間程式設計與知識工作。第三方評測顯示，Kimi K3 在部分程式設計測試"
         }
       ]
     },
@@ -24,34 +48,16 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "林志玲也推薦！富邦美術館新展出52件珍品，一生只有一次的展覽",
-          "link": "https://www.gvm.com.tw/article/131652",
-          "published": "2026-07-18T17:58:00",
-          "summary": "美國托雷多藝術博物館因百年來罕見的大規模整修，促成52件珍貴館藏首度大規模來台展出。富邦金控暨富邦美術館董事長蔡明興、富邦美術館館長翁美慧及林志玲出席開幕，邀請民眾把握這場對台灣而言「一生難得一次」的藝術盛會。林布蘭、哥雅、透納等西洋藝術大師真跡難得齊聚台灣。富邦美術館今夏推出年度國際藝術大展「古典光影大師：林布蘭到哥雅－托雷多美術館珍藏展Ⅰ」，於今（18）日正式開展。精選美國托雷多美術館52件珍"
+          "title": "74歲宣明智腦硬膜外出血手術完成，辦公室：家屬盼外界勿探視",
+          "link": "https://www.gvm.com.tw/article/131653",
+          "published": "2026-07-19T18:45:00",
+          "summary": "編按：據中央社最新報導，74 歲聯電榮譽副董事長宣明智，今天早上因腦硬膜外出血緊急開刀救治，宣明智辦公室表示，手術順利完成，並已移至加護病房，接下來將會觀察及細心靜養，等待恢復。宣明智辦公室說，這段時間也請外界給予宣明智及家人們妥善的照顧環境，避免前往探訪。宣明智今天上午身體不適從新竹縣寶山鄉住家送醫，新竹縣長楊文科已到院表達慰問，盼宣明智早日康復。聯電榮譽副董事長宣明智今天身體不適自竹縣寶山鄉住"
         },
         {
-          "title": "沒人想坐中間？經濟艙愈來愈不經濟，美聯航推「旁邊無人」加價座位",
-          "link": "https://www.gvm.com.tw/article/131626",
-          "published": "2026-07-18T16:00:00",
-          "summary": "看準消費力，航空公司紛紛細分機票價格，提供更多舒適座位，也從中獲取更大利潤。現在經濟艙座位也不再是同一水平，依據腿部空間區分種類愈來愈多，美國聯合航空公司最近還推出一種新座位，就是封閉中間座位，讓靠窗與靠走道的座位有更寬的空間可以使用。買機票選位的時候，誰都不想選擇中間座位，美聯航乾脆不賣中間座位，但提高兩邊座位的票價。美聯航宣布，將在空中巴士&nbsp;A321XLR&nbsp;客機推出這種隔壁"
-        },
-        {
-          "title": "分科測驗成績公布何時？放榜前先選校！成績查詢時間、最佳大學排行一次看",
-          "link": "https://www.gvm.com.tw/article/131625",
-          "published": "2026-07-18T11:00:00",
-          "summary": "2026分科測驗因巴威颱風延期，於7月13、14日登場，考生將在8月3日查詢成績並寄發成績通知單，8月5日起進入登記志願階段，最終分發放榜日期為8月17日。成績尚未公布，選校功課卻不能等到最後一刻才開始。除了預估落點與檢視校系採計科目，考生也可從大學的教學資源、學術研究、產學合作、國際化程度及同業聲望，提早建立選校名單。2026年《遠見》台灣最佳大學排行榜以77項細指標、42項榜單檢視122所大學"
-        },
-        {
-          "title": "小心熱到吹出「冷氣病」！慢性缺水、頭痛？營養師揭7大症狀，這2種飲料別過量",
-          "link": "https://www.gvm.com.tw/article/131624",
-          "published": "2026-07-18T07:00:00",
-          "summary": "夏天感到疲倦、頭暈、注意力不集中？小心是身體缺水症狀！營養師提醒，別等感到口渴才補水，這代表身體已輕度缺水。一旦水分不足，恐引發精神不濟、便秘等 7 大隱藏「慢性缺水症狀」，尤其是久待冷氣房的上班族與長者最易忽略。究竟每個人每天喝多少水才夠？本文公開個人每天喝水量計算法，並解答只喝咖啡、濃茶是否可行。快掌握固定飲水、隨身帶水壺等正確喝水原則，主動建立喝水習慣，才能遠離熱傷害、築起夏日最強防護網。近"
-        },
-        {
-          "title": "BanG Dream!演唱會調解不成立，爭議與回應一次看",
-          "link": "https://www.gvm.com.tw/article/131651",
-          "published": "2026-07-17T23:32:00",
-          "summary": "今年4月於台北大佳河濱公園舉辦的《BanG Dream! Special LIVE in TAIPEI》演唱會，因為消費者認為進場動線混亂、VIP區體驗不符及票券超賣，爆發消費爭議。台北市法務局今日（7/17）召開大型調解會議，最後因主辦方未能提出通案補償方案，且受限於和版權方的保密協議無法單方面決定，調解最終宣告不成立。消費者有何訴求？主辦方怎麼回應？《遠見》採訪台北市文化局、水利處、律師、消基"
+          "title": "張員瑛「檸檬橄欖油」養顏助消化？營養師警告：4類人別空腹喝",
+          "link": "https://www.gvm.com.tw/article/131627",
+          "published": "2026-07-19T07:00:00",
+          "summary": "韓國女星張員瑛，曾在Vlog中分享自己的晨間保養秘訣就是喝「檸檬橄欖油」，讓「檸檬橄欖油隨身包」在韓國爆紅，連帶讓這股養生法在台灣、日本掀起熱烈討論！本篇邀請營養師深度解析 4 大功效與好處，除親授居家調配的黃金檸檬橄欖油比例；更針對民眾常疑惑的，檸檬橄欖油怎麼喝、能搭配黑咖啡或紅茶、冰水嗎？什麼時候喝最好等日常疑問詳細解答，同時加碼曝光 4 大禁忌族群與 2 道低卡檸檬橄欖油食譜，教你避開傷胃地"
         }
       ]
     },
@@ -60,40 +66,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "026新北濕地割稻趣500名額體驗城市農趣開放報名 - 波新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bo6s.com.tw/news_detail.php%3FNewsID%3D114226&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1Fvze3wSikPK818bco8c-8",
-          "published": "2026-07-18T23:12:06+00:00",
-          "summary": "「2026新北濕地割稻趣」將於8月1日上午及8月2日上午辦理，共2梯次，每梯次250個名額。活動規劃割稻、打穀體驗、濕地生態導覽、淨零減碳環境教育課程及稻草DIY等&nbsp;..."
+          "title": "屋頂光電新制8月上路|半導體|產業新聞|產科國際所【IEK產業情報網】",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D5%26nsl_id%3Db59bc33df50543f7becaea87914f2fa6&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3JMAmdYMJpGRCAnIc-H_Co",
+          "published": "2026-07-19T23:28:31+00:00",
+          "summary": "推薦閱讀. 光電公會肯定新建物設光電政策 &middot; 太陽能模組廠迎百億商機 &middot; 高捷大寮廠太陽光電6月啟用 &middot; 均衡臺灣週內政部秀淨零成果 ... Net-Zero Sustainability2022&nbsp;..."
         },
         {
-          "title": "供應鏈大洗牌ESG新挑戰|半導體 - IEK產業情報網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D0%26nsl_id%3Ded826b98dac54559afb0005556d62ff3&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3zTbICeCyQfM1mImRLkw0X",
-          "published": "2026-07-18T22:05:52+00:00",
-          "summary": "此外，自去年以來，國際間已有多家大型銀行陸續退出「淨零銀行聯盟」（NZBA），川普 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
+          "title": "退休基金為何重視<b>淨零</b>承諾一致性？ - 延伸閱讀文章",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://readmo.cmoney.tw/article/47e5884d-679d-4ec3-bd60-0d4632a6e939&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2KFkJmQ71GNNeyOsBgR1LX",
+          "published": "2026-07-19T19:45:58+00:00",
+          "summary": "對退休基金、機構投資人與委託方來說，最在意的往往不是口頭承諾，而是氣候策略是否能落實到投票紀錄、持股溝通與風險管理。當BlackRock 退出淨零聯盟，外界自然會&nbsp;..."
         },
         {
-          "title": "均衡臺灣週內政部秀<b>淨零</b>成果|半導體 - IEK產業情報網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D0%26nsl_id%3D4f2f72d7e425414b86660e3ba5524c0f&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1YJXNVi1ObLNawnVs7w5vn",
-          "published": "2026-07-18T22:05:48+00:00",
-          "summary": "... 淨零轉型、循環經濟與永續發展的最新成果。 內政 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
+          "title": "全球暖化重創航空業！再不抗<b>氣候變遷</b>熱浪恐讓飛機飛不了 - 三立新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.setn.com/news/272648&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2RB0iHCOu7MUx66of6rqvw",
+          "published": "2026-07-19T18:08:25+00:00",
+          "summary": "研究結果發表於「氣候變遷」期刊（Climate Change）。 研究人員發現，到2080年，機場年度日最高溫可能上升攝氏4到8度，造成更多航班延誤或取消。 在一天溫度&nbsp;..."
         },
         {
-          "title": "永續成為門檻跟上才有生意|半導體|產業新聞|產科國際所【IEK產業情報網】",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D0%26nsl_id%3Dc750ee91ad7d476c82f529172fc379ee&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3xEp3NxzU4kcYMyU7fONOY",
-          "published": "2026-07-18T22:05:45+00:00",
-          "summary": "... 氣候變遷影響，更別說來自供應鏈的減碳壓力。 台灣中小企業數量逾170萬家， ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
+          "title": "高雄「海空雙港」納管萬噸碳排事業違者可重罰10萬- 生活- 自由時報電子報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.ltn.com.tw/amp/news/life/breakingnews/5510828&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0S0WtG08002awbACBnQzM5",
+          "published": "2026-07-19T16:22:05+00:00",
+          "summary": "環保局表示，管制對象如未依規定執行溫室氣體盤查申報及揭露者，將依《高雄市淨零城市發展自治條例》第25條規定處2萬元至10萬元罰鍰，並限期改善，得按次處罰。"
         },
         {
-          "title": "廉政專區 - 高雄市政府環境保護局",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ksepb.kcg.gov.tw/FileList/integrity%3FSubCategoryID%3Ddf686bfe-2960-4786-8b4a-8b9bbfebfff3%26ID%3Def698808-3aa8-4f4a-abfe-235613fa9c8b%26PageIndex%3D5%26PageType%3D1&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0ig51TZur6s6yMuYAtie4s",
-          "published": "2026-07-18T21:26:13+00:00",
-          "summary": "轉知嘉義市政府政風處製作《潘朵拉禮物：犀牛村長的考驗》廉政話劇影片事宜. 114年05月07日. 495. 一、依據高雄市政府政風處114年5月6日高市政預字&nbsp;..."
+          "title": "雲林翻轉農業大縣定位陳璧君提「雲林模式」打造國家戰略新基地 - 蕃新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20260718807605&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0SAfLaPhEd8rrmcg1eiqiw",
+          "published": "2026-07-19T16:09:01+00:00",
+          "summary": "近年來，雲林以「智慧、韌性、永續、安全」為農業政策核心，率全國成立氣候變遷因應辦公室，積極推動智慧農業、循環經濟及淨零轉型。縣府推出「雲林農情通&nbsp;..."
         },
         {
-          "title": "大文集團展位舉行「氣候變化與可持續發展」對談 - 今日大公",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://epaper.tkww.hk/a/202607/19/AP6a5bdfbbe4b04773b072a2dc.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2kUCogVpWzATln6216D28M",
-          "published": "2026-07-18T20:21:11+00:00",
-          "summary": "... 碳中和研究院教授周宇宇，中國檢驗有限公司氣候變化與可持續發展首席研究員徐稼軒，與主持人、大文集團發行運營和品牌推廣中心ESG項目經理方菲進行「氣候變化&nbsp;..."
+          "title": "總統主持<b>氣候變遷</b>會議聚焦「氣候調適綠蔭倍增計畫」【最新快訊】 - 台視影音",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ttv.com.tw/videocity/video_play.asp%3Fid%3D921210%26sid%3D5%26from%3D707&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1i_gxUZt8ipcPdwSvbCJKU",
+          "published": "2026-07-19T13:52:40+00:00",
+          "summary": "台視影音：提供台視最新的綜藝、專題、節目預告及新聞影音，並有數個完整影音節目，供網友選擇收看。"
         }
       ]
     }
