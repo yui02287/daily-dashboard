@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-07-21T04:14:39.136539+00:00",
-    "date": "2026-07-21",
+    "generated_at": "2026-07-22T04:16:06.378823+00:00",
+    "date": "2026-07-22",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "AI Agent 已進入企業核心流程，為何反而遇到效率瓶頸？資策會產業情報研究所主任韓揚銘揭流程、人才與治理解方",
-          "link": "https://techorange.com/2026/07/21/ai-agent-mic/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-21T02:44:00+00:00",
-          "summary": "專訪：沈貝怡撰稿：李昀蔚 過去一年，企業對 AI 的討論已從「如何提升個人生產力」，進一步走向「如何讓 AI Agent 成為企業流程的一部分」。當 AI Agent 開始代替人類操作企業系統、填寫資料與分析文件，企業面對的問題也轉向如何重整流程、進行人機分工，以及界定出錯後的責任歸屬。 「我們看到現在的 AI Agent，已經不是未來式，而是一個現在進行式，」本集《全新一週》邀請資策會產業情報研"
+          "title": "【決策速度成新競爭力】從數週審核到五分鐘核准，Taktile 用 AI 代理改寫金融業競爭規則",
+          "link": "https://techorange.com/2026/07/22/taktile/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-22T02:26:55+00:00",
+          "summary": "過去兩年，企業 AI 已經證明自己能勝任文件摘要、問答與重複性工作的自動化，但銀行業關心的是：AI 能不能被信任，去做出承擔財務、法規與法律後果的決策？ Taktile 共同創辦人暨執行長 Maik Taro Wehmeyer 認為，這道門檻正開始鬆動。他認為，過去的模型還沒好到足以承擔金融服務業的關鍵任務決策，而 2026 年將是 AI 真正進入金融服務業的一年。 Taktile，從一張 IT "
         },
         {
-          "title": "4 個人，服務 75 萬名客戶：研究揭 AI 原生企業正在改寫「請更多人」老規則",
-          "link": "https://techorange.com/2026/07/21/ai-native-firms-startup/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-21T01:56:08+00:00",
-          "summary": "一家公司要服務更多客戶，通常得請更多人，但這條長年成立的等式，正被第一批「從骨子裡就長在 AI 上」的 AI 原生新創（AI-Native firms）打破。 《The Wall Street Journal》報導，以協助消費者用信用卡點數訂機票的 Pointhound 為例，這家成立三年的公司去年有 75 萬人使用其產品，正職員工卻只有 4 人，其餘工作交給一支 AI 代理大軍處理。創辦人暨執行"
+          "title": "研究指 75% AI Mode 搜尋未產生外部點擊：Google 築起流量圍牆，開放網路迎來「Google Zero」？",
+          "link": "https://techorange.com/2026/07/22/google-ai-open-web/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-22T02:23:14+00:00",
+          "summary": "2004 年 Google 準備上市時，Google 共同創辦人 Larry Page 曾在致股東信中表示：「我們相信一個運作良好的社會，應該讓人們能夠豐富、自由且不受偏見地取得高品質資訊。」此後數十年間，Google 確實扮演開放網路的門戶，並透過搜尋結果中的藍色超連結，將龐大流量導向出版商、商家、大學與各類組織共同建構的網路世界。 然而，隨著 AI 技術迅速發展，這家昔日的開放網路捍衛者，如今"
         },
         {
-          "title": "【自我修復的 AI 代理】提案、驗證、重寫規則，Self-Harness 框架讓效能最高提升 60%",
-          "link": "https://techorange.com/2026/07/21/self-harness-ai-agent-rewrite/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-21T01:48:13+00:00",
-          "summary": "上海人工智能實驗室近日提出 Self-Harness 框架，它讓基於 LLM 的 AI 代理，有能力經由檢視自身的執行軌跡，主動最佳化運行規則，讓 AI 代理執行效能提升 60%。"
+          "title": "用 AI 把行銷素材規模化、效率提升3-5倍：Expedia 子品牌如何拿捏人機協作的邊界？",
+          "link": "https://techorange.com/2026/07/22/ai-expedia-vrbo-marketing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-22T00:00:00+00:00",
+          "summary": "生成式 AI 正快速改變旅遊產業的行銷模式，但對 Expedia 集團旗下短租品牌 Vrbo 而言，AI 並非全面取代人力的工具，而是一套經過嚴格界定的效率引擎。 Vrbo 一方面運用 AI 將全球行銷素材生產效率提升 3 至 5 倍，另一方面仍堅持所有涉及房源展示與品牌情感的內容必須由真人與真實場景完成，藉此守住品牌最重要的「品質與信任」價值。 傳統數據鎖定需求，生成式 AI 規模化在地素材 近"
         },
         {
-          "title": "不追排名、流量、反向連結，AI 搜尋時代把 SEO 概念「轉譯」成四個新指標",
-          "link": "https://techorange.com/2026/07/21/ready-for-ai-search/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-21T01:41:37+00:00",
-          "summary": "過去一年，AI 爬蟲在網站活動的次數，成長了 5.4 倍。愈來愈多消費者不是自己上網找東西，而是先問 AI，再由 AI 去搜索、解讀網站。換句話說，AI 一方面是協助品牌將其產品帶到消費者面前的新管道，一方面又像是一位新的「客戶」，它會親自查看網站，把內容抓下來、整理成摘要、比較，最後決定要不要向用戶推薦你。而這整個過程，從頭到尾都不需要消費者參與。 AI 搜尋會直接影響消費者在 AI 對話框裡做"
+          "title": "【科技早餐】Microsoft 評估 Kimi K3、擴大 AMD 算力，中國也擬收緊 AI 技術出口",
+          "link": "https://techorange.com/2026/07/22/microsoft-kimi-k3-amd-ai-compute-china-export-controls/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-21T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊AI 代理帳單膨脹，Microsoft 評估 Kimi K3 降低 Copilot 成本 AI 模型單位價格持續下降，但代理式工作流反覆呼叫模型、讀取文件、整理上下文、使用外部工具，再檢查與修正答案，仍可能推高企業的 AI 總支出。研究分析八款前沿模型執行代理式程式任務後發現，這類工作消耗的 Token 最多可達一般程式問答的 1,000 倍；同"
         },
         {
-          "title": "【科技早餐】AI 擴張撞上基建瓶頸：Kimi 卡算力、記憶體喊缺、美國 42 州抗議資料中心",
-          "link": "https://techorange.com/2026/07/21/ai-infrastructure-bottlenecks-kimi-memory-data-center-protests/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-20T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊月之暗面準備赴港 IPO，Kimi K3 爆量暫停新訂閱 中國 AI 新創月之暗面（Moonshot AI）正調整境外公司架構，為赴香港上市做準備，並已與中金公司、高盛（Goldman Sachs）等財務顧問討論上市計畫。《彭博》引述知情人士指出，公司最快可能在 6 個月內進行 IPO，但實際時程仍可能調整。月之暗面今年 6 月的年化營收達 3 "
+          "title": "虛擬資產監理元年，為何台灣業者真正要打的是「跨境戰」？",
+          "link": "https://techorange.com/2026/07/21/vasp-mjtaiwan-kpmg/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-21T12:13:45+00:00",
+          "summary": "台灣日前三讀通過《虛擬資產服務法》，也意味著台灣正式進入虛擬資產監理元年。對於金融業與科技業者而言，接下來的問題是：在細部規範尚未全部到位的這段時間，該做些什麼準備？ 在 2026 玉山安侯論壇「鏈上未來：台灣虛擬資產監理元年」的座談上，四位來自金融、監理與產業端的專家分別從資金效率、成本結構與法遵準備切入，指出企業可以先行盤點的方向。 29 兆美元卡在帳戶裡：穩定幣要解的是資金效率問題 Teth"
         },
         {
-          "title": "Hugging Face 遭 AI Agent 惡意入侵：一個中國模型為何成了最後的調查工具？",
-          "link": "https://techorange.com/2026/07/20/hugging-face-ai-agent-security/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-20T08:53:32+00:00",
-          "summary": "AI 開源平台 Hugging Face 近期公布了一起內部資安事件：一套自主 AI Agent 從頭到尾入侵它的生產環境，取得雲端與叢集憑證，並在一個週末內橫向移動，留下超過 1.7 萬筆操作紀錄。Hugging Face 同樣動用 AI 完成偵測與調查，形成一場機器對機器的攻防，然而真正讓外界議論的，不是這場攻防本身，而是調查途中卡在一個誰也沒料到的過程：模型選擇。 一場由 AI Agent "
+          "title": "北韓假員工滲透逾百家美企：AI 如何把「合成內鬼」攻擊規模化？",
+          "link": "https://techorange.com/2026/07/21/synthetic-insider-attacks-raise-stakes-for-corporate-cyber-defence/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-21T09:15:16+00:00",
+          "summary": "美國司法部近年打擊了一項針對美國企業的北韓駭客行動，並揭露新型態的資安防線漏洞：多名北韓駭客透過冒用美國公民身分，成功取得美國企業的遠端工作職位，藉此為北韓政府賺取資金，並企圖竊取企業內部敏感資料。 美國政府指出，攻擊者在超過 100 家企業中，冒用超過 80 名美國公民的真實身分取得職位並執行攻擊，為面臨聯合國制裁的北韓政府創造超過 500 萬美元的非法收入。這類新興資安威脅在業界被稱為「合成內"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "東博熱氣球嘉年華開跑！吉伊卡哇陪你飛上臺東天空",
-          "link": "https://www.gvm.com.tw/article/131606",
-          "published": "2026-07-21T00:00:00",
-          "summary": "2026 臺灣國際熱氣球嘉年華正式在台東鹿野高台登場，今年活動從 7 月 4 日至 8 月 20 日，作為「台東博覽會 EXPO 2026」的重要亮點之一，不只延續台東最具代表性的夏季風景，也以更活潑、更親近的方式，邀請旅人走進山谷、草地與天空之間，感受台東獨有的慢步調。今年最吸睛的焦點，莫過於與人氣角色「吉伊卡哇」合作。從主視覺中可愛的熱氣球造型，到草地上奔跑的角色們，讓原本的鹿野高台多了童趣與"
+          "title": "不只氣溫高！7/23大暑節氣又悶又熱、午後雷陣雨：還有「這3重考驗」",
+          "link": "https://www.gvm.com.tw/article/122856",
+          "published": "2026-07-21T19:29:00",
+          "summary": "7/23大暑節氣將至，氣候進入全年最熱的時期，濕氣、悶熱、午後雷陣雨交錯來襲，不少人身心俱疲、煩躁易怒。面對這場「大暑期中考」，你能否不被高溫擊倒，依然優雅如常？知名身心靈預防醫學專家，洛桑加參醫師指出，大暑不只是氣溫的考驗，更是調身、練心、行善的3重試煉。（本文節錄自《靜心・淨心》一書，作者：洛桑加參，時報出版，以下為摘文。）面對調身、練心、行善的3重試煉，醫師提醒，炸薯條無法對抗大暑，反而容易"
         },
         {
-          "title": "中暑、熱痙攣都保！南山人壽推全台首張「熱傷害」微保，住院賠１萬",
-          "link": "https://www.gvm.com.tw/article/131682",
-          "published": "2026-07-20T19:15:00",
-          "summary": "極端高溫成為新常態，保險業也開始從減碳走向氣候調適。南山人壽推出全台首張熱傷害團體微型保險，首年保障台南近3.2萬名弱勢民眾，藉由試辦累積本土數據，探索保險業如何補上氣候風險下的社會安全網缺口。極端高溫不再只是氣象議題，也正成為保險業必須面對的新型健康風險。南山人壽7月正式開辦全國首張「團體微型熱傷害住院關懷健康保險」，首年由台南市近3.2萬名低收入戶、中低收入戶及符合資格長者納保。這張保單的意義"
+          "title": "初出社會月薪僅300！傳奇企業家尹衍樑：推掉工作等同推掉福氣",
+          "link": "https://www.gvm.com.tw/article/131713",
+          "published": "2026-07-21T19:17:00",
+          "summary": "尹衍樑是媒體眼中神祕的霸道總裁，富豪榜身價排名TOP 10，卻在事業如日中天時，宣布豪捐95％個人財富，回饋社會。傳奇企業家尹衍樑曾分享第一份工作月薪雖僅300元，卻靠超乎要求的全力以赴累積實力。他強調，主動爭取並創造被公司利用的價值，才是職場翻身的關鍵。（本文節錄自《尹教授的10堂課》一書，作者：作者：尹衍樑 口述、張殿文 著、郭議鴻 整理／今周刊出版，以下為摘文。）少賺少做的錯誤迷思高工時低薪"
         },
         {
-          "title": "英國新首相柏南今上任：挽救經濟爛攤，還得搞定川普，他能終結唐寧街魔咒嗎？",
-          "link": "https://www.gvm.com.tw/article/131557",
-          "published": "2026-07-20T18:55:00",
-          "summary": "7月20日更新：英國工黨黨魁柏南20日正式接替施凱爾（Keir Starmer），成為英國第59任首相，也是10年來的第7位首相。柏南團隊透露，新政府上任初期的施政重點包括取消成年人的數位身分證計畫、將自來水與能源公司國有化、推動新的市政住宅建設計畫，並推動北海石油與天然氣新鑽探案。美國總統川普19日也在其社群平台「真實社群」（Truth Social）發文，表達對相關鑽探計畫的支持。英國（Lab"
+          "title": "從放牛班到EDA大師！張耀文：人生沒有白走的路",
+          "link": "https://www.gvm.com.tw/article/131699",
+          "published": "2026-07-21T19:07:00",
+          "summary": "在功利與焦慮蔓延的年代，很多人都想進入AI殿堂領高薪，台大電機系特聘教授張耀文卻用「繞遠路」實現人生逆襲。從連國語都聽不懂的轉學生，到被編入「放牛班」；從台大攝影社暗房裡的光學啟蒙，到留美意外鑽研相對較冷門的電子設計自動化領域（EDA）。他憑藉海綿般的學習力與對誠信正直（Integrity）的堅持，成為國際EDA的頂尖大師，更拿下今年首次公布的「EDA名人堂」全球第一名。又到了選填大學志願的時節，"
         },
         {
-          "title": "台股反彈能抄底嗎？看懂美伊戰火背後斷鏈真相",
-          "link": "https://www.gvm.com.tw/article/131672",
-          "published": "2026-07-20T18:50:00",
-          "summary": "7月17日堪稱台股的黑色星期五，加權指數重挫2953點，創下史上最大單日跌點，今（20）日終場小跌221點，但最壞的情況過去了嗎？還是另一場慢性套牢的開始？答案可能就藏在「美伊戰爭」裡。根據永豐金證券的分析指出，717股災是多重利空同時引爆的結果。分別是全球AI資本支出變現疑慮蔓延，市場對雲端服務巨頭（CSP）的ROI（投資回報率）產生極大焦慮。其次是，外資大規模去槓桿與流動性撤退；第三是融資多殺"
+          "title": "職場霸凌新制上路，為何恐讓地方公務員更忙不完？",
+          "link": "https://www.gvm.com.tw/article/131712",
+          "published": "2026-07-21T19:00:00",
+          "summary": "《職安法》職場霸凌防治新制7月上路，明確職場霸凌的定義與認定原則，輔以高額罰款，有望翻轉未來的台灣職場文化，朝愈來愈友善的道路前進。但勞團指出，根據勞動部的「職場霸凌調查專業人才資料庫」，未來可投入霸凌案件調查的「外部專家」人數雖然增長迅猛，截至今（21）日已有741人，但對照台灣上百萬家企業的龐大需求，量能顯然不夠，且各地方政府的勞動預算長期低迷，外加區域分配不均，直言這將是新制能否運作的一大瓶"
         },
         {
-          "title": "Claude Code 新手友善教學：開發你的第一個AI專案",
-          "link": "https://www.gvm.com.tw/article/131681",
-          "published": "2026-07-20T18:43:00",
-          "summary": "Anthropic推出的AI Agent工具Claude Code近期相當熱門，可以讓AI自動從開發、測試到部署，做出完整的程式專案。但是許多新手一聽到要打開「終端機」就害怕：除了不知道那是什麼？有人看到黑黑的畫面和需要熟悉CLI指令已落荒而逃。但現在Anthropic已推出新手也能使用的版本了！只要下載Claude桌面版App，就能在Code分頁中使用Claude Code，體感接近使用微軟視窗"
+          "title": "跟老闆交情好有用嗎？高層台幹離職後才想懂：所有老闆都念同一個學位",
+          "link": "https://www.gvm.com.tw/article/131711",
+          "published": "2026-07-21T18:50:00",
+          "summary": "對老闆而言，能幫公司創造最大利潤才是唯一的目標，其他什麼交情都是次要的。光有交情而不能繼續創造利潤，結果就是走人。適者授官，功者賞祿：了解賞與升的差異，才能留住人才。（本文節錄自《劉必榮的領導筆記》一書，作者：劉必榮／先覺出版，以下為摘文。）老闆要懂：賞和升是不一樣的概念賞，是酬賞員工過去的表現；升，是著眼未來的發展，升上一個有前瞻性的人，擺在最恰當的位子。日本明治維新初期的西鄉隆盛就說：「於國有"
         },
         {
-          "title": "北市散步新路線！民權大橋景觀橋「天際之眼」啟用，有何特色？",
-          "link": "https://www.gvm.com.tw/article/131675",
-          "published": "2026-07-20T17:18:00",
-          "summary": "台北市民權大橋景觀橋今天啟用，將串聯觀山、彩虹河濱公園，不僅成民眾騎自行車、散步新路線，還可欣賞松山機場飛機起降，感受夜光雕及基隆河畔景致。景觀橋取名「天際之眼」，也宛如一條輕柔環繞基隆河畔的藍色絲帶。蔣萬安今天上午出席民權大橋景觀橋啟用，蔣萬安說，這項工程不僅提升民權大橋路面寬度，強化串接松山、內湖及內湖科技園區的重要交通功能，更打造可欣賞飛機起降、飽覽基隆河日夜美景的全新休憩空間，為市民建構兼"
+          "title": "韓股為何重挫近三成？七度熔斷官方忙降溫，叫停槓桿ETF新發行",
+          "link": "https://www.gvm.com.tw/article/131710",
+          "published": "2026-07-21T18:47:00",
+          "summary": "韓國股市不到一個月重挫近三成，超過120萬名散戶面臨追繳保證金，引爆大規模斷頭潮。關鍵原因是散戶瘋狂壓注「2倍單股槓桿ETF」，在權重過度集中與「愈跌愈賣」機制下，引爆強制平倉潮，今年以來已七度觸發熔斷機制。韓國官方緊急出手降溫，宣布叫停新檔發行、保證金暴增三倍，並開通債務諮詢專線專線。目錄●兩倍槓桿ETF是什麼？●單股槓桿ETF：美國、香港沒事，韓國為何暴跌？●韓股熔斷機制運作方式●韓股漲跌幅限"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "六七月降雨量異常多梁榮武稱氣候變化導致極端天氣 - 橙新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.orangenews.hk/hongkong/VPyLyhh/%25E5%2585%25AD%25E4%25B8%2583%25E6%259C%2588%25E9%2599%258D%25E9%259B%25A8%25E9%2587%258F%25E7%2595%25B0%25E5%25B8%25B8%25E5%25A4%259A-%25E6%25A2%2581%25E6%25A6%25AE%25E6%25AD%25A6%25E7%25A8%25B1%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E5%258C%2596%25E5%25B0%258E%25E8%2587%25B4%25E6%25A5%25B5%25E7%25AB%25AF%25E5%25A4%25A9%25E6%25B0%25A3.shtml&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3nI6r6J4XgOJWBYZvpeI5m",
-          "published": "2026-07-21T03:09:45+00:00",
-          "summary": "今年6月及7月降雨量異常偏多，7月累積雨量已超越往年整個月平均水平。梁榮武指極端天氣導致華南長期暴雨，與氣候變化有關。"
+          "title": "南歐、非洲野火狂燒剩焦土！ <b>氣候變遷</b>加劇災害風險｜  小編推新聞20260722 - YouTube",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DVKk5WYYyESw&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2FHzmA7pVSv-GbJj1Q_gNh",
+          "published": "2026-07-22T03:40:21+00:00",
+          "summary": "南歐、非洲野火狂燒剩焦土！ 氣候變遷加劇災害風】 環境保護議題仍是大課題！〈#停不下來編〉 #野火#氣候變遷#高溫  一鍵訂閱華視新聞YOUTUBE&nbsp;..."
         },
         {
-          "title": "摸蚯蚓、玩攝影！馬明潭夏令營登場學童體驗<b>淨零</b>永續行動 - 是新聞YesMedia",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.yesmedia.com.tw/%25E6%2591%25B8%25E8%259A%25AF%25E8%259A%2593%25E3%2580%2581%25E7%258E%25A9%25E6%2594%259D%25E5%25BD%25B1%25EF%25BC%2581%25E9%25A6%25AC%25E6%2598%258E%25E6%25BD%25AD%25E5%25A4%258F%25E4%25BB%25A4%25E7%2587%259F%25E7%2599%25BB%25E5%25A0%25B4%25E3%2580%2580%25E5%25AD%25B8%25E7%25AB%25A5%25E9%25AB%2594%25E9%25A9%2597%25E6%25B7%25A8/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0ikG_b1kSxMfeTKfMu2f4n",
-          "published": "2026-07-21T03:00:01+00:00",
-          "summary": "學童參加「馬明潭淨零行動家」夏令營，親手製作香草球，在趣味實作中認識自然生態與永續環境概念。圖／臺北市教育局提供. 為培養學童環境觀察力與永續行動素養，&nbsp;..."
+          "title": "中山大學布局太平洋藍碳研究帛琉副總統率團訪臺深化合作 - 波新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bo6s.com.tw/news_detail.php%3FNewsID%3D114342&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2P_j-VNmRhaa27Jk9Sbabn",
+          "published": "2026-07-22T03:05:25+00:00",
+          "summary": "海水、深海洋流，以及海草床、紅樹林等沿岸生態系，都能吸收並長時間儲存二氧化碳，形成「藍碳（Blue Carbon）」，是全球因應氣候變遷與推動淨零的重要自然解方。"
         },
         {
-          "title": "又一位英國首相下台：施凱爾留給全球環境的三個啟示",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://e-info.org.tw/node/243671&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw25J8pPWwbCSGxljjatgyiR",
-          "published": "2026-07-21T02:50:28+00:00",
-          "summary": "在此前的政府中，各主要政黨基本形成了共識：氣候變遷構成重大威脅，必須採取有力行動，力爭在2050年前實現淨零排放。 然而，去年反對黨保守黨放棄了對2050&nbsp;..."
+          "title": "紐西蘭氣候政策遭批獨立報告警告恐難達成減排目標| 民視新聞網 - LINE TODAY",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/LXyBWWr&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2NIAdtBxHVul7dIOXTqC0a",
+          "published": "2026-07-22T01:21:50+00:00",
+          "summary": "委員會原本建議加強目標，要求更大程度地減少生物源甲烷（biogenic methane）並實現其他溫室氣體的淨負排放，但政府卻修改《氣候變遷因應法》（Climate Change&nbsp;..."
         },
         {
-          "title": "東華大學與臺科大培育<b>淨零</b>人才辦理稽核員訓練及iPAS總複習 - PChome news",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/living/cna/20260721/index-17846009133614618009.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2k1UW6byWTM4qO9Nu8cjlM",
-          "published": "2026-07-21T02:50:14+00:00",
-          "summary": "為培育溫室氣體盤查與淨零碳管理專業人才，國立東華大學碳中和研究中心攜手國立臺灣科技大學，辦理「ISO 14064-1:2018溫室氣體盤查主任查證員（稽核員）訓練班」&nbsp;..."
+          "title": "South Korea's &quot;Northern Floods, Southern Drought&quot;: A Global <b>Climate Change</b> Crisis - YouTube",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D3tRHtzOungI&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3TxCZbU3YMiM8ygTKkJp1j",
+          "published": "2026-07-22T01:17:18+00:00",
+          "summary": "South Korea's &quot;Northern Floods, Southern Drought&quot;: A Global Climate Change Crisis — The Dual Impa... @SETBorderlessWorldNo likesNo views2 minutes&nbsp;..."
         },
         {
-          "title": "陽明與PSA簽MOU，推動端到端供應鏈減排解方",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/vX87ZlE&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0-XxY3BJbgCU2JfXrBEHFH",
-          "published": "2026-07-21T02:49:25+00:00",
-          "summary": "因應全球氣候變遷下的減排趨勢，陽明始終秉持環境永續的核心理念，藉由多元佈局替代燃料、精進船隊運營效率與導入船舶數位化監控技術，截至去(2025)年底，陽明船舶碳&nbsp;..."
+          "title": "紐西蘭減碳進度停滯<b>氣候變遷</b>委員會警告：恐難達標 - 民視新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ftvnews.com.tw/news/detail/2026722W0114&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw16qH2DQozTDanz_S-2PTiJ",
+          "published": "2026-07-22T00:26:24+00:00",
+          "summary": "根據路透社（Reuters）報導，紐西&nbsp;..."
         },
         {
-          "title": "七月至今雨量已超全月平均值梁榮武拆解與氣候變化關係料周末熱帶氣旋逼近再有大量降雨",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.stheadline.com/society/3595932/%25E4%25B8%2583%25E6%259C%2588%25E8%2587%25B3%25E4%25BB%258A%25E9%259B%25A8%25E9%2587%258F%25E5%25B7%25B2%25E8%25B6%2585%25E5%2585%25A8%25E6%259C%2588%25E5%25B9%25B3%25E5%259D%2587%25E5%2580%25BC-%25E6%25A2%2581%25E6%25A6%25AE%25E6%25AD%25A6%25E6%258B%2586%25E8%25A7%25A3%25E8%2588%2587%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E5%258C%2596%25E9%2597%259C%25E4%25BF%2582-%25E6%2596%2599%25E5%2591%25A8%25E6%259C%25AB%25E7%2586%25B1%25E5%25B8%25B6%25E6%25B0%25A3%25E6%2597%258B%25E9%2580%25BC%25E8%25BF%2591%25E5%2586%258D%25E6%259C%2589%25E5%25A4%25A7%25E9%2587%258F%25E9%2599%258D%25E9%259B%25A8&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1l6HAncjCdsZHE_IghecNa",
-          "published": "2026-07-21T02:16:10+00:00",
-          "summary": "本港近日天氣持續不穩，頻頻出現狂風雷暴及大雨。香港氣象學會發言人梁榮武解釋，連日大雨主要受一道廣闊低壓槽影響，導致7月至今，整體降雨量已經超越了正常的&nbsp;..."
+          "title": "紐西蘭減碳進度停滯<b>氣候變遷</b>委員會警告：恐難達標| 民視新聞網 - LINE TODAY",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/WBRqD1g&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1-_RoG6HVt_u3Ssis1VMn8",
+          "published": "2026-07-22T00:23:38+00:00",
+          "summary": "... （Reuters）報導，紐西蘭氣候變遷委員會（Climate Change ... 紐西蘭已立法制定排放預算，目標是在2050年前實現長效溫室氣體淨零排放，同時減少農業和廢棄物產生的甲烷。"
         }
       ]
     }
