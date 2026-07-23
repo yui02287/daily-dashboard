@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-07-22T04:16:06.378823+00:00",
-    "date": "2026-07-22",
+    "generated_at": "2026-07-23T04:14:41.117938+00:00",
+    "date": "2026-07-23",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "【決策速度成新競爭力】從數週審核到五分鐘核准，Taktile 用 AI 代理改寫金融業競爭規則",
-          "link": "https://techorange.com/2026/07/22/taktile/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-22T02:26:55+00:00",
-          "summary": "過去兩年，企業 AI 已經證明自己能勝任文件摘要、問答與重複性工作的自動化，但銀行業關心的是：AI 能不能被信任，去做出承擔財務、法規與法律後果的決策？ Taktile 共同創辦人暨執行長 Maik Taro Wehmeyer 認為，這道門檻正開始鬆動。他認為，過去的模型還沒好到足以承擔金融服務業的關鍵任務決策，而 2026 年將是 AI 真正進入金融服務業的一年。 Taktile，從一張 IT "
+          "title": "人形機器人租賃潮：租而不買的背後，是廠商搶建資料飛輪的商業邏輯",
+          "link": "https://techorange.com/2026/07/23/robots-available-for-rent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-23T02:25:05+00:00",
+          "summary": "租賃機器人曾經是科幻電影裡的情節，如今它是正在快速成長的產業之一。從醫療、製造到飯店服務與家務照護，越來越多企業與個人選擇「租」而非「買」，背後的吸引力在於更低的成本、內建的維護服務，以及能隨技術快速迭代持續升級的彈性。 這種轉變不只是消費方式的改變，更牽動了整個人形機器人產業的資料積累與商業競爭邏輯。 買機器人怕過時，租機器人解兩大痛點 這套模式被稱為「機器人即服務」（Robotics-as-a"
         },
         {
-          "title": "研究指 75% AI Mode 搜尋未產生外部點擊：Google 築起流量圍牆，開放網路迎來「Google Zero」？",
-          "link": "https://techorange.com/2026/07/22/google-ai-open-web/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-22T02:23:14+00:00",
-          "summary": "2004 年 Google 準備上市時，Google 共同創辦人 Larry Page 曾在致股東信中表示：「我們相信一個運作良好的社會，應該讓人們能夠豐富、自由且不受偏見地取得高品質資訊。」此後數十年間，Google 確實扮演開放網路的門戶，並透過搜尋結果中的藍色超連結，將龐大流量導向出版商、商家、大學與各類組織共同建構的網路世界。 然而，隨著 AI 技術迅速發展，這家昔日的開放網路捍衛者，如今"
+          "title": "高通膨下的展店難題，美式速食品牌 Shake Shack 如何用 AI、數據、會員三招破局？",
+          "link": "https://techorange.com/2026/07/23/ai-shake-shack/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-23T01:51:38+00:00",
+          "summary": "去年美國餐飲業面臨牛肉價格持續攀升、勞動成本增加等多重挑戰，但以漢堡聞名的速食品牌 Shake Shack 卻交出亮眼成績單。2025 年，該公司餐廳營運利潤率逆勢提升至 22.6%，同店銷售也成長 2.3%，展現出極強的抗通膨韌性。 如今，Shake Shack 正將這套經營經驗進一步轉化為可複製的數位能力，啟動大型數位轉型計畫 Project Catalyst，融合餐廳營運、數據分析、會員經營"
         },
         {
-          "title": "用 AI 把行銷素材規模化、效率提升3-5倍：Expedia 子品牌如何拿捏人機協作的邊界？",
-          "link": "https://techorange.com/2026/07/22/ai-expedia-vrbo-marketing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-22T00:00:00+00:00",
-          "summary": "生成式 AI 正快速改變旅遊產業的行銷模式，但對 Expedia 集團旗下短租品牌 Vrbo 而言，AI 並非全面取代人力的工具，而是一套經過嚴格界定的效率引擎。 Vrbo 一方面運用 AI 將全球行銷素材生產效率提升 3 至 5 倍，另一方面仍堅持所有涉及房源展示與品牌情感的內容必須由真人與真實場景完成，藉此守住品牌最重要的「品質與信任」價值。 傳統數據鎖定需求，生成式 AI 規模化在地素材 近"
+          "title": "Sony 聯手三菱電機切入 Siemens、Fanuc 戰局，兩大日企如何搶攻實體 AI 戰場？",
+          "link": "https://techorange.com/2026/07/23/sony-and-mitsubishi-set-up-ai-vision-joint-venture-for-factories/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-23T01:18:39+00:00",
+          "summary": "日本電子企業從零組件供應商、產品製造商到軟體開發商，都正加速擴大在 AI 領域的布局。這股轉型浪潮背後的動力，主要是為了吸引投資資金，並避免在這場技術變革中被淘汰。 就在 NVIDIA 執行長黃仁勳訪問日本，並呼籲日本企業全面投入 Physical AI 的一週後，三菱電機與 Sony 半導體解決方案公司宣布達成戰略合作。雙方將於 2026 年 10 月正式成立名為「Advanced Vision"
         },
         {
-          "title": "【科技早餐】Microsoft 評估 Kimi K3、擴大 AMD 算力，中國也擬收緊 AI 技術出口",
-          "link": "https://techorange.com/2026/07/22/microsoft-kimi-k3-amd-ai-compute-china-export-controls/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-21T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊AI 代理帳單膨脹，Microsoft 評估 Kimi K3 降低 Copilot 成本 AI 模型單位價格持續下降，但代理式工作流反覆呼叫模型、讀取文件、整理上下文、使用外部工具，再檢查與修正答案，仍可能推高企業的 AI 總支出。研究分析八款前沿模型執行代理式程式任務後發現，這類工作消耗的 Token 最多可達一般程式問答的 1,000 倍；同"
+          "title": "【科技早餐】AI 競賽進入成本、產能與資本戰：台積電傳漲價 10％、緯創赴美量產 GB300",
+          "link": "https://techorange.com/2026/07/23/ai-cost-capacity-capital-tsmc-price-hike-wistron-gb300/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-22T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊台積電傳 2027 年漲價最高 10％，AI 晶片成本再升 《路透》引述兩名知情人士報導，台積電計畫自 2027 年起調高晶圓代工價格，依客戶與產品不同，漲幅最高約 10％。調價範圍涵蓋小於 6 奈米的先進製程，以及 12、16 與 28 奈米等成熟製程。消息人士指出，台積電此舉主要為抵銷原物料、製造設備與海外晶圓廠建設成本上升。《日經亞洲》則報"
         },
         {
-          "title": "虛擬資產監理元年，為何台灣業者真正要打的是「跨境戰」？",
-          "link": "https://techorange.com/2026/07/21/vasp-mjtaiwan-kpmg/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-21T12:13:45+00:00",
-          "summary": "台灣日前三讀通過《虛擬資產服務法》，也意味著台灣正式進入虛擬資產監理元年。對於金融業與科技業者而言，接下來的問題是：在細部規範尚未全部到位的這段時間，該做些什麼準備？ 在 2026 玉山安侯論壇「鏈上未來：台灣虛擬資產監理元年」的座談上，四位來自金融、監理與產業端的專家分別從資金效率、成本結構與法遵準備切入，指出企業可以先行盤點的方向。 29 兆美元卡在帳戶裡：穩定幣要解的是資金效率問題 Teth"
+          "title": "OpenAI 先當「零號客戶」：KPMG 如何讓 ERP、CRM 退居後台，改由 AI Agent 當新入口？",
+          "link": "https://techorange.com/2026/07/22/kpmg-openai-elite-partner-headless-software/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-22T10:01:46+00:00",
+          "summary": "在過去數十年裡，企業員工的工作模式幾乎沒有太大改變，多數人每天花費大量時間登入各種應用程式、在繁雜的畫面間切換，並在不同功能模組中逐一點選與操作。不過現在，這種工作方式正面臨根本性的顛覆：近期，全球顧問巨頭 KPMG 提出「無介面」（headless）的全新企業科技架構，主張將員工的工作體驗與底層系統、畫面及模組徹底分離。 在這套全新架構下，原有的企業資源規劃（ERP）、客戶關係管理（CRM）及人"
         },
         {
-          "title": "北韓假員工滲透逾百家美企：AI 如何把「合成內鬼」攻擊規模化？",
-          "link": "https://techorange.com/2026/07/21/synthetic-insider-attacks-raise-stakes-for-corporate-cyber-defence/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-21T09:15:16+00:00",
-          "summary": "美國司法部近年打擊了一項針對美國企業的北韓駭客行動，並揭露新型態的資安防線漏洞：多名北韓駭客透過冒用美國公民身分，成功取得美國企業的遠端工作職位，藉此為北韓政府賺取資金，並企圖竊取企業內部敏感資料。 美國政府指出，攻擊者在超過 100 家企業中，冒用超過 80 名美國公民的真實身分取得職位並執行攻擊，為面臨聯合國制裁的北韓政府創造超過 500 萬美元的非法收入。這類新興資安威脅在業界被稱為「合成內"
+          "title": "token 最高省 65%！Google 推 Gemini 3.6 Flash 等新模型，成本為何成最大亮點？",
+          "link": "https://techorange.com/2026/07/22/google-gemini-flash-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-22T09:56:15+00:00",
+          "summary": "Google 在美國時間 7/21 一口氣發表了 Gemini 3.6 Flash、Gemini 3.5 Flash-Lite 與 Gemini 3.5 Flash Cyber 三款新模型，但這次最受矚目的不是追求能力有多強，而是主打運行 AI 代理的速度更快、成本更低。其中主力的 Gemini 3.6 Flash，在執行長時程工程任務時，最高可將 token 用量降低 65%，直接瞄準企業大規模"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "不只氣溫高！7/23大暑節氣又悶又熱、午後雷陣雨：還有「這3重考驗」",
-          "link": "https://www.gvm.com.tw/article/122856",
-          "published": "2026-07-21T19:29:00",
-          "summary": "7/23大暑節氣將至，氣候進入全年最熱的時期，濕氣、悶熱、午後雷陣雨交錯來襲，不少人身心俱疲、煩躁易怒。面對這場「大暑期中考」，你能否不被高溫擊倒，依然優雅如常？知名身心靈預防醫學專家，洛桑加參醫師指出，大暑不只是氣溫的考驗，更是調身、練心、行善的3重試煉。（本文節錄自《靜心・淨心》一書，作者：洛桑加參，時報出版，以下為摘文。）面對調身、練心、行善的3重試煉，醫師提醒，炸薯條無法對抗大暑，反而容易"
+          "title": "從救一隻龜，到守護一片海：國泰人壽讓海洋保育從一次救援，走向長期行動",
+          "link": "https://www.gvm.com.tw/article/131665",
+          "published": "2026-07-23T00:00:00",
+          "summary": "海洋保育不只是拯救一隻海龜，更是維護海洋生態、生物多樣性，以及人類生活的重要基礎。國泰人壽透過「龜鄉守護計畫」，將海龜保育與海洋保育從事後救助推向事前預防，展現企業ESG如何化為守護自然的長期承諾，落實企業永續。目錄● 台灣海龜擱淺為什麼愈來愈嚴重？● 海龜為什麼對海洋生態如此重要？● 一隻受傷的海龜，怎麼被送回大海？● 衛星追蹤如何協助海龜保育？● 企業如何參與海洋保育？一隻背著咬痕的欖蠵龜「龜"
         },
         {
-          "title": "初出社會月薪僅300！傳奇企業家尹衍樑：推掉工作等同推掉福氣",
-          "link": "https://www.gvm.com.tw/article/131713",
-          "published": "2026-07-21T19:17:00",
-          "summary": "尹衍樑是媒體眼中神祕的霸道總裁，富豪榜身價排名TOP 10，卻在事業如日中天時，宣布豪捐95％個人財富，回饋社會。傳奇企業家尹衍樑曾分享第一份工作月薪雖僅300元，卻靠超乎要求的全力以赴累積實力。他強調，主動爭取並創造被公司利用的價值，才是職場翻身的關鍵。（本文節錄自《尹教授的10堂課》一書，作者：作者：尹衍樑 口述、張殿文 著、郭議鴻 整理／今周刊出版，以下為摘文。）少賺少做的錯誤迷思高工時低薪"
+          "title": "綠能永續．廉政同行 中市府邀產官學共談廉政透明與能源轉型",
+          "link": "https://www.gvm.com.tw/article/131728",
+          "published": "2026-07-22T18:55:00",
+          "summary": "面對全球淨零轉型趨勢與再生能源加速發展，推動綠能政策除了擴充建置量能，也必須兼顧法令遵循、行政透明與社會信任。為此，臺中市政府經濟發展局與政風處於7月22日攜手臺中地檢署，共同舉辦「綠能永續．廉政同行座談會」，邀集中央部會、司法機關、學界、綠能業者、企業代表及相關業務公務同仁等近百人齊聚交流。經發局表示，綠能是臺灣邁向淨零轉型的重要基礎，要讓產業走得穩健長久，除了技術、資金與設備到位外，更需要清楚"
         },
         {
-          "title": "從放牛班到EDA大師！張耀文：人生沒有白走的路",
-          "link": "https://www.gvm.com.tw/article/131699",
-          "published": "2026-07-21T19:07:00",
-          "summary": "在功利與焦慮蔓延的年代，很多人都想進入AI殿堂領高薪，台大電機系特聘教授張耀文卻用「繞遠路」實現人生逆襲。從連國語都聽不懂的轉學生，到被編入「放牛班」；從台大攝影社暗房裡的光學啟蒙，到留美意外鑽研相對較冷門的電子設計自動化領域（EDA）。他憑藉海綿般的學習力與對誠信正直（Integrity）的堅持，成為國際EDA的頂尖大師，更拿下今年首次公布的「EDA名人堂」全球第一名。又到了選填大學志願的時節，"
+          "title": "新冠疫情進入流行期！COVID-19就診病例週增逾六成，疾管署籲接種疫苗",
+          "link": "https://www.gvm.com.tw/article/131732",
+          "published": "2026-07-22T18:29:00",
+          "summary": "COVID-19疫情上升，根據監測，第28週門急診較前1週上升66.5%，疾管署發言人曾淑慧表示，COVID-19疫情達流行閾值，進入流行期，呼籲尚未接種本季疫苗民眾把握機會儘速接種。曾淑慧21日下午在例行疫報表示，依據監測資料顯示，國內COVID-19（2019冠狀病毒疾病）疫情持續上升，達流行閾值，進入流行期，7月12日至7月18日門急診就診達4766人次，較7月5日至7月11日上升66.5%"
         },
         {
-          "title": "職場霸凌新制上路，為何恐讓地方公務員更忙不完？",
-          "link": "https://www.gvm.com.tw/article/131712",
-          "published": "2026-07-21T19:00:00",
-          "summary": "《職安法》職場霸凌防治新制7月上路，明確職場霸凌的定義與認定原則，輔以高額罰款，有望翻轉未來的台灣職場文化，朝愈來愈友善的道路前進。但勞團指出，根據勞動部的「職場霸凌調查專業人才資料庫」，未來可投入霸凌案件調查的「外部專家」人數雖然增長迅猛，截至今（21）日已有741人，但對照台灣上百萬家企業的龐大需求，量能顯然不夠，且各地方政府的勞動預算長期低迷，外加區域分配不均，直言這將是新制能否運作的一大瓶"
+          "title": "有錢人嘴上談投資，其實關心「這事」！滙豐銀行高階理財４大服務一次看",
+          "link": "https://www.gvm.com.tw/article/131731",
+          "published": "2026-07-22T18:18:00",
+          "summary": "政府力推台灣成為亞洲資產管理中心，國際銀行也加快布局高資產市場。滙豐銀行21日宣布全面升級卓越理財服務，除將卓越理財尊尚門檻由1500萬元調高至3000萬元，更從客戶人生各階段的生活需求出發，推出跨境金融、健康、旅遊與財富管理四大服務，搶攻富裕客群商機。亞洲正成為全球財富成長最快的市場。根據波士頓顧問公司（BCG）《2026全球財富報告》，2030年前全球將新增124兆美元財富，其中約三分之一來自"
         },
         {
-          "title": "跟老闆交情好有用嗎？高層台幹離職後才想懂：所有老闆都念同一個學位",
-          "link": "https://www.gvm.com.tw/article/131711",
-          "published": "2026-07-21T18:50:00",
-          "summary": "對老闆而言，能幫公司創造最大利潤才是唯一的目標，其他什麼交情都是次要的。光有交情而不能繼續創造利潤，結果就是走人。適者授官，功者賞祿：了解賞與升的差異，才能留住人才。（本文節錄自《劉必榮的領導筆記》一書，作者：劉必榮／先覺出版，以下為摘文。）老闆要懂：賞和升是不一樣的概念賞，是酬賞員工過去的表現；升，是著眼未來的發展，升上一個有前瞻性的人，擺在最恰當的位子。日本明治維新初期的西鄉隆盛就說：「於國有"
+          "title": "職場霸凌防治新制亂象》企業瘋上課，一個案子最高收12萬",
+          "link": "https://www.gvm.com.tw/article/131730",
+          "published": "2026-07-22T18:10:00",
+          "summary": "《職安法》職場霸凌防治專章修法上路後，意外地衍生出一些亂象。當外界期待新法將翻轉台灣原有的職場文化，沒想到國內企業為避免踩雷，紛紛搶上相關課程、尋求律師協助，就連培訓未來可參與調查的「外部專家」課程也一位難求。面對新制帶來的調查義務與制度要求，已在企業界掀起一波培訓熱潮。若你是企業主管與雇主，該如何在外界瘋學「合法管教」風潮起時拿捏分寸？「我們有做過一些企業的分享，HR的憂慮跟擔心非常多，5月19"
         },
         {
-          "title": "韓股為何重挫近三成？七度熔斷官方忙降溫，叫停槓桿ETF新發行",
-          "link": "https://www.gvm.com.tw/article/131710",
-          "published": "2026-07-21T18:47:00",
-          "summary": "韓國股市不到一個月重挫近三成，超過120萬名散戶面臨追繳保證金，引爆大規模斷頭潮。關鍵原因是散戶瘋狂壓注「2倍單股槓桿ETF」，在權重過度集中與「愈跌愈賣」機制下，引爆強制平倉潮，今年以來已七度觸發熔斷機制。韓國官方緊急出手降溫，宣布叫停新檔發行、保證金暴增三倍，並開通債務諮詢專線專線。目錄●兩倍槓桿ETF是什麼？●單股槓桿ETF：美國、香港沒事，韓國為何暴跌？●韓股熔斷機制運作方式●韓股漲跌幅限"
+          "title": "銀髮族能打瘦瘦針？逾65歲長者可減重23％，但注意三大副作用",
+          "link": "https://www.gvm.com.tw/article/131727",
+          "published": "2026-07-22T17:39:00",
+          "summary": "長者使用GLP-1藥物減重，有效嗎？研究證實，高齡使用者成效不輸年輕人，還能降心血管風險。然而，需慎防腸胃副作用、脫水、肌肉流失等。另外，專家也提醒務必醫療追蹤、多喝水與補充蛋白質。目錄●長者打GLP-1有效嗎？&nbsp;●高齡打GLP-1小心三大副作用●長者安全施打瘦瘦針的四大指南●69歲阿嬤靠GLP-1打破復胖魔咒俗稱「瘦瘦針」的GLP-1受體促效劑減重藥物，因馬斯克（Elon Musk）、"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "南歐、非洲野火狂燒剩焦土！ <b>氣候變遷</b>加劇災害風險｜  小編推新聞20260722 - YouTube",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DVKk5WYYyESw&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2FHzmA7pVSv-GbJj1Q_gNh",
-          "published": "2026-07-22T03:40:21+00:00",
-          "summary": "南歐、非洲野火狂燒剩焦土！ 氣候變遷加劇災害風】 環境保護議題仍是大課題！〈#停不下來編〉 #野火#氣候變遷#高溫  一鍵訂閱華視新聞YOUTUBE&nbsp;..."
+          "title": "<b>氣候變遷</b>加劇歐洲乾旱研究指「高溫」比沒下雨更致命 - 民視新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ftvnews.com.tw/news/detail/2026723W0094&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3Ov4iysmKQucA1duhNlSVj",
+          "published": "2026-07-22T23:46:01+00:00",
+          "summary": "AFP 法新社報導一項國際最新研究指出，&nbsp;..."
         },
         {
-          "title": "中山大學布局太平洋藍碳研究帛琉副總統率團訪臺深化合作 - 波新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bo6s.com.tw/news_detail.php%3FNewsID%3D114342&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2P_j-VNmRhaa27Jk9Sbabn",
-          "published": "2026-07-22T03:05:25+00:00",
-          "summary": "海水、深海洋流，以及海草床、紅樹林等沿岸生態系，都能吸收並長時間儲存二氧化碳，形成「藍碳（Blue Carbon）」，是全球因應氣候變遷與推動淨零的重要自然解方。"
+          "title": "<b>氣候變遷</b>加劇歐洲乾旱科學家：極端高溫加速水分蒸發 - 民視新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ftvnews.com.tw/news/detail/2026723W0090&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0KMth7fEcT_VgPv488UQeM",
+          "published": "2026-07-22T23:06:45+00:00",
+          "summary": "路透社（Reuters）報導，今年夏天&nbsp;..."
         },
         {
-          "title": "紐西蘭氣候政策遭批獨立報告警告恐難達成減排目標| 民視新聞網 - LINE TODAY",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/LXyBWWr&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2NIAdtBxHVul7dIOXTqC0a",
-          "published": "2026-07-22T01:21:50+00:00",
-          "summary": "委員會原本建議加強目標，要求更大程度地減少生物源甲烷（biogenic methane）並實現其他溫室氣體的淨負排放，但政府卻修改《氣候變遷因應法》（Climate Change&nbsp;..."
+          "title": "崑科大攜台糖簽署MOU 產學共創聚焦智慧房產與<b>淨零</b>永續 - 1111人力銀行",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.1111.com.tw/news/jobns/166809&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2oYgC70-WDyrPweKnCEPq7",
+          "published": "2026-07-22T22:54:02+00:00",
+          "summary": "崑山科大李天祥校長(右2)與台糖公司吳明昌董事長(左2)代表雙方簽約，鐘俊顏副校長(右)、台糖人力資源處李育英處長(左)共同見證。（圖／崑山科技大學提供）"
         },
         {
-          "title": "South Korea's &quot;Northern Floods, Southern Drought&quot;: A Global <b>Climate Change</b> Crisis - YouTube",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D3tRHtzOungI&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3TxCZbU3YMiM8ygTKkJp1j",
-          "published": "2026-07-22T01:17:18+00:00",
-          "summary": "South Korea's &quot;Northern Floods, Southern Drought&quot;: A Global Climate Change Crisis — The Dual Impa... @SETBorderlessWorldNo likesNo views2 minutes&nbsp;..."
+          "title": "蘋果AI平台與2050<b>淨零</b>碳排如何重塑品牌價值？ - 股市爆料同學會",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/readmo/b47c0ef1-002b-4ca6-a102-4e937e9be9bb&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0xesvNcpXEiDq6w-Cm5g6X",
+          "published": "2026-07-22T21:49:36+00:00",
+          "summary": "當資料中心強調再生能源比例、產品訴求碳中和與可回收設計，蘋果試圖在高耗能的AI 競賽中，建立一條「科技也能負責任」的差異化道路。這不只是ESG 宣傳，而是品牌&nbsp;..."
         },
         {
-          "title": "紐西蘭減碳進度停滯<b>氣候變遷</b>委員會警告：恐難達標 - 民視新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ftvnews.com.tw/news/detail/2026722W0114&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw16qH2DQozTDanz_S-2PTiJ",
-          "published": "2026-07-22T00:26:24+00:00",
-          "summary": "根據路透社（Reuters）報導，紐西&nbsp;..."
+          "title": "台塑企業攜手虎尾科大、虎尾高中舉辦Formosa科學探索營帶領雲林學子探索綠能科技與永續未來！",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.kingtop.com.tw/detail.php%3Ftype%3Dcatalog%26catalog_id%3D5%26id%3D51943&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3QtCoGh_MlnT2XppIgZl4u",
+          "published": "2026-07-22T19:42:47+00:00",
+          "summary": "台塑企業麥寮管理部副總經理蔡建樑表示，面對全球氣候變遷及2050淨零碳排趨勢，培育下一世代的科學素養與永續思維已成為重要課題。 本次Formosa科學探索營以&nbsp;..."
         },
         {
-          "title": "紐西蘭減碳進度停滯<b>氣候變遷</b>委員會警告：恐難達標| 民視新聞網 - LINE TODAY",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/WBRqD1g&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1-_RoG6HVt_u3Ssis1VMn8",
-          "published": "2026-07-22T00:23:38+00:00",
-          "summary": "... （Reuters）報導，紐西蘭氣候變遷委員會（Climate Change ... 紐西蘭已立法制定排放預算，目標是在2050年前實現長效溫室氣體淨零排放，同時減少農業和廢棄物產生的甲烷。"
+          "title": "台灣工業地產的<b>淨零</b>微電網革命- 日報- 工商時報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260723700121-439901&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2_4W2vNhq7wnaW-67aGjqB",
+          "published": "2026-07-22T19:09:30+00:00",
+          "summary": "NVIDIA執行長黃仁勳曾公開宣示「AI生態系在台灣」，但他也隨即拋出最核心的警訊：未來勝負成敗的關鍵在於「能源」。全球AI競爭的主戰場，正從晶片設計與晶圓代&nbsp;..."
         }
       ]
     }
