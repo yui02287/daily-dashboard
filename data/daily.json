@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-07-24T04:13:36.819653+00:00",
-    "date": "2026-07-24",
+    "generated_at": "2026-07-25T04:09:48.736366+00:00",
+    "date": "2026-07-25",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "「老闆要的不是機台，是獲利。」新漢智能揭密中小製造業 AI 轉型第一步",
-          "link": "https://techorange.com/2026/07/24/nexcom-edgeai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-24T03:29:51+00:00",
-          "summary": "在日前舉辦的「2026 AI 智慧大工廠論壇」，聚焦探討製造業 AI 賦能的實戰路徑。新漢智能副總經理阮北山指出，大型場域複雜標準、漫長的導入時程與高昂的建置費用，往往讓中小企業對 AI 智慧轉型望而卻步。面對資源有限的現實，中小企業如何打破規模限制，從零開始建構專屬的 AI 競爭力？ 阮北山觀察到，許多工廠在轉型時盲目導入 AI 模型，卻忽略底層數據收集才是模型的根基。為此，新漢推出「AI 生產"
+          "title": "【企業資料主權的危機與行動策略】35% 企業重兵佈局「混合雲」，掌握資料主權是加速 AI 創新的底層引擎",
+          "link": "https://techorange.com/2026/07/25/data-sovereignty/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-24T22:29:00+00:00",
+          "summary": "歐洲研究機構 BARC 發布《Data Sovereignty 2026（2026 資料主權報告）》，盤點了全球企業在資料治理與基礎設施的佈局現況。報告點出，雖然高達 89% 的企業已將資料主權列為核心戰略，但實務上卻有 40% 完全沒有投入實質預算，顯示高管的戰略目標與資源配置之間存在明顯落差。 隨著 AI 應用逐步進入企業核心業務，確立資料邊界已是維持營運穩定的先決條件。企業的關注重心正轉向實"
         },
         {
-          "title": "樂雲 AntiFake 前進日本 展示數位驗證與品牌防偽創新應用",
-          "link": "https://techorange.com/2026/07/24/antifake-ai-kyc/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-24T02:26:00+00:00",
-          "summary": "樂雲智能於「2026 日本臺灣形象展」展出自主研發的 AntiFake QR Code 防偽驗證系統，向日本市場展示數位驗證、品牌防偽及 AI 偽造辨識等創新應用。透過與日本企業及產業代表交流，展現台灣自主研發數位信任技術的創新成果，並持續拓展海外合作機會。 近年生成式 AI 快速普及，企業在加速推動數位轉型的同時，也面臨 AI 偽造、品牌仿冒及數位身分驗證等新興挑戰。如何建立兼顧便利性、安全性與"
+          "title": "從智慧城市到智慧工廠：解密鴻海「AI 原生 X 數位孿生」的左右腦思維",
+          "link": "https://techorange.com/2026/07/24/foxconn-ainative-digitaltwin/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-24T10:01:24+00:00",
+          "summary": "在日前舉辦的 2026 AI 智慧大工廠論壇，鴻海科技集團資深經理陳衣帆從「智慧城市」的宏觀視角切入，重新定義「智慧製造」。 陳衣帆舉例，無論是美國推動自動駕駛重塑生活型態、杜拜將整座城市放入數位沙盒中模擬運作、深圳利用無人機與物聯網實現交通數位執法，或是新加坡將大型語言模型導入公務體系，這些國家在推動政策時都有一個共通點：「他們不再將 AI 視為單純的輔助工具，而是將 AI 融入社會的 DNA，"
         },
         {
-          "title": "GPT-5.4 作弊率居冠、Claude 也未倖免：英國實測揭頂尖 AI 如何鑽漏洞完成任務",
-          "link": "https://techorange.com/2026/07/24/cheating-behaviour-in-frontier-model-evaluations/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-24T02:13:47+00:00",
-          "summary": "在 AI 能力快速升級的此刻，人們能否信任 AI 系統依循預期方式執行任務，已成為部署與安全評估的核心課題。英國 AI 安全研究院最新發布的資安能力評測指出，當前最頂尖的 AI 模型為了達成指定任務，普遍會採取走捷徑、利用漏洞等不當手段，甚至在事後扭曲或隱瞞自己取得結果的真實途徑。 這種利用測試環境漏洞，而非依循正規路徑解決問題的行為，在機器學習界被定義為「作弊」。雖然這類行為不必然代表模型具備惡"
+          "title": "從 AI 機櫃到人形機器人：AMD 如何用 Helios、FPGA 挑戰 NVIDIA 全端護城河？",
+          "link": "https://techorange.com/2026/07/24/nvidia-meet-amd-your-new-competition/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-24T09:39:16+00:00",
+          "summary": "在晶片巨頭的競爭版圖中，AMD 正發起一場雙線作戰，同時將觸角延伸至資料中心與實體 AI 的最前沿。AMD 近日在 Advancing AI 大會上正式展示名為 Helios 的機櫃級 AI 系統，這套系統被視為直接向主導資料中心市場的 NVIDIA 宣戰。 同時，人形機器人新創公司 Foundation Future Industries 也投下震撼彈，宣布未來的 Phantom 人形機器人將採"
         },
         {
-          "title": "數位轉型一定要換設備嗎？Mitsubishi 一座老工廠給出不同答案",
-          "link": "https://techorange.com/2026/07/24/mitsubishi-data-driven-decision-making/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-24T01:49:34+00:00",
-          "summary": "談到打造智慧工廠，多數企業的第一個念頭往往是汰換設備、更新控制系統。但對一座已穩定運作多年的工廠來說，全面換新不只成本高昂，還得承擔停產的風險。位於捷克的 Mitsubishi Electric Automotive Czech（MEAC）選擇了另一條路：不更動運轉逾 10 年的控制系統，只在既有產線上疊加一層資料連結，就串起超過 100 台設備。它想證明的是，讓老工廠變聰明，未必得先把機器換掉。"
+          "title": "微軟開始把 OpenAI 換掉了？兩款新自研 MAI 模型背後，是一套更值錢的方法",
+          "link": "https://techorange.com/2026/07/24/microsoft-mai-image-2-5-voice-2-flash/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-24T09:02:18+00:00",
+          "summary": "微軟在本週一次將兩款全新自研 AI 模型推入公開預覽，分別是主打高擬真影像的 MAI-Image-2.5-Pro，以及為高流量語音場景設計的 MAI-Voice-2-Flash。值得關注的是，這場發表罕見詳列了這些模型的運行平台，囊括 Bing、PowerPoint、OneDrive、Dynamics 365、Excel、GitHub Copilot 與 Azure，等於向企業用戶、也向 Open"
         },
         {
-          "title": "【AI 代理自我進化】開源 Ornith-1.0 一邊寫程式碼、一邊改進自己的工作框架",
-          "link": "https://techorange.com/2026/07/24/ornith-self-scaffolding-llm-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-24T01:48:55+00:00",
-          "summary": "DeepReinforce 發表全新的開源程式碼撰寫模型 Ornith-1.0，它專為「AI 代理程式碼撰寫」任務所設計，並且能夠進行「自我最佳化」，跑分勝過 Claude Opus。"
+          "title": "DEAT 完成第五屆理監事改選，劉于遜續任理事長：聚焦代理式 AI、共享經濟與數位政策，打造台灣平台經濟下一個十年",
+          "link": "https://techorange.com/2026/07/24/digital-economy-association-taiwan/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-24T07:25:45+00:00",
+          "summary": "社團法人台灣數位平台經濟協會（Digital Economy Association Taiwan，以下簡稱 DEAT）昨（23）日舉辦第五屆會員大會暨產業論壇，完成第五屆理監事改選，由 WeMo 執行長劉于遜續任理事長。新一屆理監事匯聚共享運具、外送平台、社群平台、物流服務、共享經濟、企業顧問及法律等多元領域代表，展現數位平台產業跨域合作的能量。 大會同步舉辦年度產業論壇，以「平台經濟新賽局：代"
         },
         {
-          "title": "【科技早餐】AI 基建需求升溫：Alphabet 資本支出上看 2,050 億美元，AMD 取得 Anthropic 最高 2 GW 部署案",
-          "link": "https://techorange.com/2026/07/24/ai-infrastructure-alphabet-capex-amd-anthropic/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-23T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Alphabet 雲端營收增 82%，全年資本支出上看 2,050 億美元 Google 母公司 Alphabet 第 2 季營收達 1,198 億美元，年增 24%，連續第 12 季維持兩位數成長。Google Cloud 營收增至 248 億美元，年增 82%，主要受到企業 AI 基礎建設、AI 解決方案及核心雲端服務需求帶動；營業利益也由去"
+          "title": "最強模型也開放，DeepSeek 靠什麼賺錢？創辦人梁文鋒揭背後的「克制戰略」",
+          "link": "https://techorange.com/2026/07/24/deepseeks-liang-wenfeng-breaks-his/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-24T04:54:07+00:00",
+          "summary": "近日，一份 DeepSeek 創辦人梁文鋒與投資人的談話紀錄在科技圈引發廣泛討論。這場於 2026 年 5 月舉行、長達近四個小時的會談，不僅透露 DeepSeek 獨特的商業思維，也折射出中國 AI 產業正在國家政策與商業獲利之間尋求平衡的軌跡。 儘管中國政府大力推動「開源、開放、協同、共享」的科技戰略，使眾多實驗室跟進開放權重模型，但財務代價也日益沉重。《Business Insider》專欄"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "做什麼事都開心不起來？憂鬱症患者「失樂症」現象，可從提升期待感著手",
-          "link": "https://www.gvm.com.tw/article/131764",
-          "published": "2026-07-23T18:39:00",
-          "summary": "研究發現，憂鬱症患者在實際享受獎賞時的愉悅感與一般人並無顯著差異，真正出現差異的，是獲得獎賞前的期待與動機階段，而非獲得獎賞當下的愉悅感。品嘗美味的食物、做喜歡的事情或與朋友相聚，原本都可能帶來愉悅感，但憂鬱症患者常出現「對往常喜愛的活動失去興趣或樂趣」的情形。這種症狀在醫學上稱為「失樂症」（anhedonia），是重度憂鬱症的核心症狀之一，是如何具體表現的，仍未完全明朗。董氏基金會引述一篇發表於"
+          "title": "亞資中心落地高雄一週年！卓榮泰：試辦成熟業務可直達全台",
+          "link": "https://www.gvm.com.tw/article/131800",
+          "published": "2026-07-24T19:15:00",
+          "summary": "歷經30年、跨越四任總統推動，台灣打造亞洲資產管理中心的構想，終於從高雄邁向下一階段。高雄專區成立滿一週年，行政院長卓榮泰今（24）日宣布，高雄成熟示範業務將逐步推廣至全台，並啟動《金融市場與資產管理發展專法》，加速與國際金融市場接軌。盛夏的高雄港畔，高雄展覽館內冠蓋雲集。大片落地窗外是港灣海景，館內則聚集數百位金融機構董事長、總經理及金融從業人員，共同見證亞洲資產管理中心高雄專區成立滿一週年，也"
         },
         {
-          "title": "他曾在家耍廢打電動兩年，父母卻不斥責！直到這天領悟",
-          "link": "https://www.gvm.com.tw/article/131763",
-          "published": "2026-07-23T18:37:00",
-          "summary": "國小時期的羅浦堤，是標準的資優生。但敏銳的他，卻在校園中看見不平等的權力結構與霸凌現象，也感受到體制帶來的壓抑。國中時，他決定選擇自學。剛離開學校的前一、兩年，他幾乎都在家裡「耍廢」打電動，但父母並未責怪或干涉，直到某天他終於領悟一件事。如今羅浦堤成為拿下譽為「折紙界奧斯卡」的喬賽爾獎（Joisel Award）殿堂的台灣史上第一人！回頭看，爸媽的教養理念堅持很不一樣。一張平凡的紙，不剪、不貼，能"
+          "title": "精子要挑「高富帥」！跟胚胎喊加油，揭開全台約300名胚胎師的神祕日常",
+          "link": "https://www.gvm.com.tw/article/131793",
+          "published": "2026-07-24T19:03:00",
+          "summary": "7月25日是國際胚胎師節。1978年的這一天，全球第一個試管嬰兒在英國誕生，開啟體外受精技術的新時代。近半世紀後，接受試管嬰兒療程的人，多半記得替自己看診、取卵與植入的醫師，卻未必見過，也不一定了解醫師身後的另一群關鍵人物。這群人就是胚胎師。長時間待在封閉的實驗室裡，穿著無塵衣、戴著口罩，透過顯微鏡處理肉眼幾乎看不見的精子、卵子與胚胎。從受精、培養、觀察到冷凍，試管嬰兒療程中的多個關鍵環節，都由這"
         },
         {
-          "title": "致癌油風暴！中聯油脂廠長複訊後100萬元加保，法院：已配合調查",
-          "link": "https://www.gvm.com.tw/article/131760",
-          "published": "2026-07-23T18:17:00",
-          "summary": "中聯油脂公司陳姓廠長涉致癌物超標案，首次到案檢方諭知100萬元交保。中檢昨天發動第2波行動，再通知陳男到案複訊後聲押，法院認為他已配合調查，今天裁定加保100萬元。台灣台中地方法院今天召開羈押庭審理後，法官認為陳姓被告前經檢方諭知交保，被告於第一次偵辦後即配合檢警調查，所涉食品安全衛生管理法，屬於法定刑2年以下有期徒刑之罪。法官審酌相關證據、證人都已經檢警訊問、查扣，難認有其他共犯或證人，亦難認被"
+          "title": "通膨、就業都降溫，Fed仍會升息？7月利率決策前，市場押注曝光",
+          "link": "https://www.gvm.com.tw/article/131798",
+          "published": "2026-07-24T18:40:00",
+          "summary": "聯準會將召開7月FOMC利率會議，市場預期維持利率不變，但中東衝突升溫再度推高油價，使下半年升息預期升溫。本文解析FedWatch最新升息機率、Fed官員與市場分歧。美國聯準會（Fed）將於28、29日召開聯邦公開市場委員會（FOMC）利率會議。儘管Fed主席華許（Kevin Warsh）強調對高通膨「零容忍」，但6月消費者物價指數（CPI）月減0.4％，六年來首見下滑，且非農就業僅新增5.7萬人"
         },
         {
-          "title": "災害級酷暑！日本連3天氣溫飆破40度，中暑送醫人數破萬",
-          "link": "https://www.gvm.com.tw/article/131762",
-          "published": "2026-07-23T18:09:00",
-          "summary": "日本多地今天仍面臨危險性高溫，三重縣觀測到攝氏40.4度，為日本連3天出現攝氏40度的「酷暑日」。根據最新統計，本月13日起算的一週，日本逾1萬人因中暑或疑似中暑而送醫。共同社報導，三重縣桑名市昨天測得攝氏40.6度高溫，接著在今天觀測到40.4度，均超過40度。另外，截至今天上午11時，日本全國914處觀測地點之中，有118處測得最高氣溫35度以上；而且，有579處測得30度以上。日本氣象廳指出"
+          "title": "毒油案延燒！中聯3大股東道歉，提改革方案「邀第三方加入董事會」",
+          "link": "https://www.gvm.com.tw/article/131795",
+          "published": "2026-07-24T18:17:00",
+          "summary": "油品事件延燒，泰山、福壽及福懋油召開重大訊息記者會，3家公司首度共同提出中聯油脂改革方向，包括支持引進第三方加入董事會、建立第三方檢驗制度及強化公司治理；泰山董事長劉偉龍更主張，在食安疑慮完全排除前，中聯油脂不應復工。證交所今天召開泰山、福壽及福懋油重大訊息記者會，由泰山董事長劉偉龍、福壽董事長洪堯昆及福懋油董事長吳星澄說明近期油品事件及後續因應措施。劉偉龍表示，中聯油脂成立30多年來治理較為封閉"
         },
         {
-          "title": "「它」為何成戰國存在最久國家？從亂世小國生存法則，看職場商場局勢謀略",
-          "link": "https://www.gvm.com.tw/article/131757",
-          "published": "2026-07-23T17:28:00",
-          "summary": "當秦國統一了天下，卻還有一個國家一直存在著，即使秦始皇過世之後，都還存在，小國如何生存，從衛國的歷史，或許可以給我們一個參考。職場，就如同沒有硝煙的戰國，要想翻身，不能只是埋頭苦幹。要如何衡量局勢，將力氣用在對的地方？職場謀略、成功之道，都能從《戰國策》找到解答。（本文節錄自《縱橫》一書，作者：胡川安／平安文化出版，以下為摘文。）戰國，列國紛爭，強國環伺；在這個血與權的時代中，衛國像一艘小舟，雖不"
+          "title": "Claude模型Fable、Opus怎麼選？CP值高用法教學",
+          "link": "https://www.gvm.com.tw/article/131794",
+          "published": "2026-07-24T18:04:00",
+          "summary": "Anthropic推出的Claude是近期熱門的AI工具，擅長程式、推理與文書工作，有數種模型可選擇。其中最高階的 Fable一度開放給Pro訂閱制用戶花20美元就可享受，只是這週截止，改成100美元限量點數用完即止，往後需要訂閱企業級才可以，也讓許多粉絲抱怨是富人模型，引發熱烈討論。對於多數人訂閱的Claude Pro方案而言，要如何選擇模型，才能在高CP值下完成不同任務？日前推出的旗艦模型Fa"
         },
         {
-          "title": "對伊朗軍事行動重大升級！美軍出動B-1長程轟炸機",
-          "link": "https://www.gvm.com.tw/article/131756",
-          "published": "2026-07-23T17:10:00",
-          "summary": "美國媒體引述美國官員消息報導，美軍昨天出動一架B-1長程轟炸機，打擊伊朗伊斯蘭革命衛隊（IRGC）目標。這是美伊12天前再度爆發衝突以來，美軍首次出動B-1轟炸機執行任務，顯示華府對德黑蘭軍事行動重大升級。根據美國Axios新聞網報導，B-1轟炸機可搭載24枚2000磅炸彈或數十枚巡弋飛彈，具備美軍轟炸機中數一數二的載彈能力，並可在低空以超音速飛行。值美軍持續向中東增兵之際，美國總統川普（Dona"
+          "title": "藍白版「台灣未來帳戶」立院三讀！每年政府給6萬到18歲",
+          "link": "https://www.gvm.com.tw/article/131792",
+          "published": "2026-07-24T17:32:00",
+          "summary": "立法院會今天三讀通過「台灣兒少成長及未來帳戶條例」，明定政府為兒少開立個人未來帳戶，並納入成長津貼設計，兒少0歲到7歲間政府每年撥6萬元至可隨時動支的成長津貼專戶，7至18歲間每年撥3萬元進成長津貼專戶、3萬元至未來帳戶。根據民眾黨團預估，法案施行後第1年，政府支出約新台幣2162億元。立法院社會福利及衛生環境、財政委員會5月27日召開聯席會議，審查國民黨團、台灣民眾黨團擬具「台灣未來帳戶特別條例"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "澎湖醫院落實永續發展守護個資兼顧<b>淨零</b>減碳",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://penghudaily.blogspot.com/2026/07/blog-post_680.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3I6vtqfQSGX9gDtTyps2XT",
-          "published": "2026-07-24T00:08:33+00:00",
-          "summary": "【記者莊惠惠報導】為響應國家淨零碳排政策並落實醫療永續，澎湖醫院近期於臺南國榮紙業公司，順利完成年度水銷作業。本次作業將過期公務文件轉化為再生紙&nbsp;..."
+          "title": "新北永續未來學院學生參訪企業了解「<b>淨零</b>轉型」 - 生活 - 華視新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.cts.com.tw/cts/life/202607/202607243059638.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Hn_AZoUwvEwTI6guSZba8",
+          "published": "2026-07-25T03:18:22+00:00",
+          "summary": "新北市副市長朱惕之說：「所用到的所有的設備，那個都是一個碳排放會產生的一個部分，要怎麼做到碳中和，那就要好好的算一算。」為期三天的體驗營，不只透過講師分享，&nbsp;..."
         },
         {
-          "title": "全國首個高溫保險賴清德：公私協力最佳示範 - 工商時報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260723702106-430104&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw372exYelOgrJR478hyrA4x",
-          "published": "2026-07-23T20:30:17+00:00",
-          "summary": "總統賴清德今（23日）在總統府國家氣候變遷對策委員會表示，面對越來越熱的天氣，今年行政團隊包括環境部、金管會，結合地方政府推出了「酷齡氣候關懷行動」，&nbsp;..."
+          "title": "「避暑旅遊」重塑亞洲觀光版圖 - 草根影響力新視野",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://grinews.com/news/%3Fp%3D213856&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1i7TpZT-rooVRaE5EBMYPb",
+          "published": "2026-07-25T01:58:45+00:00",
+          "summary": "每個旅遊目的地都必須將氣候變遷納入核心策略，如此才能保持競爭力。」 Reference: How hyper-hot weather is changing Asia's travel map. 更多評論：草根影響力&nbsp;..."
         },
         {
-          "title": "全球瞭望｜英媒：美國國際信任驟降恐難重建聲譽 - 华侨网",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.chinesepress.com/archives/185736&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3J7gUkmF7IuEeojZP57rGy",
-          "published": "2026-07-23T17:54:29+00:00",
-          "summary": "新华社伦敦7月22日电(记者于艾岑)英国《金融时报》21日刊发题为《为什么世界更信任中国而不是美国》的文章指出，世界各国对美国信任度正急剧下降，&nbsp;..."
+          "title": "大型運動賽事<b>淨零</b>挑戰 - 人間福報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.merit-times.com.tw/NewsPage.aspx%3Funid%3D939124&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1gQSK-_mpPr-IWQLiSfjaI",
+          "published": "2026-07-25T01:47:02+00:00",
+          "summary": "文／程憲瑞士洛桑大學地理學家David Gogishvili等環境專家，在世足賽舉辦前夕，就曾評估本屆世足賽的永續數據，認為若依據賽事規畫，碳排放總量預估會高達500萬&nbsp;..."
         },
         {
-          "title": "賴清德：極端氣候影響國人甚鉅提三核心戰略提升台灣永續發展｜新聞快訊 - 永豐金證券",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/6a62418cb17ee73678f19342&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3bYItPzljPJC3tFyPghQ-0",
-          "published": "2026-07-23T16:39:47+00:00",
-          "summary": "台灣能源高度仰賴進口，面對國際能源價格波動與極端氣候風險，除了要持續擴大本土低碳能源，也要強化電網韌性、儲能與調度能力，確保供電穩定，支撐民生與產業發展，&nbsp;..."
+          "title": "苗栗榮服處攜手聯大推廣<b>淨零</b>綠領人才培訓課程 - 蕃新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20260725162336&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0_OQ6kyDNr2Rbx8zvnUB6F",
+          "published": "2026-07-25T01:42:08+00:00",
+          "summary": "聯大環安系郭家宏主任表示，為因應全球2050淨零碳排目標之需要，培訓各界淨零碳排人才，加強人民淨零排放與永續環境相關知識，國家環境研究院攜手全國37&nbsp;..."
         },
         {
-          "title": "賴清德：極端氣候影響國人甚鉅提三核心戰略提升台灣永續發展",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.cnyes.com/news/id/6544225&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw21ljRsnQBwJdXYVGhz7aQJ",
-          "published": "2026-07-23T16:23:26+00:00",
-          "summary": "第二，厚植能源的穩定力。台灣能源高度仰賴進口，面對國際能源價格波動與極端氣候風險，除了要持續擴大本土低碳能源，也要強化電網&nbsp;..."
+          "title": "臺北首創「AI × <b>淨零</b>教育」 「<b>淨零</b>新生活課」改變孩子的未來- 政府消息新聞 - PChome news",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/public/taipei/20260725/index-78493736075508126016.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw07zhay04_LT-5qR5LAfewV",
+          "published": "2026-07-25T00:25:29+00:00",
+          "summary": "【臺北報導】如果有一天，孩子回家後提醒家人隨手關燈、減少使用一次性用品，甚至打開ChatGPT查詢氣候變遷資料後，還會主動比對資料來源、確認答案是否可信，這不&nbsp;..."
         },
         {
-          "title": "賴清德：極端氣候影響國人甚鉅提三核心戰略提升台灣永續發展",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/id/6544225&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3CIyFYXxstg3wEHpFfHKf-",
-          "published": "2026-07-23T16:21:40+00:00",
-          "summary": "賴清德表示，針對近年全球極端氣候影響，政府必須及早掌握風險、做好準備，他提三項核心戰略，以「提升社會的行動力」、「厚植能源的穩定力」及「守護國土的&nbsp;..."
+          "title": "臺北首創「AI × <b>淨零</b>教育」 「<b>淨零</b>新生活課」改變孩子的未來 - 台北市政府",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gov.taipei/News_Content.aspx%3Fn%3DF0DDAF49B89E9413%26sms%3D72544237BBE4C5F6%26s%3D2260B0EAA81DF366&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1NgTcXXpzlkRHLcRlovPWz",
+          "published": "2026-07-25T00:08:09+00:00",
+          "summary": "面對生成式AI快速改變學習方式，以及極端氣候帶來的新挑戰，臺北市政府教育局推動「校園淨零排放新生活實施計畫」，希望讓淨零教育不只是知識，更成為孩子每天都能&nbsp;..."
         }
       ]
     }
