@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-07-26T04:24:58.712594+00:00",
-    "date": "2026-07-26",
+    "generated_at": "2026-07-27T04:36:09.014784+00:00",
+    "date": "2026-07-27",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,10 +12,34 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "【企業資料主權的危機與行動策略】35% 企業重兵佈局「混合雲」，掌握資料主權是加速 AI 創新的底層引擎",
-          "link": "https://techorange.com/2026/07/25/data-sovereignty/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-24T22:29:00+00:00",
-          "summary": "歐洲研究機構 BARC 發布《Data Sovereignty 2026（2026 資料主權報告）》，盤點了全球企業在資料治理與基礎設施的佈局現況。報告點出，雖然高達 89% 的企業已將資料主權列為核心戰略，但實務上卻有 40% 完全沒有投入實質預算，顯示高管的戰略目標與資源配置之間存在明顯落差。 隨著 AI 應用逐步進入企業核心業務，確立資料邊界已是維持營運穩定的先決條件。企業的關注重心正轉向實"
+          "title": "AI 治理三角色：訊號架構師、判斷工程師、決策擁有者，AI 出錯才有人說得清",
+          "link": "https://techorange.com/2026/07/27/human-in-the-loop/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-27T03:11:36+00:00",
+          "summary": "企業導入 AI 後，最常見的失誤模式往往不是技術出錯，而是責任憑空消失。 系統平時判斷準確，所以人類多半不會逐一檢視就直接放行，而高接受率也順勢被當成「AI 導入成功」的證據；但這個證據其實只證明了系統夠穩定，沒有證明人類真的看懂每一筆決策。 等到某個決策事後被證明有問題、代價高昂，企業才發現找不到是誰決定的。 「人在迴圈中」常常只是一句口號 遇到這狀況，企業慣用的標準答案是「人在迴圈中」（hum"
+        },
+        {
+          "title": "AI 沒有大規模取代員工？Google 分析 1,500 萬筆互動：「完全自動化」任務占比不到一成",
+          "link": "https://techorange.com/2026/07/27/google-understanding-the-ai-economy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-27T02:13:37+00:00",
+          "summary": "Google 近日發表一項名為「ATLAS」的大規模研究，目的是探討人們在日常工作和生活中如何實際使用 AI 工具。研究共分析超過 1,500 萬筆去識別化的真實人機互動數據，涵蓋全球超過 150 個國家、140 種語言、800 種職業以及 4,000 項任務，是迄今針對真實世界 AI 應用所進行最全面的觀察之一。 研究顯示，現在的 AI 主要是幫手，而非替身。若這樣的趨勢不變，隨著技術持續發展，"
+        },
+        {
+          "title": "為 AI 代理自研專用搜尋引擎，Seltz 用「情境工程」挑戰 Google 與第三方套殼服務",
+          "link": "https://techorange.com/2026/07/27/ai-agent-web-search-seltz-google/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-27T01:20:19+00:00",
+          "summary": "人工智慧新創公司 Seltz 準備挑戰 Google，該宮專注於面向 AI 代理和聊天機器人領域，希望透過「情境工程（context engineering）」催生出全新型態的搜尋引擎。"
+        },
+        {
+          "title": "2030 歐盟限塑令倒數！達梭數據：虛擬孿生讓包裝開發打樣直接砍半",
+          "link": "https://techorange.com/2026/07/27/simulation-packaging-design-2030/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-27T00:07:00+00:00",
+          "summary": "歐盟《包裝與包裝廢棄物法規》（Packaging and Packaging Waste Regulation，PPWR）已於 2025 年正式生效，並規定在 2030 年前逐步淘汰特定一次性塑膠包裝及不必要的塑膠外包裝。對高度依賴塑膠包材的食品、飲料與日用品品牌而言，必須在有限時間內完成材料替換、製程調整及法規驗證。 法國軟體公司達梭系統消費品與零售產業全球商業顧問總監 Raymond Wodn"
+        },
+        {
+          "title": "【科技早餐】AI 資本競賽加速：美韓合作上看 9,500 億美元，四巨頭支出達 7,250 億美元",
+          "link": "https://techorange.com/2026/07/27/ai-capital-race-korea-us-big-tech-spending/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-26T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊南韓 AI 合作上看 9,500 億美元，三星、SK 綁定美國科技巨頭 南韓政府宣布，三星電子（Samsung Electronics）、SK 集團（SK Group）與美國科技公司的 AI 合作，協議總值上看 9,500 億美元。SK 集團簽署的協議約達 7,500 億美元，其中與 NVIDIA 的合作超過 5,000 億美元，涵蓋大型 AI "
         }
       ]
     },
@@ -24,40 +48,16 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "「反毒油」凱道遊行喊20萬人！蔣萬安：凍未條啦，台灣美食王國恐崩壞",
-          "link": "https://www.gvm.com.tw/article/131808",
-          "published": "2026-07-25T19:40:00",
-          "summary": "台北市長蔣萬安發起號召民眾今（25）日上凱道「反毒油」遊行，從下午五點活動開始之後，響應穿著白衣的人潮從凱道快速集結，一路綿延到中山南路的景福門，主辦方在六點半宣布現場已突破8萬人，到了7點半更宣布人數超過20萬人。這場在野黨發起的「我是人，我反毒台」遊行，現場狀況如何？有哪些重要發言？《遠見》不斷更新報導。「這個政府治理國家沒有用心，感覺他們能蓋牌就蓋牌。」站在景福門旁，今日出席凱道集會的蘇大姐"
+          "title": "每天忙碌焦慮又不敢結婚生小孩？最新研究：「人類演化」無法適應現代社會",
+          "link": "https://www.gvm.com.tw/article/131775",
+          "published": "2026-07-26T11:00:00",
+          "summary": "現代生活每天都是忙碌不堪，但大多數人不是忙得很快樂，而是感覺自己庸庸碌碌，時間過去也沒有留下深刻的感受，反而換來焦慮、肥胖、社會低生育率的代價。科學家表示，這是人體進化錯配的結果，人類進化軌道本來就不是設計來包山包海的。壓力、焦慮與孤獨並非完全是個人性格或生活習慣造成，而是反映我們所處的環境，與人類身心原本演化適應的環境之間存在落差。發表於《行為科學》(Behavioral Sciences)&n"
         },
         {
-          "title": "新光三越正式進駐台北車站：「營運不中斷」將分區分期改裝",
-          "link": "https://www.gvm.com.tw/article/131807",
-          "published": "2026-07-25T17:59:00",
-          "summary": "新光三越今（25）日起正式進駐台北車站（臺北車站）商場，今晨六點開出第一筆新發票，對外宣布將以「營運不中斷」持續提供服務，並將分區分期改裝，即日起發起問卷調查，邀請全民共創車站未來新樣貌。新光三越今日（7／25）起正式進駐台北車站商場，今早發出新聞稿，聲明以「營運不中斷」持續提供旅客服務為原則。微風集團自2006年起經營台北車站商場，至今已19年，與台鐵公司的合約在昨日（7月24日）到期。自台鐵今"
-        },
-        {
-          "title": "旅遊不便險怎麼賠？出國遇颱風有救了「從寬認定」：理賠上限飆120%，最新規定一覽",
-          "link": "https://www.gvm.com.tw/article/131768",
-          "published": "2026-07-25T16:00:00",
-          "summary": "產險公會指出，旅遊不便險中的旅程更改保險理賠從寬認定。富邦產險、新光產物保險公告，若因颱風導致臨時在海外多住一晚，可用原旅程最後一晚住宿單據為基礎，理賠上限為1.2倍，不再一律一天限額新台幣2000元，且新制溯及既往，今年4月1日後投保保單皆適用。近期有民眾反映，颱風導致返台行程大亂，被迫在海外臨時增加住宿，因無法提供原預繳費用證明，無法適用有單據狀況下最高理賠上限達120%規定，僅能適用每天住宿"
-        },
-        {
-          "title": "黃仁勳首篇X社群貼文，大秀千字AI聯署書！一文看懂他為何力挺開源模型",
-          "link": "https://www.gvm.com.tw/article/131806",
-          "published": "2026-07-25T12:13:00",
-          "summary": "輝達（Nvidia）執行長黃仁勳在美國晚間24日發出社群X上的首篇貼文，14小時內就超過3700萬次查看、超過萬則留言，引發全球關注！就連全球首富馬斯克都在第一時間轉發。究竟這位愛穿皮衣的「AI教主」首篇貼文寫了什麼？有「全球AI教主」之稱的輝達（Nvidia）執行長黃仁勳，在美國時間昨（24）日晚間發布Ｘ社群上的第一篇貼文，立即引發全球網友熱烈分享，就連X老闆、活躍於社群的全球首富馬斯克（Elo"
-        },
-        {
-          "title": "你不一定要相信「顯化」，但應該要了解什麼是「限制性信念」",
-          "link": "https://www.gvm.com.tw/article/89440",
-          "published": "2026-07-25T12:06:00",
-          "summary": "YouTuber錫蘭發表影片質疑以「顯化」為經營主軸的網紅九粒Jolie所推出的「生命光環」攝影服務之問題，使得近年社群討論度高的「顯化」一詞再度引發熱議。其中提到的「限制性信念」對人生的影響，值得我們覺察與反思。（本文摘自《其實，你不是你以為的自己》一書，作者為吳若權，以下為摘文。）&nbsp;這世界本來就看似不公平，但比這世界的不公平更殘酷的是，我們也從未真正公平地對待自己。你的內在無法匹配自"
-        },
-        {
-          "title": "中聯三大股東公開道歉！提改革方案、邀第三方進董事會強化治理",
-          "link": "https://www.gvm.com.tw/article/131805",
-          "published": "2026-07-25T11:51:00",
-          "summary": "中聯三大股東泰山、福壽、福懋油終於在昨日現身證交所舉行重訊記者會，泰山董事長劉偉龍、福壽董事長洪堯昆、福懋油董事長吳星澄對造成民眾不安鞠躬致歉。油品事件延燒，泰山、福壽及福懋油召開重大訊息記者會，3家公司首度共同提出中聯油脂改革方向，包括支持引進第三方加入董事會、建立第三方檢驗制度及強化公司治理；泰山董事長劉偉龍更主張，在食安疑慮完全排除前，中聯油脂不應復工。證交所昨日召開泰山、福壽及福懋油重大訊"
+          "title": "都睡滿8小時還是好累！醫揭原因：睡眠呼吸中止「大腦沒修復」",
+          "link": "https://www.gvm.com.tw/article/131770",
+          "published": "2026-07-26T07:00:00",
+          "summary": "睡眠不只是眼睛一閉，而是身體系統重置與修復關鍵，但最新健檢數據顯示，每2人就有1人罹患阻塞型睡眠呼吸中止症，醫師提醒，睡不好會增加心血管疾病及認知功能退化等風險。人的一生大約將近1/3時間是在睡夢中度過，聯安預防醫學機構總院長鄭乃源今天在睡眠衛教記者會中指出，大家都知道「吃飯皇帝大」，也了解運動的重要性，但卻相對少有人討論睡眠的影響。「睡眠不是眼睛一閉就沒事了。」鄭乃源解釋，睡眠大致分成4個階段，"
         }
       ]
     },
@@ -66,40 +66,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "金磚論壇解構房市量縮與政策調控挑戰產官學聚焦<b>淨零</b>建築及AI管理推動營建產業升級轉型",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20260724699110&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0wY9vYaOyoJdSgl72fufju",
-          "published": "2026-07-25T23:36:57+00:00",
-          "summary": "墨新聞｜新聞策劃編輯部記者李婉如／綜合報導房市交易量縮、信用管制趨嚴，加上缺工、缺料與淨零轉型壓力，"
+          "title": "全國觀光<b>淨零</b>轉型論壇台南登場「觀光<b>淨零</b>轉型」從概念成實際 - 觸mii",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://truemii.chinatimes.com/content/20260727000012-265001&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw39h_olTw6T6lz3ISq8PmZv",
+          "published": "2026-07-27T04:13:20+00:00",
+          "summary": "全國觀光淨零轉型論壇暨台南低碳工藝行旅體驗」2026年6∕25、26在台南福爾摩沙遊艇酒店舉行。這場由交通部觀光署指導，台南市政府觀光旅遊局、文化部國立臺灣&nbsp;..."
         },
         {
-          "title": "創新商業模式拚推廣有眉角|半導體|產業新聞|產科國際所【IEK產業情報網】",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D5%26nsl_id%3D010c46ecc16d4f8babe8adfdefdf2545&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2VaYQSqzGXv8RVW6njbOey",
-          "published": "2026-07-25T22:34:35+00:00",
-          "summary": "山青也接洽日本知名玻璃大廠，鎖定2030年新建築淨零能源建築（ZEB）政策進行初步合作 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
+          "title": "AI<b>淨零</b>／台科大攜手文曄科技開半導體AI應用課業師指導 - 中央社",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/news/ahel/202607270036.aspx&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2eI5Xfof6sg2bEvUHcmLS0",
+          "published": "2026-07-27T04:10:24+00:00",
+          "summary": "台科大和半導體電子零組件通路商文曄科技合開「半導體人工智慧商務應用」課程，期末由文曄科技10名業師授課並指導期末專案，讓修課學生學習將AI應用於產業、&nbsp;..."
         },
         {
-          "title": "成大綠色魔法學校×衛理女子高中「綠見」創作畫展- 生活新聞 - PChome news",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/living/twpowernews/20260725/index-17849937609069147009.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1WKQejewyl8LiHZyaxSW1E",
-          "published": "2026-07-25T21:46:22+00:00",
-          "summary": "勁報記者于郁金/臺南報導】隨著淨零環境與永續建築理念，逐漸在各領域意識形成及日益受到重視，國立成功大學設計規劃學院綠色魔法學校乘載綠建築、節能技術與&nbsp;..."
+          "title": "打造永續旅遊城市！臺南旅宿全面響應減塑攜手旅客共創低碳觀光",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.twtainan.net/zh-tw/event/newsdetail/7997/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw21M6RyJlYFAty1jqmX2PpA",
+          "published": "2026-07-27T03:15:53+00:00",
+          "summary": "因應全球環境永續浪潮及「臺南市淨零永續城市管理自治條例」，市府觀光旅遊局持續推動永續觀光，積極輔導旅宿業者落實不免費提供一次性備品政策，&nbsp;..."
         },
         {
-          "title": "AI預警冧山泥準確率達九成- 香港文匯報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.wenweipo.com/epaper/view/newsDetail/2081057506683129856.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0P35InZHJwhM3o6lH26bBP",
-          "published": "2026-07-25T21:44:00+00:00",
-          "summary": "特區政府土木工程拓展署轄下土力工程處自主研發的第五代「人工智能山泥傾瀉警告系統」，結合人工智能和大數據分析技術、氣候變化掛鈎的動態更新能力，以及&nbsp;..."
+          "title": "迎戰<b>氣候變遷</b>！ 竹市府邀地方交流「<b>淨零</b>永續」 - 東森新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.ebc.net.tw/news/living/563242&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3JMdnruoQ9XmehWg9Gb94C",
+          "published": "2026-07-27T03:06:45+00:00",
+          "summary": "新竹市長高虹安出席「因應氣候行動變遷交流論壇」，表示面對氣候變遷帶來的挑戰，城市治理得兼顧調適還有減碳。 新竹市ESG媒合平台自112&nbsp;..."
         },
         {
-          "title": "山火連日肆虐法國西班牙馬德里周邊亦有大規模山火 - RTHK News",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.rthk.hk/rthk/ch/component/k2/1863689-20260726.htm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3RYuY5O3QocVnb6-_gBeKq",
-          "published": "2026-07-25T21:36:51+00:00",
-          "summary": "西班牙政府已於當地過去的星期五宣布全國進入緊急狀態。 報道指，今年歐洲山火累計火場面積，已遠超過去二十年的年均水平。作為全球氣候變暖增速最快的大洲，歐洲&nbsp;..."
+          "title": "迎戰<b>氣候變遷</b>！ 竹市府邀地方交流「<b>淨零</b>永續」 - YouTube",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DQXz7pPX65RA&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3Lcslxqxdj8BX1FdAgsfNY",
+          "published": "2026-07-27T02:40:11+00:00",
+          "summary": "Comments &middot; 吳淡如如何教育女兒？ &middot; 【最新脱口秀】50岁农村大姐，30年家暴，净身出户，站上舞台讲脱口秀——181票全场最高，评委笑到忘记拍灯！ &middot; 有心血管疾病史的人：加熱&nbsp;..."
         },
         {
-          "title": "社論／為島嶼降溫為土地留綠 - 馬祖日報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.matsu-news.gov.tw/news/article/243013&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0rM3ybxyJU5eh5GY8jFxqj",
-          "published": "2026-07-25T20:27:43+00:00",
-          "summary": "... 氣候變遷已不是遙遠的未來，而是當前必須要共同面對的課題。各國紛紛提出淨零排放目標，推動綠色能源、植樹造林、低碳建設與循環經濟，希望降低溫室氣體排放&nbsp;..."
+          "title": "認識氣候變化與全球治理 - 澳門日報電子版",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.macaodaily.com/html/2026-07/27/content_1923462.htm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0jtYLyCon1p9Is-Aa9DReQ",
+          "published": "2026-07-27T02:22:15+00:00",
+          "summary": "問題在於，這層頂棚正被人類活動不斷加厚。 冰芯氣泡、樹木年輪與近兩百年觀測勾畫出清晰曲線：工業革命前大氣二氧化碳濃度長期穩定在約百萬分之二百八十，化石能源&nbsp;..."
         }
       ]
     }
