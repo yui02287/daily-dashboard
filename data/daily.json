@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-07-27T04:36:09.014784+00:00",
-    "date": "2026-07-27",
+    "generated_at": "2026-07-28T04:08:49.844137+00:00",
+    "date": "2026-07-28",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,34 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "AI 治理三角色：訊號架構師、判斷工程師、決策擁有者，AI 出錯才有人說得清",
-          "link": "https://techorange.com/2026/07/27/human-in-the-loop/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-27T03:11:36+00:00",
-          "summary": "企業導入 AI 後，最常見的失誤模式往往不是技術出錯，而是責任憑空消失。 系統平時判斷準確，所以人類多半不會逐一檢視就直接放行，而高接受率也順勢被當成「AI 導入成功」的證據；但這個證據其實只證明了系統夠穩定，沒有證明人類真的看懂每一筆決策。 等到某個決策事後被證明有問題、代價高昂，企業才發現找不到是誰決定的。 「人在迴圈中」常常只是一句口號 遇到這狀況，企業慣用的標準答案是「人在迴圈中」（hum"
+          "title": "鴻海、新漢、所羅門實戰分享：AI 如何真正落地製造產線",
+          "link": "https://techorange.com/2026/07/28/2026aifactory-foxconn-nexcom-solomon-digihua-itri/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-28T03:40:56+00:00",
+          "summary": "「2026 AI 智慧大工廠論壇」台中場日前登場，邀集鴻海科技集團、新漢智能、所羅門、鼎華智能、工研院等產研專家齊聚一堂，聚焦台灣製造業如何借助 AI 智慧轉型。開場致詞中，臺中市政府數位發展局局長林谷隆強調，AI 的發展不能僅停留在虛擬運算與生成式應用，要讓 AI 真正落地，就必須走入實體、服務大眾。台中市總工業會理事長林雍偉也在論壇上指出，面對這波科技浪潮，善用 AI 的製造業將能創造翻倍的競"
         },
         {
-          "title": "AI 沒有大規模取代員工？Google 分析 1,500 萬筆互動：「完全自動化」任務占比不到一成",
-          "link": "https://techorange.com/2026/07/27/google-understanding-the-ai-economy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-27T02:13:37+00:00",
-          "summary": "Google 近日發表一項名為「ATLAS」的大規模研究，目的是探討人們在日常工作和生活中如何實際使用 AI 工具。研究共分析超過 1,500 萬筆去識別化的真實人機互動數據，涵蓋全球超過 150 個國家、140 種語言、800 種職業以及 4,000 項任務，是迄今針對真實世界 AI 應用所進行最全面的觀察之一。 研究顯示，現在的 AI 主要是幫手，而非替身。若這樣的趨勢不變，隨著技術持續發展，"
+          "title": "Anthropic 終於表態：真正該限制的不是開放權重，而是另外三件事",
+          "link": "https://techorange.com/2026/07/28/anthropics-position-on-open-weights-models/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-28T03:30:40+00:00",
+          "summary": "矽谷這幾天為了中國的開放權重（open-weight）模型吵成一片，Anthropic 一度被外界視為主張封殺開放模型的代表。美國時間週一，其執行長 Dario Amodei 在官方部落格親自出面澄清：Anthropic 從未主張禁止開放權重模型。相對地，他把政府該介入的重點指向另外三件事。 這番表態，也把近期 AI 治理的爭論，從「開放或閉源」推向一個更根本的問題：當模型能力足以構成國安風險，真"
         },
         {
-          "title": "為 AI 代理自研專用搜尋引擎，Seltz 用「情境工程」挑戰 Google 與第三方套殼服務",
-          "link": "https://techorange.com/2026/07/27/ai-agent-web-search-seltz-google/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-27T01:20:19+00:00",
-          "summary": "人工智慧新創公司 Seltz 準備挑戰 Google，該宮專注於面向 AI 代理和聊天機器人領域，希望透過「情境工程（context engineering）」催生出全新型態的搜尋引擎。"
+          "title": "只要 1% 員工會用 Agent，公司產能就能翻倍？外貿協會資深顧問李牮斯：人類已成 AI 團隊的「豬隊友」",
+          "link": "https://techorange.com/2026/07/28/taitra-james-lee/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-28T03:24:54+00:00",
+          "summary": "專訪：戴季全撰稿：李昀蔚 近年來，AI 熱潮全面推升記憶體、資料中心基礎建設與全球股市。然而，近期市場卻突然出現劇烈修正，引發外界對 AI 是否走向泡沫的強烈質疑。本集《全新一週》邀請到在外資基金擁有超過 14 年資歷、管理亞洲資產逾 40 億美金的外貿協會資深顧問李牮斯，深入剖析這波 AI 震盪背後的宏觀經濟風險，以及 AI 產業底層正在發生的轉移。 股市震盪不只因技術修正，AI 產業發展仍在第"
         },
         {
-          "title": "2030 歐盟限塑令倒數！達梭數據：虛擬孿生讓包裝開發打樣直接砍半",
-          "link": "https://techorange.com/2026/07/27/simulation-packaging-design-2030/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-27T00:07:00+00:00",
-          "summary": "歐盟《包裝與包裝廢棄物法規》（Packaging and Packaging Waste Regulation，PPWR）已於 2025 年正式生效，並規定在 2030 年前逐步淘汰特定一次性塑膠包裝及不必要的塑膠外包裝。對高度依賴塑膠包材的食品、飲料與日用品品牌而言，必須在有限時間內完成材料替換、製程調整及法規驗證。 法國軟體公司達梭系統消費品與零售產業全球商業顧問總監 Raymond Wodn"
+          "title": "直擊 Google Cloud Day！宏庭科技大展 AI 落地實力，助企業突破 PoC 困境，將生成式 AI 轉化為實質 ROI",
+          "link": "https://techorange.com/2026/07/28/microfusion-googlecloudday-ai-agenticworkspaceroi/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-28T03:00:00+00:00",
+          "summary": "一年一度的雲端盛事 Google Cloud Day Taipei 於 2026 年 7 月 9 日盛大舉辦。在全球企業爭相透過 AI 轉型變現的階段，台灣雲端技術領導品牌—宏庭科技（Microfusion Technology）以「2026 Google Cloud 台灣年度最佳合作夥伴」與「Google Workspace 亞太區新簽約銷售冠軍」雙料殊榮強勢登場，成為全場企業決策者諮詢的焦點。"
         },
         {
-          "title": "【科技早餐】AI 資本競賽加速：美韓合作上看 9,500 億美元，四巨頭支出達 7,250 億美元",
-          "link": "https://techorange.com/2026/07/27/ai-capital-race-korea-us-big-tech-spending/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-26T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊南韓 AI 合作上看 9,500 億美元，三星、SK 綁定美國科技巨頭 南韓政府宣布，三星電子（Samsung Electronics）、SK 集團（SK Group）與美國科技公司的 AI 合作，協議總值上看 9,500 億美元。SK 集團簽署的協議約達 7,500 億美元，其中與 NVIDIA 的合作超過 5,000 億美元，涵蓋大型 AI "
+          "title": "人人都會用 AI 後，真正的績效差距從哪來？德州大學、KPMG 實驗點出關鍵",
+          "link": "https://techorange.com/2026/07/28/why-some-workers-turn-ai-into-results-and-others-dont/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-28T02:11:03+00:00",
+          "summary": "美國多家大型企業，正在改變對人力的態度。在認定 AI 足以扛下更多工作、因而收手招聘一年多後，包括 Google 母公司 Alphabet、顧問公司 Booz Allen Hamilton、鐵路業者 CSX 在內，近期都陸續表示要為成長與新技術布局增聘，其中不乏初階職缺。 《華爾街日報》引述人資平台 Lattice 執行長 Sarah Franklin 的觀察：不少公司原本以為 AI 代理（AI "
+        },
+        {
+          "title": "當 AI Agent 進駐產線：高科技製造 IT 如何從「維運後勤」變身「自動化指揮中樞」？",
+          "link": "https://techorange.com/2026/07/28/gss-ai-agent-soap-bmccontrolm/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-28T02:09:29+00:00",
+          "summary": "當 AI Agent 開始進入製造業現場，企業也從早期的人工化、資訊化與自動化，邁向下一個轉型關鍵，與此同時 IT 部門的角色也不再只是維持系統穩定的後勤單位，而是變成智慧工廠的自動化運作中樞。然而，面對新舊系統的孤島效應與跨雲地環境的挑戰，企業必須導入全新的 IT 管理思維。 「根據 2026 年麥肯錫其中一段訪談內容，AI coding 能夠帶來多快、多新、多少的服務，已經不是企業應該關注的重"
         }
       ]
     },
@@ -48,16 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "每天忙碌焦慮又不敢結婚生小孩？最新研究：「人類演化」無法適應現代社會",
-          "link": "https://www.gvm.com.tw/article/131775",
-          "published": "2026-07-26T11:00:00",
-          "summary": "現代生活每天都是忙碌不堪，但大多數人不是忙得很快樂，而是感覺自己庸庸碌碌，時間過去也沒有留下深刻的感受，反而換來焦慮、肥胖、社會低生育率的代價。科學家表示，這是人體進化錯配的結果，人類進化軌道本來就不是設計來包山包海的。壓力、焦慮與孤獨並非完全是個人性格或生活習慣造成，而是反映我們所處的環境，與人類身心原本演化適應的環境之間存在落差。發表於《行為科學》(Behavioral Sciences)&n"
+          "title": "從救一隻龜，到守護一片海：國泰人壽讓海洋保育從一次救援，走向長期行動",
+          "link": "https://www.gvm.com.tw/article/131665",
+          "published": "2026-07-28T00:00:00",
+          "summary": "海洋保育不只是拯救一隻海龜，更是維護海洋生態、生物多樣性，以及人類生活的重要基礎。國泰人壽透過「龜鄉守護計畫」，將海龜保育與海洋保育從事後救助推向事前預防，展現企業ESG如何化為守護自然的長期承諾，落實企業永續。目錄● 台灣海龜擱淺為什麼愈來愈嚴重？● 海龜為什麼對海洋生態如此重要？● 一隻受傷的海龜，怎麼被送回大海？● 衛星追蹤如何協助海龜保育？● 企業如何參與海洋保育？一隻背著咬痕的欖蠵龜「龜"
         },
         {
-          "title": "都睡滿8小時還是好累！醫揭原因：睡眠呼吸中止「大腦沒修復」",
-          "link": "https://www.gvm.com.tw/article/131770",
-          "published": "2026-07-26T07:00:00",
-          "summary": "睡眠不只是眼睛一閉，而是身體系統重置與修復關鍵，但最新健檢數據顯示，每2人就有1人罹患阻塞型睡眠呼吸中止症，醫師提醒，睡不好會增加心血管疾病及認知功能退化等風險。人的一生大約將近1/3時間是在睡夢中度過，聯安預防醫學機構總院長鄭乃源今天在睡眠衛教記者會中指出，大家都知道「吃飯皇帝大」，也了解運動的重要性，但卻相對少有人討論睡眠的影響。「睡眠不是眼睛一閉就沒事了。」鄭乃源解釋，睡眠大致分成4個階段，"
+          "title": "台灣版《梨泰院Class》！《來！金來號！》周興哲、袁澧林經營台式熱炒店，上演最精彩復仇",
+          "link": "https://www.gvm.com.tw/article/131875",
+          "published": "2026-07-27T18:56:00",
+          "summary": "2020年獲得無數好評的韓劇《梨泰院Class》，如今正式改編為台灣版，影集《來！金來號！》由周興哲、袁澧林、邵雨薇、黃冠智、林思宇主演，用不同的角度看這段精彩的復仇故事。HBO原創影集《來！金來號！》將於7月31日在HBO Max上線，主演陣容周興哲、袁澧林、邵雨薇、黃冠智、林思宇、林敬倫與吳思賢齊聚亮相共同宣傳作品，現身與HBO Max一同宣傳，劇中並肩作戰的熱血夥伴情誼在戲外也呈現得淋漓盡致"
+        },
+        {
+          "title": "黃仁勳力挺這家中國AI新創？Kimi K3免費開放權重，恐再掀DeepSeek衝擊",
+          "link": "https://www.gvm.com.tw/article/131874",
+          "published": "2026-07-27T18:52:00",
+          "summary": "中國AI新創公司月之暗面將免費釋出Kimi K3的完整模型權重，市場憂心去年「DeepSeek時刻」重演，全球科技股隨之震盪。白宮控月之暗面蒸餾偷竊，警告祭出實體清單制裁。另一方面，輝達執行長黃仁勳公開力挺開源 AI，強調開放生態能提升AI安全，並帶動算力需求。中國人工智慧（AI）新創公司「月之暗面」推出達2.8兆參數的Kimi K3模型，效能直逼頂級模型ChatGPT-5.6、Anthropic"
+        },
+        {
+          "title": "施振榮的領導哲學！不在其位，仍在人心",
+          "link": "https://www.gvm.com.tw/article/131873",
+          "published": "2026-07-27T18:11:00",
+          "summary": "編按：施振榮離開經營第一線多年，仍獲眾多企業領袖齊聚致敬，關鍵不只在創業成就，更來自培育人才與創造公共價值。本文解析他的領導哲學，帶你理解真正能長久留在人心的影響力。一個人身在其位時，身邊有人並不稀奇；真正難得的是，離開位置多年，仍有人真心為他而來。7月15日晚上，由筆者擔任理事長的台灣上市櫃公司協會，舉辦第一屆「東方領袖人物」頒獎典禮，由賴清德總統親自頒獎給宏碁集團創辦人施振榮先生。當施先生與夫"
+        },
+        {
+          "title": "用榮譽驅動，用專注成功：梁天龍創設了可大、可久、可敬的事業",
+          "link": "https://www.gvm.com.tw/article/131796",
+          "published": "2026-07-27T18:00:00",
+          "summary": "我與梁天龍先生相識已逾40年。在華人世界裡，能夠以一己之力，在一個專業領域深耕40餘年，將它做到領先世界規模的人，實屬罕見。他創辦的保險行銷集團，不賣保險，只專心做好七件事：專業雜誌、出版書籍、舉辦世界大會、制定成功標準（國際龍獎IDA）、教育訓練、行業調研以及公益。這種「專注本業」的精神，是我一向推崇的，也就是梁天龍先生所說的：「用生命創造一個可大、可久、可敬的事業。」&nbsp;（一）從負債千"
+        },
+        {
+          "title": "星巴克買一送一、周杰倫聯名同日開搶！超商咖啡優惠懶人包：7-11、全家、萊爾富",
+          "link": "https://www.gvm.com.tw/article/131870",
+          "published": "2026-07-27T17:52:00",
+          "summary": "7月進入最後一週，各大超商與咖啡品牌迎接8月也推出新一波咖啡優惠！這週不只有 7-ELEVEN、萊爾富指定咖啡買一送一，全家會員限定單品咖啡買 6 送 6，萊爾富 APP 更推出美式、拿鐵買30送30。同日，星巴克典藏DREAM PLAZA台北也首發JAY合作系列，黑、粉不鏽鋼冷水杯率先登場。星巴克買一送一活動時間：2026 年 7 月 27 日適用對象：uniopen 聯名卡卡友即日起至12月3"
         }
       ]
     },
@@ -66,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "全國觀光<b>淨零</b>轉型論壇台南登場「觀光<b>淨零</b>轉型」從概念成實際 - 觸mii",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://truemii.chinatimes.com/content/20260727000012-265001&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw39h_olTw6T6lz3ISq8PmZv",
-          "published": "2026-07-27T04:13:20+00:00",
-          "summary": "全國觀光淨零轉型論壇暨台南低碳工藝行旅體驗」2026年6∕25、26在台南福爾摩沙遊艇酒店舉行。這場由交通部觀光署指導，台南市政府觀光旅遊局、文化部國立臺灣&nbsp;..."
+          "title": "中國<b>碳中和</b>(01372)擬發新股或可轉債購上海鳴嘯控股權訂意向，或成須予公布交易 - ETNet",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.etnet.com.hk/www/tc/news/news-article.php%3Fsection%3Dcategorized%26category%3Dlatest%26newsid%3D20260728950&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1jFeoyazM03UuJJyGpKGHe",
+          "published": "2026-07-28T02:20:39+00:00",
+          "summary": "中國碳中和(01372)公布，與上海鳴嘯信息科技的股東楊華、彭星輝及南京雲之君投資管理中心（有限合夥）簽署收購意向書，該集團擬通過增發股份或可轉股債券的方式，&nbsp;..."
         },
         {
-          "title": "AI<b>淨零</b>／台科大攜手文曄科技開半導體AI應用課業師指導 - 中央社",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/news/ahel/202607270036.aspx&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2eI5Xfof6sg2bEvUHcmLS0",
-          "published": "2026-07-27T04:10:24+00:00",
-          "summary": "台科大和半導體電子零組件通路商文曄科技合開「半導體人工智慧商務應用」課程，期末由文曄科技10名業師授課並指導期末專案，讓修課學生學習將AI應用於產業、&nbsp;..."
+          "title": "地球物理氣象局參加2026世界人工智能大會氣象專會深化AI氣象領域合作攜手應對氣候變化",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.smg.gov.mo/zh/news-detail/1053&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1N0lWjVZtkp2F3UDZgw1_2",
+          "published": "2026-07-28T02:03:42+00:00",
+          "summary": "為掌握全球氣象人工智能前沿發展趨勢，學習人工智能與全民早期預警融合實務經驗，深化與國家及區域氣象單位業務協作，地球物理氣象局代表團應邀出席“2026 世界&nbsp;..."
         },
         {
-          "title": "打造永續旅遊城市！臺南旅宿全面響應減塑攜手旅客共創低碳觀光",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.twtainan.net/zh-tw/event/newsdetail/7997/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw21M6RyJlYFAty1jqmX2PpA",
-          "published": "2026-07-27T03:15:53+00:00",
-          "summary": "因應全球環境永續浪潮及「臺南市淨零永續城市管理自治條例」，市府觀光旅遊局持續推動永續觀光，積極輔導旅宿業者落實不免費提供一次性備品政策，&nbsp;..."
+          "title": "超級厄爾尼諾與氣候變化雙重夾擊：香港市民必須正視六大氣候風險",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.businesstimes.com.hk/articles/331887/%25E8%25B6%2585%25E7%25B4%259A%25E5%258E%2584%25E7%2588%25BE%25E5%25B0%25BC%25E8%25AB%25BE-%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E5%258C%2596-%25E9%25A6%2599%25E6%25B8%25AF%25E5%25B8%2582%25E6%25B0%2591-%25E5%2585%25AD%25E5%25A4%25A7%25E6%25B0%25A3%25E5%2580%2599%25E9%25A2%25A8%25E9%259A%25AA/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1WEFcV3TEJhjeEk_p5ZFKN",
+          "published": "2026-07-28T00:57:35+00:00",
+          "summary": "香港地球之友首席政策研究員洪藹誠博士表示：「厄爾尼諾或屬階段性的氣候現象，但氣候變化所帶來的長期趨勢，並不會隨季節更替而消退。當厄爾尼諾與全球暖化的影響&nbsp;..."
         },
         {
-          "title": "迎戰<b>氣候變遷</b>！ 竹市府邀地方交流「<b>淨零</b>永續」 - 東森新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.ebc.net.tw/news/living/563242&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3JMdnruoQ9XmehWg9Gb94C",
-          "published": "2026-07-27T03:06:45+00:00",
-          "summary": "新竹市長高虹安出席「因應氣候行動變遷交流論壇」，表示面對氣候變遷帶來的挑戰，城市治理得兼顧調適還有減碳。 新竹市ESG媒合平台自112&nbsp;..."
+          "title": "不是環保議題，而是國土保衛戰！賴總統推三大治理戰略，讓台灣熬過極端氣候挑戰",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://csr.cw.com.tw/article/44767&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0zSFU4owTtCdfF623PGMH9",
+          "published": "2026-07-27T23:50:48+00:00",
+          "summary": "賴總統指出，臺灣能源高度仰賴進口，為了提升能源安全與韌性，將持續擴大本土低碳能源、強化電網韌性、儲能與調度能力，確保供電穩定，支撐民生與產業發展。"
         },
         {
-          "title": "迎戰<b>氣候變遷</b>！ 竹市府邀地方交流「<b>淨零</b>永續」 - YouTube",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DQXz7pPX65RA&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3Lcslxqxdj8BX1FdAgsfNY",
-          "published": "2026-07-27T02:40:11+00:00",
-          "summary": "Comments &middot; 吳淡如如何教育女兒？ &middot; 【最新脱口秀】50岁农村大姐，30年家暴，净身出户，站上舞台讲脱口秀——181票全场最高，评委笑到忘记拍灯！ &middot; 有心血管疾病史的人：加熱&nbsp;..."
+          "title": "世界銷售均價逐季升溫|半導體|產業新聞|產科國際所【IEK產業情報網】",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D1%26nsl_id%3D0580ac0cf2034b9dbdeb09e07d7b4a18&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3mHpoOZP6Bv1X9jbwJRFFY",
+          "published": "2026-07-27T22:31:59+00:00",
+          "summary": "淨零專區 &middot; 客服專區; 登入. 註冊. Go. 模組. 主題快搜. 焦點總覽 &middot; 免費焦點 &middot; 簡報總覽 &middot; 簡報 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
         },
         {
-          "title": "認識氣候變化與全球治理 - 澳門日報電子版",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.macaodaily.com/html/2026-07/27/content_1923462.htm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0jtYLyCon1p9Is-Aa9DReQ",
-          "published": "2026-07-27T02:22:15+00:00",
-          "summary": "問題在於，這層頂棚正被人類活動不斷加厚。 冰芯氣泡、樹木年輪與近兩百年觀測勾畫出清晰曲線：工業革命前大氣二氧化碳濃度長期穩定在約百萬分之二百八十，化石能源&nbsp;..."
+          "title": "中衛中心推出「好實力學院」 賦能企業搶先掌握AI與<b>淨零</b>關鍵 - 工商時報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260727701290-431202&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0fdyZrGwNZuswH9hVYHByn",
+          "published": "2026-07-27T21:00:46+00:00",
+          "summary": "全球供應鏈重組、淨零碳排壓力與AI數位浪潮三重夾擊，中小企業正面臨人才轉型與營運升級的嚴峻考驗。財團法人中衛發展中心深耕國內產業輔導超過30年，&nbsp;..."
         }
       ]
     }
