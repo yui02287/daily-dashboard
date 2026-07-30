@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-07-29T04:11:31.905726+00:00",
-    "date": "2026-07-29",
+    "generated_at": "2026-07-30T03:56:03.909555+00:00",
+    "date": "2026-07-30",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "Anthropic Mythos 找到密碼攻擊新方法：量子電腦之外，AI 成加密安全新變數？",
-          "link": "https://techorange.com/2026/07/29/anthropic-mythos-cryptographic-weaknesses/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-29T03:48:18+00:00",
-          "summary": "企業近年佈局後量子密碼（PQC），一個主要考量是未來量子電腦可能破解現行加密標準，然而 AI 巨頭 Anthropic 最新研究指出一個更早到來的變數：AI 本身。該公司研究團隊以尚未公開的 Claude Mythos Preview，在兩套重要的密碼演算法上，各自找出人類專家歷經多年審查仍未發現的新攻擊方法。 根據《New York Times》與 Anthropic 官方部落格，這兩項成果都不"
+          "title": "三分之二程式碼由 AI 寫仍不夠：DoorDash、GM、Weave 揭企業生產力真正瓶頸",
+          "link": "https://techorange.com/2026/07/30/doordash-gm-weave/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-30T02:20:45+00:00",
+          "summary": "AI 工具已大幅接管軟體開發流程中的程式碼撰寫工作，但這並不代表企業的整體生產力或組織架構會自動跟著轉型。以線上餐點與商品外送平台 DoorDash 為例，DoorDash 執行長 Tony Xu 表示：「我們現在從 AI 看到許多生產力提升，目前我們有超過一半、可能接近三分之二的程式碼是由 AI 所撰寫，但單憑這一點，並不足以說明工作流程與團隊配置應該如何改變。」 Tony Xu 在近期的財報會"
         },
         {
-          "title": "OpenAI、Anthropic 等千人聯署要 AI「踩煞車」，祖克柏卻警告：真正危險的是權力集中",
-          "link": "https://techorange.com/2026/07/29/ai-open-letter-automated-development/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-29T03:47:11+00:00",
-          "summary": "截至美國時間 7 月 28 日下午，已有超過 1,100 名來自 OpenAI、Anthropic、Google、Meta、Microsoft、Mistral、Thinking Machines 等 AI 公司的從業人員，簽署一封名為「Pacing the Frontier」的公開信，呼籲美國政府支持國際合作，建立能刻意調節自動化 AI 發展速度的技術與治理工具。公開信警告，一旦 AI 開始參與下"
+          "title": "量子危機倒數，台灣企業卻連「盤點」都還沒做完？專訪 NetApp 談 PQC 遷移盲點",
+          "link": "https://techorange.com/2026/07/30/pqc-post-quantum-cryptography-netapp/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-30T02:08:39+00:00",
+          "summary": "你願意花多少力氣保護你的資料？這個問題，正逐漸成為台灣企業領導者不得不回答的資安考題。原因是，未來的量子電腦可能在幾個小時內，破解現行加密要花上萬年才解得開的密碼。這代表，企業必須趕在那天到來前把加密升級，完成「後量子密碼（Post-Quantum Cryptography，PQC）遷移」。而願不願意投入這場不算輕鬆的準備，取決於企業有多重視手上的資料。 過去，PQC 遷移的期限多訂在 2035 "
         },
         {
-          "title": "【AppSec 防不住的新戰場】AI 深度參與軟體開發，資安新學科 AISec 成形",
-          "link": "https://techorange.com/2026/07/29/security-challenges-in-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-29T02:33:32+00:00",
-          "summary": "近 70% 的組織，已經在自家系統裡發現由 AI 工具造成的漏洞，其中五分之一，甚至因此發生了重大資安事件。面對這個現實，業界正在提出一個新名詞：AI 軟體安全，簡稱 AISec，用來因應 AI 從輔助角色，正式走進軟體開發核心之後所帶來的全新風險。 AI 不只寫程式，還自己上線改系統 過去二十年，應用程式安全建立在一個幾乎沒人質疑過的假設上：被保護的軟體，是由人開發、由人維運的。但 AI 已經深"
+          "title": "【家庭 AI 代理崛起】運轉一個家庭比管理一間公司更複雜，SuperNori 想成為 AI 管家",
+          "link": "https://techorange.com/2026/07/30/opportunity-in-household-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-30T01:58:12+00:00",
+          "summary": "過去十年，人工智慧被大量運用在寫作、分析數據、自動化流程等工作領域方面，現在一批新創公司正把目光轉向被長期忽略的場域：家庭。 舊金山新創 Domus Next Inc. 便是其中之一，其產品 SuperNori 試圖將 AI 從「工作生產力」延伸到「家庭經濟」，讓智慧系統參與家庭的決策、消費與預算分配。 家庭工作繁瑣，責任大多落在媽媽身上 若以家庭為單位，可以發現單一家庭其實都是一套套複雜的工作系"
         },
         {
-          "title": "兩個月推出逾 100 項功能，Yahoo 實戰揭密：當開發時間更短，為何更要警惕 AI「虛假生產力」？",
-          "link": "https://techorange.com/2026/07/29/ai-future-of-work-skinny-hamburger-talking-about-work/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-29T02:19:53+00:00",
-          "summary": "當前全球企業正以前所未有的力道挹注資金於人工智慧。由《哈佛商業評論》進行的「數據與 AI 領導力調查」顯示，高達 91% 的組織正在增加 AI 投資，更有 99% 的企業將 AI 視為組織的首要任務。 然而，在技術熱潮背後，卻存在著巨大的「價值落差」：僅有 18% 的組織表示，他們從 AI 投資中獲得了高度可衡量的商業效益。這主要是因為高達 84% 的企業在引進技術時，並未同步重新設計其工作流程、"
+          "title": "三秒複製聲音、一通電話掏空存款，Savi 要用「即時通話監控」反制 AI 詐騙",
+          "link": "https://techorange.com/2026/07/30/savis-app/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-30T01:37:22+00:00",
+          "summary": "美國聯邦貿易委員會（FTC）指出，2025 年民眾因冒充詐騙損失達 35 億美元，是 2020 年的三倍。通報者雖以年長族群居多，年輕世代同樣難以倖免——資安公司 Malwarebytes 的研究發現，Z 世代收到簡訊詐騙的頻率高於其他世代，且約有四分之一的人真的中招。 這股趨勢背後，是 AI 語音複製技術正在改寫詐騙集團的犯罪模式：只需一小段音訊，就能複製出任何人的聲音。資安新創 Savi 便是"
         },
         {
-          "title": "AI 分身是帶貨神隊友，還是信任終結者？拆解 TikTok Shop 的 AI 分潤紅利與爭議",
-          "link": "https://techorange.com/2026/07/29/ai-videos-tiktok-shop/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-29T00:07:00+00:00",
-          "summary": "在 TikTok Shop 上，愈來愈多商品展示影片已不再由真人拍攝，而是交由 AI 自動生成。只要提供幾張商品圖片，平台便能快速產出試穿、化妝、產品開箱等帶貨影片。 這類型的 AI 工具和應用，大幅降低創作門檻，也讓品牌得以用更低成本、大量生產符合不同市場需求的行銷內容，但同時也引發創作者、品牌與消費者對真實性與信任的激烈討論。 AI 創作帶貨影片，讓導購素材實現「無限量產」 AI 工具的普及，"
+          "title": "【科技早餐】中國傳啟動國產 DUV、美國封殺中國機器人，AI 供應鏈進入管制與長約戰",
+          "link": "https://techorange.com/2026/07/30/china-duv-us-robot-ban-ai-memory-contracts/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-29T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊中國傳啟動國產浸潤式 DUV 生產，ASML 兩天跌 10% 《路透》引述知情人士報導，中國已開始生產國產浸潤式深紫外光微影（DUV）設備。生產計畫由成立於 2023 年的上海愛晟納電子科技集團（Aishengna）主導，整合中國微影設備新創團隊，希望降低對荷蘭艾司摩爾（ASML）的依賴。《The Information》指出，今年預計生產約 5"
         },
         {
-          "title": "【科技早餐】NVIDIA 傳承租 1 GW AI 資料中心，全球晶片銷售上看 1.5 兆美元",
-          "link": "https://techorange.com/2026/07/29/nvidia-1gw-ai-data-center-global-chip-sales/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-28T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊NVIDIA 傳承租德州 1 GW 資料中心，租約最高 502 億美元 《金融時報》引述五名知情人士報導，NVIDIA 是資料中心業者 Hut 8 位於美國德州 Beacon Point 園區的承租方。這座園區擁有 1 GW 電力容量，將部署數十萬顆 NVIDIA GPU；15 年基本租約價值為 196 億美元，若行使續約選擇權，合約總值最高可達"
+          "title": "美國封殺中國新型人形機器人、機器狗：宇樹科技首當其衝，禁令能否帶動製造回流？",
+          "link": "https://techorange.com/2026/07/29/trump-administration-ban-new-chinese-robots-inverters-protecting-us-ai-buildout/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-29T10:03:25+00:00",
+          "summary": "川普政府近日透過美國聯邦通訊委員會（FCC）正式祭出新措施，宣布禁止中國製造的新型人形機器人、四足機器人與聯網型電力逆變器進入美國市場。美國政府表示，這項措施旨在防範 AI 供應鏈中斷、資料竊取與網路攻擊等威脅，同時推動關鍵產業將製造活動移回美國本土。 這項禁令在發布後立即生效，目前僅適用於尚未上市的新型號產品，但 FCC 仍有權撤銷既有產品在美國銷售的授權。在具體涵蓋的設備中，聯網型電力逆變器能"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "統一投信00987D、00411A登場！主動式ETF市值逼近兆元，00981A規模衝第一",
-          "link": "https://www.gvm.com.tw/article/131918",
-          "published": "2026-07-28T19:15:00",
-          "summary": "主動式ETF搶搶滾！全台已達36檔，市值總規模已衝破9000億元、逼近兆元。曾發行00981A、掀起「瑤池金母」主動式台股ETF旋風的統一投信，再度擴大布局，今（28）日一口氣推出兩檔主動式ETF，包括首檔主動式債券ETF 00987D「統一美國公債量化增益主動式ETF」，以及聚焦全球AI科技趨勢的 00411A「統一前沿科技主動式ETF」，究竟這兩檔ETF成分股是哪些？投資前景為何？《遠見》一文"
+          "title": "你是在買價值還是被折扣綁架？從一個「哈密瓜汁問題」測出你的金錢觀",
+          "link": "https://www.gvm.com.tw/article/131940",
+          "published": "2026-07-29T19:23:00",
+          "summary": "資本主義就是一個不斷擴大金錢焦慮的系統。我們習慣將生活中的各種焦慮，轉換成金錢焦慮。然而，我們的「金錢焦慮」，其實是被創造出來的。我們將「對老後的不安」、「對孤獨的不安」都歸結於金錢，以為有錢就能解決一切，導致其他解決方案愈來愈不容易被看見。（本文節錄自《走出金錢焦慮》一書，作者：田內學／先覺出版，以下為摘文。）國、高中教授金錢素養時，常問大家一個問題。教室的螢幕上播放出哈密瓜汁的照片，學生的眼睛"
         },
         {
-          "title": "日本熊本規模7.1地震！台積電JASM人員疏散、熊本城外牆崩塌",
-          "link": "https://www.gvm.com.tw/article/131906",
-          "published": "2026-07-28T19:10:00",
-          "summary": "日本熊本縣今天下午發生規模7.1強震，最大震度7。包括九州新幹線在內，九州地區所有列車目前已全面暫停行駛。核電廠正進行設備檢查，確認是否因地震出現異常。日本氣象廳表示，地震發生於當地時間下午4時27分（台北時間3時27分）左右，震央位於熊本縣熊本地方，長崎東方約80公里處，震源深度約10公里。此次地震造成熊本縣宇城市及冰川町觀測到最大震度7，熊本市南區、八代市、宇土市、美里町及益城町測得震度6強；"
+          "title": "沒有爭吵告別、不是刻意疏遠：把成年人的關係當「四季」更迭",
+          "link": "https://www.gvm.com.tw/article/131939",
+          "published": "2026-07-29T18:48:00",
+          "summary": "關於那些沒有真正結束的事，卻也無法回到從前的人，沒有爭吵、沒有告別，只是訊息變短、見面變少。不是刻意疏遠，只是人生的重心改變了。也許，讓關係變得舒服的技巧，不是輕易劃線的果斷，而是安靜地拉開距離的柔軟。在不同的人生季節裡，重新安放彼此的位置，也在一次次靠近與遠離之間，慢慢成為更懂得愛與告別的人。（本文節錄自《成年人的關係沒有句號》一書，作者：金在植／方舟文化出版，以下為摘文。）四季，成年人關係裡最"
         },
         {
-          "title": "Fed利率決策前夕，台股重挫逾2000點！通膨、就業都降溫，為何市場仍怕升息？",
+          "title": "《蜘蛛人：重生日》：真正的英雄是在世界遺忘他之後，依然選擇前進的勇氣",
+          "link": "https://www.gvm.com.tw/article/131938",
+          "published": "2026-07-29T18:30:00",
+          "summary": "電影《蜘蛛人：重生日》由德斯汀丹尼爾克雷頓執導，集結湯姆霍蘭德、千黛亞、莎蒂辛克、雅各布貝塔隆、強柏恩瑟以及馬克盧法洛共同演出。這是漫威電影宇宙第六階段的重要作品，同時也是蜘蛛人加入漫威電影宇宙後的第4部電影。對許多人而言，蜘蛛人之所以成為漫威最受歡迎的超級英雄，不只是因為他擁有飛簷走壁、吐絲擺盪的能力，而是因為在那張面具底下，始終是一位會害怕、會迷惘，也會因失去摯愛而痛苦的普通少年。從1962年"
+        },
+        {
+          "title": "Fed利率決策會議別怕！華許不一定升息的理由在此",
           "link": "https://www.gvm.com.tw/article/131798",
-          "published": "2026-07-28T19:10:00",
-          "summary": "7月28日更新：聯準會升息疑慮籠罩市場，加上國際晶片股走弱影響，台股28日收盤大跌2030.83點，跌破4萬2千點，創史上第三大跌點。聯準會將召開7月FOMC利率會議，市場預期維持利率不變，但中東衝突升溫再度推高油價，使下半年升息預期升溫。本文解析FedWatch最新升息機率、Fed官員與市場分歧。美國聯準會（Fed）將於28、29日召開聯邦公開市場委員會（FOMC）利率會議。儘管Fed主席華許（"
+          "published": "2026-07-29T17:28:00",
+          "summary": "7月28日更新：聯準會升息疑慮籠罩市場，加上國際晶片股走弱影響，台股28日收盤大跌2030.83點，跌破4萬2千點，創史上第三大跌點。聯準會將召開7月FOMC利率會議，中東衝突升溫再度推高油價，使下半年升息預期升溫。本文解析FedWatch最新升息機率、通膨與就業同步降溫可能扭轉變局？美國聯準會（Fed）將於28、29日召開聯邦公開市場委員會（FOMC）利率會議。儘管Fed主席華許（Kevin W"
         },
         {
-          "title": "哈佛商業評論「AI數位轉型圈」成立！逾50位顧問陪跑，讓AI幫你創造價值",
-          "link": "https://www.gvm.com.tw/article/131917",
-          "published": "2026-07-28T19:06:00",
-          "summary": "當AI應用步入深水區，單打獨鬥已難以應對技術迭代的龐大壓力。《哈佛商業評論》全球繁體中文版今（28）日正式成立「AI數位轉型圈」，主管AI事務的數位發展部部長林宜敬蒞臨發表專題演講，並由遠見．天下文化事業群學習長錢大群、遠見．HBR社長楊瑪利、iKala創辦人程世嘉以及勤業眾信資深執行副總經理陳威棋、台智雲策略長李立國等專家接力分享，探討企業如何透過跨界共學與組織重構，開創全新的AI轉型路徑。如今"
+          "title": "8月新制懶人包！勞退史上最大改革，青安3.0上路新規定一次看",
+          "link": "https://www.gvm.com.tw/article/131936",
+          "published": "2026-07-29T17:16:00",
+          "summary": "8月有不少新制上路，從勞退自提、買房、學貸、農民退休保障到台鐵8月臨時座位調整，都和民眾生活或權益有關。《遠見》一文整理新制，帶你一次了解，8月有哪些事情需要特別注意。勞退新制勞動部修正《勞工退休金條例施行細則》，8月1日起將有以下5項變革：1、新增「月退休金30天猶豫期」，年資滿15年以上勞工，若原本選擇按月請領，在第一筆退休金入帳30天內，可申請改為一次領，但僅限變更一次。2、過去少數雇主為節"
         },
         {
-          "title": "「會用ChatGPT不算AI人才！」數發部長林宜敬：真正稀缺的是這類人",
-          "link": "https://www.gvm.com.tw/article/131916",
-          "published": "2026-07-28T18:42:00",
-          "summary": "生成式AI快速席捲職場，從寫文案、做簡報、整理資料，到寫程式、分析數據，愈來愈多工作開始交由AI完成。然而，當企業紛紛喊著要找AI人才，究竟什麼樣的人，才真正稱得上AI人才？《哈佛商業評論》今（28）日舉辦的「AI數位轉型圈成立大會暨分享會」上，數位發展部部長林宜敬以及台智雲策略長李立國探討目前稀缺的人才，不一定需要會寫程式，跟我們想的不同。林宜敬為何說半導體業裡的「高級水電工」也相當有價值？「如"
-        },
-        {
-          "title": "英國人最愛的「婉拒話術」：聽到對方回「Sounds good」千萬別當真",
-          "link": "https://www.gvm.com.tw/article/131598",
-          "published": "2026-07-28T18:40:00",
-          "summary": "英國人講話已經夠迂迴了，加上他們擅長用反諷的方式回應問題，讓不熟悉英國文化的人搞不清楚到底對方是同意還是反對、是開心還是生氣、是開玩笑還是真的在酸你。如果用純文字（譬如以通訊軟體或email）和英國人溝通時，該如何解讀他們輸入這行字的真實想法？（本文節錄自《大不列顛小心機》一書，作者：讀者太太Mrs Reader／時報出版，以下為摘文。）以下歸納13個和英國人用email通信或傳訊息時常見的用語，"
+          "title": "效率至上讓城市生病？從人字拖看見文明代價",
+          "link": "https://www.gvm.com.tw/article/131934",
+          "published": "2026-07-29T16:28:00",
+          "summary": "本文以人字拖與藍白拖為文明隱喻，從鞋履、身體與城市出發，反思效率崇拜如何壓縮步行、停留與相遇。結合循證醫學、道路安全、公共空間及孤獨數據，指出患病的未必是雙腳，而是失去樹蔭、長椅與溫度的城市。唯有卸下重履，把雙腳還給土地，文明才能將尊嚴、自由與生活重新還給人。城市加速，腳步失語盛夏午後，一名旅人穿著廉價的人字拖，從台北車站後方走進騎樓。薄鞋底拍打柏油，聲音規律而略顯老派；沒有氣墊、晶片，也沒有手錶"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "【“十五五”期間單位國內生產總值二氧化碳排放將降低17%】7 - 群益期貨",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.capitalfutures.com.tw/zh-tw/Financial/BreakingNewsArticle%3FContentId%3DC26072900445&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3aRsd5cyVGTR2wmghsdUIw",
-          "published": "2026-07-29T03:15:24+00:00",
-          "summary": "... 氣候變化的目標任務，爲今後五年應對氣候變化工作提供清晰指引。根據《規劃》，到2030年，單位國內生產總值二氧化碳排放較2025年降低17%，全國碳排放權&nbsp;..."
+          "title": "義電智慧能源迎向國際<b>淨零</b>挑戰旭富製藥加入虛擬電廠創雙贏 - 科技島",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.technice.com.tw/technology/energy/249133/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2oCcIunn_6Y8MynU6V615P",
+          "published": "2026-07-30T02:43:02+00:00",
+          "summary": "隨著全球供應鏈對低碳製造與綠色採購要求日益重要，淨零碳排已經成為維持競爭力的重要因素，而生技製藥業是全球高碳排的產業之一，面對減碳轉型壓力的同時，&nbsp;..."
         },
         {
-          "title": "長庚醫院啟動醫療減碳新模式建立醫療永續新標竿與衛福部攜手推廣全台醫院 - 波新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bo6s.com.tw/news_detail.php%3FNewsID%3D114602&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0fkfQUY-rY_F632tDx6t8g",
-          "published": "2026-07-29T02:27:14+00:00",
-          "summary": "波新聞─李至文／高雄醫療院所守護民眾健康，也肩負環境永續責任。長庚醫療體系配合國家2050淨零排放政策，建立以醫療服務流程為核心的減碳管理模式，針對10項&nbsp;..."
+          "title": "新加坡祭出9億坡元振興方案多管齊下鞏固經濟競爭力 - 獨家報導",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.scooptw.com/marketersgo/506317/%25E6%2596%25B0%25E5%258A%25A0%25E5%259D%25A1%25E7%25A5%25AD%25E5%2587%25BA9%25E5%2584%2584%25E5%259D%25A1%25E5%2585%2583%25E6%258C%25AF%25E8%2588%2588%25E6%2596%25B9%25E6%25A1%2588-%25E5%25A4%259A%25E7%25AE%25A1%25E9%25BD%258A%25E4%25B8%258B%25E9%259E%258F%25E5%259B%25BA%25E7%25B6%2593%25E6%25BF%259F%25E7%25AB%25B6%25E7%2588%25AD/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw16ncHXXYf8mLbZl96W-x1e",
+          "published": "2026-07-30T02:28:15+00:00",
+          "summary": "... 淨零排放目標，新加坡正評估在重工業、交通運輸和能源生產等碳密集型產業中，增加永續生質能源和生質燃料（biofuel）的使用。新加坡National Climate Change&nbsp;..."
         },
         {
-          "title": "<b>淨零</b>、資金與市場布局全面到位政府打造中小微企業轉型升級支援網｜2026均衡臺灣週系列 ...",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.businesstoday.com.tw/article/category/80393/post/202607280039/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2OGPMujMZBex9mguM2JEuh",
-          "published": "2026-07-29T01:58:42+00:00",
-          "summary": "經濟部於「均衡臺灣週」會場展出主題館，由經濟部中小及新創企業署署長李冠志說明，政府下一階段協助中小微企業升級轉型的政策方向。"
+          "title": "永續保險：守護生活，也守護未來 - 國立教育廣播電台",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ner.gov.tw/Program/Episode/26072711534096883/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw02THmuH7bwGv5tsWE_mJlF",
+          "published": "2026-07-30T01:40:41+00:00",
+          "summary": "保險資金，也是淨零轉型的重要推手. 除了提供保障，保險業管理的大量資金 ... 面對氣候變遷與生活型態改變，保險規劃也需要與時俱進。 例如住宅火災保險&nbsp;..."
         },
         {
-          "title": "1.4.2 重大主題衝擊評估與說明 - 玉山銀行",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.esunbank.com/zh-tw/-/media/ESUNFHC/Images/Home/esg/emerging_risk/p26-37&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Kq8Le7Muy_ddPvFGFo7c4",
-          "published": "2026-07-29T01:44:43+00:00",
-          "summary": "CDP climate change. 成績達領導級 ．完成玉山銀行所有子. 行投融資財務碳排盤. 查導入. 達成狀況 ．Scope 1、2、3 碳排放量無. 顯著偏離SBT 路徑 ．發布「低碳&nbsp;..."
+          "title": "ChatGPT答案也要查證臺北市47校實作校園減碳",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.immigration.gov.tw/NewsSection/Detail/0A8DC8BB-C48C-4359-9D98-06753EFEA30D%3Flang%3DTW&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1SjWuc0piPy880E8cFZ94Q",
+          "published": "2026-07-30T01:19:56+00:00",
+          "summary": "... 氣候變化專門委員會（IPCC）等權威資料比對，避免將AI生成內容照單全收。 淨零課程也從資料查找走向實際操作。舊莊國小學生觀察校園能源使用情形，利用micro&nbsp;..."
         },
         {
-          "title": "高雄深化大阪、松原合作攜手推動<b>淨零</b>建築與永續城市 - 是新聞YesMedia",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.yesmedia.com.tw/%25E9%25AB%2598%25E9%259B%2584%25E6%25B7%25B1%25E5%258C%2596%25E5%25A4%25A7%25E9%2598%25AA%25E3%2580%2581%25E6%259D%25BE%25E5%258E%259F%25E5%2590%2588%25E4%25BD%259C%25E3%2580%2580%25E6%2594%259C%25E6%2589%258B%25E6%258E%25A8%25E5%258B%2595%25E6%25B7%25A8%25E9%259B%25B6%25E5%25BB%25BA%25E7%25AF%2589%25E8%2588%2587%25E6%25B0%25B8/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3cXPFZyNDx7jaATClg6dNf",
-          "published": "2026-07-29T01:40:09+00:00",
-          "summary": "為加速淨零建築發展、深化臺日城市合作，高雄市政府工務局昨（28）日赴日本大阪，與大阪府建築士事務所協會及高雄市五大建築相關公協會共同簽署「高雄厝淨零碳排建築&nbsp;..."
+          "title": "IMF肯定特區經濟韌性財政實力 - 澳門日報電子版",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.macaodaily.com/html/2026-07/30/content_1924066.htm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2xzH2F4rpVv3ubpX4HRr1U",
+          "published": "2026-07-30T00:18:03+00:00",
+          "summary": "IMF專家亦建議特區政府進一步加強應對氣候變化方面的基建投資，以提高澳門的氣候韌性。 在發表總結性陳述後，IMF將在兩個月內發佈詳細的《2026年澳門特別行政區&nbsp;..."
         },
         {
-          "title": "高雄深化大阪、松原合作攜手推動<b>淨零</b>建築與永續城市- 社會新聞 - PChome news",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/society/news586/20260729/index-78528554506212290002.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0a9nJdOoV2uP1ihNwnGwWl",
-          "published": "2026-07-29T01:29:41+00:00",
-          "summary": "【點傳媒／記者張沁慧報導】 為加速淨零建築發展、深化臺日城市合作，高雄市政府工務局昨（28）日赴日本大阪，與大阪府建築士事務所協會及高雄市五大建築相關公&nbsp;..."
+          "title": "面對<b>氣候變遷</b>與複合風險陳志鴻：多元人才培育是醫療永續關鍵",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.atanews.net/%3Fnews%3D122345&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2avHj48J65tKYakJYMt7UG",
+          "published": "2026-07-29T22:47:06+00:00",
+          "summary": "中國醫藥大學附設醫院攜手台灣氣候與健康聯盟舉辦「院長永續講堂」，邀請陳志鴻分享醫療永續發展與醫療韌性策略。（圖／中醫大附醫提供） 【亞太新聞網／&nbsp;..."
         }
       ]
     }
