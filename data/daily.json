@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-07-31T04:21:13.434552+00:00",
-    "date": "2026-07-31",
+    "generated_at": "2026-08-01T04:20:28.166443+00:00",
+    "date": "2026-08-01",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "讓機器人「看見觸覺」：新型變色感測器成本低廉，還能即時呈現壓力的細微變化",
-          "link": "https://techorange.com/2026/07/31/robots-see-touch-color-changing-sensor/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-31T01:38:06+00:00",
-          "summary": "英國倫敦瑪麗皇后大學研究團隊提出全新解決方案，借助變色觸覺感測器（color-changing tactile sensor）讓機器人直接看見觸覺，把觸覺轉化成視覺進行處理，不必再仰賴微型感測器陣列與複雜演算法。"
+          "title": "【油車與石油需求三年內觸頂】電動車重塑 1.4 兆美元基建商機，快充升級與定置型儲能是下個切入點",
+          "link": "https://techorange.com/2026/08/01/electric-vehicle-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-31T22:29:00+00:00",
+          "summary": "彭博新能源財經（BloombergNEF）發布《2026 電動車展望》（Electric Vehicle Outlook 2026）報告，內容指出 2026 年全球電動乘用車將佔整體新車銷量的 27%——但傳統燃油車的保有量與全球道路石油需求並未立即萎縮，而是預估分別於 2028 年與 2029 年達到頂點後，隨即進入長期的平穩狀態。 同時，中國市場已率先實現電動車製造成本低於同級燃油車，而中國以"
         },
         {
-          "title": "被 AI 引用不等於被推薦！AI 搜尋優化的關鍵不是可見度，而是品牌精準度",
-          "link": "https://techorange.com/2026/07/31/how-to-measure-ai-search-visibility/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-31T01:37:31+00:00",
-          "summary": "在 AI 搜尋快速崛起之際，許多企業開始投入「AI 可見度（AI Visibility）」優化，希望提升品牌在 ChatGPT、Google AI Overviews、Perplexity 等生成式 AI 回答中的曝光率。 數位行銷 Podcast《No Hacks》指出，目前市場最流行的 AI 可見度指標，其實很可能只是新的「虛榮指標（Vanity Metric）」。真正影響商業成果的，並非品牌"
+          "title": "那些沒人搶著做的 AI 題目，為什麼半年後客戶回頭找我們做？",
+          "link": "https://techorange.com/2026/07/31/cloudmile-ai-agent-2/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-31T10:18:49+00:00",
+          "summary": "在 AI 的世界裡有些題目天生就很吸引人，譬如模型多聰明、寫程式出錯率多低、會不會取代人類等等，這些話題永遠有人討論，然而有些題目從來不是大家一開始想做的，譬如誰可以用哪一個 Agent、資料會不會外流、AI 答錯了誰負責等等，這些問題在開會的時候也很難讓人眼睛發亮，聽起來就很無聊。 但我們的產品，就是從這些沒人搶著做的題目裡長出來的。 今年，我們向一家大型金融機構提案，當時花了不少篇幅談 AI "
         },
         {
-          "title": "【科技早餐】AI 算力仍供不應求：Microsoft Azure 年營收破千億美元、Meta 投資上看 1,450 億美元",
-          "link": "https://techorange.com/2026/07/31/ai-compute-demand-microsoft-azure-meta-capex/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-30T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊Microsoft Azure 年營收首破千億，算力仍供不應求 Microsoft 最新財報顯示，2026 會計年度 Azure 營收首度突破 1,000 億美元，年增 41%；最新一季 Azure 與其他雲端服務營收也成長 43%。Microsoft 表示，企業雲端與 AI 算力需求持續超過現有供給，新增容量在當季很快轉化為用量與營收。公司最新"
+          "title": "OpenAI、Anthropic 都在養的神秘職位 FDE 是什麼？萬里雲用「這個工程概念」讓 AI 落地",
+          "link": "https://techorange.com/2026/07/31/cloudmile-openai-anthropic-fde/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-31T10:18:07+00:00",
+          "summary": "這幾年大家在各種 AI 活動上，應該都看過很多很厲害的 Demo，模型能推理、能對話、能自動完成複雜任務，看起來什麼都做得到，但真實世界的企業導入，是另一回事，客戶的資料是亂的，需求是發散的，系統用了十幾年，而且第一次見面時，客戶多半還是對 AI 半信半疑。 CloudMile 萬里雲接觸過上千個大大小小的專案，有金融業、有半導體，也有很多看起來很簡單，做下去才知道完全不是那麼一回事。 一開始可能"
         },
         {
-          "title": "李飛飛 World Labs 新成果：要讓機器人 AI 規模化，先讓它學習的「世界」規模化",
-          "link": "https://techorange.com/2026/07/30/r2s2r-world-labs-ai-robotics-simulation/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-30T09:01:53+00:00",
-          "summary": "由李飛飛（Fei-Fei Li）共同創辦的 AI 新創 World Labs 於 7 月 28 日公開最新研究成果，發表一套名為 Real-to-Sim-to-Real（R2S2R）的機器人訓練與評估引擎。這家以生成 3D 世界起家的公司提出一個與主流不太一樣的判斷：要讓機器人真正規模化上工，關鍵瓶頸並非更強的模型架構，而是能否大量打造出訓練與驗證機器人的「世界」。 而它給出的解法，是把一次真實任"
+          "title": "AI 沒搶走工作，卻更難加薪？Apollo 研究：工作容易被 AI 取代的職位，薪資成長下滑 6.7%",
+          "link": "https://techorange.com/2026/07/31/ai-could-lower-workers-pay-job-market-impact/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-31T09:59:46+00:00",
+          "summary": "AI 來勢洶洶，讓許多工作者擔心自己的工作被取代，但實際的第一波衝擊，可能會先體現在「加薪空間」上。Apollo Global Management 針對美國 321 種職業發布的最新白皮書指出，自 2023 年 ChatGPT 帶起 AI 熱潮以來，高度暴露於 AI 的職位，也就是工作內容很容易被 AI 取代的職位，實質薪資成長幅度平均下滑 6.7%。然而，研究團隊也發現，AI 目前對整體就業市"
         },
         {
-          "title": "從原始碼到部署都可能失守：奧義智慧資安研究處長陳仲寬拆解 4 大供應鏈威脅、3 階段防禦策略",
-          "link": "https://techorange.com/2026/07/30/cycraft-2026-semiconductor-supplychain-forum/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-30T06:17:46+00:00",
-          "summary": "當企業傾全力築起資安高牆，日常依賴的軟體供應鏈，卻可能成為駭客長驅直入的特洛伊木馬。奧義智慧資安研究處長陳仲寬今（30）日出席由 TechOrange 科技報橘與經濟部產業發展署智慧電子產業計畫推動辦公室共同主辦的「半導體供應鏈競爭力論壇」，以「軟體供應鏈的奧德賽征途：近十年安全威脅回顧」為題，回顧過去十年的供應鏈攻擊演進，並從 2019 年華碩 ShadowHammer 事件到後續的 3CX 供"
+          "title": "Google Gemini Robotics 2 登場：如何讓人形機器人「餵資料」就能一路變強？",
+          "link": "https://techorange.com/2026/07/31/google-gemini-robotics-2/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-31T09:54:57+00:00",
+          "summary": "Google DeepMind 在美國時間 7/30 發表了一系列新版 Gemini 模型：Gemini Robotics 2。相較前代只能指揮一支機器手臂從桌面上拿起一個杯子，新模型能指揮整個人形機器人走向桌子、蹲向較低的層架，並將澆水壺放進最底層的綠色箱，官方還展示了綁垃圾袋、轉燈泡等動作，而這一切都在單一學習策略之下完成。這次官方示範用的，是 Apptronik 的人形機器人 Apollo "
         },
         {
-          "title": "Microsoft 一季簽下 1,300 億美元資料中心租約，AI 基建需求還沒降溫？",
-          "link": "https://techorange.com/2026/07/30/microsoft-ai-investment/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-30T04:59:20+00:00",
-          "summary": "今年以來，市場一度擔心科技巨頭在 AI 基礎建設上的龐大投入無法轉化為回報，AI 相關股票也因此承壓。但 Microsoft 最新一季財報給出相反訊號：單季新簽超過 1,300 億美元的資料中心租約，計畫兩年內把資料中心容量翻倍，Azure 年營收更首度突破 1,000 億美元。當外界正辯論 AI 基建是否已蓋過頭，Microsoft 選擇繼續加碼，它的底氣是什麼？ 單季新簽逾 1,300 億美元"
+          "title": "OpenAI 才出事，Anthropic 也承認：Claude 測試曾誤駭 3 家公司",
+          "link": "https://techorange.com/2026/07/31/anthropic-claude-incidents-cybersecurity-evaluations/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-07-31T04:38:22+00:00",
+          "summary": "繼 OpenAI 上週坦承旗下多個模型在安全測試中突破隔離環境、入侵開源平台 Hugging Face 之後，Anthropic 也在美國時間 7/30 揭露一起性質相似的事件。這家 AI 公司在得知 OpenAI 事件後回頭清查自家 141,006 筆網路安全評測紀錄，發現旗下 Claude 模型自今年 4 月起，曾在 3 起獨立事件中錯誤入侵三家真實企業的系統，而其中多數受害公司當時毫無所覺。"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "股市慘綠、情緒好悶！資深臨床心理師：5招「快速壓力重置」找回內心平靜",
-          "link": "https://www.gvm.com.tw/article/125275",
-          "published": "2026-07-30T18:55:00",
-          "summary": "珍妮佛．L．塔茲博士是擁有15年諮商經歷、獲得美國專業心理學委員會認證的臨床心理師。他用親身經歷、個案故事與最新研究告訴我們，多數人在壓力來襲時，經常會陷入過度反應，讓情況與感受變得更糟糕，然後產生更大的壓力。其實，關鍵不在壓力本身，而是我們選擇怎麼面對。當你學會如何調節情緒，也就掌握了應對壓力的能力。（本文節錄自《重啟你的情緒開關》一書，作者：珍妮佛．L．塔茲，高寶出版，以下為摘文。）如果可以隨"
+          "title": "混沌時代如何迎戰風險？ 臺大EMBA助領導者強化組織韌性",
+          "link": "https://www.gvm.com.tw/article/131908",
+          "published": "2026-08-01T00:00:00",
+          "summary": "地緣政治、氣候危機、供應鏈重組與 AI 浪潮交織，使企業面臨前所未有的不確定性。臺大 EMBA 執行長何耕宇教授指出，僅憑過往經驗已不足以因應變局；領導者必須強化適應力與組織韌性，透過系統化學習校準策略判斷，建構更具前瞻性的決策框架。臺灣製造業長期以效率、速度、彈性生產與供應鏈整合立足全球。然而，過度追求效率與成本最適化，也可能削弱備援能力，壓縮組織因應變局的空間。臺大 EMBA 執行長何耕宇教授"
         },
         {
-          "title": "BTS向葛萊美說不！盼音樂不被語言地域定義，主辦回應了",
-          "link": "https://www.gvm.com.tw/article/131966",
-          "published": "2026-07-30T18:39:00",
-          "summary": "韓國天團「防彈少年團」（BTS）宣布不報名2027年2月舉行的葛萊美獎後，葛萊美獎主辦單位美國錄音學院執行長回應說，增設「最佳亞洲流行音樂表演」獎的用意並非要將K-pop歌手邊緣化。美國影劇新聞媒體「綜藝」（Variety）等外媒報導，美國錄音學院（Recording Academy）執行長梅森（Harvey Mason jr）發布聲明表示：「得知BTS選擇不參與今年葛萊美獎（Grammy Awa"
+          "title": "力積電發布重訊！董座黃崇仁心肺衰竭逝世享壽76歲",
+          "link": "https://www.gvm.com.tw/article/84975",
+          "published": "2026-07-31T18:15:00",
+          "summary": "2026/7/31編按更新：晶圓代工廠力積電（6770）今（31）日傍晚發布重訊指出，董事長黃崇仁今日午間因心肺衰竭，於自宅睡夢中安詳離世享壽76歲。力積電公告：「本公司董事長黃崇仁先生於今午(七月三十一日)，因心肺衰竭於自宅睡夢中安詳離世。本公司副董事長謝再居先生依法代理董事長職務。本公司產銷業務將依照既定規劃有序推進，全體員工也會一如既往全力以赴，賡續創辦人黃崇仁博士為台灣高科技產業開拓新局的"
         },
         {
-          "title": "一杯咖啡好壞如何定義？世界手沖冠軍傳授「7大重點」",
-          "link": "https://www.gvm.com.tw/article/107496",
-          "published": "2026-07-30T18:38:00",
-          "summary": "世上有很多人都認為咖啡是一種「又黑又苦的液體」。但實際上，咖啡的味道相當複雜，有各式各樣的香氣和味道。要想從各個角度來享受咖啡的風味和口感，可參考 JBrC 和 WBrC 的評分表。你可以從中瞭解到風味和口感的細分方式、頂級咖啡師如何組合風味、以及專業人士會對哪些咖啡做出美味的評價。（本文節錄自《就這麼簡單！世界冠軍親授 「4：6法」手沖奧義全解析 煮出令人上癮的好咖啡》一書，作者：粕谷哲，方舟文"
+          "title": "聯發科股價還有戲？AI ASIC兩代齊發，市占拚躍升",
+          "link": "https://www.gvm.com.tw/article/132005",
+          "published": "2026-07-31T18:01:00",
+          "summary": "聯發科（2454）近期股價震盪，從上半年高點4970元一路下探到3200元出頭，許多投資人正引頸期盼今（31）日的法說會帶來好消息提振該企業股票表現。現場執行長蔡力行分析，首款AI加速器ASIC預計今年第四季進入量產，帶動2026年資料中心營收突破20億美元；運算規模更大的第二代產品，也確定朝2028年初量產推進。他更直言，到了2028年，第一、二代ASIC將同步量產，屆時公司市占率可望迎來非常顯"
         },
         {
-          "title": "香奈兒女士：你可以穿不起Chanel，但永遠別忘了那件叫「自我」的衣服",
-          "link": "https://www.gvm.com.tw/article/74013",
-          "published": "2026-07-30T18:36:00",
-          "summary": "永遠別忘了經典奢侈品牌Chanel的創始人香奈兒女士的那一句話：「你可以穿不起Chanel，但永遠別忘了那件叫『自我』的衣服。」（本文摘自《超越自己就美，管她什麼完美》一書，以下為摘文。）認識一個女生R，對買名牌有極其瘋狂的執念。R家裡條件並不是特別好，父母每天辛辛苦苦賺錢供她讀大學，她拿到生活費的第一件事就是去購物。一開始買平價品，靠著自己打工，尚且能夠應付。後來，看到有些同班同學全身上下都是名"
+          "title": "為什麼孩子長大後仍願意說心事？親子關係好的父母都有這7種習慣",
+          "link": "https://www.gvm.com.tw/article/132004",
+          "published": "2026-07-31T17:50:00",
+          "summary": "許多父母以為親子感情好，孩子就會主動說心事，但真正的關鍵，是讓孩子感到安全。美國親子關係專家朗達分析逾200組親子關係發現，從小到大都願意向父母傾訴的孩子，背後都有具備七種習慣的父母。許多父母總以為，只要和孩子感情夠好，孩子遇到煩惱時，自然願意主動說給爸媽聽。然而，美國親子關係專家勞達（Reem Raouda）分析超過200組親子關係後發現，真正讓孩子從7歲到27歲都願意敞開心扉的，不只是親密，而"
         },
         {
-          "title": "工作「安定感」靠自己給：培養就算明天被開除，也能坦然接受的能力",
-          "link": "https://www.gvm.com.tw/article/114645",
-          "published": "2026-07-30T18:15:00",
-          "summary": "Meta於2026年5月啟動大規模組織重整，全球裁員約8千人，「歸屬於大型企業」和「大型企業可以讓自己存活」的想法已是天方夜譚。你可以把企業招牌當成錯覺資產加以利用，但是擁有「身在大型企業＝讓自己安定」這樣的錯覺，可說是非常危險的事情。（本文節錄自《個人無限公司》一書，作者：moto，方舟文化出版，以下為摘文。）事實上，近年，帶動日本經濟躍進的大型企業，正在實施大規模的重組（Restructuri"
+          "title": "NCC進入空窗期！3委員任期31日屆滿，面臨成立20年來首度無委員",
+          "link": "https://www.gvm.com.tw/article/132000",
+          "published": "2026-07-31T16:52:00",
+          "summary": "國家通訊傳播委員會（NCC）委員現有4名空缺，現任3位委員任期今天屆滿。行政院日前再提新名單，尚待立法院審查，NCC自8月1日起恐進入無委員在任的空窗期。NCC表示，民國95年2月22日成立以來，未曾發生無委員在任情形；若無任何委員或僅有1人擔任主委，均無法召開委員諮議會議，監理業務將無法運作。目前有多家廣電事業執照屆期、董監事或營運計畫變更案，以及節目內容核處與重大監理政策等，共約有748案，N"
         },
         {
-          "title": "文組生不可能進台積電？真實數據出乎意料：43%科技業高薪職缺不需寫程式",
-          "link": "https://www.gvm.com.tw/article/131965",
-          "published": "2026-07-30T18:06:00",
-          "summary": "近期全球金融市場與股市劇烈震盪，市場避險情緒升溫，不少投資人深深感嘆資產隨市場起落的無常，大眾也更加篤信：「擁有穩定、高溢價的主動收入工作，才是滾大資產、對抗通膨最堅實的護城河。」每次看到科技業分紅大暴發的新聞，非理工科系的文組生只能自嘲「與高薪絕緣」？其實，這完全是資訊落差造成的「認知世襲」。《高薪賽道：選擇比努力重要！走對路徑的職場換軌與談薪心法》／作者：抹布（Moboo）／天下文化出版很多人"
+          "title": "AI能追蹤進度做報告，中階主管價值何在？初階職缺正在「資深化」",
+          "link": "https://www.gvm.com.tw/article/131998",
+          "published": "2026-07-31T16:06:00",
+          "summary": "AI浪潮席捲企業，最先衝擊的不是特定職缺，而是大家習以為常的晉升階梯。新人過去用來打底的例行任務，如今不少已交由AI接手；原本靠著居中協調、向上回報站穩腳步的中階主管，也因為組織走向扁平，面臨轉型壓力。AI如何改變企業找人的標準？為什麼老闆們一邊歎息找不到人，一邊卻縮減培養人才的資源？《遠見》採訪台灣第一線經理人，帶你一次掌握職場變局。目錄●AI重塑職場金字塔：年輕人與中階主管同受衝擊&nbsp;"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "中榮攜手7家醫院打造中台灣永續區域共榮圈| 全國廣播M-Radio",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.mradio.com.tw/home/m-news/ContentView/928346d5-2dde-4190-ae77-a89f9aaa0cc9/true/0&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1H0SQKtNvN0FTTo51lUkwf",
-          "published": "2026-07-31T02:35:48+00:00",
-          "summary": "面對全球氣候變遷淨零轉型必要性，臺中榮總邀集中部7家醫療機構共同參加台灣永續能源研究基金會的氣候與健康管理師培訓班。7家醫院包括臺中榮總、嘉義分院、&nbsp;..."
+          "title": "譚偉文：持續優化下水道排查及疏通工作 - 新華澳報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.waou.com.mo/2026/08/01/%25E8%25AD%259A%25E5%2581%2589%25E6%2596%2587%25EF%25BC%259A%25E6%258C%2581%25E7%25BA%258C%25E5%2584%25AA%25E5%258C%2596%25E4%25B8%258B%25E6%25B0%25B4%25E9%2581%2593%25E6%258E%2592%25E6%259F%25A5%25E5%258F%258A%25E7%2596%258F%25E9%2580%259A%25E5%25B7%25A5%25E4%25BD%259C/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw06t4ZzyrKjAV-Wra9U6fVG",
+          "published": "2026-07-31T18:19:55+00:00",
+          "summary": "公共建設局已建立聯合巡查機制，未來會加強排污源頭檢查，嚴厲打擊非法排污行為，並會持續加強宣導，提升業界守法意識。 譚偉文表示，特區政府高度重視應對氣候&nbsp;..."
         },
         {
-          "title": "環境永續發展論壇產官學齊聚朝陽科大開創<b>淨零</b>轉型新局 - 中央社",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/postwrite/chi/440400&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw379kKW61NVpdDMne7tlkf-",
-          "published": "2026-07-31T02:24:38+00:00",
-          "summary": "論壇中特別邀請資源循環署署長賴瑩瑩及氣候變遷署署長蔡玲儀，分別以「面對氣候變遷的循環經濟」及「碳定價驅動下的臺灣淨零轉型新局」為題進行專題演講，從資源&nbsp;..."
+          "title": "高雄碳負擔變身碳資產26項成果<b>淨零</b>學院獲雙認證- 地方 - 華視新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.cts.com.tw/cna/local/202607/202607313062041.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw15kImNfMdOa8sdSB4RmHc0",
+          "published": "2026-07-31T17:37:16+00:00",
+          "summary": "... 淨零學院取得「場館服務碳足跡」及「碳中和」雙認證，展現高雄淨零轉型決心。 市長陳其邁致詞表示，高雄碳排放量占全國5分之1，高雄必須走得比其他城市更快，淨零&nbsp;..."
         },
         {
-          "title": "助力企業<b>淨零</b>轉型桃市府攜手中經院推廣TRE100倡議",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5635/9660842&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw01DJJz3niHVIm3XN9eBI4M",
-          "published": "2026-07-31T02:11:15+00:00",
-          "summary": "桃園市政府30日宣布桃園市正式擔任TRE100城市大使，攜手推動在地企業使用再生能源，加速產業淨零與綠色轉型，協助企業提升永續競爭力。由桃園市政府經濟發展&nbsp;..."
+          "title": "碳負擔轉型碳資產高雄市公布26項碳權計畫淨零學院獲「碳足跡」「碳中和」雙認證 - 台灣好報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://newstaiwan.net/2026/07/31/464603/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0qSfzsnbejVtQM3Xbxdd__",
+          "published": "2026-07-31T17:32:20+00:00",
+          "summary": "在ISO 14068-1場域碳中和部分，淨零學院導入節能、隔熱及無紙化等措施，搭配綠電憑證，將年排放量從40噸降至23噸，最後透過市府來自電動公車的5公噸減量額度，及&nbsp;..."
         },
         {
-          "title": "【專題演講】<b>淨零</b>路徑上的環境公義：AI 如何助力中小企業實踐能源公平轉型 - 中央社",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/video/news/4355641&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3lhBUHPFnD6GaxtmNOUGPL",
-          "published": "2026-07-31T01:07:20+00:00",
-          "summary": "當AI 遇見ESG 系列論壇\\n產官學研權威集結｜ 智慧轉型｜ 永續實踐\\n數據驅動X 綠色轉型X 智慧治理：開啟企業永續新賽道\\n\\n當最強的大腦，遇上最迫切的使命。"
+          "title": "碳權暨碳資產實踐論壇陳其邁：藉實務演練了解問題 - 新唐人亞太電視台",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ntdtv.com.tw/b5/20260731/video/410411.html%3F%25E7%25A2%25B3%25E6%25AC%258A%25E6%259A%25A8%25E7%25A2%25B3%25E8%25B3%2587%25E7%2594%25A2%25E5%25AF%25A6%25E8%25B8%2590%25E8%25AB%2596%25E5%25A3%2587%2520%25E9%2599%25B3%25E5%2585%25B6%25E9%2582%2581%25EF%25BC%259A%25E8%2597%2589%25E5%25AF%25A6%25E5%258B%2599%25E6%25BC%2594%25E7%25B7%25B4%25E4%25BA%2586%25E8%25A7%25A3%25E5%2595%258F%25E9%25A1%258C&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1Bc6QJcWBCxCpIz0LlXpex",
+          "published": "2026-07-31T16:22:17+00:00",
+          "summary": "配合中央《氣候變遷因應法》，高雄也率先制定《高雄市淨零城市發展自治 ... 此外，高雄淨零學院也正式取得碳中和及碳足跡查證聲明書，由查驗機構BSI及&nbsp;..."
         },
         {
-          "title": "攜手打造<b>淨零</b>永續幸福花蓮縣府表揚115年度績優環保志工",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.hlepb.gov.tw/volunteer/index.php%3Fcode%3Dlist%26flag%3Ddetail%26ids%3D160%26article_id%3D5330&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3WUG53XCSfPtY8_HL6jA4y",
-          "published": "2026-07-31T01:05:35+00:00",
-          "summary": "花蓮縣政府於7月15日在花蓮福容大飯店舉辦「115年度績優環保志工表揚典禮暨高峰會」，縣長徐榛蔚..."
+          "title": "認識<b>氣候變遷</b>環資局北竿舉辦「<b>淨零</b>綠生活」說明會 - 馬祖日報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.matsu-news.gov.tw/news/article/243169&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0QEkRdLEAPoSASbpy-JGEk",
+          "published": "2026-07-31T16:09:13+00:00",
+          "summary": "講師先說明天氣與氣候的差別，指出天氣是短時間的變化，氣候則是長期累積的趨勢。課程也以吐瓦魯為例，說明當地受到海平面上升、淡水資源減少、土壤鹽化及糧食&nbsp;..."
         },
         {
-          "title": "《國家應對氣候變化“十五五”規劃》印發",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=http://cpc.people.com.cn/BIG5/n1/2026/0731/c64387-40771463.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1R2j77pQoufrMpjXxAql2Y",
-          "published": "2026-07-31T00:53:04+00:00",
-          "summary": "在控制重點領域二氧化碳排放方面，規劃提出，實施碳排放總量和強度雙控制度，加快建設新型能源體系，大力發展非化石能源，實施可再生能源消費替代，推動煤炭和石油消費&nbsp;..."
+          "title": "[HK]大森控股(01580):2025/26 环境、社会及管治报告 - 中财网",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cfi.net.cn/p20260731003309.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3GgzdAT7pYwCABOpYTgl1a",
+          "published": "2026-07-31T15:09:13+00:00",
+          "summary": "實體風險 ; 氣候情景, 低風險情景, 高風險情景 ; SSP 1-1.9, SSP 5-8.5 ; 情景描述 ? 全球快速淘汰化石燃料，全球二氧化碳排放量在2050年左右達致淨零。可再生能源&nbsp;..."
         }
       ]
     }
