@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-02T04:22:07.669009+00:00",
-    "date": "2026-08-02",
+    "generated_at": "2026-08-03T04:29:29.158619+00:00",
+    "date": "2026-08-03",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,10 +12,28 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "【油車與石油需求三年內觸頂】電動車重塑 1.4 兆美元基建商機，快充升級與定置型儲能是下個切入點",
-          "link": "https://techorange.com/2026/08/01/electric-vehicle-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-07-31T22:29:00+00:00",
-          "summary": "彭博新能源財經（BloombergNEF）發布《2026 電動車展望》（Electric Vehicle Outlook 2026）報告，內容指出 2026 年全球電動乘用車將佔整體新車銷量的 27%——但傳統燃油車的保有量與全球道路石油需求並未立即萎縮，而是預估分別於 2028 年與 2029 年達到頂點後，隨即進入長期的平穩狀態。 同時，中國市場已率先實現電動車製造成本低於同級燃油車，而中國以"
+          "title": "駭客 29 分鐘就能橫向移動、企業只剩 5.5 天阻斷攻擊，DEVCORE 共同創辦人暨執行長翁浩正：別再追求漏洞清零",
+          "link": "https://techorange.com/2026/08/03/devcore-2026-semiconductor-supplychain-forum/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-03T02:39:11+00:00",
+          "summary": "AI 時代的到來，不只加速企業轉型，也讓駭客大幅提升攻擊火力。近日，TechOrange 科技報橘與經濟部產發署智慧電子產業計畫推動辦公室共同舉辦「半導體供應鏈競爭力論壇」，特別邀請 DEVCORE 共同創辦人暨執行長翁浩正，深入解析「駭客眼中 AI 帶來的威脅：透過主動式攻擊強韌企業安全」。 DEVCORE 自 2012 年創立以來，便專注於「主動式攻擊」，也就是紅隊演練與資安研究，並曾多次協助"
+        },
+        {
+          "title": "【SLM 崛起】2030 年市場規模超過 200 億美元，小模型悄取代大模型成企業 AI 主力",
+          "link": "https://techorange.com/2026/08/03/small-language-models/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-03T02:15:50+00:00",
+          "summary": "過去三年，AI 產業陷入一場大規模的軍備競賽。兆級參數的巨型模型佔據新聞頭條、模型分數排行榜與百工各業的產業運用；然而當全世界的目光聚焦在巨型模型上時，參數規模僅 10 億至 130 億的小型語言模型（SLM）正悄悄進入生產環境，甚至可以真正驅動商業價值。 越來越多曾部署大型語言模型（LLM）的企業，如今正以小模型取而代之。這不是預算上的妥協，而是新型態的競爭優勢，更迫使企業重新思考 AI 的運作"
+        },
+        {
+          "title": "AI 試行專案燒錢又沒成效？供應鏈 AI 落地的 3 個實務原則",
+          "link": "https://techorange.com/2026/08/03/supply-chain-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-03T01:41:44+00:00",
+          "summary": "在供應鏈 AI 熱潮下，有些企業陷入試行專案（Pilot）告吹、無法帶來實質效益的困境。知名管理顧問公司 Bain &amp; Co. 供應鏈策略與轉型的合夥人 Dheera Anand 建議，啟動試行前應先確認資料、ROI 與員工接受度。 這樣的困境也反映在調查數據上。Gartner 今年四月發表針對供應鏈長（CSCO）進行的調查顯示，56% 的受訪者認為，將 AI 與既有系統及流程整合，是目前"
+        },
+        {
+          "title": "【科技早餐】AWS 算力供不應求、亞馬遜結盟 OpenAI，聯發科 AI 晶片第 4 季量產",
+          "link": "https://techorange.com/2026/08/03/aws-ai-compute-demand-amazon-openai-mediatek-ai-chip/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-02T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊AWS 2027 年多數算力已被預訂，亞馬遜結盟 OpenAI 擴大 AI 版圖 亞馬遜（Amazon）表示，AWS 2027 年大部分運算產能已被客戶預訂，2028 年也有相當數量的產能獲得預訂；即使持續擴建，公司今年仍沒有足夠算力滿足所有需求。第 2 季 AWS 營收年增 37%，達 422 億美元，創 18 季以來最快增速。亞馬遜執行長賈西"
         }
       ]
     },
@@ -24,40 +42,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "不是AI造成的！Z世代女性就業成長落後男性，史丹佛研究：主因是「職業分流」",
-          "link": "https://www.gvm.com.tw/article/131980",
-          "published": "2026-08-01T16:00:00",
-          "summary": "史丹佛大學數位經濟實驗室與 ADP Research 最新公布的薪資資料指出，在入門職場中，Z 世代年輕女性的就業成長幅度正落後於同齡男性。然而，研究團隊強調，造成此差距的主要原因並非人工智慧（AI）。這份最新數據來自「金絲雀儀表板」（Canaries Dashboard）的更新，首次針對 22 至 25 歲勞工的就業變化進行性別拆解。該儀表板由史丹佛數位經濟實驗室與 ADP Research 共"
+          "title": "飛蚊症、視線扭曲是警訊！破解高度近視與黃斑部病變，定期眼底檢查把握手術黃金期",
+          "link": "https://www.gvm.com.tw/article/131758",
+          "published": "2026-08-03T00:00:00",
+          "summary": "近年許多人瘋重訓、超慢跑，但你知道嗎？對高度近視族群而言，過度劇烈震動可能引發視網膜病變！台大醫院視網膜科 / 忠孝大學眼科何子昌教授提醒，超過500度即符合高度近視定義，眼球拉長會導致結構脆弱，進而衍生視網膜剝離或黃斑部病變。若出現飛蚊症暴增、視線扭曲等症狀，應及早進行眼底檢查，透過眼科手術拯救視力危機。目錄一、重訓、馬拉松反傷眼？高度近視定義與劇烈震動隱藏危機二、視網膜病變症狀與剝離前兆：飛蚊"
         },
         {
-          "title": "我想推廣台灣的味道！永康街豆花攻首爾「半個月賣250萬」讓韓國人大排長龍",
-          "link": "https://www.gvm.com.tw/article/132013",
-          "published": "2026-08-01T12:49:00",
-          "summary": "首爾汝矣島現代百貨地下2樓，原本連百貨主管都不看好台灣豆花，快閃開幕半個月便創下近新台幣250萬元業績，最熱銷的不是預期中的芒果雪花冰，而是芒果豆花，一碗芒果豆花賣價折合新台幣約200元，這樣的銷售成績，連山海豆花創辦人劉孆婷都直呼「非常出乎意料」。山海豆花成立於2022年9月，是由台東在地人劉孆婷與日本人YoShi優喜共同創辦，並在同年進駐台北永康街，劉孆婷從造訪永康商圈的韓國觀光客飲食口味，看"
+          "title": "桃園首創可負擔住宅　優先力挺青年成家安居",
+          "link": "https://www.gvm.com.tw/article/131582",
+          "published": "2026-08-03T00:00:00",
+          "summary": "高房價、低生育率是台灣持續面臨的挑戰。桃園率全國之先推出「可負擔住宅」政策，自治條例已於桃園市議會三讀通過，待內政部核定後，最快將於今年底釋出首批桃園航空城的107戶現成安置住宅，後續也將搭配捷運發展永續供給，支援青年在桃園成家安居，落實居住正義，打造年輕世代的城市歸屬感！期待今（2026）年成為台灣「可負擔住宅」元年！回溯2022年，桃園市長張善政競選時，提出「可負擔住宅」構想，上任後持續推進。"
         },
         {
-          "title": "劉在錫為什麼厲害？黃仁勳與比爾蓋茲都折服的「零侵略幽默」！揭密國民MC長青35年利他哲學",
-          "link": "https://www.gvm.com.tw/article/131979",
-          "published": "2026-08-01T11:00:00",
-          "summary": "在低俗笑點失靈的時代，劉在錫用長達35年的「零瑕疵」私德與共感幽默，開創主持新局。究竟他如何把看似包袱的乾淨風骨變為核心競爭力，贏得全球大咖的敬重？誰有辦法讓輝達執行長黃仁勳在鏡頭前暢談創業初期瀕臨破產的心境轉折，也讓微軟創辦人比爾蓋茲當眾承認早期管理員工犯過的錯誤？答案就是韓國綜藝天王劉在錫。54歲的他，不靠傳統男性主持人開黃腔、對女性來賓上下其手，依然能在廝殺激烈的亞洲娛樂圈站穩地位，靠的其實"
+          "title": "賦能消費者的支付革命！ 玉山 Unicard 靠「大數據」與「訂閱制」打造最懂你的金融夥伴",
+          "link": "https://www.gvm.com.tw/article/131494",
+          "published": "2026-08-03T00:00:00",
+          "summary": "信用卡切換制與點數經濟已成顯學，各家銀行紛紛搶進布局生態圈，比拚的多半是回饋比例與通路數量。玉山銀行卻另闢蹊徑，推出「玉山Unicard」信用卡，主打消費者自選回饋權益，更首創「訂閱制」，將選擇權交還持卡人，讓支付工具打破單一消費平台與場景，更加深入生活日常。台灣信用卡全台流通卡數已接近六千萬張，平均每位成年人手中持有三到五張信用卡。各大銀行雖紛紛推出專屬消費回饋及點數機制，藉此提升用戶黏著與忠誠"
         },
         {
-          "title": "2026中央免費癌篩、六都加碼健檢完整比較！如何預約？",
-          "link": "https://www.gvm.com.tw/article/131993",
-          "published": "2026-08-01T08:55:00",
-          "summary": "最近國內權威醫師與幾位公眾人物接連傳出重症甚至猝逝的消息，讓不少人重新意識到，隨時關注個人健康以及定期健檢的重要性比想像中迫切。其實衛福部從2026年1月1日起，已經把胃癌篩檢正式納入公費項目，變成第6項免費癌症篩檢；除了中央版本，台北、新北、桃園、台中、台南、高雄六都各自還有健康檢查加碼補助方案，只是補助對象差異不小。中央免費癌篩到底涵蓋哪些人？你所在的縣市，又多補助了什麼？目錄●2026最新版"
+          "title": "孤獨不可怕，被忽略的孤立更值得關注！國泰人壽《2026人生風險趨勢調查報告》揭示身、心、財三大風險變化",
+          "link": "https://www.gvm.com.tw/article/131262",
+          "published": "2026-08-03T00:00:00",
+          "summary": "隨著台灣邁入超高齡社會，加上少子化、單身與獨居家庭增加，「一個人的老後」逐漸成為常態，也讓近年備受關注的孤獨死議題受到更多討論。國泰人壽《2026人生風險趨勢調查報告》指出，「孤獨與孤立」不再只是個人情感問題，而是可能牽動身體、心理與財務健康的新形態人生風險。面對這項新風險變數，我們該如何以及早為自己建構更穩固的生活防護網？目錄● 四大趨勢看見風險版圖大洗牌趨勢一：財務焦慮首度超車身體健康，長照財"
         },
         {
-          "title": "東野圭吾大腸癌逝！預防關鍵：這5類人是高風險群，注意6異常症狀",
-          "link": "https://www.gvm.com.tw/article/131973",
-          "published": "2026-08-01T07:00:00",
-          "summary": "日本知名推理小說家東野圭吾驚傳因大腸癌病逝，享壽 68 歲！大腸癌初期常無症狀，出現排便習慣改變、血便、腹痛等 6 大異常萬不可輕忽。除了肥胖與常吃高脂紅肉、加工肉品外，50 歲以上及有家族史更是高風險族群。本文解析大腸癌前兆與預防「兩多兩少」法則，並呼籲善用每 2 年 1 次免費糞便潛血檢查，把握癌症診斷、黃金治療期。根據日本朝日新聞報導，日本知名推理小說作家東野圭吾（ひがしの けいご）於 7 "
+          "title": "3天跌3700點、史上最大單日漲點！台股急跌急彈震盪週，展望後市多空因素一次看",
+          "link": "https://www.gvm.com.tw/article/132019",
+          "published": "2026-08-02T20:40:00",
+          "summary": "台股上週經歷劇烈震盪，先在3個交易日重挫逾3700點，隨後單日大漲3186.45點，創史上最大漲點，不過反彈氣勢未能延續，台指期夜盤再跌逾千點。法人指出，本週台股能否延續反彈，將觀察美股及日韓股市走勢、外資籌碼變化，以及AI產業基本面是否仍具支撐。台股上週走勢峰迴路轉，歷經7月28、29、30日3天下跌約3700點後，週五大漲3186.45點，收在43119.75點，創史上最大漲點，台積電等權值股"
         },
         {
-          "title": "混沌時代如何迎戰風險？ 臺大EMBA助領導者強化組織韌性",
-          "link": "https://www.gvm.com.tw/article/131908",
-          "published": "2026-08-01T00:00:00",
-          "summary": "地緣政治、氣候危機、供應鏈重組與 AI 浪潮交織，使企業面臨前所未有的不確定性。臺大 EMBA 執行長何耕宇教授指出，僅憑過往經驗已不足以因應變局；領導者必須強化適應力與組織韌性，透過系統化學習校準策略判斷，建構更具前瞻性的決策框架。臺灣製造業長期以效率、速度、彈性生產與供應鏈整合立足全球。然而，過度追求效率與成本最適化，也可能削弱備援能力，壓縮組織因應變局的空間。臺大 EMBA 執行長何耕宇教授"
+          "title": "直擊2026世界驕傲節！荷蘭王后創歐洲皇室首例出席：愛是擁抱每一種不同",
+          "link": "https://www.gvm.com.tw/article/132017",
+          "published": "2026-08-02T16:45:00",
+          "summary": "全球規模最大的LGBTQ+盛事「世界驕傲節」（WorldPride）於7月25日至8月8日在荷蘭阿姆斯特丹盛大登場！這場被當地媒體形容為「有史以來最大規模」的平權盛會，有何魅力能吸引百萬人共襄盛舉？《遠見》帶您現場直擊。8月1日下午，80多艘裝飾著彩虹旗與氣球的船隻在阿姆斯特丹運河上巡航，岸邊萬人歡呼相應，全球規模最大的LGBTQ+盛事「世界驕傲節」（WorldPride）於7月25日至8月8日在"
         }
       ]
     },
@@ -66,40 +84,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "少子化、<b>氣候變遷</b>北市政策翻轉保變住回復為保護區",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.merit-times.com.tw/NewsPage.aspx%3Funid%3D939616&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0eT1yEXajaCbfTPhngy52z",
-          "published": "2026-08-02T00:45:57+00:00",
-          "summary": "【本報台北訊】近五十年前，台北市府因應人口成長需求，將全市二十五處保護區變更為住宅區，近年通盤檢討，考量「人口負成長」、「氣候變遷風險」及「山坡地&nbsp;..."
+          "title": "國泰金加入全時無碳電力倡議- 日報- 工商時報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260803700264-439901&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0kOcU6pIhzJBqIGQHCLS9r",
+          "published": "2026-08-02T19:08:40+00:00",
+          "summary": "成為全球唯一金融機構成員，總座李長庚五度前進倫敦氣候行動周，籲用永續金融驅動亞洲淨零 &middot; 2026.08.03 &middot; 03:00 &middot; 工商時報 陳美君."
         },
         {
-          "title": "<b>氣候變遷</b>加劇野火風險，美國押寶消防無人機「快打部隊」搶救初期火勢 - 理財寶",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/article/181232204&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1Pj0EWFtph1zYalERAcekz",
-          "published": "2026-08-01T20:43:16+00:00",
-          "summary": "隨著氣候變遷導致美國野火季節幾乎演變成全年度的常態性風險，加州消防單位正將目光投向一項救災新工具：能自主飛行， […]"
+          "title": "國泰金挺「全時無碳電力」倡議| 金融脈動 - 經濟日報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/5613/9666468&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0j0-gpyP73tqV8jfs1ACLj",
+          "published": "2026-08-02T18:56:46+00:00",
+          "summary": "極端氣候現象加劇，地緣政治衝突升高，全球能源轉型進入關鍵時刻，從「減碳」邁向「韌性」。國泰金控（2882）五度前進歐洲最大氣候盛會「倫敦氣候行動周」，&nbsp;..."
         },
         {
-          "title": "韓國梁山飆41.6度高溫職棒宣布取消比賽 - 中央廣播電臺",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rti.org.tw/news%3Fuid%3D3%26pid%3D223796&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3tru9iw0ECPQdSuqAb8rp7",
-          "published": "2026-08-01T20:38:08+00:00",
-          "summary": "受到高溫熱浪影響，韓國職棒宣布取消今天（1日）舉行的2場比賽，以確保球員與球迷的安全。 法新社報導，韓國棒球委員會（KBO）發布聲明表示，原定今天在釜山&nbsp;..."
+          "title": "國泰金挺「全時無碳電力」倡議| 金融脈動 - 經濟日報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5613/9666468&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3sD_nPFPP9lVY5tbg34kL1",
+          "published": "2026-08-02T18:56:45+00:00",
+          "summary": "極端氣候現象加劇，地緣政治衝突升高，全球能源轉型進入關鍵時刻，從「減碳」邁向「韌性」。國泰金控五度前進歐洲最大氣候盛會「倫敦氣候行動周」，&nbsp;..."
         },
         {
-          "title": "綜述：歐洲野火肆虐首現“火積雲”現象",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hkcna.hk/h5/docDetail.jsp%3Fid%3D101384669%26channel%3D2813&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1as2p5gPc8MYQC9E-ATIWz",
-          "published": "2026-08-01T19:32:23+00:00",
-          "summary": "這波野火不僅造成大量人員傷亡與財產損失，也再次凸顯氣候變遷下南歐火險日益嚴峻的趨勢。 什麼是“火積雲”？ “火積雲”（又稱火雲或火積雨雲）是嚴重野火或&nbsp;..."
+          "title": "台灣永續投資獎揭曉／第一金ESG 績優橫掃六獎項 - 國泰證券",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20260803%26CSeqNO%3DE9666474&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0a5CGUM3Iy9gqfTCAtm5Zz",
+          "published": "2026-08-02T17:58:17+00:00",
+          "summary": "面對全球淨零轉型，第一金透過責任投資、投資脫碳、主題式永續投資及 ... 除擴大綠色投資，第一金控也持續與被投資企業就氣候變遷、減碳目標及ESG議題&nbsp;..."
         },
         {
-          "title": "第十屆創業之星獲獎團隊／睿田能源光電板變建築外牆 - 國泰證券",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20260802%26CSeqNO%3DE9665000&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0xxZGXYsIN05bk1EZN_cc-",
-          "published": "2026-08-01T18:58:08+00:00",
-          "summary": "... 淨零碳建築目標。 薛煒立說，2023年，聯合國氣候變遷綱要公約的締約國大會（COP28）通過增加綠色能源目標，但台灣是海島型國家，土地無法增加的情況下，唯有&nbsp;..."
+          "title": "政策與<b>淨零</b>趨勢如何轉化營收動能？ - 延伸閱讀文章",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://readmo.cmoney.tw/article/20663e52-23cf-4bec-a44d-66b03126a240&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2ag7gaJiG1oqDb8R3TavPD",
+          "published": "2026-08-02T17:26:28+00:00",
+          "summary": "尤其像氣候變遷這類看重長線趨勢的主題基金，選擇把收益留在基金內累積，往往比直接領息更符合長期配置邏輯。 近來全球推動淨零碳排的速度加快，綠能轉型已經從&nbsp;..."
         },
         {
-          "title": "水費漲價比通膨快一倍",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.worldjournal.com/wj/amp/story/122984/9649850&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw18oTntGs4yvSpEPyrLBF5C",
-          "published": "2026-08-01T17:49:14+00:00",
-          "summary": "然而氣候變遷給公用事業公司帶來始料未及的影響。邦達爾近期對全國50大市政自來水公司做了一項分析，發現2024年至2025年間，平均水費和污水處理費上漲了5.1&nbsp;..."
+          "title": "虛擬電廠如何助高精密產業達成<b>淨零</b>轉型？ - TechNews 科技新報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://cdn.technews.tw/ai-agent/virtual/24551/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0Izz89abCgBASHo0MqxAo1",
+          "published": "2026-08-02T17:05:59+00:00",
+          "summary": "面對AI 算力激增與全球淨零壓力，半導體及高精密製造業正加速導入「虛擬電廠」（VPP）架構。這項技術透過物聯網與AI 智慧調度，將廠區內的太陽能、儲能&nbsp;..."
         }
       ]
     }
