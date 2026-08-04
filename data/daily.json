@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-03T04:29:29.158619+00:00",
-    "date": "2026-08-03",
+    "generated_at": "2026-08-04T04:13:34.869729+00:00",
+    "date": "2026-08-04",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,28 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "駭客 29 分鐘就能橫向移動、企業只剩 5.5 天阻斷攻擊，DEVCORE 共同創辦人暨執行長翁浩正：別再追求漏洞清零",
-          "link": "https://techorange.com/2026/08/03/devcore-2026-semiconductor-supplychain-forum/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-03T02:39:11+00:00",
-          "summary": "AI 時代的到來，不只加速企業轉型，也讓駭客大幅提升攻擊火力。近日，TechOrange 科技報橘與經濟部產發署智慧電子產業計畫推動辦公室共同舉辦「半導體供應鏈競爭力論壇」，特別邀請 DEVCORE 共同創辦人暨執行長翁浩正，深入解析「駭客眼中 AI 帶來的威脅：透過主動式攻擊強韌企業安全」。 DEVCORE 自 2012 年創立以來，便專注於「主動式攻擊」，也就是紅隊演練與資安研究，並曾多次協助"
+          "title": "從直覺語意搜尋到企業知識庫：QNAP Qsirch 7.1.0 雙核 AI 架構與落地藍圖",
+          "link": "https://techorange.com/2026/08/04/qnap-qsirch-nas-aimode/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-04T03:11:22+00:00",
+          "summary": "「我們最初想打造這樣的模式，就是希望能讓用戶使用的更自然、更輕鬆的方式找到他們需要的檔案。」QNAP 威聯通產品經理駱思安表示，過去企業在 NAS 中搜尋檔案，往往受限於關鍵字、檔名或資料夾路徑。 忘記檔名、檔案存在哪個資料夾，已經成為許多工作者日常面臨的問題，加上 AI 時代帶來海量的資料儲存，使得檔案搜尋變的更加不易，資料的活用性也受到更大的挑戰。威聯通科技（QNAP）推出的 Qsirch A"
         },
         {
-          "title": "【SLM 崛起】2030 年市場規模超過 200 億美元，小模型悄取代大模型成企業 AI 主力",
-          "link": "https://techorange.com/2026/08/03/small-language-models/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-03T02:15:50+00:00",
-          "summary": "過去三年，AI 產業陷入一場大規模的軍備競賽。兆級參數的巨型模型佔據新聞頭條、模型分數排行榜與百工各業的產業運用；然而當全世界的目光聚焦在巨型模型上時，參數規模僅 10 億至 130 億的小型語言模型（SLM）正悄悄進入生產環境，甚至可以真正驅動商業價值。 越來越多曾部署大型語言模型（LLM）的企業，如今正以小模型取而代之。這不是預算上的妥協，而是新型態的競爭優勢，更迫使企業重新思考 AI 的運作"
+          "title": "AI 串聯 3D 列印產業鏈，生成式 AI 讓人能從一張照片做出實體產品",
+          "link": "https://techorange.com/2026/08/04/ai-in-3d-printing-industry/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-04T03:08:01+00:00",
+          "summary": "在 AI 輔助下，整個 3D 列印工作流程的技術門檻，從起點開始發生瓦解，使用者不必再接觸專業的 CAD 軟體，藉由硬體設備跟 AI 模型的互相搭配，填補起 3D 列印產業的關鍵缺口。"
         },
         {
-          "title": "AI 試行專案燒錢又沒成效？供應鏈 AI 落地的 3 個實務原則",
-          "link": "https://techorange.com/2026/08/03/supply-chain-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-03T01:41:44+00:00",
-          "summary": "在供應鏈 AI 熱潮下，有些企業陷入試行專案（Pilot）告吹、無法帶來實質效益的困境。知名管理顧問公司 Bain &amp; Co. 供應鏈策略與轉型的合夥人 Dheera Anand 建議，啟動試行前應先確認資料、ROI 與員工接受度。 這樣的困境也反映在調查數據上。Gartner 今年四月發表針對供應鏈長（CSCO）進行的調查顯示，56% 的受訪者認為，將 AI 與既有系統及流程整合，是目前"
+          "title": "【智慧眼鏡新賽道】不拍照、不錄影，Even Realities 想靠生產力工具挑戰 Meta 獨大的市場",
+          "link": "https://techorange.com/2026/08/04/smart-glasses-without-a-camera/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-04T03:07:40+00:00",
+          "summary": "當多數智慧型眼鏡都在比拚拍照與錄影功能時，Even Realities 選擇了一條相反的路。剛以十億美元估值晉身獨角獸，Even Realities 這家由美團、騰訊領投、募得 1.5 億美元的新創，最新推出的第二代眼鏡 G2 刻意不裝鏡頭、不放喇叭，只留下一塊單色綠光抬頭顯示器，把「生產力」當成核心賣點。 這副要價 599 美元的眼鏡硬體扎實，但是在 Meta 獨大、成長爆發的智慧眼鏡市場裡，如"
         },
         {
-          "title": "【科技早餐】AWS 算力供不應求、亞馬遜結盟 OpenAI，聯發科 AI 晶片第 4 季量產",
-          "link": "https://techorange.com/2026/08/03/aws-ai-compute-demand-amazon-openai-mediatek-ai-chip/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-02T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊AWS 2027 年多數算力已被預訂，亞馬遜結盟 OpenAI 擴大 AI 版圖 亞馬遜（Amazon）表示，AWS 2027 年大部分運算產能已被客戶預訂，2028 年也有相當數量的產能獲得預訂；即使持續擴建，公司今年仍沒有足夠算力滿足所有需求。第 2 季 AWS 營收年增 37%，達 422 億美元，創 18 季以來最快增速。亞馬遜執行長賈西"
+          "title": "不能只替世界「造船」，外貿協會資深顧問李牮斯：台灣 AI Token 使用量居四小龍之末，恐陷「荷蘭病」",
+          "link": "https://techorange.com/2026/08/04/taitra-james-lee-podcast/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-04T02:53:52+00:00",
+          "summary": "專訪：戴季全撰稿：李昀蔚 在這一波 AI 浪潮中，許多企業仍將 AI 停留在「有問必答」的聊天輔助，但真正的差距在於，企業能否將 AI 視為「使命必達」的數位同事，進一步改寫工作流與生產配置。 本集《全新一週》邀請外貿協會資深顧問李牮斯，從 AI 如何顛覆經濟本質與資源配置談起。他強調，AI 帶來的變革並非單純的工業革命，而是宛如探索新大陸般的全新經濟結構。只要企業能突破過去遇到問題就「加人、加資"
+        },
+        {
+          "title": "Palantir 財報揭企業 AI 新趨勢：不只追求更強模型，而是更大的自主權",
+          "link": "https://techorange.com/2026/08/04/palantir-q2-forecast/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-04T01:55:02+00:00",
+          "summary": "Palantir 剛交出一份被執行長 Alex Karp 形容為「超乎尋常」（otherworldly）的財報：第二季營收年增 93% 至 19.4 億美元、超越分析師預期，美國商業營收更大增 149%，帶動股價盤後一度上漲逾一成，全年財測也再度上修。不過比這些數字更值得留意的，是 Palantir 高層藉這場財報拋出的一套企業 AI 判斷：企業導入 AI 時真正在意的，或許不是模型夠不夠強，而是"
+        },
+        {
+          "title": "企業都在投資 AI，生產力數字為何還沒動？49 萬份法說會研究揭「導入空窗期」",
+          "link": "https://techorange.com/2026/08/04/ai-slow-productivity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-04T01:32:53+00:00",
+          "summary": "美國聖路易聯準銀行（St. Louis Fed）以 AI 模型掃描近 49 萬份上市公司法說會逐字稿後發現，企業對 AI 的討論愈來愈多，也開始把錢投下去，但約 95% 的相關發言講的都是 AI「未來會帶來」的效益，而非已經實現的成果。與此同時，全美整體生產力數據至今仍看不到明顯跳升。 投資是真的、市場的樂觀情緒也是真的，效益卻遲遲沒反映在數字上。聖路易聯準銀行指出，這道落差並非 AI 獨有，過去"
         }
       ]
     },
@@ -42,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "飛蚊症、視線扭曲是警訊！破解高度近視與黃斑部病變，定期眼底檢查把握手術黃金期",
-          "link": "https://www.gvm.com.tw/article/131758",
-          "published": "2026-08-03T00:00:00",
-          "summary": "近年許多人瘋重訓、超慢跑，但你知道嗎？對高度近視族群而言，過度劇烈震動可能引發視網膜病變！台大醫院視網膜科 / 忠孝大學眼科何子昌教授提醒，超過500度即符合高度近視定義，眼球拉長會導致結構脆弱，進而衍生視網膜剝離或黃斑部病變。若出現飛蚊症暴增、視線扭曲等症狀，應及早進行眼底檢查，透過眼科手術拯救視力危機。目錄一、重訓、馬拉松反傷眼？高度近視定義與劇烈震動隱藏危機二、視網膜病變症狀與剝離前兆：飛蚊"
+          "title": "台東助孕補助，接住求子路",
+          "link": "https://www.gvm.com.tw/article/131790",
+          "published": "2026-08-04T00:00:00",
+          "summary": "對於好不容易懷上第二胎的楊女士來說，迎來新生命之前，最難的不是等待，而是一次次往返醫院的奔波。試管嬰兒療程初期，刺激排卵、抽血檢查、等待卵泡成熟，短短兩週內就得頻繁回診；身體承受藥物帶來的不適，生活與工作節奏也被迫跟著調整。所幸透過台東馬偕醫院與台北馬偕醫院人工生殖醫學中心的合作，楊女士先完成排卵刺激，再前往臺北進行關鍵療程，讓求子的漫長路上，少了一段又一段跨縣市奔波。目錄一、盼望新生命：試管嬰兒"
         },
         {
-          "title": "桃園首創可負擔住宅　優先力挺青年成家安居",
-          "link": "https://www.gvm.com.tw/article/131582",
-          "published": "2026-08-03T00:00:00",
-          "summary": "高房價、低生育率是台灣持續面臨的挑戰。桃園率全國之先推出「可負擔住宅」政策，自治條例已於桃園市議會三讀通過，待內政部核定後，最快將於今年底釋出首批桃園航空城的107戶現成安置住宅，後續也將搭配捷運發展永續供給，支援青年在桃園成家安居，落實居住正義，打造年輕世代的城市歸屬感！期待今（2026）年成為台灣「可負擔住宅」元年！回溯2022年，桃園市長張善政競選時，提出「可負擔住宅」構想，上任後持續推進。"
+          "title": "從獵人變老闆，宜蘭這個泰雅部落靠「限量」讓自己不老",
+          "link": "https://www.gvm.com.tw/article/132046",
+          "published": "2026-08-03T19:04:00",
+          "summary": "位於宜蘭縣大同鄉寒溪村一帶，有個叫「不老部落」的泰雅族村落，這裡住著的泰雅族人，不像傳統的泰雅族人狩獵為生，而是當農夫，以獨到的原住民美味，加上黃花點點、綠意盎然的清幽山景，前往探秘的遊客在小山上絡繹不絕。除了標榜從「菜園到餐桌」，這個山間部落還嚴格限制每日接待數，部落成員也始終維持老中青三代的黃金平衡，他們是如何做到不老這件事情？其實「不老部落」，原意並不是真的「不老」，而是從日語的「ぷらぷら（"
         },
         {
-          "title": "賦能消費者的支付革命！ 玉山 Unicard 靠「大數據」與「訂閱制」打造最懂你的金融夥伴",
-          "link": "https://www.gvm.com.tw/article/131494",
-          "published": "2026-08-03T00:00:00",
-          "summary": "信用卡切換制與點數經濟已成顯學，各家銀行紛紛搶進布局生態圈，比拚的多半是回饋比例與通路數量。玉山銀行卻另闢蹊徑，推出「玉山Unicard」信用卡，主打消費者自選回饋權益，更首創「訂閱制」，將選擇權交還持卡人，讓支付工具打破單一消費平台與場景，更加深入生活日常。台灣信用卡全台流通卡數已接近六千萬張，平均每位成年人手中持有三到五張信用卡。各大銀行雖紛紛推出專屬消費回饋及點數機制，藉此提升用戶黏著與忠誠"
+          "title": "SpaceX的火箭殘骸8/5將撞月球！會發生什麼事？",
+          "link": "https://www.gvm.com.tw/article/132045",
+          "published": "2026-08-03T18:39:00",
+          "summary": "SpaceX獵鷹9號火箭殘骸即將撞擊月球，引發全球關注。然而，真正的焦點並非撞擊本身，而是商業登月競賽加速下，太空垃圾已從近地軌道蔓延至月地空間。隨著ESA示警軌道碎片持續增加，半世紀前建立的國際太空法，是否還能因應21世紀商業太空時代的新挑戰？曾執行日本太空公司ispace「堅韌號」（Hakuto-R Resilience）與美國螢火蟲太空公司（Firefly Aerospace）「藍色幽靈」（"
         },
         {
-          "title": "孤獨不可怕，被忽略的孤立更值得關注！國泰人壽《2026人生風險趨勢調查報告》揭示身、心、財三大風險變化",
-          "link": "https://www.gvm.com.tw/article/131262",
-          "published": "2026-08-03T00:00:00",
-          "summary": "隨著台灣邁入超高齡社會，加上少子化、單身與獨居家庭增加，「一個人的老後」逐漸成為常態，也讓近年備受關注的孤獨死議題受到更多討論。國泰人壽《2026人生風險趨勢調查報告》指出，「孤獨與孤立」不再只是個人情感問題，而是可能牽動身體、心理與財務健康的新形態人生風險。面對這項新風險變數，我們該如何以及早為自己建構更穩固的生活防護網？目錄● 四大趨勢看見風險版圖大洗牌趨勢一：財務焦慮首度超車身體健康，長照財"
+          "title": "一公式算出「永遠用不完退休金」但有缺點？精算前先確定4個條件",
+          "link": "https://www.gvm.com.tw/article/132044",
+          "published": "2026-08-03T18:33:00",
+          "summary": "理財專家提出，只要知道年生活費、年報酬率及通貨膨脹率，就可以算出「永遠用不完的退休金」的金額。但這種算法最大缺點在於：必須準備的退休金金額，可能高到一般退休族民眾無法達到。因此市場上也出現一種概略式算法，是依照大多數人的平均餘命，再參考主計處所公佈的，每人每月（或年）支出水準，估算出一個大略的應準備退休金數字。（本文節錄自《讓退休金陪你到最後》一書，作者：李雪雯／時報出版，以下為摘文。）關於「需要"
         },
         {
-          "title": "3天跌3700點、史上最大單日漲點！台股急跌急彈震盪週，展望後市多空因素一次看",
-          "link": "https://www.gvm.com.tw/article/132019",
-          "published": "2026-08-02T20:40:00",
-          "summary": "台股上週經歷劇烈震盪，先在3個交易日重挫逾3700點，隨後單日大漲3186.45點，創史上最大漲點，不過反彈氣勢未能延續，台指期夜盤再跌逾千點。法人指出，本週台股能否延續反彈，將觀察美股及日韓股市走勢、外資籌碼變化，以及AI產業基本面是否仍具支撐。台股上週走勢峰迴路轉，歷經7月28、29、30日3天下跌約3700點後，週五大漲3186.45點，收在43119.75點，創史上最大漲點，台積電等權值股"
+          "title": "證交所宣布「關禁閉時間縮短」！調整處置3大新制8/10上路",
+          "link": "https://www.gvm.com.tw/article/132043",
+          "published": "2026-08-03T18:25:00",
+          "summary": "台股近期劇烈震盪，現行處置制度因限縮交易流動性，引起許多討論。立法委員王世堅在臉書發文批評，認為這是「30年前的過時制度，正成為台股流動性殺手！」讓投資人跌到完全賣不掉。知名交易員巨人傑日前也發文示警，認為現行處置制度，可能衍生系統性風險。證交所今（3）發布新聞稿宣布，調整處置期間、撮合作業時間及公布注意交易資訊標準等3大新制，並自8月10日起正式實施。以下為證交所新聞稿全文當有價證券漲跌異常波動"
         },
         {
-          "title": "直擊2026世界驕傲節！荷蘭王后創歐洲皇室首例出席：愛是擁抱每一種不同",
-          "link": "https://www.gvm.com.tw/article/132017",
-          "published": "2026-08-02T16:45:00",
-          "summary": "全球規模最大的LGBTQ+盛事「世界驕傲節」（WorldPride）於7月25日至8月8日在荷蘭阿姆斯特丹盛大登場！這場被當地媒體形容為「有史以來最大規模」的平權盛會，有何魅力能吸引百萬人共襄盛舉？《遠見》帶您現場直擊。8月1日下午，80多艘裝飾著彩虹旗與氣球的船隻在阿姆斯特丹運河上巡航，岸邊萬人歡呼相應，全球規模最大的LGBTQ+盛事「世界驕傲節」（WorldPride）於7月25日至8月8日在"
+          "title": "00980A與0050》成分股、費用比較，主動ETF差在哪？",
+          "link": "https://www.gvm.com.tw/article/132042",
+          "published": "2026-08-03T18:11:00",
+          "summary": "全台首檔主動式ETF「野村臺灣智慧優選主動式ETF」（代號00980A），上週已公布最新一次配息，連續四季提高。然而近期股市震盪，外資一度大賣主動型 ETF，也有散戶站在另一方積極追買。到底00980A這類主動型ETF今年表現好嗎？與0050被動型ETF怎麼比較？成分股壓在哪幾檔？股價現況如何？一次看懂。【目錄】 &nbsp;● 00980A是什麼？主動式ETF還能買嗎？● 00980A最新一季配"
         }
       ]
     },
@@ -84,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "國泰金加入全時無碳電力倡議- 日報- 工商時報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260803700264-439901&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0kOcU6pIhzJBqIGQHCLS9r",
-          "published": "2026-08-02T19:08:40+00:00",
-          "summary": "成為全球唯一金融機構成員，總座李長庚五度前進倫敦氣候行動周，籲用永續金融驅動亞洲淨零 &middot; 2026.08.03 &middot; 03:00 &middot; 工商時報 陳美君."
+          "title": "全球<b>氣候變遷</b>威脅行動通訊網路研究團隊利用開放數據繪製風險地圖| GeneOnline News",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://geneonline.news/%25E5%2585%25A8%25E7%2590%2583%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E5%25A8%2581%25E8%2584%2585%25E8%25A1%258C%25E5%258B%2595%25E9%2580%259A%25E8%25A8%258A%25E7%25B6%25B2%25E8%25B7%25AF%25E7%25A0%2594%25E7%25A9%25B6%25E5%259C%2598%25E9%259A%258A%25E5%2588%25A9%25E7%2594%25A8%25E9%2596%258B%25E6%2594%25BE/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0gPcJtUarv6vMUzJz9olGc",
+          "published": "2026-08-03T21:13:17+00:00",
+          "summary": "該研究利用群眾外包開放數據（Crowdsourced Open Data），深入分析電信基礎設施在面對氣候災害時的脆弱性，旨在解決當前全球面臨的一項難以忽視的重大課題，即&nbsp;..."
         },
         {
-          "title": "國泰金挺「全時無碳電力」倡議| 金融脈動 - 經濟日報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/amp/story/5613/9666468&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0j0-gpyP73tqV8jfs1ACLj",
-          "published": "2026-08-02T18:56:46+00:00",
-          "summary": "極端氣候現象加劇，地緣政治衝突升高，全球能源轉型進入關鍵時刻，從「減碳」邁向「韌性」。國泰金控（2882）五度前進歐洲最大氣候盛會「倫敦氣候行動周」，&nbsp;..."
+          "title": "非洲氣候變化影響瘧疾發病區域- RFI - 法國國際廣播電台",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rfi.fr/tw/%25E9%259D%259E%25E6%25B4%25B2/20260803-rfi%25E6%25B3%2595%25E5%25BB%25A3-%25E4%25B8%25AD%25E6%2596%2587-%25E5%25B0%25BC%25E5%258F%25A4%25E6%258B%2589-%25E9%259D%259E%25E6%25B4%25B2%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E5%258C%2596%25E5%25BD%25B1%25E9%259F%25BF%25E7%2598%25A7%25E7%2596%25BE%25E7%2599%25BC%25E7%2597%2585%25E5%258D%2580%25E5%259F%259F&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3VQGgNvcYuACwzZDIowVlP",
+          "published": "2026-08-03T20:19:38+00:00",
+          "summary": "一項針對非洲的新研究顯示，受全球變暖影響，瘧疾（le paludisme）的分布範圍正在發生變化。根據發表在《自然》（Nature）雜誌上的這項研究，到2100年，&nbsp;..."
         },
         {
-          "title": "國泰金挺「全時無碳電力」倡議| 金融脈動 - 經濟日報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5613/9666468&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3sD_nPFPP9lVY5tbg34kL1",
-          "published": "2026-08-02T18:56:45+00:00",
-          "summary": "極端氣候現象加劇，地緣政治衝突升高，全球能源轉型進入關鍵時刻，從「減碳」邁向「韌性」。國泰金控五度前進歐洲最大氣候盛會「倫敦氣候行動周」，&nbsp;..."
+          "title": "2027智慧城市暨<b>淨零</b>城市展8/3起報名 - 工商時報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260804700208-439901&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3Zf--JeFyAK4DvsbbQk_iG",
+          "published": "2026-08-03T19:08:13+00:00",
+          "summary": "2027智慧城市展暨淨零城市展，將於2027年3月16日至19日在南港展覽館2館舉行，以數位與綠色雙軸轉型為主題，聚焦「AI驅動韌性永續城市」，展示全球智慧&nbsp;..."
         },
         {
-          "title": "台灣永續投資獎揭曉／第一金ESG 績優橫掃六獎項 - 國泰證券",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20260803%26CSeqNO%3DE9666474&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0a5CGUM3Iy9gqfTCAtm5Zz",
-          "published": "2026-08-02T17:58:17+00:00",
-          "summary": "面對全球淨零轉型，第一金透過責任投資、投資脫碳、主題式永續投資及 ... 除擴大綠色投資，第一金控也持續與被投資企業就氣候變遷、減碳目標及ESG議題&nbsp;..."
+          "title": "傳產是護國群山！賴瑞隆為石化業發聲提「四大策略」打造傳產升級高雄隊 - 很角色傳媒",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://taidaily.com/2026/08/03/579552/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0w6rdniVewkwV-SSqUDNV9",
+          "published": "2026-08-03T17:21:23+00:00",
+          "summary": "現場產業界及工會代表踴躍發言，反映中國低價產品傾銷、能源及原物料成本攀升、碳費與淨零轉型壓力，並關注台苯林園廠宣布停產後，可能引發的連鎖效應。石化&nbsp;..."
         },
         {
-          "title": "政策與<b>淨零</b>趨勢如何轉化營收動能？ - 延伸閱讀文章",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://readmo.cmoney.tw/article/20663e52-23cf-4bec-a44d-66b03126a240&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2ag7gaJiG1oqDb8R3TavPD",
-          "published": "2026-08-02T17:26:28+00:00",
-          "summary": "尤其像氣候變遷這類看重長線趨勢的主題基金，選擇把收益留在基金內累積，往往比直接領息更符合長期配置邏輯。 近來全球推動淨零碳排的速度加快，綠能轉型已經從&nbsp;..."
+          "title": "日月潭「電動船遊湖」 低碳旅遊.響應綠能 - 客家電視台",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hakkatv.org.tw/news-detail/1785321070417839%3Flabel%3D%25E5%25AE%25A2%25E5%25AE%25B6%25E7%2584%25A6%25E9%25BB%259E&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0f2qG1isQ1JPcAG714nMD1",
+          "published": "2026-08-03T16:34:18+00:00",
+          "summary": "日月潭國家風景區管理處副處長湯維堯：「永續淨零我們政策在2030年，我們要一個淨零一個排放，從下一代我們就開始了解說，電動船的一個重要性，那也希望大家&nbsp;..."
         },
         {
-          "title": "虛擬電廠如何助高精密產業達成<b>淨零</b>轉型？ - TechNews 科技新報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://cdn.technews.tw/ai-agent/virtual/24551/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0Izz89abCgBASHo0MqxAo1",
-          "published": "2026-08-02T17:05:59+00:00",
-          "summary": "面對AI 算力激增與全球淨零壓力，半導體及高精密製造業正加速導入「虛擬電廠」（VPP）架構。這項技術透過物聯網與AI 智慧調度，將廠區內的太陽能、儲能&nbsp;..."
+          "title": "【二氧化碳捕捉再利用及封存(CCUS)工作坊】開放報名! - 高雄市政府環境保護局",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ksepb.kcg.gov.tw/AuditAnnouncement/news%3FKeyword%3D%25E6%25B7%25A8%25E9%259B%25B6%25E5%25AD%25B8%25E9%2599%25A2%26pageIndex%3D5%26PageType%3D1%26id%3D94b32609-c4fa-4973-9f5c-a05ae377a3b8&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2GdWrAD1YCAupECPUQGqT_",
+          "published": "2026-08-03T15:49:44+00:00",
+          "summary": "高雄市自112年底成立「淨零學院」，陸續開辦淨零概論、趨勢、碳盤查、碳減量、碳匯等課程，除培育人才，學院亦將透過工作坊、公共講堂等方式，透過實務&nbsp;..."
         }
       ]
     }
