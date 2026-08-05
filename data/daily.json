@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-04T04:13:34.869729+00:00",
-    "date": "2026-08-04",
+    "generated_at": "2026-08-05T04:08:47.559175+00:00",
+    "date": "2026-08-05",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "從直覺語意搜尋到企業知識庫：QNAP Qsirch 7.1.0 雙核 AI 架構與落地藍圖",
-          "link": "https://techorange.com/2026/08/04/qnap-qsirch-nas-aimode/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-04T03:11:22+00:00",
-          "summary": "「我們最初想打造這樣的模式，就是希望能讓用戶使用的更自然、更輕鬆的方式找到他們需要的檔案。」QNAP 威聯通產品經理駱思安表示，過去企業在 NAS 中搜尋檔案，往往受限於關鍵字、檔名或資料夾路徑。 忘記檔名、檔案存在哪個資料夾，已經成為許多工作者日常面臨的問題，加上 AI 時代帶來海量的資料儲存，使得檔案搜尋變的更加不易，資料的活用性也受到更大的挑戰。威聯通科技（QNAP）推出的 Qsirch A"
+          "title": "【防詐邏輯升級】AI 代理人讓身分驗證失效，「授權範圍」與「斷路器機制」成新控制點",
+          "link": "https://techorange.com/2026/08/05/fraud-stack/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-05T02:51:36+00:00",
+          "summary": "過去，金融機構要防堵一筆可疑交易，思考邏輯是：這筆交易背後，是不是一個真實存在的人？如果是，這個人是不是他聲稱的那個人？但當 AI 代理人（AI agent）已經能夠自主完成轉帳、變更帳戶資訊等交易時，這兩個問題本身，已經不再是防詐的核心。 真正該問的問題，變成「這筆交易有沒有被授權、是誰授權的、又是在什麼範圍內完成的」，不再在意交易背後是人、是聊天機器人、還是代理人。 一人擁十個代理人，驗證邏輯"
         },
         {
-          "title": "AI 串聯 3D 列印產業鏈，生成式 AI 讓人能從一張照片做出實體產品",
-          "link": "https://techorange.com/2026/08/04/ai-in-3d-printing-industry/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-04T03:08:01+00:00",
-          "summary": "在 AI 輔助下，整個 3D 列印工作流程的技術門檻，從起點開始發生瓦解，使用者不必再接觸專業的 CAD 軟體，藉由硬體設備跟 AI 模型的互相搭配，填補起 3D 列印產業的關鍵缺口。"
+          "title": "中國還造不出 EUV，卻可能先搶走 ASML 中國訂單：出口管制正改寫設備採購邏輯",
+          "link": "https://techorange.com/2026/08/05/asml-euv-china/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-05T02:43:32+00:00",
+          "summary": "近期，中國計畫生產自製光刻設備的消息震撼市場，導致荷蘭半導體設備龍頭艾司摩爾（ASML）股價在一週內重挫 8%。然而，《Financial Times》指出，這項進展並未對 ASML 的市場壟斷地位構成立即威脅。因為在技術層面上，中國在深紫外光（DUV）光刻設備領域仍落後約一個技術世代，且與 ASML 更先進的極紫外光（EUV）設備相比，仍存在約十年的技術差距。 從產能規模來看，中國預計在 202"
         },
         {
-          "title": "【智慧眼鏡新賽道】不拍照、不錄影，Even Realities 想靠生產力工具挑戰 Meta 獨大的市場",
-          "link": "https://techorange.com/2026/08/04/smart-glasses-without-a-camera/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-04T03:07:40+00:00",
-          "summary": "當多數智慧型眼鏡都在比拚拍照與錄影功能時，Even Realities 選擇了一條相反的路。剛以十億美元估值晉身獨角獸，Even Realities 這家由美團、騰訊領投、募得 1.5 億美元的新創，最新推出的第二代眼鏡 G2 刻意不裝鏡頭、不放喇叭，只留下一塊單色綠光抬頭顯示器，把「生產力」當成核心賣點。 這副要價 599 美元的眼鏡硬體扎實，但是在 Meta 獨大、成長爆發的智慧眼鏡市場裡，如"
+          "title": "機器人流量首度超越真人，Cloudflare 推 Precursor 用全程行為監測識破偽裝",
+          "link": "https://techorange.com/2026/08/05/cloudflare-precursor-ai-agentic-web/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-05T01:21:00+00:00",
+          "summary": "Cloudflare 指出由 AI 機器人與自動化工具所產生的網路流量，已達到全球網路總流量的 57% 超越真實人類，因此研發新工具 Precursor 強化判斷，並區分良性與惡意機器人。"
         },
         {
-          "title": "不能只替世界「造船」，外貿協會資深顧問李牮斯：台灣 AI Token 使用量居四小龍之末，恐陷「荷蘭病」",
-          "link": "https://techorange.com/2026/08/04/taitra-james-lee-podcast/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-04T02:53:52+00:00",
-          "summary": "專訪：戴季全撰稿：李昀蔚 在這一波 AI 浪潮中，許多企業仍將 AI 停留在「有問必答」的聊天輔助，但真正的差距在於，企業能否將 AI 視為「使命必達」的數位同事，進一步改寫工作流與生產配置。 本集《全新一週》邀請外貿協會資深顧問李牮斯，從 AI 如何顛覆經濟本質與資源配置談起。他強調，AI 帶來的變革並非單純的工業革命，而是宛如探索新大陸般的全新經濟結構。只要企業能突破過去遇到問題就「加人、加資"
+          "title": "【科技早餐】Anthropic 對 Google 五年算力承諾達 2,000 億美元，Apple 聲請禁制 OpenAI 使用商業機密",
+          "link": "https://techorange.com/2026/08/05/google-anthropic-200-billion-ai-compute-financing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-04T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊《金融時報》拆解 Google—Anthropic 2,000 億美元算力融資網，晶片租賃成關鍵 Anthropic 此前已承諾，未來五年向 Google 採購約 2,000 億美元的雲端服務與 TPU；《金融時報》此次進一步拆解支撐這些承諾的合約與融資安排。整體支出中，超過 1,500 億美元與 Google、博通（Broadcom）共同設計的"
         },
         {
-          "title": "Palantir 財報揭企業 AI 新趨勢：不只追求更強模型，而是更大的自主權",
-          "link": "https://techorange.com/2026/08/04/palantir-q2-forecast/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-04T01:55:02+00:00",
-          "summary": "Palantir 剛交出一份被執行長 Alex Karp 形容為「超乎尋常」（otherworldly）的財報：第二季營收年增 93% 至 19.4 億美元、超越分析師預期，美國商業營收更大增 149%，帶動股價盤後一度上漲逾一成，全年財測也再度上修。不過比這些數字更值得留意的，是 Palantir 高層藉這場財報拋出的一套企業 AI 判斷：企業導入 AI 時真正在意的，或許不是模型夠不夠強，而是"
+          "title": "開源 AI 取代 EDA？西門子 EDA：AI Agent 不會改變商用工具的價值",
+          "link": "https://techorange.com/2026/08/04/siemens-eda-agentic-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-04T11:12:52+00:00",
+          "summary": "當中國新創日前宣稱其新開源 AI 模型能在數十小時內完成晶片設計，一度嚇動市場對 EDA（電子設計自動化）巨頭的信心，這個議題也成了半導體業的關注焦點。西門子 EDA 資深副總裁暨人工智慧策略長 Amit Gupta，今日在該公司年度 IC 設計技術論壇的媒體訪問中回應，開源與純 AI 代理（Agent）並不會弱化商用工具的價值，而競爭的決勝點，正在從使用者熟悉度，轉向速度、正確性和簽核（sign"
         },
         {
-          "title": "企業都在投資 AI，生產力數字為何還沒動？49 萬份法說會研究揭「導入空窗期」",
-          "link": "https://techorange.com/2026/08/04/ai-slow-productivity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-04T01:32:53+00:00",
-          "summary": "美國聖路易聯準銀行（St. Louis Fed）以 AI 模型掃描近 49 萬份上市公司法說會逐字稿後發現，企業對 AI 的討論愈來愈多，也開始把錢投下去，但約 95% 的相關發言講的都是 AI「未來會帶來」的效益，而非已經實現的成果。與此同時，全美整體生產力數據至今仍看不到明顯跳升。 投資是真的、市場的樂觀情緒也是真的，效益卻遲遲沒反映在數字上。聖路易聯準銀行指出，這道落差並非 AI 獨有，過去"
+          "title": "模型大家都買得到，企業靠什麼勝出？Oracle 高層、CloudMile 萬里雲集團創辦人劉永信揭關鍵在「垂直 AI」",
+          "link": "https://techorange.com/2026/08/04/oracle-neil-sholay-cloudmile-spencer/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-04T10:37:17+00:00",
+          "summary": "多年來，許多企業領導者將 AI 視為解決一切痛點的萬靈丹。Oracle 歐洲、中東及非洲地區 AI 業務價值副總裁 Neil Sholay 近日在《TechRadar》撰文指出，過去企業習慣「在這裡部署一個數位助理，在那裡放置一個 Copilot，然後等待魔法發生」，但 AI 帶來的改變，至今仍未達到企業營運所需的規模。 問題並非 AI 失去效用，而是多數企業未能區分不同的 AI 應用層次。Nei"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "台東助孕補助，接住求子路",
-          "link": "https://www.gvm.com.tw/article/131790",
-          "published": "2026-08-04T00:00:00",
-          "summary": "對於好不容易懷上第二胎的楊女士來說，迎來新生命之前，最難的不是等待，而是一次次往返醫院的奔波。試管嬰兒療程初期，刺激排卵、抽血檢查、等待卵泡成熟，短短兩週內就得頻繁回診；身體承受藥物帶來的不適，生活與工作節奏也被迫跟著調整。所幸透過台東馬偕醫院與台北馬偕醫院人工生殖醫學中心的合作，楊女士先完成排卵刺激，再前往臺北進行關鍵療程，讓求子的漫長路上，少了一段又一段跨縣市奔波。目錄一、盼望新生命：試管嬰兒"
+          "title": "失智症前兆與治療別焦慮？安達人壽失智險陪您建立失智防護網",
+          "link": "https://www.gvm.com.tw/article/131909",
+          "published": "2026-08-05T00:00:00",
+          "summary": "台灣正式邁入超高齡社會，失智症已不再只是個人的醫療議題，而是一場漫長且牽動全家的長期抗戰。面對日益逼近的失智海嘯，如何客觀檢視現有保障缺口，及早接住財務與照護風險，已成為全民必修的財務課題。目錄• 一場病程8到12年，最貴的不是醫療，是照護• 從「理賠門檻」、「給付時機」，檢視現行保單盲區• 安達人壽打造「輕度即早給付」專屬失智險• 失智症 必看重點Q&amp;A台灣「失智警鐘」正以前所未有的速度"
         },
         {
-          "title": "從獵人變老闆，宜蘭這個泰雅部落靠「限量」讓自己不老",
-          "link": "https://www.gvm.com.tw/article/132046",
-          "published": "2026-08-03T19:04:00",
-          "summary": "位於宜蘭縣大同鄉寒溪村一帶，有個叫「不老部落」的泰雅族村落，這裡住著的泰雅族人，不像傳統的泰雅族人狩獵為生，而是當農夫，以獨到的原住民美味，加上黃花點點、綠意盎然的清幽山景，前往探秘的遊客在小山上絡繹不絕。除了標榜從「菜園到餐桌」，這個山間部落還嚴格限制每日接待數，部落成員也始終維持老中青三代的黃金平衡，他們是如何做到不老這件事情？其實「不老部落」，原意並不是真的「不老」，而是從日語的「ぷらぷら（"
+          "title": "包租代管龍頭「兆基」爆財務危機！英國VS台灣制度比一比，誰的風險高？",
+          "link": "https://www.gvm.com.tw/article/132076",
+          "published": "2026-08-04T19:18:00",
+          "summary": "國內管理逾3萬戶的包租代管龍頭業者「兆基屋管」，由於相關公司包括趙姬投資、寄居蟹管理顧問，因其公司債無法依約兌付利息，而爆出財務危機，更傳出缺口高達新台幣百億元，引發上百人自發組成自救會。這也是政府在2017年推動包租代管政策以來，首度有大型業者捲入財務危機，外界也關注目前兆基所管理的租約、物件，是否能持續運行。針對財務危機，國內管理逾3萬戶的包租代管龍頭業者「兆基屋管」今（4）日發出聲明強調，前"
         },
         {
-          "title": "SpaceX的火箭殘骸8/5將撞月球！會發生什麼事？",
-          "link": "https://www.gvm.com.tw/article/132045",
-          "published": "2026-08-03T18:39:00",
-          "summary": "SpaceX獵鷹9號火箭殘骸即將撞擊月球，引發全球關注。然而，真正的焦點並非撞擊本身，而是商業登月競賽加速下，太空垃圾已從近地軌道蔓延至月地空間。隨著ESA示警軌道碎片持續增加，半世紀前建立的國際太空法，是否還能因應21世紀商業太空時代的新挑戰？曾執行日本太空公司ispace「堅韌號」（Hakuto-R Resilience）與美國螢火蟲太空公司（Firefly Aerospace）「藍色幽靈」（"
+          "title": "科技七雄從Lag7變Safe7？渣打全球首席投資總監揭AI資金回流訊號",
+          "link": "https://www.gvm.com.tw/article/132075",
+          "published": "2026-08-04T19:09:00",
+          "summary": "台股近期大幅震盪，AI概念股接連回檔，渣打銀行股票部全球首席投資總監Sundeep Gantori接受《遠見》專訪指出，目前看到的是市場重新定價，而非AI基本面反轉，仍看好台股的結構性優勢。台股近期大幅震盪，AI概念股接連回檔，渣打銀行股票部全球首席投資總監Sundeep Gantori接受《遠見》專訪指出，目前看到的是市場重新定價，而非AI基本面反轉，仍看好台股的結構性優勢。6月下旬台股創歷史新"
         },
         {
-          "title": "一公式算出「永遠用不完退休金」但有缺點？精算前先確定4個條件",
-          "link": "https://www.gvm.com.tw/article/132044",
-          "published": "2026-08-03T18:33:00",
-          "summary": "理財專家提出，只要知道年生活費、年報酬率及通貨膨脹率，就可以算出「永遠用不完的退休金」的金額。但這種算法最大缺點在於：必須準備的退休金金額，可能高到一般退休族民眾無法達到。因此市場上也出現一種概略式算法，是依照大多數人的平均餘命，再參考主計處所公佈的，每人每月（或年）支出水準，估算出一個大略的應準備退休金數字。（本文節錄自《讓退休金陪你到最後》一書，作者：李雪雯／時報出版，以下為摘文。）關於「需要"
+          "title": "蔣萬安聲勢升溫，藍營「共主」有可能換人？",
+          "link": "https://www.gvm.com.tw/article/132073",
+          "published": "2026-08-04T18:22:00",
+          "summary": "隨著2026年地方大選逐漸白熱化，近期情勢也牽動藍營2028年總統大選的政治布局。7月25日號召數萬人上凱道集會怒吼、中聯致癌油事件拋出倒閣倡議，台北市長蔣萬安鋒芒畢露，最新的坊間民調更顯示，最適合藍營角逐2028年總統大選的候選人中，蔣萬安鶴立雞群排行第一，勝過台中市長盧秀燕、立法院長韓國瑜、國民黨主席鄭麗文等人，似乎已成為近期的藍營新共主。過往蔣萬安的形象溫和，但在前陣子的「財劃法」修法風波中"
         },
         {
-          "title": "證交所宣布「關禁閉時間縮短」！調整處置3大新制8/10上路",
-          "link": "https://www.gvm.com.tw/article/132043",
-          "published": "2026-08-03T18:25:00",
-          "summary": "台股近期劇烈震盪，現行處置制度因限縮交易流動性，引起許多討論。立法委員王世堅在臉書發文批評，認為這是「30年前的過時制度，正成為台股流動性殺手！」讓投資人跌到完全賣不掉。知名交易員巨人傑日前也發文示警，認為現行處置制度，可能衍生系統性風險。證交所今（3）發布新聞稿宣布，調整處置期間、撮合作業時間及公布注意交易資訊標準等3大新制，並自8月10日起正式實施。以下為證交所新聞稿全文當有價證券漲跌異常波動"
+          "title": "熱浪再熱也是忍？為什麼絕大多數的歐洲家庭，家中都沒有冷氣？",
+          "link": "https://www.gvm.com.tw/article/132072",
+          "published": "2026-08-04T18:14:00",
+          "summary": "隨著熱浪來襲，明明夏天愈來愈熱，甚至有些地方的高溫比台灣還要驚人，為什麼歐洲人卻寧願到河邊消暑，也不在家裡吹冷氣？究竟是因為冷氣太貴、電費太高，還是他們真的不喜歡吹冷氣？答案其實沒有那麼簡單⋯⋯在夏季的法國（France）巴黎，人們最喜歡的地方，或許不是咖啡館，也不是百貨公司，而是塞納河畔。當氣溫節節攀升，愈來愈多居民帶著毛巾、泳衣和野餐墊，擠滿河岸、公園與噴水池旁，只為尋找一絲涼意。在德國（Ge"
         },
         {
-          "title": "00980A與0050》成分股、費用比較，主動ETF差在哪？",
-          "link": "https://www.gvm.com.tw/article/132042",
-          "published": "2026-08-03T18:11:00",
-          "summary": "全台首檔主動式ETF「野村臺灣智慧優選主動式ETF」（代號00980A），上週已公布最新一次配息，連續四季提高。然而近期股市震盪，外資一度大賣主動型 ETF，也有散戶站在另一方積極追買。到底00980A這類主動型ETF今年表現好嗎？與0050被動型ETF怎麼比較？成分股壓在哪幾檔？股價現況如何？一次看懂。【目錄】 &nbsp;● 00980A是什麼？主動式ETF還能買嗎？● 00980A最新一季配"
+          "title": "國寶級畫師顏振發親繪《魯冰花》手繪大看板！發病後復出力作，台南全美戲院背後有洋蔥",
+          "link": "https://www.gvm.com.tw/article/132070",
+          "published": "2026-08-04T18:11:00",
+          "summary": "國寶級畫師顏振發在大病過後，特別替電影《魯冰花》復出畫手繪海報看板，一筆一筆慢工細活，向這部經典國民電影致意。導演李安親口認證的「電影夢啟蒙地」台南全美戲院，前晚掛上濃濃手感溫度的《魯冰花》大看板，立即被路過的眼尖影迷拍照在社群瘋傳。全美戲院也以「久違了，顏師傅對抗病魔、浴火重生」為題在臉書發文。而這故事的背後，有感人的洋蔥。台灣經典國片《魯冰花》數位修復版重返大銀幕後口碑持續發酵，上映以來票房已"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "全球<b>氣候變遷</b>威脅行動通訊網路研究團隊利用開放數據繪製風險地圖| GeneOnline News",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://geneonline.news/%25E5%2585%25A8%25E7%2590%2583%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E5%25A8%2581%25E8%2584%2585%25E8%25A1%258C%25E5%258B%2595%25E9%2580%259A%25E8%25A8%258A%25E7%25B6%25B2%25E8%25B7%25AF%25E7%25A0%2594%25E7%25A9%25B6%25E5%259C%2598%25E9%259A%258A%25E5%2588%25A9%25E7%2594%25A8%25E9%2596%258B%25E6%2594%25BE/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0gPcJtUarv6vMUzJz9olGc",
-          "published": "2026-08-03T21:13:17+00:00",
-          "summary": "該研究利用群眾外包開放數據（Crowdsourced Open Data），深入分析電信基礎設施在面對氣候災害時的脆弱性，旨在解決當前全球面臨的一項難以忽視的重大課題，即&nbsp;..."
+          "title": "澳洲擴大1.5億澳元優惠融資額度，助中小企加速<b>淨零</b>轉型 - MoneyDJ理財網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3Df6188637-4579-4efe-855b-8e1c98dc0ef5%26c%3DMB020000&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1hX44JPIsGBDxdF2zIOCOf",
+          "published": "2026-08-05T03:06:52+00:00",
+          "summary": "澳洲氣候變遷與能源部長Chris Bowen與中小企業部長Anne Aly於2026年7 ... 這項融資方案在澳洲「Net Zero Transition」與「A Future Made in Australia&nbsp;..."
         },
         {
-          "title": "非洲氣候變化影響瘧疾發病區域- RFI - 法國國際廣播電台",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rfi.fr/tw/%25E9%259D%259E%25E6%25B4%25B2/20260803-rfi%25E6%25B3%2595%25E5%25BB%25A3-%25E4%25B8%25AD%25E6%2596%2587-%25E5%25B0%25BC%25E5%258F%25A4%25E6%258B%2589-%25E9%259D%259E%25E6%25B4%25B2%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E5%258C%2596%25E5%25BD%25B1%25E9%259F%25BF%25E7%2598%25A7%25E7%2596%25BE%25E7%2599%25BC%25E7%2597%2585%25E5%258D%2580%25E5%259F%259F&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3VQGgNvcYuACwzZDIowVlP",
-          "published": "2026-08-03T20:19:38+00:00",
-          "summary": "一項針對非洲的新研究顯示，受全球變暖影響，瘧疾（le paludisme）的分布範圍正在發生變化。根據發表在《自然》（Nature）雜誌上的這項研究，到2100年，&nbsp;..."
+          "title": "金沙中國獲ISO最新環管認證 - 澳門日報電子版",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.macaodaily.com/html/2026-08/05/content_1925223.htm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1GXwSKTLx7uZ7UBfBays4f",
+          "published": "2026-08-05T00:46:56+00:00",
+          "summary": "ISO 14001:2026是由國際標準化組織(ISO)於今年四月發佈的環境管理體系最新版本。新標準進一步完善企業環境管理系統要求，強化氣候變化、自然資源管理、生物多樣&nbsp;..."
         },
         {
-          "title": "2027智慧城市暨<b>淨零</b>城市展8/3起報名 - 工商時報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260804700208-439901&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3Zf--JeFyAK4DvsbbQk_iG",
-          "published": "2026-08-03T19:08:13+00:00",
-          "summary": "2027智慧城市展暨淨零城市展，將於2027年3月16日至19日在南港展覽館2館舉行，以數位與綠色雙軸轉型為主題，聚焦「AI驅動韌性永續城市」，展示全球智慧&nbsp;..."
+          "title": "人物掃描蔡孟芬畫萬物共生<b>氣候變遷</b>繪畫賽奪第一 - 國語日報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.mdnkids.com/content.asp%3FLink_String_%3D248500000UHOLDU&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3XT4V0SSi36rQaqWtqNV1o",
+          "published": "2026-08-04T21:03:00+00:00",
+          "summary": "嘉義縣竹崎高中國中部美術班學生蔡孟芬日前參加「二○二六第十六屆氣候變遷國中小繪畫創作比賽」，以作品〈萬物共生〉奪下全國第一名。 校長蘇淵源表示，&nbsp;..."
         },
         {
-          "title": "傳產是護國群山！賴瑞隆為石化業發聲提「四大策略」打造傳產升級高雄隊 - 很角色傳媒",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://taidaily.com/2026/08/03/579552/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0w6rdniVewkwV-SSqUDNV9",
-          "published": "2026-08-03T17:21:23+00:00",
-          "summary": "現場產業界及工會代表踴躍發言，反映中國低價產品傾銷、能源及原物料成本攀升、碳費與淨零轉型壓力，並關注台苯林園廠宣布停產後，可能引發的連鎖效應。石化&nbsp;..."
+          "title": "財政局攜手高雄銀行推永續金融助企業搶攻<b>淨零</b>商機 - Life 生活網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://life.tw/article/%25E8%25B2%25A1%25E6%2594%25BF%25E5%25B1%2580%25E6%2594%259C%25E6%2589%258B%25E9%25AB%2598%25E9%259B%2584%25E9%258A%2580%25E8%25A1%258C%25E6%258E%25A8%25E6%25B0%25B8%25E7%25BA%258C%25E9%2587%2591%25E8%259E%258D-%25E5%258A%25A9%25E4%25BC%2581%25E6%25A5%25AD%25E6%2590%25B6%25E6%2594%25BB%25E6%25B7%25A8%25E9%259B%25B6%25E5%2595%2586%25E6%25A9%259F-3109917&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw19OcJLXEB6gad7XbxXteiT",
+          "published": "2026-08-04T19:25:28+00:00",
+          "summary": "高雄市政府財政局與高雄銀行攜手舉辦淨零永續金融說明會，旨在協助企業應對全球淨零碳排趨勢。"
         },
         {
-          "title": "日月潭「電動船遊湖」 低碳旅遊.響應綠能 - 客家電視台",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hakkatv.org.tw/news-detail/1785321070417839%3Flabel%3D%25E5%25AE%25A2%25E5%25AE%25B6%25E7%2584%25A6%25E9%25BB%259E&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0f2qG1isQ1JPcAG714nMD1",
-          "published": "2026-08-03T16:34:18+00:00",
-          "summary": "日月潭國家風景區管理處副處長湯維堯：「永續淨零我們政策在2030年，我們要一個淨零一個排放，從下一代我們就開始了解說，電動船的一個重要性，那也希望大家&nbsp;..."
+          "title": "引領產業升級轉型、強化經營韌性財政局與高雄銀行攜手舉辦「<b>淨零</b>永續金融說明會」 - 行銷人",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.marketersgo.com/uncategorized/202608/%25E5%25BC%2595%25E9%25A0%2598%25E7%2594%25A2%25E6%25A5%25AD%25E5%258D%2587%25E7%25B4%259A%25E8%25BD%2589%25E5%259E%258B%25E3%2580%2581%25E5%25BC%25B7%25E5%258C%2596%25E7%25B6%2593%25E7%2587%259F%25E9%259F%258C%25E6%2580%25A7-%25E8%25B2%25A1%25E6%2594%25BF%25E5%25B1%2580%25E8%2588%2587%25E9%25AB%2598%25E9%259B%2584%25E9%258A%2580/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1iVLkxXu-Cq-5IdIGCzXdK",
+          "published": "2026-08-04T19:05:57+00:00",
+          "summary": "「社會對話」是實踐綠色金融中不可或缺的一環，讓企業、政府與金融界能相互交流，凝聚共識，並引導社會資源投入具影響力的綠色項目，公私協力朝幸福宜居、永續淨&nbsp;..."
         },
         {
-          "title": "【二氧化碳捕捉再利用及封存(CCUS)工作坊】開放報名! - 高雄市政府環境保護局",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ksepb.kcg.gov.tw/AuditAnnouncement/news%3FKeyword%3D%25E6%25B7%25A8%25E9%259B%25B6%25E5%25AD%25B8%25E9%2599%25A2%26pageIndex%3D5%26PageType%3D1%26id%3D94b32609-c4fa-4973-9f5c-a05ae377a3b8&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2GdWrAD1YCAupECPUQGqT_",
-          "published": "2026-08-03T15:49:44+00:00",
-          "summary": "高雄市自112年底成立「淨零學院」，陸續開辦淨零概論、趨勢、碳盤查、碳減量、碳匯等課程，除培育人才，學院亦將透過工作坊、公共講堂等方式，透過實務&nbsp;..."
+          "title": "實高雄親子遊樂園區周邊交通整備陳其邁：打造安心休憩環境迎接全國遊客",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://z98737406.tw/%3Fp%3D99582&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1wo2TZ2WOJKwGRIGjt_KYk",
+          "published": "2026-08-04T18:40:12+00:00",
+          "summary": "針對近期出現升溫趨勢的新冠疫情，陳其邁指示衛生局持續宣導，請高風險族群儘速接種疫苗，並呼籲民眾落實勤洗手、戴口罩，以行動落實防疫。 為強化市府在淨零&nbsp;..."
         }
       ]
     }
