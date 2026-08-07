@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-06T04:11:54.888504+00:00",
-    "date": "2026-08-06",
+    "generated_at": "2026-08-07T03:48:39.624822+00:00",
+    "date": "2026-08-07",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "六成企業看不到 AI 成效，CEO 們該問的不是用了多少 AI 而是「品質怎麼衡量」",
-          "link": "https://techorange.com/2026/08/06/ceos-real-ai-problem/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-06T02:29:47+00:00",
-          "summary": "AI 唯有在不犧牲品質的前提下，才真正有價值，因為速度容易取得，維持品質卻很困難；而這個落差已經反映在產業數據上：麥肯錫全球調查發現，近八成組織已在至少一項業務功能使用生成式 AI，62% 正在實驗代理型 AI，但仍有 60% 的受訪者，尚未看到企業層級的獲利影響。 以典型的業務漏斗為例，管理者用它判斷交易卡在哪個階段，執行長用它追問成交率為何下滑，董事會則用它驗證預測，所有人看的是同一組數字——"
+          "title": "AI Agent 跨平台終於有共同標準了：Agent Plugins 統一封裝，安全與信任仍留白",
+          "link": "https://techorange.com/2026/08/07/ai-agent-plugins/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-07T02:59:53+00:00",
+          "summary": "這週 AI 產業新動作，發生在少有人注目的底層管線。就在 GPT-5 屆滿一週年前夕，OpenAI 與競爭對手亞馬遜（AWS）、微軟、Cursor 與 Vercel 於美國時間 8/6 共同發布開放標準 Agent Plugins 1.0，Google 隨後以核心維護者身分加入。這是一套開放標準，讓單一的代理擴充套件能跨競爭產品運作。 為什麼 AI Agent 需要這個共同標準？ Agent Pl"
         },
         {
-          "title": "Gemini、Vertex AI 走進美術館：紐約大都會博物館的生成式 Gemini 怎麼落地？",
-          "link": "https://techorange.com/2026/08/06/the-met-new-ways-with-generative-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-06T01:54:01+00:00",
-          "summary": "全球博物館正面臨嚴峻的營運考驗。觀眾回流緩慢、公共預算縮減、企業贊助收縮，加上傳統捐款人逐漸凋零，逼得各大文化機構積極思考轉型。如何利用數位科技提升效率、吸引年輕世代走進展廳，已成了當務之急。 在這股浪潮下，紐約大都會藝術博物館（The Met）選擇大膽擁抱生成式 AI，接連推出多項創新計畫，嘗試重構大眾探索藝術的方式，也為博物館營運尋找新解答。 紐約大都會博物館攜手 Google 打造全旅程 A"
+          "title": "【AI 預算管理】Token 消耗超預期才收到帳單，1Password 工具讓企業提前掌握 AI 支出",
+          "link": "https://techorange.com/2026/08/07/ai-token-1password-management-tools/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-07T01:28:56+00:00",
+          "summary": "1Password 推出內建於旗下 SaaS Manager 平台的新功能：AI 支出與使用量管理工具，並指出現代企業消耗 Token 的速度，已經超出傳統預算策略能夠應對的範圍。"
         },
         {
-          "title": "【科技早餐】SpaceX 投入 158 億美元擴 AI、押注 NVIDIA，AMD 資料中心營收翻倍",
-          "link": "https://techorange.com/2026/08/06/spacex-ai-investment-nvidia-amd-data-center-revenue/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-05T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊SpaceX 單季投入 158 億美元擴 AI，資料中心全面採用 NVIDIA SpaceX 公布上市後首份季度財報，第二季營收年增 92%，達到 78 億美元。其中，衛星網路服務 Starlink 營收增加 66%，用戶數較一年前增加一倍，達到 1,200 萬；收購 xAI 後納入的 AI 業務，也成為新的營收成長來源。SpaceX 預期，今年"
+          "title": "90% 通路都直營：Coach 母公司如何用 AI 降低供應鏈「時尚風險」？",
+          "link": "https://techorange.com/2026/08/07/ai-coach-tapestry/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-07T01:19:51+00:00",
+          "summary": "在傳統時尚零售業中，估錯流行趨勢是品牌最大的經營痛點。過去業者往往提前數月預測市場喜好，一旦產量估算失準，後續引發的庫存積壓與折扣促銷，便會嚴重侵蝕毛利率。 面對這種動態且難以捉摸的消費市場，時尚品牌 Coach 母公司 Tapestry 選擇走出一條不同的路，利用強大的第一方資料庫與 AI 系統，全面重構旗下的供應鏈與營運決策機制。 AI 動態反饋迴圈精準調控庫存，直擊「時尚風險」 為了打破企業"
         },
         {
-          "title": "台灣向全球 AI 新創徵件，TiBOOST 串聯技術商業化與資本市場",
-          "link": "https://techorange.com/2026/08/05/tiboost-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-05T08:06:41+00:00",
-          "summary": "為了打造台灣成為亞洲納斯達克，金管會、國發會宣布啟動「TiBOOST 創新大步計畫」，即日起向海內外 AI 新創徵件，聚焦 AI 智慧應用、金融科技、矽光子及量子科技等領域，希望整合政府、創業投資（VC）及企業創投（CVC）等資源，發掘具技術優勢與國際市場潛力的創新企業，並鼓勵更多亞洲及國際新創企業來台掛牌臺灣創新板（tib-創）。 為完善創新企業成長所需的資本支持機制，臺灣證券交易所持續優化臺灣"
+          "title": "《時代雜誌》開賣「AI 專屬廣告」，品牌如何影響 ChatGPT 推薦？",
+          "link": "https://techorange.com/2026/08/07/ads-ai-agents-marketing-industry-debate/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-07T01:07:58+00:00",
+          "summary": "專門用來影響 AI 代理人（AI Agent），而非直接展示給人類消費者的數位廣告，正逐漸成為一種全新的行銷管道，但也隨之開啟品牌安全（Brand Safety）的新戰場。在這場新型態的行銷戰役中，業界目前最核心的問題在於，一旦 AI 平台察覺品牌正針對其網路爬蟲（Crawlers）投放廣告，究竟會選擇接受這項新做法，還是將其視為垃圾內容並加以封鎖？ 不論 AI 平台最終對此類廣告的態度為何，這種"
         },
         {
-          "title": "現在的商業機密 10 年後還是秘密嗎？中原大學物理系講座教授張慶瑞揭「先竊取、後解密」危機與 PQC 遷移時程",
-          "link": "https://techorange.com/2026/08/05/2026-quantum-forum-crchang/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-05T06:36:10+00:00",
-          "summary": "回顧科技產業的發展，甲子輪轉正在悄然發生。TechOrange 科技報橘於今（8/5）舉辦「2026 量子高峰論壇」，特別邀請中原大學物理系講座教授、量子資訊中心主任張慶瑞，深入解析「Q-Day 與量子計算」的技術發展與未來變局。 張慶瑞指出，從 2026 年丙午火馬年開始，世界即將迎來下一個 60 年的黃金時代，而這個時代的核心正是量子生態系。回顧過去，半導體時代所應用的主要是量子力學中較為簡單"
+          "title": "【科技早餐】Google AI 高層大改組，Microsoft 一年認列 OpenAI 241 億美元營收",
+          "link": "https://techorange.com/2026/08/07/google-ai-leadership-shakeup-microsoft-openai-revenue/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-06T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊Google AI 高層大改組，Demis Hassabis 轉任董事長、四名資深人才創業 Google 母公司 Alphabet 宣布，Demis Hassabis 將卸下 Google DeepMind 執行長職務，轉任 Google DeepMind 董事長及 Alphabet 首席科學家，未來將把更多時間投入通用人工智慧（AGI）的研究方"
         },
         {
-          "title": "SpaceX、AMD 財報透露同一訊號：AI 基建需求未降溫，但市場開始提高期待",
-          "link": "https://techorange.com/2026/08/05/spacex-amd-ai-capital-investments/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-05T04:10:47+00:00",
-          "summary": "同一天，兩份備受矚目的財報都交出了超越市場預期的成績，股價卻雙雙在盤後走跌。SpaceX 首次以上市公司身分發布財報，營收年增約九成、AI 業務營收倍數成長；AMD 資料中心營收突破 67 億美元、單季營收年增五成，第三季財測也高於分析師平均預估。然而投資人的反應如出一轍：賣出。這個看似矛盾的畫面，透露出 AI 基礎設施競賽正在發生的一個轉變。 財報都贏了預期，股價卻一起走跌 先看 SpaceX。"
+          "title": "AI Agent 進入製造業卻卡在工程系統：真正的瓶頸為何不再是模型？",
+          "link": "https://techorange.com/2026/08/06/ai-agent-going-to-production-in-manufacturing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-06T09:35:36+00:00",
+          "summary": "AI Agent 正快速從客服、程式開發等辦公室場景，走向工程設計與製造流程。不過，企業真正開始部署後，卻發現模型能力提升，並不代表 AI 就能順利進入生產環境。 根據 Google Cloud 針對超過 1,400 位 IT 高階主管的最新調查，83% 的企業認為，若要真正部署 production-grade（生產層級）AI Agent，必須重新改造既有基礎設施；79% 則認為，安全治理（Go"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "HRB百強贈獎〉迎戰地緣政治與AI浪潮！揭密企業如何打造A+韌性",
-          "link": "https://www.gvm.com.tw/article/132103",
-          "published": "2026-08-05T18:57:00",
-          "summary": "《哈佛商業評論》全球繁體中文版於今（5）日盛大舉行「台灣企業領袖100強」贈獎典禮，現場百大企業領袖齊聚一堂。典禮中特別邀請聯強國際總裁杜書伍、BCG台灣董事總經理徐瑞廷，及政大EMBA執行長陳嬿如等人進行專題演講與對談。在黑天鵝滿天飛、AI技術狂飆的時代，「唯一不變的就是變」已成為企業經營鐵律。面對地緣政治動盪與新科技顛覆的雙重夾擊，企業究竟該如何建立營運韌性、落實AI轉型，並在全球供應鏈中站穩"
+          "title": "為什麼結婚多年，他不笑了？臨床心理師解析背後真相",
+          "link": "https://www.gvm.com.tw/article/55335",
+          "published": "2026-08-06T20:02:00",
+          "summary": "「說實話，你先生在兩個鐘頭前跟我提過，他不是故意變得冷漠，而是放棄跟你溝通了。」「放棄溝通？他有跟我溝通過嗎？」不知道從什麼時候開始，在婚姻裡取悅對方或被對方取悅，成了一件奢侈的事。不是因為這件事的難度多高，而是我們已經習慣不去做這件事。（本文節錄自《人生障礙俱樂部》一書，劉仲彬著，寶瓶文化出版）「他真的很扯，從退伍到現在，沒上過一天班，一天都沒有！」食指敲擊桌面的聲音不斷往我身上逼近，這股波動來"
         },
         {
-          "title": "8/7立秋，換季思緒易紊亂！醫師：「4步驟練呼吸」納新吐濁、舒暢心胸",
-          "link": "https://www.gvm.com.tw/article/105297",
-          "published": "2026-08-05T18:50:00",
-          "summary": "8/7節氣逢「立秋」，夏末秋初的換季之際思緒易紊亂，保持正向和善良的心境面對這個複雜多變的世界格外重要。醫師推薦練習「嘶呼吸」幫助靜心，守護自身能量來應對所有困難和挑戰，秋季養生養得好，冬天將有更強的適應力。（本文摘自《不生病的藏傳煉心術》一書，作者為洛桑加參，以下為摘文。）有人可能會問：「當他人對我不友善，我該如何保持善意？」或是「當世界如此混亂，我怎麼能夠保持冷靜？」對此，洛桑醫師的答案很簡單"
+          "title": "爸爸，下輩子我們當朋友吧！陪伴父親最後一程，才理解他全身的刺",
+          "link": "https://www.gvm.com.tw/article/99394",
+          "published": "2026-08-06T19:49:00",
+          "summary": "8/8父親節，對某些人而言，是一個不存在的節日。本文作者描述：「我甚至記不得任何一句，這輩子，爸爸稱讚過我的話，或是對我表示疼愛的字眼。 從小就是他訓話，我乖乖聽著。任何回話，都被視為頂嘴，配上一句：妳以為妳唸了幾天書，就多了不起？」（本文摘自《要這樣的生離死別，才能讓我們真正相識相遇》一書，作者：王雅倫，以下為摘文。）我哭著說，你們看我的登機牌，我從上海飛成都，再飛廈門，就是為了趕回台北看我病危"
         },
         {
-          "title": "想規劃退休，勞退試算怎麼做？最新薪資級距表、月領改一次領撇步",
-          "link": "https://www.gvm.com.tw/article/132102",
-          "published": "2026-08-05T18:46:00",
-          "summary": "退休金規劃可別漏了每月薪資固定扣下的勞退！到底勞退能領多少？勞退級距怎麼看？遠見整理了2026勞退試算懶人包，帶你秒懂最新版的薪資級距表，破除常見迷思，掌握一步步把退休金養大的祕訣。【目錄】• 勞退怎麼算？2026勞退薪資級距表格• 勞退試算範例與線上試算工具• 勞退月領反悔可以改成一次領嗎？• 勞退會破產嗎？如何養大你的勞退勞退怎麼算？2026勞退薪資級距表格&nbsp;勞工退休金的計算基礎，是"
+          "title": "書生報國典範！高希均教授辭世、享耆壽90歲，為華人世界留下進步觀念的精神遺產",
+          "link": "https://www.gvm.com.tw/article/132134",
+          "published": "2026-08-06T19:46:00",
+          "summary": "遠見‧天下文化創辦人、知名經濟學者與教育家、出版人高希均教授，於2026年8月6日上午辭世，享耆壽90歲，完成奉獻的一生，安然遠行。高希均教授一生奉獻於教育、出版、媒體與公共政策，是「書生報國的典範，君子領導的楷模」。他的離去是華人知識界與出版界的重大損失，但他留下的卓越思想與殷切期許，永遠照亮並指引我們前行。高希均教授1936年生於南京，1949年隨家人來台，1959年赴美深造並取得經濟發展博士"
         },
         {
-          "title": "HBR台灣企業領袖100強贈獎！迎戰AI變局，頂尖領袖談未來競爭關鍵",
-          "link": "https://www.gvm.com.tw/article/132101",
-          "published": "2026-08-05T18:41:00",
-          "summary": "時隔兩年，由《哈佛商業評論》全球繁體中文版執行的2026「台灣企業領袖100強」，第六屆名單於今（5）日發表，並進行贈獎典禮。多位名列百強企業領袖的卓越領導人，包括技嘉科技董事長葉培城、致茂電子董事長黃欽明、緯穎科技董事長洪麗寗、聯強國際總裁杜書伍、華城電機董事長許邦福和漢唐集成董事長李惠文等，都親自出席贈獎典禮。遠見．天下文化事業群暨《哈佛商業評論》全球繁體中文版發行人王力行，代表主辦單位致詞時"
+          "title": "日本百億富豪的致富觀點：別只考慮自己，你就擁有全宇宙的力量",
+          "link": "https://www.gvm.com.tw/article/85948",
+          "published": "2026-08-06T19:39:00",
+          "summary": "編按：人生是很巧妙的，如果我們心裡只想著自己，就會覺得只有自己很不幸。但是，當我們試著分享，很不可思議的，別人和自己都會變得更好。（本文摘自《你看事情的角度，決定了幸福的長度》一書，作者為翡翠小太郎，以下為摘文。）在烏龍麵店，想加點飯糰卻售罄，這時候，日本第一大投資家竹田和平，對店員說了什麼呢？大富豪想的真的不一樣。「日本第一大投資家」、「日本第一大股王」，持有股票時價總額高達130億日元！他就是"
         },
         {
-          "title": "世界各國的孩子與他們的玩具！攝影師記錄童年的快樂純真，也看見不同背景與文化",
-          "link": "https://www.gvm.com.tw/article/132100",
-          "published": "2026-08-05T18:15:00",
-          "summary": "義大利攝影師加布里埃萊加林貝蒂在走訪世界的過程中，開啟了拍攝「Toy Stories」系列的計劃，不僅記錄了當地孩子與他們最愛的玩具，也看見不同國家的文化與風情。你還記得自己小時候，最喜歡什麼玩具嗎？或許是一隻每天抱著睡覺的玩偶、一台愛不釋手的玩具車、一組能夠拼出無數想像的積木，又或者是一把塑膠寶劍、一個超級英雄公仔。長大後，當年的玩具或許早已遺失、損壞，甚至不知道被丟到哪個角落，但只要回想起來，"
+          "title": "徵才薪資擬沒5萬不得寫「面議」！薪資揭露門檻7年沒調，勞動部下一步？",
+          "link": "https://www.gvm.com.tw/article/132133",
+          "published": "2026-08-06T19:35:00",
+          "summary": "為促進薪資透明、改善低薪，勞動部規定經常性薪資4萬元以下的職缺，不得寫「面議」，必須揭示薪資範圍。勞動部近年研議再提高揭露門檻，至今只聞樓梯響。最新審計報告指出，去年初任人員平均薪資已經3.9萬元，逼近4萬元大關，超過7年未調整的揭露門檻，早就無法反映勞動市場薪資水準。勞動部官員說，目前朝向最低工資1.75倍的方向研議，目前仍在法制作業中。若以今年最低工資2萬9500元計算，揭露門檻為5萬1625"
         },
         {
-          "title": "磷化銦是什麼？CPO、矽光子概念股回春漲一次看懂",
-          "link": "https://www.gvm.com.tw/article/132098",
-          "published": "2026-08-05T17:31:00",
-          "summary": "磷化銦（InP）是什麼？為何會讓股價一度慘跌的AI鏈CPO、矽光子概念股回春？此外輝達黃仁勳布局、中美競爭與技術本身哪個影響大？台廠概念股最新名單、風險一次拆解。目錄●光通訊、矽光子、CPO 差在哪？一張表看懂●矽光子為何需要磷化銦（InP）？比記憶體還缺的原因●CPO概念股關鍵名單有誰？●CPO概念股常暴漲暴跌，有哪些風險？光通訊、矽光子、CPO 差在哪？一張表看懂光通訊、矽光子和CPO，都是近"
+          "title": "拒絕中年失業！這位歷史人物寫下地表最強「非自願離職書」",
+          "link": "https://www.gvm.com.tw/article/115275",
+          "published": "2026-08-06T19:34:00",
+          "summary": "當你的老闆突然要你走人，你會摸摸鼻子接受，還是想辦法挽回？古代沒有完善的勞基法，當然也不會有資遣費或各種保障，尤其在動盪不安的戰國時代，找工作更是不容易吶！這時候我們可以看看李斯的〈諫逐客書〉，這篇文章讓他從一個即將中年失業的外籍移工，成功逆轉勝二度就業！（本文節錄自《讀懂古人的痛，就能跳過現代的坑》一書，作者：林俐君（綠君麻麻），圓神出版，以下為摘文。）老鼠哲學李斯是楚國上蔡人，年輕時曾在家鄉當"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "新北50即日起開始徵件！邀創作者用鏡頭描繪新北2025<b>淨零</b>未來。 - 新北市環保局",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.epd.ntpc.gov.tw/Announcement/puann%3FPageType%3D1%26id%3D9472eb3b-bfea-4f0e-a0b2-fd5a7bfd909c&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0YcbfTpkDTNGgEDkPE53ug",
-          "published": "2026-08-06T02:12:57+00:00",
-          "summary": "邀創作者用鏡頭描繪新北2025淨零未來。 2026/08/06. 5. 氣候變遷中心. 一、活動簡介. 面對氣候挑戰，我們沒有時間等待！新北市政府環境保護局為推動2050淨零藍圖&nbsp;..."
+          "title": "高市府整合<b>淨零</b>技術與轉型資源攜手企業加速低碳轉型提升國際競爭力 - 台灣民眾電子報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.allnews.tw/news/93070&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3WabWJOi1xvrZ3p8X1cpOS",
+          "published": "2026-08-07T01:04:02+00:00",
+          "summary": "... 【本報記者楊雅晴報導】面對全球淨零轉型浪潮，高雄市政府積極落實淨零 ... 碳中和」三大轉型階段，分享碳管理、設備節能、AI能源管理、智慧電力調度及&nbsp;..."
         },
         {
-          "title": "【轉知】教育部115年<b>氣候變遷</b>講習活動",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tngs.tn.edu.tw/2026/08/06/%25E3%2580%2590%25E8%25BD%2589%25E7%259F%25A5%25E3%2580%2591%25E6%2595%2599%25E8%2582%25B2%25E9%2583%25A8115%25E5%25B9%25B4%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E8%25AC%259B%25E7%25BF%2592%25E6%25B4%25BB%25E5%258B%2595/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1tLwvpHgssPO18um4gtAXk",
-          "published": "2026-08-06T02:05:32+00:00",
-          "summary": "一、依教育部115年7月28日臺教資(六)字第1152702348號函辦理。 二、為協助各級學校教師掌握最新氣候變遷教育發展趨勢，並引導思考如何將相關議題有效融入課程&nbsp;..."
+          "title": "二〇二六能源經濟與碳達峰<b>碳中和</b>高質量發展論壇舉行",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=http://cpc.people.com.cn/BIG5/n1/2026/0807/c64387-40775439.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3iGIi8OUJ5Z858dMps0S9I",
+          "published": "2026-08-07T00:48:58+00:00",
+          "summary": "本報陝西榆林8月6日電（記者顧仲陽、張丹華）2026能源經濟與碳達峰碳中和高質量發展論壇8月6日在陝西省榆林市舉行。論壇以“向新向綠向未來”為主題，&nbsp;..."
         },
         {
-          "title": "智慧局公布綠商標十年解析本土企業築起<b>淨零</b>護城河 - 中華日報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cdns.com.tw/articles/1439970&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3KJRT0BFKQBewJ0_Bynk8a",
-          "published": "2026-08-06T00:19:06+00:00",
-          "summary": "... 淨零時代的隱形護城河」報告，深度解析2016 至2025 年間共十年的商標申請數據，旨在協助企業於淨零 ... 氣候變遷」九大類別。 在個別申請人排行榜上，統一公司以&nbsp;..."
+          "title": "桃市表揚179個<b>淨零</b>永續典範張善政：公私協力共創宜居永續城市| 熱門亮點 - 經濟日報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5635/9673974%3Ffrom%3Dedn_next_story&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0hqObkv_J58P_ZGhHauLHG",
+          "published": "2026-08-06T20:19:54+00:00",
+          "summary": "桃園市長張善政5日出席「115年桃園市淨零永續頒獎典禮」，表揚114年度在綠色採購、綠色消費、節能減碳、環境教育及河川認養等領域表現優異的企業、學校及&nbsp;..."
         },
         {
-          "title": "桃園179企業機關團體響應<b>淨零</b>永續獲張善政表揚 - 獨家報導",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.scooptw.com/tyenews/509417/%25E6%25A1%2583%25E5%259C%2592179%25E4%25BC%2581%25E6%25A5%25AD%25E6%25A9%259F%25E9%2597%259C%25E5%259C%2598%25E9%25AB%2594%25E9%259F%25BF%25E6%2587%2589%25E6%25B7%25A8%25E9%259B%25B6%25E6%25B0%25B8%25E7%25BA%258C-%25E7%258D%25B2%25E5%25BC%25B5%25E5%2596%2584%25E6%2594%25BF%25E8%25A1%25A8%25E6%258F%259A/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3JiU-P4GBjd2YbQXIZoLnj",
-          "published": "2026-08-05T23:05:03+00:00",
-          "summary": "環保局進一步說明，桃園持續從節能減碳、環境教育及河川守護等面向深化淨零行動。114年度共有17個住商用電單位獲選為節能績優單位，全年節省1446萬度電；台美&nbsp;..."
+          "title": "玉山排雲山莊導入國產材營造溫潤質感淡雅木香|新創臺灣 - 僑新聞OCAC NEWS",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ocacnews.net/article/429983&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw03UoMd5QCMlzZe-TSmY8uF",
+          "published": "2026-08-06T18:14:54+00:00",
+          "summary": "... 淨零碳排創新作為。（玉山國家公園管理處提供）. 玉管處與南投林保分署導入國產材，應用在排雲山莊室內標示、平面圖、植物木框畫等，透過跨機關合作，打造可&nbsp;..."
         },
         {
-          "title": "立面光電補足都市綠電缺口政策、技術與示範場域接軌<b>淨零</b>建築 - 中華時報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://chtime.ikh.tw/%3Fpn%3Dvw%26id%3D03aon6byu00j&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3T8b7cCs9CDsQDlw2z96SC",
-          "published": "2026-08-05T22:24:48+00:00",
-          "summary": "【記者蕭秀貞／綜合報導】隨著建築光電新制於2026年8月1日正式施行，建築能源轉型進入新的政策階段，在一起永續科技今（5）日於桃園青創博覽會展示彩繪立面光電&nbsp;..."
+          "title": "本週後期至下週初天氣展望｜香港天文台(HKO)",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hko.gov.hk/tc/%25E5%25A4%25A9%25E6%25B0%25A3%25E9%259A%25A8%25E7%25AD%2586/110718/%25E6%259C%25AC%25E9%2580%25B1%25E5%25BE%258C%25E6%259C%259F%25E8%2587%25B3%25E4%25B8%258B%25E9%2580%25B1%25E5%2588%259D%25E5%25A4%25A9%25E6%25B0%25A3%25E5%25B1%2595%25E6%259C%259B&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw245YN8uL1lCsoezOxITVjq",
+          "published": "2026-08-06T14:19:49+00:00",
+          "summary": "白海豚會在未來兩三日橫過琉球群島，移向浙江至福建北部一帶。"
         },
         {
-          "title": "桃市表揚179個<b>淨零</b>永續典範朝<b>淨零</b>永續城市穩健邁進 - 是新聞YesMedia",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.yesmedia.com.tw/%25E6%25A1%2583%25E5%25B8%2582%25E8%25A1%25A8%25E6%258F%259A179%25E5%2580%258B%25E6%25B7%25A8%25E9%259B%25B6%25E6%25B0%25B8%25E7%25BA%258C%25E5%2585%25B8%25E7%25AF%2584%25E3%2580%2580%25E6%259C%259D%25E6%25B7%25A8%25E9%259B%25B6%25E6%25B0%25B8%25E7%25BA%258C%25E5%259F%258E%25E5%25B8%2582%25E7%25A9%25A9%25E5%2581%25A5/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1OuiH2TsKw2CLsOOZqklrg",
-          "published": "2026-08-05T21:03:14+00:00",
-          "summary": "【點傳媒／記者彭慧婉報導】「115年桃園市淨零永續頒獎典禮」今（5）日下午於市府B2大禮堂舉行，桃園市長張善政表揚114年度在綠色採購、綠色消費、節能減&nbsp;..."
+          "title": "屏東縣立高中學生出國當青年大使赴美學習永續深化姊妹市情誼 - 波新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bo6s.com.tw/news_detail.php%3FNewsID%3D114978&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1YRCSkfEs3vUmdP4j8jB2f",
+          "published": "2026-08-06T14:18:11+00:00",
+          "summary": "波新聞-戴貴立/屏東. 面對全球氣候變遷挑戰，永續發展已成為衡量城市競爭力的核心指標，為響應「2050淨零排放」目標，屏東縣政府於今（115）年8月6日至21&nbsp;..."
         }
       ]
     }
