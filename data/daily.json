@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-07T03:48:39.624822+00:00",
-    "date": "2026-08-07",
+    "generated_at": "2026-08-08T02:53:58.785790+00:00",
+    "date": "2026-08-08",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -11,6 +11,30 @@
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
       "items": [
+        {
+          "title": "【AI 原生新創極速生長】產品全面圍繞 AI 開發，過半新創人均產值衝破 40 萬美元",
+          "link": "https://techorange.com/2026/08/08/startup-insights/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-07T22:29:00+00:00",
+          "summary": "亞馬遜網路服務（AWS）與研究顧問公司 Strand Partners，聯合發佈全球新創趨勢報告《Engines of Growth》，針對 20 個國家、共 3,413 位新創創辦人與高階決策者進行調查，將觀察焦點鎖定在「AI 原生新創（AI-native startups）」。 報告對「AI 原生新創」提出三大核心定義： 第一，企業創立時間小於五年，且在最先進的維度（如自研客製化模型、多模型整"
+        },
+        {
+          "title": "資料留台灣、AI 代理 60 秒內完成資安調查：Google SecOps 正式在台啟用",
+          "link": "https://techorange.com/2026/08/07/google-secops-taiwan/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-07T09:34:40+00:00",
+          "summary": "AI 代理時代來臨，駭客攻擊的速度、規模與複雜度都超越以往，傳統資安營運中心（SOC）已難以招架，使得「以 AI 對抗 AI」成為產業敘事。但對台灣的金融、政府與關鍵基礎設施產業來說，卡點不在技術使用，而是資料能否留在台灣的合規門檻。在此背景下，Google Cloud 今（8/7）宣布 Google 資安營運平台（Google SecOps）正式在台灣雲端區域啟用。 「這意味著，台灣企業現在可以"
+        },
+        {
+          "title": "晶片禁令下的破口：美國嚴防硬體輸中，中國卻年砸 5 億美元買進矽谷訓練資料",
+          "link": "https://techorange.com/2026/08/07/silicon-valleys-other-china-problem-its-training-their-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-07T08:59:50+00:00",
+          "summary": "近年來，美國政府針對先進晶片輸往中國的情形，建立嚴格的地緣政治防線，企圖阻止中國取得支撐頂尖 AI 模型的關鍵算力資源。然而，在這座由美國精心打造的晶片堡壘之外，用來訓練 AI 模型的人類專業知識與數據資料，在跨境流動時卻幾乎沒有受到同等程度的審查，形成另一個未被防堵的破口。 這些高價值的資料基礎建設，由龐大的專家網絡，以及精密的任務設計、評估指標與品質控制程序共同構建，是讓 AI 模型處理金融建"
+        },
+        {
+          "title": "特定模型推論快 48 倍卻犧牲彈性：AMD 為何仍買下 Taalas 對抗 NVIDIA？",
+          "link": "https://techorange.com/2026/08/07/amd-acquires-taalas-to-advance-compute-solutions/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-07T03:47:36+00:00",
+          "summary": "半導體巨頭 AMD 正式宣布收購加拿大 AI 推論晶片新創公司 Taalas，為迅速白熱化的 AI 晶片戰場投下震撼彈。隨著 AI 應用逐漸從耗費巨資的「模型訓練」階段，跨入需要即時、大規模部署的「推論服務」，各大晶片廠已將專用推論晶片視為降低運算成本的兵家必爭之地。 在眾多追求通用運算能力的晶片中，Taalas 的技術路徑顯得非常獨特：Taalas 不採用傳統 GPU 這一類「一般用途」（gen"
+        },
         {
           "title": "AI Agent 跨平台終於有共同標準了：Agent Plugins 統一封裝，安全與信任仍留白",
           "link": "https://techorange.com/2026/08/07/ai-agent-plugins/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -22,30 +46,6 @@
           "link": "https://techorange.com/2026/08/07/ai-token-1password-management-tools/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
           "published": "2026-08-07T01:28:56+00:00",
           "summary": "1Password 推出內建於旗下 SaaS Manager 平台的新功能：AI 支出與使用量管理工具，並指出現代企業消耗 Token 的速度，已經超出傳統預算策略能夠應對的範圍。"
-        },
-        {
-          "title": "90% 通路都直營：Coach 母公司如何用 AI 降低供應鏈「時尚風險」？",
-          "link": "https://techorange.com/2026/08/07/ai-coach-tapestry/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-07T01:19:51+00:00",
-          "summary": "在傳統時尚零售業中，估錯流行趨勢是品牌最大的經營痛點。過去業者往往提前數月預測市場喜好，一旦產量估算失準，後續引發的庫存積壓與折扣促銷，便會嚴重侵蝕毛利率。 面對這種動態且難以捉摸的消費市場，時尚品牌 Coach 母公司 Tapestry 選擇走出一條不同的路，利用強大的第一方資料庫與 AI 系統，全面重構旗下的供應鏈與營運決策機制。 AI 動態反饋迴圈精準調控庫存，直擊「時尚風險」 為了打破企業"
-        },
-        {
-          "title": "《時代雜誌》開賣「AI 專屬廣告」，品牌如何影響 ChatGPT 推薦？",
-          "link": "https://techorange.com/2026/08/07/ads-ai-agents-marketing-industry-debate/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-07T01:07:58+00:00",
-          "summary": "專門用來影響 AI 代理人（AI Agent），而非直接展示給人類消費者的數位廣告，正逐漸成為一種全新的行銷管道，但也隨之開啟品牌安全（Brand Safety）的新戰場。在這場新型態的行銷戰役中，業界目前最核心的問題在於，一旦 AI 平台察覺品牌正針對其網路爬蟲（Crawlers）投放廣告，究竟會選擇接受這項新做法，還是將其視為垃圾內容並加以封鎖？ 不論 AI 平台最終對此類廣告的態度為何，這種"
-        },
-        {
-          "title": "【科技早餐】Google AI 高層大改組，Microsoft 一年認列 OpenAI 241 億美元營收",
-          "link": "https://techorange.com/2026/08/07/google-ai-leadership-shakeup-microsoft-openai-revenue/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-06T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊Google AI 高層大改組，Demis Hassabis 轉任董事長、四名資深人才創業 Google 母公司 Alphabet 宣布，Demis Hassabis 將卸下 Google DeepMind 執行長職務，轉任 Google DeepMind 董事長及 Alphabet 首席科學家，未來將把更多時間投入通用人工智慧（AGI）的研究方"
-        },
-        {
-          "title": "AI Agent 進入製造業卻卡在工程系統：真正的瓶頸為何不再是模型？",
-          "link": "https://techorange.com/2026/08/06/ai-agent-going-to-production-in-manufacturing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-06T09:35:36+00:00",
-          "summary": "AI Agent 正快速從客服、程式開發等辦公室場景，走向工程設計與製造流程。不過，企業真正開始部署後，卻發現模型能力提升，並不代表 AI 就能順利進入生產環境。 根據 Google Cloud 針對超過 1,400 位 IT 高階主管的最新調查，83% 的企業認為，若要真正部署 production-grade（生產層級）AI Agent，必須重新改造既有基礎設施；79% 則認為，安全治理（Go"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "為什麼結婚多年，他不笑了？臨床心理師解析背後真相",
-          "link": "https://www.gvm.com.tw/article/55335",
-          "published": "2026-08-06T20:02:00",
-          "summary": "「說實話，你先生在兩個鐘頭前跟我提過，他不是故意變得冷漠，而是放棄跟你溝通了。」「放棄溝通？他有跟我溝通過嗎？」不知道從什麼時候開始，在婚姻裡取悅對方或被對方取悅，成了一件奢侈的事。不是因為這件事的難度多高，而是我們已經習慣不去做這件事。（本文節錄自《人生障礙俱樂部》一書，劉仲彬著，寶瓶文化出版）「他真的很扯，從退伍到現在，沒上過一天班，一天都沒有！」食指敲擊桌面的聲音不斷往我身上逼近，這股波動來"
+          "title": "「永遠懷念高教授！」陳其邁、張善政、盧秀燕、黃敏惠等縣市長發文弔唁高希均",
+          "link": "https://www.gvm.com.tw/article/132166",
+          "published": "2026-08-07T19:00:00",
+          "summary": "「遠見‧天下文化事業群」創辦人高希均教授昨（6）日辭世，享耆壽90歲。消息一出，在社群上引發各界發文弔唁，包括陳其邁、張善政、盧秀燕、張麗善、黃敏惠、徐榛蔚、謝國樑、饒慶鈴與高虹安等多位縣市首長都分享他們與高教授的互動點滴。「遠見‧天下文化事業群」創辦人高希均教授昨（6）日辭世，包括陳其邁、張善政、盧秀燕、張麗善、黃敏惠、徐榛蔚、謝國樑、饒慶鈴與高虹安等多位縣市首長都在第一時間於臉書發文悼念高希均"
         },
         {
-          "title": "爸爸，下輩子我們當朋友吧！陪伴父親最後一程，才理解他全身的刺",
-          "link": "https://www.gvm.com.tw/article/99394",
-          "published": "2026-08-06T19:49:00",
-          "summary": "8/8父親節，對某些人而言，是一個不存在的節日。本文作者描述：「我甚至記不得任何一句，這輩子，爸爸稱讚過我的話，或是對我表示疼愛的字眼。 從小就是他訓話，我乖乖聽著。任何回話，都被視為頂嘴，配上一句：妳以為妳唸了幾天書，就多了不起？」（本文摘自《要這樣的生離死別，才能讓我們真正相識相遇》一書，作者：王雅倫，以下為摘文。）我哭著說，你們看我的登機牌，我從上海飛成都，再飛廈門，就是為了趕回台北看我病危"
+          "title": "《奧德賽》安海瑟薇教養心法：跟孩子開口前先做一件事",
+          "link": "https://www.gvm.com.tw/article/132165",
+          "published": "2026-08-07T18:27:00",
+          "summary": "近期參演電影《奧德賽》的好萊塢巨星安海瑟薇分享，她從英國凱特王妃身上學到「先蹲下、平視孩子溝通」的育兒技巧，透過積極傾聽，讓孩子感受到尊重與理解。她也坦言自己並不追求完美育兒，而是學會管理情緒、從挫折中成長。現年43歲的好萊塢影星安海瑟薇（Anne Hathaway），參演的電影《奧德賽》（The Odyssey）近期正於全球上映中；而育有兩子的她，6月也宣布懷上第三胎，事業與家庭同步迎來新篇章。"
         },
         {
-          "title": "書生報國典範！高希均教授辭世、享耆壽90歲，為華人世界留下進步觀念的精神遺產",
-          "link": "https://www.gvm.com.tw/article/132134",
-          "published": "2026-08-06T19:46:00",
-          "summary": "遠見‧天下文化創辦人、知名經濟學者與教育家、出版人高希均教授，於2026年8月6日上午辭世，享耆壽90歲，完成奉獻的一生，安然遠行。高希均教授一生奉獻於教育、出版、媒體與公共政策，是「書生報國的典範，君子領導的楷模」。他的離去是華人知識界與出版界的重大損失，但他留下的卓越思想與殷切期許，永遠照亮並指引我們前行。高希均教授1936年生於南京，1949年隨家人來台，1959年赴美深造並取得經濟發展博士"
+          "title": "泰國知名中學校園槍擊悲劇：5死皆為教師！學生憶「以為是惡作劇」",
+          "link": "https://www.gvm.com.tw/article/132164",
+          "published": "2026-08-07T18:07:00",
+          "summary": "泰國一所中學今天發生校園槍擊案，造成多人死傷；目擊師生告訴中央社，原以為只是惡作劇，直到接連傳出槍聲後，才發現有人在校園開槍，學生躲進教室緊閉門窗，有人驚恐落淚，也有人冒險衝出教室提醒他人逃命。曼谷郊區的「帖詩林學校暖武里分校」（Debsirin Nonthaburi School）今天發生槍擊案，泰媒引述泰國衛生部的數據指出，事件造成5人死亡，全是教師，另有22人受傷，其中9人傷勢嚴重。事發後，"
         },
         {
-          "title": "日本百億富豪的致富觀點：別只考慮自己，你就擁有全宇宙的力量",
-          "link": "https://www.gvm.com.tw/article/85948",
-          "published": "2026-08-06T19:39:00",
-          "summary": "編按：人生是很巧妙的，如果我們心裡只想著自己，就會覺得只有自己很不幸。但是，當我們試著分享，很不可思議的，別人和自己都會變得更好。（本文摘自《你看事情的角度，決定了幸福的長度》一書，作者為翡翠小太郎，以下為摘文。）在烏龍麵店，想加點飯糰卻售罄，這時候，日本第一大投資家竹田和平，對店員說了什麼呢？大富豪想的真的不一樣。「日本第一大投資家」、「日本第一大股王」，持有股票時價總額高達130億日元！他就是"
+          "title": "川湖股價破1萬大關！「台股最純AI股」做什麼？下半年需求續強",
+          "link": "https://www.gvm.com.tw/article/132163",
+          "published": "2026-08-07T17:20:00",
+          "summary": "AI伺服器導軌廠川湖昨天公布上半年大賺11個股本，驚豔市場。川湖執行副總經理暨發言人王俊強今天在法人說明會中表示，川湖是「台股最純的AI股」，看下半年需求依舊非常強。川湖昨天公布財報，第2季毛利率87.42%，季增9.68個百分點，較去年同期拉升9.92個百分點，創歷史新高，成為今天法說會法人追問的焦點。王俊強說明，導軌是AI伺服器機櫃的「安全件」。AI機櫃這麼貴，相較之下，導軌占整體機櫃成本比重"
         },
         {
-          "title": "徵才薪資擬沒5萬不得寫「面議」！薪資揭露門檻7年沒調，勞動部下一步？",
-          "link": "https://www.gvm.com.tw/article/132133",
-          "published": "2026-08-06T19:35:00",
-          "summary": "為促進薪資透明、改善低薪，勞動部規定經常性薪資4萬元以下的職缺，不得寫「面議」，必須揭示薪資範圍。勞動部近年研議再提高揭露門檻，至今只聞樓梯響。最新審計報告指出，去年初任人員平均薪資已經3.9萬元，逼近4萬元大關，超過7年未調整的揭露門檻，早就無法反映勞動市場薪資水準。勞動部官員說，目前朝向最低工資1.75倍的方向研議，目前仍在法制作業中。若以今年最低工資2萬9500元計算，揭露門檻為5萬1625"
+          "title": "最新U.S. News排行榜公布，這所私校在電腦科學異軍突起",
+          "link": "https://www.gvm.com.tw/article/132161",
+          "published": "2026-08-07T17:11:00",
+          "summary": "大學分科測驗放榜之後，考生已從8月5日開始選填志願，在填大學志願時最重要的除了考生本人的興趣、志向之外，也不妨將國內外的大學及學科排名列入參考。日前公布的美國U.S. News全球最佳大學排名，便以學術聲譽、論文引用為主要依據，對全世界各大學進行排名。當中亦包括電腦科學、工程等，在AI時代備受關注的學科名次，數所台灣私校也在此領域繳出不輸國立頂大的成績單。在美國權威機構《U.S. News &am"
         },
         {
-          "title": "拒絕中年失業！這位歷史人物寫下地表最強「非自願離職書」",
-          "link": "https://www.gvm.com.tw/article/115275",
-          "published": "2026-08-06T19:34:00",
-          "summary": "當你的老闆突然要你走人，你會摸摸鼻子接受，還是想辦法挽回？古代沒有完善的勞基法，當然也不會有資遣費或各種保障，尤其在動盪不安的戰國時代，找工作更是不容易吶！這時候我們可以看看李斯的〈諫逐客書〉，這篇文章讓他從一個即將中年失業的外籍移工，成功逆轉勝二度就業！（本文節錄自《讀懂古人的痛，就能跳過現代的坑》一書，作者：林俐君（綠君麻麻），圓神出版，以下為摘文。）老鼠哲學李斯是楚國上蔡人，年輕時曾在家鄉當"
+          "title": "厚植臺灣軟實力！遠見‧天下文化創辦人高希均辭世，文化部將呈請總統明令褒揚",
+          "link": "https://www.gvm.com.tw/article/132160",
+          "published": "2026-08-07T17:08:00",
+          "summary": "遠見‧天下文化創辦人高希均昨（6）日辭世，享耆壽90歲。文化部長李遠聞訊深感惋惜與不捨，並表示，高希均對臺灣雜誌出版、公共政策、經濟學術有莫大貢獻，文化部將呈請總統明令褒揚。高希均於1936年出生於南京，1949年隨家人來臺，畢業於臺北商業大學、中興大學，並取得美國南達科達州立大學碩士及密西根州立大學經濟發展博士學位，於美國任教期間獲美國傑出教育學家肯定。其亦曾擔任我國經合會人力小組顧問、臺灣大學"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "高市府整合<b>淨零</b>技術與轉型資源攜手企業加速低碳轉型提升國際競爭力 - 台灣民眾電子報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.allnews.tw/news/93070&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3WabWJOi1xvrZ3p8X1cpOS",
-          "published": "2026-08-07T01:04:02+00:00",
-          "summary": "... 【本報記者楊雅晴報導】面對全球淨零轉型浪潮，高雄市政府積極落實淨零 ... 碳中和」三大轉型階段，分享碳管理、設備節能、AI能源管理、智慧電力調度及&nbsp;..."
+          "title": "減碳行動開跑！台新新光金控<b>淨零</b>論壇登場 - Yahoo新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E6%25B8%259B%25E7%25A2%25B3%25E8%25A1%258C%25E5%258B%2595%25E9%2596%258B%25E8%25B7%2591-%25E5%258F%25B0%25E6%2596%25B0%25E6%2596%25B0%25E5%2585%2589%25E9%2587%2591%25E6%258E%25A7%25E6%25B7%25A8%25E9%259B%25B6%25E8%25AB%2596%25E5%25A3%2587%25E7%2599%25BB%25E5%25A0%25B4-134100529.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0Vh7fbFFp_txvL9czbkjN4",
+          "published": "2026-08-07T19:54:34+00:00",
+          "summary": "林維俊也呼籲，面對氣候變遷議題，沒有人是局外人，相信每一個人都可以｢From Zero to Hero｣成為化解氣候危機的英雄。 廣告. 廣告. 上銀與強茂分享低碳實踐製造大&nbsp;..."
         },
         {
-          "title": "二〇二六能源經濟與碳達峰<b>碳中和</b>高質量發展論壇舉行",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=http://cpc.people.com.cn/BIG5/n1/2026/0807/c64387-40775439.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3iGIi8OUJ5Z858dMps0S9I",
-          "published": "2026-08-07T00:48:58+00:00",
-          "summary": "本報陝西榆林8月6日電（記者顧仲陽、張丹華）2026能源經濟與碳達峰碳中和高質量發展論壇8月6日在陝西省榆林市舉行。論壇以“向新向綠向未來”為主題，&nbsp;..."
+          "title": "本國山火惡化最近的民調顯示更多受訪者將應對氣候變化視為首要任務 - AM1320",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://am1320.com/%25E7%2584%25A6%25E9%25BB%259E%25E6%2596%25B0%25E8%2581%259E/%25E6%259C%25AC%25E5%259C%258B%25E5%25B1%25B1%25E7%2581%25AB%25E6%2583%25A1%25E5%258C%2596-%25E6%259C%2580%25E8%25BF%2591%25E7%259A%2584%25E6%25B0%2591%25E8%25AA%25BF%25E9%25A1%25AF%25E7%25A4%25BA-%25E6%259B%25B4%25E5%25A4%259A%25E5%258F%2597%25E8%25A8%25AA%25E8%2580%2585%25E5%25B0%2587%25E6%2587%2589%25E5%25B0%258D%25E6%25B0%25A3/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1jhjK0ZfZUnWMGZRP1zNE_",
+          "published": "2026-08-07T18:18:36+00:00",
+          "summary": "Abacus及Angus Reid分別在今年7月訪問國民有關問題，時值山火肆虐全國，迫使數以千計人撤離家園。許多火災仍在燃燒，尤其是在bc省及安省西北部。"
         },
         {
-          "title": "桃市表揚179個<b>淨零</b>永續典範張善政：公私協力共創宜居永續城市| 熱門亮點 - 經濟日報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5635/9673974%3Ffrom%3Dedn_next_story&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0hqObkv_J58P_ZGhHauLHG",
-          "published": "2026-08-06T20:19:54+00:00",
-          "summary": "桃園市長張善政5日出席「115年桃園市淨零永續頒獎典禮」，表揚114年度在綠色採購、綠色消費、節能減碳、環境教育及河川認養等領域表現優異的企業、學校及&nbsp;..."
+          "title": "超級厄爾尼諾發威迎嚴重野火極端高溫 - 华侨网",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.chinesepress.com/2026/191576.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2QwZ1sfsYa-3qZ5VHPMjMc",
+          "published": "2026-08-07T17:57:18+00:00",
+          "summary": "加拿大環境與氣候變化部（Environment and Climate Change Canada，ECCC）在2026年1月預測，今年“很可能成為有記錄以來最熱的年份之一”。 由於厄爾尼諾本身&nbsp;..."
         },
         {
-          "title": "玉山排雲山莊導入國產材營造溫潤質感淡雅木香|新創臺灣 - 僑新聞OCAC NEWS",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ocacnews.net/article/429983&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw03UoMd5QCMlzZe-TSmY8uF",
-          "published": "2026-08-06T18:14:54+00:00",
-          "summary": "... 淨零碳排創新作為。（玉山國家公園管理處提供）. 玉管處與南投林保分署導入國產材，應用在排雲山莊室內標示、平面圖、植物木框畫等，透過跨機關合作，打造可&nbsp;..."
+          "title": "鴻勁(7769)7月營收52.46億元年增率高達100.83％ — TradingView News",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tradingview.com/news/cnyes:783182596acdf:0/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1mqpxUkbWe1080gAk0uV99",
+          "published": "2026-08-07T17:05:16+00:00",
+          "summary": "... 亨報導•迎超高齡時代中保科整合集團資源打造智慧照顧生態系•騰輝-KY 上半年每股純益4.75元已接近2025年全年•台新新光金控淨零論壇匯聚永續的光與熱."
         },
         {
-          "title": "本週後期至下週初天氣展望｜香港天文台(HKO)",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hko.gov.hk/tc/%25E5%25A4%25A9%25E6%25B0%25A3%25E9%259A%25A8%25E7%25AD%2586/110718/%25E6%259C%25AC%25E9%2580%25B1%25E5%25BE%258C%25E6%259C%259F%25E8%2587%25B3%25E4%25B8%258B%25E9%2580%25B1%25E5%2588%259D%25E5%25A4%25A9%25E6%25B0%25A3%25E5%25B1%2595%25E6%259C%259B&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw245YN8uL1lCsoezOxITVjq",
-          "published": "2026-08-06T14:19:49+00:00",
-          "summary": "白海豚會在未來兩三日橫過琉球群島，移向浙江至福建北部一帶。"
+          "title": "HCLTech named among the world's most sustainable companies by TIME magazine",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.quamnet.com/post/MaXPz3vXj5lwW9mQXUA1z&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3FoagMBlRSunoAKXsg-MKi",
+          "published": "2026-08-07T17:04:53+00:00",
+          "summary": "... net-zero journey by achieving its 2030 SBTi-validated emissions target four years ahead of schedule. &quot;Being recognized by TIME for a second&nbsp;..."
         },
         {
-          "title": "屏東縣立高中學生出國當青年大使赴美學習永續深化姊妹市情誼 - 波新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bo6s.com.tw/news_detail.php%3FNewsID%3D114978&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1YRCSkfEs3vUmdP4j8jB2f",
-          "published": "2026-08-06T14:18:11+00:00",
-          "summary": "波新聞-戴貴立/屏東. 面對全球氣候變遷挑戰，永續發展已成為衡量城市競爭力的核心指標，為響應「2050淨零排放」目標，屏東縣政府於今（115）年8月6日至21&nbsp;..."
+          "title": "亞洲物聯網聯盟及產官學研推動智慧海洋、無人載具與<b>淨零</b>科技共創海洋永續新未來",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.peopo.org/news/854195&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2JlBW5iWOFEsK9xrmcp8Ez",
+          "published": "2026-08-07T16:51:08+00:00",
+          "summary": "為整合政府、學術界、研究機構及產業界資源，共同推動智慧海洋科技創新，由國立臺灣海洋大學智航中心與中華海洋減碳協會共同發起成立「2026中華關海聯盟」，並&nbsp;..."
         }
       ]
     }
