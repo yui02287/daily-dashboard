@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-08T02:53:58.785790+00:00",
-    "date": "2026-08-08",
+    "generated_at": "2026-08-09T03:01:15.731317+00:00",
+    "date": "2026-08-09",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -16,36 +16,6 @@
           "link": "https://techorange.com/2026/08/08/startup-insights/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
           "published": "2026-08-07T22:29:00+00:00",
           "summary": "亞馬遜網路服務（AWS）與研究顧問公司 Strand Partners，聯合發佈全球新創趨勢報告《Engines of Growth》，針對 20 個國家、共 3,413 位新創創辦人與高階決策者進行調查，將觀察焦點鎖定在「AI 原生新創（AI-native startups）」。 報告對「AI 原生新創」提出三大核心定義： 第一，企業創立時間小於五年，且在最先進的維度（如自研客製化模型、多模型整"
-        },
-        {
-          "title": "資料留台灣、AI 代理 60 秒內完成資安調查：Google SecOps 正式在台啟用",
-          "link": "https://techorange.com/2026/08/07/google-secops-taiwan/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-07T09:34:40+00:00",
-          "summary": "AI 代理時代來臨，駭客攻擊的速度、規模與複雜度都超越以往，傳統資安營運中心（SOC）已難以招架，使得「以 AI 對抗 AI」成為產業敘事。但對台灣的金融、政府與關鍵基礎設施產業來說，卡點不在技術使用，而是資料能否留在台灣的合規門檻。在此背景下，Google Cloud 今（8/7）宣布 Google 資安營運平台（Google SecOps）正式在台灣雲端區域啟用。 「這意味著，台灣企業現在可以"
-        },
-        {
-          "title": "晶片禁令下的破口：美國嚴防硬體輸中，中國卻年砸 5 億美元買進矽谷訓練資料",
-          "link": "https://techorange.com/2026/08/07/silicon-valleys-other-china-problem-its-training-their-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-07T08:59:50+00:00",
-          "summary": "近年來，美國政府針對先進晶片輸往中國的情形，建立嚴格的地緣政治防線，企圖阻止中國取得支撐頂尖 AI 模型的關鍵算力資源。然而，在這座由美國精心打造的晶片堡壘之外，用來訓練 AI 模型的人類專業知識與數據資料，在跨境流動時卻幾乎沒有受到同等程度的審查，形成另一個未被防堵的破口。 這些高價值的資料基礎建設，由龐大的專家網絡，以及精密的任務設計、評估指標與品質控制程序共同構建，是讓 AI 模型處理金融建"
-        },
-        {
-          "title": "特定模型推論快 48 倍卻犧牲彈性：AMD 為何仍買下 Taalas 對抗 NVIDIA？",
-          "link": "https://techorange.com/2026/08/07/amd-acquires-taalas-to-advance-compute-solutions/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-07T03:47:36+00:00",
-          "summary": "半導體巨頭 AMD 正式宣布收購加拿大 AI 推論晶片新創公司 Taalas，為迅速白熱化的 AI 晶片戰場投下震撼彈。隨著 AI 應用逐漸從耗費巨資的「模型訓練」階段，跨入需要即時、大規模部署的「推論服務」，各大晶片廠已將專用推論晶片視為降低運算成本的兵家必爭之地。 在眾多追求通用運算能力的晶片中，Taalas 的技術路徑顯得非常獨特：Taalas 不採用傳統 GPU 這一類「一般用途」（gen"
-        },
-        {
-          "title": "AI Agent 跨平台終於有共同標準了：Agent Plugins 統一封裝，安全與信任仍留白",
-          "link": "https://techorange.com/2026/08/07/ai-agent-plugins/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-07T02:59:53+00:00",
-          "summary": "這週 AI 產業新動作，發生在少有人注目的底層管線。就在 GPT-5 屆滿一週年前夕，OpenAI 與競爭對手亞馬遜（AWS）、微軟、Cursor 與 Vercel 於美國時間 8/6 共同發布開放標準 Agent Plugins 1.0，Google 隨後以核心維護者身分加入。這是一套開放標準，讓單一的代理擴充套件能跨競爭產品運作。 為什麼 AI Agent 需要這個共同標準？ Agent Pl"
-        },
-        {
-          "title": "【AI 預算管理】Token 消耗超預期才收到帳單，1Password 工具讓企業提前掌握 AI 支出",
-          "link": "https://techorange.com/2026/08/07/ai-token-1password-management-tools/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-07T01:28:56+00:00",
-          "summary": "1Password 推出內建於旗下 SaaS Manager 平台的新功能：AI 支出與使用量管理工具，並指出現代企業消耗 Token 的速度，已經超出傳統預算策略能夠應對的範圍。"
         }
       ]
     },
@@ -54,40 +24,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "「永遠懷念高教授！」陳其邁、張善政、盧秀燕、黃敏惠等縣市長發文弔唁高希均",
-          "link": "https://www.gvm.com.tw/article/132166",
-          "published": "2026-08-07T19:00:00",
-          "summary": "「遠見‧天下文化事業群」創辦人高希均教授昨（6）日辭世，享耆壽90歲。消息一出，在社群上引發各界發文弔唁，包括陳其邁、張善政、盧秀燕、張麗善、黃敏惠、徐榛蔚、謝國樑、饒慶鈴與高虹安等多位縣市首長都分享他們與高教授的互動點滴。「遠見‧天下文化事業群」創辦人高希均教授昨（6）日辭世，包括陳其邁、張善政、盧秀燕、張麗善、黃敏惠、徐榛蔚、謝國樑、饒慶鈴與高虹安等多位縣市首長都在第一時間於臉書發文悼念高希均"
+          "title": "追思〉高希均教授一定放不下「這件事」",
+          "link": "https://www.gvm.com.tw/article/132170",
+          "published": "2026-08-08T20:28:00",
+          "summary": "【編按】資深媒體人沈珮君懷念高希均教授，指出「公共知識分子」高希均一生執筆大聲疾呼，創辦天下文化與《遠見》，半世紀來出版無數好書、傳播進步觀念。高希均始終懷抱使命感，勇於直言政策盲點，並深切關懷兩岸和平與台灣未來。作為高希均多年好友，沈珮君卻認為他最終一定放不下，因為還關切「這些事」。「一個公共知識分子從來不會退休」，媒體界備受敬重的大老張作錦先生（作老）曾經如此說，他說的那個人就是高希均教授。不"
         },
         {
-          "title": "《奧德賽》安海瑟薇教養心法：跟孩子開口前先做一件事",
-          "link": "https://www.gvm.com.tw/article/132165",
-          "published": "2026-08-07T18:27:00",
-          "summary": "近期參演電影《奧德賽》的好萊塢巨星安海瑟薇分享，她從英國凱特王妃身上學到「先蹲下、平視孩子溝通」的育兒技巧，透過積極傾聽，讓孩子感受到尊重與理解。她也坦言自己並不追求完美育兒，而是學會管理情緒、從挫折中成長。現年43歲的好萊塢影星安海瑟薇（Anne Hathaway），參演的電影《奧德賽》（The Odyssey）近期正於全球上映中；而育有兩子的她，6月也宣布懷上第三胎，事業與家庭同步迎來新篇章。"
+          "title": "摸到脖子有腫塊！48歲婦人不菸不酒，反覆感冒3個多月竟罹口咽癌",
+          "link": "https://www.gvm.com.tw/article/132154",
+          "published": "2026-08-08T16:00:00",
+          "summary": "48歲蕭姓婦人日前反覆感冒，並摸到右側脖子有腫瘤，就醫檢查發現腫瘤是口咽癌轉移至淋巴結，引發因子為人類乳突病毒（HPV），目前治療持續中，腫瘤已萎縮。衛生福利部彰化醫院今天發布新聞稿表示，這名婦人過去很少感冒，今年農曆過年前後卻反覆感冒，多為流鼻水、發燒，到診所看診服藥，隔不到1週又出現症狀。之後她摸到右邊脖子有腫瘤，診所醫師告知可能是感冒引起淋巴結腫大，3個月後腫瘤大小未明顯變化，她便到醫院做詳"
         },
         {
-          "title": "泰國知名中學校園槍擊悲劇：5死皆為教師！學生憶「以為是惡作劇」",
-          "link": "https://www.gvm.com.tw/article/132164",
-          "published": "2026-08-07T18:07:00",
-          "summary": "泰國一所中學今天發生校園槍擊案，造成多人死傷；目擊師生告訴中央社，原以為只是惡作劇，直到接連傳出槍聲後，才發現有人在校園開槍，學生躲進教室緊閉門窗，有人驚恐落淚，也有人冒險衝出教室提醒他人逃命。曼谷郊區的「帖詩林學校暖武里分校」（Debsirin Nonthaburi School）今天發生槍擊案，泰媒引述泰國衛生部的數據指出，事件造成5人死亡，全是教師，另有22人受傷，其中9人傷勢嚴重。事發後，"
+          "title": "首個沒有爸爸的父親節，林逸欣：「我很幸福」——從富養看見的教養課",
+          "link": "https://www.gvm.com.tw/article/123535",
+          "published": "2026-08-08T15:03:00",
+          "summary": "2026/8/8編按：國內藝人林逸欣的父親林春銘醫師，力抗攝護腺癌多年後於2026年4月辭世。今(8日）林逸欣度過第一個沒有爸爸的父親節，她感謝還是有民眾來買她父親的產品，更發文和天上的父親談心，再一次讓我看出當初父母富養她，帶來的無價寶藏。國內藝人林逸欣的父親，林春銘醫師在力抗攝護腺癌5年後已於今年4月辭世，享壽73歲。當時林逸欣指出這是她去年補辦婚宴的幕後原因。而也是因為那時婚禮在典禮上播放了"
         },
         {
-          "title": "川湖股價破1萬大關！「台股最純AI股」做什麼？下半年需求續強",
-          "link": "https://www.gvm.com.tw/article/132163",
-          "published": "2026-08-07T17:20:00",
-          "summary": "AI伺服器導軌廠川湖昨天公布上半年大賺11個股本，驚豔市場。川湖執行副總經理暨發言人王俊強今天在法人說明會中表示，川湖是「台股最純的AI股」，看下半年需求依舊非常強。川湖昨天公布財報，第2季毛利率87.42%，季增9.68個百分點，較去年同期拉升9.92個百分點，創歷史新高，成為今天法說會法人追問的焦點。王俊強說明，導軌是AI伺服器機櫃的「安全件」。AI機櫃這麼貴，相較之下，導軌占整體機櫃成本比重"
+          "title": "【黃效文專欄】憶高希均教授：免費或付費，午餐不再！",
+          "link": "https://www.gvm.com.tw/article/132169",
+          "published": "2026-08-08T12:29:00",
+          "summary": "【編按】知名探險家黃效文沉重寫下對恩師與摯友高希均教授的悼念。從1969年美國威斯康辛大學的師生相遇、高家溫暖的節日聚餐，到後來在台北「一本書、一頓飯」的多年默契，黃效文以真摯細膩的筆觸，追憶高希均年輕時的學者風采與深厚情誼。高希均6日於台北辭世，作者在敦煌遠方遙祭，銘記這段終生難忘的亦師亦友歲月。我最後一次見到高希均教授，是今年的5月23號。而第一次見他，是1969年的秋天——那一年我剛踏進大學"
         },
         {
-          "title": "最新U.S. News排行榜公布，這所私校在電腦科學異軍突起",
-          "link": "https://www.gvm.com.tw/article/132161",
-          "published": "2026-08-07T17:11:00",
-          "summary": "大學分科測驗放榜之後，考生已從8月5日開始選填志願，在填大學志願時最重要的除了考生本人的興趣、志向之外，也不妨將國內外的大學及學科排名列入參考。日前公布的美國U.S. News全球最佳大學排名，便以學術聲譽、論文引用為主要依據，對全世界各大學進行排名。當中亦包括電腦科學、工程等，在AI時代備受關注的學科名次，數所台灣私校也在此領域繳出不輸國立頂大的成績單。在美國權威機構《U.S. News &am"
+          "title": "「人間蒸發式」離職是什麼？真的沒禮貌嗎？",
+          "link": "https://www.gvm.com.tw/article/132115",
+          "published": "2026-08-08T11:00:00",
+          "summary": "前陣子看到一篇文章提到「人間蒸發式」離職，我不禁會心一笑。朋友最近才跟我抱怨，現在不只剛入職的Z世代年輕人會這招，連某些資深員工也開始玩這一套。不過回顧我自己的離職經歷，我倒認為選擇「人間蒸發」不全然是錯的，有時甚至能幫自己擺脫許多無謂的人情壓力。這讓我想起自己的第一次離職。當時那家公司的薪資待遇不錯，同事也很友善，唯獨工作內容與我的興趣不符，再加上主管作風相當有壓迫感。離職前夕我只想保持低調，因"
         },
         {
-          "title": "厚植臺灣軟實力！遠見‧天下文化創辦人高希均辭世，文化部將呈請總統明令褒揚",
-          "link": "https://www.gvm.com.tw/article/132160",
-          "published": "2026-08-07T17:08:00",
-          "summary": "遠見‧天下文化創辦人高希均昨（6）日辭世，享耆壽90歲。文化部長李遠聞訊深感惋惜與不捨，並表示，高希均對臺灣雜誌出版、公共政策、經濟學術有莫大貢獻，文化部將呈請總統明令褒揚。高希均於1936年出生於南京，1949年隨家人來臺，畢業於臺北商業大學、中興大學，並取得美國南達科達州立大學碩士及密西根州立大學經濟發展博士學位，於美國任教期間獲美國傑出教育學家肯定。其亦曾擔任我國經合會人力小組顧問、臺灣大學"
+          "title": "立秋後就會變涼？注意這「4個壞習慣」降低免疫力，小心夏季流感上身",
+          "link": "https://www.gvm.com.tw/article/132152",
+          "published": "2026-08-08T07:00:00",
+          "summary": "立秋節氣不等於天氣變涼，當心「秋老虎」發威！了解咬秋、貼秋膘等傳統立秋習俗之餘，到底立秋吃什麼，才能避免秋燥與呼吸道疾病？吳宛容中醫師解析，夏秋交替溫差大，偏好冰品、熬夜等 4 壞習慣極易引發夏季流感與感冒。本文統整立秋養生 4 大生活心法，教你從飲食調理、溫差大的防護到規律作息，提升免疫力、健康迎接秋天。立秋是哪一天？立秋是秋天嗎？中醫師解析：天氣真正涼爽通常要等到白露後立秋，是二十四節氣中的第"
         }
       ]
     },
@@ -96,40 +66,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "減碳行動開跑！台新新光金控<b>淨零</b>論壇登場 - Yahoo新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E6%25B8%259B%25E7%25A2%25B3%25E8%25A1%258C%25E5%258B%2595%25E9%2596%258B%25E8%25B7%2591-%25E5%258F%25B0%25E6%2596%25B0%25E6%2596%25B0%25E5%2585%2589%25E9%2587%2591%25E6%258E%25A7%25E6%25B7%25A8%25E9%259B%25B6%25E8%25AB%2596%25E5%25A3%2587%25E7%2599%25BB%25E5%25A0%25B4-134100529.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0Vh7fbFFp_txvL9czbkjN4",
-          "published": "2026-08-07T19:54:34+00:00",
-          "summary": "林維俊也呼籲，面對氣候變遷議題，沒有人是局外人，相信每一個人都可以｢From Zero to Hero｣成為化解氣候危機的英雄。 廣告. 廣告. 上銀與強茂分享低碳實踐製造大&nbsp;..."
+          "title": "綠電分手台電今年轉供企業估128億度創新高 - 自由財經",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/article/paper/1765920&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0aUR_HZeTqEBE6xih2BdjT",
+          "published": "2026-08-09T01:41:35+00:00",
+          "summary": "隨著電業法開放綠電交易，發電業者除可售電給台電，也可透過企業購售電合約（CPPA）直接賣給民間企業，再利用台電電網完成「轉供」。近年因企業RE100、淨零減碳&nbsp;..."
         },
         {
-          "title": "本國山火惡化最近的民調顯示更多受訪者將應對氣候變化視為首要任務 - AM1320",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://am1320.com/%25E7%2584%25A6%25E9%25BB%259E%25E6%2596%25B0%25E8%2581%259E/%25E6%259C%25AC%25E5%259C%258B%25E5%25B1%25B1%25E7%2581%25AB%25E6%2583%25A1%25E5%258C%2596-%25E6%259C%2580%25E8%25BF%2591%25E7%259A%2584%25E6%25B0%2591%25E8%25AA%25BF%25E9%25A1%25AF%25E7%25A4%25BA-%25E6%259B%25B4%25E5%25A4%259A%25E5%258F%2597%25E8%25A8%25AA%25E8%2580%2585%25E5%25B0%2587%25E6%2587%2589%25E5%25B0%258D%25E6%25B0%25A3/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1jhjK0ZfZUnWMGZRP1zNE_",
-          "published": "2026-08-07T18:18:36+00:00",
-          "summary": "Abacus及Angus Reid分別在今年7月訪問國民有關問題，時值山火肆虐全國，迫使數以千計人撤離家園。許多火災仍在燃燒，尤其是在bc省及安省西北部。"
+          "title": "國環院與建研所「近零碳建築綠領人才培育課程」開放報名9月開辦2場試辦班免報名費每人節省 ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/moenv-news/zh-tw/News/13864&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2yLr4RiMndeEKMF-l1JCDm",
+          "published": "2026-08-09T01:25:44+00:00",
+          "summary": "國環院院長張順欽表示，推動近零碳建築(Nearly Zero-Carbon Buildings) 是實現全球2050 淨零排放目標的關鍵戰略之一。建築物在興建與使用期間的碳排放量約佔全球&nbsp;..."
         },
         {
-          "title": "超級厄爾尼諾發威迎嚴重野火極端高溫 - 华侨网",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.chinesepress.com/2026/191576.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2QwZ1sfsYa-3qZ5VHPMjMc",
-          "published": "2026-08-07T17:57:18+00:00",
-          "summary": "加拿大環境與氣候變化部（Environment and Climate Change Canada，ECCC）在2026年1月預測，今年“很可能成為有記錄以來最熱的年份之一”。 由於厄爾尼諾本身&nbsp;..."
+          "title": "喀什米爾暴雨山洪釀28死，<b>氣候變遷</b>威脅喜馬拉雅山區牧民生計 - 星島日報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.singtaousa.com/2026/08/08/news/world/i-just-want-to-find-them-deadly-cloudbursts-devastate-kashmirs-mountain-communities/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2SBjqGXDy01GRZldJw6Xkc",
+          "published": "2026-08-08T23:55:38+00:00",
+          "summary": "印控喀什米爾近期因暴雨引發一系列雲爆、山洪與山體滑坡，造成至少28人死亡。氣溫上升加劇了喜馬拉雅山區的極端天氣事件，嚴重威脅當地牧民社區的生命財產與&nbsp;..."
         },
         {
-          "title": "鴻勁(7769)7月營收52.46億元年增率高達100.83％ — TradingView News",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tradingview.com/news/cnyes:783182596acdf:0/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1mqpxUkbWe1080gAk0uV99",
-          "published": "2026-08-07T17:05:16+00:00",
-          "summary": "... 亨報導•迎超高齡時代中保科整合集團資源打造智慧照顧生態系•騰輝-KY 上半年每股純益4.75元已接近2025年全年•台新新光金控淨零論壇匯聚永續的光與熱."
+          "title": "當綠能淘汰石油化石燃料公司改用塑膠把全世界「碳鎖定」？ | ESG新知 - 倡議家",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ubrand.udn.com/ubrand/amp/story/123647/9674948&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0SHRNsWmzbKwYJhozdOffD",
+          "published": "2026-08-08T23:32:01+00:00",
+          "summary": "當各地政府都承諾在這10年內大幅減少碳排、實現淨零排放以防止氣候變化惡化時，化石燃料企業的老闆卻找到他們的Plan B：以化石燃料為原材料的塑膠產品在全球&nbsp;..."
         },
         {
-          "title": "HCLTech named among the world's most sustainable companies by TIME magazine",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.quamnet.com/post/MaXPz3vXj5lwW9mQXUA1z&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3FoagMBlRSunoAKXsg-MKi",
-          "published": "2026-08-07T17:04:53+00:00",
-          "summary": "... net-zero journey by achieving its 2030 SBTi-validated emissions target four years ahead of schedule. &quot;Being recognized by TIME for a second&nbsp;..."
+          "title": "綠電分手台電今年轉供企業估128億度創新高 - 自由財經",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/amp/article/paper/1765920&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1e0ov7e2QT29q2iYuIDwwv",
+          "published": "2026-08-08T21:59:10+00:00",
+          "summary": "企業RE100+淨零減碳需求科技業搶購綠電〔記者林菁樺／台北報導〕企業綠電需求持續升溫，綠電加快出走台電！根據台電估算，今年透過電網「轉供」給企業綠電將&nbsp;..."
         },
         {
-          "title": "亞洲物聯網聯盟及產官學研推動智慧海洋、無人載具與<b>淨零</b>科技共創海洋永續新未來",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.peopo.org/news/854195&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2JlBW5iWOFEsK9xrmcp8Ez",
-          "published": "2026-08-07T16:51:08+00:00",
-          "summary": "為整合政府、學術界、研究機構及產業界資源，共同推動智慧海洋科技創新，由國立臺灣海洋大學智航中心與中華海洋減碳協會共同發起成立「2026中華關海聯盟」，並&nbsp;..."
+          "title": "綠電分手台電今年轉供企業估128億度創新高 - 財富自由",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://stock.ltn.com.tw/article/wk6ymz0skzgm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3fAZHISBMY5KJkKuMfOYBV",
+          "published": "2026-08-08T21:32:12+00:00",
+          "summary": "企業RE100+淨零減碳需求科技業搶購綠電企業綠電需求持續升溫，綠電加快出走台電！根據台電估算，今年透過電網「轉供」給企業綠電將達一二八億度，&nbsp;..."
         }
       ]
     }
