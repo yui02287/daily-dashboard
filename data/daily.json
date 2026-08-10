@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-09T03:01:15.731317+00:00",
-    "date": "2026-08-09",
+    "generated_at": "2026-08-10T03:10:43.282485+00:00",
+    "date": "2026-08-10",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,10 +12,22 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "【AI 原生新創極速生長】產品全面圍繞 AI 開發，過半新創人均產值衝破 40 萬美元",
-          "link": "https://techorange.com/2026/08/08/startup-insights/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-07T22:29:00+00:00",
-          "summary": "亞馬遜網路服務（AWS）與研究顧問公司 Strand Partners，聯合發佈全球新創趨勢報告《Engines of Growth》，針對 20 個國家、共 3,413 位新創創辦人與高階決策者進行調查，將觀察焦點鎖定在「AI 原生新創（AI-native startups）」。 報告對「AI 原生新創」提出三大核心定義： 第一，企業創立時間小於五年，且在最先進的維度（如自研客製化模型、多模型整"
+          "title": "Token 單價便宜的 AI 模型不代表省錢，Databricks 稱任務成本與 Harness 更關鍵",
+          "link": "https://techorange.com/2026/08/10/per-token-price-ai-harness-databricks/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-10T01:24:34+00:00",
+          "summary": "Databricks 強調 AI 模型的 Token 單價，並不能完全反映一款模型究竟屬於「昂貴」或「便宜」，使用者必須將「每任務成本」與「Harness 框架」同步納入考量。"
+        },
+        {
+          "title": "Apple、HP、Acer 都開始找上 CXMT：AI 記憶體荒如何改寫 DRAM 供應鏈格局",
+          "link": "https://techorange.com/2026/08/10/apple-cxmt/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-10T01:19:49+00:00",
+          "summary": "AI 資料中心正大量吸走記憶體產能，DRAM 供應吃緊、價格急漲，連向來高度客製化零件的 Apple，也開始測試中國記憶體大廠 CXMT 的產品。根據《華爾街日報》，Apple 已跨 iPhone、MacBook 等產品線測試 CXMT 的記憶體晶片，並與對方早期洽談供應中國市場部分裝置的可能。這場由 AI 帶動的缺貨潮，意外替一家原本被美國出口管制擋在門外的中國業者，撬開通往全球品牌供應鏈的門縫"
+        },
+        {
+          "title": "【科技早餐】SpaceX、Tesla 砸 168 億美元自建 AI 晶片園區，NVIDIA 傳投資電力、亞馬遜建離網資料中心",
+          "link": "https://techorange.com/2026/08/10/spacex-tesla-terafab-nvidia-amazon-ai-infrastructure/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-09T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊SpaceX、Tesla 砸 168 億美元建 Terafab，整合 AI 晶片製造 SpaceX 與 Tesla 宣布，將首期投資 168 億美元，在美國德州格萊姆斯郡（Grimes County）興建 AI 半導體園區 Terafab。這座園區規劃占地達 1 億平方英尺，將在同一地點整合先進邏輯晶片與記憶體的製造、封裝及測試。SpaceX 表"
         }
       ]
     },
@@ -24,40 +36,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "追思〉高希均教授一定放不下「這件事」",
-          "link": "https://www.gvm.com.tw/article/132170",
-          "published": "2026-08-08T20:28:00",
-          "summary": "【編按】資深媒體人沈珮君懷念高希均教授，指出「公共知識分子」高希均一生執筆大聲疾呼，創辦天下文化與《遠見》，半世紀來出版無數好書、傳播進步觀念。高希均始終懷抱使命感，勇於直言政策盲點，並深切關懷兩岸和平與台灣未來。作為高希均多年好友，沈珮君卻認為他最終一定放不下，因為還關切「這些事」。「一個公共知識分子從來不會退休」，媒體界備受敬重的大老張作錦先生（作老）曾經如此說，他說的那個人就是高希均教授。不"
+          "title": "孤獨，為什麼不只是情緒問題，還會影響身體、心理、財務健康？",
+          "link": "https://www.gvm.com.tw/article/132117",
+          "published": "2026-08-10T00:00:00",
+          "summary": "晚婚、不婚、少子化與高齡化，正在改變台灣人的社會結構及居住樣貌，「一個人生活」逐漸成為越來越多民眾的日常型態，獨居人口增加與社會支持網絡改變，也讓孤獨感與社會孤立逐漸成為重要社會議題。國泰人壽攜手「遠見民意研究調查」發布《2026國泰人壽人生風險趨勢調查白皮書》，調查結果顯示孤獨已不只是情緒問題，更可能影響身體、心理、財務健康，逐漸成為當代不可忽視的人生風險課題。目錄● 孤獨為什麼會影響身體、心理"
         },
         {
-          "title": "摸到脖子有腫塊！48歲婦人不菸不酒，反覆感冒3個多月竟罹口咽癌",
-          "link": "https://www.gvm.com.tw/article/132154",
-          "published": "2026-08-08T16:00:00",
-          "summary": "48歲蕭姓婦人日前反覆感冒，並摸到右側脖子有腫瘤，就醫檢查發現腫瘤是口咽癌轉移至淋巴結，引發因子為人類乳突病毒（HPV），目前治療持續中，腫瘤已萎縮。衛生福利部彰化醫院今天發布新聞稿表示，這名婦人過去很少感冒，今年農曆過年前後卻反覆感冒，多為流鼻水、發燒，到診所看診服藥，隔不到1週又出現症狀。之後她摸到右邊脖子有腫瘤，診所醫師告知可能是感冒引起淋巴結腫大，3個月後腫瘤大小未明顯變化，她便到醫院做詳"
+          "title": "台東最美文化地標",
+          "link": "https://www.gvm.com.tw/article/132056",
+          "published": "2026-08-10T00:00:00",
+          "summary": "有人開玩笑地說，若當年台東有這樣的圖書館， 人生或許會不一樣。未來，也許會有年輕人：「那些年，我在台東總圖讀書，從開館讀到閉館。」絕美！台東最熱門的打卡景點「縣立圖書館」。建築外觀如山脈般展開，透過多層次的斜面造型，搭配溫潤的木格柵，讓建築主體呈現出如山間雲霧繚繞般的輕盈感，圖書館像是從大地生長出來的知識森林。從設計到完工，整整歷經13年19次流標。2020年台東縣政府將原先規劃的泳圖共構改為分構"
         },
         {
-          "title": "首個沒有爸爸的父親節，林逸欣：「我很幸福」——從富養看見的教養課",
-          "link": "https://www.gvm.com.tw/article/123535",
-          "published": "2026-08-08T15:03:00",
-          "summary": "2026/8/8編按：國內藝人林逸欣的父親林春銘醫師，力抗攝護腺癌多年後於2026年4月辭世。今(8日）林逸欣度過第一個沒有爸爸的父親節，她感謝還是有民眾來買她父親的產品，更發文和天上的父親談心，再一次讓我看出當初父母富養她，帶來的無價寶藏。國內藝人林逸欣的父親，林春銘醫師在力抗攝護腺癌5年後已於今年4月辭世，享壽73歲。當時林逸欣指出這是她去年補辦婚宴的幕後原因。而也是因為那時婚禮在典禮上播放了"
+          "title": "全面科技化！雲林打造營建污染防制新典範 AI智慧監控、3D建模、數位管理  建構智慧管理新模式",
+          "link": "https://www.gvm.com.tw/article/132034",
+          "published": "2026-08-10T00:00:00",
+          "summary": "當工地管理不再是仰賴人工巡檢，而是運用、空拍建模與數位戰情平台全天候監控，營建工程污染治理正迎來全新模式。近年來，雲林縣率全國之先，持續導入人工智慧、物聯網及3D建模等科技，建構完整的智慧工地管理系統，不僅提升污染防制效率，更連續多年締造中央考核「零缺失」紀錄，成為全台營建工程智慧治理的重要標竿。營建工程是城市建設的重要推手，卻也是空氣污染的來源之一。工地揚塵、車輛進出、裸露地及物料堆置等施工行為"
         },
         {
-          "title": "【黃效文專欄】憶高希均教授：免費或付費，午餐不再！",
-          "link": "https://www.gvm.com.tw/article/132169",
-          "published": "2026-08-08T12:29:00",
-          "summary": "【編按】知名探險家黃效文沉重寫下對恩師與摯友高希均教授的悼念。從1969年美國威斯康辛大學的師生相遇、高家溫暖的節日聚餐，到後來在台北「一本書、一頓飯」的多年默契，黃效文以真摯細膩的筆觸，追憶高希均年輕時的學者風采與深厚情誼。高希均6日於台北辭世，作者在敦煌遠方遙祭，銘記這段終生難忘的亦師亦友歲月。我最後一次見到高希均教授，是今年的5月23號。而第一次見他，是1969年的秋天——那一年我剛踏進大學"
+          "title": "張作錦憶別高希均：50年的作者和朋友，再見了！",
+          "link": "https://www.gvm.com.tw/article/132173",
+          "published": "2026-08-09T15:13:00",
+          "summary": "【編按】與高希均教授創辦《天下雜誌》與《遠見雜誌》的共同創辦人之一張作錦，撰文追思50年好友高希均。張作錦在擔任《聯合報》總編輯期間，曾慧眼獨具邀請高希均撰寫專欄評論，高希均遂以〈天下哪有白吃的午餐？〉與〈決策錯誤比貪汙更可怕〉等宏文，開創台灣公共知識份子的先河，其新穎觀念撼動台灣社會，並影響政策走向。94歲的張作錦娓娓道來兩人從相識、共創《天下雜誌》，到後續推動《遠見雜誌》的歷程。他認為高教授一"
         },
         {
-          "title": "「人間蒸發式」離職是什麼？真的沒禮貌嗎？",
-          "link": "https://www.gvm.com.tw/article/132115",
-          "published": "2026-08-08T11:00:00",
-          "summary": "前陣子看到一篇文章提到「人間蒸發式」離職，我不禁會心一笑。朋友最近才跟我抱怨，現在不只剛入職的Z世代年輕人會這招，連某些資深員工也開始玩這一套。不過回顧我自己的離職經歷，我倒認為選擇「人間蒸發」不全然是錯的，有時甚至能幫自己擺脫許多無謂的人情壓力。這讓我想起自己的第一次離職。當時那家公司的薪資待遇不錯，同事也很友善，唯獨工作內容與我的興趣不符，再加上主管作風相當有壓迫感。離職前夕我只想保持低調，因"
+          "title": "周行一追憶高希均：天底下找不到的舅舅",
+          "link": "https://www.gvm.com.tw/article/132172",
+          "published": "2026-08-09T14:17:00",
+          "summary": "【編按】前政大校長周行一撰文追思舅舅——高希均教授。除了社會大眾所熟知的經濟學者與出版家，周行一從家族後輩的角度，感念高希均在私領域中對親人的溫暖關照。從傾力照顧姊妹、支撐家族，到以溫煦智慧提點後輩求學與做人道理，高希均不僅影響了無數讀者，更深刻指引了整個家族的命運。周行一的字裡行間充滿思念，從中映照出一代知識份子的身教典範。高希均教授於6日過世，大眾對於高教授對社會的貢獻因為媒體的報導與眾多紀念"
         },
         {
-          "title": "立秋後就會變涼？注意這「4個壞習慣」降低免疫力，小心夏季流感上身",
-          "link": "https://www.gvm.com.tw/article/132152",
-          "published": "2026-08-08T07:00:00",
-          "summary": "立秋節氣不等於天氣變涼，當心「秋老虎」發威！了解咬秋、貼秋膘等傳統立秋習俗之餘，到底立秋吃什麼，才能避免秋燥與呼吸道疾病？吳宛容中醫師解析，夏秋交替溫差大，偏好冰品、熬夜等 4 壞習慣極易引發夏季流感與感冒。本文統整立秋養生 4 大生活心法，教你從飲食調理、溫差大的防護到規律作息，提升免疫力、健康迎接秋天。立秋是哪一天？立秋是秋天嗎？中醫師解析：天氣真正涼爽通常要等到白露後立秋，是二十四節氣中的第"
+          "title": "不管賺多少錢都一樣！不適用K型經濟，調查：各種收入的Z世代都在揮霍",
+          "link": "https://www.gvm.com.tw/article/132158",
+          "published": "2026-08-09T11:00:00",
+          "summary": "萬物皆漲、生活成本節節攀升，近年全球經濟呈現明顯的「K 型分化」，高收入族群持續消費，低收入者則被迫縮減支出。然而，美國銀行最新研究卻發現，有一個世代打破這項規律，就是 Z 世代。每個世代年輕時都曾衝動消費，但&nbsp;Z&nbsp;世代的消費邏輯更重視情緒價值與體驗。他們容易受到社群媒體影響，對成家、買房等傳統人生目標沒有前幾代人那麼急迫，消費也因此成為生活的重要重心。美國銀行最新報告顯示，Z"
         }
       ]
     },
@@ -66,40 +78,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "綠電分手台電今年轉供企業估128億度創新高 - 自由財經",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/article/paper/1765920&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0aUR_HZeTqEBE6xih2BdjT",
-          "published": "2026-08-09T01:41:35+00:00",
-          "summary": "隨著電業法開放綠電交易，發電業者除可售電給台電，也可透過企業購售電合約（CPPA）直接賣給民間企業，再利用台電電網完成「轉供」。近年因企業RE100、淨零減碳&nbsp;..."
+          "title": "去年春天在金光會展舉行的澳門國際環保合作發展論壇及展覽(MIECF)，已連續第四年實現“<b>碳</b> ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.macaodaily.com/html/2026-08/10/content_1926188.htm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0Z7W0hEYZTAIcpFoEWzpB_",
+          "published": "2026-08-09T22:05:49+00:00",
+          "summary": "國際標準為“碳中和”訂明嚴格次序：首先深度減排，節能提效、改用低碳物料；其次改變能源結構，以綠色電力證書為憑消除用電排放；最後對剩餘排放購買核證碳信用抵&nbsp;..."
         },
         {
-          "title": "國環院與建研所「近零碳建築綠領人才培育課程」開放報名9月開辦2場試辦班免報名費每人節省 ...",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/moenv-news/zh-tw/News/13864&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2yLr4RiMndeEKMF-l1JCDm",
-          "published": "2026-08-09T01:25:44+00:00",
-          "summary": "國環院院長張順欽表示，推動近零碳建築(Nearly Zero-Carbon Buildings) 是實現全球2050 淨零排放目標的關鍵戰略之一。建築物在興建與使用期間的碳排放量約佔全球&nbsp;..."
+          "title": "（如是我聞）熱 - 澳門日報電子版",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.macaodaily.com/html/2026-08/10/content_1926097.htm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Ka6QIdrpkyOsvtlPrx7or",
+          "published": "2026-08-09T22:03:50+00:00",
+          "summary": "熱. 早前看印度新聞，初夏氣溫直破五十攝氏度，貧民區傳出熱死個案。極端高溫，不再是科學家遙遠的預警，氣候變遷的代價，正由底層人群親身承受。"
         },
         {
-          "title": "喀什米爾暴雨山洪釀28死，<b>氣候變遷</b>威脅喜馬拉雅山區牧民生計 - 星島日報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.singtaousa.com/2026/08/08/news/world/i-just-want-to-find-them-deadly-cloudbursts-devastate-kashmirs-mountain-communities/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2SBjqGXDy01GRZldJw6Xkc",
-          "published": "2026-08-08T23:55:38+00:00",
-          "summary": "印控喀什米爾近期因暴雨引發一系列雲爆、山洪與山體滑坡，造成至少28人死亡。氣溫上升加劇了喜馬拉雅山區的極端天氣事件，嚴重威脅當地牧民社區的生命財產與&nbsp;..."
+          "title": "台新新光<b>淨零</b>論壇逾2500企業高層參與 - Yahoo新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%258F%25B0%25E6%2596%25B0%25E6%2596%25B0%25E5%2585%2589%25E6%25B7%25A8%25E9%259B%25B6%25E8%25AB%2596%25E5%25A3%2587-%25E9%2580%25BE2500%25E4%25BC%2581%25E6%25A5%25AD%25E9%25AB%2598%25E5%25B1%25A4%25E5%258F%2583%25E8%2588%2587-201000889.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3Y-vBEUwqCyQpkLt_zu4e3",
+          "published": "2026-08-09T21:53:24+00:00",
+          "summary": "... 淨零台灣、韌性家園」的願景，也呼籲面對氣候變遷議題，沒有人是局外人，相信每一個人都可以「From Zero to Hero」，成為化解氣候危機的英雄。 廣告. 廣告."
         },
         {
-          "title": "當綠能淘汰石油化石燃料公司改用塑膠把全世界「碳鎖定」？ | ESG新知 - 倡議家",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ubrand.udn.com/ubrand/amp/story/123647/9674948&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0SHRNsWmzbKwYJhozdOffD",
-          "published": "2026-08-08T23:32:01+00:00",
-          "summary": "當各地政府都承諾在這10年內大幅減少碳排、實現淨零排放以防止氣候變化惡化時，化石燃料企業的老闆卻找到他們的Plan B：以化石燃料為原材料的塑膠產品在全球&nbsp;..."
+          "title": "台新新光金辦<b>淨零</b>論壇",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/article/181623009&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3FNM7okTCbeXzDe80_RHDd",
+          "published": "2026-08-09T20:52:16+00:00",
+          "summary": "台新新光金（2887）偕同中華民國工商協進會、台新銀行、新光人壽、台新證券及台新投信於8月7日共同舉辦「2026台新新光淨零高峰論壇」，由國發會主委葉俊顯、&nbsp;..."
         },
         {
-          "title": "綠電分手台電今年轉供企業估128億度創新高 - 自由財經",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ec.ltn.com.tw/amp/article/paper/1765920&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1e0ov7e2QT29q2iYuIDwwv",
-          "published": "2026-08-08T21:59:10+00:00",
-          "summary": "企業RE100+淨零減碳需求科技業搶購綠電〔記者林菁樺／台北報導〕企業綠電需求持續升溫，綠電加快出走台電！根據台電估算，今年透過電網「轉供」給企業綠電將&nbsp;..."
+          "title": "【Emily】4種蝴蝶出沒率跌環團：或關氣候變化- 20260810 - 港聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.mingpao.com/pns/%25E6%25B8%25AF%25E8%2581%259E/article/20260810/s00002/1786298077553/%25E3%2580%2590emily%25E3%2580%25914%25E7%25A8%25AE%25E8%259D%25B4%25E8%259D%25B6%25E5%2587%25BA%25E6%25B2%2592%25E7%258E%2587%25E8%25B7%258C-%25E7%2592%25B0%25E5%259C%2598-%25E6%2588%2596%25E9%2597%259C%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E5%258C%2596&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw05P2Hpfaz75lztOhE_FOEP",
+          "published": "2026-08-09T20:38:25+00:00",
+          "summary": "【明報專訊】環團綠色力量於去年2月「立春」至今年1月「大寒」期間喺兩個蝴蝶熱點做「節氣觀蝶調查」，發現有4個物種蝴蝶嘅出沒率呈下跌趨勢，當中不常見嘅&nbsp;..."
         },
         {
-          "title": "綠電分手台電今年轉供企業估128億度創新高 - 財富自由",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://stock.ltn.com.tw/article/wk6ymz0skzgm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3fAZHISBMY5KJkKuMfOYBV",
-          "published": "2026-08-08T21:32:12+00:00",
-          "summary": "企業RE100+淨零減碳需求科技業搶購綠電企業綠電需求持續升溫，綠電加快出走台電！根據台電估算，今年透過電網「轉供」給企業綠電將達一二八億度，&nbsp;..."
+          "title": "台新新光<b>淨零</b>論壇逾2500企業高層參與",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/newspapers/20260810000478-260110&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0ZvCIVveQOTAO9sWPxK6oI",
+          "published": "2026-08-09T20:32:23+00:00",
+          "summary": "台新新光金控偕同中華民國工商協進會、台新銀行、新光人壽、台新證券及台新投信7日共同舉辦「2026台新新光淨零高峰論壇」，國發會主委葉俊顯、環境部長彭&nbsp;..."
         }
       ]
     }
