@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-10T03:10:43.282485+00:00",
-    "date": "2026-08-10",
+    "generated_at": "2026-08-11T03:03:15.358543+00:00",
+    "date": "2026-08-11",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,22 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "Token 單價便宜的 AI 模型不代表省錢，Databricks 稱任務成本與 Harness 更關鍵",
-          "link": "https://techorange.com/2026/08/10/per-token-price-ai-harness-databricks/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-10T01:24:34+00:00",
-          "summary": "Databricks 強調 AI 模型的 Token 單價，並不能完全反映一款模型究竟屬於「昂貴」或「便宜」，使用者必須將「每任務成本」與「Harness 框架」同步納入考量。"
+          "title": "番茄醬巨頭要讓 AI 代理堵現金流破洞：目標一年多追回 15% 資金",
+          "link": "https://techorange.com/2026/08/11/kraft-heinz-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-11T01:49:31+00:00",
+          "summary": "旗下有番茄醬、芥末醬產品的美國食品巨頭卡夫亨氏（Kraft Heinz）近日宣布擴大與數位轉型服務商 Genpact 的合作，雙方將基於 Microsoft Azure 雲端平台建置 AI 驅動的應收帳款管理系統，透過 AI 代理人（AI Agents）自動處理扣款（Deduction）管理流程，希望改善過去仰賴人工作業所造成的效率瓶頸與營收流失，並提升企業對整體現金流的掌握能力。 繁瑣扣款流程拖"
         },
         {
-          "title": "Apple、HP、Acer 都開始找上 CXMT：AI 記憶體荒如何改寫 DRAM 供應鏈格局",
-          "link": "https://techorange.com/2026/08/10/apple-cxmt/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-10T01:19:49+00:00",
-          "summary": "AI 資料中心正大量吸走記憶體產能，DRAM 供應吃緊、價格急漲，連向來高度客製化零件的 Apple，也開始測試中國記憶體大廠 CXMT 的產品。根據《華爾街日報》，Apple 已跨 iPhone、MacBook 等產品線測試 CXMT 的記憶體晶片，並與對方早期洽談供應中國市場部分裝置的可能。這場由 AI 帶動的缺貨潮，意外替一家原本被美國出口管制擋在門外的中國業者，撬開通往全球品牌供應鏈的門縫"
+          "title": "【機器人電池革命】追求連續運作 8 小時，固態電池、換電、超快充三條路並行",
+          "link": "https://techorange.com/2026/08/11/solid-state-battery-robot-tco-sk-on/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-11T01:19:20+00:00",
+          "summary": "韓國電池製造商 SK On 表示，若選擇採用固態電池取代鋰離子電池，那麼機器人身上電池所佔的製造成本，將會 2% 上升到 8%，因此企業考慮的總體擁有成本（TCO）將是關鍵。"
         },
         {
-          "title": "【科技早餐】SpaceX、Tesla 砸 168 億美元自建 AI 晶片園區，NVIDIA 傳投資電力、亞馬遜建離網資料中心",
-          "link": "https://techorange.com/2026/08/10/spacex-tesla-terafab-nvidia-amazon-ai-infrastructure/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-09T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊SpaceX、Tesla 砸 168 億美元建 Terafab，整合 AI 晶片製造 SpaceX 與 Tesla 宣布，將首期投資 168 億美元，在美國德州格萊姆斯郡（Grimes County）興建 AI 半導體園區 Terafab。這座園區規劃占地達 1 億平方英尺，將在同一地點整合先進邏輯晶片與記憶體的製造、封裝及測試。SpaceX 表"
+          "title": "【阿布達比的 AI 原生政府】不只是政務 App，TAMM 把 AI 嵌入每一項日常行政服務",
+          "link": "https://techorange.com/2026/08/11/abu-dhabi/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-11T01:19:02+00:00",
+          "summary": "當多數國家仍在討論人工智慧應如何監管、哪些行政流程可以導入 AI 時，阿布達比已經把 AI 放進政府的日常運作中。 對當地居民而言，人工智慧不只是回答問題的聊天機器人，而是一套會主動更新證件、預約醫療服務、處理車輛登記，甚至繳納停車罰款的行政系統。這套系統的入口，是名為 TAMM 的政府服務平台。 TAMM：不只是政務 App，而是主動代辦的政府 TAMM 在阿拉伯語中意為「事情已經辦妥」，這個名"
+        },
+        {
+          "title": "【科技早餐】台積電、Sony 傳砸 1 兆日圓，蘋果測試中國長鑫 DRAM",
+          "link": "https://techorange.com/2026/08/11/https-techorange-com-2026-08-10-tsmc-sony-image-sensor-apple-cxmt-dram/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-10T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Sony、台積電傳砸 1 兆日圓，熊本合資量產新一代影像感測器 《日本經濟新聞》報導，Sony 與台積電計畫共同投資約 1 兆日圓，在日本熊本開發及製造新一代影像感測器晶片。合資公司預計由 Sony 持股約 60%、台積電持股約 40%，最快在 2029 年開始商業量產。這筆投資約合 63 億美元，相當於台積電熊本第一座晶圓廠總投資額的七成以上，"
+        },
+        {
+          "title": "【劉永信專欄】Jeff Dean 離開 Google 那天，AI 的下一個時代開始了",
+          "link": "https://techorange.com/2026/08/10/jeff-dean-ai-discovery-loop-google/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-10T09:47:35+00:00",
+          "summary": "文 / CloudMile 萬里雲集團創辦人暨董事長劉永信 我一直相信一件事，那就是擁有「極度專注力」，本身就是一種非常強大的能力。 近期大家應該知道，一位大神離開 Google 創業，我想聊一下，當一個人已經站在產業的最高點，為什麼還願意離開，去賭一個還沒有答案的未來？ 大家可能很久沒有聽到 Jeff Dean 這個名字了，他在 Google 內部被視為傳奇般的存在。Business Insid"
+        },
+        {
+          "title": "高爐更新停機縮短 30 天、冰水主機效能提升 10%，西門子揭 AI 與數位雙生如何幫工廠真正降本增效",
+          "link": "https://techorange.com/2026/08/10/siemens-podcast/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-10T09:33:07+00:00",
+          "summary": "專訪：戴季全撰稿：李昀蔚 AI、數位雙生與 Physical AI（實體 AI）正加速走進製造現場，隨著晶片持續微縮、製程愈來愈複雜，企業一方面要追求更高良率、更快上市速度與更高生產效率，另一方面還得同時面對缺工、地緣政治、關稅與 ESG 等多重壓力，這也讓電子、高科技製造業的競爭模式，從單純比拚產能，走向速度、效率與韌性的綜合競賽。 本集《全新一週》邀請台灣西門子數位工業半導體產業協理朱軒逸，以"
         }
       ]
     },
@@ -36,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "孤獨，為什麼不只是情緒問題，還會影響身體、心理、財務健康？",
-          "link": "https://www.gvm.com.tw/article/132117",
-          "published": "2026-08-10T00:00:00",
-          "summary": "晚婚、不婚、少子化與高齡化，正在改變台灣人的社會結構及居住樣貌，「一個人生活」逐漸成為越來越多民眾的日常型態，獨居人口增加與社會支持網絡改變，也讓孤獨感與社會孤立逐漸成為重要社會議題。國泰人壽攜手「遠見民意研究調查」發布《2026國泰人壽人生風險趨勢調查白皮書》，調查結果顯示孤獨已不只是情緒問題，更可能影響身體、心理、財務健康，逐漸成為當代不可忽視的人生風險課題。目錄● 孤獨為什麼會影響身體、心理"
+          "title": "美國宗教組織收入超過蘋果加微軟營收？當信仰成為一門「神聖經濟」",
+          "link": "https://www.gvm.com.tw/article/132202",
+          "published": "2026-08-10T19:07:00",
+          "summary": "宗教如今是一門大生意──2016年有項研究估計，美國宗教組織的收入相當於3780億美元。這是一筆巨額金流，甚至超過同年蘋果和微軟兩家公司的營收總和，更超過美國當年全國個人收入加總的2％。這筆錢相當於媒體和娛樂產業（電影、遊戲、書籍、音樂等等）收入的60％，也等於全美國所有餐廳總收入的一半。（本文節錄自《神聖經濟》一書，作者：保羅‧席布萊特／時報出版，以下為摘文。）這數字還沒算入宗教組織成員投入的時"
         },
         {
-          "title": "台東最美文化地標",
-          "link": "https://www.gvm.com.tw/article/132056",
-          "published": "2026-08-10T00:00:00",
-          "summary": "有人開玩笑地說，若當年台東有這樣的圖書館， 人生或許會不一樣。未來，也許會有年輕人：「那些年，我在台東總圖讀書，從開館讀到閉館。」絕美！台東最熱門的打卡景點「縣立圖書館」。建築外觀如山脈般展開，透過多層次的斜面造型，搭配溫潤的木格柵，讓建築主體呈現出如山間雲霧繚繞般的輕盈感，圖書館像是從大地生長出來的知識森林。從設計到完工，整整歷經13年19次流標。2020年台東縣政府將原先規劃的泳圖共構改為分構"
+          "title": "你每次切換任務，都在耗費時間：研究證實「身兼多職」75%工作產出是瞎忙",
+          "link": "https://www.gvm.com.tw/article/132200",
+          "published": "2026-08-10T18:36:00",
+          "summary": "你以為同時處理多項工作，代表效率高、能力強？事實可能恰恰相反。從開車講電話到同時推進多個專案，「多工」看似省時，卻會讓大腦不斷付出任務切換成本，時間與專注力也在不知不覺中流失。真正高效的工作方式，不是把事情全部攤開一起做，而是一次專注完成一件事。少一點瞎忙，才能把時間真正用在有價值的工作上。（本文節錄自《SCRUM》一書，作者：傑夫．薩瑟蘭，J. J. 薩瑟蘭／天下文化出版，以下為摘文。）一次只做"
         },
         {
-          "title": "全面科技化！雲林打造營建污染防制新典範 AI智慧監控、3D建模、數位管理  建構智慧管理新模式",
-          "link": "https://www.gvm.com.tw/article/132034",
-          "published": "2026-08-10T00:00:00",
-          "summary": "當工地管理不再是仰賴人工巡檢，而是運用、空拍建模與數位戰情平台全天候監控，營建工程污染治理正迎來全新模式。近年來，雲林縣率全國之先，持續導入人工智慧、物聯網及3D建模等科技，建構完整的智慧工地管理系統，不僅提升污染防制效率，更連續多年締造中央考核「零缺失」紀錄，成為全台營建工程智慧治理的重要標竿。營建工程是城市建設的重要推手，卻也是空氣污染的來源之一。工地揚塵、車輛進出、裸露地及物料堆置等施工行為"
+          "title": "漢光演習7大新看點：淡江大橋為何怕被共軍掌握？",
+          "link": "https://www.gvm.com.tw/article/132199",
+          "published": "2026-08-10T18:27:00",
+          "summary": "今年漢光演習除了首度行動網路降速外，相較往年，更格外重視軍民合作，甚至國防部軍備局生產製造中心第202廠，還首度實施「戰時產線疏遷暨動員工廠生產轉換演練」，模擬民間動員工廠接手軍需生產，確保暫時不斷炊。專家盤點，今年漢光演習相較往年，共有7個新看點，而從這7個看點，也可看出國軍在兩岸對抗局勢加劇下，如何對未來的台海戰場進行準備。8月5日至14日進行的漢光演習，根據國防部釋出的資料，主要演練9個訓練"
         },
         {
-          "title": "張作錦憶別高希均：50年的作者和朋友，再見了！",
-          "link": "https://www.gvm.com.tw/article/132173",
-          "published": "2026-08-09T15:13:00",
-          "summary": "【編按】與高希均教授創辦《天下雜誌》與《遠見雜誌》的共同創辦人之一張作錦，撰文追思50年好友高希均。張作錦在擔任《聯合報》總編輯期間，曾慧眼獨具邀請高希均撰寫專欄評論，高希均遂以〈天下哪有白吃的午餐？〉與〈決策錯誤比貪汙更可怕〉等宏文，開創台灣公共知識份子的先河，其新穎觀念撼動台灣社會，並影響政策走向。94歲的張作錦娓娓道來兩人從相識、共創《天下雜誌》，到後續推動《遠見雜誌》的歷程。他認為高教授一"
+          "title": "AI代理開始「使壞」？從冒充者到逃脫者，六大失控行為曝光",
+          "link": "https://www.gvm.com.tw/article/132198",
+          "published": "2026-08-10T18:04:00",
+          "summary": "OpenAI、Anthropic等AI公司，近期接連爆出AI代理失控事件，從冒充人類、欺騙、植入惡意程式，甚至突破沙盒環境等案例。揭示AI代理在獲得更多權限與工具後，可能採取非預期策略，也凸顯AI安全、監控、權限管理與監管機制的重要性。近來，數起人工智慧（AI）失控事件引發安全疑慮，例如，美國OpenAI表示，旗下AI代理曾自主突破隔離沙盒（sandbox）環境，攻破美國開源AI平台「Huggin"
         },
         {
-          "title": "周行一追憶高希均：天底下找不到的舅舅",
-          "link": "https://www.gvm.com.tw/article/132172",
-          "published": "2026-08-09T14:17:00",
-          "summary": "【編按】前政大校長周行一撰文追思舅舅——高希均教授。除了社會大眾所熟知的經濟學者與出版家，周行一從家族後輩的角度，感念高希均在私領域中對親人的溫暖關照。從傾力照顧姊妹、支撐家族，到以溫煦智慧提點後輩求學與做人道理，高希均不僅影響了無數讀者，更深刻指引了整個家族的命運。周行一的字裡行間充滿思念，從中映照出一代知識份子的身教典範。高希均教授於6日過世，大眾對於高教授對社會的貢獻因為媒體的報導與眾多紀念"
+          "title": "台海開戰海纜斷了手機怎麼用？漢光演習「網路降速演練」全解析",
+          "link": "https://www.gvm.com.tw/article/132196",
+          "published": "2026-08-10T17:13:00",
+          "summary": "為了強化台灣社會韌性，今年漢光42號演習登場的「2026城鎮韌性演習」，首度於今（10）日與13日（週四）的下午2點半至3點，分別在北部、中部實施30分鐘的「行動網路降速演練」，這項模擬暫時通訊受阻的壓力測試，因為影響許多民眾日常生活的便利性，在網路上引起熱烈討論。到底這項演練，模擬未來台海戰爭的什麼情境？「行動網路降速演練」，選定10日的下午2點半至3點，在苗栗、台中、南投、彰化、雲林、嘉義等中"
         },
         {
-          "title": "不管賺多少錢都一樣！不適用K型經濟，調查：各種收入的Z世代都在揮霍",
-          "link": "https://www.gvm.com.tw/article/132158",
-          "published": "2026-08-09T11:00:00",
-          "summary": "萬物皆漲、生活成本節節攀升，近年全球經濟呈現明顯的「K 型分化」，高收入族群持續消費，低收入者則被迫縮減支出。然而，美國銀行最新研究卻發現，有一個世代打破這項規律，就是 Z 世代。每個世代年輕時都曾衝動消費，但&nbsp;Z&nbsp;世代的消費邏輯更重視情緒價值與體驗。他們容易受到社群媒體影響，對成家、買房等傳統人生目標沒有前幾代人那麼急迫，消費也因此成為生活的重要重心。美國銀行最新報告顯示，Z"
+          "title": "8月ETF配息排行榜出爐！「這幾檔」年化配息率最高逾17％",
+          "link": "https://www.gvm.com.tw/article/132195",
+          "published": "2026-08-10T16:52:00",
+          "summary": "台股近期進入「高檔震盪」格局，美伊戰事、關稅議題及美國財政赤字等政經情勢，都持續牽動投資市場的敏感神經，也讓台股在過去一個月以來，常有動輒一日千點的漲跌幅。這讓投資人開始思考如何調整資產配置，來面對黑天鵝「亂世」，不少人將目光轉回可穩定領息的ETF，但是，在暴漲暴跌的市場中，現在適合積極搶進高股息ETF嗎？今年8月以來，多檔包括月配息、季配型及半年配的ETF陸續公布除息資訊，其中，不乏有ETF的年"
         }
       ]
     },
@@ -78,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "去年春天在金光會展舉行的澳門國際環保合作發展論壇及展覽(MIECF)，已連續第四年實現“<b>碳</b> ...",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.macaodaily.com/html/2026-08/10/content_1926188.htm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0Z7W0hEYZTAIcpFoEWzpB_",
-          "published": "2026-08-09T22:05:49+00:00",
-          "summary": "國際標準為“碳中和”訂明嚴格次序：首先深度減排，節能提效、改用低碳物料；其次改變能源結構，以綠色電力證書為憑消除用電排放；最後對剩餘排放購買核證碳信用抵&nbsp;..."
+          "title": "減碳有成！桃園<b>淨零</b>自治條例施行滿週年碳排量減少23％ 邁向綠色宜居城市 - Yahoo新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E6%25B8%259B%25E7%25A2%25B3%25E6%259C%2589%25E6%2588%2590-%25E6%25A1%2583%25E5%259C%2592%25E6%25B7%25A8%25E9%259B%25B6%25E8%2587%25AA%25E6%25B2%25BB%25E6%25A2%259D%25E4%25BE%258B%25E6%2596%25BD%25E8%25A1%258C%25E6%25BB%25BF%25E9%2580%25B1%25E5%25B9%25B4-%25E7%25A2%25B3%25E6%258E%2592%25E9%2587%258F%25E6%25B8%259B%25E5%25B0%259123-%25E9%2582%2581%25E5%2590%2591%25E7%25B6%25A0%25E8%2589%25B2%25E5%25AE%259C%25E5%25B1%2585%25E5%259F%258E%25E5%25B8%2582-022847030.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3ysRLHUA1F1M__0mAMaXxh",
+          "published": "2026-08-11T02:34:23+00:00",
+          "summary": "顏己喨指出，自治條例涵蓋產業綠能、住商節能、綠色交通及淨零生活四大面向，並納入氣候變遷調適專章，除降低溫室氣體排放，也強化城市面對極端氣候的韌性。"
         },
         {
-          "title": "（如是我聞）熱 - 澳門日報電子版",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.macaodaily.com/html/2026-08/10/content_1926097.htm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Ka6QIdrpkyOsvtlPrx7or",
-          "published": "2026-08-09T22:03:50+00:00",
-          "summary": "熱. 早前看印度新聞，初夏氣溫直破五十攝氏度，貧民區傳出熱死個案。極端高溫，不再是科學家遙遠的預警，氣候變遷的代價，正由底層人群親身承受。"
+          "title": "歐洲熱浪頻襲釀數千億歐元損失數億人面臨缺水衝擊 - 商傳媒",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://sunmedia.tw/news/finance/1786402601-%25E6%25AD%2590%25E6%25B4%25B2%25E7%2586%25B1%25E6%25B5%25AA%25E9%25A0%25BB%25E8%25A5%25B2%25E9%2587%2580%25E6%2595%25B8%25E5%258D%2583%25E5%2584%2584%25E6%25AD%2590%25E5%2585%2583%25E6%2590%258D%25E5%25A4%25B1%2520%25E6%2595%25B8%25E5%2584%2584%25E4%25BA%25BA%25E9%259D%25A2%25E8%2587%25A8%25E7%25BC%25BA%25E6%25B0%25B4%25E8%25A1%259D%25E6%2593%258A&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0VjbpeoEU1pclzqCpzstnF",
+          "published": "2026-08-10T23:32:28+00:00",
+          "summary": "希臘與西班牙則因乾燥狀況引發新的森林大火。瑞士、奧地利與匈牙利也預報將出現異常高溫。歐盟氣候觀測計畫哥白尼計劃（Copernicus）的數據顯示，去年七月，法國&nbsp;..."
         },
         {
-          "title": "台新新光<b>淨零</b>論壇逾2500企業高層參與 - Yahoo新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%258F%25B0%25E6%2596%25B0%25E6%2596%25B0%25E5%2585%2589%25E6%25B7%25A8%25E9%259B%25B6%25E8%25AB%2596%25E5%25A3%2587-%25E9%2580%25BE2500%25E4%25BC%2581%25E6%25A5%25AD%25E9%25AB%2598%25E5%25B1%25A4%25E5%258F%2583%25E8%2588%2587-201000889.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3Y-vBEUwqCyQpkLt_zu4e3",
-          "published": "2026-08-09T21:53:24+00:00",
-          "summary": "... 淨零台灣、韌性家園」的願景，也呼籲面對氣候變遷議題，沒有人是局外人，相信每一個人都可以「From Zero to Hero」，成為化解氣候危機的英雄。 廣告. 廣告."
+          "title": "2026能源經濟與碳達峰<b>碳中和</b>高質量發展論壇",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=http://finance.people.com.cn/BIG5/8215/461663/462528/index.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0kiSzNfDEaYAtb2jgPjAof",
+          "published": "2026-08-10T23:21:44+00:00",
+          "summary": "2026能源經濟與碳達峰碳中和高質量發展論壇舉行. 《榆林能源革命創新示范區 ... 近期印發的《新型能源體系建設“十五五”規劃》《國家應對氣候變化“十五五&nbsp;..."
         },
         {
-          "title": "台新新光金辦<b>淨零</b>論壇",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/article/181623009&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3FNM7okTCbeXzDe80_RHDd",
-          "published": "2026-08-09T20:52:16+00:00",
-          "summary": "台新新光金（2887）偕同中華民國工商協進會、台新銀行、新光人壽、台新證券及台新投信於8月7日共同舉辦「2026台新新光淨零高峰論壇」，由國發會主委葉俊顯、&nbsp;..."
+          "title": "乾旱火災烈日炎炎歐洲人有生以來從未經歷過這樣的氣候？ - RFI",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rfi.fr/tw/%25E4%25B8%25AD%25E5%259C%258B/20260810-%25E4%25B9%25BE%25E6%2597%25B1-%25E7%2581%25AB%25E7%2581%25BD-%25E7%2583%2588%25E6%2597%25A5%25E7%2582%258E%25E7%2582%258E-%25E6%25AD%2590%25E6%25B4%25B2%25E4%25BA%25BA%25E6%259C%2589%25E7%2594%259F%25E4%25BB%25A5%25E4%25BE%2586%25E5%25BE%259E%25E6%259C%25AA%25E7%25B6%2593%25E6%25AD%25B7%25E9%2581%258E%25E9%2580%2599%25E6%25A8%25A3%25E7%259A%2584%25E6%25B0%25A3%25E5%2580%2599&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3p8orIkS9lJJDSaGDil-ke",
+          "published": "2026-08-10T23:13:47+00:00",
+          "summary": "同時，根據歐洲氣候變化觀測站周一在其月度公報中提供的數據，2026年7月，全球海洋溫度也達到了該月有史以來的最高水平。 哥白尼氣候變化服務局主任卡洛·布&nbsp;..."
         },
         {
-          "title": "【Emily】4種蝴蝶出沒率跌環團：或關氣候變化- 20260810 - 港聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.mingpao.com/pns/%25E6%25B8%25AF%25E8%2581%259E/article/20260810/s00002/1786298077553/%25E3%2580%2590emily%25E3%2580%25914%25E7%25A8%25AE%25E8%259D%25B4%25E8%259D%25B6%25E5%2587%25BA%25E6%25B2%2592%25E7%258E%2587%25E8%25B7%258C-%25E7%2592%25B0%25E5%259C%2598-%25E6%2588%2596%25E9%2597%259C%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E5%258C%2596&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw05P2Hpfaz75lztOhE_FOEP",
-          "published": "2026-08-09T20:38:25+00:00",
-          "summary": "【明報專訊】環團綠色力量於去年2月「立春」至今年1月「大寒」期間喺兩個蝴蝶熱點做「節氣觀蝶調查」，發現有4個物種蝴蝶嘅出沒率呈下跌趨勢，當中不常見嘅&nbsp;..."
+          "title": "美7月創史上最熱紀錄<b>氣候變遷</b>推升高溫 - ETtoday",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ettoday.net/news/20260811/3216910.htm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2spVdarpIl7wPU5hJ4cxuB",
+          "published": "2026-08-10T21:49:29+00:00",
+          "summary": "美國國家海洋暨大氣總署（NOAA）10日表示，2026年7月成為美國本土有紀錄以來最熱的一個月，平均氣溫達華氏76.9度（攝氏24.9度），打破1936年7月維持90年的&nbsp;..."
         },
         {
-          "title": "台新新光<b>淨零</b>論壇逾2500企業高層參與",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/newspapers/20260810000478-260110&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0ZvCIVveQOTAO9sWPxK6oI",
-          "published": "2026-08-09T20:32:23+00:00",
-          "summary": "台新新光金控偕同中華民國工商協進會、台新銀行、新光人壽、台新證券及台新投信7日共同舉辦「2026台新新光淨零高峰論壇」，國發會主委葉俊顯、環境部長彭&nbsp;..."
+          "title": "美國7月均溫創紀錄<b>氣候變遷</b>加劇升溫 - RFI",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rfi.fr/tw/%25E5%259C%258B%25E9%259A%259B%25E5%25A0%25B1%25E9%2581%2593/20260810-%25E7%25BE%258E%25E5%259C%258B7%25E6%259C%2588%25E5%259D%2587%25E6%25BA%25AB%25E5%2589%25B5%25E7%25B4%2580%25E9%258C%2584-%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E5%258A%25A0%25E5%258A%2587%25E5%258D%2587%25E6%25BA%25AB&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw05Q7GN0zwiwk19LnrWqAME",
+          "published": "2026-08-10T19:43:21+00:00",
+          "summary": "（法新社華盛頓10日電） 美國國家海洋暨大氣總署（NOAA）今天表示，2026年7月是美國本土有紀錄以來最熱的月份，延續近期由人類造成的氣候變遷所推動的升溫&nbsp;..."
         }
       ]
     }
