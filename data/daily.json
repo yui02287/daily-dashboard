@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-11T03:03:15.358543+00:00",
-    "date": "2026-08-11",
+    "generated_at": "2026-08-12T03:22:38.686402+00:00",
+    "date": "2026-08-12",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "番茄醬巨頭要讓 AI 代理堵現金流破洞：目標一年多追回 15% 資金",
-          "link": "https://techorange.com/2026/08/11/kraft-heinz-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-11T01:49:31+00:00",
-          "summary": "旗下有番茄醬、芥末醬產品的美國食品巨頭卡夫亨氏（Kraft Heinz）近日宣布擴大與數位轉型服務商 Genpact 的合作，雙方將基於 Microsoft Azure 雲端平台建置 AI 驅動的應收帳款管理系統，透過 AI 代理人（AI Agents）自動處理扣款（Deduction）管理流程，希望改善過去仰賴人工作業所造成的效率瓶頸與營收流失，並提升企業對整體現金流的掌握能力。 繁瑣扣款流程拖"
+          "title": "4 成銷售被 AI 書拿走：一份 1.4 萬本小說研究，揭開市場「稀釋效應」",
+          "link": "https://techorange.com/2026/08/12/books-with-detectable-ai-text/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-12T01:49:47+00:00",
+          "summary": "生成式 AI 寫出來的書，常被貼上「slop」的標籤，也就是低品質、公式化的垃圾內容，一般認為讀者看一眼就會略過，在商業上根本無足輕重。過去探討 AI 與創意工作的研究，也大多繞著同一個問題打轉，就是 AI 產出的東西，到底好不好到能取代人類。 但一份分析 Amazon 逾 1.4 萬本自出版類型小說的研究，給出不一樣的觀察角度：AI 撼動這個市場，靠的根本不是品質。這些含有 AI 文字的作品，單"
         },
         {
-          "title": "【機器人電池革命】追求連續運作 8 小時，固態電池、換電、超快充三條路並行",
-          "link": "https://techorange.com/2026/08/11/solid-state-battery-robot-tco-sk-on/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-11T01:19:20+00:00",
-          "summary": "韓國電池製造商 SK On 表示，若選擇採用固態電池取代鋰離子電池，那麼機器人身上電池所佔的製造成本，將會 2% 上升到 8%，因此企業考慮的總體擁有成本（TCO）將是關鍵。"
+          "title": "【科技早餐】台積電 CoWoS 2029 年挑戰 14 倍以上，Microsoft 傳洽談逾 30 萬顆 AI 晶片產能",
+          "link": "https://techorange.com/2026/08/12/tsmc-cowos-microsoft-maia-300-ai-chip-capacity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-11T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊台積電 5.5 倍光罩 CoWoS 量產，2029 年挑戰 14 倍以上 台積電先進封裝技術暨服務副總經理何軍表示，相當於單一光罩面積 5.5 倍的 CoWoS 先進封裝已進入量產，多家 AI 客戶產品的良率穩定超過 98%，部分更達到 99%。封裝面積擴大後，單一封裝可整合更多運算晶片與高頻寬記憶體，讓客戶透過多顆小晶片整合，持續提高運算能力與"
         },
         {
-          "title": "【阿布達比的 AI 原生政府】不只是政務 App，TAMM 把 AI 嵌入每一項日常行政服務",
-          "link": "https://techorange.com/2026/08/11/abu-dhabi/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-11T01:19:02+00:00",
-          "summary": "當多數國家仍在討論人工智慧應如何監管、哪些行政流程可以導入 AI 時，阿布達比已經把 AI 放進政府的日常運作中。 對當地居民而言，人工智慧不只是回答問題的聊天機器人，而是一套會主動更新證件、預約醫療服務、處理車輛登記，甚至繳納停車罰款的行政系統。這套系統的入口，是名為 TAMM 的政府服務平台。 TAMM：不只是政務 App，而是主動代辦的政府 TAMM 在阿拉伯語中意為「事情已經辦妥」，這個名"
+          "title": "Cloudflare Wallets 讓 AI Agent 自主付款：為何網路基礎設施商也開始做支付？",
+          "link": "https://techorange.com/2026/08/11/cloudflare-wallets-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-11T09:05:12+00:00",
+          "summary": "AI Agent 會搜尋資料、寫程式、呼叫 API，但當它需要付費使用服務，往往仍得交回人類操作。美國網路基礎設施巨頭 Cloudflare 近日推出 Cloudflare Wallets，讓 AI Agent 能持有穩定幣，自主購買 API、MCP 工具與內容，正試圖解決這個斷點。 Cloudflare Wallets 分為 Account Wallet 與 Virtual Wallet：前者由"
         },
         {
-          "title": "【科技早餐】台積電、Sony 傳砸 1 兆日圓，蘋果測試中國長鑫 DRAM",
-          "link": "https://techorange.com/2026/08/11/https-techorange-com-2026-08-10-tsmc-sony-image-sensor-apple-cxmt-dram/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-10T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Sony、台積電傳砸 1 兆日圓，熊本合資量產新一代影像感測器 《日本經濟新聞》報導，Sony 與台積電計畫共同投資約 1 兆日圓，在日本熊本開發及製造新一代影像感測器晶片。合資公司預計由 Sony 持股約 60%、台積電持股約 40%，最快在 2029 年開始商業量產。這筆投資約合 63 億美元，相當於台積電熊本第一座晶圓廠總投資額的七成以上，"
+          "title": "2026 台北國際自動化工業大展｜Moxa 打造工業 AI 網路底座，從控制網路到資安治理全面布局",
+          "link": "https://techorange.com/2026/08/11/automationtaipei2026-moxa-amr/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-11T08:25:01+00:00",
+          "summary": "隨著製造業加速導入 AI、機器人與自主移動設備（AMR），製造現場對於網路基礎設施的要求已不再只是「連得上」，更要讓數據直接參與生產控制，因此具備可靠性、高可視化與高資安韌性的工業網路成為智慧升級的剛需。工業通訊及網路設備領導商四零四科技（Moxa）將於 2026 台北國際自動化工業大展上，以「強韌聯網 智協未來」為主題，從工業網路、無線通訊、邊緣運算到符合國際標準的資安治理體系與 OT 維運服務"
         },
         {
-          "title": "【劉永信專欄】Jeff Dean 離開 Google 那天，AI 的下一個時代開始了",
-          "link": "https://techorange.com/2026/08/10/jeff-dean-ai-discovery-loop-google/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-10T09:47:35+00:00",
-          "summary": "文 / CloudMile 萬里雲集團創辦人暨董事長劉永信 我一直相信一件事，那就是擁有「極度專注力」，本身就是一種非常強大的能力。 近期大家應該知道，一位大神離開 Google 創業，我想聊一下，當一個人已經站在產業的最高點，為什麼還願意離開，去賭一個還沒有答案的未來？ 大家可能很久沒有聽到 Jeff Dean 這個名字了，他在 Google 內部被視為傳奇般的存在。Business Insid"
+          "title": "Nissan 用 AI 分析工人姿勢防職災，省下 3,400 萬美元：員工為何從抗拒變歡迎？",
+          "link": "https://techorange.com/2026/08/11/nissan-ai-camera/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-11T07:00:00+00:00",
+          "summary": "走進 Nissan 位於美國密西西比州的 Canton 裝配廠，在 Altima 房車與 Frontier 皮卡繁忙的生產線上，無數個搭載 AI 的攝影鏡頭正默默運作，細心觀察每一位員工的動作細節。 這套看似嚴密的監管系統，在 Nissan 眼中其實是一項兼顧效益與關懷的科技投資。這套系統不僅為公司省下數百萬美元，更實質保障第一線工廠員工的身體健康與安全。面對科技進駐生產現場可能引發的監控與搶工作"
         },
         {
-          "title": "高爐更新停機縮短 30 天、冰水主機效能提升 10%，西門子揭 AI 與數位雙生如何幫工廠真正降本增效",
-          "link": "https://techorange.com/2026/08/10/siemens-podcast/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-10T09:33:07+00:00",
-          "summary": "專訪：戴季全撰稿：李昀蔚 AI、數位雙生與 Physical AI（實體 AI）正加速走進製造現場，隨著晶片持續微縮、製程愈來愈複雜，企業一方面要追求更高良率、更快上市速度與更高生產效率，另一方面還得同時面對缺工、地緣政治、關稅與 ESG 等多重壓力，這也讓電子、高科技製造業的競爭模式，從單純比拚產能，走向速度、效率與韌性的綜合競賽。 本集《全新一週》邀請台灣西門子數位工業半導體產業協理朱軒逸，以"
+          "title": "解除 AI 資安封印：OpenAI 擴大 Daybreak 計畫推「紅藍雙軌」，降低防禦任務拒絕率",
+          "link": "https://techorange.com/2026/08/11/open-ai-daybreak-cybersecurity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-11T05:16:24+00:00",
+          "summary": "OpenAI 宣布擴大網路安全計畫 Daybreak，進一步為參與企業提供防禦網路攻擊所需的 AI 能力。《CNBC》報導，OpenAI 今年 5 月首次推出 Daybreak，當時競爭對手 Anthropic 才剛成立網路安全聯盟 Project Glasswing，引發華爾街及美國政府關注。這次，OpenAI 希望讓合作夥伴運用旗下最先進的 AI 模型，因應日益快速變化的網路安全威脅。 Ope"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "美國宗教組織收入超過蘋果加微軟營收？當信仰成為一門「神聖經濟」",
-          "link": "https://www.gvm.com.tw/article/132202",
-          "published": "2026-08-10T19:07:00",
-          "summary": "宗教如今是一門大生意──2016年有項研究估計，美國宗教組織的收入相當於3780億美元。這是一筆巨額金流，甚至超過同年蘋果和微軟兩家公司的營收總和，更超過美國當年全國個人收入加總的2％。這筆錢相當於媒體和娛樂產業（電影、遊戲、書籍、音樂等等）收入的60％，也等於全美國所有餐廳總收入的一半。（本文節錄自《神聖經濟》一書，作者：保羅‧席布萊特／時報出版，以下為摘文。）這數字還沒算入宗教組織成員投入的時"
+          "title": "哥倫比亞7.4地震已釀132死！醫院倒塌、教堂受損...救援人員瓦礫堆中搶命",
+          "link": "https://www.gvm.com.tw/article/132205",
+          "published": "2026-08-11T19:25:00",
+          "summary": "哥倫比亞西部發生規模7.4強震，造成至少132人死亡、570人受傷，志工和緊急救援人員爭分奪秒，在瓦礫堆中搶救受困民眾。綜合美國有線電視新聞網（CNN）和法新社報導，倒塌建築包括卡利市（Cali）一間醫院的兒科及新生兒病房。哥國政府宣布進入國家災難狀態，並派遣軍人前往災區。震央位於哥倫比亞西部沿海的喬可省（Choco）聖荷西德帕爾馬（San Jose del Palmar）附近，距離240多公里的"
         },
         {
-          "title": "你每次切換任務，都在耗費時間：研究證實「身兼多職」75%工作產出是瞎忙",
-          "link": "https://www.gvm.com.tw/article/132200",
-          "published": "2026-08-10T18:36:00",
-          "summary": "你以為同時處理多項工作，代表效率高、能力強？事實可能恰恰相反。從開車講電話到同時推進多個專案，「多工」看似省時，卻會讓大腦不斷付出任務切換成本，時間與專注力也在不知不覺中流失。真正高效的工作方式，不是把事情全部攤開一起做，而是一次專注完成一件事。少一點瞎忙，才能把時間真正用在有價值的工作上。（本文節錄自《SCRUM》一書，作者：傑夫．薩瑟蘭，J. J. 薩瑟蘭／天下文化出版，以下為摘文。）一次只做"
+          "title": "傅崐萁缺席、國民黨團一度不簽朝野協商結論...韓國瑜罕見動怒",
+          "link": "https://www.gvm.com.tw/article/132224",
+          "published": "2026-08-11T19:10:00",
+          "summary": "立法院朝野黨團今天下午完成115年度中央政府總預算案協商，不過，立法院長韓國瑜不滿國民黨立法院黨團幹部一度不願在朝野協商結論簽字，再次動怒大罵「敬酒不喝喝罰酒」，如果不簽字，後果自行負責；告訴國人要延會到8月底，結果一事無成，怎麼跟國人交代。今年度中央政府總預算案遲至現在，都尚未三讀，明年度總預算案即將在8月底前送抵立法院。韓國瑜在上個月朝野協商時，曾預定在8月7日前讓總預算案完成三讀，但因朝野意"
         },
         {
-          "title": "漢光演習7大新看點：淡江大橋為何怕被共軍掌握？",
-          "link": "https://www.gvm.com.tw/article/132199",
-          "published": "2026-08-10T18:27:00",
-          "summary": "今年漢光演習除了首度行動網路降速外，相較往年，更格外重視軍民合作，甚至國防部軍備局生產製造中心第202廠，還首度實施「戰時產線疏遷暨動員工廠生產轉換演練」，模擬民間動員工廠接手軍需生產，確保暫時不斷炊。專家盤點，今年漢光演習相較往年，共有7個新看點，而從這7個看點，也可看出國軍在兩岸對抗局勢加劇下，如何對未來的台海戰場進行準備。8月5日至14日進行的漢光演習，根據國防部釋出的資料，主要演練9個訓練"
+          "title": "AI是「翻身聯考」？人才專家：打造「最能解決問題」的AI台灣",
+          "link": "https://www.gvm.com.tw/article/132223",
+          "published": "2026-08-11T18:47:00",
+          "summary": "台灣人工智慧學校執行長陳伶志指出，AI正成為繼聯考之後，新一代最公平的階級流動手段。2025年底，一張「台灣AI國力」的成績單出爐。根據英國《觀察家報》對全球93國的AI指數調查，台灣一年之內從第21名衝到第16名，是亞洲進步最快的國家之一。其中，政府策略全球第八名、基礎建設第七名，這兩科考得不錯。然後，漂亮成績單的旁邊，躺著三個略顯難看的紅字：人才第33、商業生態第30、發展能力第27。台灣人工"
         },
         {
-          "title": "AI代理開始「使壞」？從冒充者到逃脫者，六大失控行為曝光",
-          "link": "https://www.gvm.com.tw/article/132198",
-          "published": "2026-08-10T18:04:00",
-          "summary": "OpenAI、Anthropic等AI公司，近期接連爆出AI代理失控事件，從冒充人類、欺騙、植入惡意程式，甚至突破沙盒環境等案例。揭示AI代理在獲得更多權限與工具後，可能採取非預期策略，也凸顯AI安全、監控、權限管理與監管機制的重要性。近來，數起人工智慧（AI）失控事件引發安全疑慮，例如，美國OpenAI表示，旗下AI代理曾自主突破隔離沙盒（sandbox）環境，攻破美國開源AI平台「Huggin"
+          "title": "漢光演習外媒怎看？點名「這地」成共軍首波目標，恐24小時內喪失作戰能力",
+          "link": "https://www.gvm.com.tw/article/132222",
+          "published": "2026-08-11T18:27:00",
+          "summary": "台灣展開為期10天9夜的漢光演習，美國商業內幕10日引述法籍駐台研究員布蘭丁指出，台灣幻象2000-5戰機主要駐地新竹基地距離中國大陸僅約144公里，一旦爆發全面戰爭，將是解放軍最早鎖定、摧毀或癱瘓的台灣軍事基地之一，甚至可能在第一波飛彈攻擊後24小時內喪失作戰能力。報導指出，台灣軍方7日模擬新竹空軍基地設施遭中國長程飛彈或火箭攻擊，地勤部隊隨即使用推土機及平地機清除跑道殘骸、填補混凝土跑道上的彈"
         },
         {
-          "title": "台海開戰海纜斷了手機怎麼用？漢光演習「網路降速演練」全解析",
-          "link": "https://www.gvm.com.tw/article/132196",
-          "published": "2026-08-10T17:13:00",
-          "summary": "為了強化台灣社會韌性，今年漢光42號演習登場的「2026城鎮韌性演習」，首度於今（10）日與13日（週四）的下午2點半至3點，分別在北部、中部實施30分鐘的「行動網路降速演練」，這項模擬暫時通訊受阻的壓力測試，因為影響許多民眾日常生活的便利性，在網路上引起熱烈討論。到底這項演練，模擬未來台海戰爭的什麼情境？「行動網路降速演練」，選定10日的下午2點半至3點，在苗栗、台中、南投、彰化、雲林、嘉義等中"
+          "title": "一起過日子、養育孩子卻不再親密？諮商心理師：5個指標覺察伴侶關係",
+          "link": "https://www.gvm.com.tw/article/132221",
+          "published": "2026-08-11T18:14:00",
+          "summary": "我們在一起，卻受困在各自的心裡，只談生活，避談內心──「親密疏離」是伴侶下意識的共謀，更是傷害關係的隱形殺手。不再爭吵，以為更親密了，不說破，和諧就不會被打破……我們盡己所能地守護著彼此，為什麼卻漸行漸遠？「親密疏離」的僵局，因何而來？如何脫困？（本文節錄自《兩個人更孤單》一書，作者：羅子琦／寶瓶文化出版，以下為摘文。）一段關係，從開始認識、接觸、交往，在可能進入婚姻、生子、育兒等過程中，彼此會生"
         },
         {
-          "title": "8月ETF配息排行榜出爐！「這幾檔」年化配息率最高逾17％",
-          "link": "https://www.gvm.com.tw/article/132195",
-          "published": "2026-08-10T16:52:00",
-          "summary": "台股近期進入「高檔震盪」格局，美伊戰事、關稅議題及美國財政赤字等政經情勢，都持續牽動投資市場的敏感神經，也讓台股在過去一個月以來，常有動輒一日千點的漲跌幅。這讓投資人開始思考如何調整資產配置，來面對黑天鵝「亂世」，不少人將目光轉回可穩定領息的ETF，但是，在暴漲暴跌的市場中，現在適合積極搶進高股息ETF嗎？今年8月以來，多檔包括月配息、季配型及半年配的ETF陸續公布除息資訊，其中，不乏有ETF的年"
+          "title": "AI救得了少子化嗎？國發會副主委：關鍵不在產房，在辦公室",
+          "link": "https://www.gvm.com.tw/article/132220",
+          "published": "2026-08-11T18:10:00",
+          "summary": "一份橫跨38國的研究發現，夫妻倆一週只要有一天在家上班，生育率就可能多出約一成四。當各國苦於少子化，每年砸下重金發放育兒津貼大禮包時，這個發現指向另一條較低成本的政策之路，與其一味發錢，不如讓 AI 把工作從辦公室鬆綁。當人口結構被提升為國安課題時，或許有人開始把希望寄託在人工智慧（AI）身上。AI真能解決少子化問題嗎？國發會副主委詹方冠有個奇思妙想。「根據國外的研究，把教育程度、職業、收入等變數"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "減碳有成！桃園<b>淨零</b>自治條例施行滿週年碳排量減少23％ 邁向綠色宜居城市 - Yahoo新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E6%25B8%259B%25E7%25A2%25B3%25E6%259C%2589%25E6%2588%2590-%25E6%25A1%2583%25E5%259C%2592%25E6%25B7%25A8%25E9%259B%25B6%25E8%2587%25AA%25E6%25B2%25BB%25E6%25A2%259D%25E4%25BE%258B%25E6%2596%25BD%25E8%25A1%258C%25E6%25BB%25BF%25E9%2580%25B1%25E5%25B9%25B4-%25E7%25A2%25B3%25E6%258E%2592%25E9%2587%258F%25E6%25B8%259B%25E5%25B0%259123-%25E9%2582%2581%25E5%2590%2591%25E7%25B6%25A0%25E8%2589%25B2%25E5%25AE%259C%25E5%25B1%2585%25E5%259F%258E%25E5%25B8%2582-022847030.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3ysRLHUA1F1M__0mAMaXxh",
-          "published": "2026-08-11T02:34:23+00:00",
-          "summary": "顏己喨指出，自治條例涵蓋產業綠能、住商節能、綠色交通及淨零生活四大面向，並納入氣候變遷調適專章，除降低溫室氣體排放，也強化城市面對極端氣候的韌性。"
+          "title": "海洋暖化創新高，全球氣候風險加劇 - 經貿透視",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.trademag.org.tw/page/newsid1/%3Fid%3D7929107%26iz%3D2&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw13iob6nzkHfIK2w4KMGD6c",
+          "published": "2026-08-12T00:11:27+00:00",
+          "summary": "根據歐盟哥白尼(Copernicus)地球觀測計畫旗下氣候變遷 ... 另根據聯合國政府間氣候變遷專門委員會(Intergovernmental Panel on Climate Change&nbsp;..."
         },
         {
-          "title": "歐洲熱浪頻襲釀數千億歐元損失數億人面臨缺水衝擊 - 商傳媒",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://sunmedia.tw/news/finance/1786402601-%25E6%25AD%2590%25E6%25B4%25B2%25E7%2586%25B1%25E6%25B5%25AA%25E9%25A0%25BB%25E8%25A5%25B2%25E9%2587%2580%25E6%2595%25B8%25E5%258D%2583%25E5%2584%2584%25E6%25AD%2590%25E5%2585%2583%25E6%2590%258D%25E5%25A4%25B1%2520%25E6%2595%25B8%25E5%2584%2584%25E4%25BA%25BA%25E9%259D%25A2%25E8%2587%25A8%25E7%25BC%25BA%25E6%25B0%25B4%25E8%25A1%259D%25E6%2593%258A&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0VjbpeoEU1pclzqCpzstnF",
-          "published": "2026-08-10T23:32:28+00:00",
-          "summary": "希臘與西班牙則因乾燥狀況引發新的森林大火。瑞士、奧地利與匈牙利也預報將出現異常高溫。歐盟氣候觀測計畫哥白尼計劃（Copernicus）的數據顯示，去年七月，法國&nbsp;..."
+          "title": "中國海上出口新利器——“極地絲綢之路”開通- 法國報紙摘要- RFI",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rfi.fr/tw/%25E5%25B0%2588%25E6%25AC%2584%25E6%25AA%25A2%25E7%25B4%25A2/%25E6%25B3%2595%25E5%259C%258B%25E5%25A0%25B1%25E7%25B4%2599%25E6%2591%2598%25E8%25A6%2581/20260811-%25E4%25B8%25AD%25E5%259C%258B%25E6%25B5%25B7%25E4%25B8%258A%25E5%2587%25BA%25E5%258F%25A3%25E6%2596%25B0%25E5%2588%25A9%25E5%2599%25A8-%25E6%25A5%25B5%25E5%259C%25B0%25E7%25B5%25B2%25E7%25B6%25A2%25E4%25B9%258B%25E8%25B7%25AF-%25E9%2596%258B%25E9%2580%259A&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw34SRK-3dwkFmh-bUYk1zUq",
+          "published": "2026-08-11T21:08:34+00:00",
+          "summary": "周二（8月11號）法國各大報頭版關注焦點罕見趨同：除左翼《解放報》關注法國政治外，《費加羅報》、《十字架報》和《回聲報》十字的頭版都關注氣候變化帶來&nbsp;..."
         },
         {
-          "title": "2026能源經濟與碳達峰<b>碳中和</b>高質量發展論壇",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=http://finance.people.com.cn/BIG5/8215/461663/462528/index.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0kiSzNfDEaYAtb2jgPjAof",
-          "published": "2026-08-10T23:21:44+00:00",
-          "summary": "2026能源經濟與碳達峰碳中和高質量發展論壇舉行. 《榆林能源革命創新示范區 ... 近期印發的《新型能源體系建設“十五五”規劃》《國家應對氣候變化“十五五&nbsp;..."
+          "title": "臺泰深化AI智慧農業合作攜手推動農業數位轉型 - CNMA新聞聯合網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cnma.org.tw/page/news/show.aspx%3Fnum%3D53154%26kind%3D13&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw04OIi0jPUn58gH0Uho76qJ",
+          "published": "2026-08-11T20:25:32+00:00",
+          "summary": "本次會議由農業部國際事務司司長傅子煜與泰國貿易經濟辦事處代表 Narong Boonsatheanwong 共同主持開幕。我方表示，面對氣候變遷、糧食安全及農業勞動力短缺等&nbsp;..."
         },
         {
-          "title": "乾旱火災烈日炎炎歐洲人有生以來從未經歷過這樣的氣候？ - RFI",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rfi.fr/tw/%25E4%25B8%25AD%25E5%259C%258B/20260810-%25E4%25B9%25BE%25E6%2597%25B1-%25E7%2581%25AB%25E7%2581%25BD-%25E7%2583%2588%25E6%2597%25A5%25E7%2582%258E%25E7%2582%258E-%25E6%25AD%2590%25E6%25B4%25B2%25E4%25BA%25BA%25E6%259C%2589%25E7%2594%259F%25E4%25BB%25A5%25E4%25BE%2586%25E5%25BE%259E%25E6%259C%25AA%25E7%25B6%2593%25E6%25AD%25B7%25E9%2581%258E%25E9%2580%2599%25E6%25A8%25A3%25E7%259A%2584%25E6%25B0%25A3%25E5%2580%2599&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3p8orIkS9lJJDSaGDil-ke",
-          "published": "2026-08-10T23:13:47+00:00",
-          "summary": "同時，根據歐洲氣候變化觀測站周一在其月度公報中提供的數據，2026年7月，全球海洋溫度也達到了該月有史以來的最高水平。 哥白尼氣候變化服務局主任卡洛·布&nbsp;..."
+          "title": "<b>淨零</b>永續展與智慧能源週10月登場 - 工商時報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260812700226-439901&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3K21zknqrq4Z_clTQkHpsT",
+          "published": "2026-08-11T19:11:49+00:00",
+          "summary": "由外貿協會與SEMI旗下GESA綠能暨永續發展聯盟共同舉辦的2026年「台灣國際淨零永續展」與「台灣國際智慧能源週」，將於10月14日至16日在臺北南港展覽館1館&nbsp;..."
         },
         {
-          "title": "美7月創史上最熱紀錄<b>氣候變遷</b>推升高溫 - ETtoday",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ettoday.net/news/20260811/3216910.htm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2spVdarpIl7wPU5hJ4cxuB",
-          "published": "2026-08-10T21:49:29+00:00",
-          "summary": "美國國家海洋暨大氣總署（NOAA）10日表示，2026年7月成為美國本土有紀錄以來最熱的一個月，平均氣溫達華氏76.9度（攝氏24.9度），打破1936年7月維持90年的&nbsp;..."
+          "title": "<b>淨零</b>轉型元寧深耕氫能壓縮設備- 日報- 工商時報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260812700369-439901&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3b1TimjjTFWyByDaf7Ij4O",
+          "published": "2026-08-11T19:11:05+00:00",
+          "summary": "隨全球朝2050年淨零碳排目標邁進，我國也透過「氣候變遷因應法」強化企業碳盤查與減碳責任，並推動「企業淨零行動手冊」協助產業循序完成能源轉型，&nbsp;..."
         },
         {
-          "title": "美國7月均溫創紀錄<b>氣候變遷</b>加劇升溫 - RFI",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rfi.fr/tw/%25E5%259C%258B%25E9%259A%259B%25E5%25A0%25B1%25E9%2581%2593/20260810-%25E7%25BE%258E%25E5%259C%258B7%25E6%259C%2588%25E5%259D%2587%25E6%25BA%25AB%25E5%2589%25B5%25E7%25B4%2580%25E9%258C%2584-%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E5%258A%25A0%25E5%258A%2587%25E5%258D%2587%25E6%25BA%25AB&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw05Q7GN0zwiwk19LnrWqAME",
-          "published": "2026-08-10T19:43:21+00:00",
-          "summary": "（法新社華盛頓10日電） 美國國家海洋暨大氣總署（NOAA）今天表示，2026年7月是美國本土有紀錄以來最熱的月份，延續近期由人類造成的氣候變遷所推動的升溫&nbsp;..."
+          "title": "意大利氣候變化威脅芝士銀行，衝擊價值47億美元的帕爾馬乾酪經濟 - 星島日報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.singtaousa.com/2026/08/11/news/world/italys-4-7-billion-cheese-economy-is-feeling-the-heat-as-climate-change-threatens-its-cheese-banks-that-hold-parmigiano-wheels-as-loan-collateral/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3R8bFcU8FywjBMQ78uspGh",
+          "published": "2026-08-11T18:37:06+00:00",
+          "summary": "意大利正遭受極端高溫的衝擊，威脅到其獨特的「芝士銀行」金融體系，該體系以國寶級的帕爾馬乾酪（Parmigiano Reggiano）作為貸款抵押品。"
         }
       ]
     }
