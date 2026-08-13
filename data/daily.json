@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-12T03:22:38.686402+00:00",
-    "date": "2026-08-12",
+    "generated_at": "2026-08-13T03:25:40.941306+00:00",
+    "date": "2026-08-13",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "4 成銷售被 AI 書拿走：一份 1.4 萬本小說研究，揭開市場「稀釋效應」",
-          "link": "https://techorange.com/2026/08/12/books-with-detectable-ai-text/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-12T01:49:47+00:00",
-          "summary": "生成式 AI 寫出來的書，常被貼上「slop」的標籤，也就是低品質、公式化的垃圾內容，一般認為讀者看一眼就會略過，在商業上根本無足輕重。過去探討 AI 與創意工作的研究，也大多繞著同一個問題打轉，就是 AI 產出的東西，到底好不好到能取代人類。 但一份分析 Amazon 逾 1.4 萬本自出版類型小說的研究，給出不一樣的觀察角度：AI 撼動這個市場，靠的根本不是品質。這些含有 AI 文字的作品，單"
+          "title": "Grok 4.6 強攻長時間 AI Agent：企業選模型不能再只看 Token 單價",
+          "link": "https://techorange.com/2026/08/13/grok-4-6-spacexai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-13T02:29:32+00:00",
+          "summary": "SpaceXAI 近日推出最新旗艦模型 Grok 4.6。根據第三方模型評測機構 Artificial Analysis，Grok 4.6 在 Intelligence Index 得分 61。這項綜合指標用來比較不同模型的整體智慧表現，Grok 4.6 較前一代 Grok 4.5 High 提升 5 分，不只超越中國 Moonshot AI 的 Kimi K3，也追平 OpenAI GPT-5."
         },
         {
-          "title": "【科技早餐】台積電 CoWoS 2029 年挑戰 14 倍以上，Microsoft 傳洽談逾 30 萬顆 AI 晶片產能",
-          "link": "https://techorange.com/2026/08/12/tsmc-cowos-microsoft-maia-300-ai-chip-capacity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-11T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊台積電 5.5 倍光罩 CoWoS 量產，2029 年挑戰 14 倍以上 台積電先進封裝技術暨服務副總經理何軍表示，相當於單一光罩面積 5.5 倍的 CoWoS 先進封裝已進入量產，多家 AI 客戶產品的良率穩定超過 98%，部分更達到 99%。封裝面積擴大後，單一封裝可整合更多運算晶片與高頻寬記憶體，讓客戶透過多顆小晶片整合，持續提高運算能力與"
+          "title": "ROI 逾 40%、廢料少 13%：品客的洋芋片產線，把 AI 數位孿生做到了哪一步？",
+          "link": "https://techorange.com/2026/08/13/ai-digital-transformation-of-a-pringles-factory/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-13T01:30:58+00:00",
+          "summary": "製造業長期存在一個難解的矛盾：原料與環境條件不斷變動，成品品質卻必須維持一致。品客（Pringles）製造商 Kellanova 決定用一套 AI 系統正面處理這個問題。據《The Wall Street Journal》報導，Kellanova 與工業科技公司 Siemens 合作四年、投入約 400 萬至 500 萬美元，在波蘭工廠的一條產線上，為麵糰打造出一個即時運作的「數位孿生」（digi"
         },
         {
-          "title": "Cloudflare Wallets 讓 AI Agent 自主付款：為何網路基礎設施商也開始做支付？",
-          "link": "https://techorange.com/2026/08/11/cloudflare-wallets-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-11T09:05:12+00:00",
-          "summary": "AI Agent 會搜尋資料、寫程式、呼叫 API，但當它需要付費使用服務，往往仍得交回人類操作。美國網路基礎設施巨頭 Cloudflare 近日推出 Cloudflare Wallets，讓 AI Agent 能持有穩定幣，自主購買 API、MCP 工具與內容，正試圖解決這個斷點。 Cloudflare Wallets 分為 Account Wallet 與 Virtual Wallet：前者由"
+          "title": "【科技早餐】CoreWeave 算力幾乎售罄，IBM 簽 2.4 億美元 NVIDIA 推論協議",
+          "link": "https://techorange.com/2026/08/13/coreweave-ai-capacity-ibm-nvidia-inference/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-12T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊CoreWeave 算力幾乎售罄，客戶以長約搶 AI 運算資源 專門提供 GPU 雲端服務的 CoreWeave 表示，近期可供客戶使用的運算容量已接近售罄。截至 6 月底，公司營收積壓達到 1,042 億美元，高於前一季的 994 億美元，代表已簽約、預計在未來陸續認列的收入；其中超過一半的合約已開始提供服務。進入第 3 季後，CoreWeav"
         },
         {
-          "title": "2026 台北國際自動化工業大展｜Moxa 打造工業 AI 網路底座，從控制網路到資安治理全面布局",
-          "link": "https://techorange.com/2026/08/11/automationtaipei2026-moxa-amr/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-11T08:25:01+00:00",
-          "summary": "隨著製造業加速導入 AI、機器人與自主移動設備（AMR），製造現場對於網路基礎設施的要求已不再只是「連得上」，更要讓數據直接參與生產控制，因此具備可靠性、高可視化與高資安韌性的工業網路成為智慧升級的剛需。工業通訊及網路設備領導商四零四科技（Moxa）將於 2026 台北國際自動化工業大展上，以「強韌聯網 智協未來」為主題，從工業網路、無線通訊、邊緣運算到符合國際標準的資安治理體系與 OT 維運服務"
+          "title": "算力狂飆、散熱失速：Synopsys 如何看 AI 重寫晶片到系統的設計規則？",
+          "link": "https://techorange.com/2026/08/12/synopsys-agentic-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-12T09:27:31+00:00",
+          "summary": "AI 的爆炸式成長，正在把晶片設計推向前所未有的複雜程度，從邊緣端的即時推理，到 AI 工廠裡的大規模運算，龐大的算力需求同時牽動了運算、記憶體與互連整合的全面創新。然而，在這波狂飆之中，限制效能的已不再只是算力本身，而是散不掉的「熱」。 根據 EDA 巨頭 Synopsys（新思科技），AI 晶片的熱設計功耗（TDP）已來到 700 至 1500 瓦，晶片表面的熱源密度高達每平方公分 300 至"
         },
         {
-          "title": "Nissan 用 AI 分析工人姿勢防職災，省下 3,400 萬美元：員工為何從抗拒變歡迎？",
-          "link": "https://techorange.com/2026/08/11/nissan-ai-camera/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-11T07:00:00+00:00",
-          "summary": "走進 Nissan 位於美國密西西比州的 Canton 裝配廠，在 Altima 房車與 Frontier 皮卡繁忙的生產線上，無數個搭載 AI 的攝影鏡頭正默默運作，細心觀察每一位員工的動作細節。 這套看似嚴密的監管系統，在 Nissan 眼中其實是一項兼顧效益與關懷的科技投資。這套系統不僅為公司省下數百萬美元，更實質保障第一線工廠員工的身體健康與安全。面對科技進駐生產現場可能引發的監控與搶工作"
+          "title": "摺衣成功率達 99.1%，超過 99% 訓練資料來自手套：機器人如何克服 Physical AI 數據荒？",
+          "link": "https://techorange.com/2026/08/12/train-robots-laundry-folding/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-12T07:00:00+00:00",
+          "summary": "近幾個月來，Figure AI、Sunday Robotics 和 Weave Robotics 這些備受矚目的機器人新創公司，紛紛展示能夠自主摺衣服的機器人。這些公司合計已募集數十億美元，因為越來越多投資人認為家用機器人終於接近商業化的突破點。 許多機器人學者指出，摺衣服之所以成為理想的第一步任務，是因為這項工作難度適中，既能展示機器的智慧與物理控制能力，同時又相對安全，即使任務失敗也不會帶來嚴"
         },
         {
-          "title": "解除 AI 資安封印：OpenAI 擴大 Daybreak 計畫推「紅藍雙軌」，降低防禦任務拒絕率",
-          "link": "https://techorange.com/2026/08/11/open-ai-daybreak-cybersecurity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-11T05:16:24+00:00",
-          "summary": "OpenAI 宣布擴大網路安全計畫 Daybreak，進一步為參與企業提供防禦網路攻擊所需的 AI 能力。《CNBC》報導，OpenAI 今年 5 月首次推出 Daybreak，當時競爭對手 Anthropic 才剛成立網路安全聯盟 Project Glasswing，引發華爾街及美國政府關注。這次，OpenAI 希望讓合作夥伴運用旗下最先進的 AI 模型，因應日益快速變化的網路安全威脅。 Ope"
+          "title": "5G 競爭進入穩定度時代：從 Opensignal 七項榮譽，看台灣大哥大如何打造世界級網路底座",
+          "link": "https://techorange.com/2026/08/12/taiwanmobile-5g-opensignal-nrca/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-12T06:00:00+00:00",
+          "summary": "早上通勤路上，剛加入線上會議，準備與客戶確認合作細節時，聲音卻開始斷斷續續；下班尖峰擠進捷運車廂，想繼續追劇打發時間，明明手機顯示有 5G 訊號，影片卻不停轉圈、遲遲播不出來；假日與朋友來到山中的人氣咖啡館，大家坐在同一間店裡，朋友都能即時分享眼前的美景，自己卻只能拿著手機走到戶外庭院才能收到訊號。這些令人感到既熟悉又無奈的時刻，正是凸顯各家網路品質差異的關鍵。 5G 的使用體驗好不好，不只取決於"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "哥倫比亞7.4地震已釀132死！醫院倒塌、教堂受損...救援人員瓦礫堆中搶命",
-          "link": "https://www.gvm.com.tw/article/132205",
-          "published": "2026-08-11T19:25:00",
-          "summary": "哥倫比亞西部發生規模7.4強震，造成至少132人死亡、570人受傷，志工和緊急救援人員爭分奪秒，在瓦礫堆中搶救受困民眾。綜合美國有線電視新聞網（CNN）和法新社報導，倒塌建築包括卡利市（Cali）一間醫院的兒科及新生兒病房。哥國政府宣布進入國家災難狀態，並派遣軍人前往災區。震央位於哥倫比亞西部沿海的喬可省（Choco）聖荷西德帕爾馬（San Jose del Palmar）附近，距離240多公里的"
+          "title": "中國前總理朱鎔基因病醫治無效，於北京逝世享壽98歲",
+          "link": "https://www.gvm.com.tw/article/132247",
+          "published": "2026-08-12T18:37:00",
+          "summary": "中國官媒今（12）日晚間報導，國務院前總理朱鎔基因病醫治無效，於2026年8月12日11時06分在北京逝世，享耆壽98歲。朱鎔基近年鮮少公開露面，最近1次是2018年10月90歲大壽那月，他在北京會見清華大學經濟管理學院顧問委員會委員，後來便連續缺席中共建政70周年、建黨百年慶祝大會、中共二十大、2025年九三閱兵等活動。朱鎔基1928年出生於湖南長沙，畢業於清華大學電機系，1949年10月加入中"
         },
         {
-          "title": "傅崐萁缺席、國民黨團一度不簽朝野協商結論...韓國瑜罕見動怒",
-          "link": "https://www.gvm.com.tw/article/132224",
-          "published": "2026-08-11T19:10:00",
-          "summary": "立法院朝野黨團今天下午完成115年度中央政府總預算案協商，不過，立法院長韓國瑜不滿國民黨立法院黨團幹部一度不願在朝野協商結論簽字，再次動怒大罵「敬酒不喝喝罰酒」，如果不簽字，後果自行負責；告訴國人要延會到8月底，結果一事無成，怎麼跟國人交代。今年度中央政府總預算案遲至現在，都尚未三讀，明年度總預算案即將在8月底前送抵立法院。韓國瑜在上個月朝野協商時，曾預定在8月7日前讓總預算案完成三讀，但因朝野意"
+          "title": "2026全台社會住宅攻略》最新招租資格、線上申請、租金整理",
+          "link": "https://www.gvm.com.tw/article/132246",
+          "published": "2026-08-12T18:36:00",
+          "summary": "為了提供更穩定的居住選擇，政府積極推動「社會住宅」政策。近期，國家住都中心更宣布2026年第3季中央社會住宅「安居好室」招租正式起跑，一口氣釋出1500戶全新社宅，8月14日就開放線上申請！不只弱勢族群，正在養育未成年子女的家庭也可能符合！不過，究竟「社會住宅是什麼」？我符合申請資格？租金真的比較便宜嗎？各縣市又該去哪裡申請？【目錄】&nbsp;• 社會住宅是什麼？• 社會住宅資格有哪些？六都條件"
         },
         {
-          "title": "AI是「翻身聯考」？人才專家：打造「最能解決問題」的AI台灣",
-          "link": "https://www.gvm.com.tw/article/132223",
-          "published": "2026-08-11T18:47:00",
-          "summary": "台灣人工智慧學校執行長陳伶志指出，AI正成為繼聯考之後，新一代最公平的階級流動手段。2025年底，一張「台灣AI國力」的成績單出爐。根據英國《觀察家報》對全球93國的AI指數調查，台灣一年之內從第21名衝到第16名，是亞洲進步最快的國家之一。其中，政府策略全球第八名、基礎建設第七名，這兩科考得不錯。然後，漂亮成績單的旁邊，躺著三個略顯難看的紅字：人才第33、商業生態第30、發展能力第27。台灣人工"
+          "title": "頂客與單身族必看！刪除兄弟姊妹特留份，但「1情況」照樣拿二分之一",
+          "link": "https://www.gvm.com.tw/article/132245",
+          "published": "2026-08-12T18:20:00",
+          "summary": "日前，立法院三讀通過《民法》部分條文，將兄弟姐妹特留分刪除，這也代表以後單身族、無子女的頂客族，若身後留下遺產時，可以將完整的遺產留給特定對象，旁系手足無權請求。但是，雖然刪除了特留分規定，民法第1138條對於「應繼分」，也就是「法定繼承人順位」完全沒有改變，所以還是有可能讓手足瓜分遺產。究竟，單身族、頂客族不想留遺產給兄弟姊妹，該怎麼做？根據內政部2025年的統計，台灣25至44歲的單身人口突破"
         },
         {
-          "title": "漢光演習外媒怎看？點名「這地」成共軍首波目標，恐24小時內喪失作戰能力",
-          "link": "https://www.gvm.com.tw/article/132222",
-          "published": "2026-08-11T18:27:00",
-          "summary": "台灣展開為期10天9夜的漢光演習，美國商業內幕10日引述法籍駐台研究員布蘭丁指出，台灣幻象2000-5戰機主要駐地新竹基地距離中國大陸僅約144公里，一旦爆發全面戰爭，將是解放軍最早鎖定、摧毀或癱瘓的台灣軍事基地之一，甚至可能在第一波飛彈攻擊後24小時內喪失作戰能力。報導指出，台灣軍方7日模擬新竹空軍基地設施遭中國長程飛彈或火箭攻擊，地勤部隊隨即使用推土機及平地機清除跑道殘骸、填補混凝土跑道上的彈"
+          "title": "沉浸式體驗遇上AI！六個大哉問，與消費者深度連結",
+          "link": "https://www.gvm.com.tw/article/132243",
+          "published": "2026-08-12T17:25:00",
+          "summary": "AI讓沉浸式體驗更具互動性與個人化，但令人難忘的，並非堆疊VR、全像投影等新科技，而是依循臨場感、互動、自主、理解、進展與意義六大心理歷程，讓參與者即使離開，仍能持續回味。沉浸式體驗（Immersive Experience）正在改變品牌與消費者的互動方式。過去，企業著重打造大型場景與炫目的科技；如今，VR、空間運算與AI互動角色逐漸普及，競爭焦點也從「看起來很厲害」，轉向「能否讓人真正投入」。例"
         },
         {
-          "title": "一起過日子、養育孩子卻不再親密？諮商心理師：5個指標覺察伴侶關係",
-          "link": "https://www.gvm.com.tw/article/132221",
-          "published": "2026-08-11T18:14:00",
-          "summary": "我們在一起，卻受困在各自的心裡，只談生活，避談內心──「親密疏離」是伴侶下意識的共謀，更是傷害關係的隱形殺手。不再爭吵，以為更親密了，不說破，和諧就不會被打破……我們盡己所能地守護著彼此，為什麼卻漸行漸遠？「親密疏離」的僵局，因何而來？如何脫困？（本文節錄自《兩個人更孤單》一書，作者：羅子琦／寶瓶文化出版，以下為摘文。）一段關係，從開始認識、接觸、交往，在可能進入婚姻、生子、育兒等過程中，彼此會生"
+          "title": "智冠董事長王俊博辭職！大女兒王思淳接任，回顧智冠股權大戰的三大啟示",
+          "link": "https://www.gvm.com.tw/article/109657",
+          "published": "2026-08-12T17:09:00",
+          "summary": "2026/8/12編按更新：台灣遊戲通路龍頭智冠（5478）今（12）日下午發出重大訊息，董事長王俊博辭任董事長，將由大女兒以及集團董事王思淳接棒。據公開資訊觀測站最新消息指出，智冠已經接獲董事長王俊博辭任聲明，辭任董事長、總經理、永續發展委員會委員及資訊安全長職務等職務，但仍為公司董事。於今年六月剛進入董事會的王思淳將接手董事長的職務，總經理則交由AI及數位發展中心副總經理李殷獎負責。智冠於20"
         },
         {
-          "title": "AI救得了少子化嗎？國發會副主委：關鍵不在產房，在辦公室",
-          "link": "https://www.gvm.com.tw/article/132220",
-          "published": "2026-08-11T18:10:00",
-          "summary": "一份橫跨38國的研究發現，夫妻倆一週只要有一天在家上班，生育率就可能多出約一成四。當各國苦於少子化，每年砸下重金發放育兒津貼大禮包時，這個發現指向另一條較低成本的政策之路，與其一味發錢，不如讓 AI 把工作從辦公室鬆綁。當人口結構被提升為國安課題時，或許有人開始把希望寄託在人工智慧（AI）身上。AI真能解決少子化問題嗎？國發會副主委詹方冠有個奇思妙想。「根據國外的研究，把教育程度、職業、收入等變數"
+          "title": "《明日的過客》：人生不一定照著想像前進，但走過的每一步都不會白費",
+          "link": "https://www.gvm.com.tw/article/132237",
+          "published": "2026-08-12T17:06:00",
+          "summary": "電影《明日的過客》由郭承衢執導，陳妤、侯彥西、郭子豪、毛祁芸主演，描述一場意外的重逢，讓多年不見的友情，有了奇妙的化學變化。也許有些人只是生命中的過客，有些夢想卻始終沒有離開。由《德布西森林》旅法導演郭承衢睽違多年返台執導的都會愛情電影《明日的過客》，由金鐘女星陳妤與實力派男星侯彥西領銜主演，攜手新銳演員郭子豪、毛祁芸共同演出。故事從一場意外重逢展開，陳妤飾演的白玫在台北街頭巧遇多年未見的舊識，一"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "海洋暖化創新高，全球氣候風險加劇 - 經貿透視",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.trademag.org.tw/page/newsid1/%3Fid%3D7929107%26iz%3D2&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw13iob6nzkHfIK2w4KMGD6c",
-          "published": "2026-08-12T00:11:27+00:00",
-          "summary": "根據歐盟哥白尼(Copernicus)地球觀測計畫旗下氣候變遷 ... 另根據聯合國政府間氣候變遷專門委員會(Intergovernmental Panel on Climate Change&nbsp;..."
+          "title": "美食博覽一連五日迎客 - 澳門日報電子版",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.macaodaily.com/html/2026-08/13/content_1926692.htm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3B7_bwQSnXSa4KUSKSozaC",
+          "published": "2026-08-13T00:48:52+00:00",
+          "summary": "一家有六十年歷史的港產牛肉丸公司，特別推出獲清真認證的產品，以及響應環保趨勢的“碳中和牛肉丸”，在生產牛肉丸的過程中嚴格計算碳排放量，並用植樹等方式進行&nbsp;..."
         },
         {
-          "title": "中國海上出口新利器——“極地絲綢之路”開通- 法國報紙摘要- RFI",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rfi.fr/tw/%25E5%25B0%2588%25E6%25AC%2584%25E6%25AA%25A2%25E7%25B4%25A2/%25E6%25B3%2595%25E5%259C%258B%25E5%25A0%25B1%25E7%25B4%2599%25E6%2591%2598%25E8%25A6%2581/20260811-%25E4%25B8%25AD%25E5%259C%258B%25E6%25B5%25B7%25E4%25B8%258A%25E5%2587%25BA%25E5%258F%25A3%25E6%2596%25B0%25E5%2588%25A9%25E5%2599%25A8-%25E6%25A5%25B5%25E5%259C%25B0%25E7%25B5%25B2%25E7%25B6%25A2%25E4%25B9%258B%25E8%25B7%25AF-%25E9%2596%258B%25E9%2580%259A&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw34SRK-3dwkFmh-bUYk1zUq",
-          "published": "2026-08-11T21:08:34+00:00",
-          "summary": "周二（8月11號）法國各大報頭版關注焦點罕見趨同：除左翼《解放報》關注法國政治外，《費加羅報》、《十字架報》和《回聲報》十字的頭版都關注氣候變化帶來&nbsp;..."
+          "title": "應對<b>氣候變遷</b>如開盲盒 - Yahoo新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E6%2587%2589%25E5%25B0%258D%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7-%25E5%25A6%2582%25E9%2596%258B%25E7%259B%25B2%25E7%259B%2592-201000556.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0FC3a5vfBmxktpeqNzOQoR",
+          "published": "2026-08-12T21:43:31+00:00",
+          "summary": "近來極端天氣事件突發頻繁，不僅帶來乾旱、暴雨、高溫、缺水、熱浪等氣象災害，也導致病蟲害多發重發，生育期縮短亦可能影響到作物的品質和產量（在特別乾旱&nbsp;..."
         },
         {
-          "title": "臺泰深化AI智慧農業合作攜手推動農業數位轉型 - CNMA新聞聯合網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cnma.org.tw/page/news/show.aspx%3Fnum%3D53154%26kind%3D13&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw04OIi0jPUn58gH0Uho76qJ",
-          "published": "2026-08-11T20:25:32+00:00",
-          "summary": "本次會議由農業部國際事務司司長傅子煜與泰國貿易經濟辦事處代表 Narong Boonsatheanwong 共同主持開幕。我方表示，面對氣候變遷、糧食安全及農業勞動力短缺等&nbsp;..."
+          "title": "產官學界齊聚交流減碳議題，協助產業朝向<b>淨零</b>永續目標前行 - CNMA新聞聯合網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cnma.org.tw/page/news/show.aspx%3Fnum%3D53171%26kind%3D18&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw21Rec6i_DJqVvjqdK2HHo2",
+          "published": "2026-08-12T20:22:21+00:00",
+          "summary": "... 淨零永續目標前行. 記者:吳水發報導 因應全球氣候變遷及2050淨零排放目標，環境部於114年3月4日公告修正「事業應盤查登錄溫室氣體排放量之排放源」，將符合&nbsp;..."
         },
         {
-          "title": "<b>淨零</b>永續展與智慧能源週10月登場 - 工商時報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260812700226-439901&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3K21zknqrq4Z_clTQkHpsT",
-          "published": "2026-08-11T19:11:49+00:00",
-          "summary": "由外貿協會與SEMI旗下GESA綠能暨永續發展聯盟共同舉辦的2026年「台灣國際淨零永續展」與「台灣國際智慧能源週」，將於10月14日至16日在臺北南港展覽館1館&nbsp;..."
+          "title": "全球企業動態| 華富財經Quamnet.com | 港股報價,投資工具,服務與產品",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.quamnet.com/post/pVnQ3bF8xDkXxW24-07tk&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3iRlcVBUAHxse-4lTtVLou",
+          "published": "2026-08-12T18:59:58+00:00",
+          "summary": "... TAIPEI, Aug. 12, 2026 /PRNewswire/ -- Net-Zero Taiwan and Energy Taiwan—Taiwan's largest renewable energy and net-zero exhibitions—wil..."
         },
         {
-          "title": "<b>淨零</b>轉型元寧深耕氫能壓縮設備- 日報- 工商時報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260812700369-439901&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3b1TimjjTFWyByDaf7Ij4O",
-          "published": "2026-08-11T19:11:05+00:00",
-          "summary": "隨全球朝2050年淨零碳排目標邁進，我國也透過「氣候變遷因應法」強化企業碳盤查與減碳責任，並推動「企業淨零行動手冊」協助產業循序完成能源轉型，&nbsp;..."
+          "title": "Europe bakes under heatwave and drought | 無綫新聞 TVB News",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.tvb.com/tc/1188696-Europebakesunderheatwaveanddrought&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2hNWQbXUfS39uQy5DsT6c0",
+          "published": "2026-08-12T17:06:32+00:00",
+          "summary": "Climate change is narrowing the window for harvesting wine grapes, forcing winemakers to make quick decisions when even a few days can mean the&nbsp;..."
         },
         {
-          "title": "意大利氣候變化威脅芝士銀行，衝擊價值47億美元的帕爾馬乾酪經濟 - 星島日報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.singtaousa.com/2026/08/11/news/world/italys-4-7-billion-cheese-economy-is-feeling-the-heat-as-climate-change-threatens-its-cheese-banks-that-hold-parmigiano-wheels-as-loan-collateral/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3R8bFcU8FywjBMQ78uspGh",
-          "published": "2026-08-11T18:37:06+00:00",
-          "summary": "意大利正遭受極端高溫的衝擊，威脅到其獨特的「芝士銀行」金融體系，該體系以國寶級的帕爾馬乾酪（Parmigiano Reggiano）作為貸款抵押品。"
+          "title": "氣候變化衝擊市場",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://invest.hket.com/article/4175473/%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E5%258C%2596%25E8%25A1%259D%25E6%2593%258A%25E5%25B8%2582%25E5%25A0%25B4&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2WAlrKAWChMF5jPbnDfZhu",
+          "published": "2026-08-12T16:41:39+00:00",
+          "summary": "... 、能源價格、供應鏈和地緣政治。但近年氣候變化問題愈趨嚴重，過去常常僅被視為長期環境問題，正在愈來愈受宏觀經濟分析和央行政策所重視。 氣候變化對."
         }
       ]
     }
