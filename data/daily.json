@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-13T03:25:40.941306+00:00",
-    "date": "2026-08-13",
+    "generated_at": "2026-08-14T03:23:22.347667+00:00",
+    "date": "2026-08-14",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "Grok 4.6 強攻長時間 AI Agent：企業選模型不能再只看 Token 單價",
-          "link": "https://techorange.com/2026/08/13/grok-4-6-spacexai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-13T02:29:32+00:00",
-          "summary": "SpaceXAI 近日推出最新旗艦模型 Grok 4.6。根據第三方模型評測機構 Artificial Analysis，Grok 4.6 在 Intelligence Index 得分 61。這項綜合指標用來比較不同模型的整體智慧表現，Grok 4.6 較前一代 Grok 4.5 High 提升 5 分，不只超越中國 Moonshot AI 的 Kimi K3，也追平 OpenAI GPT-5."
+          "title": "【開源資安工具】用推翻結論減少誤報，Capital One 把漏洞檢測工具 VulnHunter 分享給全世界",
+          "link": "https://techorange.com/2026/08/14/capital-one-ai-agent-vulnhunter/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-14T02:02:11+00:00",
+          "summary": "美國大型金融企業 Capital One 推出開源且基於 AI 代理的資安漏洞檢測工具 VulnHunter，並採用三階段運作 AI 引擎，懂得推翻自身結論，藉此減少誤報機率且提高使用效率。"
         },
         {
-          "title": "ROI 逾 40%、廢料少 13%：品客的洋芋片產線，把 AI 數位孿生做到了哪一步？",
-          "link": "https://techorange.com/2026/08/13/ai-digital-transformation-of-a-pringles-factory/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-13T01:30:58+00:00",
-          "summary": "製造業長期存在一個難解的矛盾：原料與環境條件不斷變動，成品品質卻必須維持一致。品客（Pringles）製造商 Kellanova 決定用一套 AI 系統正面處理這個問題。據《The Wall Street Journal》報導，Kellanova 與工業科技公司 Siemens 合作四年、投入約 400 萬至 500 萬美元，在波蘭工廠的一條產線上，為麵糰打造出一個即時運作的「數位孿生」（digi"
+          "title": "AI Agent、Reasoning 放大推論成本：模型業者開始重新思考 Transformer",
+          "link": "https://techorange.com/2026/08/14/startups-next-big-thing-in-llms/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-14T01:43:23+00:00",
+          "summary": "2017 年，Google 研究團隊發表〈Attention Is All You Need〉論文，提出後來改變 AI 產業的 Transformer 架構。9 年過去，從 ChatGPT 到 Gemini，幾乎所有主流大型語言模型（LLM）都建立在 Transformer 之上。但當 AI 開始處理更長文件、進行複雜推理，甚至以 Agent 形式持續工作，這套支撐生成式 AI 浪潮的架構，也逐漸"
         },
         {
-          "title": "【科技早餐】CoreWeave 算力幾乎售罄，IBM 簽 2.4 億美元 NVIDIA 推論協議",
-          "link": "https://techorange.com/2026/08/13/coreweave-ai-capacity-ibm-nvidia-inference/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-12T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊CoreWeave 算力幾乎售罄，客戶以長約搶 AI 運算資源 專門提供 GPU 雲端服務的 CoreWeave 表示，近期可供客戶使用的運算容量已接近售罄。截至 6 月底，公司營收積壓達到 1,042 億美元，高於前一季的 994 億美元，代表已簽約、預計在未來陸續認列的收入；其中超過一半的合約已開始提供服務。進入第 3 季後，CoreWeav"
+          "title": "【科技早餐】蘋果擬投入上億美元為 AI 版 Siri 買新聞授權，長江存儲 NAND 出貨首登全球第三",
+          "link": "https://techorange.com/2026/08/14/apple-ai-siri-news-licensing-ymtc-nand/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-13T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊蘋果洽談上億美元新聞授權，AI 版 Siri 補強即時資訊 《華爾街日報》報導，蘋果（Apple）近幾個月接觸多家出版商，希望簽署多年期內容授權協議，讓預計今年稍晚開放 beta 測試的 AI 版 Siri，可以取得即時新聞與資訊。相關協議仍在洽談，蘋果曾討論編列九位數美元、也就是至少 1 億美元的整體預算，並可能依照 Siri 實際使用內容的情"
         },
         {
-          "title": "算力狂飆、散熱失速：Synopsys 如何看 AI 重寫晶片到系統的設計規則？",
-          "link": "https://techorange.com/2026/08/12/synopsys-agentic-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-12T09:27:31+00:00",
-          "summary": "AI 的爆炸式成長，正在把晶片設計推向前所未有的複雜程度，從邊緣端的即時推理，到 AI 工廠裡的大規模運算，龐大的算力需求同時牽動了運算、記憶體與互連整合的全面創新。然而，在這波狂飆之中，限制效能的已不再只是算力本身，而是散不掉的「熱」。 根據 EDA 巨頭 Synopsys（新思科技），AI 晶片的熱設計功耗（TDP）已來到 700 至 1500 瓦，晶片表面的熱源密度高達每平方公分 300 至"
+          "title": "Pixel 11 把 Gemini 推向手機核心：Google 台灣硬體研發團隊談背後的軟硬體工程",
+          "link": "https://techorange.com/2026/08/13/pixel-11-gemini-google-taiwan/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-13T07:02:52+00:00",
+          "summary": "Google Pixel 手機一直是 Google 展示最新 AI 功能的舞台之一，Google 在台灣時間 8/13 凌晨發表新一代 Pixel 11 系列，隨即宣布在台灣上市。除了 Tensor G6 晶片、相機等硬體升級，Google 這次更把重心放在 Gemini 如何深入手機使用體驗。《TechCrunch》指出，新機加入更多能在背景完成任務的 Gemini 功能。 Google 對這波"
         },
         {
-          "title": "摺衣成功率達 99.1%，超過 99% 訓練資料來自手套：機器人如何克服 Physical AI 數據荒？",
-          "link": "https://techorange.com/2026/08/12/train-robots-laundry-folding/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-12T07:00:00+00:00",
-          "summary": "近幾個月來，Figure AI、Sunday Robotics 和 Weave Robotics 這些備受矚目的機器人新創公司，紛紛展示能夠自主摺衣服的機器人。這些公司合計已募集數十億美元，因為越來越多投資人認為家用機器人終於接近商業化的突破點。 許多機器人學者指出，摺衣服之所以成為理想的第一步任務，是因為這項工作難度適中，既能展示機器的智慧與物理控制能力，同時又相對安全，即使任務失敗也不會帶來嚴"
+          "title": "AI Agent 操作電腦準確率衝上 85%，為何企業真正難題仍是如何「可靠地把工作做完」？",
+          "link": "https://techorange.com/2026/08/13/can-agents-use-a-computer-yet-weve-got-the-data-a16z/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-13T07:00:00+00:00",
+          "summary": "在過去一年，電腦操作 AI Agent（Computer Use Agent）已經正式跨越單純展示的階段，開始在特定的、可重複的企業工作流程中進行正式部署。這些日常任務包括更新系統紀錄、跨入口網站搬移資料、處理工單，以及操作那些原本缺乏乾淨 API 的舊軟體介面。 轉變的背後，是因為模型操作電腦的能力正在快速飆升。根據 OSWorld-Verified，也就是一項在實體電腦桌面上測試 Agent "
         },
         {
-          "title": "5G 競爭進入穩定度時代：從 Opensignal 七項榮譽，看台灣大哥大如何打造世界級網路底座",
-          "link": "https://techorange.com/2026/08/12/taiwanmobile-5g-opensignal-nrca/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-12T06:00:00+00:00",
-          "summary": "早上通勤路上，剛加入線上會議，準備與客戶確認合作細節時，聲音卻開始斷斷續續；下班尖峰擠進捷運車廂，想繼續追劇打發時間，明明手機顯示有 5G 訊號，影片卻不停轉圈、遲遲播不出來；假日與朋友來到山中的人氣咖啡館，大家坐在同一間店裡，朋友都能即時分享眼前的美景，自己卻只能拿著手機走到戶外庭院才能收到訊號。這些令人感到既熟悉又無奈的時刻，正是凸顯各家網路品質差異的關鍵。 5G 的使用體驗好不好，不只取決於"
+          "title": "白宮 AI 監管再擴大：達 GPT-5.6 級「開放模型」恐也須發布前測試",
+          "link": "https://techorange.com/2026/08/13/the-white-house-expand-ai-policy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-13T05:27:46+00:00",
+          "summary": "據《WIRED》引述消息人士報導，白宮官員預計將修改川普政府最新提出的 AI 指引，並擴大對 AI 模型的監督範圍，未來可能將開放模型納入其中。這也顯示，白宮正重新思考如何因應 AI 技術快速發展所帶來的監管問題。 白宮推 AI 安全新規：高階模型公開發布前須經聯邦測試 白宮本月宣布制定 AI 框架，要求美國 AI 實驗室開發的高階模型，在公開發布前接受聯邦政府的安全測試。不過，白宮目前尚未公布框"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "中國前總理朱鎔基因病醫治無效，於北京逝世享壽98歲",
-          "link": "https://www.gvm.com.tw/article/132247",
-          "published": "2026-08-12T18:37:00",
-          "summary": "中國官媒今（12）日晚間報導，國務院前總理朱鎔基因病醫治無效，於2026年8月12日11時06分在北京逝世，享耆壽98歲。朱鎔基近年鮮少公開露面，最近1次是2018年10月90歲大壽那月，他在北京會見清華大學經濟管理學院顧問委員會委員，後來便連續缺席中共建政70周年、建黨百年慶祝大會、中共二十大、2025年九三閱兵等活動。朱鎔基1928年出生於湖南長沙，畢業於清華大學電機系，1949年10月加入中"
+          "title": "一生拚到退休只值1000萬？活到中年才懂，人生最貴的其實是「它」",
+          "link": "https://www.gvm.com.tw/article/132282",
+          "published": "2026-08-13T19:32:00",
+          "summary": "真正的財務自由，不是帳戶裡有多少錢，而是你再也不需要為了生存而出賣時間。當你財務自由，你就能體會：時間的價值遠高於金錢，因為它是不可再生的──錢虧了可以再賺，時間過去了就再也回不來。凡是能用錢買來的時間，都是便宜的；做你喜歡的事，才對起曾經拿命換過錢的自己。（本文節錄自《財商》一書，作者：吳淡如，時報出版，以下為摘文。）你的命值多少錢？或許你沒有想過這個問題，但其實每一個不打算轉換人生軌道的人，一"
         },
         {
-          "title": "2026全台社會住宅攻略》最新招租資格、線上申請、租金整理",
-          "link": "https://www.gvm.com.tw/article/132246",
-          "published": "2026-08-12T18:36:00",
-          "summary": "為了提供更穩定的居住選擇，政府積極推動「社會住宅」政策。近期，國家住都中心更宣布2026年第3季中央社會住宅「安居好室」招租正式起跑，一口氣釋出1500戶全新社宅，8月14日就開放線上申請！不只弱勢族群，正在養育未成年子女的家庭也可能符合！不過，究竟「社會住宅是什麼」？我符合申請資格？租金真的比較便宜嗎？各縣市又該去哪裡申請？【目錄】&nbsp;• 社會住宅是什麼？• 社會住宅資格有哪些？六都條件"
+          "title": "咖啡明明是苦的，我們卻戒不掉？食品科學家：迷戀烘焙香是人類基因本能",
+          "link": "https://www.gvm.com.tw/article/132281",
+          "published": "2026-08-13T19:08:00",
+          "summary": "為什麼明明知道高溫烘焙可能產生有害物質，我們卻依然難以抗拒烤肉、鍋巴與咖啡的香氣？這或許不只是味覺偏好，而是深植人類演化歷史的本能。從遠古時代利用火烹調，到現代人離不開咖啡因，大腦始終在追逐熟悉的香氣與短暫的清醒感。（本文節錄自《咖啡香味的科學》一書，作者：崔洛堰／方言文化出版，以下為摘文。）高溫烘焙並非只會帶來好的結果。烘烤時苯并哌喃、丙烯醯胺等危險物質也會增加。但不管別人怎麼勸導說肉不要烤要用"
         },
         {
-          "title": "頂客與單身族必看！刪除兄弟姊妹特留份，但「1情況」照樣拿二分之一",
-          "link": "https://www.gvm.com.tw/article/132245",
-          "published": "2026-08-12T18:20:00",
-          "summary": "日前，立法院三讀通過《民法》部分條文，將兄弟姐妹特留分刪除，這也代表以後單身族、無子女的頂客族，若身後留下遺產時，可以將完整的遺產留給特定對象，旁系手足無權請求。但是，雖然刪除了特留分規定，民法第1138條對於「應繼分」，也就是「法定繼承人順位」完全沒有改變，所以還是有可能讓手足瓜分遺產。究竟，單身族、頂客族不想留遺產給兄弟姊妹，該怎麼做？根據內政部2025年的統計，台灣25至44歲的單身人口突破"
+          "title": "最快的致富之道是慢慢來：《致富心態》摩根．豪瑟新作談「安靜的複利」",
+          "link": "https://www.gvm.com.tw/article/132280",
+          "published": "2026-08-13T18:43:00",
+          "summary": "真正的財富，未必需要被看見。比起追逐短期報酬、與他人比較，安靜地存錢、長期投資，讓時間發揮複利效應，反而可能是更穩健的致富之道。當你不再為了證明自己而理財，開始按照自己的目標與步調累積財富，才會發現：最快的致富之道，往往就是慢慢來。（本文節錄自《花錢的藝術》一書，作者：摩根．豪瑟／平安文化出版，以下為摘文。）中國哲學家老子云：「道常無為而無不為。」巨大的紅杉、高級的生物、雄偉的山脈──大自然打造了"
         },
         {
-          "title": "沉浸式體驗遇上AI！六個大哉問，與消費者深度連結",
-          "link": "https://www.gvm.com.tw/article/132243",
-          "published": "2026-08-12T17:25:00",
-          "summary": "AI讓沉浸式體驗更具互動性與個人化，但令人難忘的，並非堆疊VR、全像投影等新科技，而是依循臨場感、互動、自主、理解、進展與意義六大心理歷程，讓參與者即使離開，仍能持續回味。沉浸式體驗（Immersive Experience）正在改變品牌與消費者的互動方式。過去，企業著重打造大型場景與炫目的科技；如今，VR、空間運算與AI互動角色逐漸普及，競爭焦點也從「看起來很厲害」，轉向「能否讓人真正投入」。例"
+          "title": "《橡樹街末日》跳脫《侏羅紀公園》的恐龍想像！超完美故事，締造一場全新的史前冒險",
+          "link": "https://www.gvm.com.tw/article/132264",
+          "published": "2026-08-13T18:37:00",
+          "summary": "電影《橡樹街末日》由大衛羅伯特米切爾編劇、執導，安海瑟薇、伊旺麥奎格主演，描述在一場神祕事件後，橡樹街社區突然被傳送到充滿致命史前生物的未知世界，熟悉的房屋與街道依然存在，周遭卻早已不是原本生活的世界⋯⋯如果有一天，身為哺乳類的人類突然回到恐龍稱霸地球的時代，面對體型遠比自己巨大、速度更快，甚至足以輕易奪走性命的史前生物，人們究竟該如何求生？1993年，史蒂芬史匹柏（Steven Spielber"
         },
         {
-          "title": "智冠董事長王俊博辭職！大女兒王思淳接任，回顧智冠股權大戰的三大啟示",
-          "link": "https://www.gvm.com.tw/article/109657",
-          "published": "2026-08-12T17:09:00",
-          "summary": "2026/8/12編按更新：台灣遊戲通路龍頭智冠（5478）今（12）日下午發出重大訊息，董事長王俊博辭任董事長，將由大女兒以及集團董事王思淳接棒。據公開資訊觀測站最新消息指出，智冠已經接獲董事長王俊博辭任聲明，辭任董事長、總經理、永續發展委員會委員及資訊安全長職務等職務，但仍為公司董事。於今年六月剛進入董事會的王思淳將接手董事長的職務，總經理則交由AI及數位發展中心副總經理李殷獎負責。智冠於20"
+          "title": "三商壽淨值逾1200億！玉山金備妥220億增資銀彈，9／1交割將成第五大金控",
+          "link": "https://www.gvm.com.tw/article/132278",
+          "published": "2026-08-13T18:36:00",
+          "summary": "三商壽資本體質持續改善，淨值已由玉山金控去年評估收購時的403億元，大幅回升至逾1200億元。隨9月1日正式交割進入倒數，玉山金董事長黃男州表示今年與明年已備妥共220億元增資銀彈，將力拚三商壽重返健康營運之路。屆時玉山金將補齊銀行、保險、證券三大業務版圖，合併後總資產規模將躍居台灣上市金控第五大。玉山金控今（13）日召開2026年第2季法人說明會，上半年自結淨收益538.4億元，稅後淨利214."
         },
         {
-          "title": "《明日的過客》：人生不一定照著想像前進，但走過的每一步都不會白費",
-          "link": "https://www.gvm.com.tw/article/132237",
-          "published": "2026-08-12T17:06:00",
-          "summary": "電影《明日的過客》由郭承衢執導，陳妤、侯彥西、郭子豪、毛祁芸主演，描述一場意外的重逢，讓多年不見的友情，有了奇妙的化學變化。也許有些人只是生命中的過客，有些夢想卻始終沒有離開。由《德布西森林》旅法導演郭承衢睽違多年返台執導的都會愛情電影《明日的過客》，由金鐘女星陳妤與實力派男星侯彥西領銜主演，攜手新銳演員郭子豪、毛祁芸共同演出。故事從一場意外重逢展開，陳妤飾演的白玫在台北街頭巧遇多年未見的舊識，一"
+          "title": "睡眠不是健康問題，而是賺錢的能力！矽谷科技人士靠「正念冥想」高效入眠",
+          "link": "https://www.gvm.com.tw/article/132277",
+          "published": "2026-08-13T18:19:00",
+          "summary": "高壓與焦慮是追求財富與創業者的宿命，但「睡好覺」絕對不是奢侈的休息，它不是道德問題，也不是健康問題，它是能力問題，和創造新收入的結果直接相關。真正能長期跑贏的人，懂得先讓自己睡得著、睡得好、頭腦保持清醒。（本文節錄自《你的人生需要新收入！》一書，作者：錢婧／幸福文化出版，以下為摘文。）我幫MBA學生授課時，會花很多時間討論一個常被上班族忽視的重要話題—睡眠和規律作息。因為我堅信，睡好覺、規律作息、"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "美食博覽一連五日迎客 - 澳門日報電子版",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.macaodaily.com/html/2026-08/13/content_1926692.htm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3B7_bwQSnXSa4KUSKSozaC",
-          "published": "2026-08-13T00:48:52+00:00",
-          "summary": "一家有六十年歷史的港產牛肉丸公司，特別推出獲清真認證的產品，以及響應環保趨勢的“碳中和牛肉丸”，在生產牛肉丸的過程中嚴格計算碳排放量，並用植樹等方式進行&nbsp;..."
+          "title": "裕隆擴大太陽能發電拓展儲能和能源市場 - IEK產業情報網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D0%26nsl_id%3D327fc75a393f4dcdb0e479b4af996f73&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw01NDFBO-AzZMVtjO_7d445",
+          "published": "2026-08-13T23:39:44+00:00",
+          "summary": "... 淨零碳排目標。 裕隆在永續報告書中說明，2017年起在苗栗三義廠區建置太陽能光電 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
         },
         {
-          "title": "應對<b>氣候變遷</b>如開盲盒 - Yahoo新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E6%2587%2589%25E5%25B0%258D%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7-%25E5%25A6%2582%25E9%2596%258B%25E7%259B%25B2%25E7%259B%2592-201000556.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0FC3a5vfBmxktpeqNzOQoR",
-          "published": "2026-08-12T21:43:31+00:00",
-          "summary": "近來極端天氣事件突發頻繁，不僅帶來乾旱、暴雨、高溫、缺水、熱浪等氣象災害，也導致病蟲害多發重發，生育期縮短亦可能影響到作物的品質和產量（在特別乾旱&nbsp;..."
+          "title": "科建IFRS S2解方企業接軌法遵助力|半導體|產業新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D0%26nsl_id%3D17d7c7745d6649dbb119c648a948d1d6&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2F2EUeZwYaFx4I6XKd6FbY",
+          "published": "2026-08-13T22:41:35+00:00",
+          "summary": "其中，IFRS永續揭露準則IFRS S2聚焦於氣候相關財務資訊揭露，企業永續經營正式邁向氣候變遷與財務資訊整合的新階段。 ... Net-Zero Sustainability2022｜樂淨零：&nbsp;..."
         },
         {
-          "title": "產官學界齊聚交流減碳議題，協助產業朝向<b>淨零</b>永續目標前行 - CNMA新聞聯合網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cnma.org.tw/page/news/show.aspx%3Fnum%3D53171%26kind%3D18&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw21Rec6i_DJqVvjqdK2HHo2",
-          "published": "2026-08-12T20:22:21+00:00",
-          "summary": "... 淨零永續目標前行. 記者:吳水發報導 因應全球氣候變遷及2050淨零排放目標，環境部於114年3月4日公告修正「事業應盤查登錄溫室氣體排放量之排放源」，將符合&nbsp;..."
+          "title": "交通部舉辦「運輸及旅館業溫室氣體盤查實務研討會－盤查深化・減碳前行永續論壇」 - 蕃新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20260813830739&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0CubRVfPBHglPsaxFMEi_Z",
+          "published": "2026-08-13T21:05:01+00:00",
+          "summary": "因應全球氣候變遷及2050淨零排放目標，環境部於114年3月4日公告修正「事業應盤查登錄溫室氣體排放量之排放源」，將符合一定條件之汽車運輸業、鐵路運輸業及旅館&nbsp;..."
         },
         {
-          "title": "全球企業動態| 華富財經Quamnet.com | 港股報價,投資工具,服務與產品",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.quamnet.com/post/pVnQ3bF8xDkXxW24-07tk&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3iRlcVBUAHxse-4lTtVLou",
-          "published": "2026-08-12T18:59:58+00:00",
-          "summary": "... TAIPEI, Aug. 12, 2026 /PRNewswire/ -- Net-Zero Taiwan and Energy Taiwan—Taiwan's largest renewable energy and net-zero exhibitions—wil..."
+          "title": "炎熱天氣如何安全鍛煉？研究人員有策略 - 新唐人電視台",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ntdtv.com/b5/2026/08/13/a104123814.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0SMYQW45xn54ALLCbcUdGY",
+          "published": "2026-08-13T19:54:19+00:00",
+          "summary": "... 氣候變遷導致的氣溫上升可能會使人們在炎熱天氣下減少運動，並最終導致到2050年每年約有47萬至70萬人過早死亡。 所以，如何在炎熱的天氣下保持運動也很重要&nbsp;..."
         },
         {
-          "title": "Europe bakes under heatwave and drought | 無綫新聞 TVB News",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.tvb.com/tc/1188696-Europebakesunderheatwaveanddrought&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2hNWQbXUfS39uQy5DsT6c0",
-          "published": "2026-08-12T17:06:32+00:00",
-          "summary": "Climate change is narrowing the window for harvesting wine grapes, forcing winemakers to make quick decisions when even a few days can mean the&nbsp;..."
+          "title": "2050<b>淨零</b>碳排放目標航向未來✈️ | U Community 社群平台",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ulifestyle.com.hk/community/detailpost/e5001fd0-9380-4bce-b976-1bad2d8c2798/%25E5%2590%25B9%25E6%25B0%25B4/NicoleHeiTong/1035697&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3CMacGryNL2pu-l091FPb5",
+          "published": "2026-08-13T19:10:28+00:00",
+          "summary": "香港機場百年印記展覽，回顧啟德至赤鱲角發展，並展示綠色轉型與2050淨零碳排放目標。立即點擊，探索更多精彩內容."
         },
         {
-          "title": "氣候變化衝擊市場",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://invest.hket.com/article/4175473/%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E5%258C%2596%25E8%25A1%259D%25E6%2593%258A%25E5%25B8%2582%25E5%25A0%25B4&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2WAlrKAWChMF5jPbnDfZhu",
-          "published": "2026-08-12T16:41:39+00:00",
-          "summary": "... 、能源價格、供應鏈和地緣政治。但近年氣候變化問題愈趨嚴重，過去常常僅被視為長期環境問題，正在愈來愈受宏觀經濟分析和央行政策所重視。 氣候變化對."
+          "title": "培養對環境的責任感打開氣象知識之門 - 報章",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://paper.hket.com/article/4176025/%25E5%259F%25B9%25E9%25A4%258A%25E5%25B0%258D%25E7%2592%25B0%25E5%25A2%2583%25E7%259A%2584%25E8%25B2%25AC%25E4%25BB%25BB%25E6%2584%259F%2520%25E6%2589%2593%25E9%2596%258B%25E6%25B0%25A3%25E8%25B1%25A1%25E7%259F%25A5%25E8%25AD%2598%25E4%25B9%258B%25E9%2596%2580&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw36NeyVArDtoNfBLrRYSdwR",
+          "published": "2026-08-13T18:07:52+00:00",
+          "summary": "天氣瞬息萬變，天文台近日更錄得本港142年來最高氣溫紀錄。 聯合出版集團現正舉辦「氣候萬象，打開氣象知識之門」主題書展，綫上綫下除展出近150種出版物及&nbsp;..."
         }
       ]
     }
