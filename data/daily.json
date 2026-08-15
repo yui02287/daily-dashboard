@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-14T03:23:22.347667+00:00",
-    "date": "2026-08-14",
+    "generated_at": "2026-08-15T02:12:51.108450+00:00",
+    "date": "2026-08-15",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "【開源資安工具】用推翻結論減少誤報，Capital One 把漏洞檢測工具 VulnHunter 分享給全世界",
-          "link": "https://techorange.com/2026/08/14/capital-one-ai-agent-vulnhunter/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-14T02:02:11+00:00",
-          "summary": "美國大型金融企業 Capital One 推出開源且基於 AI 代理的資安漏洞檢測工具 VulnHunter，並採用三階段運作 AI 引擎，懂得推翻自身結論，藉此減少誤報機率且提高使用效率。"
+          "title": "【金融 AI 代理安全與防禦】AI Agents 直上支付與交易第一線，機構「分階段放權」才是安全底線",
+          "link": "https://techorange.com/2026/08/15/securing-ai-agents-in-financial-infrastructure/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-14T22:29:00+00:00",
+          "summary": "金融自動化浪潮正以驚人速度席捲。Gartner 預估 2026 年底將有 40% 的企業應用程式，嵌入任務型 AI 代理人（2025 年小於 5%），且已有 79% 企業著手導入。 與僅能生成文字回應的無狀態 Chatbot 不同，AI 代理人結合推理、長期記憶與 API 工具存取，具備自主規劃與執行多步驟任務的能力；這群代理人正深度整合進資金、支付、交易、託管與會計等五大核心領域，從「動口」給資"
         },
         {
-          "title": "AI Agent、Reasoning 放大推論成本：模型業者開始重新思考 Transformer",
-          "link": "https://techorange.com/2026/08/14/startups-next-big-thing-in-llms/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-14T01:43:23+00:00",
-          "summary": "2017 年，Google 研究團隊發表〈Attention Is All You Need〉論文，提出後來改變 AI 產業的 Transformer 架構。9 年過去，從 ChatGPT 到 Gemini，幾乎所有主流大型語言模型（LLM）都建立在 Transformer 之上。但當 AI 開始處理更長文件、進行複雜推理，甚至以 Agent 形式持續工作，這套支撐生成式 AI 浪潮的架構，也逐漸"
+          "title": "三星用 Claude 把晶片驗證從 1 個月壓縮到 2 天：不只拚效率，更想縮小與高通的工程人力差距",
+          "link": "https://techorange.com/2026/08/14/samsung-claude-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-14T07:00:00+00:00",
+          "summary": "在軟體工程界逐漸熟悉與 AI 協作的同時，半導體設計領域也正迎來一場深刻變革。三星電子在開放 Anthropic 旗下的 AI 編碼工具 Claude Code 給軟體開發人員約三個月後，已進一步將 Claude Code 導入客製化系統單晶片（SoC）的功能驗證，以及半導體專案前期的軟體開發中，這也代表生成式 AI 開始從一般的程式撰寫，走進高度專業的半導體晶片研發流程。 在三星內部的一項客製化"
         },
         {
-          "title": "【科技早餐】蘋果擬投入上億美元為 AI 版 Siri 買新聞授權，長江存儲 NAND 出貨首登全球第三",
-          "link": "https://techorange.com/2026/08/14/apple-ai-siri-news-licensing-ymtc-nand/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-13T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊蘋果洽談上億美元新聞授權，AI 版 Siri 補強即時資訊 《華爾街日報》報導，蘋果（Apple）近幾個月接觸多家出版商，希望簽署多年期內容授權協議，讓預計今年稍晚開放 beta 測試的 AI 版 Siri，可以取得即時新聞與資訊。相關協議仍在洽談，蘋果曾討論編列九位數美元、也就是至少 1 億美元的整體預算，並可能依照 Siri 實際使用內容的情"
+          "title": "GPT-5.6 Sol 接 Cerebras 快 14 倍：OpenAI 開始替不同 AI 工作挑晶片",
+          "link": "https://techorange.com/2026/08/14/openai-ultrafast-cerebras-gpt-5-6-sol/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-14T06:06:00+00:00",
+          "summary": "AI 開發者想讓模型即時回應，過去往往得在「速度」與「聰明程度」之間做取捨，OpenAI 近日在自家 API 推出名為「Ultrafast」的新服務層，讓旗艦模型 GPT-5.6 Sol 在不更換模型的前提下，推論速度最高較標準模式快 14 倍，每秒可生成 750 個 output token。 OpenAI 表示，要取得即時速度，通常得改用較小或針對特定用途打造的模型；Cerebras 也指出，"
         },
         {
-          "title": "Pixel 11 把 Gemini 推向手機核心：Google 台灣硬體研發團隊談背後的軟硬體工程",
-          "link": "https://techorange.com/2026/08/13/pixel-11-gemini-google-taiwan/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-13T07:02:52+00:00",
-          "summary": "Google Pixel 手機一直是 Google 展示最新 AI 功能的舞台之一，Google 在台灣時間 8/13 凌晨發表新一代 Pixel 11 系列，隨即宣布在台灣上市。除了 Tensor G6 晶片、相機等硬體升級，Google 這次更把重心放在 Gemini 如何深入手機使用體驗。《TechCrunch》指出，新機加入更多能在背景完成任務的 Gemini 功能。 Google 對這波"
+          "title": "DeepSeek-V4-Pro 正式上線！挾 Harness 將 AI 戰場從「模型」推進到「Agent 開發層」",
+          "link": "https://techorange.com/2026/08/14/deepseek-harness-launches-open-source-ai-rival-claude-code/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-14T04:52:25+00:00",
+          "summary": "DeepSeek 正從 AI 模型進一步拓展至 Agent 開發工具，正式推出 DeepSeek-V4-Pro，強化模型在 AI Agent 應用上的表現，同時發布開源 Agent 開發框架 DeepSeek Harness v0.1，讓開發者能更靈活地打造和管理 AI Agent，並提供不同於 Anthropic Claude Code 等整合式程式開發工具的選擇。 DeepSeek-V4-Pr"
         },
         {
-          "title": "AI Agent 操作電腦準確率衝上 85%，為何企業真正難題仍是如何「可靠地把工作做完」？",
-          "link": "https://techorange.com/2026/08/13/can-agents-use-a-computer-yet-weve-got-the-data-a16z/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-13T07:00:00+00:00",
-          "summary": "在過去一年，電腦操作 AI Agent（Computer Use Agent）已經正式跨越單純展示的階段，開始在特定的、可重複的企業工作流程中進行正式部署。這些日常任務包括更新系統紀錄、跨入口網站搬移資料、處理工單，以及操作那些原本缺乏乾淨 API 的舊軟體介面。 轉變的背後，是因為模型操作電腦的能力正在快速飆升。根據 OSWorld-Verified，也就是一項在實體電腦桌面上測試 Agent "
+          "title": "Google 三週又升級 Gemini 3.7 Flash：為何定位 Flash 成 Agent 日常主力？",
+          "link": "https://techorange.com/2026/08/14/gemini-3-7-flash-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-14T03:30:03+00:00",
+          "summary": "Google 於美國時間 8/13 推出新一代 AI 模型 Gemini 3.7 Flash，距離上一代 Gemini 3.6 Flash 發表僅隔了三週。除了強化程式開發、企業工作流程與 AI Agent 能力，Google 還祭出限時價格策略：今年底以前，Gemini 3.7 Flash API 每百萬 input tokens 為 0.75 美元、output tokens 為 3.75 美"
         },
         {
-          "title": "白宮 AI 監管再擴大：達 GPT-5.6 級「開放模型」恐也須發布前測試",
-          "link": "https://techorange.com/2026/08/13/the-white-house-expand-ai-policy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-13T05:27:46+00:00",
-          "summary": "據《WIRED》引述消息人士報導，白宮官員預計將修改川普政府最新提出的 AI 指引，並擴大對 AI 模型的監督範圍，未來可能將開放模型納入其中。這也顯示，白宮正重新思考如何因應 AI 技術快速發展所帶來的監管問題。 白宮推 AI 安全新規：高階模型公開發布前須經聯邦測試 白宮本月宣布制定 AI 框架，要求美國 AI 實驗室開發的高階模型，在公開發布前接受聯邦政府的安全測試。不過，白宮目前尚未公布框"
+          "title": "Anthropic 新研究揭多 Agent 風險：從同步犯錯、價格共謀到互相攻擊，企業風險不再只是「單點失控」",
+          "link": "https://techorange.com/2026/08/14/anthropic-multiagent-systems/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-14T02:57:54+00:00",
+          "summary": "隨著 AI 技術突飛猛進，企業與政府機關正加速將 AI Agent 部署在共享的程式碼庫以及電腦系統中，這也讓 Agent 之間的虛擬互動迎來爆發性的增長。然而，近日 Anthropic 發布的最新研究警告，Agent 與 Agent 之間的互動規模，極可能在人類真正理解如何安全管理它們之前，就已經遠遠超過人與人、或人與 Agent 之間的互動規模。 這項趨勢，也使 AI 安全的研究範疇，從傳統的"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "一生拚到退休只值1000萬？活到中年才懂，人生最貴的其實是「它」",
-          "link": "https://www.gvm.com.tw/article/132282",
-          "published": "2026-08-13T19:32:00",
-          "summary": "真正的財務自由，不是帳戶裡有多少錢，而是你再也不需要為了生存而出賣時間。當你財務自由，你就能體會：時間的價值遠高於金錢，因為它是不可再生的──錢虧了可以再賺，時間過去了就再也回不來。凡是能用錢買來的時間，都是便宜的；做你喜歡的事，才對起曾經拿命換過錢的自己。（本文節錄自《財商》一書，作者：吳淡如，時報出版，以下為摘文。）你的命值多少錢？或許你沒有想過這個問題，但其實每一個不打算轉換人生軌道的人，一"
+          "title": "百萬網紅阿翰坦言兒時曾遭霸凌：我生性害羞，「裝扮」另一個自己會感到更自在",
+          "link": "https://www.gvm.com.tw/article/132320",
+          "published": "2026-08-14T20:40:00",
+          "summary": "阿翰參與《誰來晚餐17》，他在節目中大談自家嚴肅氣氛與父子關係，敞開心扉分享小時候曾被排擠的經歷，以及走過流量競爭的心路歷程。公視招牌節目《誰來晚餐17》將於本週迎來全新一季首播，第1集特別邀請到百萬創作者阿翰二度擔任節目嘉賓，拜訪愛穿高跟鞋跳舞的網紅亮亮一家人，並在節目中大談自家嚴肅氣氛與父子關係，敞開心扉分享小時候曾被排擠的經歷，以及走過流量競爭的心路歷程。本週《誰來晚餐17》首集邀請到百萬網"
         },
         {
-          "title": "咖啡明明是苦的，我們卻戒不掉？食品科學家：迷戀烘焙香是人類基因本能",
-          "link": "https://www.gvm.com.tw/article/132281",
-          "published": "2026-08-13T19:08:00",
-          "summary": "為什麼明明知道高溫烘焙可能產生有害物質，我們卻依然難以抗拒烤肉、鍋巴與咖啡的香氣？這或許不只是味覺偏好，而是深植人類演化歷史的本能。從遠古時代利用火烹調，到現代人離不開咖啡因，大腦始終在追逐熟悉的香氣與短暫的清醒感。（本文節錄自《咖啡香味的科學》一書，作者：崔洛堰／方言文化出版，以下為摘文。）高溫烘焙並非只會帶來好的結果。烘烤時苯并哌喃、丙烯醯胺等危險物質也會增加。但不管別人怎麼勸導說肉不要烤要用"
+          "title": "澱粉、碳水最好別吃？功能醫學營養師：「這種飲食方法」適得其反",
+          "link": "https://www.gvm.com.tw/article/123719",
+          "published": "2026-08-14T20:39:00",
+          "summary": "許多人一聽到「血糖」，直覺反應是：「這是一個壞東西！」但事實上，血糖（葡萄糖）是人體最基本的能量來源，對我們的生命維持至關重要。真正的問題不是血糖本身，而是當血糖無法有效被利用時，才會成為健康的隱憂。（本文節錄自《逆轉胰島素阻抗　21天重啟健康代謝》一書，作者：呂美寶，方舟文化出版，以下為摘文。）【FIT控糖個案】澱粉、碳水不能吃？常見錯誤的飲食恐懼我的個案中有一位五十五歲的陳小姐，在家族遺傳影響"
         },
         {
-          "title": "最快的致富之道是慢慢來：《致富心態》摩根．豪瑟新作談「安靜的複利」",
-          "link": "https://www.gvm.com.tw/article/132280",
-          "published": "2026-08-13T18:43:00",
-          "summary": "真正的財富，未必需要被看見。比起追逐短期報酬、與他人比較，安靜地存錢、長期投資，讓時間發揮複利效應，反而可能是更穩健的致富之道。當你不再為了證明自己而理財，開始按照自己的目標與步調累積財富，才會發現：最快的致富之道，往往就是慢慢來。（本文節錄自《花錢的藝術》一書，作者：摩根．豪瑟／平安文化出版，以下為摘文。）中國哲學家老子云：「道常無為而無不為。」巨大的紅杉、高級的生物、雄偉的山脈──大自然打造了"
+          "title": "「一流人士」都具備1項能力：靠「這招」結束無意義的閒聊",
+          "link": "https://www.gvm.com.tw/article/123634",
+          "published": "2026-08-14T20:38:00",
+          "summary": "我見過各行各業的成功人士，見證了他們走向成功的歷程。而那些「一流人士」身上，都有一個共通點，那就是閒聊力。也就是說，他們都「擅長閒聊」。閒聊就像肌肉一樣，而閒聊力，就是肌力。肌力是可以透過鍛鍊獲得的吧？閒聊也一樣，愈練習就愈擅長，慢慢就會獲得力量。（本文節錄自《社交腹肌》一書，作者：森優子，寶瓶文化出版，以下為摘文。）大家身邊有這樣的人嗎？他們和所有人都能交談自如，性格活潑開朗，總是精力充沛。如果"
         },
         {
-          "title": "《橡樹街末日》跳脫《侏羅紀公園》的恐龍想像！超完美故事，締造一場全新的史前冒險",
-          "link": "https://www.gvm.com.tw/article/132264",
-          "published": "2026-08-13T18:37:00",
-          "summary": "電影《橡樹街末日》由大衛羅伯特米切爾編劇、執導，安海瑟薇、伊旺麥奎格主演，描述在一場神祕事件後，橡樹街社區突然被傳送到充滿致命史前生物的未知世界，熟悉的房屋與街道依然存在，周遭卻早已不是原本生活的世界⋯⋯如果有一天，身為哺乳類的人類突然回到恐龍稱霸地球的時代，面對體型遠比自己巨大、速度更快，甚至足以輕易奪走性命的史前生物，人們究竟該如何求生？1993年，史蒂芬史匹柏（Steven Spielber"
+          "title": "做一樣的事，為何有些孩子表現特別出色？關鍵不在智商而是「這能力」",
+          "link": "https://www.gvm.com.tw/article/123594",
+          "published": "2026-08-14T20:16:00",
+          "summary": "曾經看似永遠都是優等生的孩子，現在的成績卻表現平平，甚至低於平均的水準。「他們小時候明明學得很好，怎麼會變成這樣？」當我不斷反覆經歷這樣的狀況之後，我突然意識到：「念書並不是萬能的。」不僅是在學業成績方面，要讓孩子在所有生活領域中成長，關鍵不在於智商。（本文節錄自《小學生正向習慣養成書》一書，作者：河楡丁，台灣廣廈出版，以下為摘文。）我永遠不會忘記孩子誕生那一刻的感覺。不是因為分娩的痛楚，而是因為"
         },
         {
-          "title": "三商壽淨值逾1200億！玉山金備妥220億增資銀彈，9／1交割將成第五大金控",
-          "link": "https://www.gvm.com.tw/article/132278",
-          "published": "2026-08-13T18:36:00",
-          "summary": "三商壽資本體質持續改善，淨值已由玉山金控去年評估收購時的403億元，大幅回升至逾1200億元。隨9月1日正式交割進入倒數，玉山金董事長黃男州表示今年與明年已備妥共220億元增資銀彈，將力拚三商壽重返健康營運之路。屆時玉山金將補齊銀行、保險、證券三大業務版圖，合併後總資產規模將躍居台灣上市金控第五大。玉山金控今（13）日召開2026年第2季法人說明會，上半年自結淨收益538.4億元，稅後淨利214."
+          "title": "晚10年收益「差這麼多」！65歲退休擁有1千萬，「這時間」就該開始規劃",
+          "link": "https://www.gvm.com.tw/article/123280",
+          "published": "2026-08-14T20:15:00",
+          "summary": "我問過投資前輩，他們現在有如此成就和可觀的資產，還有什麼事是他們沒做到的？他們的回答相當一致：「如果可以，我會更早開始投資。」雖然在剛出社會時，就考慮退休規畫似乎有些遙遠，甚至奇怪，但請相信我，從領到第一筆薪水的那一刻起，著手規畫退休，這將會是你一生中最輕鬆的時刻。（本文節錄自《財富自由的階梯》一書，作者：PG財經筆記 蔡至誠，大是文化出版，以下為摘文。）從你領到第一筆薪水就該開始18 歲時，我拿"
         },
         {
-          "title": "睡眠不是健康問題，而是賺錢的能力！矽谷科技人士靠「正念冥想」高效入眠",
-          "link": "https://www.gvm.com.tw/article/132277",
-          "published": "2026-08-13T18:19:00",
-          "summary": "高壓與焦慮是追求財富與創業者的宿命，但「睡好覺」絕對不是奢侈的休息，它不是道德問題，也不是健康問題，它是能力問題，和創造新收入的結果直接相關。真正能長期跑贏的人，懂得先讓自己睡得著、睡得好、頭腦保持清醒。（本文節錄自《你的人生需要新收入！》一書，作者：錢婧／幸福文化出版，以下為摘文。）我幫MBA學生授課時，會花很多時間討論一個常被上班族忽視的重要話題—睡眠和規律作息。因為我堅信，睡好覺、規律作息、"
+          "title": "研究結果證實：老套卻最簡單有效的「感恩日記」，讓目標達成率提高20%",
+          "link": "https://www.gvm.com.tw/article/132319",
+          "published": "2026-08-14T19:00:00",
+          "summary": "你是否曾以為，感恩只是提醒自己「知足」？其實，感恩不只是情緒上的安慰，更可能成為改變思考模式、提升行動力的關鍵。研究發現，持續記錄值得感謝的事，不僅有助於穩定情緒、減輕壓力，也能讓人更有耐心與執行力。（本文節錄自《富人的身體》一書，作者：李東桓／新樂園出版，以下為摘文。）美國心能商數（Heart Math）研究所的羅林・麥克雷提（Rollin McCraty）博士，曾透過實驗證明：當人懷抱感恩時，"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "裕隆擴大太陽能發電拓展儲能和能源市場 - IEK產業情報網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D0%26nsl_id%3D327fc75a393f4dcdb0e479b4af996f73&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw01NDFBO-AzZMVtjO_7d445",
-          "published": "2026-08-13T23:39:44+00:00",
-          "summary": "... 淨零碳排目標。 裕隆在永續報告書中說明，2017年起在苗栗三義廠區建置太陽能光電 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
+          "title": "內政部：人屋雙老挑戰祭出住宅3支箭強化居住環境 - 新住民全球新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.immigration.gov.tw/NewsSection/Detail/22853586-3193-43ED-8E6A-6B14C587F401%3Flang%3DTW&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0NhdoUMXFCanzyH7tmLPHV",
+          "published": "2026-08-15T01:00:31+00:00",
+          "summary": "... 淨零減碳，強化都市環境韌性。 中央社近日舉辦2026城市永續論壇，董建宏以推動都市更新與老宅延壽政策為題發表演講。他指出，台灣現在面臨的挑戰不只是氣候變遷&nbsp;..."
         },
         {
-          "title": "科建IFRS S2解方企業接軌法遵助力|半導體|產業新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D0%26nsl_id%3D17d7c7745d6649dbb119c648a948d1d6&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2F2EUeZwYaFx4I6XKd6FbY",
-          "published": "2026-08-13T22:41:35+00:00",
-          "summary": "其中，IFRS永續揭露準則IFRS S2聚焦於氣候相關財務資訊揭露，企業永續經營正式邁向氣候變遷與財務資訊整合的新階段。 ... Net-Zero Sustainability2022｜樂淨零：&nbsp;..."
+          "title": "讓自然香氣走進排雲山莊跨機關攜手打造國產材低碳示範場域 - PChome news",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/living/inews/20260815/index-78675103810680351009.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1Ty5vXnjUHOzyexmZvqJUs",
+          "published": "2026-08-15T00:35:49+00:00",
+          "summary": "從指引標示到玉山植物木框畫，每一塊木材都是來自山林的延伸，讓人們在使用空間同時，也感受到永續與自然共生的意義。 從細節開始共創淨零未來新風景. 面對氣候&nbsp;..."
         },
         {
-          "title": "交通部舉辦「運輸及旅館業溫室氣體盤查實務研討會－盤查深化・減碳前行永續論壇」 - 蕃新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20260813830739&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0CubRVfPBHglPsaxFMEi_Z",
-          "published": "2026-08-13T21:05:01+00:00",
-          "summary": "因應全球氣候變遷及2050淨零排放目標，環境部於114年3月4日公告修正「事業應盤查登錄溫室氣體排放量之排放源」，將符合一定條件之汽車運輸業、鐵路運輸業及旅館&nbsp;..."
+          "title": "熱浪難擋投資熱！歐洲股市創新高投資人無視氣候風險 - 民視財經網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://finance.ftvnews.com.tw/news/detail/2026814W0750&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1nb0oraxpxqPfnU_5kyWnp",
+          "published": "2026-08-15T00:24:14+00:00",
+          "summary": "瑞士隆奧銀行（Lombard Odier）總體經濟研究主管Florian Ielpo 指出，當前強勁的財報季以及對伊朗局勢引發通膨的擔憂，使得全球暖化問題在投資人眼中退居次要&nbsp;..."
         },
         {
-          "title": "炎熱天氣如何安全鍛煉？研究人員有策略 - 新唐人電視台",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ntdtv.com/b5/2026/08/13/a104123814.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0SMYQW45xn54ALLCbcUdGY",
-          "published": "2026-08-13T19:54:19+00:00",
-          "summary": "... 氣候變遷導致的氣溫上升可能會使人們在炎熱天氣下減少運動，並最終導致到2050年每年約有47萬至70萬人過早死亡。 所以，如何在炎熱的天氣下保持運動也很重要&nbsp;..."
+          "title": "英國野火肆虐燒毀民宅首相視察呼籲正視<b>氣候變遷</b>| 民視新聞網 - LINE TODAY",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/QwlQPmz&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw13DjquqI6C3SzFCghcEOgj",
+          "published": "2026-08-14T22:04:18+00:00",
+          "summary": "英國近日遭受嚴重野火肆虐，多處民宅遭到燒毀。英國（UK）首相Andy Burnham 週五視察災區小鎮時指出，國家必須正視氣候變遷的嚴峻挑..."
         },
         {
-          "title": "2050<b>淨零</b>碳排放目標航向未來✈️ | U Community 社群平台",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ulifestyle.com.hk/community/detailpost/e5001fd0-9380-4bce-b976-1bad2d8c2798/%25E5%2590%25B9%25E6%25B0%25B4/NicoleHeiTong/1035697&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3CMacGryNL2pu-l091FPb5",
-          "published": "2026-08-13T19:10:28+00:00",
-          "summary": "香港機場百年印記展覽，回顧啟德至赤鱲角發展，並展示綠色轉型與2050淨零碳排放目標。立即點擊，探索更多精彩內容."
+          "title": "當全球<b>淨零</b>碳排不可逆大趨勢已「兵臨城下」將迫使企業減碳轉型！ - 理財寶",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/article/182211000&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2qGRQdEMXZmiQFe2GQfwZJ",
+          "published": "2026-08-14T19:24:56+00:00",
+          "summary": "減碳轉型已經逐漸從企業形象轉變成：成本、訂單、競爭力的問題。2026年是一個很重要的時間點，「歐盟CBAM」已經自2026.01.01進入正式制度，進口商需要申."
         },
         {
-          "title": "培養對環境的責任感打開氣象知識之門 - 報章",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://paper.hket.com/article/4176025/%25E5%259F%25B9%25E9%25A4%258A%25E5%25B0%258D%25E7%2592%25B0%25E5%25A2%2583%25E7%259A%2584%25E8%25B2%25AC%25E4%25BB%25BB%25E6%2584%259F%2520%25E6%2589%2593%25E9%2596%258B%25E6%25B0%25A3%25E8%25B1%25A1%25E7%259F%25A5%25E8%25AD%2598%25E4%25B9%258B%25E9%2596%2580&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw36NeyVArDtoNfBLrRYSdwR",
-          "published": "2026-08-13T18:07:52+00:00",
-          "summary": "天氣瞬息萬變，天文台近日更錄得本港142年來最高氣溫紀錄。 聯合出版集團現正舉辦「氣候萬象，打開氣象知識之門」主題書展，綫上綫下除展出近150種出版物及&nbsp;..."
+          "title": "法國西南朗德省森林大火暫時得到控制，2026年法國森林過火面積創20年新高 - RFI",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rfi.fr/tw/%25E7%2594%259F%25E6%2585%258B/20260814-%25E6%25B3%2595%25E5%259C%258B%25E8%25A5%25BF%25E5%258D%2597%25E6%259C%2597%25E5%25BE%25B7%25E7%259C%2581%25E6%25A3%25AE%25E6%259E%2597%25E5%25A4%25A7%25E7%2581%25AB%25E6%259A%25AB%25E6%2599%2582%25E5%25BE%2597%25E5%2588%25B0%25E6%258E%25A7%25E5%2588%25B6%25EF%25BC%258C2026%25E5%25B9%25B4%25E6%25B3%2595%25E5%259C%258B%25E6%25A3%25AE%25E6%259E%2597%25E9%2581%258E%25E7%2581%25AB%25E9%259D%25A2%25E7%25A9%258D%25E5%2589%25B520%25E5%25B9%25B4%25E6%2596%25B0%25E9%25AB%2598&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0MAQoHw3WiL6qC-vaQbUka",
+          "published": "2026-08-14T18:48:32+00:00",
+          "summary": "據悉，這是法國朗德加斯科涅森林今年發生的第三場重大火災。該地區主要種植海岸松，而近年來受氣候變化助推的多輪熱浪使這些松林嚴重乾燥，極易發生並迅速&nbsp;..."
         }
       ]
     }
