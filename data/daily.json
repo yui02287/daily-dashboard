@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T02:12:51.108450+00:00",
-    "date": "2026-08-15",
+    "generated_at": "2026-08-16T02:20:11.701376+00:00",
+    "date": "2026-08-16",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -16,36 +16,6 @@
           "link": "https://techorange.com/2026/08/15/securing-ai-agents-in-financial-infrastructure/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
           "published": "2026-08-14T22:29:00+00:00",
           "summary": "金融自動化浪潮正以驚人速度席捲。Gartner 預估 2026 年底將有 40% 的企業應用程式，嵌入任務型 AI 代理人（2025 年小於 5%），且已有 79% 企業著手導入。 與僅能生成文字回應的無狀態 Chatbot 不同，AI 代理人結合推理、長期記憶與 API 工具存取，具備自主規劃與執行多步驟任務的能力；這群代理人正深度整合進資金、支付、交易、託管與會計等五大核心領域，從「動口」給資"
-        },
-        {
-          "title": "三星用 Claude 把晶片驗證從 1 個月壓縮到 2 天：不只拚效率，更想縮小與高通的工程人力差距",
-          "link": "https://techorange.com/2026/08/14/samsung-claude-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-14T07:00:00+00:00",
-          "summary": "在軟體工程界逐漸熟悉與 AI 協作的同時，半導體設計領域也正迎來一場深刻變革。三星電子在開放 Anthropic 旗下的 AI 編碼工具 Claude Code 給軟體開發人員約三個月後，已進一步將 Claude Code 導入客製化系統單晶片（SoC）的功能驗證，以及半導體專案前期的軟體開發中，這也代表生成式 AI 開始從一般的程式撰寫，走進高度專業的半導體晶片研發流程。 在三星內部的一項客製化"
-        },
-        {
-          "title": "GPT-5.6 Sol 接 Cerebras 快 14 倍：OpenAI 開始替不同 AI 工作挑晶片",
-          "link": "https://techorange.com/2026/08/14/openai-ultrafast-cerebras-gpt-5-6-sol/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-14T06:06:00+00:00",
-          "summary": "AI 開發者想讓模型即時回應，過去往往得在「速度」與「聰明程度」之間做取捨，OpenAI 近日在自家 API 推出名為「Ultrafast」的新服務層，讓旗艦模型 GPT-5.6 Sol 在不更換模型的前提下，推論速度最高較標準模式快 14 倍，每秒可生成 750 個 output token。 OpenAI 表示，要取得即時速度，通常得改用較小或針對特定用途打造的模型；Cerebras 也指出，"
-        },
-        {
-          "title": "DeepSeek-V4-Pro 正式上線！挾 Harness 將 AI 戰場從「模型」推進到「Agent 開發層」",
-          "link": "https://techorange.com/2026/08/14/deepseek-harness-launches-open-source-ai-rival-claude-code/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-14T04:52:25+00:00",
-          "summary": "DeepSeek 正從 AI 模型進一步拓展至 Agent 開發工具，正式推出 DeepSeek-V4-Pro，強化模型在 AI Agent 應用上的表現，同時發布開源 Agent 開發框架 DeepSeek Harness v0.1，讓開發者能更靈活地打造和管理 AI Agent，並提供不同於 Anthropic Claude Code 等整合式程式開發工具的選擇。 DeepSeek-V4-Pr"
-        },
-        {
-          "title": "Google 三週又升級 Gemini 3.7 Flash：為何定位 Flash 成 Agent 日常主力？",
-          "link": "https://techorange.com/2026/08/14/gemini-3-7-flash-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-14T03:30:03+00:00",
-          "summary": "Google 於美國時間 8/13 推出新一代 AI 模型 Gemini 3.7 Flash，距離上一代 Gemini 3.6 Flash 發表僅隔了三週。除了強化程式開發、企業工作流程與 AI Agent 能力，Google 還祭出限時價格策略：今年底以前，Gemini 3.7 Flash API 每百萬 input tokens 為 0.75 美元、output tokens 為 3.75 美"
-        },
-        {
-          "title": "Anthropic 新研究揭多 Agent 風險：從同步犯錯、價格共謀到互相攻擊，企業風險不再只是「單點失控」",
-          "link": "https://techorange.com/2026/08/14/anthropic-multiagent-systems/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-14T02:57:54+00:00",
-          "summary": "隨著 AI 技術突飛猛進，企業與政府機關正加速將 AI Agent 部署在共享的程式碼庫以及電腦系統中，這也讓 Agent 之間的虛擬互動迎來爆發性的增長。然而，近日 Anthropic 發布的最新研究警告，Agent 與 Agent 之間的互動規模，極可能在人類真正理解如何安全管理它們之前，就已經遠遠超過人與人、或人與 Agent 之間的互動規模。 這項趨勢，也使 AI 安全的研究範疇，從傳統的"
         }
       ]
     },
@@ -54,40 +24,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "百萬網紅阿翰坦言兒時曾遭霸凌：我生性害羞，「裝扮」另一個自己會感到更自在",
-          "link": "https://www.gvm.com.tw/article/132320",
-          "published": "2026-08-14T20:40:00",
-          "summary": "阿翰參與《誰來晚餐17》，他在節目中大談自家嚴肅氣氛與父子關係，敞開心扉分享小時候曾被排擠的經歷，以及走過流量競爭的心路歷程。公視招牌節目《誰來晚餐17》將於本週迎來全新一季首播，第1集特別邀請到百萬創作者阿翰二度擔任節目嘉賓，拜訪愛穿高跟鞋跳舞的網紅亮亮一家人，並在節目中大談自家嚴肅氣氛與父子關係，敞開心扉分享小時候曾被排擠的經歷，以及走過流量競爭的心路歷程。本週《誰來晚餐17》首集邀請到百萬網"
+          "title": "快時尚的「永續」招牌到底是掛給誰看？H&M;賣二手衣背後的商業算計",
+          "link": "https://www.gvm.com.tw/article/132294",
+          "published": "2026-08-15T16:00:00",
+          "summary": "走進快時尚品牌H&amp;M位於美國紐約的旗艦店深處，除了依照顏色分類的最新商品，還有一區專門販售二手衣的選品空間，裡面從印有卡通圖案的紀念T恤到定價超過新台幣8000元的義大利時尚品牌莫斯奇諾（Moschino）專櫃上衣應有盡有。除了H&amp;M以外，不少大型零售商也加入這股二手衣熱潮。如Banana Republic就推出限量復古系列，重新販售1970、1980、1990年代經典款式；美國女"
         },
         {
-          "title": "澱粉、碳水最好別吃？功能醫學營養師：「這種飲食方法」適得其反",
-          "link": "https://www.gvm.com.tw/article/123719",
-          "published": "2026-08-14T20:39:00",
-          "summary": "許多人一聽到「血糖」，直覺反應是：「這是一個壞東西！」但事實上，血糖（葡萄糖）是人體最基本的能量來源，對我們的生命維持至關重要。真正的問題不是血糖本身，而是當血糖無法有效被利用時，才會成為健康的隱憂。（本文節錄自《逆轉胰島素阻抗　21天重啟健康代謝》一書，作者：呂美寶，方舟文化出版，以下為摘文。）【FIT控糖個案】澱粉、碳水不能吃？常見錯誤的飲食恐懼我的個案中有一位五十五歲的陳小姐，在家族遺傳影響"
+          "title": "睡覺讓頭腦休息？經歷短暫能量失衡，日本最新研究：做夢讓睡覺更耗神",
+          "link": "https://www.gvm.com.tw/article/132295",
+          "published": "2026-08-15T14:00:00",
+          "summary": "日本東北大學的一項最新小鼠研究發現，大腦在「快速動眼睡眠」（REM）期間，雖然血流量增加，且星狀膠質細胞內的丙酮酸（pyruvate）濃度跟著上升，但神經元中可供立即使用的能量分子「ATP」卻不增反降。這項發現顯示，大腦在做夢時，其實會經歷短暫的「能量失衡」。這篇發表於《Communications Biology》期刊的研究證實，REM 睡眠絕非大腦在單純休息。為了透視大腦的運作，研究團隊以小鼠"
         },
         {
-          "title": "「一流人士」都具備1項能力：靠「這招」結束無意義的閒聊",
-          "link": "https://www.gvm.com.tw/article/123634",
-          "published": "2026-08-14T20:38:00",
-          "summary": "我見過各行各業的成功人士，見證了他們走向成功的歷程。而那些「一流人士」身上，都有一個共通點，那就是閒聊力。也就是說，他們都「擅長閒聊」。閒聊就像肌肉一樣，而閒聊力，就是肌力。肌力是可以透過鍛鍊獲得的吧？閒聊也一樣，愈練習就愈擅長，慢慢就會獲得力量。（本文節錄自《社交腹肌》一書，作者：森優子，寶瓶文化出版，以下為摘文。）大家身邊有這樣的人嗎？他們和所有人都能交談自如，性格活潑開朗，總是精力充沛。如果"
+          "title": "看陳幸妤事件，我想起一位傳產媽媽教我的「人性風險管理」",
+          "link": "https://www.gvm.com.tw/article/132322",
+          "published": "2026-08-15T11:25:00",
+          "summary": "最近前總統陳水扁女兒陳幸妤於前夫趙建銘的診所留下Google商家一星評論，並指出自己為前夫負擔數千萬貸款，店面卻掛他名下現在很後悔。這起事件讓我感慨，周遭有不少像陳幸妤這樣優秀的女性，在婚姻裡卻仍常受欺負。為什麼？我想起一位傳產貴婦的故事，她堅持「人性風險管理」讓我學到不少。這週台灣網上討論最熱烈的，莫過於前總統陳水扁女兒陳幸妤開撕前夫趙建銘的事情。這我想到一位朋友分享過的家庭故事。他是家族企業第"
         },
         {
-          "title": "做一樣的事，為何有些孩子表現特別出色？關鍵不在智商而是「這能力」",
-          "link": "https://www.gvm.com.tw/article/123594",
-          "published": "2026-08-14T20:16:00",
-          "summary": "曾經看似永遠都是優等生的孩子，現在的成績卻表現平平，甚至低於平均的水準。「他們小時候明明學得很好，怎麼會變成這樣？」當我不斷反覆經歷這樣的狀況之後，我突然意識到：「念書並不是萬能的。」不僅是在學業成績方面，要讓孩子在所有生活領域中成長，關鍵不在於智商。（本文節錄自《小學生正向習慣養成書》一書，作者：河楡丁，台灣廣廈出版，以下為摘文。）我永遠不會忘記孩子誕生那一刻的感覺。不是因為分娩的痛楚，而是因為"
+          "title": "每天三秒也能增肌！四招離心運動，長輩在家就能練",
+          "link": "https://www.gvm.com.tw/article/132321",
+          "published": "2026-08-15T11:19:00",
+          "summary": "長者肌力流失怎麼辦？最新研究證實，每天「三秒離心運動」就能增強肌力！本文解析離心收縮訓練原理，並公開高齡者在家必做的四招肌力訓練，以及走下樓梯的好處，免花大把時間，輕鬆改善行動力、預防跌倒與增肌。年紀大了，肌力流失往往在不知不覺中發生：從椅子上起身變得吃力、上下樓梯開始需要扶手，提菜、搬東西也不再像以前輕鬆。當腿部肌力持續下降，跌倒、衰弱，甚至失去獨立生活能力的風險，也可能隨之增加。然而，想維持肌"
         },
         {
-          "title": "晚10年收益「差這麼多」！65歲退休擁有1千萬，「這時間」就該開始規劃",
-          "link": "https://www.gvm.com.tw/article/123280",
-          "published": "2026-08-14T20:15:00",
-          "summary": "我問過投資前輩，他們現在有如此成就和可觀的資產，還有什麼事是他們沒做到的？他們的回答相當一致：「如果可以，我會更早開始投資。」雖然在剛出社會時，就考慮退休規畫似乎有些遙遠，甚至奇怪，但請相信我，從領到第一筆薪水的那一刻起，著手規畫退休，這將會是你一生中最輕鬆的時刻。（本文節錄自《財富自由的階梯》一書，作者：PG財經筆記 蔡至誠，大是文化出版，以下為摘文。）從你領到第一筆薪水就該開始18 歲時，我拿"
+          "title": "比率史上新高！勞工平均薪資近4.9萬，為何7成人領不到？",
+          "link": "https://www.gvm.com.tw/article/132292",
+          "published": "2026-08-15T11:00:00",
+          "summary": "主計總處公布薪資統計，今年1至6月全體受僱員工每月經常性薪資平均數為新台幣4萬8981元，續寫新高，年增2.88%，然而，低於平均數員工比率同步改寫紀錄，首次突破7成大關，升抵70.03%，意味有7成受僱員工領不到平均薪資水準。主計總處按月公布薪資統計，包含平均薪資、中位數、實質薪資等數據，其中平均數容易受極端值拉抬，有時不易真實呈現多數民眾的「薪情」。主計總處今天公布今年1至6月低於平均數員工比"
         },
         {
-          "title": "研究結果證實：老套卻最簡單有效的「感恩日記」，讓目標達成率提高20%",
-          "link": "https://www.gvm.com.tw/article/132319",
-          "published": "2026-08-14T19:00:00",
-          "summary": "你是否曾以為，感恩只是提醒自己「知足」？其實，感恩不只是情緒上的安慰，更可能成為改變思考模式、提升行動力的關鍵。研究發現，持續記錄值得感謝的事，不僅有助於穩定情緒、減輕壓力，也能讓人更有耐心與執行力。（本文節錄自《富人的身體》一書，作者：李東桓／新樂園出版，以下為摘文。）美國心能商數（Heart Math）研究所的羅林・麥克雷提（Rollin McCraty）博士，曾透過實驗證明：當人懷抱感恩時，"
+          "title": "「12-3-30」真的有效？不愛跑步就跑步機上快走，醫提醒4族群勿照表操課",
+          "link": "https://www.gvm.com.tw/article/132291",
+          "published": "2026-08-15T07:00:00",
+          "summary": "近期社群流行「12-3-30」跑步機快走訓練法，研究顯示，快走比跑步的脂肪供能比例較高，醫師提醒，這不等於長期減脂效果更好，平時無運動習慣、肥胖族群等4族群勿照表操課。「12-3-30 跑步機訓練法」，就是將跑步機設定為12%坡度，以時速3英里（約每小時4.8公里）的速度，持續走路30分鐘。根據2025年刊登於《國際運動科學雜誌》的一項研究，研究團隊找來16名有固定運動習慣的成年人，分別完成「12"
         }
       ]
     },
@@ -96,40 +66,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "內政部：人屋雙老挑戰祭出住宅3支箭強化居住環境 - 新住民全球新聞網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.immigration.gov.tw/NewsSection/Detail/22853586-3193-43ED-8E6A-6B14C587F401%3Flang%3DTW&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0NhdoUMXFCanzyH7tmLPHV",
-          "published": "2026-08-15T01:00:31+00:00",
-          "summary": "... 淨零減碳，強化都市環境韌性。 中央社近日舉辦2026城市永續論壇，董建宏以推動都市更新與老宅延壽政策為題發表演講。他指出，台灣現在面臨的挑戰不只是氣候變遷&nbsp;..."
+          "title": "竹縣8場企業碳管理系列課程攜手產業加速<b>淨零</b>轉型 - 台灣捷報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.1658tw.com/%3Fp%3D194692&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0HUW0dl1on4h_kyedqiDyX",
+          "published": "2026-08-16T01:25:38+00:00",
+          "summary": "... 淨零轉型競爭力。 △第一場溫室氣體排放量盤查及減量說明會。（圖／環保局提供）. 此次系列講座及工作坊，邀集環境部氣候變遷署、工業技術研究院、財團法人&nbsp;..."
         },
         {
-          "title": "讓自然香氣走進排雲山莊跨機關攜手打造國產材低碳示範場域 - PChome news",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/living/inews/20260815/index-78675103810680351009.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1Ty5vXnjUHOzyexmZvqJUs",
-          "published": "2026-08-15T00:35:49+00:00",
-          "summary": "從指引標示到玉山植物木框畫，每一塊木材都是來自山林的延伸，讓人們在使用空間同時，也感受到永續與自然共生的意義。 從細節開始共創淨零未來新風景. 面對氣候&nbsp;..."
+          "title": "竹縣8場企業碳管理系列課程攜手產業加速<b>淨零</b>轉型逾500家企業參與 - Life 生活網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://life.tw/article/%25E7%25AB%25B9%25E7%25B8%25A38%25E5%25A0%25B4%25E4%25BC%2581%25E6%25A5%25AD%25E7%25A2%25B3%25E7%25AE%25A1%25E7%2590%2586%25E7%25B3%25BB%25E5%2588%2597%25E8%25AA%25B2%25E7%25A8%258B%25E6%2594%259C%25E6%2589%258B%25E7%2594%25A2%25E6%25A5%25AD%25E5%258A%25A0%25E9%2580%259F%25E6%25B7%25A8%25E9%259B%25B6%25E8%25BD%2589%25E5%259E%258B-%25E9%2580%25BE500%25E5%25AE%25B6%25E4%25BC%2581-3120293&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2VaNHyfIlZVLY3PMBwTdqU",
+          "published": "2026-08-15T20:19:11+00:00",
+          "summary": "此次系列講座及工作坊，邀集環境部氣候變遷署、工業技術研究院、財團法人塑膠工業技術發展中心、財團法人台灣產業服務基金會及中華民國能源技術服務商業同業公會&nbsp;..."
         },
         {
-          "title": "熱浪難擋投資熱！歐洲股市創新高投資人無視氣候風險 - 民視財經網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://finance.ftvnews.com.tw/news/detail/2026814W0750&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1nb0oraxpxqPfnU_5kyWnp",
-          "published": "2026-08-15T00:24:14+00:00",
-          "summary": "瑞士隆奧銀行（Lombard Odier）總體經濟研究主管Florian Ielpo 指出，當前強勁的財報季以及對伊朗局勢引發通膨的擔憂，使得全球暖化問題在投資人眼中退居次要&nbsp;..."
+          "title": "二氧化碳移除科技發展現況分析|<b>淨零</b>永續對策與商機|綠能與環境 - IEK產業情報網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/iekrpt/rpt_more.aspx%3Frpt_idno%3D93545384%26indu_idno%3D5&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2XmTY-N3enMAo27XnZxOkH",
+          "published": "2026-08-15T20:08:45+00:00",
+          "summary": "從加拿大「碳管理戰略」剖析臺加淨零生態的合作機會. Canada's Carbon Management Strategy in Focus: Collaborative Opportunities for Taiwan's Net-Zero&nbsp;..."
         },
         {
-          "title": "英國野火肆虐燒毀民宅首相視察呼籲正視<b>氣候變遷</b>| 民視新聞網 - LINE TODAY",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/QwlQPmz&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw13DjquqI6C3SzFCghcEOgj",
-          "published": "2026-08-14T22:04:18+00:00",
-          "summary": "英國近日遭受嚴重野火肆虐，多處民宅遭到燒毀。英國（UK）首相Andy Burnham 週五視察災區小鎮時指出，國家必須正視氣候變遷的嚴峻挑..."
+          "title": "工作暑熱警告備受關注林正財：按工種細化制訂專屬指引",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://hk.on.cc/hk/bkn/cnt/news/20260815/bkn-20260815170053172-0815_00822_001.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0i3LwemxEBah1aHOAnS8Y2",
+          "published": "2026-08-15T18:11:07+00:00",
+          "summary": "近期本港錄得破紀錄高溫又經歷暴雨，令市民更關注氣候變化問題，而工作暑熱警告機制的運作亦備受社會注意。有行會成員表示，極端..."
         },
         {
-          "title": "當全球<b>淨零</b>碳排不可逆大趨勢已「兵臨城下」將迫使企業減碳轉型！ - 理財寶",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/article/182211000&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2qGRQdEMXZmiQFe2GQfwZJ",
-          "published": "2026-08-14T19:24:56+00:00",
-          "summary": "減碳轉型已經逐漸從企業形象轉變成：成本、訂單、競爭力的問題。2026年是一個很重要的時間點，「歐盟CBAM」已經自2026.01.01進入正式制度，進口商需要申."
+          "title": "<b>氣候變遷</b>異象！南美海鳥因聖嬰遷徙、地中海獅子魚肆虐 - 民視新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ftvnews.com.tw/news/detail/2026815W0526&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1uH_XZ4Z1UXEvaHJNXOzTV",
+          "published": "2026-08-15T18:04:18+00:00",
+          "summary": "Reuters 路透社報導全球氣候變遷與&nbsp;..."
         },
         {
-          "title": "法國西南朗德省森林大火暫時得到控制，2026年法國森林過火面積創20年新高 - RFI",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rfi.fr/tw/%25E7%2594%259F%25E6%2585%258B/20260814-%25E6%25B3%2595%25E5%259C%258B%25E8%25A5%25BF%25E5%258D%2597%25E6%259C%2597%25E5%25BE%25B7%25E7%259C%2581%25E6%25A3%25AE%25E6%259E%2597%25E5%25A4%25A7%25E7%2581%25AB%25E6%259A%25AB%25E6%2599%2582%25E5%25BE%2597%25E5%2588%25B0%25E6%258E%25A7%25E5%2588%25B6%25EF%25BC%258C2026%25E5%25B9%25B4%25E6%25B3%2595%25E5%259C%258B%25E6%25A3%25AE%25E6%259E%2597%25E9%2581%258E%25E7%2581%25AB%25E9%259D%25A2%25E7%25A9%258D%25E5%2589%25B520%25E5%25B9%25B4%25E6%2596%25B0%25E9%25AB%2598&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0MAQoHw3WiL6qC-vaQbUka",
-          "published": "2026-08-14T18:48:32+00:00",
-          "summary": "據悉，這是法國朗德加斯科涅森林今年發生的第三場重大火災。該地區主要種植海岸松，而近年來受氣候變化助推的多輪熱浪使這些松林嚴重乾燥，極易發生並迅速&nbsp;..."
+          "title": "政府與機構推全國生態日相關活動及優惠卓永興籲市民踴躍參加- RTHK - 香港電台新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.rthk.hk/rthk/ch/component/k2/1866268-20260815.htm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw17PQvSzvkqY2JQ6BX7I2pa",
+          "published": "2026-08-15T17:41:36+00:00",
+          "summary": "另外，特區政府正著力落實在2035年前，提高零碳能源在發電燃料組合中所佔的比例至約60%至70%，以邁向在2050年前實現碳中和的目標。 他提到，特區政府聯同&nbsp;..."
         }
       ]
     }
