@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-16T02:20:11.701376+00:00",
-    "date": "2026-08-16",
+    "generated_at": "2026-08-17T02:18:43.943635+00:00",
+    "date": "2026-08-17",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,10 +12,10 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "【金融 AI 代理安全與防禦】AI Agents 直上支付與交易第一線，機構「分階段放權」才是安全底線",
-          "link": "https://techorange.com/2026/08/15/securing-ai-agents-in-financial-infrastructure/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-14T22:29:00+00:00",
-          "summary": "金融自動化浪潮正以驚人速度席捲。Gartner 預估 2026 年底將有 40% 的企業應用程式，嵌入任務型 AI 代理人（2025 年小於 5%），且已有 79% 企業著手導入。 與僅能生成文字回應的無狀態 Chatbot 不同，AI 代理人結合推理、長期記憶與 API 工具存取，具備自主規劃與執行多步驟任務的能力；這群代理人正深度整合進資金、支付、交易、託管與會計等五大核心領域，從「動口」給資"
+          "title": "【科技早餐】OpenAI 年化營收估破 400 億美元、Anthropic 單季營收達去年 14 倍，美國擬要求 AI 夥伴選邊",
+          "link": "https://techorange.com/2026/08/17/openai-anthropic-revenue-us-china-ai-alliance/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-16T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊OpenAI 年化營收估破 400 億美元，Anthropic 第 2 季營收達去年同期 14 倍 《彭博》引述知情人士報導，OpenAI 目前的年化營收估計即將突破 400 億美元，約為 2025 年底的兩倍。成長動能除了 ChatGPT 訂閱，也來自開始發展的廣告業務、程式碼代理工具 Codex，以及企業用產品 ChatGPT Work。Op"
         }
       ]
     },
@@ -24,40 +24,16 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "快時尚的「永續」招牌到底是掛給誰看？H&M;賣二手衣背後的商業算計",
-          "link": "https://www.gvm.com.tw/article/132294",
-          "published": "2026-08-15T16:00:00",
-          "summary": "走進快時尚品牌H&amp;M位於美國紐約的旗艦店深處，除了依照顏色分類的最新商品，還有一區專門販售二手衣的選品空間，裡面從印有卡通圖案的紀念T恤到定價超過新台幣8000元的義大利時尚品牌莫斯奇諾（Moschino）專櫃上衣應有盡有。除了H&amp;M以外，不少大型零售商也加入這股二手衣熱潮。如Banana Republic就推出限量復古系列，重新販售1970、1980、1990年代經典款式；美國女"
+          "title": "用了60年都沒人發現的秘密！最熟悉的糖尿病藥，科學家現在才認識它的「隱藏機制」",
+          "link": "https://www.gvm.com.tw/article/132299",
+          "published": "2026-08-16T07:00:00",
+          "summary": "二甲雙胍（Metformin）是治療第二型糖尿病超過 60 年的經典藥物。多年來，學界普遍認為它主要透過影響肝臟及腸道代謝來控制血糖。然而，美國貝勒醫學院（Baylor College of Medicine）的科學家發現，大腦竟是這款老藥的重要作用器官。本次研究顯示，二甲雙胍會直接影響腦內的神經迴路，幫助調節全身血糖。研究結果已刊登在國際期刊《Science Advances》，並讓人們重新認識"
         },
         {
-          "title": "睡覺讓頭腦休息？經歷短暫能量失衡，日本最新研究：做夢讓睡覺更耗神",
-          "link": "https://www.gvm.com.tw/article/132295",
-          "published": "2026-08-15T14:00:00",
-          "summary": "日本東北大學的一項最新小鼠研究發現，大腦在「快速動眼睡眠」（REM）期間，雖然血流量增加，且星狀膠質細胞內的丙酮酸（pyruvate）濃度跟著上升，但神經元中可供立即使用的能量分子「ATP」卻不增反降。這項發現顯示，大腦在做夢時，其實會經歷短暫的「能量失衡」。這篇發表於《Communications Biology》期刊的研究證實，REM 睡眠絕非大腦在單純休息。為了透視大腦的運作，研究團隊以小鼠"
-        },
-        {
-          "title": "看陳幸妤事件，我想起一位傳產媽媽教我的「人性風險管理」",
-          "link": "https://www.gvm.com.tw/article/132322",
-          "published": "2026-08-15T11:25:00",
-          "summary": "最近前總統陳水扁女兒陳幸妤於前夫趙建銘的診所留下Google商家一星評論，並指出自己為前夫負擔數千萬貸款，店面卻掛他名下現在很後悔。這起事件讓我感慨，周遭有不少像陳幸妤這樣優秀的女性，在婚姻裡卻仍常受欺負。為什麼？我想起一位傳產貴婦的故事，她堅持「人性風險管理」讓我學到不少。這週台灣網上討論最熱烈的，莫過於前總統陳水扁女兒陳幸妤開撕前夫趙建銘的事情。這我想到一位朋友分享過的家庭故事。他是家族企業第"
-        },
-        {
-          "title": "每天三秒也能增肌！四招離心運動，長輩在家就能練",
-          "link": "https://www.gvm.com.tw/article/132321",
-          "published": "2026-08-15T11:19:00",
-          "summary": "長者肌力流失怎麼辦？最新研究證實，每天「三秒離心運動」就能增強肌力！本文解析離心收縮訓練原理，並公開高齡者在家必做的四招肌力訓練，以及走下樓梯的好處，免花大把時間，輕鬆改善行動力、預防跌倒與增肌。年紀大了，肌力流失往往在不知不覺中發生：從椅子上起身變得吃力、上下樓梯開始需要扶手，提菜、搬東西也不再像以前輕鬆。當腿部肌力持續下降，跌倒、衰弱，甚至失去獨立生活能力的風險，也可能隨之增加。然而，想維持肌"
-        },
-        {
-          "title": "比率史上新高！勞工平均薪資近4.9萬，為何7成人領不到？",
-          "link": "https://www.gvm.com.tw/article/132292",
-          "published": "2026-08-15T11:00:00",
-          "summary": "主計總處公布薪資統計，今年1至6月全體受僱員工每月經常性薪資平均數為新台幣4萬8981元，續寫新高，年增2.88%，然而，低於平均數員工比率同步改寫紀錄，首次突破7成大關，升抵70.03%，意味有7成受僱員工領不到平均薪資水準。主計總處按月公布薪資統計，包含平均薪資、中位數、實質薪資等數據，其中平均數容易受極端值拉抬，有時不易真實呈現多數民眾的「薪情」。主計總處今天公布今年1至6月低於平均數員工比"
-        },
-        {
-          "title": "「12-3-30」真的有效？不愛跑步就跑步機上快走，醫提醒4族群勿照表操課",
-          "link": "https://www.gvm.com.tw/article/132291",
-          "published": "2026-08-15T07:00:00",
-          "summary": "近期社群流行「12-3-30」跑步機快走訓練法，研究顯示，快走比跑步的脂肪供能比例較高，醫師提醒，這不等於長期減脂效果更好，平時無運動習慣、肥胖族群等4族群勿照表操課。「12-3-30 跑步機訓練法」，就是將跑步機設定為12%坡度，以時速3英里（約每小時4.8公里）的速度，持續走路30分鐘。根據2025年刊登於《國際運動科學雜誌》的一項研究，研究團隊找來16名有固定運動習慣的成年人，分別完成「12"
+          "title": "追思〉方勵之遺孀李淑嫻懷念高希均教授",
+          "link": "https://www.gvm.com.tw/article/132327",
+          "published": "2026-08-15T22:28:00",
+          "summary": "【編按】知名天體物理學家方勵之教授和妻子李淑嫻女士，與高希均教授結識於1987年，正是中國改革開放十年浪潮的高峰。他們的友誼在北京、倫敦、威斯康辛大學校園、台北等地寫下篇章，收錄在《高希均回憶錄》。遠見‧天下文化事業群出版方勵之著作《我們正在寫歷史》（1987）、《方勵之自傳》（2013），見證40年的情誼，是近代知識份子相知相惜的典型。李淑嫻今91高齡，自美傳來惜別文章，追悼好友。驚聞高希均教授"
         }
       ]
     },
@@ -66,40 +42,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "竹縣8場企業碳管理系列課程攜手產業加速<b>淨零</b>轉型 - 台灣捷報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.1658tw.com/%3Fp%3D194692&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0HUW0dl1on4h_kyedqiDyX",
-          "published": "2026-08-16T01:25:38+00:00",
-          "summary": "... 淨零轉型競爭力。 △第一場溫室氣體排放量盤查及減量說明會。（圖／環保局提供）. 此次系列講座及工作坊，邀集環境部氣候變遷署、工業技術研究院、財團法人&nbsp;..."
+          "title": "Tencent Details Progress Toward <b>Carbon Neutrality</b> Goals and Outlines AI-Era Priorities - 富途资讯",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.futunn.com/hk/post/77740751/tencent-details-progress-toward-carbon-neutrality-goals-and-outlines-ai&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2TMHXGavmLSnCi0a33VJiF",
+          "published": "2026-08-17T01:45:48+00:00",
+          "summary": "... carbon neutrality across its own operations and supply chain by 2030. 中國深圳，2026年8月17日/PRNewswire/ — 騰訊控股（0700.HK）發佈了《碳中和中期&nbsp;..."
         },
         {
-          "title": "竹縣8場企業碳管理系列課程攜手產業加速<b>淨零</b>轉型逾500家企業參與 - Life 生活網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://life.tw/article/%25E7%25AB%25B9%25E7%25B8%25A38%25E5%25A0%25B4%25E4%25BC%2581%25E6%25A5%25AD%25E7%25A2%25B3%25E7%25AE%25A1%25E7%2590%2586%25E7%25B3%25BB%25E5%2588%2597%25E8%25AA%25B2%25E7%25A8%258B%25E6%2594%259C%25E6%2589%258B%25E7%2594%25A2%25E6%25A5%25AD%25E5%258A%25A0%25E9%2580%259F%25E6%25B7%25A8%25E9%259B%25B6%25E8%25BD%2589%25E5%259E%258B-%25E9%2580%25BE500%25E5%25AE%25B6%25E4%25BC%2581-3120293&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2VaNHyfIlZVLY3PMBwTdqU",
-          "published": "2026-08-15T20:19:11+00:00",
-          "summary": "此次系列講座及工作坊，邀集環境部氣候變遷署、工業技術研究院、財團法人塑膠工業技術發展中心、財團法人台灣產業服務基金會及中華民國能源技術服務商業同業公會&nbsp;..."
+          "title": "捷克乾旱高溫農夫轉種向日葵無花果抗<b>氣候變遷</b>| 國際| 中央社CNA",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/news/aopl/202608170014.aspx&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3b8AusYn-hWIdQn-c1CTeE",
+          "published": "2026-08-17T01:33:57+00:00",
+          "summary": "受乾旱與高溫衝擊，捷克農業界正尋求應對氣候變遷的替代作物。除了種植向日葵以替代油菜籽外，部分地區也開始試種無花果與橄欖樹。農民也寄望於農業科技突破&nbsp;..."
         },
         {
-          "title": "二氧化碳移除科技發展現況分析|<b>淨零</b>永續對策與商機|綠能與環境 - IEK產業情報網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/iekrpt/rpt_more.aspx%3Frpt_idno%3D93545384%26indu_idno%3D5&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2XmTY-N3enMAo27XnZxOkH",
-          "published": "2026-08-15T20:08:45+00:00",
-          "summary": "從加拿大「碳管理戰略」剖析臺加淨零生態的合作機會. Canada's Carbon Management Strategy in Focus: Collaborative Opportunities for Taiwan's Net-Zero&nbsp;..."
+          "title": "騰訊公布<b>碳中和</b>進展聚焦AI時代減碳策略 - Yahoo 財經",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://hk.finance.yahoo.com/news/%25E9%25A8%25B0%25E8%25A8%258A%25E5%2585%25AC%25E5%25B8%2583%25E7%25A2%25B3%25E4%25B8%25AD%25E5%2592%258C%25E9%2580%25B2%25E5%25B1%2595-%25E8%2581%259A%25E7%2584%25A6ai%25E6%2599%2582%25E4%25BB%25A3%25E6%25B8%259B%25E7%25A2%25B3%25E7%25AD%2596%25E7%2595%25A5-010000605.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0DkuGF29kYSHRccRj3xAuy",
+          "published": "2026-08-17T01:28:19+00:00",
+          "summary": "同時，騰訊亦推出「碳LIVE」氣候智能平台，連接政府、投資者及氣候科技領域，幫助各界共享氣候解決方案及有關數據與投資機遇。 穩步邁向碳中和目標. 在推動業界&nbsp;..."
         },
         {
-          "title": "工作暑熱警告備受關注林正財：按工種細化制訂專屬指引",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://hk.on.cc/hk/bkn/cnt/news/20260815/bkn-20260815170053172-0815_00822_001.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0i3LwemxEBah1aHOAnS8Y2",
-          "published": "2026-08-15T18:11:07+00:00",
-          "summary": "近期本港錄得破紀錄高溫又經歷暴雨，令市民更關注氣候變化問題，而工作暑熱警告機制的運作亦備受社會注意。有行會成員表示，極端..."
+          "title": "捷克乾旱高溫農夫轉種向日葵無花果抗<b>氣候變遷</b>",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/article/182233840&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3bcX6E45VI4C7wS_quHLHJ",
+          "published": "2026-08-17T00:54:39+00:00",
+          "summary": "除了種植向日葵以替代油菜籽外，部分地區也開始試種無花果與橄欖樹。農民也寄望於農業科技突破，盼改良灌溉系統與提升作物抗旱性，降低氣候變遷帶來的..."
         },
         {
-          "title": "<b>氣候變遷</b>異象！南美海鳥因聖嬰遷徙、地中海獅子魚肆虐 - 民視新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ftvnews.com.tw/news/detail/2026815W0526&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1uH_XZ4Z1UXEvaHJNXOzTV",
-          "published": "2026-08-15T18:04:18+00:00",
-          "summary": "Reuters 路透社報導全球氣候變遷與&nbsp;..."
+          "title": "捷克乾旱高溫農夫轉種向日葵無花果抗<b>氣候變遷</b> - 聯合新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/6812/9695580&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3oKlM5RcSxRtfpfBzn3wVz",
+          "published": "2026-08-17T00:32:31+00:00",
+          "summary": "受乾旱與高溫衝擊，捷克農業界正尋求應對氣候變遷的替代作物。除了種植向日葵以替代油菜籽外，部分地區也開始試種無花果與橄欖樹..."
         },
         {
-          "title": "政府與機構推全國生態日相關活動及優惠卓永興籲市民踴躍參加- RTHK - 香港電台新聞網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.rthk.hk/rthk/ch/component/k2/1866268-20260815.htm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw17PQvSzvkqY2JQ6BX7I2pa",
-          "published": "2026-08-15T17:41:36+00:00",
-          "summary": "另外，特區政府正著力落實在2035年前，提高零碳能源在發電燃料組合中所佔的比例至約60%至70%，以邁向在2050年前實現碳中和的目標。 他提到，特區政府聯同&nbsp;..."
+          "title": "中國開通首條穿越北極的定期貨運航線- WSJ",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://cn.wsj.com/articles/%25E4%25B8%25AD%25E5%259C%258B%25E9%2596%258B%25E9%2580%259A%25E9%25A6%2596%25E6%25A2%259D%25E7%25A9%25BF%25E8%25B6%258A%25E5%258C%2597%25E6%25A5%25B5%25E7%259A%2584%25E5%25AE%259A%25E6%259C%259F%25E8%25B2%25A8%25E9%2581%258B%25E8%2588%25AA%25E7%25B7%259A-5785fd76&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0MjNW5eig3B3l6Wu_sfKFY",
+          "published": "2026-08-17T00:15:03+00:00",
+          "summary": "隨著高油價與氣候變化改變了經濟賬，派遣貨櫃船穿越北極航道如今已具備財務上的可行性。"
         }
       ]
     }
