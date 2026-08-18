@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-17T02:18:43.943635+00:00",
-    "date": "2026-08-17",
+    "generated_at": "2026-08-18T02:14:56.131266+00:00",
+    "date": "2026-08-18",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,10 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "【科技早餐】OpenAI 年化營收估破 400 億美元、Anthropic 單季營收達去年 14 倍，美國擬要求 AI 夥伴選邊",
-          "link": "https://techorange.com/2026/08/17/openai-anthropic-revenue-us-china-ai-alliance/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-16T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊OpenAI 年化營收估破 400 億美元，Anthropic 第 2 季營收達去年同期 14 倍 《彭博》引述知情人士報導，OpenAI 目前的年化營收估計即將突破 400 億美元，約為 2025 年底的兩倍。成長動能除了 ChatGPT 訂閱，也來自開始發展的廣告業務、程式碼代理工具 Codex，以及企業用產品 ChatGPT Work。Op"
+          "title": "【工業 AI 作業平台】稱工廠供應鏈是 AI 最有價值處，新創 Arrakis 不綁模型、費用跟績效掛鉤",
+          "link": "https://techorange.com/2026/08/18/arrakis-ai-industrial-startup-palantir/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-18T01:28:47+00:00",
+          "summary": "新創公司 Arrakis 擁有來自 Palantir 背景成員，其前線部署 AI 工程師模式，讓人力直接進駐產業客戶營運現場，模型中立策略更可將 Token 成本降低約 70%。"
+        },
+        {
+          "title": "【奈米網紅互動率達 6.8%】微網紅互動是大網紅三倍、獲客成本僅 1/3，行銷預算怎麼分才划算？",
+          "link": "https://techorange.com/2026/08/18/the-creator-economy-has-a-new-middle-class/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-18T01:28:37+00:00",
+          "summary": "過去談到網紅經濟，首先想到的通常是擁有數百萬粉絲、單篇貼文報價數萬美元的頭部創作者。但 TikTok、Instagram Reels、Amazon Storefront 等平台成熟後，創作者市場出現新的中間階層：微網紅，他們未必擁有巨大聲量，卻能依靠數萬名忠實追蹤者、品牌合作與聯盟行銷，取得接近甚至超過一般白領工作的收入。 這股微網紅經濟的崛起，一方面改變了品牌的預算配置方式，讓行銷資源從少數明星"
+        },
+        {
+          "title": "【科技早餐】SpaceX 600 億美元收購 Cursor，阿里稱 Qwen 半年下載破 30 億次、在 Hugging Face 領先 Google 與 Meta",
+          "link": "https://techorange.com/2026/08/18/spacex-cursor-acquisition-alibaba-qwen-ai-model-downloads/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-17T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊SpaceX 600 億美元收購 Cursor，馬斯克擴大企業 AI 版圖 監管文件顯示，SpaceX 對 Cursor 母公司 Anysphere 的收購案已於 8 月 14 日生效。這筆價值 600 億美元的全股票交易，是科技業史上規模最大的收購案之一。Anysphere 於 2022 年成立，隔年推出 AI 程式開發工具 Cursor，協助"
+        },
+        {
+          "title": "從機器手臂到半導體設備都不能停機：台達如何用新世代電源生態系兼顧高負載、極端環境與能源效率？",
+          "link": "https://techorange.com/2026/08/17/delta-infinity-ready-podcast/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-17T09:55:23+00:00",
+          "summary": "專訪：戴季全撰稿：李昀蔚 當全球科技大廠持續擴建 AI 資料中心，製造業也加速導入智慧工廠、機器人與自動化設備，一場不容易被看見卻決定整套系統能否穩定運轉的基礎設施競賽，也正在同步升溫，那就是「電源」。 台達標準電源事業部總經理陳威廷在接受本集《全新一週》專訪時指出，台達標準電源目前主要布局工業、醫療與照明三大應用領域。所謂標準電源，就是架上現成、具泛用規格的商品化產品，也因為使用範圍非常廣泛，當"
+        },
+        {
+          "title": "直接在軍艦上造出 12 架無人機：美軍如何將「分散式製造」接進前線供應鏈？",
+          "link": "https://techorange.com/2026/08/17/us-navy-3d-prints-combat-ready-drones/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-17T08:54:43+00:00",
+          "summary": "美國國防新創 Firestorm Labs 近日揭露，旗下貨櫃式微型工廠 xCell 首次進行海上部署，在美國海軍兩棲突擊艦 USS Essex 前往夏威夷的兩週航程中，製造超過 1,000 個零件，並在艦上製造無人機結構件、完成 12 架可實際飛行的 Squall FPV 無人機。抵達夏威夷後，這批無人機也直接投入反無人機演習。 根據《Tom’s Hardware》報導，xCell 在航程中遭遇"
+        },
+        {
+          "title": "Anthropic 執行長談 AI 信任危機：與其宣稱「AI 能治癌」，不如真的把癌症治好",
+          "link": "https://techorange.com/2026/08/17/dario-amodei-anthropics-policy-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-17T07:33:59+00:00",
+          "summary": "Anthropic 執行長 Dario Amodei 近日在社群媒體 X 發文，回應投資人 Gavin Baker 對其 AI 監管立場及 AI 風險溝通方式的質疑。他表示，監管並不必然導致 AI 權力集中，關鍵在於制度如何設計，公平、客觀的制度反而有機會制衡企業的影響力，讓權力更加分散。對於外界認為他過度強調 AI 風險、加深大眾對 AI 的負面印象，Dario Amodei 則表示，真正的問題"
         }
       ]
     },
@@ -24,16 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "用了60年都沒人發現的秘密！最熟悉的糖尿病藥，科學家現在才認識它的「隱藏機制」",
-          "link": "https://www.gvm.com.tw/article/132299",
-          "published": "2026-08-16T07:00:00",
-          "summary": "二甲雙胍（Metformin）是治療第二型糖尿病超過 60 年的經典藥物。多年來，學界普遍認為它主要透過影響肝臟及腸道代謝來控制血糖。然而，美國貝勒醫學院（Baylor College of Medicine）的科學家發現，大腦竟是這款老藥的重要作用器官。本次研究顯示，二甲雙胍會直接影響腦內的神經迴路，幫助調節全身血糖。研究結果已刊登在國際期刊《Science Advances》，並讓人們重新認識"
+          "title": "Joman凌晨想吃哪家牛肉麵？歷史學博士：「川味」牛肉麵其實是貨真價實的「台灣味」",
+          "link": "https://www.gvm.com.tw/article/74836",
+          "published": "2026-08-17T20:58:00",
+          "summary": "編按：知名YouTuber Joeman分手新聞讓「牛肉麵」成社群熱議話題，網友紛紛提問「Joeman凌晨想吃的到底是哪家牛肉麵？」你知道現在風靡國內外的珍珠奶茶以及牛肉麵，它們是在何種背景之下，在台灣誕生的嗎？（本文摘自《一本就懂台灣史【修訂新版】》一書，以下為摘文。）台灣茶：改變台灣命運的茶清末台灣開港，徹底改變了台灣的命運。最主要的關鍵是外商進入台灣，購買所需商品，而最受外商青睞的就是茶、糖"
         },
         {
-          "title": "追思〉方勵之遺孀李淑嫻懷念高希均教授",
-          "link": "https://www.gvm.com.tw/article/132327",
-          "published": "2026-08-15T22:28:00",
-          "summary": "【編按】知名天體物理學家方勵之教授和妻子李淑嫻女士，與高希均教授結識於1987年，正是中國改革開放十年浪潮的高峰。他們的友誼在北京、倫敦、威斯康辛大學校園、台北等地寫下篇章，收錄在《高希均回憶錄》。遠見‧天下文化事業群出版方勵之著作《我們正在寫歷史》（1987）、《方勵之自傳》（2013），見證40年的情誼，是近代知識份子相知相惜的典型。李淑嫻今91高齡，自美傳來惜別文章，追悼好友。驚聞高希均教授"
+          "title": "別讓「假自律」毀了你！世上最不自律的行為：追求他人對自律的定義",
+          "link": "https://www.gvm.com.tw/article/132367",
+          "published": "2026-08-17T19:30:00",
+          "summary": "你以為自己不夠成功，是因為不夠自律。於是跟著別人的清單早起、運動、斷食，完成一個又一個挑戰；看起來很努力，也得到許多肯定，卻依然焦慮、疲憊，離想要的人生愈來愈遠。但也許，問題不是做得太少，而是做了太多不重要的事。（本文節錄自《自律的陷阱》一書，作者：克雷格．巴蘭坦，丹尼爾．伍德倫／商周出版，以下為摘文。）來認識一下查克。查克看上去完全是人生勝利組。──漂亮的太太──兩個可愛的小孩──高級紅色跑車─"
+        },
+        {
+          "title": "「兒少未來帳戶條例」卓榮泰不副署！行政院：違反憲法權力分立原則",
+          "link": "https://www.gvm.com.tw/article/132366",
+          "published": "2026-08-17T18:47:00",
+          "summary": "行政院發言人李慧芝表示，立法院日前三讀通過台灣兒少成長及未來帳戶條例違反憲法權力分立原則、比例原則及租稅法律原則等憲法要求，為捍衛憲政秩序及行政院權限，行政院長卓榮泰今天決定不副署此條例，並將持續推動台灣人口對策新戰略18項家庭支持措施。行政院5月提出台灣人口對策新戰略18項家庭支持措施，其中包含0歲到18歲兒少每人每月新台幣5000元的成長津貼。隨後立法院在7月通過在野黨版「台灣兒少成長及未來帳"
+        },
+        {
+          "title": "美軍西太平洋最後航母撤離！伊朗戰事拖住美國，台灣該擔心嗎？",
+          "link": "https://www.gvm.com.tw/article/132365",
+          "published": "2026-08-17T18:23:00",
+          "summary": "美國「華盛頓號」航母即將離開亞洲、轉赴中東，接替長期部署的「林肯號」，使太平洋暫時出現美軍航母空檔。面對中東戰事與中國持續擴大南海軍事活動，美國能否同時維持印太嚇阻力備受關注。航母撤離也牽動台灣周邊安全與第一島鏈防衛布局。美國即將撤離駐亞洲最後一艘航空母艦「華盛頓號」（USS George Washington），前往中東接替支援伊朗戰事的「林肯號」（USS Abraham Lincoln），讓美"
+        },
+        {
+          "title": "全球富豪財富衝破20兆美元、創新高！他們正加碼「這三類題材」",
+          "link": "https://www.gvm.com.tw/article/132364",
+          "published": "2026-08-17T18:10:00",
+          "summary": "這幾年來，AI浪潮帶動資產價格成長，連帶也讓全球高資產族群的財富持續攀升，根據富比士全球富豪榜統計，2026年全球資產淨值達10億美元以上的富豪人數為3428人，較去年再度攀升，全球富豪總財富更達20.1兆美元，較2025年增加4兆美元。這也代表AI浪潮加速推動這一輪「富人經濟」的形成，高資產族群的資金動向，更成為觀察全球資本流向與產業趨勢的最新指標，究竟這些有錢人都在投資什麼？富邦投信今（17）"
+        },
+        {
+          "title": "網傳台海將開戰？各國駐台機構最新「避難包」揭密，這樣備最安心",
+          "link": "https://www.gvm.com.tw/article/132362",
+          "published": "2026-08-17T17:29:00",
+          "summary": "最近漢光演習再度觸動台灣人敏感神經。網路上甚至盛傳「台海即將開戰」的說法，除了美國突然決定撤離部署在太平洋上的航空母艦令人擔憂外，歐洲、英國、加拿大、美國AIT等駐台機構也接力在社群上「開箱」避難包，讓不少民眾感到焦慮。然而，我們真的需要恐慌嗎？駐台機構的避難包又有哪些國人想不到的小寶物？【目錄】• 網傳台海快開戰？理性看待軍事調動• 美歐英加駐台機構「避難包挑戰」大公開！5大代表帶了什麼？• 打"
         }
       ]
     },
@@ -42,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "Tencent Details Progress Toward <b>Carbon Neutrality</b> Goals and Outlines AI-Era Priorities - 富途资讯",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.futunn.com/hk/post/77740751/tencent-details-progress-toward-carbon-neutrality-goals-and-outlines-ai&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2TMHXGavmLSnCi0a33VJiF",
-          "published": "2026-08-17T01:45:48+00:00",
-          "summary": "... carbon neutrality across its own operations and supply chain by 2030. 中國深圳，2026年8月17日/PRNewswire/ — 騰訊控股（0700.HK）發佈了《碳中和中期&nbsp;..."
+          "title": "看人間<b>氣候變遷</b>考驗公共媒體，也考驗政府與國會 - 人間福報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.merit-times.com.tw/NewsPage.aspx%3Funid%3D940659&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1iCjA7bx9cHPJa68DR70yO",
+          "published": "2026-08-18T01:23:20+00:00",
+          "summary": "國際上做得成熟的公共媒體，例如英國廣播公司（BBC），已經把氣候報導寫進編輯準則與記者訓練，形成常態化的編採機制，不再仰賴個別記者的熱情或單一節目的靈光&nbsp;..."
         },
         {
-          "title": "捷克乾旱高溫農夫轉種向日葵無花果抗<b>氣候變遷</b>| 國際| 中央社CNA",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/news/aopl/202608170014.aspx&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3b8AusYn-hWIdQn-c1CTeE",
-          "published": "2026-08-17T01:33:57+00:00",
-          "summary": "受乾旱與高溫衝擊，捷克農業界正尋求應對氣候變遷的替代作物。除了種植向日葵以替代油菜籽外，部分地區也開始試種無花果與橄欖樹。農民也寄望於農業科技突破&nbsp;..."
+          "title": "校園綠蔭聯結綠色城市環境部攜手市府、成大打造都市林示範場域-新聞發布",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/moenv-news/zh-tw/News/13918&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1zTCsKqnwWS_ahO9QviDXH",
+          "published": "2026-08-18T00:42:41+00:00",
+          "summary": "環境部昨（17）日在國立成功大學舉辦「國土綠蔭氣候調適計畫暨推動木質資源循環」第十場說明會，由環境部長彭啓明親自主持，包括成功大學副校長李俊璋、臺南&nbsp;..."
         },
         {
-          "title": "騰訊公布<b>碳中和</b>進展聚焦AI時代減碳策略 - Yahoo 財經",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://hk.finance.yahoo.com/news/%25E9%25A8%25B0%25E8%25A8%258A%25E5%2585%25AC%25E5%25B8%2583%25E7%25A2%25B3%25E4%25B8%25AD%25E5%2592%258C%25E9%2580%25B2%25E5%25B1%2595-%25E8%2581%259A%25E7%2584%25A6ai%25E6%2599%2582%25E4%25BB%25A3%25E6%25B8%259B%25E7%25A2%25B3%25E7%25AD%2596%25E7%2595%25A5-010000605.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0DkuGF29kYSHRccRj3xAuy",
-          "published": "2026-08-17T01:28:19+00:00",
-          "summary": "同時，騰訊亦推出「碳LIVE」氣候智能平台，連接政府、投資者及氣候科技領域，幫助各界共享氣候解決方案及有關數據與投資機遇。 穩步邁向碳中和目標. 在推動業界&nbsp;..."
+          "title": "美研究：<b>氣候變遷</b>對老年人高溫健康威脅遭嚴重低估| 民視新聞網 - LINE TODAY",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/vX8Bzoj&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0FDav4KYATCiFQxRDll5TO",
+          "published": "2026-08-17T23:32:41+00:00",
+          "summary": "美國一項最新模擬研究指出，氣候變遷導致的氣溫上升對老年人健康造成的威脅，過去被嚴重低估。由於以往研究多以年輕人為對象，忽略了長者排汗較少、心..."
         },
         {
-          "title": "捷克乾旱高溫農夫轉種向日葵無花果抗<b>氣候變遷</b>",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/article/182233840&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3bcX6E45VI4C7wS_quHLHJ",
-          "published": "2026-08-17T00:54:39+00:00",
-          "summary": "除了種植向日葵以替代油菜籽外，部分地區也開始試種無花果與橄欖樹。農民也寄望於農業科技突破，盼改良灌溉系統與提升作物抗旱性，降低氣候變遷帶來的..."
+          "title": "中華電打造跨物種AI保育模式|半導體|產業新聞|產科國際所【IEK產業情報網】",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D0%26nsl_id%3Dd8c1d392c7534900af9da311daf92bc8&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3rRHCdHsaZZQS8EI3nXsIV",
+          "published": "2026-08-17T22:45:33+00:00",
+          "summary": "面對氣候變遷與生物多樣性喪失，中華電信發揮通訊網路、AI ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
         },
         {
-          "title": "捷克乾旱高溫農夫轉種向日葵無花果抗<b>氣候變遷</b> - 聯合新聞網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/6812/9695580&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3oKlM5RcSxRtfpfBzn3wVz",
-          "published": "2026-08-17T00:32:31+00:00",
-          "summary": "受乾旱與高溫衝擊，捷克農業界正尋求應對氣候變遷的替代作物。除了種植向日葵以替代油菜籽外，部分地區也開始試種無花果與橄欖樹..."
+          "title": "寧德時代20座電池工廠完成核心營運<b>碳中和</b>，啟動2035供應鏈減碳計畫",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://3c.yipee.cc/349716/%25E5%25AF%25A7%25E5%25BE%25B7%25E6%2599%2582%25E4%25BB%25A320%25E5%25BA%25A7%25E9%259B%25BB%25E6%25B1%25A0%25E5%25B7%25A5%25E5%25BB%25A0%25E5%25AE%258C%25E6%2588%2590%25E6%25A0%25B8%25E5%25BF%2583%25E7%2587%259F%25E9%2581%258B%25E7%25A2%25B3%25E4%25B8%25AD%25E5%2592%258C%25EF%25BC%258C%25E5%2595%259F%25E5%258B%25952035/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3FEAP1XVWMdn_LczgtQfs2",
+          "published": "2026-08-17T22:05:18+00:00",
+          "summary": "在產能擴大的同時，公司透過零碳電力、製程改善與能源管理降低製造階段排放。依官方資料，2023 年以來累計使用零碳電力超過180 億度，2025 年單位產品能耗較2022&nbsp;..."
         },
         {
-          "title": "中國開通首條穿越北極的定期貨運航線- WSJ",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://cn.wsj.com/articles/%25E4%25B8%25AD%25E5%259C%258B%25E9%2596%258B%25E9%2580%259A%25E9%25A6%2596%25E6%25A2%259D%25E7%25A9%25BF%25E8%25B6%258A%25E5%258C%2597%25E6%25A5%25B5%25E7%259A%2584%25E5%25AE%259A%25E6%259C%259F%25E8%25B2%25A8%25E9%2581%258B%25E8%2588%25AA%25E7%25B7%259A-5785fd76&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0MjNW5eig3B3l6Wu_sfKFY",
-          "published": "2026-08-17T00:15:03+00:00",
-          "summary": "隨著高油價與氣候變化改變了經濟賬，派遣貨櫃船穿越北極航道如今已具備財務上的可行性。"
+          "title": "2026台灣永續碳權ESG論壇8/18登場賴清德親臨、產官界聯手啟動<b>淨零</b>轉型新局 - Facebook",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/ETtoday/posts/2026%25E5%258F%25B0%25E7%2581%25A3%25E6%25B0%25B8%25E7%25BA%258C%25E7%25A2%25B3%25E6%25AC%258Aesg%25E8%25AB%2596%25E5%25A3%2587818%25E7%2599%25BB%25E5%25A0%25B4-%25E8%25B3%25B4%25E6%25B8%2585%25E5%25BE%25B7%25E8%25A6%25AA%25E8%2587%25A8%25E7%2594%25A2%25E5%25AE%2598%25E7%2595%258C%25E8%2581%25AF%25E6%2589%258B%25E5%2595%259F%25E5%258B%2595%25E6%25B7%25A8%25E9%259B%25B6%25E8%25BD%2589%25E5%259E%258B%25E6%2596%25B0%25E5%25B1%2580/1528026499356430/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1D0sQNkEJtbe3POP6hz_Ce",
+          "published": "2026-08-17T19:00:18+00:00",
+          "summary": "2026台灣永續碳權ESG論壇8/18登場 賴清德親臨、產官界聯手啟動淨零. 12h. Recent posts. ETtoday新聞雲 󱢏. 20m󰞋󱟠."
         }
       ]
     }
