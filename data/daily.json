@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-19T02:17:43.483538+00:00",
-    "date": "2026-08-19",
+    "generated_at": "2026-08-20T02:16:09.070829+00:00",
+    "date": "2026-08-20",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "【科技早餐】NVIDIA 為 OpenAI 8 GW 資料中心提供最高 1,050 億美元擔保，Google 傳 Pixel 全面移出中國",
-          "link": "https://techorange.com/2026/08/19/nvidia-openai-data-center-guarantee-google-pixel-china-exit/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-18T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊NVIDIA 為 OpenAI 8 GW 資料中心提供最高 1,050 億美元擔保 NVIDIA 同意提供最高 1,050 億美元擔保，支持 OpenAI 租用軟銀旗下 SB Energy 在美國俄亥俄州開發的資料中心。NVIDIA 也將投資 SB Energy 15 億美元，並成為園區獨家 AI 運算基礎設施供應商。園區第一階段規劃 4.25 "
+          "title": "【技術債吃掉 AI 投資報酬】企業砸錢導入 AI，卻因底層跑 20 年前的舊系統而難以兌現",
+          "link": "https://techorange.com/2026/08/20/technical-debt/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-20T01:38:42+00:00",
+          "summary": "企業正在加速導入 AI，但投入越多，另一個問題也越來越明顯：模型能力不斷提升，企業真正拿到的投資報酬卻未必同步增加。 原因可能不在 AI 本身，而在 AI 被接到了什麼樣的系統上。 對許多大型企業而言，AI 並不是部署在一套為資料即時流通、跨系統協作而設計的新架構中，而是被疊加在運行十幾、二十年的舊軟體之上。這些系統累積了大量客製化程式、資料孤島與人工流程，原本只需要維持既有業務運轉，如今卻被要求"
         },
         {
-          "title": "SoftBank 砸 2 億美元投資 Gravis Robotics：AI 重機競爭正從單台設備走向整支機隊",
-          "link": "https://techorange.com/2026/08/18/softbank-gravis-robotics-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-18T08:11:00+00:00",
-          "summary": "當 AI 開始走進工地，工程業者不一定得先換掉手上的挖土機。瑞士工程機器人新創 Gravis Robotics 近日宣布完成 2 億美元 A 輪融資，SoftBank 是本輪唯一投資者，交易後 Gravis 估值達 10 億美元。Gravis 更稱，這是建築機器人領域至今規模最大的 A 輪融資。 Gravis 2022 年從瑞士蘇黎世聯邦理工學院（ETH Zurich）衍生創立，由執行長 Ryan"
+          "title": "【科技早餐】Anthropic 單季營收首度超越 OpenAI，字節跳動、騰訊各獲約 1 萬顆 NVIDIA H200",
+          "link": "https://techorange.com/2026/08/20/anthropic-openai-q2-revenue-nvidia-h200-china/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-19T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Anthropic 單季營收首度超越 OpenAI，OpenAI 營業虧損擴至 123 億美元 《華爾街日報》引述投資人資料報導，OpenAI 第二季營收為 67 億美元，較第一季的 57 億美元增加 18%；營業虧損則由 93 億美元擴大至 123 億美元。營業利益率進一步轉差，使公司在市場預期的首次公開募股前更遠離獲利。OpenAI 向投資人"
         },
         {
-          "title": "AI 用得多不等於生產力高：看摩根大通、高盛、花旗，如何用 3 種管理模式重新定義「AI KPI」",
-          "link": "https://techorange.com/2026/08/18/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-18T07:00:00+00:00",
-          "summary": "華爾街各大金融巨頭目前正投入數十億美元，展開一場重塑工作、文化與權力版圖的 AI 科技軍備競賽。從繁雜的交易、後台作業到日常工作流程，生成式 AI 已經無處不在，甚至徹底改變軟體工程師、初級銀行員與高階主管的角色定位。 然而，隨著投資與研發規模急遽擴大，分析師與投資人開始更頻繁地追問這些科技支出的實際投資回報（ROI）與安全性，各界也逐漸對高額支出是否合理產生疑慮。摩根大通（JPMorgan）執行"
+          "title": "美國無人機加速去中化，台廠下一步不只是接單：共同研發、共同生產成新機會",
+          "link": "https://techorange.com/2026/08/19/uav-taiwan-physical-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-19T08:21:32+00:00",
+          "summary": "美國無人機供應鏈加速去中化，替台灣廠商打開新的市場入口，但只成為中國以外的替代供應商，可能還不夠。 在台北自動化工業大展舉行的 2026 國際無人機論壇上，美國無人載具系統協會（AUVSI）加州分會副總裁 Asad Badruddin 分享，一名台灣業者曾告訴他，不希望只被當成中國以外的供應商，而希望進一步成為能參與產品設計的合作夥伴。這也點出台灣無人機產業接下來的問題：當降低中國製零組件依賴的「"
         },
         {
-          "title": "NVIDIA 出面替 OpenAI 的 10GW 資料中心擔保，同時鎖定第一期獨家晶片供應權",
-          "link": "https://techorange.com/2026/08/18/openai-locks-in-lease-for-huge-data-center-in-ohio-backing-nvidia/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-18T06:01:36+00:00",
-          "summary": "《華爾街日報》報導，OpenAI 已與軟銀旗下、獲 NVIDIA 部分支持的 SB Energy 達成協議，在美國俄亥俄州租用一座規模達 10GW 的資料中心，這項計畫預計將成為目前規模最大的 AI 資料中心樞紐之一。知情人士透露，NVIDIA 將提供支持，協助 SB Energy 籌措債務融資，同時控制自身風險。 俄亥俄州 AI 園區獲 NVIDIA 擔保，發電量將供 700 萬戶 NVIDIA"
+          "title": "美軍出資研發、中國做成產業：宇樹科技如何把美軍研究成果變成機器狗量產優勢？",
+          "link": "https://techorange.com/2026/08/19/asia-pacific-how-us-military-funding-propelled-chinas-robot-dogs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-19T06:00:00+00:00",
+          "summary": "美國軍方多年來投入大量資金資助四足機器人的移動技術研究，這些透過美國陸軍研究實驗室（ARL）等軍事專案挹注的研發資金，成為四足機器人運動能力的技術搖籃。麻省理工學院（MIT）、賓州大學等美國頂尖學術機構在這些專案中取得突破，並依據學術慣例公開發表相關論文與研究成果，然而這些最初由美軍資助、目的是激發產業技術創新的公開成果，現在卻成為中國機器人製造商宇樹科技（Unitree Robotics）發展旗"
         },
         {
-          "title": "Cursor 推 Origin 進軍程式碼託管：AI coding 戰場為何從 IDE 打到 GitHub？",
-          "link": "https://techorange.com/2026/08/18/cursor-origin-ai-agent-github/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-18T04:34:25+00:00",
-          "summary": "AI 程式開發工具 Cursor 宣布推出程式碼託管平台 Origin early beta，把程式碼儲存庫、Pull Request（PR）、程式碼瀏覽與 GitHub 同步納入 Cursor。過去 Cursor 最鮮明的角色，是讓工程師在 IDE 裡直接與 AI 一起寫程式，如今卻開始跨進原本由 GitHub 等平台掌握的程式碼託管與協作環節。Cursor 為什麼不再只守著 AI 編輯器？答案"
+          "title": "TikTok 私訊將能轉帳？彭博：TikTok Pay 悄悄開發點對點支付",
+          "link": "https://techorange.com/2026/08/19/tiktok-exploring-feature-send-money-messages/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-19T05:51:55+00:00",
+          "summary": "《Bloomberg》報導，TikTok 正在開發一項新功能，未來可能讓使用者直接透過私訊互相轉帳，進一步將支付服務延伸至一般使用者之間的金錢往來。 目前這項功能仍在開發階段，若最終推出，交易將由 TikTok Pay 負責處理。TikTok Pay 目前已在東南亞部分市場上線。研究人員在美國版 TikTok iPhone App 的程式碼中發現相關功能的開發痕跡，內容顯示，收款人可在款項失效前點"
         },
         {
-          "title": "AI 晶片客戶需求上看 20 億美元，Arm 卻得從零搶台積電與記憶體產能：從賣 IP 到自己賣晶片有多難？",
-          "link": "https://techorange.com/2026/08/18/arm-cfo-eyes-deals-chip-building-bring-new-challenges/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-18T03:33:02+00:00",
-          "summary": "過去，Arm 主要透過授權晶片架構與設計給 NVIDIA、Apple 等客戶，以維持高毛利、輕資產的商業模式。然而，在 AI 浪潮的強力推動下，Arm 的股價今年至今已翻倍成長，公司市值一舉衝上 3,000 億美元。這股強勁的市場動力與資金實力，促使這家由軟銀（SoftBank）控股的公司跨出傳統的 IP 授權模式，開始直接銷售自己專為 AI 設計的 CPU 晶片。 面對這場商業模式的重大轉變，A"
+          "title": "商品評論可能藏攻擊指令，零售業導入 AI 代理前該將哪些資安缺口補起來？",
+          "link": "https://techorange.com/2026/08/19/retailer-security-strategy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-19T02:51:43+00:00",
+          "summary": "會員帳號、金流平台、庫存系統與店內裝置，如今被整合成一套講求速度與無縫體驗的零售科技網路。但每一次新增的連結，都同時擴大零售業者的受攻擊面，安全缺口往往在資料與裝置不斷交換資訊時，難以被察覺。 這種難以察覺的特性，正是因為多數業者盯著的是單一系統夠不夠堅固，卻沒注意到系統與系統相連的那一刻，才是真正的風險所在。 連結點本身就是風險，而非單一系統 零售業者經常低估第三方與系統整合本身的風險，攻擊者往"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "更年期離職潮席捲全球，規律30分鐘運動如何守護台灣黃金女力？",
-          "link": "https://www.gvm.com.tw/article/131962",
-          "published": "2026-08-19T00:00:00",
-          "summary": "在英國，每10位更年期女性就有1名因職場缺乏配套支持而離職，她們往往正處於職涯巔峰，身居主管或決策要職；在美國，更年期症狀所造成的工時損失與醫療支出，每年高達266億美元；日本調查更顯示，六成更年期女性離職的主因是「對繼續工作失去自信」。當全球開始正視「更年期熱離職潮」對國力與經濟的衝擊，反觀台灣正面臨人口老化與勞動力短缺之雙重壓力，這批歷經20至30年職場淬鍊的熟齡女性若大量流失，將對國家競爭力"
+          "title": "熱量一模一樣，為何把大餐留到晚上吃瘦更慢？醫師：減重關鍵是「這2字」",
+          "link": "https://www.gvm.com.tw/article/132428",
+          "published": "2026-08-19T19:32:00",
+          "summary": "減重從來不是冷冰冰的卡路里加減法，隱身在食欲與體態背後的操控者，是「激素」。當激素平衡，身體自然知道何時該進食、何時該停止，以及脂肪該燃燒還是儲存。我常提醒學員：減重的關鍵不是「吃少」，「怎麼吃、何時吃」更為重要。身體在不同時段對食物的代謝反應是會變化的。以下就來談怎麼吃、何時吃的穩糖原則與技巧。（本文節錄自《激素平衡瘦身課》一書，作者：許書華／天下文化出版，以下為摘文。）進食順序微調：讓血糖更平"
         },
         {
-          "title": "不是積極，不是努力！她用慘痛職場教訓學會：好運會眷顧「這種人」",
-          "link": "https://www.gvm.com.tw/article/132399",
-          "published": "2026-08-18T19:29:00",
-          "summary": "清晰的核心價值觀就像是船底的壓艙石，能維持你的穩定。它能保障你不會因為外在環境而偏離航道，也能幫助你分辨某個機會是否符合你的價值觀，或是誘使你走偏了方向。當你清楚界定你的價值觀並時刻放在心中，你的生活就更容易和你的價值觀一致，而你愈堅持真誠行動，所建立的人際關係意義也就愈深刻。（本文節錄自《真希望我早就懂的好運法則》一書，作者：婷娜．希莉格／遠流出版，以下為摘文。）有一位站在我身邊的女子伸手按了「"
+          "title": "中年失業是危機或轉機？55歲遭調職、列裁員名單，3年後人生變得如何？",
+          "link": "https://www.gvm.com.tw/article/132427",
+          "published": "2026-08-19T19:04:00",
+          "summary": "有一位在日本具代表性的大企業工作超過30年的人士，一路順利升遷，在55歲時就任事業部部長。他原以為，接下來自己有機會晉升為執行董事。即使沒有達到這個階段，他也以為自己至少能在一定的職位上延長退休年齡。然而，沒想到就在55歲那年，他遭遇了突如其來的裁員候補通知。（本文節錄自《35之後，更好的工作在哪裡？》一書，作者：黑田真行／大是文化出版，以下為摘文。）當主管找他面談時，他甚至還期待會聽到好消息。但"
         },
         {
-          "title": "稀土戰新賽局！日美聯手開發南鳥島，能擺脫中國供應鏈？",
-          "link": "https://www.gvm.com.tw/article/132398",
-          "published": "2026-08-18T19:12:00",
-          "summary": "中國收緊稀土出口管制，日本加速開發南鳥島6000公尺深海稀土，估計蘊藏超過1600萬噸資源；只是深海開採必須面臨高成本、技術與生態風險。日本與美國強化合作，盼降低對中國依賴，預計2027年將進行大規模試採，2028年評估商業化。目錄&nbsp;● 南鳥島在哪裡？● 南鳥島有哪些稀土？● 美日為何聯手挖稀土？● 南鳥島稀土開挖有多難？● 中國為何盯上南鳥島？日本怎麼因應？● 南鳥島稀土何時商業化？面"
+          "title": "「身故保險金」需課遺產稅或贈與稅？搞錯「這些事」小心要補稅",
+          "link": "https://www.gvm.com.tw/article/132426",
+          "published": "2026-08-19T18:51:00",
+          "summary": "許多民眾在規劃保單時，或許都聽過保險的身故理賠金不列入遺產，因此不用課徵遺產稅，但是，有民眾直到申請完家人的身故理賠金後，收到國稅局的補稅通知單，才發現其身故保險金被列入遺產總額計算，必須補稅甚至面臨罰鍰。到底什麼情況下，身故保險金才會被列為遺產、可以免遺贈稅？根據《保險法》第112條規定，「保險金額約定於被保險人死亡時給付於其所指定之受益人者，其金額不得作為被保險人之遺產。」以及《遺產及贈與稅法"
         },
         {
-          "title": "「EPS王」群聯潘健成，細數企業級SSD從沒人要到四成營收",
-          "link": "https://www.gvm.com.tw/article/132394",
-          "published": "2026-08-18T18:33:00",
-          "summary": "單季每股賺進&nbsp;118&nbsp;元、改寫新高，群聯（8299）受封「EPS&nbsp;王」。但這門撐起如今四成營收的企業級&nbsp;SSD，6年前根本沒人看好。從乏人問津到四成營收，這是一個關於「熬」的故事。單季狂賺超過 11 個股本！記憶體 IC大廠群聯（8299）公布2026年第二季財報，以堪稱「天文數字」的表現撼動台股市場。群聯 Q2 單季每股純益（EPS）飆上 118.57 元"
+          "title": "「2個數字」算出你還要賣肝幾年：只存錢不投資，你要工作80年才能退休",
+          "link": "https://www.gvm.com.tw/article/131550",
+          "published": "2026-08-19T18:50:00",
+          "summary": "FIRE的道理很簡單，即是被動收入大於日常支出。一個人要工作幾年才能退休，這跟賺多少錢無關，只跟存下多少比例有關。根據行政院主計總處的數據，一般家庭的儲蓄率約為24％，如果以存到年支出25 倍的錢為目標，在不投資、只存錢的情況下，得工作將近80 年才能退休。（本文節錄自《我用四年就財富自由》一書，作者：V大（龔恬永）／大是文化出版，以下為摘文。）有了投資的本錢之後，一般人通常是迫不及待的衝進股市，"
         },
         {
-          "title": "博恩說父母要孝親費「丟臉」？我給了六年，對網紅觀點只同意一半",
-          "link": "https://www.gvm.com.tw/article/132392",
-          "published": "2026-08-18T18:24:00",
-          "summary": "上週陶晶瑩主持的Netflix談話性節目《追劇密探》 中，邀請網紅曾博恩談原生家庭議題，沒想到博恩痛批現今父母跟小孩要「孝親費」很丟臉。朋友問曾給了媽媽六年孝親費的我怎麼看？必須說我能體諒周遭Z世代極少會給的理由，但網紅的觀點我只能同意一半，來說說我的想法。近期Netflix談話性節目《追劇密探》 中，網紅曾博恩在節目中痛批現在父母跟小孩要求「孝親費」丟臉，認為是情緒勒索，在網路上引起正反兩方討論"
+          "title": "好的管理者通常是優異的生活家！看歐陽修、范仲淹：生活厚度就是工作高度",
+          "link": "https://www.gvm.com.tw/article/132425",
+          "published": "2026-08-19T18:37:00",
+          "summary": "工作績效是生活能量的總體呈現。好的管理者通常是優異的生活家，在生活中汲取養分，他設計的產品或執行的專案，切中市場需求，引起共鳴。看看歷史上的名臣名相，很多人文采斐然，光采照人，例如宋朝的歐陽修和范仲淹是旅行家，蘇東坡是美食家，英國首相邱吉爾是畫家。生活的厚度就是工作的高度。（本文節錄自《台北街角解憂故事》一書，作者：王學呈／商周出版，以下為摘文。）我鼓勵業務部同仁去學高爾夫球，同仁有點猶豫。我說："
         },
         {
-          "title": "遠東Garden City大巨蛋8/22試營運！3萬坪全台最大餐飲聚落、首創香水噴泉、頂樓11家米其林開箱",
-          "link": "https://www.gvm.com.tw/article/132391",
-          "published": "2026-08-18T17:42:00",
-          "summary": "位於台北大巨蛋、市中心最大購物商場「遠東Garden City」迎來全區開幕！8/22將試營運，占地面積達3萬坪，相當於SOGO忠孝館與復興館的加總。自今年三月傳出開幕以來多次延宕。高層主管透露，光是動線調整就花了一年之久，整棟商場的餐飲比例達30％，開幕後全區將是全台最大的餐飲聚落。有哪些亮點？遠見帶您搶先直擊。由遠東SOGO團隊經營，以「城市之心」、「首都花園」為概念、融合造鎮理念，將大巨蛋商"
+          "title": "童子賢懷念高教授：見解不同時，他總是哈哈一笑、好奇追問",
+          "link": "https://www.gvm.com.tw/article/132405",
+          "published": "2026-08-19T18:36:00",
+          "summary": "【編按】和碩聯合科技董事長童子賢撰文追思相差24歲的忘年之交——高希均教授。童子賢感念高希均溫暖和藹、博學包容，即使彼此觀點不同，高希均也總是帶著好奇與幽默傾聽。童子賢指出，高希均一生擁抱「書生報國」情懷，從早期倡導「天下哪有白吃的午餐」打破理盲風氣，到晚年終極關懷「和平幸福」，始終以文人良知滋養社會。懷念高希均教授的優雅風範，敬仰他的圓融智慧，並銘刻於心。我佩服他流暢明朗的文筆與清晰有層次的說理"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "邁向<b>淨零</b>賴總統提三大態度|半導體|產業新聞|產科國際所【IEK產業情報網】",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D5%26nsl_id%3Da243b977af54437b91e1a9779c0cd7c8&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Iy7SF5qJA9EmCm1UHtizl",
-          "published": "2026-08-18T23:36:22+00:00",
-          "summary": "賴清德出席「2026台灣永續碳權ESG論壇」致詞時表示，氣候變遷問題日益嚴重，他希望在 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
+          "title": "微細懸浮粒子威脅氣候港大：削植物碳吸收- 港聞 - 今日大公",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://epaper.tkww.hk/a/202608/20/AP6a8611b5e4b099d2ba48efc3.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw28enfWazgr1NqCKpoCf0b2",
+          "published": "2026-08-19T21:07:08+00:00",
+          "summary": "是次研究成果已在國際頂尖期刊《自然氣候變化》（Nature Climate Change）上正式發表。過去數十年來，大氣中二氧化碳濃度上升及氣候變化，總體提高了全球&nbsp;..."
         },
         {
-          "title": "邁向<b>淨零</b>賴總統提三大態度- 財經要聞 - 中時新聞網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/newspapers/20260819000189-260202&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw38Glq8L4O3on7TyKk1RF66",
-          "published": "2026-08-18T22:00:05+00:00",
-          "summary": "賴清德出席「2026台灣永續碳權ESG論壇」致詞時表示，氣候變遷問題日益嚴重，他希望在全台各縣市種植「都市林」，改善熱島效應。未來政府將立一部新法，讓中央與&nbsp;..."
+          "title": "<b>氣候變遷</b>加速瑞士冰河融化34年前失蹤登山客遺體現蹤 - 中央廣播電臺",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rti.org.tw/news%3Fuid%3D3%26pid%3D227220&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0M3C5rBQ5E1vd16hil5n__",
+          "published": "2026-08-19T20:36:30+00:00",
+          "summary": "氣候變遷加速冰川融化，退縮的冰層因而發現多年前、甚至數十年前的登山客遺體。 法新社報導，瑞士瓦萊邦（Wallis）警方在聲明中表示，一名健行者7月26日通報，在&nbsp;..."
         },
         {
-          "title": "Episcopal Church creation care grants open with eco-region oversight",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.episcopalchurch.org/publicaffairs/episcopal-church-creation-care-grants-open-with-eco-region-oversight/amp/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw24oh0KnlmpZCDRq6U5mPBY",
-          "published": "2026-08-18T20:47:27+00:00",
-          "summary": "Since 2017, the church has awarded more than $1 million in grants for projects that seek to address climate change, environmental degradation, and the&nbsp;..."
+          "title": "渥太華被指屈服于汽車游說團體 - Radio-Canada",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ici.radio-canada.ca/rci/zh-hant/%25E6%2596%25B0%25E9%2597%25BB/2276249/%25E6%25B8%25A5%25E5%25A4%25AA%25E5%258D%258E-%25E5%25B1%2588%25E6%259C%258D-%25E6%25B1%25BD%25E8%25BD%25A6-%25E6%25B8%25B8%25E8%25AF%25B4-%25E5%259B%25A2%25E4%25BD%2593-%25E7%2594%25B5%25E5%258A%25A8%25E6%25B1%25BD%25E8%25BD%25A6&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1be97WsT5fWA-TI_Bqm6TH",
+          "published": "2026-08-19T19:41:37+00:00",
+          "summary": "政策本預計在25年內減少加拿大3.76億噸的溫室氣體排放，相當于300萬輛汽車產生的排放量。 政府估計，取消這強制令，將導致全球因氣候變化遭受潛在高達903億元的&nbsp;..."
         },
         {
-          "title": "當<b>淨零</b>走進企業帳本花蓮從節能降本打造產業新競爭力 - 創新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://pronews.tw/2026/08/18/301853/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1TFxDH8oXyb_hjwlLqwDvY",
-          "published": "2026-08-18T20:41:03+00:00",
-          "summary": "【創新聞記者陳光蘊／花蓮報導】企業為什麼要做淨零？如果答案只是響應政策、取得一張碳盤查證明，或在簡報裡多放幾個ESG標誌，我認為，這樣的永續很難真正&nbsp;..."
+          "title": "賴總統出席<b>淨零</b>競賽盼半導體助力科技創新 - Yahoo新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E8%25B3%25B4%25E7%25B8%25BD%25E7%25B5%25B1%25E5%2587%25BA%25E5%25B8%25AD%25E6%25B7%25A8%25E9%259B%25B6%25E7%25AB%25B6%25E8%25B3%25BD-%25E7%259B%25BC%25E5%258D%258A%25E5%25B0%258E%25E9%25AB%2594%25E5%258A%25A9%25E5%258A%259B%25E7%25A7%2591%25E6%258A%2580%25E5%2589%25B5%25E6%2596%25B0-113541240.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3HZ93EYkHMmqeKhHsb2Flh",
+          "published": "2026-08-19T17:59:31+00:00",
+          "summary": "（中央社記者張雄風台北19日電）總統賴清德今天出席淨零排放科技國際競賽時表示，面對AI發展與2050淨零目標，政府將持續推動淨零科技創新，讓台灣發揮半導體&nbsp;..."
         },
         {
-          "title": "因應<b>淨零</b>排放與永續發展趨勢花蓮縣府4大免費資源助業者轉型永續產業標竿節省能源成本提升競爭力",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.1658tw.com/%3Fp%3D194845&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1J6-0PC1eI4aSqSGrpJGl0",
-          "published": "2026-08-18T19:53:37+00:00",
-          "summary": "花蓮縣府舉辦「低碳化暨節能診斷實施方案說明會」，吸引旅宿、餐飲、伴手禮、特色商品及工廠等多元產業業者齊聚交流."
+          "title": "賴總統出席<b>淨零</b>競賽盼半導體助力科技創新- 生活- 華視新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.cts.com.tw/cna/life/202608/202608193069166.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3wH6UEMFvEm51RhFLbjZyM",
+          "published": "2026-08-19T16:36:10+00:00",
+          "summary": "（中央社記者張雄風台北19日電）總統賴清德今天出席淨零排放科技國際競賽時表示，面對AI發展與2050淨零目標，政府將持續推動淨零科技創新，讓台灣發揮半導體與資&nbsp;..."
         },
         {
-          "title": "助在地業者轉型永續產業標竿邁向<b>淨零</b>花蓮縣府4大免費資源助企業節省能源成本並提升競爭力",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.contentplatform.info/articles/496166/%25E5%258A%25A9%25E5%259C%25A8%25E5%259C%25B0%25E6%25A5%25AD%25E8%2580%2585%25E8%25BD%2589%25E5%259E%258B%25E6%25B0%25B8%25E7%25BA%258C%25E7%2594%25A2%25E6%25A5%25AD%25E6%25A8%2599%25E7%25AB%25BF%25E9%2582%2581%25E5%2590%2591%25E6%25B7%25A8%25E9%259B%25B6%25E3%2580%2580%25E8%258A%25B1%25E8%2593%25AE%25E7%25B8%25A3%25E5%25BA%259C4/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1963d15ldUBBzf7yQblo4E",
-          "published": "2026-08-18T19:15:44+00:00",
-          "summary": "為因應淨零排放與永續發展趨勢，協助花蓮在地產業降低能源成本、提升經營效益及市場競爭力，花蓮縣政府今(8/18)日於花蓮縣衛生局3樓簡報室辦理「低碳化暨節能&nbsp;..."
+          "title": "「2026<b>淨零</b>排放科技國際競賽」揭曉百萬得主賴總統鼓勵走向全球永續合作",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/2026%25E6%25B7%25A8%25E9%259B%25B6%25E6%258E%2592%25E6%2594%25BE%25E7%25A7%2591%25E6%258A%2580%25E5%259C%258B%25E9%259A%259B%25E7%25AB%25B6%25E8%25B3%25BD-%25E6%258F%25AD%25E6%259B%2589%25E7%2599%25BE%25E8%2590%25AC%25E5%25BE%2597%25E4%25B8%25BB-%25E8%25B3%25B4%25E7%25B8%25BD%25E7%25B5%25B1%25E9%25BC%2593%25E5%258B%25B5%25E8%25B5%25B0%25E5%2590%2591%25E5%2585%25A8%25E7%2590%2583%25E6%25B0%25B8%25E7%25BA%258C%25E5%2590%2588%25E4%25BD%259C-153658922.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0cHnVmgJ-clGNPEIJBaDbh",
+          "published": "2026-08-19T16:02:33+00:00",
+          "summary": "... 氣候變遷與2050淨零排放挑戰，臺灣將持續推動淨零科技創新， ... Net Zero Tech淨零排放科技國際競賽」，賽事逐步串聯教育、研究、產業與國際&nbsp;..."
         }
       ]
     }
