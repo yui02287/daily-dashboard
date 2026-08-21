@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-20T02:16:09.070829+00:00",
-    "date": "2026-08-20",
+    "generated_at": "2026-08-21T02:22:33.356329+00:00",
+    "date": "2026-08-21",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "【技術債吃掉 AI 投資報酬】企業砸錢導入 AI，卻因底層跑 20 年前的舊系統而難以兌現",
-          "link": "https://techorange.com/2026/08/20/technical-debt/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-20T01:38:42+00:00",
-          "summary": "企業正在加速導入 AI，但投入越多，另一個問題也越來越明顯：模型能力不斷提升，企業真正拿到的投資報酬卻未必同步增加。 原因可能不在 AI 本身，而在 AI 被接到了什麼樣的系統上。 對許多大型企業而言，AI 並不是部署在一套為資料即時流通、跨系統協作而設計的新架構中，而是被疊加在運行十幾、二十年的舊軟體之上。這些系統累積了大量客製化程式、資料孤島與人工流程，原本只需要維持既有業務運轉，如今卻被要求"
+          "title": "25 歲 CEO 打造「全球美元銀行」，Augustus 押注穩定幣與 AI 搶攻通匯業務",
+          "link": "https://techorange.com/2026/08/21/augustus-ai-stablecoin-bank/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-21T01:43:31+00:00",
+          "summary": "新創公司 Augustus 宣布朝全球美元銀行理念更進一步，年僅 25 歲的執行長 Ferdinand Dabitz 表示，希望利用 AI 與穩定幣的混合模式，進軍通匯與代理銀行的金融科技市場。"
         },
         {
-          "title": "【科技早餐】Anthropic 單季營收首度超越 OpenAI，字節跳動、騰訊各獲約 1 萬顆 NVIDIA H200",
-          "link": "https://techorange.com/2026/08/20/anthropic-openai-q2-revenue-nvidia-h200-china/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-19T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Anthropic 單季營收首度超越 OpenAI，OpenAI 營業虧損擴至 123 億美元 《華爾街日報》引述投資人資料報導，OpenAI 第二季營收為 67 億美元，較第一季的 57 億美元增加 18%；營業虧損則由 93 億美元擴大至 123 億美元。營業利益率進一步轉差，使公司在市場預期的首次公開募股前更遠離獲利。OpenAI 向投資人"
+          "title": "【科技早餐】Google、Marvell AI 晶片合作營收上看 1,200 億美元，OpenAI 財務長稱 2027 年上市",
+          "link": "https://techorange.com/2026/08/21/google-marvell-ai-chip-deal-openai-ipo/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-20T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Google 聯手 Marvell 開發 AI 晶片，2033 年前合作營收上看 1,200 億美元 Marvell 宣布擴大與 Google 的客製化晶片合作，將為 Google 的 TPU 生態系開發 AI 推論加速器、儲存控制器、網路及記憶體介面控制器，以及近記憶體運算產品，涵蓋 AI 運算、資料儲存與傳輸等環節。 Marvell 同時授予"
         },
         {
-          "title": "美國無人機加速去中化，台廠下一步不只是接單：共同研發、共同生產成新機會",
-          "link": "https://techorange.com/2026/08/19/uav-taiwan-physical-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-19T08:21:32+00:00",
-          "summary": "美國無人機供應鏈加速去中化，替台灣廠商打開新的市場入口，但只成為中國以外的替代供應商，可能還不夠。 在台北自動化工業大展舉行的 2026 國際無人機論壇上，美國無人載具系統協會（AUVSI）加州分會副總裁 Asad Badruddin 分享，一名台灣業者曾告訴他，不希望只被當成中國以外的供應商，而希望進一步成為能參與產品設計的合作夥伴。這也點出台灣無人機產業接下來的問題：當降低中國製零組件依賴的「"
+          "title": "晶片還沒出貨，Anthropic 傳先下單 2.5 億美元：Fractile 憑什麼三個月估值翻六倍？",
+          "link": "https://techorange.com/2026/08/20/fractile-anthropic-ai-inference/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-20T08:03:05+00:00",
+          "summary": "英國 AI 晶片新創 Fractile 的第一批晶片預計要到 2027 年才會問世，卻已傳出 Anthropic 已先簽下約 2.5 億美元的採購協議。據《Bloomberg》報導，這家 2022 年才成立的公司，正以 65 億美元的投前估值洽談新一輪募資，預計進帳約 6 億美元，較三個月前的約 10 億美元估值大幅跳升逾 6 倍。晶片都還沒交貨，資本與大客戶為何搶著上車？ 不押訓練、也不靠 HB"
         },
         {
-          "title": "美軍出資研發、中國做成產業：宇樹科技如何把美軍研究成果變成機器狗量產優勢？",
-          "link": "https://techorange.com/2026/08/19/asia-pacific-how-us-military-funding-propelled-chinas-robot-dogs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-19T06:00:00+00:00",
-          "summary": "美國軍方多年來投入大量資金資助四足機器人的移動技術研究，這些透過美國陸軍研究實驗室（ARL）等軍事專案挹注的研發資金，成為四足機器人運動能力的技術搖籃。麻省理工學院（MIT）、賓州大學等美國頂尖學術機構在這些專案中取得突破，並依據學術慣例公開發表相關論文與研究成果，然而這些最初由美軍資助、目的是激發產業技術創新的公開成果，現在卻成為中國機器人製造商宇樹科技（Unitree Robotics）發展旗"
+          "title": "AFA 高峰會 9/2 登場！6,700 億美元產值的臺灣電子半導體供應鏈，FinTech、AI、穩定幣新動能助攻產業競爭力",
+          "link": "https://techorange.com/2026/08/20/fintechon-2026-afa-summit/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-20T08:00:00+00:00",
+          "summary": "隨著人工智慧（Artificial intelligence，AI）、半導體與數位經濟快速發展，全球供應鏈競爭已不再只取決於生產與物流效率，跨境支付、融資、資料交換及金融基礎設施能否同步運作，也逐漸成為企業韌性的重要一環。 FinTechOn 2026 暨亞洲金融科技聯盟高峰會（AFA Summit）將於 9 月 2 日至 3 日在臺北遠東香格里拉飯店登場，延續去年的討論，今年持續聚焦「金融科技 "
         },
         {
-          "title": "TikTok 私訊將能轉帳？彭博：TikTok Pay 悄悄開發點對點支付",
-          "link": "https://techorange.com/2026/08/19/tiktok-exploring-feature-send-money-messages/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-19T05:51:55+00:00",
-          "summary": "《Bloomberg》報導，TikTok 正在開發一項新功能，未來可能讓使用者直接透過私訊互相轉帳，進一步將支付服務延伸至一般使用者之間的金錢往來。 目前這項功能仍在開發階段，若最終推出，交易將由 TikTok Pay 負責處理。TikTok Pay 目前已在東南亞部分市場上線。研究人員在美國版 TikTok iPhone App 的程式碼中發現相關功能的開發痕跡，內容顯示，收款人可在款項失效前點"
+          "title": "Moxa 加速工業 AI 應用落地，強韌無線網路成智慧製造關鍵基礎設施",
+          "link": "https://techorange.com/2026/08/20/moxa-ai-amr-agv/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-20T07:25:51+00:00",
+          "summary": "隨著生成式 AI、數位孿生、AI 視覺檢測、自主移動機器人（AMR）等應用快速進入製造現場，工廠正從「設備自動化」邁向「AI 驅動的實體智慧」。然而，當設備數量持續增加、產線配置頻繁調整，且越來越多 AI 應用設備必須在工廠內移動時，提供持續、可靠與即時通訊的工業網路成了決定智慧製造應用能否穩定運作的關鍵。四零四科技（Moxa）於台北國際自動化工業大展上，以高速漫遊、強韌無線骨幹與工業級即時通訊技"
         },
         {
-          "title": "商品評論可能藏攻擊指令，零售業導入 AI 代理前該將哪些資安缺口補起來？",
-          "link": "https://techorange.com/2026/08/19/retailer-security-strategy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-19T02:51:43+00:00",
-          "summary": "會員帳號、金流平台、庫存系統與店內裝置，如今被整合成一套講求速度與無縫體驗的零售科技網路。但每一次新增的連結，都同時擴大零售業者的受攻擊面，安全缺口往往在資料與裝置不斷交換資訊時，難以被察覺。 這種難以察覺的特性，正是因為多數業者盯著的是單一系統夠不夠堅固，卻沒注意到系統與系統相連的那一刻，才是真正的風險所在。 連結點本身就是風險，而非單一系統 零售業者經常低估第三方與系統整合本身的風險，攻擊者往"
+          "title": "Edge AI 抓瑕疵、AI Agent 自動派工：洛克威爾自動化如何讓工廠從「看見問題」走向自主決策？",
+          "link": "https://techorange.com/2026/08/20/rockwell-automation-edge-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-20T07:00:00+00:00",
+          "summary": "近年來，全球工業自動化巨頭洛克威爾自動化（Rockwell Automation）正積極透過不同路徑，將 AI 技術推向製造現場最前線。其中一條路線，是透過 FactoryTalk Analytics VisionAI，讓 AI 在邊緣端進行運算，使其更靠近生產線與相機設備，以便即時、高效判斷產品瑕疵；另一條路線，則是與工業預測性維護領域的領先廠商 Augury 展開深度合作，將具主動性的 Age"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "熱量一模一樣，為何把大餐留到晚上吃瘦更慢？醫師：減重關鍵是「這2字」",
-          "link": "https://www.gvm.com.tw/article/132428",
-          "published": "2026-08-19T19:32:00",
-          "summary": "減重從來不是冷冰冰的卡路里加減法，隱身在食欲與體態背後的操控者，是「激素」。當激素平衡，身體自然知道何時該進食、何時該停止，以及脂肪該燃燒還是儲存。我常提醒學員：減重的關鍵不是「吃少」，「怎麼吃、何時吃」更為重要。身體在不同時段對食物的代謝反應是會變化的。以下就來談怎麼吃、何時吃的穩糖原則與技巧。（本文節錄自《激素平衡瘦身課》一書，作者：許書華／天下文化出版，以下為摘文。）進食順序微調：讓血糖更平"
+          "title": "富邦人壽如何以長期保障與多元佈局，陪伴高資產家族穩健承接未來？",
+          "link": "https://www.gvm.com.tw/article/132419",
+          "published": "2026-08-21T00:00:00",
+          "summary": "台灣首個對標國際級私人銀行服務的示範場域，「亞洲資產管理中心高雄專區」啟動屆滿一週年，成功吸引57家金融機構搶灘進駐。翻開這份進駐名單，銀行、證券、投信等金融巨頭，無不積極搶進這場留財引資的新局。值得深思的是，在動輒千萬、億元起跳的國際資產管理競賽中，身為金融業三大支柱之一的「壽險業」，究竟扮演著什麼樣的角色？相較於銀行端擅長靈活的信託架構與金流調度，以及證券端專注於資本市場的資產管理，壽險則透過"
         },
         {
-          "title": "中年失業是危機或轉機？55歲遭調職、列裁員名單，3年後人生變得如何？",
-          "link": "https://www.gvm.com.tw/article/132427",
-          "published": "2026-08-19T19:04:00",
-          "summary": "有一位在日本具代表性的大企業工作超過30年的人士，一路順利升遷，在55歲時就任事業部部長。他原以為，接下來自己有機會晉升為執行董事。即使沒有達到這個階段，他也以為自己至少能在一定的職位上延長退休年齡。然而，沒想到就在55歲那年，他遭遇了突如其來的裁員候補通知。（本文節錄自《35之後，更好的工作在哪裡？》一書，作者：黑田真行／大是文化出版，以下為摘文。）當主管找他面談時，他甚至還期待會聽到好消息。但"
+          "title": "46兆財富遷徙潮！高資產客戶如何兼顧保障、資產配置與財富傳承？",
+          "link": "https://www.gvm.com.tw/article/132279",
+          "published": "2026-08-21T00:00:00",
+          "summary": "《遠見雜誌》七月號封面故事調查，台灣民間財富迎來歷史性位移。預估至2026年，身價達新台幣1億元以上的高資產人士將攀升至12.4萬人，掌控46.1兆元財富；其中身價30億元以上的頂級富豪，三年內暴增3倍，手握12.8兆元資金。目錄一、高資產財富管理，除了資產配置之外還要兼顧哪些面向？二、保險如何成為高資產財富管理的穩定基石？三、富邦人壽如何透過高雄專區服務高資產客戶？四、進駐高雄專區一周年，富邦人"
         },
         {
-          "title": "「身故保險金」需課遺產稅或贈與稅？搞錯「這些事」小心要補稅",
-          "link": "https://www.gvm.com.tw/article/132426",
-          "published": "2026-08-19T18:51:00",
-          "summary": "許多民眾在規劃保單時，或許都聽過保險的身故理賠金不列入遺產，因此不用課徵遺產稅，但是，有民眾直到申請完家人的身故理賠金後，收到國稅局的補稅通知單，才發現其身故保險金被列入遺產總額計算，必須補稅甚至面臨罰鍰。到底什麼情況下，身故保險金才會被列為遺產、可以免遺贈稅？根據《保險法》第112條規定，「保險金額約定於被保險人死亡時給付於其所指定之受益人者，其金額不得作為被保險人之遺產。」以及《遺產及贈與稅法"
+          "title": "《尼古喵喵》香港叫它停播、台灣董氏基金會檢舉串流下架，這部動畫到底惹了什麼事？",
+          "link": "https://www.gvm.com.tw/article/132475",
+          "published": "2026-08-20T18:54:00",
+          "summary": "熱門動畫新番《尼古喵喵》，因為內容描述重度尼古丁成癮貓獸人的荒謬日常，涉及大量吸菸和成癮情節，最近遭到相關機關單位指控違反台灣《菸害防制法》相關條例，要求下架處理。而台灣串流平台「巴哈姆特動畫瘋」繼在香港站下架後，台灣站也隨即在20日下午宣布，接獲代理商通知，為配合政策，把該作全數下架，同時也向喜愛該作的觀眾致歉。《尼古喵喵》是什麼？《尼古喵喵》的故事設定在人類與擬人化獸人共存的社會，尼古喵喵是個"
         },
         {
-          "title": "「2個數字」算出你還要賣肝幾年：只存錢不投資，你要工作80年才能退休",
-          "link": "https://www.gvm.com.tw/article/131550",
-          "published": "2026-08-19T18:50:00",
-          "summary": "FIRE的道理很簡單，即是被動收入大於日常支出。一個人要工作幾年才能退休，這跟賺多少錢無關，只跟存下多少比例有關。根據行政院主計總處的數據，一般家庭的儲蓄率約為24％，如果以存到年支出25 倍的錢為目標，在不投資、只存錢的情況下，得工作將近80 年才能退休。（本文節錄自《我用四年就財富自由》一書，作者：V大（龔恬永）／大是文化出版，以下為摘文。）有了投資的本錢之後，一般人通常是迫不及待的衝進股市，"
+          "title": "台積電技術再突破！埃米世代完勝三星，先進製程藍圖比較一表看",
+          "link": "https://www.gvm.com.tw/article/132474",
+          "published": "2026-08-20T18:45:00",
+          "summary": "台積電（2330）先進製程藍圖明確，在埃米世代可望再度完勝三星。依據三星官方資訊，原訂2027年量產1.4奈米的時間點，將延後至2029年，比台積電A14晚一年量產。業界看好，台積電將持續享有領先者紅利，助攻營收與獲利。台積電已提出埃米級製程規畫，以A16為首發代表，預計2026年下半年生產就緒。先前業界盛傳首批客戶除了蘋果、輝達之外，也出現新的AI指標企業，最受矚目的是ChatGPT開發商Ope"
         },
         {
-          "title": "好的管理者通常是優異的生活家！看歐陽修、范仲淹：生活厚度就是工作高度",
-          "link": "https://www.gvm.com.tw/article/132425",
-          "published": "2026-08-19T18:37:00",
-          "summary": "工作績效是生活能量的總體呈現。好的管理者通常是優異的生活家，在生活中汲取養分，他設計的產品或執行的專案，切中市場需求，引起共鳴。看看歷史上的名臣名相，很多人文采斐然，光采照人，例如宋朝的歐陽修和范仲淹是旅行家，蘇東坡是美食家，英國首相邱吉爾是畫家。生活的厚度就是工作的高度。（本文節錄自《台北街角解憂故事》一書，作者：王學呈／商周出版，以下為摘文。）我鼓勵業務部同仁去學高爾夫球，同仁有點猶豫。我說："
+          "title": "趙建銘的「恩情反轉」心態是什麼？陳幸妤認醫生分析「精闢」的原因",
+          "link": "https://www.gvm.com.tw/article/132473",
+          "published": "2026-08-20T18:12:00",
+          "summary": "前總統陳水扁女兒陳幸妤近日開撕前夫後，看了國內身心科醫師胡學錦受訪談趙建銘心態是「恩情反轉」，稱讚「分析精闢」，讓這一詞瞬間洗版。它背後有沒有科學依據？心理學界有這說法嗎？是否不該對別人施恩太多，以免造成反效果？前總統陳水扁女兒陳幸妤，這一週以來連續公開談前夫趙建銘行徑，引起熱烈討論，甚至還促成藝術節。她控訴前夫趙建銘出獄後性情大變，不僅對她冷暴力多年，連前岳母吳淑珍病危想見他最後一面，他都不願前"
         },
         {
-          "title": "童子賢懷念高教授：見解不同時，他總是哈哈一笑、好奇追問",
-          "link": "https://www.gvm.com.tw/article/132405",
-          "published": "2026-08-19T18:36:00",
-          "summary": "【編按】和碩聯合科技董事長童子賢撰文追思相差24歲的忘年之交——高希均教授。童子賢感念高希均溫暖和藹、博學包容，即使彼此觀點不同，高希均也總是帶著好奇與幽默傾聽。童子賢指出，高希均一生擁抱「書生報國」情懷，從早期倡導「天下哪有白吃的午餐」打破理盲風氣，到晚年終極關懷「和平幸福」，始終以文人良知滋養社會。懷念高希均教授的優雅風範，敬仰他的圓融智慧，並銘刻於心。我佩服他流暢明朗的文筆與清晰有層次的說理"
+          "title": "陳幸妤離婚，扁家第一媳婦黃睿靚呢？與陳致中結婚20年近況曝光",
+          "link": "https://www.gvm.com.tw/article/132472",
+          "published": "2026-08-20T17:56:00",
+          "summary": "前總統陳水扁女兒陳幸妤近日證實與趙建銘結束近25年婚姻，讓昔日第一家庭再度受到關注。相較於陳幸妤與趙建銘婚姻走向終點，弟弟陳致中與妻子黃睿靚結婚20多年攜手走過司法風波，黃睿靚近年重新投入古典音樂，先後於2023年、2025年舉辦慈善鋼琴獨奏會，逐步回到自己熟悉的音樂專業領域。曾是台灣政壇焦點人物的「第一媳婦」黃睿靚，近年將生活重心拉回音樂與教學，現年47歲的她與陳水扁之子陳致中結婚逾20年，育有"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "微細懸浮粒子威脅氣候港大：削植物碳吸收- 港聞 - 今日大公",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://epaper.tkww.hk/a/202608/20/AP6a8611b5e4b099d2ba48efc3.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw28enfWazgr1NqCKpoCf0b2",
-          "published": "2026-08-19T21:07:08+00:00",
-          "summary": "是次研究成果已在國際頂尖期刊《自然氣候變化》（Nature Climate Change）上正式發表。過去數十年來，大氣中二氧化碳濃度上升及氣候變化，總體提高了全球&nbsp;..."
+          "title": "黃振文終身特聘教授、薛涵宇教授及泰國Kesinee Iamsaard教授研究團隊榮獲2026<b>淨零</b>排放 ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www2.nchu.edu.tw/news-detail/id/62385&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0qWHF_0FHpRqpGGjeKVQEB",
+          "published": "2026-08-20T23:58:13+00:00",
+          "summary": "國立中興大學,位於臺中市南區，占地約53公頃，更是中部區網中心,扭轉中部地區網路。 設有文學院、農業暨自然資源學院、 理學院、工學院、生命科學院、獸醫&nbsp;..."
         },
         {
-          "title": "<b>氣候變遷</b>加速瑞士冰河融化34年前失蹤登山客遺體現蹤 - 中央廣播電臺",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rti.org.tw/news%3Fuid%3D3%26pid%3D227220&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0M3C5rBQ5E1vd16hil5n__",
-          "published": "2026-08-19T20:36:30+00:00",
-          "summary": "氣候變遷加速冰川融化，退縮的冰層因而發現多年前、甚至數十年前的登山客遺體。 法新社報導，瑞士瓦萊邦（Wallis）警方在聲明中表示，一名健行者7月26日通報，在&nbsp;..."
+          "title": "美兩電力公司廣徵電池儲能系統響應維吉尼亞、加州<b>淨零</b>目標 - 行銷人",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.marketersgo.com/uncategorized/202608/%25E7%25BE%258E%25E5%2585%25A9%25E9%259B%25BB%25E5%258A%259B%25E5%2585%25AC%25E5%258F%25B8%25E5%25BB%25A3%25E5%25BE%25B5%25E9%259B%25BB%25E6%25B1%25A0%25E5%2584%25B2%25E8%2583%25BD%25E7%25B3%25BB%25E7%25B5%25B1-%25E9%259F%25BF%25E6%2587%2589%25E7%25B6%25AD%25E5%2590%2589%25E5%25B0%25BC%25E4%25BA%259E%25E3%2580%2581-2/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2s7qABF9IKSTQa3LLbdD2G",
+          "published": "2026-08-20T22:17:35+00:00",
+          "summary": "為達成各州再生能源與淨零排放目標，美國兩家電力公司近期發布多項採購計畫，積極尋求電池儲能系統（BESS）供應商，以強化電網韌性並滿足日益增長的電力需求。"
         },
         {
-          "title": "渥太華被指屈服于汽車游說團體 - Radio-Canada",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ici.radio-canada.ca/rci/zh-hant/%25E6%2596%25B0%25E9%2597%25BB/2276249/%25E6%25B8%25A5%25E5%25A4%25AA%25E5%258D%258E-%25E5%25B1%2588%25E6%259C%258D-%25E6%25B1%25BD%25E8%25BD%25A6-%25E6%25B8%25B8%25E8%25AF%25B4-%25E5%259B%25A2%25E4%25BD%2593-%25E7%2594%25B5%25E5%258A%25A8%25E6%25B1%25BD%25E8%25BD%25A6&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1be97WsT5fWA-TI_Bqm6TH",
-          "published": "2026-08-19T19:41:37+00:00",
-          "summary": "政策本預計在25年內減少加拿大3.76億噸的溫室氣體排放，相當于300萬輛汽車產生的排放量。 政府估計，取消這強制令，將導致全球因氣候變化遭受潛在高達903億元的&nbsp;..."
+          "title": "賴清德總統親臨2026<b>淨零</b>排放科技國際競賽全球40強競逐三座百萬桂冠",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20260820568926&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0yknPDJndMa_OspXQHcC1H",
+          "published": "2026-08-20T16:35:35+00:00",
+          "summary": "賴清德總統特別以英文致詞，除了鼓勵各國參賽青年，盛讚他們為改變人類未來、遏止氣候變遷 ... Net Zero Tech，累計已有逾萬名大學師生參與，不少參賽者後來投入&nbsp;..."
         },
         {
-          "title": "賴總統出席<b>淨零</b>競賽盼半導體助力科技創新 - Yahoo新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E8%25B3%25B4%25E7%25B8%25BD%25E7%25B5%25B1%25E5%2587%25BA%25E5%25B8%25AD%25E6%25B7%25A8%25E9%259B%25B6%25E7%25AB%25B6%25E8%25B3%25BD-%25E7%259B%25BC%25E5%258D%258A%25E5%25B0%258E%25E9%25AB%2594%25E5%258A%25A9%25E5%258A%259B%25E7%25A7%2591%25E6%258A%2580%25E5%2589%25B5%25E6%2596%25B0-113541240.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3HZ93EYkHMmqeKhHsb2Flh",
-          "published": "2026-08-19T17:59:31+00:00",
-          "summary": "（中央社記者張雄風台北19日電）總統賴清德今天出席淨零排放科技國際競賽時表示，面對AI發展與2050淨零目標，政府將持續推動淨零科技創新，讓台灣發揮半導體&nbsp;..."
+          "title": "原鄉<b>淨零</b>新典範！臺東金峰鄉新興村榮獲環境部低碳永續家園「銀級認證」 - PCHOME NEWS",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/living/newstaiwandigi/20260820/index-78723654384858279009.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2ryfI49Nsoy1N4uTJjfiIj",
+          "published": "2026-08-20T15:08:19+00:00",
+          "summary": "原鄉淨零新典範！臺東金峰鄉新興村榮獲環境部 臺東縣政府表示，面對氣候變遷與2050淨零轉型挑戰，臺東擁有豐富的自然資源及多元族群文化，如何在守護自然與&nbsp;..."
         },
         {
-          "title": "賴總統出席<b>淨零</b>競賽盼半導體助力科技創新- 生活- 華視新聞網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.cts.com.tw/cna/life/202608/202608193069166.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3wH6UEMFvEm51RhFLbjZyM",
-          "published": "2026-08-19T16:36:10+00:00",
-          "summary": "（中央社記者張雄風台北19日電）總統賴清德今天出席淨零排放科技國際競賽時表示，面對AI發展與2050淨零目標，政府將持續推動淨零科技創新，讓台灣發揮半導體與資&nbsp;..."
+          "title": "美兩電力公司廣徵電池儲能系統響應維吉尼亞、加州<b>淨零</b>目標 - 商傳媒",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://sunmedia.tw/news/Industry-information/1787182676-%25E7%25BE%258E%25E5%2585%25A9%25E9%259B%25BB%25E5%258A%259B%25E5%2585%25AC%25E5%258F%25B8%25E5%25BB%25A3%25E5%25BE%25B5%25E9%259B%25BB%25E6%25B1%25A0%25E5%2584%25B2%25E8%2583%25BD%25E7%25B3%25BB%25E7%25B5%25B1%25E3%2580%2580%25E9%259F%25BF%25E6%2587%2589%25E7%25B6%25AD%25E5%2590%2589%25E5%25B0%25BC%25E4%25BA%259E%25E3%2580%2581%25E5%258A%25A0%25E5%25B7%259E%25E6%25B7%25A8%25E9%259B%25B6%25E7%259B%25AE%25E6%25A8%2599&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1q8_8qoq1HGwCuBHBEczJl",
+          "published": "2026-08-20T14:53:30+00:00",
+          "summary": "為達成各州再生能源與淨零排放目標，美國兩家電力公司近期發布多項採購計畫，積極尋求電池儲能系統（BESS）供應商，以強化電網韌性並滿足日益增長的電力需求&nbsp;..."
         },
         {
-          "title": "「2026<b>淨零</b>排放科技國際競賽」揭曉百萬得主賴總統鼓勵走向全球永續合作",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/2026%25E6%25B7%25A8%25E9%259B%25B6%25E6%258E%2592%25E6%2594%25BE%25E7%25A7%2591%25E6%258A%2580%25E5%259C%258B%25E9%259A%259B%25E7%25AB%25B6%25E8%25B3%25BD-%25E6%258F%25AD%25E6%259B%2589%25E7%2599%25BE%25E8%2590%25AC%25E5%25BE%2597%25E4%25B8%25BB-%25E8%25B3%25B4%25E7%25B8%25BD%25E7%25B5%25B1%25E9%25BC%2593%25E5%258B%25B5%25E8%25B5%25B0%25E5%2590%2591%25E5%2585%25A8%25E7%2590%2583%25E6%25B0%25B8%25E7%25BA%258C%25E5%2590%2588%25E4%25BD%259C-153658922.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0cHnVmgJ-clGNPEIJBaDbh",
-          "published": "2026-08-19T16:02:33+00:00",
-          "summary": "... 氣候變遷與2050淨零排放挑戰，臺灣將持續推動淨零科技創新， ... Net Zero Tech淨零排放科技國際競賽」，賽事逐步串聯教育、研究、產業與國際&nbsp;..."
+          "title": "<b>氣候變遷</b>使鯨魚越來越靠近格陵蘭的海岸- - Gamereactor",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gamereactor.cn/climate-change-is-causing-whales-to-come-closer-to-the-coast-in-greenland-1392853/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0iE-Xo5mZzhWbfdLAUuURz",
+          "published": "2026-08-20T14:13:15+00:00",
+          "summary": "隨著海冰融化，鯨魚得以進入先前無法進入的區域。"
         }
       ]
     }
