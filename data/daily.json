@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-21T02:22:33.356329+00:00",
-    "date": "2026-08-21",
+    "generated_at": "2026-08-22T02:15:08.331276+00:00",
+    "date": "2026-08-22",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "25 歲 CEO 打造「全球美元銀行」，Augustus 押注穩定幣與 AI 搶攻通匯業務",
-          "link": "https://techorange.com/2026/08/21/augustus-ai-stablecoin-bank/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-21T01:43:31+00:00",
-          "summary": "新創公司 Augustus 宣布朝全球美元銀行理念更進一步，年僅 25 歲的執行長 Ferdinand Dabitz 表示，希望利用 AI 與穩定幣的混合模式，進軍通匯與代理銀行的金融科技市場。"
+          "title": "【OpenAI 企業 AI 導入實證】高管偏好決策概述與合規查詢，推動「流程再造」與「人機磨合」才是轉型核心",
+          "link": "https://techorange.com/2026/08/22/how-organizations-use-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-21T22:29:00+00:00",
+          "summary": "企業決策者引進 AI 面臨的難題之一是，導入 AI 工具後，能自動且即時轉化為組織的實質生產力嗎？OpenAI 聯合哥倫比亞商學院與賓州大學華頓商學院，發佈實證研究論文《How Organizations Use AI: Evidence from ChatGPT》，嘗試為這個問題提供解答。 研究將 ChatGPT Enterprise 的帳戶使用紀錄，安全且去識別化地連結至組織內部的員工職能角色"
         },
         {
-          "title": "【科技早餐】Google、Marvell AI 晶片合作營收上看 1,200 億美元，OpenAI 財務長稱 2027 年上市",
-          "link": "https://techorange.com/2026/08/21/google-marvell-ai-chip-deal-openai-ipo/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-20T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Google 聯手 Marvell 開發 AI 晶片，2033 年前合作營收上看 1,200 億美元 Marvell 宣布擴大與 Google 的客製化晶片合作，將為 Google 的 TPU 生態系開發 AI 推論加速器、儲存控制器、網路及記憶體介面控制器，以及近記憶體運算產品，涵蓋 AI 運算、資料儲存與傳輸等環節。 Marvell 同時授予"
+          "title": "宇樹科技王興興：機器人軟體最快還要 2 至 3 年突破，泛化仍是關鍵瓶頸",
+          "link": "https://techorange.com/2026/08/21/unitree-robot-software-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-21T09:01:06+00:00",
+          "summary": "宇樹科技（Unitree Robotics）掛牌上海科創板隔日，創辦人王興興迎來上市後首次公開演講。相較首日股價大漲逾 460% 的市場熱度，他談起人形機器人的實際能力時，給出的判斷相對審慎，指出機器人距離大規模進入工廠與家庭，仍有幾道關卡尚未跨過。 在 2026 世界機器人大會上，王興興首先把問題指向效率與泛化能力。他表示，機器人現在已能完成部分簡單裝配，但效率仍低於人類；一項任務即使在固定場景"
         },
         {
-          "title": "晶片還沒出貨，Anthropic 傳先下單 2.5 億美元：Fractile 憑什麼三個月估值翻六倍？",
-          "link": "https://techorange.com/2026/08/20/fractile-anthropic-ai-inference/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-20T08:03:05+00:00",
-          "summary": "英國 AI 晶片新創 Fractile 的第一批晶片預計要到 2027 年才會問世，卻已傳出 Anthropic 已先簽下約 2.5 億美元的採購協議。據《Bloomberg》報導，這家 2022 年才成立的公司，正以 65 億美元的投前估值洽談新一輪募資，預計進帳約 6 億美元，較三個月前的約 10 億美元估值大幅跳升逾 6 倍。晶片都還沒交貨，資本與大客戶為何搶著上車？ 不押訓練、也不靠 HB"
+          "title": "GPU 負載劇烈波動，TerraPower 如何讓核能同時做到穩定與快速調度？",
+          "link": "https://techorange.com/2026/08/21/terrapower-natrium/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-21T07:00:00+00:00",
+          "summary": "隨著 AI 資料中心在全球以驚人速度擴張，科技巨頭們在等待傳統電網緩慢擴建之餘，也愈來愈積極尋找能繞過電網、直接為資料中心供電的自備電力解決方案。在這一波綠能與穩定電力爭奪戰中，由微軟創辦人 Bill Gates 創立的核能新創公司 TerraPower，計畫在今年宣布旗下第一個直接對接資料中心的核能發電專案，並預計於 2027 年正式動工。 然而，對這些科技巨頭而言，AI 資料中心真正棘手的能源"
         },
         {
-          "title": "AFA 高峰會 9/2 登場！6,700 億美元產值的臺灣電子半導體供應鏈，FinTech、AI、穩定幣新動能助攻產業競爭力",
-          "link": "https://techorange.com/2026/08/20/fintechon-2026-afa-summit/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-20T08:00:00+00:00",
-          "summary": "隨著人工智慧（Artificial intelligence，AI）、半導體與數位經濟快速發展，全球供應鏈競爭已不再只取決於生產與物流效率，跨境支付、融資、資料交換及金融基礎設施能否同步運作，也逐漸成為企業韌性的重要一環。 FinTechOn 2026 暨亞洲金融科技聯盟高峰會（AFA Summit）將於 9 月 2 日至 3 日在臺北遠東香格里拉飯店登場，延續去年的討論，今年持續聚焦「金融科技 "
+          "title": "Salesforce 推 Slack Code：AI 不再只拚個人生產力，把寫程式搬進聊天頻道",
+          "link": "https://techorange.com/2026/08/21/salesforce-slack-code-agentic-team-coding/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-21T06:09:54+00:00",
+          "summary": "Salesforce 推出 Slack Code，讓團隊能直接在 Slack 與 AI 程式碼代理協作，並即時掌握開發進度。《SiliconANGLE》報導指出，程式碼代理正逐漸成為開發團隊的一員，不僅改變開發人員撰寫程式的方式，也正在重塑企業的軟體開發流程。Salesforce 將其多人協作理念延伸至軟體開發，讓 AI 程式碼代理從開發人員個別使用的工具，進一步成為團隊協作的一環。 Salesf"
         },
         {
-          "title": "Moxa 加速工業 AI 應用落地，強韌無線網路成智慧製造關鍵基礎設施",
-          "link": "https://techorange.com/2026/08/20/moxa-ai-amr-agv/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-20T07:25:51+00:00",
-          "summary": "隨著生成式 AI、數位孿生、AI 視覺檢測、自主移動機器人（AMR）等應用快速進入製造現場，工廠正從「設備自動化」邁向「AI 驅動的實體智慧」。然而，當設備數量持續增加、產線配置頻繁調整，且越來越多 AI 應用設備必須在工廠內移動時，提供持續、可靠與即時通訊的工業網路成了決定智慧製造應用能否穩定運作的關鍵。四零四科技（Moxa）於台北國際自動化工業大展上，以高速漫遊、強韌無線骨幹與工業級即時通訊技"
+          "title": "Broadcom 再籌逾 600 億美元 AI 融資：晶片商為何開始替客戶解決「買算力」問題？",
+          "link": "https://techorange.com/2026/08/21/broadcom-seeks-more-than-60-billion-in-latest-ai-debt-deal/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-21T04:26:26+00:00",
+          "summary": "為了買更多 AI 晶片，科技公司現在不只要找供應商，還得回答另一個問題：一次數百億美元的算力帳單，錢從哪裡來？根據《Bloomberg》報導，半導體大廠博通（Broadcom）正與金融機構洽談新一輪 AI 晶片融資，優先擔保債務可能達 600 億至 700 億美元，另有約 300 億美元次順位債務，整體規模最高可能逼近 1,000 億美元，資金將支援 Anthropic 等 AI 公司擴充算力。 "
         },
         {
-          "title": "Edge AI 抓瑕疵、AI Agent 自動派工：洛克威爾自動化如何讓工廠從「看見問題」走向自主決策？",
-          "link": "https://techorange.com/2026/08/20/rockwell-automation-edge-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-20T07:00:00+00:00",
-          "summary": "近年來，全球工業自動化巨頭洛克威爾自動化（Rockwell Automation）正積極透過不同路徑，將 AI 技術推向製造現場最前線。其中一條路線，是透過 FactoryTalk Analytics VisionAI，讓 AI 在邊緣端進行運算，使其更靠近生產線與相機設備，以便即時、高效判斷產品瑕疵；另一條路線，則是與工業預測性維護領域的領先廠商 Augury 展開深度合作，將具主動性的 Age"
+          "title": "斑馬科技展示最新智慧自動化解決方案，協助企業提升一線工作流程效能",
+          "link": "https://techorange.com/2026/08/21/2026automation-zebratechnologies-rfid/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-21T04:06:16+00:00",
+          "summary": "全球一線工作流程數位化與自動化領導廠商斑馬科技（Zebra Technologies Corporation; NASDAQ：ZBRA）於 8 月 19 日至 22 日在台北南港展覽館 一、二館同期舉辦的「2026 台北國際自動化工業大展（Automation Taipei）」及「第 31 屆台北國際物流暨物聯網展（Taipei International Logistics &amp; IoT "
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "富邦人壽如何以長期保障與多元佈局，陪伴高資產家族穩健承接未來？",
-          "link": "https://www.gvm.com.tw/article/132419",
-          "published": "2026-08-21T00:00:00",
-          "summary": "台灣首個對標國際級私人銀行服務的示範場域，「亞洲資產管理中心高雄專區」啟動屆滿一週年，成功吸引57家金融機構搶灘進駐。翻開這份進駐名單，銀行、證券、投信等金融巨頭，無不積極搶進這場留財引資的新局。值得深思的是，在動輒千萬、億元起跳的國際資產管理競賽中，身為金融業三大支柱之一的「壽險業」，究竟扮演著什麼樣的角色？相較於銀行端擅長靈活的信託架構與金流調度，以及證券端專注於資本市場的資產管理，壽險則透過"
+          "title": "《富都青年》製作團隊打造《沙央》故事！湯湘竹與女兒湯詠絮首次合作",
+          "link": "https://www.gvm.com.tw/article/132507",
+          "published": "2026-08-21T21:03:00",
+          "summary": "電影《沙央》由湯湘竹執導、湯詠絮主演，故事以馬來西亞東海岸為背景，描繪一段關於愛與勇氣力量的青少年追夢成長之旅。由金獎監製葉如芬、王禮霖及製片人張煒珍聯手金馬最佳紀錄片導演湯湘竹執導的首部電影長片《沙央》（SAYANG），集結《富都青年》黃金製作團隊共同打造，備受國際矚目，正式宣布將於10月16日在台溫暖獻映。電影以馬來西亞東海岸為背景，描繪一段關於愛與勇氣力量的青少年追夢成長之旅，而片名「SAY"
         },
         {
-          "title": "46兆財富遷徙潮！高資產客戶如何兼顧保障、資產配置與財富傳承？",
-          "link": "https://www.gvm.com.tw/article/132279",
-          "published": "2026-08-21T00:00:00",
-          "summary": "《遠見雜誌》七月號封面故事調查，台灣民間財富迎來歷史性位移。預估至2026年，身價達新台幣1億元以上的高資產人士將攀升至12.4萬人，掌控46.1兆元財富；其中身價30億元以上的頂級富豪，三年內暴增3倍，手握12.8兆元資金。目錄一、高資產財富管理，除了資產配置之外還要兼顧哪些面向？二、保險如何成為高資產財富管理的穩定基石？三、富邦人壽如何透過高雄專區服務高資產客戶？四、進駐高雄專區一周年，富邦人"
+          "title": "沉默的行業：台商煞車老兵的誠信學，一封你不會寫的感謝信",
+          "link": "https://www.gvm.com.tw/article/132502",
+          "published": "2026-08-21T17:54:00",
+          "summary": "做對的時候沒人記得你，做錯就是一條人命。近50年，廈門台商紀經得在一個沉默的行業裡，只堅持一件事：誠信，也守護著你回家的路。開車的人一定懂煞車，但沒有人會為一次成功的煞車，寫感謝信給生產煞車的人。站在廈門同安的廠區裡，汽車煞車零件大廠、永新-KY董事長紀經得，做了將近50年煞車產品，把自己的行業講得很透：「產品做得好、煞車踩得穩，那是理所當然，沒人會特別想起你；但萬一做得不好，那就是一條人命，是一"
         },
         {
-          "title": "《尼古喵喵》香港叫它停播、台灣董氏基金會檢舉串流下架，這部動畫到底惹了什麼事？",
-          "link": "https://www.gvm.com.tw/article/132475",
-          "published": "2026-08-20T18:54:00",
-          "summary": "熱門動畫新番《尼古喵喵》，因為內容描述重度尼古丁成癮貓獸人的荒謬日常，涉及大量吸菸和成癮情節，最近遭到相關機關單位指控違反台灣《菸害防制法》相關條例，要求下架處理。而台灣串流平台「巴哈姆特動畫瘋」繼在香港站下架後，台灣站也隨即在20日下午宣布，接獲代理商通知，為配合政策，把該作全數下架，同時也向喜愛該作的觀眾致歉。《尼古喵喵》是什麼？《尼古喵喵》的故事設定在人類與擬人化獸人共存的社會，尼古喵喵是個"
+          "title": "颱風動態：沙德爾增強中！北轉或往南路徑分歧大，24日前防強降雨",
+          "link": "https://www.gvm.com.tw/article/132481",
+          "published": "2026-08-21T17:49:00",
+          "summary": "受西南風及低壓帶影響，氣象署表示，8月24日前南部防大雨或豪雨，其他地區午後防豪雨；預計颱風沙德爾26日到琉球群島附近，後續路徑分歧大，可能北轉、偏西或往南接近台灣附近。中央氣象署預報員黃恩鴻告訴中央社記者，輕度颱風沙德爾強度逐漸增強中，未來將朝西北方向前進，預計今明兩天增強為中颱，23日、24日升級為強颱，26日將抵達琉球群島附近；而26日後路徑分歧較大，強度也將減弱，有些模式預測北轉、偏西，有"
         },
         {
-          "title": "台積電技術再突破！埃米世代完勝三星，先進製程藍圖比較一表看",
-          "link": "https://www.gvm.com.tw/article/132474",
-          "published": "2026-08-20T18:45:00",
-          "summary": "台積電（2330）先進製程藍圖明確，在埃米世代可望再度完勝三星。依據三星官方資訊，原訂2027年量產1.4奈米的時間點，將延後至2029年，比台積電A14晚一年量產。業界看好，台積電將持續享有領先者紅利，助攻營收與獲利。台積電已提出埃米級製程規畫，以A16為首發代表，預計2026年下半年生產就緒。先前業界盛傳首批客戶除了蘋果、輝達之外，也出現新的AI指標企業，最受矚目的是ChatGPT開發商Ope"
+          "title": "代理式AI加速新藥研發，生醫產業邁向「預測」",
+          "link": "https://www.gvm.com.tw/article/132506",
+          "published": "2026-08-21T17:43:00",
+          "summary": "編按：代理式AI正在改變生醫產業的新藥開發模式，從過去仰賴大量人工試錯，轉向以推理、預測與自主協作，提升研發效率，同時強化合規管理，協助企業縮短藥物探索週期，降低研發風險。從今年7月落幕的亞洲生技大展中，我們看到台灣生醫產業展現充沛的創新量能。產官學界不僅有一個共同願景，將生醫產業打造成台灣的「第二座護國神山」，更深刻意識到，要實現這個規模化的躍進，鼓勵並導入AI應用已是必經之路。在與生命科學領域"
         },
         {
-          "title": "趙建銘的「恩情反轉」心態是什麼？陳幸妤認醫生分析「精闢」的原因",
-          "link": "https://www.gvm.com.tw/article/132473",
-          "published": "2026-08-20T18:12:00",
-          "summary": "前總統陳水扁女兒陳幸妤近日開撕前夫後，看了國內身心科醫師胡學錦受訪談趙建銘心態是「恩情反轉」，稱讚「分析精闢」，讓這一詞瞬間洗版。它背後有沒有科學依據？心理學界有這說法嗎？是否不該對別人施恩太多，以免造成反效果？前總統陳水扁女兒陳幸妤，這一週以來連續公開談前夫趙建銘行徑，引起熱烈討論，甚至還促成藝術節。她控訴前夫趙建銘出獄後性情大變，不僅對她冷暴力多年，連前岳母吳淑珍病危想見他最後一面，他都不願前"
+          "title": "343法則找回自我肯定力：有被討厭的勇氣，才能在挫折時保護自己",
+          "link": "https://www.gvm.com.tw/article/74233",
+          "published": "2026-08-21T17:20:00",
+          "summary": "自我肯定低落的你，希望上司認可你的能力。希望在情人眼裡很迷人。希望得到伴侶和孩子的完全信任。——是不是希望身邊所有人都喜歡你？（本文摘自《腦科學╳心理學的自我肯定法》一書，以下為摘文。）自我肯定低落的人因為沒有自信，總是害怕被別人討厭。為了討喜，事事看人臉色，迎合卑躬讓自己疲累不堪。逼自己認真工作。必須當一個全心全意照顧孩子的好父母。一定要讓大家都滿意。必須得到所有人的愛。——這些「應該思維」一直"
         },
         {
-          "title": "陳幸妤離婚，扁家第一媳婦黃睿靚呢？與陳致中結婚20年近況曝光",
-          "link": "https://www.gvm.com.tw/article/132472",
-          "published": "2026-08-20T17:56:00",
-          "summary": "前總統陳水扁女兒陳幸妤近日證實與趙建銘結束近25年婚姻，讓昔日第一家庭再度受到關注。相較於陳幸妤與趙建銘婚姻走向終點，弟弟陳致中與妻子黃睿靚結婚20多年攜手走過司法風波，黃睿靚近年重新投入古典音樂，先後於2023年、2025年舉辦慈善鋼琴獨奏會，逐步回到自己熟悉的音樂專業領域。曾是台灣政壇焦點人物的「第一媳婦」黃睿靚，近年將生活重心拉回音樂與教學，現年47歲的她與陳水扁之子陳致中結婚逾20年，育有"
+          "title": "「勞工」就是我的真實身份：6個「今天還沒離職」的黑色幽默金句",
+          "link": "https://www.gvm.com.tw/article/123194",
+          "published": "2026-08-21T17:17:00",
+          "summary": "我不是不離開，只是帳單比下一份工作先來！為了可以完美成功的辭職，今天也要好好享受人生，為了學習熱愛自己人生的方法，我現在也持續努力中。那麼想離卻離不了的我，可能就是一條魯蛇，但，那又怎樣？但，那又怎樣？公司不過是人生的一部分而已。（本文節錄自《我的夢想是辭職！》一書，作者：朴詩恩，堡壘文化出版，以下為摘文。）自我實現曾經在某本書上看過這樣的句子。「工作就是人生。」我看了這個句子後，徬徨了好一段時間"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "黃振文終身特聘教授、薛涵宇教授及泰國Kesinee Iamsaard教授研究團隊榮獲2026<b>淨零</b>排放 ...",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www2.nchu.edu.tw/news-detail/id/62385&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0qWHF_0FHpRqpGGjeKVQEB",
-          "published": "2026-08-20T23:58:13+00:00",
-          "summary": "國立中興大學,位於臺中市南區，占地約53公頃，更是中部區網中心,扭轉中部地區網路。 設有文學院、農業暨自然資源學院、 理學院、工學院、生命科學院、獸醫&nbsp;..."
+          "title": "和桐2.0在<b>碳中和</b>商模上最大不確定在哪- 股市爆料同學會",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/readmo/d438159b-542a-4c92-ab21-fabb1f8bf91d&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3weUc1YQHKKvoj8EjzS3vL",
+          "published": "2026-08-21T20:01:57+00:00",
+          "summary": "碳中和相關商模最大的變數，通常是三件事：需求是否真實、成本是否可控、落地是否夠快。例如零碳原料、環保洗劑或碳捕捉系統，若沒有明確客戶訂單、合理售價與&nbsp;..."
         },
         {
-          "title": "美兩電力公司廣徵電池儲能系統響應維吉尼亞、加州<b>淨零</b>目標 - 行銷人",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.marketersgo.com/uncategorized/202608/%25E7%25BE%258E%25E5%2585%25A9%25E9%259B%25BB%25E5%258A%259B%25E5%2585%25AC%25E5%258F%25B8%25E5%25BB%25A3%25E5%25BE%25B5%25E9%259B%25BB%25E6%25B1%25A0%25E5%2584%25B2%25E8%2583%25BD%25E7%25B3%25BB%25E7%25B5%25B1-%25E9%259F%25BF%25E6%2587%2589%25E7%25B6%25AD%25E5%2590%2589%25E5%25B0%25BC%25E4%25BA%259E%25E3%2580%2581-2/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2s7qABF9IKSTQa3LLbdD2G",
-          "published": "2026-08-20T22:17:35+00:00",
-          "summary": "為達成各州再生能源與淨零排放目標，美國兩家電力公司近期發布多項採購計畫，積極尋求電池儲能系統（BESS）供應商，以強化電網韌性並滿足日益增長的電力需求。"
+          "title": "法新社：中國考慮申辦2028年聯合國氣候變化大會 - RFI",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rfi.fr/tw/%25E4%25BA%259E%25E6%25B4%25B2/20260821-%25E6%25B3%2595%25E6%2596%25B0%25E7%25A4%25BE-%25E4%25B8%25AD%25E5%259C%258B%25E8%2580%2583%25E6%2585%25AE%25E7%2594%25B3%25E8%25BE%25A62028%25E5%25B9%25B4%25E8%2581%25AF%25E5%2590%2588%25E5%259C%258B%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E5%258C%2596%25E5%25A4%25A7%25E6%259C%2583&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0FdvGzsgA0ln_rUDVtjW25",
+          "published": "2026-08-21T19:46:13+00:00",
+          "summary": "... ，中國正考慮申辦2028年聯合國氣候變化大會（COP33） ... 雖然中國已承諾在2060年前實現碳中和，但計畫到2035年僅將溫室氣體排放量較&nbsp;..."
         },
         {
-          "title": "賴清德總統親臨2026<b>淨零</b>排放科技國際競賽全球40強競逐三座百萬桂冠",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20260820568926&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0yknPDJndMa_OspXQHcC1H",
-          "published": "2026-08-20T16:35:35+00:00",
-          "summary": "賴清德總統特別以英文致詞，除了鼓勵各國參賽青年，盛讚他們為改變人類未來、遏止氣候變遷 ... Net Zero Tech，累計已有逾萬名大學師生參與，不少參賽者後來投入&nbsp;..."
+          "title": "寧德時代宣布去年底已實現核心運營<b>碳中和</b>，AH同漲 - ETNet",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.etnet.com.hk/www/tc/news/news-article.php%3Fsection%3Dcategorized%26category%3Dlatest%26newsid%3DETN360817764&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0S_mypPcbFnT4SLOwWxu4L",
+          "published": "2026-08-21T19:15:21+00:00",
+          "summary": "寧德時代(03750)(深:300750)核心運營碳中和發布會今日在福建寧德舉行。寧德時代宣布，2025年底已實現核心運營碳中和，成為全球唯一在TWh級（太瓦時級）出貨&nbsp;..."
         },
         {
-          "title": "原鄉<b>淨零</b>新典範！臺東金峰鄉新興村榮獲環境部低碳永續家園「銀級認證」 - PCHOME NEWS",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/living/newstaiwandigi/20260820/index-78723654384858279009.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2ryfI49Nsoy1N4uTJjfiIj",
-          "published": "2026-08-20T15:08:19+00:00",
-          "summary": "原鄉淨零新典範！臺東金峰鄉新興村榮獲環境部 臺東縣政府表示，面對氣候變遷與2050淨零轉型挑戰，臺東擁有豐富的自然資源及多元族群文化，如何在守護自然與&nbsp;..."
+          "title": "展現<b>淨零</b>轉型新實力！ 苗栗縣「產業金實卓越獎」 將於8/24 盛大舉行頒獎典禮暨記者會",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%25B1%2595%25E7%258F%25BE%25E6%25B7%25A8%25E9%259B%25B6%25E8%25BD%2589%25E5%259E%258B%25E6%2596%25B0%25E5%25AF%25A6%25E5%258A%259B-%25E8%258B%2597%25E6%25A0%2597%25E7%25B8%25A3-%25E7%2594%25A2%25E6%25A5%25AD%25E9%2587%2591%25E5%25AF%25A6%25E5%258D%2593%25E8%25B6%258A%25E7%258D%258E-%25E5%25B0%2587%25E6%2596%25BC8-24-123754393.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0WJwasf_2jDx8pgyM_Qn2F",
+          "published": "2026-08-21T18:54:07+00:00",
+          "summary": "本次典禮將公開表揚在環境永續、社會責任、幸福職場及性別平權等領域表現優異的標竿企業與傑出女性領導人，展現苗栗產業邁向低碳轉型與永續發展的亮眼成果。"
         },
         {
-          "title": "美兩電力公司廣徵電池儲能系統響應維吉尼亞、加州<b>淨零</b>目標 - 商傳媒",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://sunmedia.tw/news/Industry-information/1787182676-%25E7%25BE%258E%25E5%2585%25A9%25E9%259B%25BB%25E5%258A%259B%25E5%2585%25AC%25E5%258F%25B8%25E5%25BB%25A3%25E5%25BE%25B5%25E9%259B%25BB%25E6%25B1%25A0%25E5%2584%25B2%25E8%2583%25BD%25E7%25B3%25BB%25E7%25B5%25B1%25E3%2580%2580%25E9%259F%25BF%25E6%2587%2589%25E7%25B6%25AD%25E5%2590%2589%25E5%25B0%25BC%25E4%25BA%259E%25E3%2580%2581%25E5%258A%25A0%25E5%25B7%259E%25E6%25B7%25A8%25E9%259B%25B6%25E7%259B%25AE%25E6%25A8%2599&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1q8_8qoq1HGwCuBHBEczJl",
-          "published": "2026-08-20T14:53:30+00:00",
-          "summary": "為達成各州再生能源與淨零排放目標，美國兩家電力公司近期發布多項採購計畫，積極尋求電池儲能系統（BESS）供應商，以強化電網韌性並滿足日益增長的電力需求&nbsp;..."
+          "title": "台新新光<b>淨零</b>高峰論壇邁入第五年，這代表企業永續討論已出現哪些變化? - 理財寶",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/readmo/7aa75c89-b985-44cc-beb7-126d13d63a1a&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3GoBT1zo6RxaFc_Ld5zk9W",
+          "published": "2026-08-21T17:38:39+00:00",
+          "summary": "過去企業重視的是報告是否完整、承諾是否公開；現在更關鍵的是，能否把碳管理、能源效率、製程改善與商業模式調整整合成可持續的成長能力。 對台灣企業而言，這&nbsp;..."
         },
         {
-          "title": "<b>氣候變遷</b>使鯨魚越來越靠近格陵蘭的海岸- - Gamereactor",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gamereactor.cn/climate-change-is-causing-whales-to-come-closer-to-the-coast-in-greenland-1392853/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0iE-Xo5mZzhWbfdLAUuURz",
-          "published": "2026-08-20T14:13:15+00:00",
-          "summary": "隨著海冰融化，鯨魚得以進入先前無法進入的區域。"
+          "title": "科羅拉多肥土撥鼠週登場，應對<b>氣候變遷</b>衝擊與研究資金危機 - 星島日報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.singtaousa.com/2026/08/21/news/usa/move-over-bears-fat-marmot-week-puts-a-spotlight-on-the-alpine-rodents/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3RjUSISpimes_py4Y_7s20",
+          "published": "2026-08-21T17:27:58+00:00",
+          "summary": "科羅拉多高山的土撥鼠正遭受全球暖化的直接衝擊。研究人員指出，去年冬天異常稀少的降雪和溫暖氣溫，使得土撥鼠洞穴上方的隔熱雪毯消失，導致許多土撥鼠在冬眠&nbsp;..."
         }
       ]
     }
