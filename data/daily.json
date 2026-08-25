@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-24T02:22:00.726880+00:00",
-    "date": "2026-08-24",
+    "generated_at": "2026-08-25T02:17:19.592866+00:00",
+    "date": "2026-08-25",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,22 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "數萬家餐廳怎麼導入 AI？KFC 母公司從統一資料、微調小模型到算 ROI",
-          "link": "https://techorange.com/2026/08/24/how-kfc-and-taco-bell-embrace-ai-and-automation/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-24T01:46:07+00:00",
-          "summary": "KFC、Pizza Hut 母公司 Yum! Brands 正把 AI 推進旗下餐廳的日常營運。其旗下美式墨西哥速食品牌 Taco Bell 在美國已有超過 900 家門市使用語音 AI，自助點餐機也已覆蓋 Yum! 約三分之二的全球餐廳；在後台，庫存自動化讓缺貨情況減少 85%，企業內部也已推動超過 400 個 AI Agent。從點餐、庫存到客服與管理，AI 已經進入不同環節。 但把 AI 做"
+          "title": "【科技早餐】NVIDIA 財報季收估 920 億美元、AI 伺服器傳漲逾 15%；中國包辦全球人形機器人前五大",
+          "link": "https://techorange.com/2026/08/25/nvidia-ai-server-price-china-humanoid-robots/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-24T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊NVIDIA 財報季收估 920 億美元，AI 伺服器明年傳漲逾 15% NVIDIA 將於美國時間 8 月 26 日公布 2027 會計年度第二季財報。分析師預估，最新一季營收可望達到創紀錄的 920 億美元，高於公司先前提出的 910 億美元財測中間值，但仍在上下 2% 的預估區間內；公司也表示，這項財測未納入來自中國的資料中心運算收入。NV"
         },
         {
-          "title": "【智慧能力成國家資源】AI 不是軟體而是「基礎建設」，存取權之爭將比模型開發更重要",
-          "link": "https://techorange.com/2026/08/24/ai-infrastructure-is-impotant-than-model/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-24T01:45:23+00:00",
-          "summary": "未來 AI 競賽將跟「誰能開發出最強人工智慧」沒有太大關係，重點反而落在「誰有能力可以使用人工智慧」，其中包含 AI 基礎建設、存取權限與運算資源分配。"
+          "title": "從單點風險到產線韌性，叡揚資訊打造製造業資安閉環：看得見、隔得開、追得完",
+          "link": "https://techorange.com/2026/08/24/gss-bitsight-mendio-codesonar-trackosecops/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-24T09:01:50+00:00",
+          "summary": "根據 Gartner 預測，企業若採用持續威脅暴露管理（CTEM），可降低約 67% 的安全漏洞與資安事件，帶動防守戰略從被動回應轉為主動防衛。面對日益嚴峻的資安防禦考驗，叡揚資訊資安直屬事業處技術顧問許農育於日前「半導體供應鏈競爭力論壇」中，以「從一行外部程式碼到一條產線停擺：製造業資安閉環」為題，分析高科技製造業面臨的新型態供應鏈資安威脅，強調企業應建立持續監控與自動化治理能力，從源頭化解隱形"
         },
         {
-          "title": "【科技早餐】【科技早餐】NVIDIA 傳砸 60 億美元搶 AI 技術，Apple 裁減逾 200 職位波及 Siri、Vision Pro",
-          "link": "https://techorange.com/2026/08/24/nvidia-poolside-ai-deal-apple-siri-vision-pro-layoffs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-23T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊NVIDIA 傳砸 60 億美元取得 Poolside 技術授權，擬延攬 109 名員工 《彭博》報導，NVIDIA 將支付 60 億美元，取得 AI 新創 Poolside 模型開發軟體的非獨家授權，並向 109 名員工提出工作邀請。這套軟體主要用於打造及訓練 AI 模型，Poolside 在完成授權後仍可繼續使用相關技術，也能授權其他企業使用"
+          "title": "「駭客不再偷設計圖，而是綁架產線。」奧義、叡揚、TXOne、DEVCORE、安永、VicOne 專家解密供應鏈資安威脅與國際接單通行證",
+          "link": "https://techorange.com/2026/08/24/semicon-supplychain-cycraft-gss-txone-devcore-ey-vicone/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-24T08:56:33+00:00",
+          "summary": "根據《彭博社》報導，NVIDIA 執行長黃仁勳七月表示，全球半導體產業可能需要在未來十年擴張至目前規模的 10 倍，以因應 AI 代理與機器人的普及。 「半導體產業 AI 化」的浪潮，不僅帶來爆發性算力需求，也讓資安威脅以前所未有的速度蔓延。地緣政治對資安合規與透明度的要求日益嚴苛，資安韌性已成為攸關企業生存與國際接單的核心戰略課題。科技報橘社長戴季全於日前在「半導體供應鏈競爭力論壇」中表示，「數"
+        },
+        {
+          "title": "Anthropic 最強模型只占 11% 客戶模型支出，Fable 5 暴露 AI「能力溢價」難題",
+          "link": "https://techorange.com/2026/08/24/anthropic-fable-5-demand-from-corporate-clients/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-24T08:43:19+00:00",
+          "summary": "還記得兩個月前 Anthropic 推出 Claude Fable 5 時，曾把它形容為該公司歷來對外公開過能力最強的模型嗎？ 6 月 9 日，Anthropic 一口氣發表 Fable 5 與 Mythos 5，其中面向一般市場的 Fable 5，在軟體工程、知識工作、科學研究等多項測試達到最先進水準，官方甚至預期需求會非常高。沒想到推出僅 3 天，美國政府就祭出出口管制，要求限制任何外籍人士使"
+        },
+        {
+          "title": "百米、跳高雙破人類極限：第二屆「機器人奧運」揭中國 10 年戰略布局",
+          "link": "https://techorange.com/2026/08/24/asia-fair-strategic-showcase-decade-chinas-robot-games/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-24T08:19:18+00:00",
+          "summary": "第二屆世界人形機器人運動會在北京登場，賽事為期 5 天，吸引超過 2,000 台人形機器人參賽。《The Guardian》報導，中國手機廠商榮耀開發的 Lightning 在一場測試賽中以 9.32 秒完成 100 公尺賽跑，成績超越牙買加短跑名將 Usain Bolt 保持的 9.58 秒人類世界紀錄；北京 X-Humanoid 開發的另一款機器人則在立定跳高項目跳出 2.88 公尺，同樣超越"
+        },
+        {
+          "title": "千億美元押注 AI，為何遲遲沒顛覆產業？OpenAI 執行長揭「經濟慣性」",
+          "link": "https://techorange.com/2026/08/24/openai-sam-altman-overestimated-fast-ai-business/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-24T05:14:35+00:00",
+          "summary": "OpenAI 共同創辦人暨執行長 Sam Altman 近日在訪談中表示，他過去高估了 AI 技術進步帶來商業變革的速度。他曾創辦 Loopt，並於 2014 至 2019 年擔任 Y Combinator 總裁，長期看好技術變革為新創企業帶來的機會。如今，他認為，AI 模型能力提升與企業真正採用 AI 之間存在明顯落差；即使模型能力快速進步，企業仍需要時間調整既有制度、工作流程與採購決策，因此 "
         }
       ]
     },
@@ -36,34 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "以璀璨寶石鑄就傳世之作　RICHARD MILLE淬鍊高級製錶極致工藝",
-          "link": "https://www.gvm.com.tw/article/131741",
-          "published": "2026-08-24T00:00:00",
-          "summary": "在RICHARD MILLE的高級製錶世界，每一道光芒，都源自對極致工藝的不斷探索。二十年來，RICHARD MILLE持續融合高級珠寶、高級製錶與材料科技，讓寶石鑲嵌從裝飾工藝昇華為一門結合工程、藝術與創新的當代藝術語言，跨越世代，閃耀璀璨價值。自品牌創立以來，RICHARD MILLE始終以整體設計思維打造每一枚腕錶，追求卓越。每一顆寶石的運用，都與錶殼造型、機芯結構及材質選擇同步規劃，彼此呼"
+          "title": "從告別「循環之城」出發：學習材料的「好好設計、好好拆解、好好分類」",
+          "link": "https://www.gvm.com.tw/article/132420",
+          "published": "2026-08-25T00:00:00",
+          "summary": "今年4月起，環境部大門前展出裝置藝術「環保心舞台-循環之城」，歷時四個月後於8月完成階段性任務拆除。這並非結束，而是為城市資源循環提出全新想像-透過「好好設計、好好拆解、好好分類」，每個步驟都為材料的下一段生命預作準備，讓我們從告別「循環之城」開啟城市資源循環的全新想像。跨越「廢棄物變資源」：號召產業隊伍重返市場「循環之城」的初衷，是希望以廢棄建材重組，讓社會看見再生利用的多元可能。當材料重新進入"
         },
         {
-          "title": "黃仁勳快閃台北！輝達財報公布前神秘訪台引關注",
-          "link": "https://www.gvm.com.tw/article/132519",
-          "published": "2026-08-23T16:58:00",
-          "summary": "輝達（NVIDIA）執行長黃仁勳今天突然現身台北，據了解，他在短暫停留後，目前已搭機離開台灣，這次快閃行程引起各界關注。黃仁勳在今年5、6月來台參加台北國際電腦展後，時隔2個多月，今天再度出現在台北，大方與民眾合影。據了解，黃仁勳目前已搭機離開台灣。他這次快閃行程並無公開與合作夥伴會面行程。輝達即將於美國時間 2026年8月26日盤後（也就是 台灣時間 2027年8月27日清晨）公布財報，黃仁勳此"
+          "title": "陳幸妤的3個兒子，為何如此自律？",
+          "link": "https://www.gvm.com.tw/article/132543",
+          "published": "2026-08-24T18:42:00",
+          "summary": "陳幸妤近期公開評論前夫趙建銘拿教育基金的爭議後，也開始對媒體談自己教養三個兒子的心得。她自營牙醫診所，是一個忙碌的職業婦女又遇上離婚，可說是用「類單親」模式教養兒子們長大，然而卻教出3個自律的學霸兒子，原因是什麼？我覺得有幾點值得許多爸媽們反思。陳幸妤最近為了2300萬教育基金的事，公開喊話前夫趙建銘。她看診中傳訊回應媒體，說「趙建銘回國會處理」，語氣不算激動，倒是意外帶出另一件事：她怎麼把3個兒"
         },
         {
-          "title": "高雄豪雨今停班課！多地積淹水，現「人孔蓋噴泉」、愛河之心步道遭水吞噬",
-          "link": "https://www.gvm.com.tw/article/132518",
-          "published": "2026-08-23T12:20:00",
-          "summary": "高雄豪雨未歇，各地陸續出現積淹水災情，截至上午9時，共通報34件積淹水案件，其中愛河之心周邊步道遭水吞噬，部分區域水深及腰。市長陳其邁說，雨勢劇烈，市府已加強戒備。中央氣象署發布豪雨特報，受西南風偏強及低壓帶影響，今天高雄市地區、屏東縣地區有局部豪雨或大豪雨。水利署也針對台南、高雄多區發布淹水警戒。延伸閱讀：留意豪雨！低壓帶、西南風影響，嘉義以南全天防雨、東半部晚間雨勢增高雄市今天停班停課，因豪雨"
+          "title": "高雄屏東部分地區明停班課！南部「紫爆」雨下不停，豪雨假定義、停班停課一覽",
+          "link": "https://www.gvm.com.tw/article/125158",
+          "published": "2026-08-24T18:10:00",
+          "summary": "2026/8/24 18:00更新：中央氣象署表示，今（24）日南部、花東地區續防豪雨等級以上降雨。氣象署最新預測指出，明（25）天高雄市、屏東縣部分地區雨仍下不停。豪雨定義是什麼？豪雨假標準如何訂定？豪雨假停班停課是由誰發布？超大豪雨累積雨量有多高？雨量分級標準有幾級？光復節連假天氣會被影響？《遠見》快速整理，讓大家了解豪雨特報有哪些注意事項，提醒民眾外出時務必注意安全。【目錄】● 最新停班停課"
         },
         {
-          "title": "低壓帶、西南風影響，嘉義以南全天有雨、東半部晚間雨勢增",
-          "link": "https://www.gvm.com.tw/article/132517",
-          "published": "2026-08-23T11:51:00",
-          "summary": "氣象署表示，今天持續受到低壓帶及西南風偏強影響，嘉義以南全天有雨，午後北部地區有雷陣雨，晚間起東半部山區雨勢漸增，也要留意豪雨等級以上降雨。中央氣象署今天持續針對「0822低壓帶及西南風豪雨事件」，舉行較大規模或較劇烈豪雨作業記者會。氣象署預報員葉致均表示，台灣位處大低壓帶內，其中有多個低氣壓發展，原位於台灣北方海面的熱帶性低氣壓已登陸中國浙江，強度也減弱為低氣壓。氣象署就過去這段期間衛星雲圖與各"
+          "title": "金華國中招18次仍缺人，台北為何成「消失的老師」重災區？",
+          "link": "https://www.gvm.com.tw/article/132541",
+          "published": "2026-08-24T17:48:00",
+          "summary": "開學日在即，台北市與新北市竟然都缺老師！單以台北市來說，在開學前夕仍高達86所學校、210名教師缺額。原來以國內老師的待遇來說，只要在台北任教就逃不掉「低薪」階級？《遠見》今年5月曾以「消失的老師」專題揭露國內教師荒的真相，至今仍持續追蹤現況。台北與新北市招不到老師的慘況，雙北又如何因應挽救？一文完整解析。9月開學日快到了，當一班又一班的孩子即將結束暑假回到學校，首善都會區台北與新北，教室裡卻可能"
         },
         {
-          "title": "年輕女性反覆腹痛要小心！胃鏡、CT都找不出病因，可能是「這罕病」",
-          "link": "https://www.gvm.com.tw/article/132486",
-          "published": "2026-08-23T07:00:00",
-          "summary": "劇烈腹痛反覆發作，胃鏡、電腦斷層卻找不到原因，小心不只是腸胃問題。醫師提醒，罕病「急性間歇性紫質症」容易被當成腸胃病，若伴隨神經症狀要提高警覺，尿檢是破案關鍵。林口長庚醫院神經內科部副部主任郭弘周今天透過新聞稿介紹「急性間歇性紫質症」（AIP），他表示，這是一種罕見遺傳性代謝疾病，台灣的遺傳性紫質症包括急性肝性紫質症和慢性皮膚型紫質症，整體發生率約30萬分之一，但被國健署建檔的患者僅約100多例。"
+          "title": "116學測時程公布！新制「這」戴入場零分、報名日期一次看",
+          "link": "https://www.gvm.com.tw/article/132537",
+          "published": "2026-08-24T16:49:00",
+          "summary": "115學年度大學分發放榜之後，準大學學生們已開始準備入學，而即將在九月開學升上高三的準考生，也要開始準備應戰明年度的116大學入學學科能力測驗。大考中心日前已公布包括高中英語聽力測驗、學科能力測驗、分科測驗在內的入學簡章。116學測跟115學測有哪些不同？科技防弊新制是最大變革，另外重大測驗時程、考試規則最新資訊《遠見》一文全整理。目錄&nbsp;● 116學測與115學測最大不同：防弊新制● 1"
+        },
+        {
+          "title": "颱風動態：沙德爾、閃電將合體！氣象署估最快26日發海警，「這2日」距台最近",
+          "link": "https://www.gvm.com.tw/article/132481",
+          "published": "2026-08-24T16:07:00",
+          "summary": "氣象署表示，今天南部、花東地區續防豪雨等級以上降雨；颱風閃電上午8時生成，預計未來將併入颱風沙德爾環流；沙德爾持續朝台灣移動，最快26日發布海警，27、28日距台最近。中央氣象署今天上午持續針對「0822低壓帶及西南風豪雨事件」，舉行較大規模或較劇烈豪雨作業記者會。延伸閱讀：兩個月淹兩次，南部治水到底卡在哪？氣象署預報員葉致均表示，今天台灣仍處於大低壓帶內，強風軸位於台灣東半部，吹偏南風至東南風；"
         }
       ]
     },
@@ -72,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "極端高溫導致永凍土融化白朗峰岩崩450起破紀錄| 國際 - 中央社",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/news/aopl/202608240014.aspx&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1r2aSYIkidCRzJqikrAmGh",
-          "published": "2026-08-23T23:44:20+00:00",
-          "summary": "奧地利高山安全委員會（ÖKAS）分析，墜落、醫療急症及體力不支是夏季山難主因；然而，氣候變遷 ... 淨零碳排新聞學院中央社電子報中央社好POD. 關於中央社."
+          "title": "國土綠蔭苗栗再出發彭啓明倡校園圍牆改綠籬 - 環境部新聞專區",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/moenv-news/zh-tw/News/13979&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1peKm6x7u0jpPbkavswIQS",
+          "published": "2026-08-25T01:42:08+00:00",
+          "summary": "環境部昨（24）日在國立聯合大學二坪山校區舉辦「國土綠蔭氣候調適計畫暨推動木質資源循環說明會」，由環境部長彭啓明主持，苗栗縣長鍾東錦、國立聯合大學副&nbsp;..."
         },
         {
-          "title": "<b>碳中和</b>｜政府部門碳排數據標準不一8部門仍用2008年排放系數環團促統一計算方式訂減排目標 - 港聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.hket.com/article/4180964/%25E7%25A2%25B3%25E4%25B8%25AD%25E5%2592%258C%25EF%25BD%259C%25E6%2594%25BF%25E5%25BA%259C%25E9%2583%25A8%25E9%2596%2580%25E7%25A2%25B3%25E6%258E%2592%25E6%2595%25B8%25E6%2593%259A%25E6%25A8%2599%25E6%25BA%2596%25E4%25B8%258D%25E4%25B8%2580%25E3%2580%25808%25E9%2583%25A8%25E9%2596%2580%25E4%25BB%258D%25E7%2594%25A82008%25E5%25B9%25B4%25E6%258E%2592%25E6%2594%25BE%25E7%25B3%25BB%25E6%2595%25B8%25E3%2580%2580%25E7%2592%25B0%25E5%259C%2598%25E4%25BF%2583%25E7%25B5%25B1%25E4%25B8%2580%25E8%25A8%2588%25E7%25AE%2597%25E6%2596%25B9%25E5%25BC%258F%25E8%25A8%2582%25E6%25B8%259B%25E6%258E%2592%25E7%259B%25AE%25E6%25A8%2599%3Fmtc%3D80023&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1vRUOxmwyrBFHdcTsGBc8B",
-          "published": "2026-08-23T22:07:53+00:00",
-          "summary": "政府近年積極推動減碳，目標在2035年前將碳排放量從2005年的水平減半。有環保團體調查發現，82個政府部門及公營機構中，仍有8個沿用2008年訂立的「全港預設&nbsp;..."
+          "title": "都市計畫趕不上氣候變化？擅開人孔蓋恐致命－民視新聞 - YouTube",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DqfXIqr_Jzss&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3ZHbQsqBPwSOz7ldMR1wsp",
+          "published": "2026-08-25T01:21:49+00:00",
+          "summary": "【民視即時新聞】極端氣候發威，我們的都市計畫趕得上變化嗎？南部這幾天因為熱帶低壓發威，南臺灣降雨量紫爆，而台北市近年頻傳積水，近兩成抽水機組老舊，&nbsp;..."
         },
         {
-          "title": "瑞典大選將至萬人走上斯德哥爾摩街頭抗議<b>氣候變遷</b>| 民視新聞網 - LINE TODAY",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/3NP7zjo&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3kegNUiddESLxVX4OkRua5",
-          "published": "2026-08-23T20:53:58+00:00",
-          "summary": "瑞典原定目標是在2030年前，將交通工具的二氧化碳排放量較2010年水準減少70%，並在2045年實現淨零排放。然而，自2022年上台以來，首相Ulf Kristersson 領導&nbsp;..."
+          "title": "勞部兩原則精進跨國人力|半導體|產業新聞|產科國際所【IEK產業情報網】",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D9%26nsl_id%3D59d20da02e624ef096690c919239c74a&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0pL02nZUEsymxnv6RotCg7",
+          "published": "2026-08-25T00:57:47+00:00",
+          "summary": "... 淨零政策，國發會強調，穩供電、淨零減碳缺一不可，政府已啟動二次能源轉型。 勞動 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
         },
         {
-          "title": "中國光伏擴張鳥類多樣性下降- RFI - 法國國際廣播電台",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rfi.fr/tw/%25E4%25B8%25AD%25E5%259C%258B/20260823-%25E4%25B8%25AD%25E5%259C%258B%25E5%2585%2589%25E4%25BC%258F%25E6%2593%25B4%25E5%25BC%25B5-%25E9%25B3%25A5%25E9%25A1%259E%25E5%25A4%259A%25E6%25A8%25A3%25E6%2580%25A7%25E4%25B8%258B%25E9%2599%258D&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2kihuTPy-gcWeX3jmMMbgy",
-          "published": "2026-08-23T20:46:51+00:00",
-          "summary": "中國的目標是到2060年實現碳中和，因此正在大力投資可再生能源。北京尤其重視太陽能發電，但這卻對鳥類多樣性產生了影響。發表在《科學》雜誌上的一項研究&nbsp;..."
+          "title": "極端氣候危機加劇專家警告更猛烈衝擊在後頭 - 星島日報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.singtaousa.com/2026/08/24/news/usa/news-global-climate-change-extreme-weather-warning/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2AxABvLlIXZL-bgAz_bbD2",
+          "published": "2026-08-24T23:49:19+00:00",
+          "summary": "澳洲國立大學氣候科學家珀金斯基克帕特里克（Sarah Perkins-Kirkpatrick）指出，由於二氧化碳可在大氣中存留數百年，即便全球立即實現淨零排放，極端天氣也&nbsp;..."
         },
         {
-          "title": "臺泰深化AI智慧農業合作攜手推動農業數位轉型 - Life 生活網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://life.tw/article/%25E8%2587%25BA%25E6%25B3%25B0%25E6%25B7%25B1%25E5%258C%2596ai%25E6%2599%25BA%25E6%2585%25A7%25E8%25BE%25B2%25E6%25A5%25AD%25E5%2590%2588%25E4%25BD%259C-%25E6%2594%259C%25E6%2589%258B%25E6%258E%25A8%25E5%258B%2595%25E8%25BE%25B2%25E6%25A5%25AD%25E6%2595%25B8%25E4%25BD%258D%25E8%25BD%2589%25E5%259E%258B-3127236&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw36FQspDxpDSoLueK1_rkJ3",
-          "published": "2026-08-23T20:18:44+00:00",
-          "summary": "... 氣候變遷、糧食安全及勞動力短缺等挑戰。 ○ 泰國將於9月邀請臺灣參與AI智慧農業交流，探討智慧監測、農業淨零及數位治理等議題。 ○ 臺灣分享農田坵塊圖&nbsp;..."
+          "title": "高雄豪雨多處路樹傾倒國10東向燕巢段邊坡土石滑落暫不通",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://hakkanews.tw/2026/08/24/299292/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0afNdzZ911HskCrIxYJ-eb",
+          "published": "2026-08-24T21:43:43+00:00",
+          "summary": "駐菲律賓副代表李廷盛撖菲律賓環境部官員等交流个時節指出，極端氣候威脅緊來緊大，菲律賓過去1隻月連續落吔3禮拜个大雨，台灣南部這禮拜乜受著西南氣流影響，對&nbsp;..."
         },
         {
-          "title": "<b>氣候變遷</b>使AI產業鏈承壓總統宣示AI與<b>淨零</b>應共同發展 - DIGITIMES",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.digitimes.com.tw/tech/dt/n/shwnws.asp%3Fid%3D0000765865_NL6748CH7Q367646SPM58&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw036S5labotYz8Y8dwL93hS",
-          "published": "2026-08-23T19:32:36+00:00",
-          "summary": "各國建置AI基礎建設，雲端業者擴大資本支出，使台灣以AI伺服器為主的資訊通信產品7月外銷訂單年增率近9成，晶圓代工和記憶體年增亦逾7成。"
+          "title": "菲律賓<b>氣候變遷</b>論壇台灣盼深化第一島鏈防災合作 - 放言Fount Media",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.fountmedia.io/article/416990&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw29I1KF3cg5EPxgDYwKIYj8",
+          "published": "2026-08-24T19:27:09+00:00",
+          "summary": "（中央社記者林行健馬尼拉24日專電）中華民國駐菲律賓代表處官員今天受邀出席氣候變遷論壇，向與會人士表達台灣願與菲律賓、日本等第一島鏈夥伴國家進一步&nbsp;..."
         }
       ]
     }
