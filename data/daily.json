@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-26T02:24:01.688631+00:00",
-    "date": "2026-08-26",
+    "generated_at": "2026-08-27T10:55:50.150703+00:00",
+    "date": "2026-08-27",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "63 項生鮮試點、貨架供貨率拉高 2.5%：零售巨頭 Target 如何用數位分身重塑供應鏈？",
-          "link": "https://techorange.com/2026/08/26/target-proxima-digital-twin/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-26T00:00:00+00:00",
-          "summary": "北美零售巨頭 Target 正加速將數位技術導入供應鏈管理，近期推出名為「Proxima」的系統，作為其中程供應鏈庫存定位系統的數位分身（Digital Twin）。 Proxima 能運用與 Target 現有庫存平台相同的數據與運作邏輯，精準模擬庫存移動與調撥決策。這讓供應鏈、產品及工程團隊在實際調整營運流程前，能先在虛擬環境中測試不同方案，避免決策失誤對實際物流網絡造成的衝擊。 預先避險與即"
+          "title": "AI 代理進晶圓廠：SK 海力士綁 KPI 衝 2030，三星要求供應商「列為標配」",
+          "link": "https://techorange.com/2026/08/27/ai-sk-hynix-samsung-electronics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-27T09:02:22+00:00",
+          "summary": "《THE ELEC》報導，SK 海力士（SK hynix）與三星電子（Samsung Electronics）正加速 AI 代理導入半導體製造設備，並驗證相關技術在實際生產環境中的應用成效，未來可能將 AI 功能納入新設備的標準配置。 望提升良率與效率：SK 海力士推動半導體後段製程無人化生產 《THE ELEC》指出，SK 海力士已開始分階段在清州的半導體後段製程產線導入 AI 代理，但尚未公布"
         },
         {
-          "title": "【科技早餐】SpaceX 攜手 NVIDIA 建太空 AI 資料中心，小米新晶片傳交台積電 3 奈米代工",
-          "link": "https://techorange.com/2026/08/26/spacex-nvidia-space-ai-data-center-xiaomi-tsmc-3nm/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-25T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊SpaceX 攜手 NVIDIA 建太空 AI 資料中心，首批衛星擬 2027 年發射 NVIDIA 宣布，馬斯克（Elon Musk）旗下 SpaceXAI 將採用 Vera 中央處理器，支援新一代 AI 代理執行程式、處理資料及協調工作，同時透過 Vera Rubin 平台擴充 Grok 的運算基礎設施，並把相關運算架構延伸至太空。根據規劃，"
+          "title": "OpenAI 公布 Hugging Face 事件完整調查，1,200 個 AI Agent 如何從解題走向攻擊？",
+          "link": "https://techorange.com/2026/08/27/openai-hugging-face-incident/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-27T07:26:31+00:00",
+          "summary": "今年 7 月，OpenAI 在內部資安測試中使用的 AI Agent 突破限制，進一步入侵 Hugging Face。一個多月後，OpenAI 8 月 26 日公布完整調查，事件範圍比原先知道的更大：這批 Agent 後來也攻進 OpenAI 自己的研究基礎設施，取得最高系統權限並讀取內部機密資料。 研究機構 METR 與 Redwood Research 同日公布的獨立調查，也還原了 Agent"
         },
         {
-          "title": "Amazon 想讓配送站更自動化：物流機器人下一個難題是什麼？",
-          "link": "https://techorange.com/2026/08/25/amazon-project-tetromino/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-25T10:21:00+00:00",
-          "summary": "Amazon 已在物流中心大量使用機器人，現在又把自動化往包裹送到消費者前的最後一座設施推進。《Business Insider》取得 Amazon 內部文件指出，該公司正在研究代號「Project Tetromino」的新一代配送站，希望進一步自動化包裹整理、暫放與裝車。文件曾規畫 2028 年投入 1.03 億美元測試，2029 年部署 5 座設施，當年總投資可能超過 5.3 億美元，處理速度"
+          "title": "砸 450 億美元買「未來算力」：Anthropic 搶先鎖定 NVIDIA 下一代 Vera Rubin 晶片",
+          "link": "https://techorange.com/2026/08/27/anthropic-nscale-strike-45-billion-deal-sources/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-27T04:44:16+00:00",
+          "summary": "《Bloomberg》報導，AI 新創公司 Anthropic 正積極擴充 AI 運算能力，與雲端基礎設施供應商 Nscale 簽署一項為期 6 年的協議，將斥資約 450 億美元，租用 Nscale 位於美國西維吉尼亞州資料中心園區的 AI 運算能力。 Nscale 計畫在園區部署 NVIDIA 下一代 Vera Rubin 系列晶片，而相關算力預計要到 2027 年底才陸續交付。換言之，Ant"
         },
         {
-          "title": "英國首獲烏克蘭戰場 AI 數據：4 年無人機與軍事影像如何用於國防系統？",
-          "link": "https://techorange.com/2026/08/25/uk-use-ukraine-battlefield-data-train-ai-protect/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-25T09:58:02+00:00",
-          "summary": "英國與烏克蘭近日簽署具里程碑意義的 AI 合作協議，雙方將攜手開發新型軍事能力與未來科技。這項由烏克蘭總統 Volodymyr Zelenskyy 與英國首相 Andy Burnham 簽署的協議，將結合英國世界領先的 AI 生態系，以及烏克蘭在戰場累積的實戰經驗、工程人才與科技創新能力，讓英方得以使用烏克蘭備受重視的 Avengers AI Labs 資料庫。這是英國首度與其他國家合作，開放私人"
+          "title": "NVIDIA 為何敢喊明年再成長 70%？Rubin 接棒、供應承諾拉高至 2,790 億美元",
+          "link": "https://techorange.com/2026/08/27/nvidia-announces-financial-results-for-second-quarter-fiscal-2027/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-27T02:58:34+00:00",
+          "summary": "NVIDIA 的營收規模已接近單季千億美元，成長速度卻還沒有明顯放緩。NVIDIA 執行長黃仁勳更表示：AI 已經過了炒作階段，正在從事生產性和實用性的工作，並且能夠創造盈利。他強調「現在，運算能力就是收入。」 NVIDIA 在 8 月 26 日公布截至 2026 年 7 月 26 日的第二季財報，單季營收達 962.2 億美元，較去年同期成長 106%；其中資料中心營收達 890 億美元，年增 "
         },
         {
-          "title": "Mend.io 助企業強化 AI 應用安全能力 叡揚資訊深化在地導入服務",
-          "link": "https://techorange.com/2026/08/25/gss-mend-io-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-25T09:10:09+00:00",
-          "summary": "隨著生成式 AI 快速導入企業應用與軟體開發流程，資安風險也逐漸從傳統的程式碼與開源元件，延伸至 AI 模型、系統提示詞（System Prompt）與 AI Agent 等新興應用層。長期專注於應用程式安全（AppSec）的 Mend.io，持續強化 AI 應用安全能力，將既有防護範圍從程式碼與軟體供應鏈，進一步延伸至 AI 應用所面臨的新型態風險。Mend.io 近期推出的 System Pr"
+          "title": "【AI 獲得身體的時代】人形機器人、腦機介面與神經型運算匯流中，人機共生成治理挑戰",
+          "link": "https://techorange.com/2026/08/27/humanoid-robotics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-27T02:02:13+00:00",
+          "summary": "當 AI 開始擁有身體，甚至直接讀取人的神經訊號，人與機器之間的界線就開始改變了。這代表 AI、人形機器人、腦機介面、神經型運算與生物科技正彼此交匯，「人機共生」逐漸從科幻命題變成實際的工程與治理問題。 人形機器人走出實驗室並開始大規模商業運用 如今人形機器人正從實驗室走向真實場域長時間工作，比如 Figure AI 的人形機器人已在 BMW Spartanburg 工廠參與零件處理與製造；Agi"
         },
         {
-          "title": "小米十年擬投 500 億人民幣自研晶片：Xring O3 傳採台積電 3 奈米，布局再擴 AI、自駕",
-          "link": "https://techorange.com/2026/08/25/xiaomi-launches-new-xring-chip-partners-tsmc-production-sources/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-25T04:58:42+00:00",
-          "summary": "中國智慧型手機製造商小米發布新一代自研手機處理器 Xring O3，希望藉此提高對關鍵零組件與產品功能的掌控，降低對外部晶片供應商的依賴，同時把自研晶片布局延伸到 AI 與自駕。 Xring O3 是小米繼去年推出首款自研手機處理器 Xring O1 後的最新產品，也顯示小米持續擴大自研晶片布局，追趕蘋果、三星電子及華為等已發展自有晶片的競爭對手。手機處理器又稱系統單晶片（SoC），整合運算、圖形"
+          "title": "生成式 AI 往入門級機器人下放，NVIDIA 新 Jetson 透露 Physical AI 硬體門檻變化",
+          "link": "https://techorange.com/2026/08/27/nvidia-jetson-orin-nano-2-physical-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-27T00:00:00+00:00",
+          "summary": "機器人要在本體跑生成式 AI、看懂影像再即時做出判斷，需要多強的硬體？NVIDIA 正把這類能力往入門級平台下放。NVIDIA 發表 Jetson Orin Nano 2，定位為入門級邊緣 AI 機器人電腦，提供 78 TOPS AI 算力、8 GB 記憶體與 8 核心 Arm CPU。 相較前一代 Jetson Orin Nano Super，新產品在相同尺寸下，推論效能最高提升至 2 倍；若在"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "從臨床研發到健保永續！羅氏如何以「產官學三位一體」打造台灣生醫亞太新樞紐？",
-          "link": "https://www.gvm.com.tw/article/132309",
-          "published": "2026-08-26T00:00:00",
-          "summary": "隨著生技醫療被各國視為國家安全與經濟成長的雙引擎，全球生醫產業正經歷一場前所未有的策略重組。台灣憑藉健全的醫療體系、優質的臨床醫療人才與完善的健保資料庫，逐漸在亞太乃至全球生醫版圖中展現出關鍵影響力。然而，要將這些優勢，轉化為守護全民健康的實質防線，關鍵在於如何引進全球創新的研發能量，建立跨領域的產官學戰略聯盟。身為全球抗癌與照護技術的領導者，羅氏大藥廠（Roche）近年來以實際行動，詮釋了國際藥"
+          "title": "科科科技二度挑戰掛牌，併購PressPlay能否撐起估值？",
+          "link": "https://www.gvm.com.tw/article/132642",
+          "published": "2026-08-27T10:36:00",
+          "summary": "兩年前因競拍未達標暫緩IPO，成為台灣資本市場極為罕見的掛牌失敗案例，沉潛兩年後，走過26年的科科科技改由富邦證券主辦輔導，宣布於8月底正式登錄興櫃。透過業務重組與整併PressPlay，會計師出具的擬制性EPS推估達1.85元。這場業務大重組背後的算盤為何？資本市場又將如何重新評價這家混血新物種？科科科技（KKCompany Technologies，股票代號：6950）兩年前掛牌失敗，這次重返"
         },
         {
-          "title": "AI數位轉型圈》AI轉型頻卡關？KPMG、東海大學、玉山銀行分享從「人」到「組織」的落地解方",
-          "link": "https://www.gvm.com.tw/article/132598",
-          "published": "2026-08-25T18:38:00",
-          "summary": "由《遠見》雜誌與《哈佛商業評論》共同成立的「AI數位轉型圈」，今（25）日舉辦首場活動，邀請KPMG安侯建業、東海大學與玉山銀行分享AI轉型、人才培育、AI治理和實際應用等議題，吸引超過60家企業、醫療機構與教育單位參加。現場與會者熱烈交流外，也都同意AI轉型不只是技術課題，更要面對「人」的挑戰。由《遠見》雜誌與《哈佛商業評論》共同成立的「AI數位轉型圈」，串聯企業、醫療院所與大專校院，深度探討A"
+          "title": "日本當代藝術家草間彌生97歲逝世：畫畫是唯一能讓我苟活於世的方式",
+          "link": "https://www.gvm.com.tw/article/117936",
+          "published": "2026-08-27T10:30:00",
+          "summary": "日本最受尊敬的當代藝術家之一，草間彌生多重器官衰竭逝世，享耆壽97歲。你對草間彌生的印象是什麼？是作品中的南瓜和無限圓點？是作風狂放不羈的前衛女王？還是那個總是堅持不斷手繪重複圖案的刻苦藝術家？（本文節錄自《草間彌生 Yayoi Kusama》一書，作者：建畠晢等6人，一卷文化出版，以下為摘文。）一切始於幻覺。自從我懂事以來，自然、宇宙、人類、血液、花朵和其他各種事物就像陌生、可怕又神祕的現象一樣"
         },
         {
-          "title": "網友挺陳幸妤催生鍘美藝術節，「負心漢宇宙」是什麼？行前必學",
-          "link": "https://www.gvm.com.tw/article/132594",
-          "published": "2026-08-25T18:23:00",
-          "summary": "前總統陳水扁千金陳幸妤與前夫趙建銘離婚爭議，引發網友發起以「陳世美」借喻負心漢的「鍘美藝術節」，9月啟動精彩可期。其實，台灣傳統戲曲與民間故事堪稱可形成一個「負心漢宇宙」，包括哪些？為何林投姐故事也納入？《遠見》整理各種戲曲中的著名劇目。為何這些劇目能成為流傳數百年的文化記憶？去藝術節前必懂？全文一次看。目錄&nbsp;● 鍘美藝術節是什麼？為何跟陳幸妤、趙建銘有關？● 陳世美：負心漢宇宙，為何他"
+          "title": "日本藝術家草間彌生逝世！多重器官衰竭享耆壽97歲",
+          "link": "https://www.gvm.com.tw/article/132641",
+          "published": "2026-08-27T10:20:00",
+          "summary": "日本知名前衛藝術家草間彌生傳出逝世消息。日媒今（27）日報導，草間彌生已於本月14日因多重器官衰竭，在東京病逝，享耆壽97歲。日本知名藝術家草間彌生（Yayoi Kusama）以色彩鮮豔的圓點、網狀圖案作品享譽全球，南瓜造型雕塑藝術品更成為其代表作。據日媒報導，草間彌生於8月14日因多重器官衰竭離世，相關消息直到27日才對外曝光。延伸閱讀：日本當代藝術家草間彌生：畫畫是唯一能讓我苟活於世的方式草間"
         },
         {
-          "title": "宇樹IPO：英語考300次只及格三次，王興興做機器人成90後首富",
-          "link": "https://www.gvm.com.tw/article/132593",
-          "published": "2026-08-25T18:09:00",
-          "summary": "英文老師說他「有點笨」，如今是中國最有錢的90後。宇樹科技創辦人王興興，用一場IPO，寫下中國人形機器人最極端的一堂估值課。但在資本狂熱之下，商用環境仍未成熟。被英文老師說過「有點笨」那一年，王興興13歲。今年36歲的他，敲響了上海科創板的鐘，還成了中國大陸「90後」（指1990年後出生的人）新一代首富。王興興創辦的宇樹科技，於2026年8月19日正式登陸上海證券交易所科創板，成為「A股人形機器人"
+          "title": "尼泊爾西藏土石流吞沒村莊！已165死、逾千人失蹤「多為觀光客」",
+          "link": "https://www.gvm.com.tw/article/132640",
+          "published": "2026-08-27T10:17:00",
+          "summary": "搜救團隊今天與時間賽跑，搶救在尼泊爾與中國西藏邊界洪災中失聯的逾1000人。這場災難已造成至少165人罹難，多個村落被泥流沖走。法新社報導，昨天上午發生的這起災難中，許多失聯者是外國觀光客。美國地質調查所（USGS）指出，這次災難疑是冰川崩塌引發泥石流，造成沿途地區遭洪流吞沒。如同「內陸海嘯」般的水勢與泥流襲擊了波特科西河（Bhote Koshi）及翠蘇里河（Trishuli）沿岸的村莊與市鎮，尼"
         },
         {
-          "title": "中國加速出海拚AI，台灣製造優勢面臨新考驗",
-          "link": "https://www.gvm.com.tw/article/132592",
-          "published": "2026-08-25T18:03:00",
-          "summary": "編按：AI應用從晶片與資料中心，延伸至汽車、機器人及智慧製造，中國持續擴大自主供應鏈與海外布局。台灣在半導體領域具備優勢，但美中科技競爭與供應鏈重組，也將牽動未來產業發展方向。為了防止中國資通訊設備進入美國，美國政府正起草新禁令，防堵中國製造的資料中心零組件進入美國，以保護AI基礎設施安全，主要鎖定中國製造的光纖收發器。習近平在2015年發布《中國製造2025》，把中國建設製造強國的長期路線分成三"
+          "title": "颱風動態》颱風假？中颱沙德爾發布海警「今晚最近」，最新路徑、影響範圍一次看",
+          "link": "https://www.gvm.com.tw/article/132546",
+          "published": "2026-08-27T09:30:00",
+          "summary": "09:30更新：根據中央氣象署觀測顯示，中度颱風沙德爾接近，今（27）日早上8時30分將對馬祖沿海發布海上警報，預計週五相對較靠近台灣。沙德爾發布海警，週五最靠近台灣中央氣象署早上8點30分將發布海上警報，而陸上警報機率偏低，最快今晚將減弱為輕颱。氣象署表示，颱風沙德爾凌晨2時位於臺北東北方550公里之海面上，向西移動，因環境逐漸不利其發展，未來接近臺灣北部海面時強度將逐漸減弱，後續移動方向及速度"
         },
         {
-          "title": "海軍官校攜手中山、海大：AI國防人才怎麼布局？",
-          "link": "https://www.gvm.com.tw/article/132591",
-          "published": "2026-08-25T18:00:00",
-          "summary": "立院國防預算剛通過，台灣發展國防科技、無人機刻不容緩，未來也將扶植國內相關產業。海軍軍官學校於2026年8月先後與中山大學、海洋大學締結策略聯盟，海官與中山大學將推動跨校輔系、雙主修及雙學位，聚焦海洋科技、AI國防與水下無人載具；與海大則開放現役軍官全時進修攻讀碩士，並共同發展國防科技、智慧航運與淨零減碳，打造軍文融合的國防科技人才培育新模式。未來做軍官也能繼續在這些大學進修？切入國防科技前景如何"
+          "title": "是財務自由，不是財富炫耀！真正富過三代的「老錢」不會做的4件事",
+          "link": "https://www.gvm.com.tw/article/132636",
+          "published": "2026-08-26T20:41:00",
+          "summary": "所謂「老錢」（Old Money），指的是坐享財富與特權超過三代的家族。老錢之所以能富過三代，不單靠資產積累，而是懂得「排出人生優先順序」的核心價值觀。這套思維成為他們的生活方針，讓他們在時間考驗中，依然保有經濟及身心的優雅與獨立。（本文節錄自《老錢思維》一書，作者：拜倫．塔利／麥田出版，以下為摘文。）一般大眾想到富人時，可能會想像他們住在豪宅、開名貴跑車、一身流行服飾和閃亮俗艷的珠寶飾品。很明顯"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "百億資金活水投入｜讓好技術找到資金，讓綠色產業走向市場 - 環境部新聞專區",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/moenv-news/zh-tw/News/13990&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw184d4Y8AvtgjzsBkqHZko2",
-          "published": "2026-08-26T01:43:38+00:00",
-          "summary": "淨零轉型需要技術，也需要資金。「台灣綠色成長基金」——現在正是綠色產業接軌資本市場的黃金時代！"
+          "title": "出席<b>氣候變遷</b>調適對策論壇副總統盼公私協力打造永續且具韌性的臺灣",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ocacnews.net/article/430809&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3bfEaNNu0_Aoz86Hbsrioh",
+          "published": "2026-08-27T10:13:48+00:00",
+          "summary": "... 淨零轉型等成果. 副總統與出席人員合影. 蕭美琴副總統26日下午出席「2026韌性國土、永續台灣：氣候變遷下城市系統性工程調適對策論壇&nbsp;..."
         },
         {
-          "title": "迎戰<b>淨零</b>與缺工雙重挑戰樺康智雲新品亮相2026 Build for NextGen - AM730",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.am730.com.hk/column/%25E5%2595%2586%25E6%25A5%25AD%25E5%258B%2595%25E5%2590%2591/2009477/%25E8%25BF%258E%25E6%2588%25B0%25E6%25B7%25A8%25E9%259B%25B6%25E8%2588%2587%25E7%25BC%25BA%25E5%25B7%25A5%25E9%259B%2599%25E9%2587%258D%25E6%258C%2591%25E6%2588%25B0-%25E6%25A8%25BA%25E5%25BA%25B7%25E6%2599%25BA%25E9%259B%25B2%25E6%2596%25B0%25E5%2593%2581%25E4%25BA%25AE%25E7%259B%25B82026-build-for-nextgen&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2r77GE1ha5wuS1aP9Qr-iH",
-          "published": "2026-08-26T01:42:30+00:00",
-          "summary": "以AI串聯設計、施工、維運打造建築全生命週期智慧管理. 台北2026年8月26日 /美通社/ -- 面對全球淨零轉型、建築產業缺工及高齡化等挑戰，如何透過AI與數位&nbsp;..."
+          "title": "中原大學AWARE氣候健康計畫獲2026亞太永續行動獎深耕印尼展現國際永續力",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.allnews.tw/news/93878&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2-vnJZZgjiUU0fq_8Uz1Ar",
+          "published": "2026-08-27T09:58:39+00:00",
+          "summary": "AWARE計畫主持人、中原大學環工系教授暨永續處處長王玉純表示，AWARE（Awareness Against Health Threats of Climate Change）是一項聚焦氣候變遷健康風險的跨國&nbsp;..."
         },
         {
-          "title": "迎戰<b>淨零</b>與缺工雙重挑戰樺康智雲新品亮相2026 Build for NextGen - PR Newswire",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.prnewswire.com/apac/zh/news-releases/--2026-build-for-nextgen-302859931.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3XZxqkGfqdCTx3PQmFbZfc",
-          "published": "2026-08-26T01:03:50+00:00",
-          "summary": "以AI串聯設計、施工、維運打造建築全生命週期智慧管理台北2026年8月26日/美通社/ -- 面對全球淨零轉型、建築產業缺工及高齡化等挑戰，如何透過AI與數位轉型&nbsp;..."
+          "title": "中原大學AWARE氣候健康計畫獲2026亞太永續行動獎 - 中華日報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cdns.com.tw/articles/1450838&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0wKxiUI4ev6ZJ4pl5A-diA",
+          "published": "2026-08-27T09:29:58+00:00",
+          "summary": "由中原大學團隊執行的印尼氣候健康早期預警教育計畫（AWARE Early Warning System and Climate-Health Education in Indonesia），二十七日獲頒二0二六第五屆「&nbsp;..."
         },
         {
-          "title": "厄爾尼諾增強：全球海洋溫度創有紀錄以來新高 - BBC",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bbc.com/zhongwen/articles/cn459py3371o/trad.amp&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1DXbRyiew6yX9eFiwUZf6u",
-          "published": "2026-08-26T00:28:21+00:00",
-          "summary": "... 氣候變化，以及日益增強的厄爾尼諾現象（El Niño；聖嬰現象）。 根據歐洲哥白尼氣候變化服務（Copernicus Climate Change Service）的數據，上周六，除極地&nbsp;..."
+          "title": "花蓮縣府勇奪台灣永續行動獎1金2銀2銅從綠能、青創到交通平權寫下<b>淨零</b>新篇章 - 獨家報導",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.scooptw.com/local_news/519328/%25E8%258A%25B1%25E8%2593%25AE%25E7%25B8%25A3%25E5%25BA%259C%25E5%258B%2587%25E5%25A5%25AA%25E5%258F%25B0%25E7%2581%25A3%25E6%25B0%25B8%25E7%25BA%258C%25E8%25A1%258C%25E5%258B%2595%25E7%258D%258E1%25E9%2587%25912%25E9%258A%25802%25E9%258A%2585-%25E5%25BE%259E%25E7%25B6%25A0%25E8%2583%25BD%25E3%2580%2581%25E9%259D%2592/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Bd3y4JzbFe8CMR0LqBGL4",
+          "published": "2026-08-27T09:18:50+00:00",
+          "summary": "... 氣候變遷與極端天氣的雙重挑戰，花蓮縣環保局近年持續創新作為，推動綠色施政，從行為改變、循環經濟到智慧防災，逐步建構花蓮的淨零路徑與環境韌性，此次&nbsp;..."
         },
         {
-          "title": "西門子:台灣AI下一戰須解決算力、電力、<b>淨零</b>3挑戰 - 財富自由",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://stock.ltn.com.tw/article/qbq7cypqdtuy&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3qE-GX77Cmn__esvkTWSHv",
-          "published": "2026-08-25T23:25:22+00:00",
-          "summary": "AI熱潮從半導體一路延燒至製造、能源與基礎建設，台灣下一階段不只要拚AI供應鏈，更要拚「AI落地」。2026台灣永續峰會今（25）日在台北登場，台灣西門子總裁&nbsp;..."
+          "title": "市府新聞稿-暑假尾聲快來樂園放電！ 8/30「<b>淨零</b>新生活親子嘉年華」 7大趣味關卡拿好禮相揪大 ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gov.taipei/News_Content.aspx%3Fn%3DF0DDAF49B89E9413%26sms%3D72544237BBE4C5F6%26s%3D84D0B630B0B03877&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3C2PaJv2EiPpKi_Rq3ygVf",
+          "published": "2026-08-27T09:13:58+00:00",
+          "summary": "孩子們能從低碳飲食、循環時尚、居家節能到綠色運輸等主題中邊玩邊學，現場完成7大關卡的民眾，還可兌換限量小植栽或環保轉盤鑰匙圈，鼓勵大小朋友在挑戰闖關的&nbsp;..."
         },
         {
-          "title": "稱南高治水不能只怪<b>氣候變遷</b>國民黨：審計列管59處僅完成7處| CTWANT | LINE TODAY",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/5y1lW0v&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3EsTZEeSolFXspyLmRzf4u",
-          "published": "2026-08-25T22:44:03+00:00",
-          "summary": "針對近期豪雨導致台南、高雄淹水嚴重，中國國民黨文傳會發言人陳麗娜、蔡宗豪今（25）日於《KMT直球對決》指出，台南、高雄近年治水經費已占全國..."
+          "title": "慈濟亞太永續博覽會展現全方位共善韌性",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tcnews.com.tw/news/item/30470.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3W4hQDFRvS3WqlQpDzoFUQ",
+          "published": "2026-08-27T09:02:45+00:00",
+          "summary": "在淨零治理面向，慈濟依循科學基礎減碳目標（SBTi）精神推動氣候行動，全面導入碳盤查機制，已完成全臺23處靜思堂盤查作業與ISO 14064-1認證，並完成56座太陽能&nbsp;..."
         }
       ]
     }
