@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-28T12:31:25.739962+00:00",
-    "date": "2026-08-28",
+    "generated_at": "2026-08-29T07:40:29.362049+00:00",
+    "date": "2026-08-29",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -11,6 +11,12 @@
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
       "items": [
+        {
+          "title": "【金融 AI 的生產力變現鴻溝】40% 機構實現獲利增長：年預算破 10 萬美元、微調自研專屬模型是關鍵",
+          "link": "https://techorange.com/2026/08/29/ai-in-financial-services-report/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-28T22:29:00+00:00",
+          "summary": "根據劍橋替代金融中心聯合世界銀行、國際貨幣基金組織、國際清算銀行，以及世界經濟論壇發佈的《2026 年全球金融服務 AI 報告》（The 2026 Global AI in Financial Services Report），全球金融業正處於中期過渡階段。 然而在此過渡期中，行業正顯現出「普及率高、獲利轉化低」的失衡反差。 全球 AI 採用率雖高達 81%，實質實現獲利增長的機構卻僅有 40%。"
+        },
         {
           "title": "Hugging Face 推 399 美元雙足機器人 Microduck，主打開源、可教學與自主反應",
           "link": "https://techorange.com/2026/08/28/microduck-hugging-face-unveils-singing-skating-duck-robot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -40,12 +46,6 @@
           "link": "https://techorange.com/2026/08/28/2026-tie-ai-mftss-sil4/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
           "published": "2026-08-28T03:27:35+00:00",
           "summary": "2026 台灣創博會「未來科技館」由國科會攜手中央研究院、教育部、運動部、衛福部共同策劃，以「讓台灣科研成為產業轉型的力量」為核心主題，聚焦三至十年內的關鍵科技發展，著重將研發成果轉化為具備產業落地潛力的創新亮點。在眾多參展項目中，國立高雄科技大學鐵道技術中心帶來橫跨軌道與國防場域的創新成果——「多源感測融合目標追蹤與抑制系統」（AI-MFTSS）。 AI-MFTSS 以鐵道安全系統的高可靠度控制"
-        },
-        {
-          "title": "AI Agent 每一步都合法，但最後為什麼它會走偏了？",
-          "link": "https://techorange.com/2026/08/28/cloudmile-agent-aegis-ai-foundry/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-28T03:11:39+00:00",
-          "summary": "一個 AI Agent 讀了一封信、查了資料庫、寄出一封郵件。每一個動作都在權限內，每一條連線都合法，防火牆、EDR、IAM 全都顯示正常。 但它做的事，跟你原本交代的任務已經完全不同。 這是 AI Agent 與傳統應用最大的差別。過去，企業主要防止「沒有權限的人做不該做的事」，現在，還得防止「有權限的 AI 被騙去做不該做的事」。傳統資安工具擅長判斷誰能做什麼，卻不擅長判斷現在該不該做。 要補"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "輝達財報激勵！台股大漲近600點，國巨等被動元件族群漲停",
-          "link": "https://www.gvm.com.tw/article/132679",
-          "published": "2026-08-28T12:11:00",
-          "summary": "輝達（NVIDIA）財報利多消息，激勵台股今天大漲近600點，盤中最高衝至46574點，突破8月14日寫下的前波高點46402點，隨後賣壓調節漲幅收斂，至10時30分，集中市場指數上漲407.43點，報46382.65點。成交值約新台幣6148億元。3大權值股，台積電最多上漲35元至2445元；聯發科最多漲105元至3970元；台達電最多漲60元至1830元。被動元件族群今天盤中股價強勢，龍頭國巨"
+          "title": "少吃蛋白質能更長壽？最新研究揭示飲食「品質」更關鍵",
+          "link": "https://www.gvm.com.tw/article/132673",
+          "published": "2026-08-29T07:00:00",
+          "summary": "高蛋白飲食是近年健康與健身領域的熱門話題，許多人認為蛋白質攝取越多，越有助維持肌肉、延緩老化。然過去累積的研究卻顯示，適度降低蛋白質，甚至限制某些特定胺基酸，反而可能有助於延長健康壽命。美國奧古斯塔大學（Augusta University）等科學家，整合近年有關蛋白質攝取與胺基酸代謝的大量研究，歸納出適度降低蛋白質攝取如何影響老化的共同特徵，並分析不同胺基酸對健康老化的角色，論文近日發表於 Ce"
         },
         {
-          "title": "2026《遠見》運動城市調查出爐！​城市運動力2.0，比排名更比「轉化率」",
-          "link": "https://www.gvm.com.tw/article/132494",
-          "published": "2026-08-28T12:00:00",
-          "summary": "臺北重返六都第一、屏東四連霸！2026《遠見》運動城市調查發現，城市運動力不只比場館、預算與獎牌，更比誰能把空間轉為參與、把投入轉為成效、把一次賽事轉為長期資產。一座城市的體能，不只寫在選手衝線的秒數，也寫在居民走出家門的距離。試想，清晨河濱的自行車、放學後開放的校園球場、社區裡陪長者練肌力的教練、夜間仍亮著燈的運動中心，表面上是生活風景，背後卻連著醫療支出、高齡照護、城市交通、社區凝聚、人才培育"
+          "title": "大立光衝7270新天價，4天漲逾三成！CPO點燃35檔「含光」ETF",
+          "link": "https://www.gvm.com.tw/article/132704",
+          "published": "2026-08-28T18:39:00",
+          "summary": "大立光股價再創歷史新高，28日盤中一度衝上7270元，終場收7065元，四個交易日累計大漲逾三成。這波行情除受惠手機旺季，更反映市場對CPO（共同封裝光學）新事業的期待，能否靠矽光子概念股與營運基本面持續燒旺行情？大立光（3008）股價再寫歷史新高！繼26、27日連續兩天攻上漲停後，28日早盤多頭氣勢未歇，一度衝上7270元，再改寫歷史天價，儘管盤中獲利了結賣壓出籠，終場漲幅收斂，仍上漲150元、"
         },
         {
-          "title": "南投把日月潭變競技場！沒有一座運動館，排名卻能大躍進？",
-          "link": "https://www.gvm.com.tw/article/132493",
-          "published": "2026-08-28T12:00:00",
-          "summary": "沒有一座全民運動館，南投卻在2026運動城市評比一口氣前進4名，全台排名第11。從山林水域、全民運動到三座運動館陸續啟動，南投縣長許淑華如何補上非六都的資源缺口？在城市發展運動的競賽裡，南投沒有贏在起跑點。人口與財政規模不及六都，幅員遼闊，13個鄉鎮分散在山區、盆地與河谷，許淑華接受《遠見》專訪時，全縣甚至還沒有一座正式啟用的全民運動館。&nbsp;但2026《遠見》運動城市評比，南投總排名來到全"
+          "title": "繳2千萬遺產稅，竟領不到1.6億保險金？3大原則避開繼承地雷",
+          "link": "https://www.gvm.com.tw/article/132703",
+          "published": "2026-08-28T18:25:00",
+          "summary": "繳了遺產稅，就一定可以領到錢嗎？答案可不一定！一名洪姓女子在2015年時過世，身為繼承人的弟弟與妹妹收到國稅局要求繳納高達2179萬元的遺產稅，原以為咬牙湊錢繳清稅款後，就可以拿到姊姊留下的1.6億元保險理賠金，想不到最後遭到拒賠，因而一狀告上法院，卻仍以敗訴收場，這是為什麼？繳了遺產稅不一定可以拿到遺產嗎？一名洪姓女子在世時購買了94張躉繳保單，其身故的保險理賠金高達1.6億元，且所有保單的身故"
         },
         {
-          "title": "從運動夜市、攀樹體驗到銀齡健身，新竹市邁向全齡樂活城",
-          "link": "https://www.gvm.com.tw/article/132492",
-          "published": "2026-08-28T12:00:00",
-          "summary": "新竹市在《遠見》運動城市調查中大幅進步，更是2023年開辦以來進步幅度最大的縣市。面對科技城高工時、高壓力生活，市府推動多元體育政策，降低運動門檻，打造健康城市。新竹市近年體育表現亮眼，不僅連續四年榮獲運動部全民運動署的「特優縣市」，市府推出的「攀樹體驗」「運動夜市」等創新多元活動，也受到熱烈迴響。市長高虹安接受《遠見》專訪時表示，市府團隊費盡巧思，希望用接地氣的方式，拉近市民對「運動」的距離感。"
+          "title": "少子化加劇！台灣生育率落後日星韓，今年新生兒恐跌破10萬",
+          "link": "https://www.gvm.com.tw/article/132702",
+          "published": "2026-08-28T18:23:00",
+          "summary": "國發會今天公布最新「中華民國人口推估（2026年至2075年）」，指出在少子女與高齡化趨勢下，總人口將持續下降，且年齡結構趨向高齡。今年新生兒出生數將跌破10萬人大關、中推估值為9.4萬人。國發會每2年依據最新戶籍人口資料，更新出生、死亡及遷徙等人口變動要素的假設情境，客觀描繪未來長期人口發展趨勢，提供政府與各界作為前瞻規劃及加速社會轉型參據。延伸閱讀：少子化加速！國發會：台灣50年後人口腰斬，2"
         },
         {
-          "title": "健康幣最高可賺1萬3150點「1點折1元」，石崇良曝初步方案",
-          "link": "https://www.gvm.com.tw/article/132678",
-          "published": "2026-08-28T11:54:00",
-          "summary": "衛福部宣布健康幣10月上路，癌篩、打疫苗賺點數，最高可賺1萬3150點，部長石崇良今晚透露，超商兌換商品採1點等值新台幣1元；今年1至9月已完成癌篩、打疫苗者，無法獲得健康幣。健康幣是比照新加坡經驗，將健康行為轉譯為健康幣，第1階段採取「有做就有幣」，參與對象為年齡滿18歲以上，可獲得健康幣的項目有公費成人健檢、公費癌症篩檢、公費與自費疫苗接種，含流感疫苗、COVID-19（2019冠狀病毒疾病）"
+          "title": "「不轉型也是死！」高明鐵熬過多年虧損，如何押中矽光子翻身？",
+          "link": "https://www.gvm.com.tw/article/132700",
+          "published": "2026-08-28T18:07:00",
+          "summary": "從蘋果供應鏈重挫到長期虧損，高明鐵（4573）董事長陳志鑫背水一戰喊出：「不轉型也是死！」他堅拒裁員省成本，反而把磨了17 年的百奈米級超精密技術硬底，搶進AI最關鍵的矽光子與CPO光學對位技術。這場以研發為籌碼的豪賭，讓光通訊業務一舉貢獻整體營收的75%，成功把營運危機扭轉為翻身契機。&nbsp;「你不轉型，還是死啊，那倒不如更大膽地轉型，至少還有機會。」談起2023年決定押注矽光子的那一刻，高"
         },
         {
-          "title": "尼泊爾西藏土石流362死、近千人失蹤！兩國當局警告：邊境2座堰塞湖恐潰決",
-          "link": "https://www.gvm.com.tw/article/132676",
-          "published": "2026-08-28T11:19:00",
-          "summary": "尼泊爾與中國當局今天警告，喜馬拉雅山區洪災風險再度升高，兩國邊境兩側的2座堰塞湖恐將潰決，而當地仍在應對26日造成慘重災情的洪水。路透社報導，在滿目瘡痍的山谷與山坡地區，搜救行動仍在持續進行。26日發生在尼泊爾與中國西藏邊境地區的洪災已造成至少362人死亡，近1000人下落不明。兩國都將洪災歸因於冰川崩塌，岩石、冰塊、泥土等因此被沖入山區河川系統。延伸閱讀：尼泊爾西藏土石流吞沒村莊！專家：巨大冰體"
+          "title": "從三大「居家痛點」看集雅社「空間訂製化」新趨勢",
+          "link": "https://www.gvm.com.tw/article/132614",
+          "published": "2026-08-28T18:00:00",
+          "summary": "當居住空間越住越小，家電尺寸、擺放動線與風格搭配更需要精準的整合規劃。深耕百貨通路超過三十年的集雅社，跳脫傳統單品銷售模式，推出「家電規劃師」一站式顧問服務，從「怕麻煩」到「怕買錯」，一次化解消費者家電選購與規劃難題。過去到百貨買家電，習慣在不同品牌櫃位來回比較、挑選。但隨著居住型態改變、空間縮小，加上智慧科技融入日常，消費者對家電的期待早已不再只停留在功能或價格，而是追求與全戶居家空間的整合。根"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "環境部攜手總統府<b>氣候變遷</b>副召童子賢！展示114年前瞻科研成果「碳費、廢水變資源",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14013&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw149cbtyL_xP9YdlqYIM5iH",
-          "published": "2026-08-28T06:29:04+00:00",
-          "summary": "面對全球供應鏈淨零壓力和氣候變遷考驗，環境科技已成為台灣產業轉型的關鍵核心！環境部今(28)日隆重舉辦「115年度環境科技論壇暨成果發表會」，&nbsp;..."
+          "title": "基隆榮服處<b>淨零</b>綠生活教育推廣落實行動技能 - 蕃新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20260829580228&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1PzR-xrFgVK7EDkPLai0mS",
+          "published": "2026-08-29T03:45:42+00:00",
+          "summary": "林作逸講師說明國家氣候變遷調適歷程及行動計畫，讓大家共同響應，如：低碳旅遊、低碳飲食、資源回收、購買環保商品等，將綠生活運用於食衣住行育樂購等，讓生活&nbsp;..."
         },
         {
-          "title": "AI重塑能源版圖產業迎戰綠電與<b>淨零</b>轉型 - 工商時報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260828701286-431202&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3AITPjXgVS8kXnKpecrMJF",
-          "published": "2026-08-28T06:28:12+00:00",
-          "summary": "新能源與碳市場資訊平台《RECCESSARY》與能源及淨零資訊平台《EnergyOMNI 全能源》於8月20日至21日共同舉辦「第二屆2026全能佈局・碳贏未來論壇」，&nbsp;..."
+          "title": "基隆榮服處<b>淨零</b>綠生活教育推廣落實行動技能 - 勁報Power News",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://twpowernews.com/news_pagein.php%3FiType%3D1009%26n_id%3D295115&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0AqaBBJ4OGTb2k1hAZXNvT",
+          "published": "2026-08-29T03:24:31+00:00",
+          "summary": "... 淨零綠生活推廣種子講師，現職新北市中和區中和國小特教教師、社團法人臺灣微光富美全人關懷發展協會理事長，擁有豐富經歷。 林作逸講師從氣候變遷調適，到&nbsp;..."
         },
         {
-          "title": "【2026大FUN凱道】結合總統府開放參觀歡迎大小朋友9月19日一同參與",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.president.gov.tw/News/40298&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2BxvjVk6Xf2TfAvgOdDACs",
-          "published": "2026-08-28T06:21:13+00:00",
-          "summary": "「2026大FUN凱道」將於9月19日（週六）登場，該活動係由富邦文教基金會等民間團體聯合籌辦，並由總統府、環境部、客家委員會及臺北市政府共同指導。"
+          "title": "童子賢：台灣發展太陽光電效率低應重視核電 - IEK產業情報網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D5%26nsl_id%3D5f7df9c6d4ea4bf885ab4560bd65099d&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0X6THd5nlaaonoqqyzrf-K",
+          "published": "2026-08-29T00:00:47+00:00",
+          "summary": "... ）總統府國家氣候變遷 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
         },
         {
-          "title": "奧雅納與聖戈班於香港發布《建築應對氣候變化》全球報告| News | newspressnow.com",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.newspressnow.com/news/national_news/business/article_0e16b915-7107-5bdc-afd5-138948e98169.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3MGDSl0iN0BRjfFWl8Mezu",
-          "published": "2026-08-28T06:15:06+00:00",
-          "summary": "《建築應對氣候變化（Adapting Buildings to Climate Change）》 深入探討氣候變化對建築物的影響，並就如何在資產生命週期中強化韌性提出策略。報告提出三&nbsp;..."
+          "title": "鏡頭下的臺灣永續日常！用影像記錄翻轉環境的行動力「第一屆綠影創作獎」揭曉",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14014&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0uwcoVyCdq600RyV6iebdL",
+          "published": "2026-08-28T23:34:12+00:00",
+          "summary": "面對極端氣候威脅物種洄游，村民投入保育，更陪伴龍潭國小學生成為小小生態志工，讓守護家鄉成為世代接力；銀獎則由《從一根菸蒂開始的綠色劇組》獲得，從導演彎&nbsp;..."
         },
         {
-          "title": "奧雅納與聖戈班於香港發布《建築應對氣候變化》全球報告 - Yahoo新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://hk.news.yahoo.com/%25E5%25A5%25A7%25E9%259B%2585%25E7%25B4%258D%25E8%2588%2587%25E8%2581%2596%25E6%2588%2588%25E7%258F%25AD%25E6%2596%25BC%25E9%25A6%2599%25E6%25B8%25AF%25E7%2599%25BC%25E5%25B8%2583-%25E5%25BB%25BA%25E7%25AF%2589%25E6%2587%2589%25E5%25B0%258D%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E5%258C%2596-%25E5%2585%25A8%25E7%2590%2583%25E5%25A0%25B1%25E5%2591%258A-055000780.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0Bm0l-kHYFatXo5v385YFG",
-          "published": "2026-08-28T06:05:06+00:00",
-          "summary": "《建築應對氣候變化（Adapting Buildings to Climate Change）》深入探討氣候變化對建築物的影響，並就如何在資產生命週期中強化韌性提出策略。報告提出三項&nbsp;..."
+          "title": "逛客庄市場、PK地板滾球「大FUN凱道」9/19玩進總統府",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://hakkanews.tw/2026/08/28/300055/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3wlpE8vm9clkarR_v63F14",
+          "published": "2026-08-28T23:25:20+00:00",
+          "summary": "今（28）日宣傳記者會現場將五大主題區濃縮成微型版「小凱道」，小朋友穿梭在客庄市場、地板滾球場，還有即將在總統府內召開的「氣候變遷高峰會」會前工作坊。"
         },
         {
-          "title": "珊瑚揭千年<b>氣候變遷</b>聖嬰加劇全球極端天候| 國際| 中央社CNA",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/news/aopl/202608280126.aspx&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2DB3h7ugDYTacBo9jTRM0A",
-          "published": "2026-08-28T05:47:59+00:00",
-          "summary": "... ，研究分析千年來的珊瑚骨骼，發現聖嬰現象（El Nino）隨著全球氣溫持續升高，正日益加劇威力，對未來氣候變遷 ... 淨零碳排新聞學院中央社電子報中央社好POD."
+          "title": "全球1/10蝴蝶「大搬家」！研究揭<b>氣候變遷</b>影響棲地分布大洗牌| 倡議家",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ubrand.udn.com/ubrand/amp/story/123659/9715268&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0YimZ3bUcpUyWlngDh1WxL",
+          "published": "2026-08-28T23:04:37+00:00",
+          "summary": "蝴蝶飛向何方？ 澳洲蒙納許大學（Monash University）全球變遷生態研究室（Global Change Ecology Lab）主持人喬杜里（Shawan Chowdhury）找了49&nbsp;..."
         }
       ]
     }
