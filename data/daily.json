@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-29T07:40:29.362049+00:00",
-    "date": "2026-08-29",
+    "generated_at": "2026-08-30T06:16:10.505562+00:00",
+    "date": "2026-08-30",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -10,84 +10,47 @@
     {
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
-      "items": [
-        {
-          "title": "【金融 AI 的生產力變現鴻溝】40% 機構實現獲利增長：年預算破 10 萬美元、微調自研專屬模型是關鍵",
-          "link": "https://techorange.com/2026/08/29/ai-in-financial-services-report/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-28T22:29:00+00:00",
-          "summary": "根據劍橋替代金融中心聯合世界銀行、國際貨幣基金組織、國際清算銀行，以及世界經濟論壇發佈的《2026 年全球金融服務 AI 報告》（The 2026 Global AI in Financial Services Report），全球金融業正處於中期過渡階段。 然而在此過渡期中，行業正顯現出「普及率高、獲利轉化低」的失衡反差。 全球 AI 採用率雖高達 81%，實質實現獲利增長的機構卻僅有 40%。"
-        },
-        {
-          "title": "Hugging Face 推 399 美元雙足機器人 Microduck，主打開源、可教學與自主反應",
-          "link": "https://techorange.com/2026/08/28/microduck-hugging-face-unveils-singing-skating-duck-robot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-28T08:32:14+00:00",
-          "summary": "AI 平台 Hugging Face 推出第二款機器人 Microduck，售價 399 美元。這款外型可愛、只有一隻眼睛的雙足機器人不僅會唱歌，使用者還能透過強化學習、模擬環境及開源軟體，教它學習新的動作與技能。Hugging Face 表示，希望藉此讓 AI 與機器人更容易走入一般消費者的生活。 Microduck 目前已開放預購，市場反應相當熱烈。Hugging Face 共同創辦人 Tho"
-        },
-        {
-          "title": "AI Agent 上線三個月就被冷凍？CYBERBIZ 技術長：會反悔的 AI 才是能上線的 AI",
-          "link": "https://techorange.com/2026/08/28/cyberbiz-ai-agent-deployment/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-28T07:28:46+00:00",
-          "summary": "文／CYBERBIZ 技術長 李健華 過去一年，我最常被問的問題是：「你們的 AI 功能什麼時候上線？」 但真正讓我印象深刻的，是另一句話，一位已經導入 AI 工具的品牌營運主管私下跟我說：「上線了啊，可是三個月後，大家還是用原本的方式做事。」 Gartner 在 2025 年就預警，超過四成的 Agentic AI 專案會在 2027 年前被取消，原因不是技術不到位，而是成本失控、商業價值不清、"
-        },
-        {
-          "title": "OpenAI、Anthropic 等逾百家企業聯合示警：AI 網攻門檻大降，防禦只剩數月",
-          "link": "https://techorange.com/2026/08/28/openai-anthropic-issue-cyber-threat-warning/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-28T04:18:51+00:00",
-          "summary": "《Reuters》報導，包括 OpenAI、Anthropic、微軟、Alphabet 與亞馬遜在內的科技巨頭，警告 AI 技術快速進步，正降低駭客發動複雜網路攻擊的門檻，企業與政府只剩數個月時間可以準備。 聯合公開信獲 Broadcom、Capital One、Cloudflare、CrowdStrike、General Motors、IBM、Mastercard、Oracle、Robinhoo"
-        },
-        {
-          "title": "Anthropic 向實體設備出手：推 MHS 要讓 AI Agent 更容易跨設備操作",
-          "link": "https://techorange.com/2026/08/28/anthropic-mhs-model-hardware-standard/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-28T03:46:54+00:00",
-          "summary": "AI Agent（AI 代理）已經能寫程式、規劃實驗，甚至連續工作數小時，但當它真的走進實驗室或工廠進一步控制器材時，可能會遇到設備來自不同廠商，各有不同控制介面、軟體與資料格式等問題。AI Agent 就算知道下一步怎麼做，也未必有一致的方法將指令送到每一台設備，而整合這些硬體往往需要花上數週甚至數月的時間。 Anthropic 在美國時間 8/27 發表「模型硬體標準（MHS, Model H"
-        },
-        {
-          "title": "鐵道安全技術進軍智慧國防： 高科大「多源感測融合目標追蹤與抑制系統」首度亮相 2026 tie 未來科技館",
-          "link": "https://techorange.com/2026/08/28/2026-tie-ai-mftss-sil4/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-28T03:27:35+00:00",
-          "summary": "2026 台灣創博會「未來科技館」由國科會攜手中央研究院、教育部、運動部、衛福部共同策劃，以「讓台灣科研成為產業轉型的力量」為核心主題，聚焦三至十年內的關鍵科技發展，著重將研發成果轉化為具備產業落地潛力的創新亮點。在眾多參展項目中，國立高雄科技大學鐵道技術中心帶來橫跨軌道與國防場域的創新成果——「多源感測融合目標追蹤與抑制系統」（AI-MFTSS）。 AI-MFTSS 以鐵道安全系統的高可靠度控制"
-        }
-      ]
+      "items": []
     },
     {
       "feed_name": "遠見雜誌 - 前進的動力",
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "少吃蛋白質能更長壽？最新研究揭示飲食「品質」更關鍵",
-          "link": "https://www.gvm.com.tw/article/132673",
-          "published": "2026-08-29T07:00:00",
-          "summary": "高蛋白飲食是近年健康與健身領域的熱門話題，許多人認為蛋白質攝取越多，越有助維持肌肉、延緩老化。然過去累積的研究卻顯示，適度降低蛋白質，甚至限制某些特定胺基酸，反而可能有助於延長健康壽命。美國奧古斯塔大學（Augusta University）等科學家，整合近年有關蛋白質攝取與胺基酸代謝的大量研究，歸納出適度降低蛋白質攝取如何影響老化的共同特徵，並分析不同胺基酸對健康老化的角色，論文近日發表於 Ce"
+          "title": "長輩常跌倒不只是老化？醫檢查腦內驚見「蜂鳥」竟確診非典型巴金森氏症",
+          "link": "https://www.gvm.com.tw/article/132689",
+          "published": "2026-08-30T07:00:00",
+          "summary": "一名77歲男子常無故跌倒，家人以為年紀大腳無力，就診發現他眼睛無法往上看，中腦萎縮呈蜂鳥形狀，結合失智等症狀，診斷為進行性核上神經麻痺症，屬非典型巴金森症候群。員榮醫院神經內科醫師陳彥秀今天透過新聞稿表示，這名病患眼睛無法往上看，反應變慢，步態不穩，安排腦部核磁共振及抽血檢查，發現其中腦萎縮呈蜂鳥圖像，結合頻繁跌倒、失智等症狀，診斷為進行性核上神經麻痺症（PSP）。陳彥秀說，進行性核上神經麻痺症在"
         },
         {
-          "title": "大立光衝7270新天價，4天漲逾三成！CPO點燃35檔「含光」ETF",
-          "link": "https://www.gvm.com.tw/article/132704",
-          "published": "2026-08-28T18:39:00",
-          "summary": "大立光股價再創歷史新高，28日盤中一度衝上7270元，終場收7065元，四個交易日累計大漲逾三成。這波行情除受惠手機旺季，更反映市場對CPO（共同封裝光學）新事業的期待，能否靠矽光子概念股與營運基本面持續燒旺行情？大立光（3008）股價再寫歷史新高！繼26、27日連續兩天攻上漲停後，28日早盤多頭氣勢未歇，一度衝上7270元，再改寫歷史天價，儘管盤中獲利了結賣壓出籠，終場漲幅收斂，仍上漲150元、"
+          "title": "全球央行年會〉華許撕降息劇本？「抗通膨還沒結束」前瞻指引退場",
+          "link": "https://www.gvm.com.tw/article/132710",
+          "published": "2026-08-29T18:21:00",
+          "summary": "聯準會（Fed）新任主席華許（Kevin Warsh）首次在傑克森洞年會以主席身分發表演說，卻讓市場覺得很鷹派。他直指通膨降溫不如預期，重申「致力於紀律而非預設決定」，為後續升息大門敞開通道，並正式宣告前瞻指引退場。2026年8月28日，全球金融市場聚焦在美國懷俄明州舉行的傑克森洞（Jackson Hole）全球央行年會。聯準會（Fed）主席凱文．華許（Kevin Warsh），在上任後的首場重量"
         },
         {
-          "title": "繳2千萬遺產稅，竟領不到1.6億保險金？3大原則避開繼承地雷",
-          "link": "https://www.gvm.com.tw/article/132703",
-          "published": "2026-08-28T18:25:00",
-          "summary": "繳了遺產稅，就一定可以領到錢嗎？答案可不一定！一名洪姓女子在2015年時過世，身為繼承人的弟弟與妹妹收到國稅局要求繳納高達2179萬元的遺產稅，原以為咬牙湊錢繳清稅款後，就可以拿到姊姊留下的1.6億元保險理賠金，想不到最後遭到拒賠，因而一狀告上法院，卻仍以敗訴收場，這是為什麼？繳了遺產稅不一定可以拿到遺產嗎？一名洪姓女子在世時購買了94張躉繳保單，其身故的保險理賠金高達1.6億元，且所有保單的身故"
+          "title": "佛光山追思高希均〉高教授、星雲大師共倡和平幸福，一世知音天上重逢",
+          "link": "https://www.gvm.com.tw/article/132709",
+          "published": "2026-08-29T16:19:00",
+          "summary": "佛光山昨（28）日在台北道場舉行高希均教授追思音樂會，現場逾500位賓客蒞臨，佛光山宗長心保和尚感佩高希均的典範懿行，認為「真正影響世界的人，並未真正離開！」遠見‧天下文化創辦人高希均在8月6日辭世，享耆壽90歲，近月來各界紛紛在社群上自發性追思哀悼。昨（28）日，佛光山舉行「遠見一生‧典範長存──高希均教授追思音樂會」，現場超過500位跨界賓客齊聚，穿插著影像、合唱曲與友人感言，在歌聲、笑語與花"
         },
         {
-          "title": "少子化加劇！台灣生育率落後日星韓，今年新生兒恐跌破10萬",
-          "link": "https://www.gvm.com.tw/article/132702",
-          "published": "2026-08-28T18:23:00",
-          "summary": "國發會今天公布最新「中華民國人口推估（2026年至2075年）」，指出在少子女與高齡化趨勢下，總人口將持續下降，且年齡結構趨向高齡。今年新生兒出生數將跌破10萬人大關、中推估值為9.4萬人。國發會每2年依據最新戶籍人口資料，更新出生、死亡及遷徙等人口變動要素的假設情境，客觀描繪未來長期人口發展趨勢，提供政府與各界作為前瞻規劃及加速社會轉型參據。延伸閱讀：少子化加速！國發會：台灣50年後人口腰斬，2"
+          "title": "記憶體密度大幅提升！每GB從8000美元到不用1美元，隨身碟為何再也回不去1GB時代？",
+          "link": "https://www.gvm.com.tw/article/132675",
+          "published": "2026-08-29T16:00:00",
+          "summary": "曾經是大容量代表的 1GB 隨身碟，如今消費市場已難見蹤影。USB 快閃儲存容量之所以持續攀升，關鍵不在外殼或介面，而是 NAND 記憶體密度不斷提高，讓廠商能以更低成本塞進更多資料。回顧早期市場，1GB 是相當亮眼的規格，甚至 2002 年初就曾因 JMTek 的 USBDrive 最高達 1GB 而引發關注；但製程進步後，儲存成本大幅下滑，USB 快閃儲存每 GB 價格從早年高價一路下跌，從早"
         },
         {
-          "title": "「不轉型也是死！」高明鐵熬過多年虧損，如何押中矽光子翻身？",
-          "link": "https://www.gvm.com.tw/article/132700",
-          "published": "2026-08-28T18:07:00",
-          "summary": "從蘋果供應鏈重挫到長期虧損，高明鐵（4573）董事長陳志鑫背水一戰喊出：「不轉型也是死！」他堅拒裁員省成本，反而把磨了17 年的百奈米級超精密技術硬底，搶進AI最關鍵的矽光子與CPO光學對位技術。這場以研發為籌碼的豪賭，讓光通訊業務一舉貢獻整體營收的75%，成功把營運危機扭轉為翻身契機。&nbsp;「你不轉型，還是死啊，那倒不如更大膽地轉型，至少還有機會。」談起2023年決定押注矽光子的那一刻，高"
+          "title": "貓咪狂搖尾巴≠撒嬌！9種貓尾巴摩斯密碼，原來你一直會錯意",
+          "link": "https://www.gvm.com.tw/article/132696",
+          "published": "2026-08-29T14:00:00",
+          "summary": "貓咪總是誠實地把心情寫在尾巴上，只是人們過去常用「狗語」來翻譯「貓意」，難怪常常會錯意。真正懂貓，先從讀懂一條尾巴開始。某一年的聖誕節，英國的萊妮絲．塔林（Lynise Tarring）的家裡多了一位不速之客。一隻四個月大的貓寶寶空投到她家，活潑好動，而且非常黏人， 走到哪跟到哪。「我想知道牠是否喜歡被人撫摸尾巴？再次感謝，阿囉哈！」萊妮絲．塔林專程到獸醫網紅皮特．韋德本（Pete Wedderb"
         },
         {
-          "title": "從三大「居家痛點」看集雅社「空間訂製化」新趨勢",
-          "link": "https://www.gvm.com.tw/article/132614",
-          "published": "2026-08-28T18:00:00",
-          "summary": "當居住空間越住越小，家電尺寸、擺放動線與風格搭配更需要精準的整合規劃。深耕百貨通路超過三十年的集雅社，跳脫傳統單品銷售模式，推出「家電規劃師」一站式顧問服務，從「怕麻煩」到「怕買錯」，一次化解消費者家電選購與規劃難題。過去到百貨買家電，習慣在不同品牌櫃位來回比較、挑選。但隨著居住型態改變、空間縮小，加上智慧科技融入日常，消費者對家電的期待早已不再只停留在功能或價格，而是追求與全戶居家空間的整合。根"
+          "title": "Gemini學生免費方案攻略：申請失敗排除、大學生推薦用法",
+          "link": "https://www.gvm.com.tw/article/132693",
+          "published": "2026-08-29T12:00:00",
+          "summary": "Google再度推出Gemini學生優惠，台灣大專校院學生可免費使用Google AI Plus一年，享有400GB的雲端儲存空間，以及兩倍的Gemini使用額度。今年方案跟去年方案其實大不同，差異在哪？要如何申請？研究生能申請嗎？申請失敗是因為學校信箱嗎？有哪些適合大學生的Gemini推薦用法？《遠見》一次整理。目錄●Gemini 學生方案是什麼？怎麼申請？&nbsp; －申請第一步：使用「個人"
         }
       ]
     },
@@ -96,40 +59,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "基隆榮服處<b>淨零</b>綠生活教育推廣落實行動技能 - 蕃新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20260829580228&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1PzR-xrFgVK7EDkPLai0mS",
-          "published": "2026-08-29T03:45:42+00:00",
-          "summary": "林作逸講師說明國家氣候變遷調適歷程及行動計畫，讓大家共同響應，如：低碳旅遊、低碳飲食、資源回收、購買環保商品等，將綠生活運用於食衣住行育樂購等，讓生活&nbsp;..."
+          "title": "環境部「<b>淨零</b>綠領人才培育課程」第2次全國測驗9月5日登場全國12個考區近千人應試-新聞發布",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14015&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3aL_uuQe_mtfshb6Yd9BRL",
+          "published": "2026-08-30T03:37:05+00:00",
+          "summary": "另因今年教材全面更新，仍有少數去年參訓使用舊版教材的學員，其測驗題型及內容仍沿用原有教材。本次測驗將依新、舊版教材分流命題。 張順欽指出，綠領人才的&nbsp;..."
         },
         {
-          "title": "基隆榮服處<b>淨零</b>綠生活教育推廣落實行動技能 - 勁報Power News",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://twpowernews.com/news_pagein.php%3FiType%3D1009%26n_id%3D295115&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0AqaBBJ4OGTb2k1hAZXNvT",
-          "published": "2026-08-29T03:24:31+00:00",
-          "summary": "... 淨零綠生活推廣種子講師，現職新北市中和區中和國小特教教師、社團法人臺灣微光富美全人關懷發展協會理事長，擁有豐富經歷。 林作逸講師從氣候變遷調適，到&nbsp;..."
+          "title": "新北經發局辦減碳成果交流會助企業掌握<b>淨零</b>轉型 - 趨勢民調",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://polls.com.tw/cnews/151885/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2KgY8RW7CP-tn0wchrm1HW",
+          "published": "2026-08-30T03:29:01+00:00",
+          "summary": "CNEWS匯流新聞網記者唐有為／新北報導面對全球淨零趨勢與供應鏈減碳要求，新北市政府經濟發展局將於10月2日在新北市政府3樓「逗點實驗室」舉辦「115年減碳&nbsp;..."
         },
         {
-          "title": "童子賢：台灣發展太陽光電效率低應重視核電 - IEK產業情報網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D5%26nsl_id%3D5f7df9c6d4ea4bf885ab4560bd65099d&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0X6THd5nlaaonoqqyzrf-K",
-          "published": "2026-08-29T00:00:47+00:00",
-          "summary": "... ）總統府國家氣候變遷 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
+          "title": "維吉尼亞與加州<b>淨零</b>目標推進下，電池儲能需求為何升溫? - 股市爆料同學會",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/readmo/ff914888-0bd1-4d40-949c-dda5471f4011&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw00FX7Iy4_ROwN0Ng8pcjzq",
+          "published": "2026-08-30T03:03:26+00:00",
+          "summary": "BESS的價值在於它能同時支援削峰填谷、頻率調節與備援供電，讓更多再生能源更容易併入電網，減少對化石燃料調度的依賴。以加州為例，極端高溫與用電高峰常對電網&nbsp;..."
         },
         {
-          "title": "鏡頭下的臺灣永續日常！用影像記錄翻轉環境的行動力「第一屆綠影創作獎」揭曉",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14014&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0uwcoVyCdq600RyV6iebdL",
-          "published": "2026-08-28T23:34:12+00:00",
-          "summary": "面對極端氣候威脅物種洄游，村民投入保育，更陪伴龍潭國小學生成為小小生態志工，讓守護家鄉成為世代接力；銀獎則由《從一根菸蒂開始的綠色劇組》獲得，從導演彎&nbsp;..."
+          "title": "教孩子一週七天輕鬆減碳！「<b>淨零</b>新生活親子嘉年華」歡樂登場 - 自由時報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.ltn.com.tw/news/life/breakingnews/5556948&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1-wxVdjbq250GvgZvknuy_",
+          "published": "2026-08-30T03:01:24+00:00",
+          "summary": "... 淨零」變成孩子聽得懂、記得住，也做得到的日常任務。環保局說明，面對極端氣候、熱島效應及能源轉型等挑戰，淨零不只是城市政策，更需要每個人從日常生活&nbsp;..."
         },
         {
-          "title": "逛客庄市場、PK地板滾球「大FUN凱道」9/19玩進總統府",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://hakkanews.tw/2026/08/28/300055/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3wlpE8vm9clkarR_v63F14",
-          "published": "2026-08-28T23:25:20+00:00",
-          "summary": "今（28）日宣傳記者會現場將五大主題區濃縮成微型版「小凱道」，小朋友穿梭在客庄市場、地板滾球場，還有即將在總統府內召開的「氣候變遷高峰會」會前工作坊。"
+          "title": "尼泊爾外長：氣候變化對喜馬拉雅山脈威脅加劇國際應攜手保護生態 - 巴士的報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bastillepost.com/hongkong/article/16666660-%25E5%25B0%25BC%25E6%25B3%258A%25E7%2588%25BE%25E5%25A4%2596%25E9%2595%25B7%25EF%25BC%259A%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E5%258C%2596%25E5%25B0%258D%25E5%2596%259C%25E9%25A6%25AC%25E6%258B%2589%25E9%259B%2585%25E5%25B1%25B1%25E8%2584%2588%25E5%25A8%2581%25E8%2584%2585%25E5%258A%25A0%25E5%258A%2587-%25E5%259C%258B&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2IAmMPITXGVBDAVC_8jwv9",
+          "published": "2026-08-30T02:43:34+00:00",
+          "summary": "尼泊爾邊境冰川崩塌觸發嚴重泥石流，中尼兩國傷亡慘重。尼泊爾外長警告氣候變化威脅喜馬拉雅生態，促國際社會攜手救災減排。全球暖化加劇冰川融化，&nbsp;..."
         },
         {
-          "title": "全球1/10蝴蝶「大搬家」！研究揭<b>氣候變遷</b>影響棲地分布大洗牌| 倡議家",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ubrand.udn.com/ubrand/amp/story/123659/9715268&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0YimZ3bUcpUyWlngDh1WxL",
-          "published": "2026-08-28T23:04:37+00:00",
-          "summary": "蝴蝶飛向何方？ 澳洲蒙納許大學（Monash University）全球變遷生態研究室（Global Change Ecology Lab）主持人喬杜里（Shawan Chowdhury）找了49&nbsp;..."
+          "title": "臺北市政府環境保護局-新聞稿-「地球行動隊」出動！ 親子闖7關，玩出<b>淨零</b>新生活！",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.dep.gov.taipei/News_Content.aspx%3Fn%3DCB6D5C560DE4D2DD%26sms%3D72544237BBE4C5F6%26s%3DC0BEECCC8CFDC16D&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3SF8S0XmNsB_UrAyMP61kT",
+          "published": "2026-08-30T02:15:28+00:00",
+          "summary": "環保局說明，面對極端氣候、熱島效應及能源轉型等挑戰，淨零不只是城市政策，更需要每個人從日常生活一起加入，而「地球行動隊」就是邀請親子一起成為行動者的最&nbsp;..."
         }
       ]
     }
