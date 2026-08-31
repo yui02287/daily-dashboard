@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-08-30T06:16:10.505562+00:00",
-    "date": "2026-08-30",
+    "generated_at": "2026-08-31T06:42:34.323140+00:00",
+    "date": "2026-08-31",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -10,47 +10,72 @@
     {
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
-      "items": []
+      "items": [
+        {
+          "title": "Meta 測試資料中心機器人：能換線、重啟伺服器，員工估最多接手 80% 工作",
+          "link": "https://techorange.com/2026/08/31/metas-experiments-data-center-robots/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-31T04:36:55+00:00",
+          "summary": "Meta 已在部分資料中心投入機器人，同時也持續測試更多機型，讓機器人執行插拔線纜、重新啟動伺服器及其他資料中心維運工作。《WIRED》報導，多名熟悉相關專案的現任及前任員工透露，相關計畫目前仍在進行，且此前從未對外曝光。隨著 Meta 在 AI 基礎設施上的支出急遽攀升，若相關測試最終成功，公司未來可能減少資料中心的人力需求，在控制人事成本的同時，維持日益擴大的資料中心規模。 Meta 啟動資料"
+        },
+        {
+          "title": "鴻海研究院實例解析 AI、HPC、量子混合架構如何加速解決現實世界難題",
+          "link": "https://techorange.com/2026/08/31/foxconn-hhri-quantum-centric-supercomputing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-31T04:10:59+00:00",
+          "summary": "AI 正大幅加快量子技術從理論走向實際商業應用的速度，TechOrange 科技報橘日前舉辦的「2026 量子高峰論壇」，特別邀請鴻海研究院量子計算研究所所長謝明修以「量子 x AI 如何加速解決現實世界的難題」為題進行主題演講。謝明修雖然因行程安排無法親臨現場，仍透過預錄影片跨海捎來前沿洞察。 「近期真正可行的路徑，不是等待一台量子電腦取代所有電腦，而是讓 AI、超級電腦（HPC）與量子處理器各"
+        },
+        {
+          "title": "HBM 缺貨，現在該擴產嗎？勤業眾信：循環融資恐放大需求訊號，避免把短期訂單誤判為長期需求",
+          "link": "https://techorange.com/2026/08/31/deloitte-2026-semiconductor-industry-outlook/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-31T03:40:00+00:00",
+          "summary": "專訪：沈貝怡撰稿：李昀蔚 AI 正在把全球半導體產業推向新一波高峰。根據 Deloitte 勤業眾信近期發布的《2026 Semiconductor Industry Outlook》，2026 年全球半導體產業營收預估將上看 9,750 億美元，逼近一兆美元，年成長率高達 26%，其中 AI 晶片更貢獻將近一半營收。然而，這片榮景背後卻藏著一個「高風險矛盾」：AI 晶片雖然貢獻接近半數營收，出貨"
+        },
+        {
+          "title": "達梭系統三大 AI Agent 攜手 NVIDIA，打造可落地的 Industrial AI",
+          "link": "https://techorange.com/2026/08/31/dassaultsystemes-aiagent-nvidia-industrialai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-31T03:30:00+00:00",
+          "summary": "隨著生成式 AI 與 AI Agent 風潮持續發酵，台灣製造業正迎來下一道更難的考題：AI 如何從「回答問題」走向「參與產品研發」？ 達梭系統大中華區技術諮詢部資深技術經理陳哲基認為，製造業已經進入由  AI  驅動營運流程的階段，企業更希望 AI 成為與工程師並肩作戰的夥伴，參與產品設計、模擬與驗證作業，降低工程師在重複性工作上的時間，加速產品開發迭代，讓企業在產品愈來愈複雜、上市週期愈來愈短"
+        },
+        {
+          "title": "【指地上說「清這裡」就能動】不靠 App、不用學操作，Matic 掃地機器人聽懂 70 種語言和人類手勢",
+          "link": "https://techorange.com/2026/08/31/matic-cues/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-31T03:01:35+00:00",
+          "summary": "當你指著廚房地板上的咖啡漬，說一句「嘿，Matic，把這裡清乾淨」，這台清潔機器人會像人或寵物聽到呼喚一樣，轉身面向你的方向，看懂你指的位置，接著自己移動過去清理，不需要開任何 App，也不用事先替房間建立地圖或標籤。這是加州機器人公司 Matic 近期推出的軟體更新 Matic Cues，帶來的功能體驗。 能聽懂 70 多種語言與手勢 Matic 機器人配備五顆相機與四支麥克風組成的陣列。使用者"
+        },
+        {
+          "title": "從白帽駭客到 AI 雙軌審查，QNAP 如何做到「儲存＋資安」一體化？",
+          "link": "https://techorange.com/2026/08/31/qnap-hitcon-bountyprogram-adrandrx-psirt-sbom/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-08-31T03:00:00+00:00",
+          "summary": "在日前台灣駭客年會 HITCON 2026 中，QNAP 透過展出漏洞賞金計畫（Bounty Program）成果，以及具備內網威脅偵測能力的 ADRA NDR X 設備，展現近年資安領域的堅實防禦力。「我們希望在產品設計初期，就把資安元素納入核心。」QNAP 軟體安全架構部研發經理廖敬指出，QNAP 持續以 Secure by Design 的理念，將參與外部資安社群交流視為強化防禦機制的關鍵一"
+        }
+      ]
     },
     {
       "feed_name": "遠見雜誌 - 前進的動力",
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
+          "title": "從補缺口到拚升級　鍾東錦迎向苗栗第二階段",
+          "link": "https://www.gvm.com.tw/article/132677",
+          "published": "2026-08-31T00:00:00",
+          "summary": "鍾東錦在2022年接下苗栗縣長的印信，上任之初，他面對的是一個長期被外界貼上資源不足標籤的縣市，醫療資源不均、教育量能落差、交通瓶頸與青年外流等問題，都亟待改善。在鍾東錦縣長的帶領下，苗栗從貼近民生的福利政策出發，逐步推進醫療、教育、交通與產業建設，漸漸積累出向前發展的底氣。近四年來，苗栗是否有所改變，民意已經給出一部分答案。在《遠見雜誌》2026年縣市長施政滿意度調查中，鍾東錦縣長以74.4％的"
+        },
+        {
+          "title": "電力即國力！泓德能源周仕昌：用「電力主權」打造台灣AI新世代的綠色戰略",
+          "link": "https://www.gvm.com.tw/article/132526",
+          "published": "2026-08-31T00:00:00",
+          "summary": "一場非典型的國力之戰，因為AI正悄然開打。表面上，台灣受惠AI紅利股市大漲，但背後的隱憂是——算力，實質被握在國際科技巨頭手中。泓德能源總經理周仕昌一針見血指出，我們日常使用的Facebook、Gmail乃至ChatGPT，「這些都是外商提供的方案，一旦因地緣政治突然撤走服務，其實我們很沒有保障！」 &nbsp;這個現象在日本被稱為「數位赤字」，特別是AI狂飆時代，「Token（算力）決定了你的I"
+        },
+        {
+          "title": "新青安3年撥貸近1.4兆！3.0接棒門檻拉高「難重演爆量」",
+          "link": "https://www.gvm.com.tw/article/132691",
+          "published": "2026-08-30T11:00:00",
+          "summary": "青年安心成家貸款2.0（新青安）政策於今年7月底屆滿，8月正式銜接青安3.0。台灣房屋根據財政部資料總結青安2.0期間的撥貸狀況，指出青安2.0於3年間共撥貸約17.7萬戶，總金額將近新台幣1.4兆元。台灣房屋今天發布新聞稿指出，以青安2.0期間的撥貸狀況換算每戶平均撥貸金額為782萬元，比前期的青安1.0增加300萬元，平均每月撥貸戶數將近5000件，較青安1.0的1737件，增加近2倍。延伸閱"
+        },
+        {
           "title": "長輩常跌倒不只是老化？醫檢查腦內驚見「蜂鳥」竟確診非典型巴金森氏症",
           "link": "https://www.gvm.com.tw/article/132689",
           "published": "2026-08-30T07:00:00",
           "summary": "一名77歲男子常無故跌倒，家人以為年紀大腳無力，就診發現他眼睛無法往上看，中腦萎縮呈蜂鳥形狀，結合失智等症狀，診斷為進行性核上神經麻痺症，屬非典型巴金森症候群。員榮醫院神經內科醫師陳彥秀今天透過新聞稿表示，這名病患眼睛無法往上看，反應變慢，步態不穩，安排腦部核磁共振及抽血檢查，發現其中腦萎縮呈蜂鳥圖像，結合頻繁跌倒、失智等症狀，診斷為進行性核上神經麻痺症（PSP）。陳彥秀說，進行性核上神經麻痺症在"
-        },
-        {
-          "title": "全球央行年會〉華許撕降息劇本？「抗通膨還沒結束」前瞻指引退場",
-          "link": "https://www.gvm.com.tw/article/132710",
-          "published": "2026-08-29T18:21:00",
-          "summary": "聯準會（Fed）新任主席華許（Kevin Warsh）首次在傑克森洞年會以主席身分發表演說，卻讓市場覺得很鷹派。他直指通膨降溫不如預期，重申「致力於紀律而非預設決定」，為後續升息大門敞開通道，並正式宣告前瞻指引退場。2026年8月28日，全球金融市場聚焦在美國懷俄明州舉行的傑克森洞（Jackson Hole）全球央行年會。聯準會（Fed）主席凱文．華許（Kevin Warsh），在上任後的首場重量"
-        },
-        {
-          "title": "佛光山追思高希均〉高教授、星雲大師共倡和平幸福，一世知音天上重逢",
-          "link": "https://www.gvm.com.tw/article/132709",
-          "published": "2026-08-29T16:19:00",
-          "summary": "佛光山昨（28）日在台北道場舉行高希均教授追思音樂會，現場逾500位賓客蒞臨，佛光山宗長心保和尚感佩高希均的典範懿行，認為「真正影響世界的人，並未真正離開！」遠見‧天下文化創辦人高希均在8月6日辭世，享耆壽90歲，近月來各界紛紛在社群上自發性追思哀悼。昨（28）日，佛光山舉行「遠見一生‧典範長存──高希均教授追思音樂會」，現場超過500位跨界賓客齊聚，穿插著影像、合唱曲與友人感言，在歌聲、笑語與花"
-        },
-        {
-          "title": "記憶體密度大幅提升！每GB從8000美元到不用1美元，隨身碟為何再也回不去1GB時代？",
-          "link": "https://www.gvm.com.tw/article/132675",
-          "published": "2026-08-29T16:00:00",
-          "summary": "曾經是大容量代表的 1GB 隨身碟，如今消費市場已難見蹤影。USB 快閃儲存容量之所以持續攀升，關鍵不在外殼或介面，而是 NAND 記憶體密度不斷提高，讓廠商能以更低成本塞進更多資料。回顧早期市場，1GB 是相當亮眼的規格，甚至 2002 年初就曾因 JMTek 的 USBDrive 最高達 1GB 而引發關注；但製程進步後，儲存成本大幅下滑，USB 快閃儲存每 GB 價格從早年高價一路下跌，從早"
-        },
-        {
-          "title": "貓咪狂搖尾巴≠撒嬌！9種貓尾巴摩斯密碼，原來你一直會錯意",
-          "link": "https://www.gvm.com.tw/article/132696",
-          "published": "2026-08-29T14:00:00",
-          "summary": "貓咪總是誠實地把心情寫在尾巴上，只是人們過去常用「狗語」來翻譯「貓意」，難怪常常會錯意。真正懂貓，先從讀懂一條尾巴開始。某一年的聖誕節，英國的萊妮絲．塔林（Lynise Tarring）的家裡多了一位不速之客。一隻四個月大的貓寶寶空投到她家，活潑好動，而且非常黏人， 走到哪跟到哪。「我想知道牠是否喜歡被人撫摸尾巴？再次感謝，阿囉哈！」萊妮絲．塔林專程到獸醫網紅皮特．韋德本（Pete Wedderb"
-        },
-        {
-          "title": "Gemini學生免費方案攻略：申請失敗排除、大學生推薦用法",
-          "link": "https://www.gvm.com.tw/article/132693",
-          "published": "2026-08-29T12:00:00",
-          "summary": "Google再度推出Gemini學生優惠，台灣大專校院學生可免費使用Google AI Plus一年，享有400GB的雲端儲存空間，以及兩倍的Gemini使用額度。今年方案跟去年方案其實大不同，差異在哪？要如何申請？研究生能申請嗎？申請失敗是因為學校信箱嗎？有哪些適合大學生的Gemini推薦用法？《遠見》一次整理。目錄●Gemini 學生方案是什麼？怎麼申請？&nbsp; －申請第一步：使用「個人"
         }
       ]
     },
@@ -59,40 +84,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "環境部「<b>淨零</b>綠領人才培育課程」第2次全國測驗9月5日登場全國12個考區近千人應試-新聞發布",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14015&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3aL_uuQe_mtfshb6Yd9BRL",
-          "published": "2026-08-30T03:37:05+00:00",
-          "summary": "另因今年教材全面更新，仍有少數去年參訓使用舊版教材的學員，其測驗題型及內容仍沿用原有教材。本次測驗將依新、舊版教材分流命題。 張順欽指出，綠領人才的&nbsp;..."
+          "title": "嘉義就業中心9/5耐斯王子飯店徵才在地優質企業釋千缺導入「智慧E化面試系統」 響應<b>淨零</b>碳排",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.kingtop.com.tw/detail.php%3Ftype%3Dcatalog%26catalog_id%3D5%26id%3D53331&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3k-FwFRSfL5Gkk70hlr9Hf",
+          "published": "2026-08-31T05:22:36+00:00",
+          "summary": "【記者張文一嘉義報導】勞動部勞動力發展署雲嘉南分署嘉義就業中心，將於9月5日（六）上午，在耐斯王子大飯店5樓舉辦「數位永續薪在嘉義—2026大嘉義徵才&nbsp;..."
         },
         {
-          "title": "新北經發局辦減碳成果交流會助企業掌握<b>淨零</b>轉型 - 趨勢民調",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://polls.com.tw/cnews/151885/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2KgY8RW7CP-tn0wchrm1HW",
-          "published": "2026-08-30T03:29:01+00:00",
-          "summary": "CNEWS匯流新聞網記者唐有為／新北報導面對全球淨零趨勢與供應鏈減碳要求，新北市政府經濟發展局將於10月2日在新北市政府3樓「逗點實驗室」舉辦「115年減碳&nbsp;..."
+          "title": "渣打銀行連續3年舉辦「永續供應商大會」 強化供應商治理 - 中央社",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/postwrite/chi/442856&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0TTwHJT9-rWzKGpl8AqObz",
+          "published": "2026-08-31T04:29:36+00:00",
+          "summary": "... 淨零轉型三大議題，藉由制度化平台促進跨產業經驗分享及成果借鑑，將永續原則落實於供應商遴選、管理及合作流程，共同建構更具韌性、透明度與國際競爭力的永&nbsp;..."
         },
         {
-          "title": "維吉尼亞與加州<b>淨零</b>目標推進下，電池儲能需求為何升溫? - 股市爆料同學會",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/readmo/ff914888-0bd1-4d40-949c-dda5471f4011&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw00FX7Iy4_ROwN0Ng8pcjzq",
-          "published": "2026-08-30T03:03:26+00:00",
-          "summary": "BESS的價值在於它能同時支援削峰填谷、頻率調節與備援供電，讓更多再生能源更容易併入電網，減少對化石燃料調度的依賴。以加州為例，極端高溫與用電高峰常對電網&nbsp;..."
+          "title": "尼泊爾洪災釀682死外長警告<b>氣候變遷</b>威脅加劇| 國際| 三立新聞網SETN.COM",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.setn.com/news/1898723&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3XayBruIsXwYBCeXB1h1dV",
+          "published": "2026-08-31T04:22:00+00:00",
+          "summary": "法新社報導，美國地質調查所（US Geological Survey）指出，這起災難是因冰川崩塌導致大量泥石流衝下山谷所致。"
         },
         {
-          "title": "教孩子一週七天輕鬆減碳！「<b>淨零</b>新生活親子嘉年華」歡樂登場 - 自由時報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.ltn.com.tw/news/life/breakingnews/5556948&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1-wxVdjbq250GvgZvknuy_",
-          "published": "2026-08-30T03:01:24+00:00",
-          "summary": "... 淨零」變成孩子聽得懂、記得住，也做得到的日常任務。環保局說明，面對極端氣候、熱島效應及能源轉型等挑戰，淨零不只是城市政策，更需要每個人從日常生活&nbsp;..."
+          "title": "循環經濟邁向<b>淨零</b>崑山科大USR計畫榮獲2026台灣永續行動獎銀獎",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5723/9723928&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3vCHau4ZlbXiGa84O6b0Rn",
+          "published": "2026-08-31T03:45:46+00:00",
+          "summary": "崑山科大USR計畫以「循環經濟下的淨零韌性」方案，榮獲2026台灣永續行動獎SDG 13氣候行動銀獎，展現循環技術落地地方的成果。"
         },
         {
-          "title": "尼泊爾外長：氣候變化對喜馬拉雅山脈威脅加劇國際應攜手保護生態 - 巴士的報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bastillepost.com/hongkong/article/16666660-%25E5%25B0%25BC%25E6%25B3%258A%25E7%2588%25BE%25E5%25A4%2596%25E9%2595%25B7%25EF%25BC%259A%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E5%258C%2596%25E5%25B0%258D%25E5%2596%259C%25E9%25A6%25AC%25E6%258B%2589%25E9%259B%2585%25E5%25B1%25B1%25E8%2584%2588%25E5%25A8%2581%25E8%2584%2585%25E5%258A%25A0%25E5%258A%2587-%25E5%259C%258B&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2IAmMPITXGVBDAVC_8jwv9",
-          "published": "2026-08-30T02:43:34+00:00",
-          "summary": "尼泊爾邊境冰川崩塌觸發嚴重泥石流，中尼兩國傷亡慘重。尼泊爾外長警告氣候變化威脅喜馬拉雅生態，促國際社會攜手救災減排。全球暖化加劇冰川融化，&nbsp;..."
+          "title": "新聞發布環境部與國發會攜手推動<b>淨零</b>公正轉型2 億元溫管基金開放各部會申請",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14023&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1AkQHoCNcqG9M8SuJbK5DC",
+          "published": "2026-08-31T03:32:55+00:00",
+          "summary": "... 氣候變遷因應法」明訂之公正轉型主辦機關，為有效整合跨部會資源，已於今年8月10日正式發布「淨零公正轉型計畫申請及管考作業要點」，開放行政院所屬中央二&nbsp;..."
         },
         {
-          "title": "臺北市政府環境保護局-新聞稿-「地球行動隊」出動！ 親子闖7關，玩出<b>淨零</b>新生活！",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.dep.gov.taipei/News_Content.aspx%3Fn%3DCB6D5C560DE4D2DD%26sms%3D72544237BBE4C5F6%26s%3DC0BEECCC8CFDC16D&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3SF8S0XmNsB_UrAyMP61kT",
-          "published": "2026-08-30T02:15:28+00:00",
-          "summary": "環保局說明，面對極端氣候、熱島效應及能源轉型等挑戰，淨零不只是城市政策，更需要每個人從日常生活一起加入，而「地球行動隊」就是邀請親子一起成為行動者的最&nbsp;..."
+          "title": "華航首度參展亞太永續博覽會攜手各界夥伴<b>淨零</b>啟航 - 中央社",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/business/chinese/442839&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0Bl7yq-B4eiDip6h7eeUxj",
+          "published": "2026-08-31T02:55:18+00:00",
+          "summary": "中華航空首度參展2026亞太永續博覽會，以「永續華航淨零啟航」為主題，分享一路走來，攜手各界夥伴推動永續共好的實踐成果，自8月27日起至29日於台北世貿一&nbsp;..."
         }
       ]
     }
