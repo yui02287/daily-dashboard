@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-09-01T06:02:21.298141+00:00",
-    "date": "2026-09-01",
+    "generated_at": "2026-09-02T05:28:33.486722+00:00",
+    "date": "2026-09-02",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "不只賣算力也賣架構：NVIDIA 砸 35 億美元投資聯發科，佈局客製化 AI 晶片生態系",
-          "link": "https://techorange.com/2026/09/01/nvidia-mediatek-partnership-build-ai-edge-cloud-computing-platforms/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-01T03:58:39+00:00",
-          "summary": "《Reuters》報導，NVIDIA 將認購晶片大廠聯發科發行的可轉換公司債，投資金額達 35 億美元。雙方進一步展開晶片與 AI 基礎設施合作，聯發科預計採用 NVIDIA 相關技術，為 AI 公司及超大規模雲端服務商（hyperscalers）開發客製化晶片，並讓這些晶片直接部署於採用 NVIDIA 架構的資料中心。 NVIDIA 開放 NVLink 生態系，築起 AI 基礎設施護城河 《Te"
+          "title": "電力跟不上 AI 需求，能源危機逼出「低功耗 AI」與「邊緣運算」的戰略地位",
+          "link": "https://techorange.com/2026/09/02/csem-low-power-ai-and-small-nations/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-02T02:29:50+00:00",
+          "summary": "低功耗 AI 與去中心化人工智慧等替代性架構，正日益展現其戰略地位的重要性，瑞士電子與微技術中心（CSEM）專家認為，小國家將有機會借助低功耗 AI 參與全球競爭。"
         },
         {
-          "title": "導入 AI 不必樣樣都做，IKEA 用「雙軸四象限」決定投入順序",
-          "link": "https://techorange.com/2026/09/01/ikea-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-01T02:49:15+00:00",
-          "summary": "AI 熱潮席捲零售業，各大企業紛紛投入資源探索生成式 AI 與 AI Agent，但對 IKEA 而言，真正的挑戰並非「能用什麼 AI」，而是「哪些 AI 值得做」。 作為全球最大的 IKEA 加盟商，Ingka Group 數位長 Parag Parekh 接受麥肯錫採訪表示，IKEA 建立一套雙軸四象限矩陣，將 AI 專案依照「顧客導向或員工導向」以及「成長導向或成本導向」進行分類，再根據商業"
+          "title": "【shady AI 現形】比 shadow AI 更難防，已核准的 AI 工具，正在製造新的資安黑洞",
+          "link": "https://techorange.com/2026/09/02/shady-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-02T02:28:33+00:00",
+          "summary": "2026 年 3 月，Meta 內部一起「Sev 1」等級事故，讓資安圈開始正視一種過去未曾被明確定義的風險。事情的起點，是一名 Meta 員工在內部論壇貼出技術問題，工程師使用公司已核准的 AI 代理來分析，這個代理卻在未經授權的情況下，把回覆內容公開發布。 員工照著建議操作，無意間讓大量敏感資料，暴露給未經授權的工程師長達兩小時以上。 Meta 事故揭露的新風險型態 這起事故的特殊之處在於，涉"
         },
         {
-          "title": "【情境工程人才缺口】不只是寫提示詞，企業需要能設計 AI 運作環境的人",
-          "link": "https://techorange.com/2026/09/01/ai-context-engineering-jobs-boom/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-01T01:38:29+00:00",
-          "summary": "提示工程（Prompt Engineering）曾是極為熱門的新興 AI 職缺之一，如科技人才招募公司 SPG Resourcing 就於 2025 年指出，英國當地的 AI 提示詞工程師職缺數量，相較前一年增長了 180%。 提示詞工程師的招募熱潮，精準捕捉了生成式 AI 崛起時的商業氛圍，當時的企業正試圖理解如何與大型語言模型（LLM）對話，並試圖將各種早期實驗轉化為實用成果。 隨著 AI 不"
+          "title": "首屆 AFA Awards 2026 得獎名單出爐，馬來西亞、新加坡及臺灣五家企業奪下五大獎",
+          "link": "https://techorange.com/2026/09/02/afa-awards-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-02T01:51:15+00:00",
+          "summary": "亞洲金融科技聯盟（Asia FinTech Alliance, AFA 9 月 1 日於臺北舉辦首屆 2026 亞洲金融科技聯盟大獎（AFA Awards 2026）決賽暨頒獎典禮，五大獎項得主正式出爐，在七位國際評審的嚴格評選，來自馬來西亞、新加坡及臺灣的五家金融科技企業，從 88 件提名中脫穎而出，分別拿下年度跨境金融科技獨角獸潛力獎、金融基礎設施卓越獎、監理合規卓越獎、市場拓展卓越獎及高速成"
         },
         {
-          "title": "【中小企業 AI 代理】AI 代理讓中小企業擁有數位勞動力，「信任邊界」決定它能走多遠",
-          "link": "https://techorange.com/2026/09/01/ai-agents-are-reshaping-business/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-01T01:37:47+00:00",
-          "summary": "過去幾年，中小企業使用 AI 最常見的方式仍是叫它產出一篇貼文、一張圖片或一段商品介紹。這些工具降低了內容生產門檻，但核心工作並未消失，因為文案寫完仍要人手動更新網站，收到客戶詢問要人工判斷並輸入 CRM，預約還得另外確認行事曆。 商業網站代管公司 Bluehost 執行長 Sachin Puri 認為，AI 代理真正的改變就在這裡；過去的 AI 幫企業創造東西，代理則開始幫企業把事情做完。 從產"
+          "title": "【科技早餐】NVIDIA 35 億美元「準入股」聯發科，Anthropic 傳一週簽 800 億美元算力合約",
+          "link": "https://techorange.com/2026/09/02/nvidia-mediatek-investment-anthropic-ai-compute-deals/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-01T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊NVIDIA 35 億美元「準入股」聯發科，合作跨 AI 資料中心、PC 與車用 聯發科（MediaTek）與 NVIDIA 宣布深化合作，NVIDIA 以 35 億美元認購聯發科發行的海外可轉換公司債，占這次 39 億美元發行規模近九成。這筆 39 億美元發行案，是台灣資本市場至今規模最大的海外可轉債。據《工商時報》統計，這是 NVIDIA 首"
         },
         {
-          "title": "【科技早餐】AI 算力愈強、傳輸愈吃緊！台積電：矽光子 2027 年市占破 50%",
-          "link": "https://techorange.com/2026/09/01/tsmc-silicon-photonics-ai-interconnect/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-31T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊台積電：矽光子 2027 年光收發器市占估破 50%，AI 傳輸成新瓶頸 SEMICON Taiwan 國際半導體展 9 月 2 日登場，展前技術論壇率先聚焦 AI 運算瓶頸。台積電指出，AI 推理與代理式 AI 帶動運算量快速成長，但記憶體頻寬與資料傳輸速度跟不上。台積電引用高盛預估，到 2030 年全球 AI Token 使用量將較 2026"
+          "title": "量子電腦如何才算「有用」？SEMICON 上，各家正在給出不同答案",
+          "link": "https://techorange.com/2026/09/01/semicon-quantum-taiwan-forum-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-01T09:43:06+00:00",
+          "summary": "AI 持續推動半導體需求，但產業也開始尋找下一個關鍵應用。SEMI 全球行銷長暨台灣區總裁曹世綸在 SEMICON Taiwan 展會期間指出，產業正關注如何在半導體之後找到全新的關鍵應用，量子科技就是推動下一世代發展的焦點之一。 量子電腦正從數百顆 qubit 往千顆、甚至更大規模推進，但硬體規模增加，距離真正解決產業問題還有多遠？現階段量子位元仍容易受到雜訊干擾，要長時間執行複雜運算，業界正朝"
         },
         {
-          "title": "AI 發展還在第一階段，吳田玉：台灣要加速把基礎建設做出來",
-          "link": "https://techorange.com/2026/08/31/semicon-2026-ase-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-08-31T12:14:18+00:00",
-          "summary": "AI 持續推高半導體投資，但是算力基礎建設越蓋越大，也開始擠壓土地、人才、資金與電力。日月光半導體執行長、SEMI 全球董事會主席吳田玉在 SEMICON Taiwan 2026 展前記者會指出，AI 發展短期確實帶來資源與地緣政治的「擠壓現象」，原因是 AI 從人類既有經驗開始發展，部分工作與生產模式可能因此被取代；但若拉長時間來看，AI 更大的價值在於跨領域創新，台灣仍必須加速投資，推動 AI"
+          "title": "ChatGPT、Grok 進駐五角大廈：300 萬美軍用生成式 AI，敏感資料如何不外流？",
+          "link": "https://techorange.com/2026/09/01/the-pentagon-version-chatgpt-grok/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-01T09:06:39+00:00",
+          "summary": "五角大廈近日推出 OpenAI 的 ChatGPT 與 xAI 的 Grok 軍方專用版本，《TechCrunch》報導，此舉讓美國國防部約 300 萬名軍職與文職人員，都能使用專為「作戰人員需求」打造的生成式 AI 工具。 ChatGPT Mil 與 Grok for Government 是針對政府與軍方需求打造的版本，目前都已整合進 GenAI.mil。這個安全的 AI 入口平台去年啟用，最"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "大健康不只拚商機，更拚管理！政大EMBA打造跨域平台，助企業突圍下一成長曲線",
-          "link": "https://www.gvm.com.tw/article/132538",
-          "published": "2026-09-01T00:00:00",
-          "summary": "超高齡社會來臨，大健康不只是醫療議題，更成為企業尋找下一條成長曲線的新戰場。看見商機只是起點，如何強化策略、組織與管理能力承接成長，才是真正的考驗！政大EMBA如何陪伴企業領導者跨域解題、找到新成長？當「大健康」成新戰場，許多企業嘗試跨域突圍，找到第二成長曲線。國立政治大學EMBA生醫組召集人彭朱如教授提醒，一個產業能否持續蓬勃興盛，取決於「如何管理」。政大EMBA透過紮實的課程內容與設計，幫助企"
+          "title": "輝達1100億押注聯發科！009802、00935等9檔「高含發ETF」一次看",
+          "link": "https://www.gvm.com.tw/article/132774",
+          "published": "2026-09-01T19:15:00",
+          "summary": "聯發科於2026年8月31日宣布發行總額高達39億美元的海外可轉換公司債（ECB），創下台灣資本市場歷史新高，其中輝達（NVIDIA）砸下35億美元認購近九成額度，引爆市場多頭行情。本文盤點高含發量ETF與最新股價動態，助你卡位AI算力紅利。AI晶片霸主輝達（NVIDIA）首度出手投資台灣上市公司，對象就是聯發科（2454）。聯發科8月31日公告完成總額39億美元、約新台幣1250億元的海外無擔保"
         },
         {
-          "title": "2026《東！帶我走》出發吧 來台東唱  戶外KTV等你來歡歌！",
-          "link": "https://www.gvm.com.tw/article/132467",
-          "published": "2026-09-01T00:00:00",
-          "summary": "如果這個夏秋，你還缺一個「非去不可」的旅行理由，那就來台東吧！ 不只看山、看海、看日出，這一次，台東要直接把音樂舞台搬到國際地標，邀請大家一起大聲唱、盡情玩，迎接2026《東！帶我走》出發吧 來台東唱！9月12日至13日連續兩天，從下午5點一路唱到晚上10點，台東市國際地標將變身大型音樂現場，集結不同世代、不同曲風的重量級歌手與樂團，準備讓台東的夜晚一路嗨到最高點！好了，別再猶豫，「出發吧，來台東"
+          "title": "115年國慶主視覺出爐！延續紅藍白3色，以方格拼出雙十圖案",
+          "link": "https://www.gvm.com.tw/article/132773",
+          "published": "2026-09-01T19:10:00",
+          "summary": "國慶籌備委員會今天中午搶先在臉書粉專「中華民國 讚國慶」更換國慶主視覺大頭貼，整體延續白、藍、紅國旗配色呈現，但改以方格拼出雙十圖案，下方寫著「中華民國生日快樂」，以及英文標語TAIWAN TOGETHER AS ONE。「中華民國　讚國慶」臉書中午更新大頭貼照與封面照片，曝光民國115年國慶主視覺。整體延續中華民國國旗藍、白、紅3色，不過一改去年的粉刷質感，改以一塊塊方格拼出雙十圖案，其中左側為"
         },
         {
-          "title": "為何高頻率使用的物品千萬別省？心理師：沒苦硬吃造成「這結果」",
-          "link": "https://www.gvm.com.tw/article/132735",
-          "published": "2026-08-31T21:06:00",
-          "summary": "千萬不要在使用頻率較高的物品上過度節省、沒苦硬吃。因為經常用的物品，是能讓你直接感受「舒服」還是「難受」。如果頻繁使用體驗感卻很差，又安慰自己「等手頭寬鬆再換一個好的」，久而久之潛意識會養成「將就、勉強」的應對模式。一定要讓自己每時每刻處於舒服的狀態中，照顧好自己的身體，這樣才有餘力處理好生活裡的各種難題。（本文節錄自《有些事根本不配佔有你的情緒》一書，作者：李松濤／幸福文化出版，以下為摘文。）找"
+          "title": "台新新光躋身「兆元金控」！銀銀併明年元旦完成，林維俊：股利可望更好",
+          "link": "https://www.gvm.com.tw/article/132772",
+          "published": "2026-09-01T18:44:00",
+          "summary": "台新新光金（2887）今（1）日收盤價40.3元，創下歷史新高，同時總市值也首度突破一兆元，躋身「兆元金控」的行列，而在台新金與新光金正式合併的過程中，股價表現是否代表其合併已發揮綜效？而投資人關注的未來股利政策是否也能隨著業績表現，跟股價一樣創下新高？台新新光金控總經理林維俊對此表示，明年股利有信心更好。台新新光金控（2887）在今（1）日舉行的2026年第二季法人說明會，台新新光金控林維俊說明"
         },
         {
-          "title": "北捷信義線東延段夯房市？福德直達101，廣慈房價挑戰百萬",
-          "link": "https://www.gvm.com.tw/article/132734",
-          "published": "2026-08-31T18:23:00",
-          "summary": "北捷信義線東延段廣慈/奉天宮站8/30通車了！上週末來嚐鮮搭乘的人潮不少，至於福德地區的民眾往後去101、台北車站更方便，附近房價影響更是正面。在2026地方選舉年底將啟動的時刻，對想連任的台北市長蔣萬安加分在哪裡？被稱為「史上最難捷運工程」的台北捷運信義線東延段昨日正式通車，這條路線的通車，讓北捷營運車站增至118站，營運公里數也從原來的131.1公里增至132.5公里。這不但是台北捷運自202"
+          "title": "郭明鑑兼職獨董案裁罰出爐！國泰投信踩紅線罰600萬、3類業務最長卡一年",
+          "link": "https://www.gvm.com.tw/article/132770",
+          "published": "2026-09-01T18:38:00",
+          "summary": "郭明鑑兼任世芯獨董引爆國泰投信利害關係人交易爭議，補償與損失約9.4億元。金管會9月1日開罰600萬元，並祭出最長一年的業務限制。一個董事兼職申報疏漏，最後讓國泰投信付出逾9億元補償與賠償代價，如今監理裁罰也正式出爐。金管會9月1日公布國泰投信利害關係人交易案處分結果，認定公司在利害關係人申報與控管、內部控制及重大事件通報等環節存在缺失。公募基金與全權委託業務兩項違規，各裁處法定最高300萬元，合"
         },
         {
-          "title": "「創新辦桌」說台灣好故事！林修銘力推創新板，擘劃亞洲那斯達克",
-          "link": "https://www.gvm.com.tw/article/132733",
-          "published": "2026-08-31T18:08:00",
-          "summary": "穿上俐落飛行外套，首位基層出身的證交所董座林修銘，如何以靈活行銷與創新思維力推創新板、鏈結國際資金，帶領台灣資本市場邁向年輕化的嶄新紀元？近期，林修銘率領證交所與中華文化總會合作《創新辦桌》系列影片，又碰撞出哪些有趣的藝文火花？接受《遠見》專訪這天，證交所董事長林修銘與證交所團隊穿著一襲合身俐落的飛行外套制服，令人瞬間刷新對「臺灣證券交易所」的嚴肅印象。走過一甲子歲月的證交所，在林修銘2022年接"
+          "title": "從照顧殺人到斷食善終！死亡是個人權利，還是國家迴避照顧的出口？",
+          "link": "https://www.gvm.com.tw/article/132769",
+          "published": "2026-09-01T18:08:00",
+          "summary": "從照顧殺人到斷食善終，都指向一種值得警覺的思維：社會在判斷哪些生命有價值。國家未能妥善分擔照顧責任，壓力落在個人與家庭，照顧者與被照顧者便陷入「你死我活」。一個人無法開口時，誰替他決定死亡？在照顧稀缺的超高齡社會，死亡若被當成個人權利，國家是否更容易迴避分擔照顧的責任？台灣障礙研究學會日前舉辦「誰值得活？從照顧殺人到善終爭議中的障礙者生命權」論壇，自立生活人權陣線台北市代表劉哲彰在會中談起母親罹患"
         },
         {
-          "title": "運動部揮汗有禮9月起跑！運動30分鐘送好禮，資格、申請方式、任務、兌換通路一次看",
-          "link": "https://www.gvm.com.tw/article/132732",
-          "published": "2026-08-31T17:35:00",
-          "summary": "運動部繼今年初「運動幣」之後，推出「揮汗有禮 全民動起來」。9月1日起14週，每週完成運動30分鐘、走8,000步或路跑等任一任務，上傳紀錄通過審核，就能到7-ELEVEN、全家、全聯等6大超商通路兌換健康好禮，每週1次，14週最多拿14次，全台200萬份額滿為止。【目錄】● 運動部揮汗有禮是什麼？●&nbsp;運動部揮汗有禮參與資格● 運動部揮汗有禮三大任務● 運動部揮汗有禮參加步驟● 運動部揮"
+          "title": "影響長壽的10個日常壞習慣！如果想要健康，這些行為應該盡量避免",
+          "link": "https://www.gvm.com.tw/article/132768",
+          "published": "2026-09-01T18:04:00",
+          "summary": "如果想要活得長壽又健康，以下10個看似平常，甚至許多人每天都在做的日常壞習慣，就可能在不知不覺間影響健康老化。每個人都希望自己能夠活得久一點，但比起單純追求長壽，如何健康地走到人生最後一段路，也許才是真正重要的事情。隨著年齡增長，身體機能逐漸衰退是難以避免的自然過程，失智症、心血管疾病、慢性疼痛、肌力下降與行動不便等問題，也可能慢慢出現在生活之中。然而，同樣都是老去，有些人到了70、80歲依然能夠"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "喜馬拉雅山洪災非尋常事件尼泊爾總理籲氣候行動 - 中央廣播電臺",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rti.org.tw/news%3Fuid%3D3%26pid%3D229386&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1U2llSez8r1C6I62meRiwf",
-          "published": "2026-09-01T04:49:40+00:00",
-          "summary": "夏哈在社群媒體發文說，發生在拉蘇瓦(Rasuwa)地區波特科西河(Bhote Koshi River)的洪災不是尋常水患。它是這個地區最嚴重的災難之一，由喜馬拉雅地區的冰雪崩塌&nbsp;..."
+          "title": "尼泊爾洪災搜救行動持續總理籲國際正視氣候正義問題 - 公視新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pts.org.tw/article/825062&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3RZKFSNNo_G5nKwnWVkr9U",
+          "published": "2026-09-02T00:12:35+00:00",
+          "summary": "尼泊爾和國際救援力量合作挺進災區，救援集中在被掩埋的村莊及水力發電廠隧道。中國西藏一側則由軍警與官方救援隊伍主導。 相較之&nbsp;..."
         },
         {
-          "title": "當你說夜深你睡不著研究揭：雙北人每年熱到少睡61小時- 環境資訊中心",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://e-info.org.tw/node/243772&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1ILnBMpahEDYhIRpJ5gIDq",
-          "published": "2026-09-01T04:40:01+00:00",
-          "summary": "「氣候變遷讓夏天越來越高溫，也讓夜晚變得更熱，加劇睡眠困擾 ... 參考資料. Climate Central（2026年7月15日），Climate Change is Costing People Sleep."
+          "title": "瑞士乾旱恐成常態8成民意要求政府因應<b>氣候變遷</b>",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.cts.com.tw/cna/general/202609/202609013073996.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2t_KAlEHjMg3TGcOyB8khE",
+          "published": "2026-09-01T23:38:44+00:00",
+          "summary": "聯邦委員會上週宣布，政府將提撥逾7000萬瑞郎（約新台幣274.5億元），協助森林適應氣候變遷，並扶持本土農業。 瑞士環境、交通、能源與通訊部長羅斯蒂&nbsp;..."
         },
         {
-          "title": "台灣的永續進行式2026第五屆亞太永續博覽會 - 台灣光華雜誌",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.taiwan-panorama.com/Articles/Details%3FGuid%3D11185552-8168-4a03-a420-7a9eb77ba18d%26CatId%3D7%26postname%3D%25E5%258F%25B0%25E7%2581%25A3%25E7%259A%2584%25E6%25B0%25B8%25E7%25BA%258C%25E9%2580%25B2%25E8%25A1%258C%25E5%25BC%258F%2520%2520%2520%2520-2026%25E7%25AC%25AC%25E4%25BA%2594%25E5%25B1%2586%25E4%25BA%259E%25E5%25A4%25AA%25E6%25B0%25B8%25E7%25BA%258C%25E5%258D%259A%25E8%25A6%25BD%25E6%259C%2583&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw21x354w6ticPMDC1H9KJFk",
-          "published": "2026-09-01T03:48:49+00:00",
-          "summary": "台灣政府持續推動能源轉型，其中離岸風電2025年發電量已達約100億度，提升能源供應穩定性；面對淨零時代，也將發揮台灣科技優勢，朝2030年減碳28±2%的目標前進。"
+          "title": "遠東集團四大企業跨域合作，進軍智慧建築展，遠傳展現建築整合實力 - 財訊快報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.investor.com.tw/onlinenews/NewsContent.asp%3FarticleNo%3D14202609020007&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2poLd_awFPT1aGKeJRXlMW",
+          "published": "2026-09-01T23:12:45+00:00",
+          "summary": "遠傳能源管理平台與建物淨零暨防災儲能方案，透過AI能源分析、即時監測與需量管理等技術，提升能源效率並降低碳排放；同時結合儲能系統與能源管理機制，強化建築&nbsp;..."
         },
         {
-          "title": "西藏泥石流｜<b>氣候變遷</b>恐掀冰川災害鏈全球1500萬人陷山洪危機 - 香港01",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hk01.com/%25E5%258D%25B3%25E6%2599%2582%25E5%259C%258B%25E9%259A%259B/60385536/%25E8%25A5%25BF%25E8%2597%258F%25E6%25B3%25A5%25E7%259F%25B3%25E6%25B5%2581-%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E6%2581%2590%25E6%258E%2580%25E5%2586%25B0%25E5%25B7%259D%25E7%2581%25BD%25E5%25AE%25B3%25E9%258F%2588-%25E5%2585%25A8%25E7%2590%25831500%25E8%2590%25AC%25E4%25BA%25BA%25E9%2599%25B7%25E5%25B1%25B1%25E6%25B4%25AA%25E5%258D%25B1%25E6%25A9%259F&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2povwA5gv3OXzeZFjYG6ry",
-          "published": "2026-09-01T03:22:27+00:00",
-          "summary": "尼泊爾與西藏邊境近日爆發致命洪災，科學家初步研判，災難可能與朗塘－里龍山（Langtang–Lirung）冰川崩塌有關。專家警告，這可能不是單一事件，全."
+          "title": "三高、洗腎到醫院空調26家部醫找減碳新解方| 中華日報 - LINE TODAY",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/oqRKwZN&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2HPLn5TUge2OK9eAx9jA6H",
+          "published": "2026-09-01T23:01:54+00:00",
+          "summary": "從疾病照護、全院節能、透析醫療，到能源設備及日常餐飲，各院依據不同醫療任務與場域發展減碳作法，呈現淨零醫療從臨床端一路延伸至醫院營運與生活面的多元實踐&nbsp;..."
         },
         {
-          "title": "德國史上第二炎熱夏天，分析：人為<b>氣候變遷</b>致極端熱浪 - TechNews 科技新報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://technews.tw/2026/09/01/germany-news-summer-was-2nd-hottest-of-the-century/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2zAFAC-HxrnK1xa-ctdy3d",
-          "published": "2026-09-01T03:20:47+00:00",
-          "summary": "德國氣象局最新統計顯示，2026 年夏季是德國有完整氣象紀錄以來最炎熱的夏季之一，6 月底熱浪更創下前所未見極端程度，並指出若無人為氣候變遷，&nbsp;..."
+          "title": "瑞士乾旱恐成常態8成民意要求政府因應<b>氣候變遷</b> - 中央廣播電臺",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rti.org.tw/news%3Fuid%3D3%26pid%3D229573&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3Q0ammmcJeE9s8eIdeBzqx",
+          "published": "2026-09-01T22:34:11+00:00",
+          "summary": "[Rti央廣新聞] 瑞士氣象局預測警告，類似今年的極端夏季在本世紀下半葉可能逐漸成為常態。最新民調顯示，8成瑞士民..."
         },
         {
-          "title": "550萬戶老屋怎麼辦？不只拆掉重建台灣金聯提「空間再生」拚<b>淨零</b>| 房市 - 太報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.taisounds.com/news/content/81/286253&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2eF3YtpS3i3UanTcIhJ3YM",
-          "published": "2026-09-01T03:19:45+00:00",
-          "summary": "台灣金聯成立25週年，且連續二年榮獲「台灣永續行動銅獎」肯定，董事長宮文萍日前接受台灣永續能源研究基金會（TAISE）頒獎，並在2026亞太永續博覽會「永續建築&nbsp;..."
+          "title": "環境部修正發布「碳費收費辦法」第3條之1、第9條，以及「自主減量計畫管理辦法」第11條之1",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14034&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2_bXmhe7w4rcxEp0wZ-UL_",
+          "published": "2026-09-01T22:18:15+00:00",
+          "summary": "碳費制度是我國邁向2050 淨零排放的重要基礎制度，環境部將持續與產業、地方政府及各界溝通，協助事業建立盤查能力、規劃減量措施，共同推動低碳轉型與國家減碳&nbsp;..."
         }
       ]
     }
