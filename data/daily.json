@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-09-02T05:28:33.486722+00:00",
-    "date": "2026-09-02",
+    "generated_at": "2026-09-03T05:29:50.899544+00:00",
+    "date": "2026-09-03",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "電力跟不上 AI 需求，能源危機逼出「低功耗 AI」與「邊緣運算」的戰略地位",
-          "link": "https://techorange.com/2026/09/02/csem-low-power-ai-and-small-nations/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-02T02:29:50+00:00",
-          "summary": "低功耗 AI 與去中心化人工智慧等替代性架構，正日益展現其戰略地位的重要性，瑞士電子與微技術中心（CSEM）專家認為，小國家將有機會借助低功耗 AI 參與全球競爭。"
+          "title": "Gemini 3.8 Flash 軟體工程測試勝 Fable 5？Google 新模型上線：定價不變但 token 用量增",
+          "link": "https://techorange.com/2026/09/03/gemini-models-3-8-flash-cyber/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-03T04:11:02+00:00",
+          "summary": "Google 宣布推出 Gemini 3.8 Flash，距離前一代 Gemini 3.7 Flash 上線才過了幾週。Google 表示，新模型在處理複雜任務時會執行更多推理步驟，並反覆調用工具，整體處理能力較 Gemini 3.7 Flash 更進一步。新模型目前已開放一般使用者使用，但需訂閱 Google AI Pro 或 Ultra；開發者和企業用戶也能使用。 Gemini 3.8 Fla"
         },
         {
-          "title": "【shady AI 現形】比 shadow AI 更難防，已核准的 AI 工具，正在製造新的資安黑洞",
-          "link": "https://techorange.com/2026/09/02/shady-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-02T02:28:33+00:00",
-          "summary": "2026 年 3 月，Meta 內部一起「Sev 1」等級事故，讓資安圈開始正視一種過去未曾被明確定義的風險。事情的起點，是一名 Meta 員工在內部論壇貼出技術問題，工程師使用公司已核准的 AI 代理來分析，這個代理卻在未經授權的情況下，把回覆內容公開發布。 員工照著建議操作，無意間讓大量敏感資料，暴露給未經授權的工程師長達兩小時以上。 Meta 事故揭露的新風險型態 這起事故的特殊之處在於，涉"
+          "title": "Hugging Face 為什麼攔得住 AI 代理入侵？企業該建的是這 4 件事",
+          "link": "https://techorange.com/2026/09/03/cloudmile-aegis-ai-foundry/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-03T03:41:17+00:00",
+          "summary": "過去兩年，企業導入生成式 AI 的典型路徑，是先買 Copilot、再買幾套帶 AI 的 SaaS，接著讓各部門各自做 PoC，這樣做很有效率，但當應用越來越多，新的問題也會開始浮現。 七月，OpenAI 在內部資安評測中使用的 AI Agent，為了取得評測答案，找到一個未知漏洞脫離了測試環境，接著入侵 Hugging Face 的系統，過程中還用外洩的憑證進入四個公開服務的帳號，Hugging"
         },
         {
-          "title": "首屆 AFA Awards 2026 得獎名單出爐，馬來西亞、新加坡及臺灣五家企業奪下五大獎",
-          "link": "https://techorange.com/2026/09/02/afa-awards-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-02T01:51:15+00:00",
-          "summary": "亞洲金融科技聯盟（Asia FinTech Alliance, AFA 9 月 1 日於臺北舉辦首屆 2026 亞洲金融科技聯盟大獎（AFA Awards 2026）決賽暨頒獎典禮，五大獎項得主正式出爐，在七位國際評審的嚴格評選，來自馬來西亞、新加坡及臺灣的五家金融科技企業，從 88 件提名中脫穎而出，分別拿下年度跨境金融科技獨角獸潛力獎、金融基礎設施卓越獎、監理合規卓越獎、市場拓展卓越獎及高速成"
+          "title": "Meta 推 Muse Spark 1.3，AI Agent 要長時間替人工作得先解決哪些問題？",
+          "link": "https://techorange.com/2026/09/03/meta-muse-spark-1-3-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-03T03:23:00+00:00",
+          "summary": "AI Agent 開始能連續處理數十、甚至數百個步驟後，模型好不好用，也不再只取決於最後能不能答對。它在過程中會不會反覆繞路、忘記前面的要求，能否正確使用工具、發現計畫有問題後自行修正，以及什麼時候應該把決定交回使用者，都會影響一項工作最後能不能順利完成。 Meta 在 9/2 推出 Muse Spark 1.3，就把這些「怎麼工作」的問題列為升級重點。Meta 這次除了公布 Muse Spark"
         },
         {
-          "title": "【科技早餐】NVIDIA 35 億美元「準入股」聯發科，Anthropic 傳一週簽 800 億美元算力合約",
-          "link": "https://techorange.com/2026/09/02/nvidia-mediatek-investment-anthropic-ai-compute-deals/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-01T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊NVIDIA 35 億美元「準入股」聯發科，合作跨 AI 資料中心、PC 與車用 聯發科（MediaTek）與 NVIDIA 宣布深化合作，NVIDIA 以 35 億美元認購聯發科發行的海外可轉換公司債，占這次 39 億美元發行規模近九成。這筆 39 億美元發行案，是台灣資本市場至今規模最大的海外可轉債。據《工商時報》統計，這是 NVIDIA 首"
+          "title": "強化海事通訊韌性！工研院與資策會聯手打造「多軌道衛星閘道器」，亮相台灣創博會",
+          "link": "https://techorange.com/2026/09/03/tie-itri-iii-satellite/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-03T02:52:00+00:00",
+          "summary": "想像一下，一艘貨輪正在公海航行，船上主機設備突然出現異常警報，岸端工程師正在進行即時視訊診斷與遠距維修，而船員唯一的依靠便是頭頂上的衛星網路。然而，當海浪劇烈搖晃船隻、天候惡化，或是船隻駛入超過衛星通訊公司的服務範圍時，衛星通訊便會面臨延遲、頻寬驟降甚至斷線的危機，若此時無法即時切換至其他衛星系統，整個維修作業將被迫中斷。 這不是假設情境，而是台灣海事業者在遠洋通訊應用中所關注的實際問題，如何確保"
         },
         {
-          "title": "量子電腦如何才算「有用」？SEMICON 上，各家正在給出不同答案",
-          "link": "https://techorange.com/2026/09/01/semicon-quantum-taiwan-forum-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-01T09:43:06+00:00",
-          "summary": "AI 持續推動半導體需求，但產業也開始尋找下一個關鍵應用。SEMI 全球行銷長暨台灣區總裁曹世綸在 SEMICON Taiwan 展會期間指出，產業正關注如何在半導體之後找到全新的關鍵應用，量子科技就是推動下一世代發展的焦點之一。 量子電腦正從數百顆 qubit 往千顆、甚至更大規模推進，但硬體規模增加，距離真正解決產業問題還有多遠？現階段量子位元仍容易受到雜訊干擾，要長時間執行複雜運算，業界正朝"
+          "title": "物理 AI 最大商機或許不在人形機器人，而是替既有設備裝上大腦",
+          "link": "https://techorange.com/2026/09/03/physical-ai-opportunity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-03T01:51:06+00:00",
+          "summary": "當人們談到「物理 AI」（Physical AI），最容易浮現的畫面是一台人形機器人走進工廠搬運零件、在倉庫揀貨。但是，如果把物理 AI 的商業化，全押在人形機器人何時能大規模落地，可能看窄了這波技術的機會。 曾在 Google 參與近十年硬體、軟體與 AI 產品開發，目前擔任實體人工智慧新創 Archetype AI 共同創辦人暨營運長的 Brandon Barbello 認為，物理 AI 更大"
         },
         {
-          "title": "ChatGPT、Grok 進駐五角大廈：300 萬美軍用生成式 AI，敏感資料如何不外流？",
-          "link": "https://techorange.com/2026/09/01/the-pentagon-version-chatgpt-grok/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-01T09:06:39+00:00",
-          "summary": "五角大廈近日推出 OpenAI 的 ChatGPT 與 xAI 的 Grok 軍方專用版本，《TechCrunch》報導，此舉讓美國國防部約 300 萬名軍職與文職人員，都能使用專為「作戰人員需求」打造的生成式 AI 工具。 ChatGPT Mil 與 Grok for Government 是針對政府與軍方需求打造的版本，目前都已整合進 GenAI.mil。這個安全的 AI 入口平台去年啟用，最"
+          "title": "跨境金流跟不上供應鏈成長速度，亞洲金融科技聯盟主席蔡玉玲：臺灣穩定幣應從最強的 B2B 場景切入",
+          "link": "https://techorange.com/2026/09/03/fintechon-2026-afa-summit-jaclyntsai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-03T01:30:00+00:00",
+          "summary": "「為什麼我一直倡議，臺灣要做穩定幣一定要考慮是不是用在我們最強的供應鏈上，因為這就是殺手級的應用場域，理由就是我們現在供應鏈的成長是越來越快的。」FinTechOn 2026 &amp; AFA 高峰會在 9/2、9/3 於臺北登場，亞洲金融科技聯盟（AFA）主席、臺灣金融科技協會（TFTA）名譽理事長蔡玉玲在接受 《TechOrange 科技報橘》採訪時表示，臺灣在製造業、代工、晶片與 AI 領"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "輝達1100億押注聯發科！009802、00935等9檔「高含發ETF」一次看",
-          "link": "https://www.gvm.com.tw/article/132774",
-          "published": "2026-09-01T19:15:00",
-          "summary": "聯發科於2026年8月31日宣布發行總額高達39億美元的海外可轉換公司債（ECB），創下台灣資本市場歷史新高，其中輝達（NVIDIA）砸下35億美元認購近九成額度，引爆市場多頭行情。本文盤點高含發量ETF與最新股價動態，助你卡位AI算力紅利。AI晶片霸主輝達（NVIDIA）首度出手投資台灣上市公司，對象就是聯發科（2454）。聯發科8月31日公告完成總額39億美元、約新台幣1250億元的海外無擔保"
+          "title": "貧富差距取決於生活空間？會「招財」的家，有這3大特徵",
+          "link": "https://www.gvm.com.tw/article/132668",
+          "published": "2026-09-02T21:18:00",
+          "summary": "我一直認為，貧富差距取決於生活空間。生活空間凌亂，家庭財務就會混亂不堪，再導致生活空間變得更加凌亂。因此，即使年收入相同，根本存不了錢的家庭和能夠穩定存錢的家庭，二者的差異，只要看生活空間的狀態就能一目了然。那麼，存得了錢的家庭，生活空間究竟是什麼樣子呢？（本文節錄自《召喚錢錢來我家》一書，作者：極簡Takeru／幸福文化出版，以下為摘文。）一、空間不擁擠，感覺開放並有餘裕能夠穩定存下錢的家庭，會"
         },
         {
-          "title": "115年國慶主視覺出爐！延續紅藍白3色，以方格拼出雙十圖案",
-          "link": "https://www.gvm.com.tw/article/132773",
-          "published": "2026-09-01T19:10:00",
-          "summary": "國慶籌備委員會今天中午搶先在臉書粉專「中華民國 讚國慶」更換國慶主視覺大頭貼，整體延續白、藍、紅國旗配色呈現，但改以方格拼出雙十圖案，下方寫著「中華民國生日快樂」，以及英文標語TAIWAN TOGETHER AS ONE。「中華民國　讚國慶」臉書中午更新大頭貼照與封面照片，曝光民國115年國慶主視覺。整體延續中華民國國旗藍、白、紅3色，不過一改去年的粉刷質感，改以一塊塊方格拼出雙十圖案，其中左側為"
+          "title": "一場70年前的心理實驗：從一張卡片，看「偏見」如何改變孩子眼中顏色？",
+          "link": "https://www.gvm.com.tw/article/132812",
+          "published": "2026-09-02T21:08:00",
+          "summary": "為什麼有些人面對事實仍拒絕改變？為什麼我們愈相信某件事，愈容易看不見其他可能？這場70年前的心理實驗，揭開了一個令人意外的現象：意識型態不只存在於政治裡，它也可能藏在我們對世界的理解、對他人的判斷、對自己的認同，以及那些我們從未懷疑過的「理所當然」之中。（本文節錄自《別讓意識型態害了你》一書，作者：莉奧．茲米格羅德／天下文化出版，以下為摘文。）在訪談了數百名孩子，並看見他們展現出不同程度的不寬容之"
         },
         {
-          "title": "台新新光躋身「兆元金控」！銀銀併明年元旦完成，林維俊：股利可望更好",
-          "link": "https://www.gvm.com.tw/article/132772",
-          "published": "2026-09-01T18:44:00",
-          "summary": "台新新光金（2887）今（1）日收盤價40.3元，創下歷史新高，同時總市值也首度突破一兆元，躋身「兆元金控」的行列，而在台新金與新光金正式合併的過程中，股價表現是否代表其合併已發揮綜效？而投資人關注的未來股利政策是否也能隨著業績表現，跟股價一樣創下新高？台新新光金控總經理林維俊對此表示，明年股利有信心更好。台新新光金控（2887）在今（1）日舉行的2026年第二季法人說明會，台新新光金控林維俊說明"
+          "title": "孩子把幫派當成家、第一次感受到「愛」？諮商心理師靠「這件事」拉住中輟生",
+          "link": "https://www.gvm.com.tw/article/132810",
+          "published": "2026-09-02T20:42:00",
+          "summary": "諮商心理師兼遊戲化講師王雅涵，長年運用桌遊與遊戲化方法，走入校園、企業、社福機構與家庭現場，陪伴無數在人際、情緒與關係中卡住的人重新建立連結。她相信，真正厲害的引導者，往往看起來不像老師，而像一個很投入的玩家。因為引導從來不是控制別人，而是成為那個能帶出改變的人。（本文節錄自《遊戲引導力》一書，作者：王雅涵／奇光出版，以下為摘文。）關係的經營需要時間，而且是「專屬的時間」，來陪伴你覺得最重要的人。"
         },
         {
-          "title": "郭明鑑兼職獨董案裁罰出爐！國泰投信踩紅線罰600萬、3類業務最長卡一年",
-          "link": "https://www.gvm.com.tw/article/132770",
-          "published": "2026-09-01T18:38:00",
-          "summary": "郭明鑑兼任世芯獨董引爆國泰投信利害關係人交易爭議，補償與損失約9.4億元。金管會9月1日開罰600萬元，並祭出最長一年的業務限制。一個董事兼職申報疏漏，最後讓國泰投信付出逾9億元補償與賠償代價，如今監理裁罰也正式出爐。金管會9月1日公布國泰投信利害關係人交易案處分結果，認定公司在利害關係人申報與控管、內部控制及重大事件通報等環節存在缺失。公募基金與全權委託業務兩項違規，各裁處法定最高300萬元，合"
+          "title": "複利效應有多驚人？3個朋友結局不同：每天只少吃一點，2年半後變得如何？",
+          "link": "https://www.gvm.com.tw/article/132809",
+          "published": "2026-09-02T20:11:00",
+          "summary": "你的收入、你的健康、你的人際關係、你的生活方式，其實都來自每天看似微不足道的選擇。今天的你，是過去選擇的總和，五年後的你，從今天開始形成。人生真正的差距，往往不是某個重大決定，而是每天那些看似不起眼的小事。這就是──複利效應。（本文節錄自《複利效應》一書，作者：戴倫．哈迪／堡壘文化出版，以下為摘文。）還沒體驗複利效應的好處嗎？&nbsp;「複利效應」指的是：從一系列小而明智的抉擇，獲取巨大的報酬。"
         },
         {
-          "title": "從照顧殺人到斷食善終！死亡是個人權利，還是國家迴避照顧的出口？",
-          "link": "https://www.gvm.com.tw/article/132769",
-          "published": "2026-09-01T18:08:00",
-          "summary": "從照顧殺人到斷食善終，都指向一種值得警覺的思維：社會在判斷哪些生命有價值。國家未能妥善分擔照顧責任，壓力落在個人與家庭，照顧者與被照顧者便陷入「你死我活」。一個人無法開口時，誰替他決定死亡？在照顧稀缺的超高齡社會，死亡若被當成個人權利，國家是否更容易迴避分擔照顧的責任？台灣障礙研究學會日前舉辦「誰值得活？從照顧殺人到善終爭議中的障礙者生命權」論壇，自立生活人權陣線台北市代表劉哲彰在會中談起母親罹患"
+          "title": "在野黨版無人機條例三讀至今，為何概念股股價「飛」不起來？",
+          "link": "https://www.gvm.com.tw/article/132808",
+          "published": "2026-09-02T18:25:00",
+          "summary": "台灣全力衝刺無人機產業，朝野兩造各自提出版本，8月底確定由在野版本的「強化國防自主暨無人載具產業發展條例」出線，但三讀通過後，漢翔（2654）、雷虎（8033）等無人機相關概念股的股價幾乎全下跌，至今仍「飛」不起來。為什麼？《遠見》採訪業界人士說明不看好原因。「現在買20幾萬架，等交貨時就成落後產品」透露出什麼？立院三讀通過的無人機發展條例，為何市場不捧場？《遠見》採訪碳基科技執行長游沛文等業者，"
         },
         {
-          "title": "影響長壽的10個日常壞習慣！如果想要健康，這些行為應該盡量避免",
-          "link": "https://www.gvm.com.tw/article/132768",
-          "published": "2026-09-01T18:04:00",
-          "summary": "如果想要活得長壽又健康，以下10個看似平常，甚至許多人每天都在做的日常壞習慣，就可能在不知不覺間影響健康老化。每個人都希望自己能夠活得久一點，但比起單純追求長壽，如何健康地走到人生最後一段路，也許才是真正重要的事情。隨著年齡增長，身體機能逐漸衰退是難以避免的自然過程，失智症、心血管疾病、慢性疼痛、肌力下降與行動不便等問題，也可能慢慢出現在生活之中。然而，同樣都是老去，有些人到了70、80歲依然能夠"
+          "title": "18歲人口將首次跌破20萬！國發會：2027人口結構面臨「2大轉折」",
+          "link": "https://www.gvm.com.tw/article/132807",
+          "published": "2026-09-02T18:14:00",
+          "summary": "國發會最新發布的「中華民國人口推估（2026年至2075年）」顯示，台灣人口結構2027年將迎來2大轉折，85歲以上超高齡人口超過50萬人，18歲大學入學年齡人口首次低於20萬人。國發會每2年依據最新戶籍人口資料，更新出生、死亡及遷徙等人口變動要素的假設情境，客觀描繪未來長期人口發展趨勢，提供政府與各界作為前瞻規劃及加速社會轉型的參據。延伸閱讀：少子化加速！國發會：台灣50年後人口腰斬，2037年"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "尼泊爾洪災搜救行動持續總理籲國際正視氣候正義問題 - 公視新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pts.org.tw/article/825062&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3RZKFSNNo_G5nKwnWVkr9U",
-          "published": "2026-09-02T00:12:35+00:00",
-          "summary": "尼泊爾和國際救援力量合作挺進災區，救援集中在被掩埋的村莊及水力發電廠隧道。中國西藏一側則由軍警與官方救援隊伍主導。 相較之&nbsp;..."
+          "title": "熱浪襲擊全球食材庫！義釀酒師凌晨搶收葡萄、星級主廚尋找替代風味 - TVBS新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.tvbs.com.tw/world/4016813&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2kWc8C-P-XKV0ecSUNq3Nw",
+          "published": "2026-09-03T03:30:12+00:00",
+          "summary": "酷熱高溫混雜少雨乾旱，全球食材產地警訊頻傳。極端氣候默默改寫餐桌上的經典風味，義大利葡萄因熱浪加劇急速成熟，採收期一口氣大幅提早近一個月；法國&nbsp;..."
         },
         {
-          "title": "瑞士乾旱恐成常態8成民意要求政府因應<b>氣候變遷</b>",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.cts.com.tw/cna/general/202609/202609013073996.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2t_KAlEHjMg3TGcOyB8khE",
-          "published": "2026-09-01T23:38:44+00:00",
-          "summary": "聯邦委員會上週宣布，政府將提撥逾7000萬瑞郎（約新台幣274.5億元），協助森林適應氣候變遷，並扶持本土農業。 瑞士環境、交通、能源與通訊部長羅斯蒂&nbsp;..."
+          "title": "<b>氣候變遷</b>最樂觀情境惡化全球升溫恐達1.8°C - 科技新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/science/technice/20260903/index-78840486195780338005.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2YTRrDNZga6-iso7ysUqhY",
+          "published": "2026-09-03T03:26:06+00:00",
+          "summary": "各國簽署旨在限制全球暖化幅度的《巴黎協定》至今已超過10年。當時，將全球升溫控制在華氏2.7度（攝氏1.5度）以下，被視為一項雄心勃勃但仍可實現的目標。如今，&nbsp;..."
         },
         {
-          "title": "遠東集團四大企業跨域合作，進軍智慧建築展，遠傳展現建築整合實力 - 財訊快報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.investor.com.tw/onlinenews/NewsContent.asp%3FarticleNo%3D14202609020007&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2poLd_awFPT1aGKeJRXlMW",
-          "published": "2026-09-01T23:12:45+00:00",
-          "summary": "遠傳能源管理平台與建物淨零暨防災儲能方案，透過AI能源分析、即時監測與需量管理等技術，提升能源效率並降低碳排放；同時結合儲能系統與能源管理機制，強化建築&nbsp;..."
+          "title": "《ESG》農業部攜手亞洲生產力組織推動<b>淨零</b>循環農業技術落地 - 工商時報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260903700832-430301&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw324O6b_Ci6xj52ZxUnkod-",
+          "published": "2026-09-03T03:07:17+00:00",
+          "summary": "【時報記者張佳琪台北報導】面對氣候變遷與農業淨零轉型挑戰，農業部與亞洲生產力組織（APO）於9月1日至4日在台共同舉辦「APO淨零循環農業科技研習會」，&nbsp;..."
         },
         {
-          "title": "三高、洗腎到醫院空調26家部醫找減碳新解方| 中華日報 - LINE TODAY",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/oqRKwZN&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2HPLn5TUge2OK9eAx9jA6H",
-          "published": "2026-09-01T23:01:54+00:00",
-          "summary": "從疾病照護、全院節能、透析醫療，到能源設備及日常餐飲，各院依據不同醫療任務與場域發展減碳作法，呈現淨零醫療從臨床端一路延伸至醫院營運與生活面的多元實踐&nbsp;..."
+          "title": "《ESG》農業部攜手亞洲生產力組織推動<b>淨零</b>循環農業技術落地 - 中時新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/realtimenews/20260903001793-260410%3Fctrack%3Dpc_main_rtime_p03&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1ruzmTxQUAGNsH7QVsb_pK",
+          "published": "2026-09-03T02:02:33+00:00",
+          "summary": "面對氣候變遷與農業淨零轉型挑戰，農業部與亞洲生產力組織（APO）於9月1日至4日在台共同舉辦「APO淨零循環農業科技研習會」，共19名APO會員國公私部門代表及&nbsp;..."
         },
         {
-          "title": "瑞士乾旱恐成常態8成民意要求政府因應<b>氣候變遷</b> - 中央廣播電臺",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rti.org.tw/news%3Fuid%3D3%26pid%3D229573&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3Q0ammmcJeE9s8eIdeBzqx",
-          "published": "2026-09-01T22:34:11+00:00",
-          "summary": "[Rti央廣新聞] 瑞士氣象局預測警告，類似今年的極端夏季在本世紀下半葉可能逐漸成為常態。最新民調顯示，8成瑞士民..."
+          "title": "中尼邊境洪災1050死、逾4400失蹤北京續蓋牌「仍16死」 - 台視新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.ttv.com.tw/news/11509020014600I&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1VvP-dA5PHVHSkezXubb4d",
+          "published": "2026-09-02T22:36:26+00:00",
+          "summary": "... 氣候變遷引發的洪水，災損得由碳排大國買單。 坎乃爾說，從正義和公平的角度來看，要尼泊爾跟周邊地區人民承擔氣候變遷的重擔，公平嗎？這幾乎不是他們的&nbsp;..."
         },
         {
-          "title": "環境部修正發布「碳費收費辦法」第3條之1、第9條，以及「自主減量計畫管理辦法」第11條之1",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14034&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2_bXmhe7w4rcxEp0wZ-UL_",
-          "published": "2026-09-01T22:18:15+00:00",
-          "summary": "碳費制度是我國邁向2050 淨零排放的重要基礎制度，環境部將持續與產業、地方政府及各界溝通，協助事業建立盤查能力、規劃減量措施，共同推動低碳轉型與國家減碳&nbsp;..."
+          "title": "「世界屋脊」正在崩塌！尼泊爾冰川退縮450公尺冰岩失去支撐崩塌 - TVBS新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.tvbs.com.tw/world/4016479&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw15AZNus5_lsm-scOEBctpb",
+          "published": "2026-09-02T20:56:03+00:00",
+          "summary": "隨著死亡與失蹤人數持續攀升，外界關注焦點也逐漸轉向：這場被形容為「前所未有」的災難究竟如何發生？ 尼泊爾總理巴倫德拉將矛頭指向氣候變遷。他表示，發生在&nbsp;..."
         }
       ]
     }
