@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-09-05T05:17:30.062744+00:00",
-    "date": "2026-09-05",
+    "generated_at": "2026-09-06T05:32:53.272300+00:00",
+    "date": "2026-09-06",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -10,84 +10,47 @@
     {
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
-      "items": [
-        {
-          "title": "【在駭客動手前就阻斷】破解駭客 17 天隱形潛伏期，如何終結「資料外洩才察覺」的防禦死角？",
-          "link": "https://techorange.com/2026/09/05/global-threat-landscape-report/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-04T22:29:00+00:00",
-          "summary": "美國資安公司 ExtraHop 發佈的《2026 全球威脅情勢報告》（The 2026 ExtraHop Global Threat Landscape Report），內容呈現當前資安防線的結構性轉變；研究於 2026 年 5 月進行，對象涵蓋美國、英國、法國、德國、新加坡、澳洲和阿拉伯聯合大公國等七個國家中，擁有 1,000 名以上員工企業的 1,803 名總監級以上之 IT 與安全決策者。 "
-        },
-        {
-          "title": "合泉系安攜手 BMC 引領 AI 自動化升級  SOAP 成為企業智慧營運新引擎",
-          "link": "https://techorange.com/2026/09/04/cosprings-bmc-ai-soap/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-04T09:51:36+00:00",
-          "summary": "透過智慧服務編排與自動化平台 (Service Orchestration and Automation Platform, SOAP），推動企業從IT維運邁向核心業務流程，打造智慧化、高韌性的營運模式。 合泉系安宣布與 AI 時代的企業自動化領導者 BMC Software 簽署策略合作協議，成為亞太區首家 BMC 特許經營策略合作夥伴，負責台灣市場的營運與銷售，協助 BMC 加速拓展台灣市場版"
-        },
-        {
-          "title": "問 AI「這塊基板為什麼翹曲？」OMRON 導入視覺檢測代理，新手也問得出根因",
-          "link": "https://techorange.com/2026/09/04/omron-nvidia-are-creating-ai-skillless-inspection/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-04T09:36:18+00:00",
-          "summary": "工業自動化企業 OMRON Corporation 在今年宣布在日本進一步擴大 NVIDIA 技術的整合，面對全球熟練工程師短缺，OMRON 將導入由 NVIDIA Metropolis Blueprint for Video Search and Summarization（VSS） 與 NVIDIA Cosmos 驅動的視覺檢測代理，讓檢測流程更趨 AI 化。 AI 代理進駐檢測線：OMRON"
-        },
-        {
-          "title": "從聯發科到 Hugging Face，NVIDIA 為何接連往 AI 生態不同環節出手？",
-          "link": "https://techorange.com/2026/09/04/mediatek-hugging-face-nvidia-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-04T08:11:37+00:00",
-          "summary": "NVIDIA 近兩週動作頻頻，美國時間 9 月 3 日，NVIDIA 宣布將以 129.3 億美元收購開放 AI 平台 Hugging Face。據《CNBC》，這是 NVIDIA 有史以來第二大收購交易。放到其近期一連串動作來看，會發現買下 Hugging Face 只是 NVIDIA 調整 AI 生態佈局的最新一步。 短短兩週內，NVIDIA 還投資了聯發科、擴大客製化 AI 晶片合作，在德國"
-        },
-        {
-          "title": "前進 AWS 學 AI！新北青年局「AI 實戰職涯營」協助青年接軌科技職場",
-          "link": "https://techorange.com/2026/09/04/aws-departmentforyouth-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-04T04:44:22+00:00",
-          "summary": "把 AI 課程搬進國際科技企業！新北市政府青年局率「2026 AI Practitioner Program（AI 實戰職涯營）」學員，前進全球雲端技術領導者 Amazon Web Services（AWS）辦公室參訪。由 6 位跨部門業師分享國際企業工作心法，並由 AWS 解決方案架構師帶領 AI 工具實作，幫助學員從「學會 AI」到「用 AI 解決產業問題」，也為即將到來的 10 月 2 日 "
-        },
-        {
-          "title": "NVIDIA 開源 PAIR 登場：與其付錢上雲，不如用家中閒置設備跑 AI？",
-          "link": "https://techorange.com/2026/09/04/nvidia-rtx-personal-ai-router/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-04T04:37:58+00:00",
-          "summary": "NVIDIA 在柏林舉行的 IFA 發表多項新消息，包括下月上市的 RTX Spark 系統，以及協助部署地端 AI 的模型與軟體更新。其中，受關注的 NVIDIA PAIR（Personal AI Router），能將區域網路內多台電腦的運算資源整合起來，並自動分配 AI 推論工作。 NVIDIA 開源免費軟體 PAIR，串起家庭與中小企業閒置電腦跑地端 AI NVIDIA PAIR 會將網路上"
-        }
-      ]
+      "items": []
     },
     {
       "feed_name": "遠見雜誌 - 前進的動力",
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "週末睡太多傷身？研究：適當補眠有助降低高血壓機率",
-          "link": "https://www.gvm.com.tw/article/132837",
-          "published": "2026-09-05T07:00:00",
-          "summary": "多年來專家警告，週末若比平日睡得多，恐怕會干擾生理時鐘，對健康帶來負面效果。但1份新研究顯示，週末適當賴床反而可能有益健康，對於預防高血壓有幫助。英國「衛報」（The Guardian）報導，以往專家強調，若要保持健康，擁有固定的就寢和起床時間很重要，並否定週末多睡可彌補週間睡眠不足的說法。然而，韓國高麗大學（Korea University）研究員李娜媛（Nawon Lee，譯音）醫師在本屆於德"
+          "title": "運動3分鐘勝過90分鐘！研究發現「短時間衝刺」牽動老化相關蛋白，影響心血管健康",
+          "link": "https://www.gvm.com.tw/article/132841",
+          "published": "2026-09-06T07:00:00",
+          "summary": "運動多久很重要，但「運動多激烈」可能更能決定身體產生什麼反應。美國洛克斐勒大學最新研究發現，只要累計 3 分鐘的高強度運動，就能讓血液中大量蛋白質與代謝物出現變化，而且與 90 分鐘中等強度運動產生截然不同的分子反應。研究團隊比較短時間高強度衝刺與長時間中等強度運動。高強度組進行&nbsp;6&nbsp;次&nbsp;30&nbsp;秒全力衝刺，每次之間休息 4&nbsp;分鐘，中等強度組則持續&"
         },
         {
-          "title": "富人愛偷糖、蟑螂奶比牛奶強？搞笑諾貝爾獎10大研究超展開",
-          "link": "https://www.gvm.com.tw/article/132866",
-          "published": "2026-09-04T18:57:00",
-          "summary": "2026年搞笑諾貝爾獎在瑞士蘇黎世揭曉，共頒發10個獎項，研究題目照例無奇不有，包括：富人是否更容易拿走小孩的糖果、蟑螂奶的高能量密度，用內褲測量土壤健康、設計防濺小便斗等，這些研究乍看荒誕，卻可能蘊含一定的科學價值。本文整理10項得獎研究，帶你看見「先讓人發笑，再引人深思」的科學創意。提到科學研究，人們可能會想到白大褂、顯微鏡或各種高端設備，但3日晚間在瑞士蘇黎世（Zurich）舉行的搞笑諾貝爾"
+          "title": "高教授追思會〉尤虹文琴聲悠揚、凌宗湧花藝燦然，700人獻花送高希均遠行",
+          "link": "https://www.gvm.com.tw/article/132876",
+          "published": "2026-09-05T18:42:00",
+          "summary": "遠見 ‧ 天下文化事業群創辦人高希均享耆壽90歲，今（5）日事業群舉辦高希均教授追思會，由資深媒體人沈春華主持，現場超過700位跨界賓客，再加上約300位事業群同事，一共有近千人齊聚緬懷。會中也邀請知名大提琴家尤虹文現場演奏、花藝大師凌宗湧布置會場，眾人在琴聲與花香中，送高教授遠行。遠見 ‧ 天下文化事業群創辦人高希均享耆壽90歲，今（5）日事業群舉辦高希均教授追思會。整場節目由資深媒體人、知名金"
         },
         {
-          "title": "AI眼鏡是什麼？為何需要傳統眼鏡業？各家品牌差異看懂",
-          "link": "https://www.gvm.com.tw/article/132865",
-          "published": "2026-09-04T18:42:00",
-          "summary": "Meta、Google、三星與中國科技業者相繼搶進，蘋果卻延後入場，2026年AI眼鏡競爭正從產品較量，升高為平台、供應鏈與通路之爭。AI眼鏡是什麼？與AR眼鏡有何不同？高通、應用材料推動硬體模組化，傳統眼鏡業補上驗配與實體通路，降低生產門檻，從消費端來說，智慧眼鏡何時才能真正普及？【目錄】▌AI眼鏡是什麼？有哪些類型？與傳統AR眼鏡差在哪？▌AI眼鏡有哪些品牌？Meta、Google、HTC及中"
+          "title": "1900萬人美國研究：住乾洗店附近罹巴金森氏症風險愈高",
+          "link": "https://www.gvm.com.tw/article/132839",
+          "published": "2026-09-05T16:00:00",
+          "summary": "帕金森氏症可能源自居住環境的化學物質污染。美國一項涵蓋近 1900 萬名老年人的大型研究發現，住家距離乾洗店越近，罹患帕金森氏症的機率越高，原因是與美國乾洗業過去使用的氯化溶劑有關。美國巴羅神經學研究所&nbsp;(Barrow Neurological Institute)&nbsp;等機構研究人員利用美國聯邦醫療保險資料，分析&nbsp;2016~2018&nbsp;年間、年滿&nbsp;67"
         },
         {
-          "title": "HTC、宏碁、佐臻如何卡位AI眼鏡新局？品牌、PC生態到白牌都有",
-          "link": "https://www.gvm.com.tw/article/132864",
-          "published": "2026-09-04T18:39:00",
-          "summary": "隨著Meta、Google與三星等國際大廠接連發力，智慧眼鏡正掀起全球穿戴市場的新一波熱潮。面對國際巨頭夾擊，台灣科技業者展現出清晰的差異化定位：宏達電以輕量配戴與用戶隱私承諾搶攻歐美市場、宏碁以雙軌產品策略緊扣既有PC生態圈、佐臻則以NPI產線切入白牌參考設計，在穿戴AI賽道上走出三條截然不同的成長路徑。2026年下半年，圍繞在人類鼻樑上的AI眼鏡爭奪戰，已由概念驗證正式轉向實體產品的正面交鋒。"
+          "title": "高教授追思會〉張安平憶高希均：在紛擾世局裡，守住丹心一點光",
+          "link": "https://www.gvm.com.tw/article/132875",
+          "published": "2026-09-05T15:53:00",
+          "summary": "遠見．天下文化於9月5日舉辦「書生報國：懷念高希均教授」追思紀念會，各界友人齊聚緬懷創辦人高希均。台泥董事長張安平回顧兩人逾40年情誼，感念高希均以知識啟蒙社會、連結台灣與世界，更讚美他一生為人「看盡人事得失之後，依然能體察人性的幽微、善待身邊所有人，並在紛擾世局中守住丹心的一點光」，字句間盡是不捨與敬意。在這場「書生報國：懷念高希均教授」追思紀念會中，台泥董事長張安平是特邀貴賓，上台緬懷自己與遠"
         },
         {
-          "title": "Gemini Notebook怎麼免費用？做筆記、簡報10大教學",
-          "link": "https://www.gvm.com.tw/article/132850",
-          "published": "2026-09-04T17:55:00",
-          "summary": "Google的AI研究工具NotebookLM，今年7月時改名為Gemini Notebook，並且升級了安全的雲端電腦，能夠撰寫程式碼、進行數據分析，還能透過Expert Intelligence跟你一起討論電子書！到底改名後的Gemini Notebook，比起原來功能以及費用方案有不同嗎？免費版可以做到什麼？《遠見》提供新手十大教學攻略，從做筆記和簡報、打造第二大腦，到記帳助理，都能在Gem"
+          "title": "高教授追思會〉「不是沉痛，是敬意與溫暖」 童子賢送別高希均：一生詮釋書生報國",
+          "link": "https://www.gvm.com.tw/article/132874",
+          "published": "2026-09-05T15:32:00",
+          "summary": "遠見・天下文化事業群創辦人高希均教授追思會今（5）日舉行，和碩聯合科技董事長童子賢到場致詞。談到這位相識多年的前輩與好友，童子賢表示，此刻心情並非「沉痛」，更多的是崇高敬意與溫暖情誼。他形容，高希均用90年歲月活出知識分子的優雅與風骨，更以一生完美詮釋「書生報國、言論報國」。多年前的9月5日，高希均手握一張單程機票飛往美國，帶著理想踏上未知旅程；2026年，同樣是9月5日，這一次，換成眾人前來送他"
         },
         {
-          "title": "一把青菜也能改變農業？全聯用「六大農業再生宣言」串起農民、土地與消費者",
-          "link": "https://www.gvm.com.tw/article/132801",
-          "published": "2026-09-04T17:50:00",
-          "summary": "從一顆雞蛋、一瓶鮮乳到一把青菜，我們每一次在貨架前的選擇，都在悄悄改變台灣農業的未來。當本土超市品牌全聯將龐大的通路影響力，轉化為支持小農與生態友善的力量，通路早已不只是賣場，而是農業轉型的關鍵推手。在2026亞太永續博覽會與台灣永續行動獎頒獎典禮上，全聯一舉榮獲1金、5銀、1銅七項獎項，其中「動物福利永續供應鏈」及「構築農田生態廊道」更雙雙獲得銀級肯定，顯示零售通路對農業與生態的投入，已成為推動"
+          "title": "高教授追思會〉孫震悼高希均是「布衣公卿」：不伺候政治領袖，只服務平民百姓",
+          "link": "https://www.gvm.com.tw/article/132873",
+          "published": "2026-09-05T15:26:00",
+          "summary": "遠見．天下文化事業群創辦人高希均於2026年8月6日辭世，享壽90歲。9月5日追思會上，摯友、前台大校長孫震深情追憶兩人半世紀的經濟學友情誼，以及高希均一生推廣進步觀念的文化志業。他更透露了高希均在美國退休時捐出住宅的小故事，原來背後有慷慨的另一半默默支持。67年前的1959年9月5日，遠見．天下文化事業群創辦人高希均拿著一張單程機票，坐上赴美飛機航班，開啟他追求與分享傳授知識的漫長之旅。如今，高"
         }
       ]
     },
@@ -96,40 +59,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "「環境部<b>淨零</b>綠領人才培育課程」第二次集中測驗今登場近1000名學員應試到考率超過92%",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14052&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1BLSohb25rcDYY0C5_be1D",
-          "published": "2026-09-05T03:27:39+00:00",
-          "summary": "... 淨零轉型是各行各業都要面對的課題，企業亟需能把專業與淨零知能結合的跨域人才，他期許這些學員能把所學帶進未來的求職或工作中，成為臺灣淨零轉型的重要力量。"
+          "title": "西藏泥石流敲生死警鐘氣候變暖亟需治理反思 - Hk01",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hk01.com/01%25E8%25A7%2580%25E9%25BB%259E/60385387/%25E8%25A5%25BF%25E8%2597%258F%25E6%25B3%25A5%25E7%259F%25B3%25E6%25B5%2581%25E7%2581%25BD%25E9%259B%25A3%25E5%2586%258D%25E6%2595%25B2%25E8%25AD%25A6%25E9%2590%2598-%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E6%259A%2596%25E4%25BA%259F%25E9%259C%2580%25E5%2585%25A8%25E7%2590%2583%25E6%25B2%25BB%25E7%2590%2586%25E5%258F%258D%25E6%2580%259D&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3z8HHN1x2YS94oeeXgIJBt",
+          "published": "2026-09-06T03:07:59+00:00",
+          "summary": "8月26日，發生在尼泊爾境內的冰川冰岩崩塌誘發的泥石流和洪水災難震驚世界。目前災情已在尼泊爾和中國西藏吉隆口岸區域造成數千人死亡和失聯，成為近年來最&nbsp;..."
         },
         {
-          "title": "吳旭茉：全力發展綠色產業與低碳經濟助推香港為國際綠色科技金融中心 - Capital 資本平臺",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.capital-hk.com/column/BloggerJessicaNg_05092026&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2O4cwxbVegpEwG7glmarFz",
-          "published": "2026-09-05T00:59:59+00:00",
-          "summary": "當年的《香港氣候行動藍圖2050》提出四大減碳策略，涵蓋淨零發電、節能綠建、綠色交通，以及全民減廢。目標是在2035年前把碳排放量較2005年水平減半，並在2050年&nbsp;..."
+          "title": "AI遇上永續近400人齊聚六堆共學交流 - PeoPo 公民新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.peopo.org/news/856983&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1TCuXJH1WfEKJgIi7C1TS3",
+          "published": "2026-09-06T02:20:55+00:00",
+          "summary": "另一場專題則由前清華大學榮譽教授黃宗煌教授主講，從淨零轉型、環境永續及綠領人才等面向深入剖析，帶領聽眾思考產業與社會面對氣候變遷的因應之道。 照片."
         },
         {
-          "title": "農業<b>淨零</b>推動五週年化肥減量7% 農業循環創造1.5億元產值 - 蕃新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20260904290200&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3_1lHsB5aUqhVNFvWvNgFH",
-          "published": "2026-09-04T23:43:41+00:00",
-          "summary": "報新聞/編輯部農業部自111年起推動農業淨零排放策略，以「減量」、「增匯」、「循環」及「綠趨勢」四大."
+          "title": "社評／氣候無國界韌性農業需兩岸合 - 翻爆",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://turnnewsapp.com/global/415387.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2_V9te-ugV1ibro6K9Njb_",
+          "published": "2026-09-06T00:30:22+00:00",
+          "summary": "但氣候沒有疆界。每年影響台灣的颱風多生成於西太平洋，經常影響菲律賓、台灣與大陸沿海；台灣的乾旱與降雨變化，也與東亞季風及區域氣候變化密切相關。全球氣象&nbsp;..."
         },
         {
-          "title": "臺南市六甲區衛生所-  9/4～9/18，疾管署推出限時2週愛滋自我篩檢「買一送一」",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://web.tainan.gov.tw/tnslchs/News_Content.aspx%3Fn%3D12860%26sms%3D13184%26s%3D8834926&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3rjDFJ-eBaXBSBVmh18ElQ",
-          "published": "2026-09-04T21:41:49+00:00",
-          "summary": "❤️ 定期篩檢、落實安全性行為，守護自己也守護伴侶。 更多資訊：愛滋自我篩檢官方網站(https://hiva.cdc.gov.tw/Selftest&nbsp;..."
+          "title": "推廣<b>淨零</b>綠生活南市環保局辦理「循流好市」永續市集 - 蕃新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20260905340532&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1wNbyvqcv8G4kyqEWWVVeb",
+          "published": "2026-09-05T22:17:03+00:00",
+          "summary": "記者莊漢昌／台南報導. 為推廣淨零綠生活與環境永續理念，臺南市政府環保局5日於麻豆區總爺藝文中心辦理「循流好市」永續市集，並結合「2026 Mattauw大地&nbsp;..."
         },
         {
-          "title": "行政院長卓榮泰今天承諾，2034年完成「以氣換煤」，達到台中電廠無煤供電，但要靠所有燃氣 ...",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.facebook.com/cnanewstaiwan/posts/%25E8%25A1%258C%25E6%2594%25BF%25E9%2599%25A2%25E9%2595%25B7%25E5%258D%2593%25E6%25A6%25AE%25E6%25B3%25B0%25E4%25BB%258A%25E5%25A4%25A9%25E6%2589%25BF%25E8%25AB%25BE2034%25E5%25B9%25B4%25E5%25AE%258C%25E6%2588%2590%25E4%25BB%25A5%25E6%25B0%25A3%25E6%258F%259B%25E7%2585%25A4%25E9%2581%2594%25E5%2588%25B0%25E5%258F%25B0%25E4%25B8%25AD%25E9%259B%25BB%25E5%25BB%25A0%25E7%2584%25A1%25E7%2585%25A4%25E4%25BE%259B%25E9%259B%25BB%25E4%25BD%2586%25E8%25A6%2581%25E9%259D%25A0%25E6%2589%2580%25E6%259C%2589%25E7%2587%2583%25E6%25B0%25A3%25E6%25A9%259F%25E7%25B5%2584%25E5%25A6%2582%25E6%259C%259F%25E5%25AE%258C%25E6%2588%2590%25E4%25B8%25AD%25E5%25A4%25AE%25E8%2588%2587%25E5%259C%25B0%25E6%2596%25B9%25E6%2594%25BF%25E5%25BA%259C%25E9%259C%2580%25E8%25A6%2581%25E5%2590%2588%25E4%25BD%259C%25E9%2582%2581%25E5%2590%25912050%25E6%25B7%25A8%25E9%259B%25B6%25E7%25A2%25B3%25E6%258E%2592%25E5%258D%2593%25E6%25A6%25AE%25E6%25B3%25B0%25E6%258F%2590%25E5%2588%25B0%25E7%2587%2583%25E6%25B0%25A3%25E4%25B8%2580%25E8%2599%259F%25E6%25A9%259F%25E6%258E%25A5%25E4%25B8%258B%25E4%25BE%2586%25E6%259C%2583/1481162497375644/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3Yc8QDp8kKmG1TSouDE7lp",
-          "published": "2026-09-04T20:41:51+00:00",
-          "summary": "行政院長卓榮泰今天承諾，2034年完成「以氣換煤」，達到台中電廠無煤供電，但要靠所有燃氣機組如期完成，中央與地方政府需要合作。 邁向2050淨零碳排，卓榮&nbsp;..."
+          "title": "上千人搶當綠領！<b>淨零</b>測驗到考率破92%企業高管醫師也來考最小僅17歲 - 永豐金證券",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/6a9bda10b17ee7367864203d&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0NpBfWQV61H0DmRTNnBkpj",
+          "published": "2026-09-05T21:08:48+00:00",
+          "summary": "環境部推動淨零轉型再邁關鍵一步，環境部淨零綠領人才培育課程今年第2次全國集中測驗於本周5在全國12個考區同步登場。本次測..."
         },
         {
-          "title": "農業<b>淨零</b>論壇紡織業者將牡蠣殼變紗線(圖) - Yahoo新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E8%25BE%25B2%25E6%25A5%25AD%25E6%25B7%25A8%25E9%259B%25B6%25E8%25AB%2596%25E5%25A3%2587-%25E7%25B4%25A1%25E7%25B9%2594%25E6%25A5%25AD%25E8%2580%2585%25E5%25B0%2587%25E7%2589%25A1%25E8%25A0%25A3%25E6%25AE%25BC%25E8%25AE%258A%25E7%25B4%2597%25E7%25B7%259A-%25E5%259C%2596-105613786.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3MesRqW50Dd7uKBQDdsg2b",
-          "published": "2026-09-04T20:41:18+00:00",
-          "summary": "農業部4日舉辦「農業淨零：從科研創新到永續實踐」論壇，來自台南的紡織業者王葉訓也在活動會場設攤，介紹公司將牡蠣殼做成的紗線產品。"
+          "title": "中俄首次聯合觀測北冰洋海冰獲取北極夏季海冰數據研究全球氣候變化 - 今日大公",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://epaper.tkww.hk/a/202609/06/AP6a9c77abe4b0911458c368d6.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1E5dFtcETIvZbiqMCUNCSx",
+          "published": "2026-09-05T20:13:03+00:00",
+          "summary": "目前，執行中國第16次北冰洋考察任務的「雪龍2」號正在北冰洋上航行。其間，中方考察隊員與兩名來自俄羅斯南北極研究所的俄籍隊員聯合開展北冰洋走航海冰&nbsp;..."
         }
       ]
     }
