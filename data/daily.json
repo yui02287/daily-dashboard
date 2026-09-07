@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-09-06T05:32:53.272300+00:00",
-    "date": "2026-09-06",
+    "generated_at": "2026-09-07T05:43:27.167031+00:00",
+    "date": "2026-09-07",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -10,47 +10,60 @@
     {
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
-      "items": []
+      "items": [
+        {
+          "title": "OpenAI Agent 把德文 Wiki 變留言板，為何公司早就知道卻沒有公開？",
+          "link": "https://techorange.com/2026/09/07/openai-confirms-wiki-incident/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-07T04:57:18+00:00",
+          "summary": "今年 5、6 月，一批 AI Agent（AI 代理）在執行網路研究任務時，突破原本只能瀏覽網頁、不能在公開網站留下內容的限制，把一個冷門德文 Wiki 變成共享留言板，不只交換任務答案，還分享規避控制的方法。到了 9/5，OpenAI 正式證實，這起被稱為「Wiki 事件」的異常行為確實來自旗下 Agent。 事實上，OpenAI 8 月底才公布的另一場 AI Agent 異常行為事件。當時 O"
+        },
+        {
+          "title": "UBS 把 AI 能力列入新人門檻，定調 AI 是賦能而非取代",
+          "link": "https://techorange.com/2026/09/07/ubs-global-ai-career-early/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-07T04:39:03+00:00",
+          "summary": "UBS（Union Bank of Switzerland）將 AI 能力納入初階投資銀行職缺的招募條件，顯示隨著 AI 加速導入金融業，歐洲大型銀行也開始重新調整畢業生的招募標準。 《Financial Times》報導，據知情人士透露，UBS 要求預計在 2027 年加入全球銀行與市場業務部門的畢業生及實習生，必須具備運用 AI 提升工作成果與效率的能力。這項新要求將與學歷等傳統招聘條件並列，"
+        },
+        {
+          "title": "從 Security by Default 到持續合規治理 叡揚資訊打造 CRA 產品全生命週期安全治理架構",
+          "link": "https://techorange.com/2026/09/07/gss-cra-sbom-2/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-07T03:17:47+00:00",
+          "summary": "隨著歐盟《網路韌性法案》（Cyber Resilience Act, CRA）相關通報義務自 2026 年 9 月 11 日起開始適用，企業的 CRA 準備工作也正從法規盤點，進一步進入流程建置與實際執行階段。叡揚資訊日前攜手台灣區電機電子工業同業公會舉辦「因應歐盟韌性法案（CRA）最新要求：產品安全治理與合規實務研討會」，邀集 SGS 台灣檢驗科技、英能科技共同探討 CRA 對產品安全、軟體開發"
+        },
+        {
+          "title": "AI 硬體進入削價競爭，陳良基：AI 的算力是個假議題，真正客戶要的是 AI 的能力",
+          "link": "https://techorange.com/2026/09/07/chen-liang-gee-podcast-2/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-07T03:00:00+00:00",
+          "summary": "專訪：戴季全撰稿：李昀蔚 「台灣能夠到今天這個樣子，其實不是理所當然的，是在很多關鍵的時刻，有一些人做了比較對的決定，」本集《全新一週》邀請近期出版新書《只有累積，才有奇蹟》的國立臺灣大學電機工程學系名譽教授、前科技部長、前教育部次長陳良基，回顧台灣過去十年的科技與人才布局，並從當時的關鍵決策出發，剖析今日產業榮景如何一步步累積而來。 從 2017 年力拚台積電 3 奈米先進製程留在台灣，到高教深"
+        },
+        {
+          "title": "陪伴企業從零建構資安防線，HENNGE 惠頂益登台 10 年的「資安陪跑哲學」",
+          "link": "https://techorange.com/2026/09/07/hennge-cybersecurity-aiagents-henngeone/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-07T02:50:28+00:00",
+          "summary": "「再好的技術，也並非人人都能取用。」HENNGE 董事長小椋一宏回憶 1996 年推出首款 Linux 伺服器時的體悟，這個初衷成為 HENNGE 30 年來發展的核心動力，不僅致力於研發技術，更專注於理解使用者痛點、搭起跨越應用鴻溝的橋樑。 如今邁入 2026 年，恰逢 HENNGE 在台灣深耕十週年，團隊一路見證在地企業從雲端轉型萌芽走向普及，資安威脅由外部病毒入侵演變成新型釣魚與內部外洩的雙"
+        },
+        {
+          "title": "【首席 AI 官一年衝上 76%】CAIO 職稱未定、教材未成形，商學院已搶開 28,000 美元課程",
+          "link": "https://techorange.com/2026/09/07/course-for-an-ai-job/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-07T02:49:03+00:00",
+          "summary": "根據 IBM Institute of Business Value 針對全球 2,000 名執行長的調查，一年之內，設有首席 AI 官（Chief AI Officer，CAIO）的企業比例從 26% 躍升至 76%，而且這波成長不只發生在 Meta、Salesforce 等科技公司，海尼根、Nike 等傳統企業也陸續跟進。 這些執行長預期，到 2030 年，近半數的營運決策將由 AI 自主完成"
+        }
+      ]
     },
     {
       "feed_name": "遠見雜誌 - 前進的動力",
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
+          "title": "打破流血就是痔瘡迷思！血便誤認痔瘡1年治不好，他轉診檢查已直腸癌4期",
+          "link": "https://www.gvm.com.tw/article/132842",
+          "published": "2026-09-06T07:30:00",
+          "summary": "一名60歲男子肛門出血近1年，多次就醫都被當成痔瘡治療卻不見改善，轉往苗栗大千醫院深入檢查，確診直腸癌第4期且已多處轉移。醫師提醒，痔瘡治療逾3個月仍持續出血就應警覺。大千醫院外科部主任馮啟彥2日分享這起案例，該名患者近1年來受肛門出血困擾，期間曾至診所及兩家醫院就醫，皆被當成痔瘡給予治療，但出血症狀始終未改善，直到轉至大千門診進行肛門指檢與肛門鏡檢查，察覺並非單純痔瘡，進一步電腦斷層及正子掃描後"
+        },
+        {
           "title": "運動3分鐘勝過90分鐘！研究發現「短時間衝刺」牽動老化相關蛋白，影響心血管健康",
           "link": "https://www.gvm.com.tw/article/132841",
           "published": "2026-09-06T07:00:00",
           "summary": "運動多久很重要，但「運動多激烈」可能更能決定身體產生什麼反應。美國洛克斐勒大學最新研究發現，只要累計 3 分鐘的高強度運動，就能讓血液中大量蛋白質與代謝物出現變化，而且與 90 分鐘中等強度運動產生截然不同的分子反應。研究團隊比較短時間高強度衝刺與長時間中等強度運動。高強度組進行&nbsp;6&nbsp;次&nbsp;30&nbsp;秒全力衝刺，每次之間休息 4&nbsp;分鐘，中等強度組則持續&"
-        },
-        {
-          "title": "高教授追思會〉尤虹文琴聲悠揚、凌宗湧花藝燦然，700人獻花送高希均遠行",
-          "link": "https://www.gvm.com.tw/article/132876",
-          "published": "2026-09-05T18:42:00",
-          "summary": "遠見 ‧ 天下文化事業群創辦人高希均享耆壽90歲，今（5）日事業群舉辦高希均教授追思會，由資深媒體人沈春華主持，現場超過700位跨界賓客，再加上約300位事業群同事，一共有近千人齊聚緬懷。會中也邀請知名大提琴家尤虹文現場演奏、花藝大師凌宗湧布置會場，眾人在琴聲與花香中，送高教授遠行。遠見 ‧ 天下文化事業群創辦人高希均享耆壽90歲，今（5）日事業群舉辦高希均教授追思會。整場節目由資深媒體人、知名金"
-        },
-        {
-          "title": "1900萬人美國研究：住乾洗店附近罹巴金森氏症風險愈高",
-          "link": "https://www.gvm.com.tw/article/132839",
-          "published": "2026-09-05T16:00:00",
-          "summary": "帕金森氏症可能源自居住環境的化學物質污染。美國一項涵蓋近 1900 萬名老年人的大型研究發現，住家距離乾洗店越近，罹患帕金森氏症的機率越高，原因是與美國乾洗業過去使用的氯化溶劑有關。美國巴羅神經學研究所&nbsp;(Barrow Neurological Institute)&nbsp;等機構研究人員利用美國聯邦醫療保險資料，分析&nbsp;2016~2018&nbsp;年間、年滿&nbsp;67"
-        },
-        {
-          "title": "高教授追思會〉張安平憶高希均：在紛擾世局裡，守住丹心一點光",
-          "link": "https://www.gvm.com.tw/article/132875",
-          "published": "2026-09-05T15:53:00",
-          "summary": "遠見．天下文化於9月5日舉辦「書生報國：懷念高希均教授」追思紀念會，各界友人齊聚緬懷創辦人高希均。台泥董事長張安平回顧兩人逾40年情誼，感念高希均以知識啟蒙社會、連結台灣與世界，更讚美他一生為人「看盡人事得失之後，依然能體察人性的幽微、善待身邊所有人，並在紛擾世局中守住丹心的一點光」，字句間盡是不捨與敬意。在這場「書生報國：懷念高希均教授」追思紀念會中，台泥董事長張安平是特邀貴賓，上台緬懷自己與遠"
-        },
-        {
-          "title": "高教授追思會〉「不是沉痛，是敬意與溫暖」 童子賢送別高希均：一生詮釋書生報國",
-          "link": "https://www.gvm.com.tw/article/132874",
-          "published": "2026-09-05T15:32:00",
-          "summary": "遠見・天下文化事業群創辦人高希均教授追思會今（5）日舉行，和碩聯合科技董事長童子賢到場致詞。談到這位相識多年的前輩與好友，童子賢表示，此刻心情並非「沉痛」，更多的是崇高敬意與溫暖情誼。他形容，高希均用90年歲月活出知識分子的優雅與風骨，更以一生完美詮釋「書生報國、言論報國」。多年前的9月5日，高希均手握一張單程機票飛往美國，帶著理想踏上未知旅程；2026年，同樣是9月5日，這一次，換成眾人前來送他"
-        },
-        {
-          "title": "高教授追思會〉孫震悼高希均是「布衣公卿」：不伺候政治領袖，只服務平民百姓",
-          "link": "https://www.gvm.com.tw/article/132873",
-          "published": "2026-09-05T15:26:00",
-          "summary": "遠見．天下文化事業群創辦人高希均於2026年8月6日辭世，享壽90歲。9月5日追思會上，摯友、前台大校長孫震深情追憶兩人半世紀的經濟學友情誼，以及高希均一生推廣進步觀念的文化志業。他更透露了高希均在美國退休時捐出住宅的小故事，原來背後有慷慨的另一半默默支持。67年前的1959年9月5日，遠見．天下文化事業群創辦人高希均拿著一張單程機票，坐上赴美飛機航班，開啟他追求與分享傳授知識的漫長之旅。如今，高"
         }
       ]
     },
@@ -59,40 +72,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "西藏泥石流敲生死警鐘氣候變暖亟需治理反思 - Hk01",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hk01.com/01%25E8%25A7%2580%25E9%25BB%259E/60385387/%25E8%25A5%25BF%25E8%2597%258F%25E6%25B3%25A5%25E7%259F%25B3%25E6%25B5%2581%25E7%2581%25BD%25E9%259B%25A3%25E5%2586%258D%25E6%2595%25B2%25E8%25AD%25A6%25E9%2590%2598-%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E6%259A%2596%25E4%25BA%259F%25E9%259C%2580%25E5%2585%25A8%25E7%2590%2583%25E6%25B2%25BB%25E7%2590%2586%25E5%258F%258D%25E6%2580%259D&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3z8HHN1x2YS94oeeXgIJBt",
-          "published": "2026-09-06T03:07:59+00:00",
-          "summary": "8月26日，發生在尼泊爾境內的冰川冰岩崩塌誘發的泥石流和洪水災難震驚世界。目前災情已在尼泊爾和中國西藏吉隆口岸區域造成數千人死亡和失聯，成為近年來最&nbsp;..."
+          "title": "金管局就《香港可持續金融分類目錄》第2B階段原型展開公眾諮詢",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.info.gov.hk/gia/general/202609/07/P2026090700256.htm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1Xucdw-_lz9wpyVa-ktJS8",
+          "published": "2026-09-07T03:23:05+00:00",
+          "summary": "經參考市場意見、公共政策、業界需求及科技和氣候科學的最新發展，第2B階段原型引入多項優化措施，進一步推動香港的減碳工作、促進區內低碳轉型，並鞏固香港作為&nbsp;..."
         },
         {
-          "title": "AI遇上永續近400人齊聚六堆共學交流 - PeoPo 公民新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.peopo.org/news/856983&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1TCuXJH1WfEKJgIi7C1TS3",
-          "published": "2026-09-06T02:20:55+00:00",
-          "summary": "另一場專題則由前清華大學榮譽教授黃宗煌教授主講，從淨零轉型、環境永續及綠領人才等面向深入剖析，帶領聽眾思考產業與社會面對氣候變遷的因應之道。 照片."
+          "title": "睿田能源跨界關懷失智讓永續從建築走進社區 - 中央社",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/business/chinese/443486&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2lBMO-ljaKHr9TH7gNlP42",
+          "published": "2026-09-07T03:22:26+00:00",
+          "summary": "我們以設計與工程並行，提供ESG → 能效→ 淨零的端到端服務：ESG 盤查與第三方確信對接、建築能效診斷與改善、BIPV（建築整合型光電）、整合設計與系統導入、&nbsp;..."
         },
         {
-          "title": "社評／氣候無國界韌性農業需兩岸合 - 翻爆",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://turnnewsapp.com/global/415387.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2_V9te-ugV1ibro6K9Njb_",
-          "published": "2026-09-06T00:30:22+00:00",
-          "summary": "但氣候沒有疆界。每年影響台灣的颱風多生成於西太平洋，經常影響菲律賓、台灣與大陸沿海；台灣的乾旱與降雨變化，也與東亞季風及區域氣候變化密切相關。全球氣象&nbsp;..."
+          "title": "謝展寰下午赴京出席APEC能源部長會議- 香港- 大公文匯網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tkww.hk/a/202609/07/AP6a9e2ca0e4b0911458c3805f.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2IDnRnEwC8lyGhPY5dz_7v",
+          "published": "2026-09-07T03:20:28+00:00",
+          "summary": "今次行程中，謝展寰將與生態環境部官員會面，就特區邁向碳中和、推動綠色&nbsp;..."
         },
         {
-          "title": "推廣<b>淨零</b>綠生活南市環保局辦理「循流好市」永續市集 - 蕃新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20260905340532&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1wNbyvqcv8G4kyqEWWVVeb",
-          "published": "2026-09-05T22:17:03+00:00",
-          "summary": "記者莊漢昌／台南報導. 為推廣淨零綠生活與環境永續理念，臺南市政府環保局5日於麻豆區總爺藝文中心辦理「循流好市」永續市集，並結合「2026 Mattauw大地&nbsp;..."
+          "title": "唐獎週正式展開！ 六位得主9月中來台領獎 - TVBS新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.tvbs.com.tw/life/4018580&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw11V0TV7Ai63hIJo37_DrtZ",
+          "published": "2026-09-07T03:20:10+00:00",
+          "summary": "兩年一度的國際盛會「唐獎週」登場，今年六位得主，將於9月中來台領獎，透過演講、論壇及青年對談，分享面對氣候變遷、國際局勢等全球議題的智慧，&nbsp;..."
         },
         {
-          "title": "上千人搶當綠領！<b>淨零</b>測驗到考率破92%企業高管醫師也來考最小僅17歲 - 永豐金證券",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/6a9bda10b17ee7367864203d&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0NpBfWQV61H0DmRTNnBkpj",
-          "published": "2026-09-05T21:08:48+00:00",
-          "summary": "環境部推動淨零轉型再邁關鍵一步，環境部淨零綠領人才培育課程今年第2次全國集中測驗於本周5在全國12個考區同步登場。本次測..."
+          "title": "攜手應對氣候災害共同守護人類家園（國際論壇）",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=http://cpc.people.com.cn/BIG5/n1/2026/0907/c64387-40793581.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1ujCrY5mpPHOjU8Zx00exi",
+          "published": "2026-09-07T01:24:49+00:00",
+          "summary": "一場猝不及防的天災，造成慘重的生命財產損失，令世界各國人民深感痛惜。 從致災邏輯看，吉隆泥石流是氣候變化背景下的典型連鎖式災害。冰川斷裂崩塌后形成碎屑&nbsp;..."
         },
         {
-          "title": "中俄首次聯合觀測北冰洋海冰獲取北極夏季海冰數據研究全球氣候變化 - 今日大公",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://epaper.tkww.hk/a/202609/06/AP6a9c77abe4b0911458c368d6.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1E5dFtcETIvZbiqMCUNCSx",
-          "published": "2026-09-05T20:13:03+00:00",
-          "summary": "目前，執行中國第16次北冰洋考察任務的「雪龍2」號正在北冰洋上航行。其間，中方考察隊員與兩名來自俄羅斯南北極研究所的俄籍隊員聯合開展北冰洋走航海冰&nbsp;..."
+          "title": "祁連山八一冰川無冰雪積累區 - 澳門日報電子版",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.macaodaily.com/html/2026-09/07/content_1931903.htm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3V1MQNDFNULJq0vwzmVNyU",
+          "published": "2026-09-07T01:10:56+00:00",
+          "summary": "眼下，冰川正處於強消融期。 今年八月份以來，青海省東部多地氣溫再度突破或逼近歷史同期極值。作為祁連山中部“氣候指標”的八一冰川，其地溫、消融量、融水水溫&nbsp;..."
         }
       ]
     }
