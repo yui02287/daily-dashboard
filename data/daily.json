@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-09-07T05:43:27.167031+00:00",
-    "date": "2026-09-07",
+    "generated_at": "2026-09-08T05:38:37.359023+00:00",
+    "date": "2026-09-08",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "OpenAI Agent 把德文 Wiki 變留言板，為何公司早就知道卻沒有公開？",
-          "link": "https://techorange.com/2026/09/07/openai-confirms-wiki-incident/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-07T04:57:18+00:00",
-          "summary": "今年 5、6 月，一批 AI Agent（AI 代理）在執行網路研究任務時，突破原本只能瀏覽網頁、不能在公開網站留下內容的限制，把一個冷門德文 Wiki 變成共享留言板，不只交換任務答案，還分享規避控制的方法。到了 9/5，OpenAI 正式證實，這起被稱為「Wiki 事件」的異常行為確實來自旗下 Agent。 事實上，OpenAI 8 月底才公布的另一場 AI Agent 異常行為事件。當時 O"
+          "title": "AI 資料中心節能新突破？愛丁堡大學提出新型磁性記憶體理論，能耗有望逼近物理極限",
+          "link": "https://techorange.com/2026/09/08/scientists-ultrafast-magnetic-memory-system-ai-data-center-energy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-08T04:57:36+00:00",
+          "summary": "AI 熱潮帶動全球能源消耗屢創新高，龐大的運算需求需要大量能源支撐，每當新的資料中心進駐社區，都會在當地居民間引發爭議。《TechRadar》報導，科學家似乎找到了一種可能大幅降低記憶體與資料儲存能源需求的方法。如果這項技術最終能夠實現，可能對未來的運算與 AI 產業帶來重大影響。 挑戰熱力學最低能耗：磁性記憶體技術有望逼近「蘭道爾極限」 蘇格蘭愛丁堡大學研究人員在《Advanced Materi"
         },
         {
-          "title": "UBS 把 AI 能力列入新人門檻，定調 AI 是賦能而非取代",
-          "link": "https://techorange.com/2026/09/07/ubs-global-ai-career-early/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-07T04:39:03+00:00",
-          "summary": "UBS（Union Bank of Switzerland）將 AI 能力納入初階投資銀行職缺的招募條件，顯示隨著 AI 加速導入金融業，歐洲大型銀行也開始重新調整畢業生的招募標準。 《Financial Times》報導，據知情人士透露，UBS 要求預計在 2027 年加入全球銀行與市場業務部門的畢業生及實習生，必須具備運用 AI 提升工作成果與效率的能力。這項新要求將與學歷等傳統招聘條件並列，"
+          "title": "AI 不只拚模型：SIRAYA 獲台灣首家 TiDB 白金級合作夥伴，深化企業 AI 基礎架構布局",
+          "link": "https://techorange.com/2026/09/08/siraya-tidb-model-router/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-08T04:33:10+00:00",
+          "summary": "新加坡 AI 公司 SIRAYA 宣布，正式成為台灣首家 PingCAP 旗下 TiDB 白金級合作夥伴，並取得 TiDB 進階託管服務供應商（Managed Service Provider, MSP）資格，將分散式資料庫納入既有 AI 基礎架構服務，從 AI 應用、雲端延伸至資料與營運，協助企業因應 AI 應用規模化帶來的基礎架構需求。 AI 應用加速　傳統資料庫成企業新瓶頸 當 AI 逐漸規"
         },
         {
-          "title": "從 Security by Default 到持續合規治理 叡揚資訊打造 CRA 產品全生命週期安全治理架構",
-          "link": "https://techorange.com/2026/09/07/gss-cra-sbom-2/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-07T03:17:47+00:00",
-          "summary": "隨著歐盟《網路韌性法案》（Cyber Resilience Act, CRA）相關通報義務自 2026 年 9 月 11 日起開始適用，企業的 CRA 準備工作也正從法規盤點，進一步進入流程建置與實際執行階段。叡揚資訊日前攜手台灣區電機電子工業同業公會舉辦「因應歐盟韌性法案（CRA）最新要求：產品安全治理與合規實務研討會」，邀集 SGS 台灣檢驗科技、英能科技共同探討 CRA 對產品安全、軟體開發"
+          "title": "Hugging Face、宇樹科技都加入：Arm 擴大實體 AI 生態系，同步推機器人六級能力框架",
+          "link": "https://techorange.com/2026/09/08/arm-total-design-physical-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-08T04:28:55+00:00",
+          "summary": "Physical AI（實體 AI）可能成為下一個大型運算市場。Arm 實體 AI 執行副總裁（EVP, Physical AI）Drew Henry 在 Arm Everywhere China 會前媒體簡報會表示，Arm 估計目前實體 AI 的年度運算市場規模約 250 億美元，到了 2030 年代可能超過 2,000 億美元，甚至成為運算史上最大的市場之一。 但這塊市場要真正釋放，得先處理實"
         },
         {
-          "title": "AI 硬體進入削價競爭，陳良基：AI 的算力是個假議題，真正客戶要的是 AI 的能力",
-          "link": "https://techorange.com/2026/09/07/chen-liang-gee-podcast-2/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-07T03:00:00+00:00",
-          "summary": "專訪：戴季全撰稿：李昀蔚 「台灣能夠到今天這個樣子，其實不是理所當然的，是在很多關鍵的時刻，有一些人做了比較對的決定，」本集《全新一週》邀請近期出版新書《只有累積，才有奇蹟》的國立臺灣大學電機工程學系名譽教授、前科技部長、前教育部次長陳良基，回顧台灣過去十年的科技與人才布局，並從當時的關鍵決策出發，剖析今日產業榮景如何一步步累積而來。 從 2017 年力拚台積電 3 奈米先進製程留在台灣，到高教深"
+          "title": "【AI 模型路由新解】Snowflake 不只比快比省，真正賣的是資料留在受控邊界內",
+          "link": "https://techorange.com/2026/09/08/snowflake-cortex-ai-gateway/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-08T01:30:03+00:00",
+          "summary": "雲端資料平台 Snowflake 推出 Cortex AI Gateway，讓客戶透過「自動」模式，將每項任務主動分配到兼具品質與成本支出的 AI 模型，最多可將 Token 成本降低 3 倍。"
         },
         {
-          "title": "陪伴企業從零建構資安防線，HENNGE 惠頂益登台 10 年的「資安陪跑哲學」",
-          "link": "https://techorange.com/2026/09/07/hennge-cybersecurity-aiagents-henngeone/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-07T02:50:28+00:00",
-          "summary": "「再好的技術，也並非人人都能取用。」HENNGE 董事長小椋一宏回憶 1996 年推出首款 Linux 伺服器時的體悟，這個初衷成為 HENNGE 30 年來發展的核心動力，不僅致力於研發技術，更專注於理解使用者痛點、搭起跨越應用鴻溝的橋樑。 如今邁入 2026 年，恰逢 HENNGE 在台灣深耕十週年，團隊一路見證在地企業從雲端轉型萌芽走向普及，資安威脅由外部病毒入侵演變成新型釣魚與內部外洩的雙"
+          "title": "公務員不必會寫程式，但能自己調整 AI 代理，政府的 AI 改革才真正開始",
+          "link": "https://techorange.com/2026/09/08/the-public-sector-workforce/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-08T01:29:45+00:00",
+          "summary": "英國政府曾讓超過兩萬名公務員試用生成式 AI 三個月，參與者自述平均每天節省 26 分鐘，換算下來，每人一年幾乎省下兩個工作週；這證明開放 AI 工具確實能改善效率，卻也暴露一個問題是，如果公務員只能用 AI 搜尋資料、摘要文件或撰寫初稿，那改革仍停留在個人生產力層次。 對公部門而言，AI 不只是提高競爭力的工具，而是完成公共任務所需的新能力。真正有價值的情境，可能是建立一個能協助清理案件積壓的 "
         },
         {
-          "title": "【首席 AI 官一年衝上 76%】CAIO 職稱未定、教材未成形，商學院已搶開 28,000 美元課程",
-          "link": "https://techorange.com/2026/09/07/course-for-an-ai-job/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-07T02:49:03+00:00",
-          "summary": "根據 IBM Institute of Business Value 針對全球 2,000 名執行長的調查，一年之內，設有首席 AI 官（Chief AI Officer，CAIO）的企業比例從 26% 躍升至 76%，而且這波成長不只發生在 Meta、Salesforce 等科技公司，海尼根、Nike 等傳統企業也陸續跟進。 這些執行長預期，到 2030 年，近半數的營運決策將由 AI 自主完成"
+          "title": "【Google Cloud 林書平專欄】擴展 AI 代理的瓶頸不是模型，是資料還停在「紀錄系統」",
+          "link": "https://techorange.com/2026/09/08/ai-systems-of-action/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-07T22:21:00+00:00",
+          "summary": "文 / Google Cloud 台灣技術總經理 林書平 放眼當今技術發展，阻礙企業擴展 AI 的最大瓶頸，早已不是模型本身的能力，而是模型能否精準掌握企業的「業務情境脈絡（Business Context）」。 打造情境脈絡的關鍵在於資料基礎。根據 PwC 報告，全球 AI 領先企業提供高品質資料的比例高出台灣企業 4.4 倍，且僅有 13% 的台灣企業能讓員工快速取得 AI 工作所需的高品質資"
         }
       ]
     },
@@ -54,16 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "打破流血就是痔瘡迷思！血便誤認痔瘡1年治不好，他轉診檢查已直腸癌4期",
-          "link": "https://www.gvm.com.tw/article/132842",
-          "published": "2026-09-06T07:30:00",
-          "summary": "一名60歲男子肛門出血近1年，多次就醫都被當成痔瘡治療卻不見改善，轉往苗栗大千醫院深入檢查，確診直腸癌第4期且已多處轉移。醫師提醒，痔瘡治療逾3個月仍持續出血就應警覺。大千醫院外科部主任馮啟彥2日分享這起案例，該名患者近1年來受肛門出血困擾，期間曾至診所及兩家醫院就醫，皆被當成痔瘡給予治療，但出血症狀始終未改善，直到轉至大千門診進行肛門指檢與肛門鏡檢查，察覺並非單純痔瘡，進一步電腦斷層及正子掃描後"
+          "title": "蘋果發表會9/10登場！摺疊iPhone上看8萬、多款新品規格價格全解析",
+          "link": "https://www.gvm.com.tw/article/132895",
+          "published": "2026-09-07T18:38:00",
+          "summary": "蘋果將於台灣時間9月10日凌晨1點舉行2026秋季發表會，預計推出摺疊 iPhone、iPhone 18 Pro系列、Apple Watch Series 12、Apple TV 4K、HomePad等新品，AI與智慧家庭成為今年最大亮點。蘋果將於台灣時間9月10日凌晨1點舉行秋季新品發表會，觀眾可準時鎖定蘋果官網、官方YouTube、或Apple TV平台觀看直播。今年主題是「驚喜耀現，開新篇」"
         },
         {
-          "title": "運動3分鐘勝過90分鐘！研究發現「短時間衝刺」牽動老化相關蛋白，影響心血管健康",
-          "link": "https://www.gvm.com.tw/article/132841",
-          "published": "2026-09-06T07:00:00",
-          "summary": "運動多久很重要，但「運動多激烈」可能更能決定身體產生什麼反應。美國洛克斐勒大學最新研究發現，只要累計 3 分鐘的高強度運動，就能讓血液中大量蛋白質與代謝物出現變化，而且與 90 分鐘中等強度運動產生截然不同的分子反應。研究團隊比較短時間高強度衝刺與長時間中等強度運動。高強度組進行&nbsp;6&nbsp;次&nbsp;30&nbsp;秒全力衝刺，每次之間休息 4&nbsp;分鐘，中等強度組則持續&"
+          "title": "2026名古屋亞運9/19開幕》台灣奪牌希望、中華隊完整賽程、重點項目、轉播一次看",
+          "link": "https://www.gvm.com.tw/article/132893",
+          "published": "2026-09-07T17:38:00",
+          "summary": "2026第20屆亞洲運動會在日本名古屋與愛知縣舉行，9月19日開幕、10月4日閉幕，共43種運動。台灣派出482名選手競逐34種運動，加上教練、後勤共超過700人。其中，棒球B組首戰9/21（一）17:30台灣時間對韓國，目標睽違20年的亞運金牌；電競為正式獎牌項目，9/23起跑，台灣出戰7個項目含英雄聯盟。日本時間比台灣快1小時，注意時差。《遠見》整理了本屆亞運的完整觀賽指南，包括亞運相關介紹、"
+        },
+        {
+          "title": "生小孩是別人期待還是自己渴望？心理師親身經歷：6步驟釐清「生育焦慮」",
+          "link": "https://www.gvm.com.tw/article/132892",
+          "published": "2026-09-07T17:34:00",
+          "summary": "身為臨床心理師，同時也是丈夫與三寶爸爸，張榮斌也曾經歷「要不要生孩子？」、「為什麼要生孩子？」的糾結過程：驅使我們做出養育孩子決定的，不該是對外部期待的屈服，也不該是企圖創造一個自己期望的生命體，而是一種發自內心的、對「共同成長」的渴望。（本文節錄自《我們差點忘了相愛》一書，作者：張榮斌／奇光出版，以下為摘文。）我們為什麼要生小孩？婚紗照的印刷味都還沒散去，喜宴時賓客的禮金簿都還沒收到抽屜裡，我跟"
+        },
+        {
+          "title": "35歲西格蒙德喊創造歷史！德國極右黨AfD是誰？地方選舉為何大勝？",
+          "link": "https://www.gvm.com.tw/article/132890",
+          "published": "2026-09-07T17:31:00",
+          "summary": "德國極右翼政黨另類選擇黨（AfD）6日在薩克森－安哈特邦選舉中大勝，以43.8％得票率拿下39席，距離單獨執政僅差3席。這場選舉創下AfD邦級選舉最高得票紀錄，也重創總理梅爾茨領導的基民盟。AfD為何崛起？35歲候選人西格蒙德，對過往納粹歷史態度為何引質疑？專家分析，德國極右翼有可能首度執政，只要突破一個政治「防火牆」。德國極右翼政黨「德國另類選擇黨」（AfD）在東部薩克森－安哈特邦（Saxony"
+        },
+        {
+          "title": "2026九合一大選》藍白合會破局？綠營強打小英牌？民調全揭露",
+          "link": "https://www.gvm.com.tw/article/132891",
+          "published": "2026-09-07T17:28:00",
+          "summary": "距離2026地方大選82天，候選人也各就定位，整理目前地方選戰的動態，原本雙方合作順遂的藍白合，卻在竹北市選戰一役中破局，白營嗆藍營候選人「說話不算話」，藍營則強調「一開始就不在合作範疇裡」；綠營方面則大打「小英牌」，前總統蔡英文擔任6名縣市長的競選主委或榮譽主委，期盼藉此吸納中間、年輕選票。藍綠白三黨選戰策略為何如此變化，或許可從近期的民調數字找出端倪。2026地方選戰愈來愈熱，各機構也紛紛端出"
+        },
+        {
+          "title": "台大資工系錄取分數驟降，系上教授完整分析箇中原因",
+          "link": "https://www.gvm.com.tw/article/132888",
+          "published": "2026-09-07T16:35:00",
+          "summary": "115學年度大學分發入學結果揭曉之後，因台大資工最低錄取門檻較去年下滑12級分，也意外跌出二類組單科平均級分前十，引起大眾關注，也再次引發「AI會寫程式，還需要資工人才嗎？」的討論。對此，台大資工教授洪士灝指出，分數變化與考科難度、招生制度有關，不宜過度解讀。同時他認為在AI浪潮衝擊下，「不安全」的科系不只資工領域。另外，台大資工系早已啟動課程轉型，不只瞄準培育初階工程師。到底課程如何改變？未來出"
         }
       ]
     },
@@ -72,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "金管局就《香港可持續金融分類目錄》第2B階段原型展開公眾諮詢",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.info.gov.hk/gia/general/202609/07/P2026090700256.htm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1Xucdw-_lz9wpyVa-ktJS8",
-          "published": "2026-09-07T03:23:05+00:00",
-          "summary": "經參考市場意見、公共政策、業界需求及科技和氣候科學的最新發展，第2B階段原型引入多項優化措施，進一步推動香港的減碳工作、促進區內低碳轉型，並鞏固香港作為&nbsp;..."
+          "title": "10條低碳生態旅遊開啟你的國家公園<b>淨零</b>漫遊- 瘋台灣 - 觸mii",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://truemii.chinatimes.com/content/20260908001659-265001&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3up111MFjB4DhvfIDblpZh",
+          "published": "2026-09-08T03:54:43+00:00",
+          "summary": "【旅奇傳媒/編輯部報導】響應國家「淨零」轉型政策與「聯合國2030永續發展目標」，內政部國家公園署串聯各國家公園與濕地的自然、人文與生態資源，&nbsp;..."
         },
         {
-          "title": "睿田能源跨界關懷失智讓永續從建築走進社區 - 中央社",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/business/chinese/443486&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2lBMO-ljaKHr9TH7gNlP42",
-          "published": "2026-09-07T03:22:26+00:00",
-          "summary": "我們以設計與工程並行，提供ESG → 能效→ 淨零的端到端服務：ESG 盤查與第三方確信對接、建築能效診斷與改善、BIPV（建築整合型光電）、整合設計與系統導入、&nbsp;..."
+          "title": "2026聯合國氣候規劃署最新報告：地球像個沒關火的巨大鍋爐，升溫每超標0.1°C - CSR@天下",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://csr.cw.com.tw/article/44815&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0uqKrCuxIV81rGzlRMNW1f",
+          "published": "2026-09-08T03:48:19+00:00",
+          "summary": "他說，「我們必須儘可能縮小和縮短1.5°C以上的過衝，這需要更大的雄心。」 這份報告揭示的新路徑，建議人類透過立即和持續削減甲烷等溫室氣體排放，在淨零排放的&nbsp;..."
         },
         {
-          "title": "謝展寰下午赴京出席APEC能源部長會議- 香港- 大公文匯網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tkww.hk/a/202609/07/AP6a9e2ca0e4b0911458c3805f.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2IDnRnEwC8lyGhPY5dz_7v",
-          "published": "2026-09-07T03:20:28+00:00",
-          "summary": "今次行程中，謝展寰將與生態環境部官員會面，就特區邁向碳中和、推動綠色&nbsp;..."
+          "title": "尼泊爾洪水重創經濟新政府面臨重建及氣候變化挑戰 - 巴士的報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bastillepost.com/hongkong/article/16723563-%25E5%25B0%25BC%25E6%25B3%258A%25E7%2588%25BE%25E6%25B4%25AA%25E6%25B0%25B4%25E9%2587%258D%25E5%2589%25B5%25E7%25B6%2593%25E6%25BF%259F-%25E6%2596%25B0%25E6%2594%25BF%25E5%25BA%259C%25E9%259D%25A2%25E8%2587%25A8%25E9%2587%258D%25E5%25BB%25BA%25E5%258F%258A%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E5%258C%2596%25E6%258C%2591&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2ddXR_3r3X4BnxivKc9j__",
+          "published": "2026-09-08T03:46:26+00:00",
+          "summary": "尼泊爾經歷數月政治動盪後，新政府上任即面臨毀滅性洪水考驗。兩周前山洪暴發造成25.6億美元損失，約7500間房屋被毀，2萬間需重建，並損壞至少12個水力發電&nbsp;..."
         },
         {
-          "title": "唐獎週正式展開！ 六位得主9月中來台領獎 - TVBS新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.tvbs.com.tw/life/4018580&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw11V0TV7Ai63hIJo37_DrtZ",
-          "published": "2026-09-07T03:20:10+00:00",
-          "summary": "兩年一度的國際盛會「唐獎週」登場，今年六位得主，將於9月中來台領獎，透過演講、論壇及青年對談，分享面對氣候變遷、國際局勢等全球議題的智慧，&nbsp;..."
+          "title": "IMO<b>淨零</b>框架經最新氣候談判後大致維持原貌碳定價機制仍是爭議核心 - 航貿週刊",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://shippingdigest.tw/news/20260908n3/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1IeK7wQPrjKn7zShsMuDX0",
+          "published": "2026-09-08T03:27:02+00:00",
+          "summary": "【記者周家仰／綜合報導】. 根據英國航運相關網站引述，國際海事組織（IMO）「淨零框架」（Net-Zero Framework）近日歷經新一波氣候談判後，整體架構大致&nbsp;..."
         },
         {
-          "title": "攜手應對氣候災害共同守護人類家園（國際論壇）",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=http://cpc.people.com.cn/BIG5/n1/2026/0907/c64387-40793581.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1ujCrY5mpPHOjU8Zx00exi",
-          "published": "2026-09-07T01:24:49+00:00",
-          "summary": "一場猝不及防的天災，造成慘重的生命財產損失，令世界各國人民深感痛惜。 從致災邏輯看，吉隆泥石流是氣候變化背景下的典型連鎖式災害。冰川斷裂崩塌后形成碎屑&nbsp;..."
+          "title": "澳洲微藻科技公司Genesis榮獲2026年AFR可持續發展領袖獎| GeneOnline News",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://geneonline.news/%25E6%25BE%25B3%25E6%25B4%25B2%25E5%25BE%25AE%25E8%2597%25BB%25E7%25A7%2591%25E6%258A%2580%25E5%2585%25AC%25E5%258F%25B8genesis%25E6%25A6%25AE%25E7%258D%25B22026%25E5%25B9%25B4afr%25E5%258F%25AF%25E6%258C%2581%25E7%25BA%258C%25E7%2599%25BC%25E5%25B1%2595%25E9%25A0%2598%25E8%25A2%2596%25E7%258D%258E/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0Ce2V3kA0bHQ7PlAGMpMiy",
+          "published": "2026-09-08T02:05:53+00:00",
+          "summary": "展望未來，Genesis 將持續深化其在氣候創新領域的研發，探索微藻技術在更多環境領域的潛在應用。隨著全球對「淨零排放」（Net Zero）目標的追求，Genesis 的技術&nbsp;..."
         },
         {
-          "title": "祁連山八一冰川無冰雪積累區 - 澳門日報電子版",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.macaodaily.com/html/2026-09/07/content_1931903.htm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3V1MQNDFNULJq0vwzmVNyU",
-          "published": "2026-09-07T01:10:56+00:00",
-          "summary": "眼下，冰川正處於強消融期。 今年八月份以來，青海省東部多地氣溫再度突破或逼近歷史同期極值。作為祁連山中部“氣候指標”的八一冰川，其地溫、消融量、融水水溫&nbsp;..."
+          "title": "《新創動態》海藻養殖串聯固碳與除污中山大學推動藍碳產業化應用",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://innoaward.taiwan-healthcare.org/faq_detail.php%3FREFDOCTYPID%3D0ln4xj1fff5sadsy%26REFDOCID%3D0tl0uh0huxrhyxc2&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1gz42PjpggPN1a3Usi0YfM",
+          "published": "2026-09-08T01:23:27+00:00",
+          "summary": "全球邁向碳中和，大型碳捕捉技術雖具潛力，卻常受限於高成本與高能耗。對海域資源豐富、耕地有限的台灣而言，發展海洋藍碳是符合台灣資源條件的淨零路徑之一&nbsp;..."
         }
       ]
     }
