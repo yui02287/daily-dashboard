@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-09-08T05:38:37.359023+00:00",
-    "date": "2026-09-08",
+    "generated_at": "2026-09-09T05:44:32.303096+00:00",
+    "date": "2026-09-09",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "AI 資料中心節能新突破？愛丁堡大學提出新型磁性記憶體理論，能耗有望逼近物理極限",
-          "link": "https://techorange.com/2026/09/08/scientists-ultrafast-magnetic-memory-system-ai-data-center-energy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-08T04:57:36+00:00",
-          "summary": "AI 熱潮帶動全球能源消耗屢創新高，龐大的運算需求需要大量能源支撐，每當新的資料中心進駐社區，都會在當地居民間引發爭議。《TechRadar》報導，科學家似乎找到了一種可能大幅降低記憶體與資料儲存能源需求的方法。如果這項技術最終能夠實現，可能對未來的運算與 AI 產業帶來重大影響。 挑戰熱力學最低能耗：磁性記憶體技術有望逼近「蘭道爾極限」 蘇格蘭愛丁堡大學研究人員在《Advanced Materi"
+          "title": "ChatGPT 廣告營收破 10 億！為什麼「搜尋入口」最後都走上廣告這條路？",
+          "link": "https://techorange.com/2026/09/09/chatgptads-openai-anthropic/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-09T04:02:12+00:00",
+          "summary": "2026 年八月底，OpenAI 宣布旗下廣告業務 ChatGPT Ads 上線不到 200 天年化營收就突破 10 億美元，同一時間這項自助投放服務也擴大到印度跟歐洲三十幾個市場，這消息被包裝成多元化商業模式的成功案例，畢竟當年 Google 的 AdWords 花了四年才達到這個數字而 OpenAI 只用了六個月。 這則消息，這幾天已被不少科技媒體轉譯報導過，但我認為，這則新聞該被討論的不是「"
         },
         {
-          "title": "AI 不只拚模型：SIRAYA 獲台灣首家 TiDB 白金級合作夥伴，深化企業 AI 基礎架構布局",
-          "link": "https://techorange.com/2026/09/08/siraya-tidb-model-router/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-08T04:33:10+00:00",
-          "summary": "新加坡 AI 公司 SIRAYA 宣布，正式成為台灣首家 PingCAP 旗下 TiDB 白金級合作夥伴，並取得 TiDB 進階託管服務供應商（Managed Service Provider, MSP）資格，將分散式資料庫納入既有 AI 基礎架構服務，從 AI 應用、雲端延伸至資料與營運，協助企業因應 AI 應用規模化帶來的基礎架構需求。 AI 應用加速　傳統資料庫成企業新瓶頸 當 AI 逐漸規"
+          "title": "AI 晶片逼近曝光極限，台積電、Intel、Samsung 為何非換 12 吋光罩不可？",
+          "link": "https://techorange.com/2026/09/09/asml-12-inch-photomask/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-09T03:45:26+00:00",
+          "summary": "AI 晶片持續追求更高運算能力，一方面需要更先進製程，把更多電晶體塞進有限面積；另一方面，為了增加運算核心、記憶體介面與互連，高效能資料中心晶片的裸晶面積也持續往上推。這兩個趨勢，如今開始同時碰上微影設備的限制。 目前晶圓廠廣泛使用的極紫外光微影（EUV），單顆晶片可曝光面積最高約 800 平方毫米，《Reuters》指出，NVIDIA、Google 等公司設計的晶片，已做到接近這項上限。下一代 "
         },
         {
-          "title": "Hugging Face、宇樹科技都加入：Arm 擴大實體 AI 生態系，同步推機器人六級能力框架",
-          "link": "https://techorange.com/2026/09/08/arm-total-design-physical-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-08T04:28:55+00:00",
-          "summary": "Physical AI（實體 AI）可能成為下一個大型運算市場。Arm 實體 AI 執行副總裁（EVP, Physical AI）Drew Henry 在 Arm Everywhere China 會前媒體簡報會表示，Arm 估計目前實體 AI 的年度運算市場規模約 250 億美元，到了 2030 年代可能超過 2,000 億美元，甚至成為運算史上最大的市場之一。 但這塊市場要真正釋放，得先處理實"
+          "title": "【在工廠學習的機器人】與其等待龐大訓練資料集出現，Reimagine Robotics 讓客戶自己教機器人",
+          "link": "https://techorange.com/2026/09/09/reimagine-robotics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-09T02:49:59+00:00",
+          "summary": "機器人產業近年吸引大量資金投入，投資人賭的是這個領域即將迎來自己的 ChatGPT 時刻。但一群 Google DeepMind 前工程師創立的新創公司 Reimagine Robotics 認為，真正卡住機器人商用化的關卡，不是技術能力不夠，而是訓練資料嚴重不足。 他們的解方，是讓客戶自己動手教機器人做事。 機器人缺的不是模型，是資料 大型語言模型能靠海量網路文字訓練出強大能力，機器人領域卻沒有"
         },
         {
-          "title": "【AI 模型路由新解】Snowflake 不只比快比省，真正賣的是資料留在受控邊界內",
-          "link": "https://techorange.com/2026/09/08/snowflake-cortex-ai-gateway/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-08T01:30:03+00:00",
-          "summary": "雲端資料平台 Snowflake 推出 Cortex AI Gateway，讓客戶透過「自動」模式，將每項任務主動分配到兼具品質與成本支出的 AI 模型，最多可將 Token 成本降低 3 倍。"
+          "title": "告別貨架缺貨痛點：美英零售巨頭導入 AI，Homebase 盤點時間砍掉逾 2 天",
+          "link": "https://techorange.com/2026/09/09/ai-powered-cameras-robot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-08T22:37:00+00:00",
+          "summary": "實體零售的缺貨問題，往往發生在消費者走進店裡之後才被發現。貨架上少了一個商品、價格標籤沒有更新、庫存數字與現場數量對不上，都可能直接影響銷售。對擁有數百甚至上千家門市的零售商而言，若依靠店員逐一巡查與人工盤點，不僅耗費大量時間，也很難維持即時且一致的庫存資訊。 近期英國超市巨頭 Asda、美國超市龍頭 Kroger，以及農牧五金連鎖 Homebase USA，正透過 AI 影像技術與巡檢機器人，把"
         },
         {
-          "title": "公務員不必會寫程式，但能自己調整 AI 代理，政府的 AI 改革才真正開始",
-          "link": "https://techorange.com/2026/09/08/the-public-sector-workforce/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-08T01:29:45+00:00",
-          "summary": "英國政府曾讓超過兩萬名公務員試用生成式 AI 三個月，參與者自述平均每天節省 26 分鐘，換算下來，每人一年幾乎省下兩個工作週；這證明開放 AI 工具確實能改善效率，卻也暴露一個問題是，如果公務員只能用 AI 搜尋資料、摘要文件或撰寫初稿，那改革仍停留在個人生產力層次。 對公部門而言，AI 不只是提高競爭力的工具，而是完成公共任務所需的新能力。真正有價值的情境，可能是建立一個能協助清理案件積壓的 "
+          "title": "【科技早餐】Arm 估實體 AI 市場突破 2,000 億美元，OpenAI、Google 更新潮帶來「模型疲勞」",
+          "link": "https://techorange.com/2026/09/09/arm-physical-ai-market-model-fatigue/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-08T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊Arm 集結逾 80 家企業，估實體 AI 市場將突破 2,000 億美元 晶片架構業者安謀（Arm）擴大實體 AI 布局，推出 Arm Total Design for Physical AI，集結 AWS、Hugging Face、西門子（Siemens）、恩智浦（NXP）及宇樹科技（Unitree Robotics）等超過 80 家企業，共"
         },
         {
-          "title": "【Google Cloud 林書平專欄】擴展 AI 代理的瓶頸不是模型，是資料還停在「紀錄系統」",
-          "link": "https://techorange.com/2026/09/08/ai-systems-of-action/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-07T22:21:00+00:00",
-          "summary": "文 / Google Cloud 台灣技術總經理 林書平 放眼當今技術發展，阻礙企業擴展 AI 的最大瓶頸，早已不是模型本身的能力，而是模型能否精準掌握企業的「業務情境脈絡（Business Context）」。 打造情境脈絡的關鍵在於資料基礎。根據 PwC 報告，全球 AI 領先企業提供高品質資料的比例高出台灣企業 4.4 倍，且僅有 13% 的台灣企業能讓員工快速取得 AI 工作所需的高品質資"
+          "title": "9% 作弊、24% 吹哨：DeepMind 揭 AI 代理的「自我治理」為何仍不夠？",
+          "link": "https://techorange.com/2026/09/08/openai-deepminds-cheating-math-agents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-08T10:28:03+00:00",
+          "summary": "AI 代理自行建立溝通管道、並在群體中迅速擴散作弊手法的情況，接連受到關注，凸顯多代理系統的監督難題。繼 OpenAI 代理把冷門德文 Wiki 變成留言板之後，Google DeepMind 的一項實驗也顯示，100 個代理在共同解題時自發出現作弊、蔓延與吹哨。 Google DeepMind 實驗揭密自發性漏洞擴散 《Import AI》提及，OpenAI 的自主代理在執行網路檢索任務期間，原"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "蘋果發表會9/10登場！摺疊iPhone上看8萬、多款新品規格價格全解析",
-          "link": "https://www.gvm.com.tw/article/132895",
-          "published": "2026-09-07T18:38:00",
-          "summary": "蘋果將於台灣時間9月10日凌晨1點舉行2026秋季發表會，預計推出摺疊 iPhone、iPhone 18 Pro系列、Apple Watch Series 12、Apple TV 4K、HomePad等新品，AI與智慧家庭成為今年最大亮點。蘋果將於台灣時間9月10日凌晨1點舉行秋季新品發表會，觀眾可準時鎖定蘋果官網、官方YouTube、或Apple TV平台觀看直播。今年主題是「驚喜耀現，開新篇」"
+          "title": "從庇護工場到一般職場，打造身心障礙者的就業轉銜橋樑",
+          "link": "https://www.gvm.com.tw/article/132908",
+          "published": "2026-09-09T00:00:00",
+          "summary": "對許多人來說，就業是賺取收入的主要方式，但對身心障礙者而言，就業更是建立生活秩序、與社會連結的重要過程。而為了鼓勵這群朋友從充滿保護的「庇護工場」跨出腳步走進充滿挑戰的「一般職場」，以支持和陪伴所搭建的「就業轉銜」，是重要的橋樑。將步驟拆解，讓身心障礙者一步步完成工作夏日的某個早晨，瑪利媽媽清潔高手工作隊的門口，正有一群身心障礙者拿著清掃工具，依序放上工作車，準備出發前往工作地點。正值暑假期間，學"
         },
         {
-          "title": "2026名古屋亞運9/19開幕》台灣奪牌希望、中華隊完整賽程、重點項目、轉播一次看",
-          "link": "https://www.gvm.com.tw/article/132893",
-          "published": "2026-09-07T17:38:00",
-          "summary": "2026第20屆亞洲運動會在日本名古屋與愛知縣舉行，9月19日開幕、10月4日閉幕，共43種運動。台灣派出482名選手競逐34種運動，加上教練、後勤共超過700人。其中，棒球B組首戰9/21（一）17:30台灣時間對韓國，目標睽違20年的亞運金牌；電競為正式獎牌項目，9/23起跑，台灣出戰7個項目含英雄聯盟。日本時間比台灣快1小時，注意時差。《遠見》整理了本屆亞運的完整觀賽指南，包括亞運相關介紹、"
+          "title": "把世界變成教室！屏科大休運系以實戰與海外歷練，培養運動產業即戰力",
+          "link": "https://www.gvm.com.tw/article/132792",
+          "published": "2026-09-09T00:00:00",
+          "summary": "國立屏東科技大學在持續深化農業、生態、工程與生命科學等既有特色的同時，也積極拓展人文、教育、休閒運動、社會實踐與文化創新等領域，讓科技與人文相互對話、專業與社會彼此連結，培育兼具專業實力、國際視野與社會責任的時代人才。屏科大休閒運動健康系聚焦「運動、健康、休閒、產業實務」核心課程，強調「做中學、學中做」，結合理論、證照、實務操作、產學實習，建構學生擁抱國際移動力，順利接軌職場，成功將學生打造為職場"
         },
         {
-          "title": "生小孩是別人期待還是自己渴望？心理師親身經歷：6步驟釐清「生育焦慮」",
-          "link": "https://www.gvm.com.tw/article/132892",
-          "published": "2026-09-07T17:34:00",
-          "summary": "身為臨床心理師，同時也是丈夫與三寶爸爸，張榮斌也曾經歷「要不要生孩子？」、「為什麼要生孩子？」的糾結過程：驅使我們做出養育孩子決定的，不該是對外部期待的屈服，也不該是企圖創造一個自己期望的生命體，而是一種發自內心的、對「共同成長」的渴望。（本文節錄自《我們差點忘了相愛》一書，作者：張榮斌／奇光出版，以下為摘文。）我們為什麼要生小孩？婚紗照的印刷味都還沒散去，喜宴時賓客的禮金簿都還沒收到抽屜裡，我跟"
+          "title": "透過「合理調整」與「職務再設計」，看見身心障礙者在職場上的更多可能",
+          "link": "https://www.gvm.com.tw/article/132902",
+          "published": "2026-09-09T00:00:00",
+          "summary": "在求職或就業的路上，身心障礙者往往面臨更多挑戰。但這些挑戰，有時並非來自於他們缺乏專業能力，而是因為工作環境、設備或制度等條件，無法符合不同使用者的需求，才使得身心障礙者在職場上受挫或碰壁。藉由職場的合理調整，以及政府提供的「職務再設計」等協助與補助措施，那些曾經的挑戰，都能一一被化解，讓身心障礙者能在工作上發揮所長，也讓企業能落實DEI（多元、平等、共融）精神，打造更友善的職場空間。改善到位，身"
         },
         {
-          "title": "35歲西格蒙德喊創造歷史！德國極右黨AfD是誰？地方選舉為何大勝？",
-          "link": "https://www.gvm.com.tw/article/132890",
-          "published": "2026-09-07T17:31:00",
-          "summary": "德國極右翼政黨另類選擇黨（AfD）6日在薩克森－安哈特邦選舉中大勝，以43.8％得票率拿下39席，距離單獨執政僅差3席。這場選舉創下AfD邦級選舉最高得票紀錄，也重創總理梅爾茨領導的基民盟。AfD為何崛起？35歲候選人西格蒙德，對過往納粹歷史態度為何引質疑？專家分析，德國極右翼有可能首度執政，只要突破一個政治「防火牆」。德國極右翼政黨「德國另類選擇黨」（AfD）在東部薩克森－安哈特邦（Saxony"
+          "title": "看不見，不代表做不到——視障按摩評鑑以專業引導產業升級",
+          "link": "https://www.gvm.com.tw/article/132910",
+          "published": "2026-09-09T00:00:00",
+          "summary": "早期，政府為了照顧視障者，曾以法律保障按摩行業只能由視障者從事，特教學校也因此建立完整的按摩培育體系。但過去民眾對視障按摩的認識，往往停留在店面散落於巷弄、按摩設備簡陋等刻板印象，也因此會帶著同情心上門消費。後來經大法官釋憲、開放明眼人也能從事按摩後，視障按摩開始面臨SPA業者與民俗調理帶來的競爭。於是，臺中市政府自2016年開始推動「視障按摩據點評鑑計畫」，將官方補助轉化成推動產業升級的引導力量"
         },
         {
-          "title": "2026九合一大選》藍白合會破局？綠營強打小英牌？民調全揭露",
-          "link": "https://www.gvm.com.tw/article/132891",
-          "published": "2026-09-07T17:28:00",
-          "summary": "距離2026地方大選82天，候選人也各就定位，整理目前地方選戰的動態，原本雙方合作順遂的藍白合，卻在竹北市選戰一役中破局，白營嗆藍營候選人「說話不算話」，藍營則強調「一開始就不在合作範疇裡」；綠營方面則大打「小英牌」，前總統蔡英文擔任6名縣市長的競選主委或榮譽主委，期盼藉此吸納中間、年輕選票。藍綠白三黨選戰策略為何如此變化，或許可從近期的民調數字找出端倪。2026地方選戰愈來愈熱，各機構也紛紛端出"
+          "title": "AI時代的孩子若不具備「這能力」，就算父母花大錢富養依舊貧困",
+          "link": "https://www.gvm.com.tw/article/132920",
+          "published": "2026-09-08T20:23:00",
+          "summary": "在AI時代，知識取得愈來愈容易，父母花大錢「富養」孩子，未必能培養真正的能力；因為真正拉開孩子差距的，是「體驗」。所謂的體驗，不是昂貴的海外旅行，也不是搶破頭的名師才藝課，而是孩子是否充分運用身體、頭腦與五感，親自探索世界。（本文節錄自《什麼都不缺的孩子，缺5種體驗》一書，作者：汐見稔幸／大是文化出版，以下為摘文。）富養，不等於培養能力近年來，「教育格差」已成為教育與教養現場備受關注的課題。所謂教"
         },
         {
-          "title": "台大資工系錄取分數驟降，系上教授完整分析箇中原因",
-          "link": "https://www.gvm.com.tw/article/132888",
-          "published": "2026-09-07T16:35:00",
-          "summary": "115學年度大學分發入學結果揭曉之後，因台大資工最低錄取門檻較去年下滑12級分，也意外跌出二類組單科平均級分前十，引起大眾關注，也再次引發「AI會寫程式，還需要資工人才嗎？」的討論。對此，台大資工教授洪士灝指出，分數變化與考科難度、招生制度有關，不宜過度解讀。同時他認為在AI浪潮衝擊下，「不安全」的科系不只資工領域。另外，台大資工系早已啟動課程轉型，不只瞄準培育初階工程師。到底課程如何改變？未來出"
+          "title": "暴雨不斷、豪雨成災！當極端天氣成日常：台灣如何打造「氣象防護網」？",
+          "link": "https://www.gvm.com.tw/article/132919",
+          "published": "2026-09-08T20:01:00",
+          "summary": "當極端天氣成為日常期末考，氣象署由陸地、海洋一路布局到萬米高空，打造全天候、立體化的氣象防護網，從觀測、預報到防災應變，全面搶在風雨前一步。每到夏季，劇烈天氣往往成為全民關心的焦點。氣象署由陸地、海洋一路布局到萬米高空，打造全天候、立體化的氣象防護網，從觀測、預報到防災應變，全面搶在風雨前一步。《網路溫度計DailyView》透過輿情分析軟體《KEYPO大數據關鍵引擎》來看「劇烈天氣」近三年（20"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "10條低碳生態旅遊開啟你的國家公園<b>淨零</b>漫遊- 瘋台灣 - 觸mii",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://truemii.chinatimes.com/content/20260908001659-265001&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3up111MFjB4DhvfIDblpZh",
-          "published": "2026-09-08T03:54:43+00:00",
-          "summary": "【旅奇傳媒/編輯部報導】響應國家「淨零」轉型政策與「聯合國2030永續發展目標」，內政部國家公園署串聯各國家公園與濕地的自然、人文與生態資源，&nbsp;..."
+          "title": "活動快訊-國家環境研究院辦理「115年環境教育（<b>淨零</b>綠生活）推廣課程」 - 新北市青年局",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youth.ntpc.gov.tw/youth/ch/app/news/view%3Fmodule%3Dheadnews%26id%3D105%26serno%3Dcd4d7f43-0836-41fe-9a32-469ab2a35670&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw290T8uuQg-afdBEWCAQTh5",
+          "published": "2026-09-08T22:21:40+00:00",
+          "summary": "為2050淨零排放生活轉型，增進學校、社區、團體及不利處境等民眾認識淨零綠生活，國家環境研究院培訓種子講師，透過環境教育推廣課程，傳遞淨零綠生活認知與實踐&nbsp;..."
         },
         {
-          "title": "2026聯合國氣候規劃署最新報告：地球像個沒關火的巨大鍋爐，升溫每超標0.1°C - CSR@天下",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://csr.cw.com.tw/article/44815&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0uqKrCuxIV81rGzlRMNW1f",
-          "published": "2026-09-08T03:48:19+00:00",
-          "summary": "他說，「我們必須儘可能縮小和縮短1.5°C以上的過衝，這需要更大的雄心。」 這份報告揭示的新路徑，建議人類透過立即和持續削減甲烷等溫室氣體排放，在淨零排放的&nbsp;..."
+          "title": "肩負調整第二階段費率任務碳費審議委員第二屆名單出爐| 總經趨勢 - 經濟日報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/10869/9741241&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3fvCoqEWEWW-sb8p0GGC0E",
+          "published": "2026-09-08T22:16:55+00:00",
+          "summary": "... ，新一屆審議會多數留任，由環境部政務次長謝燕儒擔任召集人，氣候變遷 ... 淨零轉型. 2026-09-07 10&nbsp;..."
         },
         {
-          "title": "尼泊爾洪水重創經濟新政府面臨重建及氣候變化挑戰 - 巴士的報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bastillepost.com/hongkong/article/16723563-%25E5%25B0%25BC%25E6%25B3%258A%25E7%2588%25BE%25E6%25B4%25AA%25E6%25B0%25B4%25E9%2587%258D%25E5%2589%25B5%25E7%25B6%2593%25E6%25BF%259F-%25E6%2596%25B0%25E6%2594%25BF%25E5%25BA%259C%25E9%259D%25A2%25E8%2587%25A8%25E9%2587%258D%25E5%25BB%25BA%25E5%258F%258A%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E5%258C%2596%25E6%258C%2591&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2ddXR_3r3X4BnxivKc9j__",
-          "published": "2026-09-08T03:46:26+00:00",
-          "summary": "尼泊爾經歷數月政治動盪後，新政府上任即面臨毀滅性洪水考驗。兩周前山洪暴發造成25.6億美元損失，約7500間房屋被毀，2萬間需重建，並損壞至少12個水力發電&nbsp;..."
+          "title": "科技與<b>氣候變遷</b>影響下的市場動態：半導體、農業與資本流動新趨勢",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.cnyes.com/news/print/6600308&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0WZBpH714eD0rMmCwBvO0B",
+          "published": "2026-09-08T19:48:42+00:00",
+          "summary": "三星電子選擇與台積電相同的測試設備進行矽光晶圓測試，顯示其在光通訊模組市場的積極佈局，計劃於2027年提供矽光代工服務，以提升在AI算力驅動的CPO領域的&nbsp;..."
         },
         {
-          "title": "IMO<b>淨零</b>框架經最新氣候談判後大致維持原貌碳定價機制仍是爭議核心 - 航貿週刊",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://shippingdigest.tw/news/20260908n3/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1IeK7wQPrjKn7zShsMuDX0",
-          "published": "2026-09-08T03:27:02+00:00",
-          "summary": "【記者周家仰／綜合報導】. 根據英國航運相關網站引述，國際海事組織（IMO）「淨零框架」（Net-Zero Framework）近日歷經新一波氣候談判後，整體架構大致&nbsp;..."
+          "title": "【智庫爭鳴】氣候治理誰願承擔 - 香港商報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hkcd.com/newsTopic_content.php%3Fid%3D8773735&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3XJXA2oxWhXoX1IgaudFV4",
+          "published": "2026-09-08T19:03:40+00:00",
+          "summary": "8月26日尼泊爾一側爆發泥石流，衝擊中尼邊境的西藏日喀則市吉隆縣吉隆口岸。這場災難源於朗塘利龍峰北坡一條冰川，在海拔約5200米處斷裂崩塌，冰岩以高速墜落，&nbsp;..."
         },
         {
-          "title": "澳洲微藻科技公司Genesis榮獲2026年AFR可持續發展領袖獎| GeneOnline News",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://geneonline.news/%25E6%25BE%25B3%25E6%25B4%25B2%25E5%25BE%25AE%25E8%2597%25BB%25E7%25A7%2591%25E6%258A%2580%25E5%2585%25AC%25E5%258F%25B8genesis%25E6%25A6%25AE%25E7%258D%25B22026%25E5%25B9%25B4afr%25E5%258F%25AF%25E6%258C%2581%25E7%25BA%258C%25E7%2599%25BC%25E5%25B1%2595%25E9%25A0%2598%25E8%25A2%2596%25E7%258D%258E/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0Ce2V3kA0bHQ7PlAGMpMiy",
-          "published": "2026-09-08T02:05:53+00:00",
-          "summary": "展望未來，Genesis 將持續深化其在氣候創新領域的研發，探索微藻技術在更多環境領域的潛在應用。隨著全球對「淨零排放」（Net Zero）目標的追求，Genesis 的技術&nbsp;..."
+          "title": "習近平同英國首相通話稱兩國共同利益大於分歧— TradingView News",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tradingview.com/news/cnyes:e50b1b266acdf:0/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Dv3mUH00NpdzpnwPc1RVB",
+          "published": "2026-09-08T18:58:51+00:00",
+          "summary": "柏南提到，在動盪複雜的國際變局下，作為安理會常任理事國，英中應推動通過對話解決國際熱點問題，共同應對氣候變化等全球性挑戰，攜手維護世界穩定繁榮。"
         },
         {
-          "title": "《新創動態》海藻養殖串聯固碳與除污中山大學推動藍碳產業化應用",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://innoaward.taiwan-healthcare.org/faq_detail.php%3FREFDOCTYPID%3D0ln4xj1fff5sadsy%26REFDOCID%3D0tl0uh0huxrhyxc2&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1gz42PjpggPN1a3Usi0YfM",
-          "published": "2026-09-08T01:23:27+00:00",
-          "summary": "全球邁向碳中和，大型碳捕捉技術雖具潛力，卻常受限於高成本與高能耗。對海域資源豐富、耕地有限的台灣而言，發展海洋藍碳是符合台灣資源條件的淨零路徑之一&nbsp;..."
+          "title": "台企銀奪最佳企業金融獎 - 國泰證券",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20260909%26CSeqNO%3DE9742492&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0sosPphWhB_L8dSNh2PNJ_",
+          "published": "2026-09-08T18:43:47+00:00",
+          "summary": "台企銀（2834）深耕中小企業金融服務多年，以企業實際經營需求為核心，將金融服務由資金供應進一步延伸至經營輔導、財務診斷及淨零轉型支持，陪伴企業因應&nbsp;..."
         }
       ]
     }
