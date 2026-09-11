@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-09-10T05:39:02.280840+00:00",
-    "date": "2026-09-10",
+    "generated_at": "2026-09-11T05:38:42.360690+00:00",
+    "date": "2026-09-11",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "OpenAI Agent 越界範圍再擴大、Anthropic 揭第 4 起事故：AI 安全進入「事故治理」階段",
-          "link": "https://techorange.com/2026/09/10/openai-anthropic-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-10T04:37:03+00:00",
-          "summary": "OpenAI 旗下 AI Agent 越界的「Wiki 事件」還在擴大，繼先前被發現利用德國 Wiki 交換資訊後，獨立研究者又找到更多活動足跡，顯示實際活動範圍比先前揭露的更廣。而幾乎同一時間，Anthropic 也公布自家 Agent 的最新事故調查，發現原先在 7 月揭露 3 起 Claude 意外存取真實第三方系統的事件，如今又找到第 4 起。 延伸閱讀：OpenAI Agent 把德文 "
+          "title": "AI 上車不只拚算力！超恩、滿拓、晶心拆解智慧移動落地關鍵",
+          "link": "https://techorange.com/2026/09/11/semi-ai-sipo-vecow-deepmentor-andes/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-11T04:47:55+00:00",
+          "summary": "隨著 AI 應用加速從雲端走向終端，邊緣運算晶片能否真正落地，關鍵已不只在單一晶片的運算效能，更在於晶片、系統與應用端能否共同因應實際部署需求。為鏈結國內半導體產業技術能量與多元應用需求，經濟部產業發展署推動「邊緣運算晶片系統產業鏈結推動計畫」，聚焦智慧移動與智慧醫療照護領域，並透過「邊緣運算晶片系統價值共創平台」(以下簡稱價值共創平台)，促進晶片、系統及應用端業者交流與供需對接，推進跨域合作與邊"
         },
         {
-          "title": "Anthropic 三情境拆解 AI 經濟衝擊：極端情境 GDP 增 32%、失業率恐近 12%",
-          "link": "https://techorange.com/2026/09/10/anthropic-research-ai-economics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-10T04:19:43+00:00",
-          "summary": "Anthropic 最新研究指出，AI 未來四年可能對美國經濟帶來程度截然不同的影響。較溫和的情況下，AI 對經濟的改變可能類似網際網路；若發展速度更快，影響力則可能接近網際網路與電力同時出現的程度。至於最極端的情況，AI 帶來的經濟變化沒有可供比照的先例。 若實際發展接近這些情境，AI 可能推動經濟大幅成長，同時也會帶來深遠的政治影響。尤其在經濟成長強勁的情況下，AI 對白領工作的衝擊最為劇烈。"
+          "title": "AI 網攻自動化到哪一步？Anthropic 報告揭漏洞研究、偵察與資料竊取如何 Agent 化",
+          "link": "https://techorange.com/2026/09/11/anthropic-threat-intelligence-report-september-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-11T04:33:34+00:00",
+          "summary": "AI 已經能自己執行網路攻擊了嗎？Anthropic 最新調查顯示，還沒有走到完全自主，但部分原本高度依賴資安專家的工作，已經開始交給 AI Agent 持續執行。 Anthropic 9 月 10 日發布最新 AI 威脅報告，整理 2025 年 12 月至 2026 年 8 月間，在自家 Claude 模型上偵測並中止的惡意活動，涵蓋網路攻擊、影響力操作、監控、傳統武器、生物濫用、詐騙與詐欺，以"
         },
         {
-          "title": "【機器人的下一關：聽覺】會走路、拿東西還不夠，聽不懂人話就難被採用",
-          "link": "https://techorange.com/2026/09/10/robots-that-cant-communicate/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-10T02:08:13+00:00",
-          "summary": "近年科技展上的人形機器人，已經能夠行走、避障、搬運物品，甚至完成過去難以想像的精細操作；但當人們真正站到機器人面前，嘗試與它交談時，它還是可能出現聽錯指令、在錯誤的時間回應等問題，甚至只要周圍多出幾個說話者，就無法判斷聲音從哪裡來。 冰島的聲學模擬與空間音訊技術公司 Treble Technologies，其共同創辦人暨商務長 Gunnar Pétur Hauksson 認為，機器人能不能被人類廣"
+          "title": "快取價格低至 0.003 美元：DeepSeek V4.1-Flash 省 API 推理，私有化部署卻面臨硬體新考驗",
+          "link": "https://techorange.com/2026/09/11/deepseek-v4-1-flash-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-11T03:51:35+00:00",
+          "summary": "DeepSeek 昨晚推出 DeepSeek-V4.1-Flash，採用 5,520 億參數的混合專家（MoE）主幹架構，具備原生視覺能力與 100 萬 token 上下文視窗，架構重點在於降低反覆讀取大量上下文的成本。 V4.1-Flash 的效率提升：降低 API 開發者的推理成本 V4.1-Flash 離峰時段快取命中每百萬輸入 token 收費 0.003 美元，未命中 0.15 美元，每"
         },
         {
-          "title": "【科技早餐】Amazon 最高 600 億美元採購高通 AI 晶片，AI 戰線延伸至電力、代理與資安",
-          "link": "https://techorange.com/2026/09/10/amazon-qualcomm-60-billion-ai-chip-deal/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-09T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Amazon 最高可採購 600 億美元高通 AI 晶片，高通進軍 NVIDIA 資料中心地盤 高通（Qualcomm）與亞馬遜（Amazon）簽訂長期合作協議，Amazon 未來可向高通採購最高 600 億美元的 AI 資料中心晶片及相關產品。雙方將共同開發多代客製化晶片，主要用於執行訓練完成的 AI 模型，並合作開發最高達 1.6 Tbps "
+          "title": "衡奕精密工業「雷射雙技術」探索細胞修復新可能，2026 創博會現場亮相",
+          "link": "https://techorange.com/2026/09/11/tie-2026-transverse-laser/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-11T02:30:24+00:00",
+          "summary": "「台灣每年健保預算高達 8800 億，其中將近 20%（約 1700 億）用於洗腎患者，」衡奕精密工業股份有限公司總經理何國梁表示，慢性腎臟病患者每週三次往返醫院、接受數小時的洗腎治療，藥物能延緩惡化，卻難以逆轉。 「Trans 有轉移的意思，初衷是認為使用我們的機器，就能把疼痛轉換掉。」何國梁在 2008 年創立自有品牌「TRANS」，朝著讓慢性腎臟病患者不用走上洗腎之路的目標展開研發。 這股將"
         },
         {
-          "title": "台灣開始思考 AI Agent 怎麼管，數發部點出能力、身分、問責等六個治理層次",
-          "link": "https://techorange.com/2026/09/09/moda-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-09T10:54:32+00:00",
-          "summary": "近期 AI Agent（AI 代理）能力快速往前推進，從回答問題走向呼叫工具、操作系統，到連續完成多步驟任務，相關安全事件也讓治理問題受到更多關注。當 AI 開始能代表使用者自行執行工作，除了模型本身是否安全、可靠，誰能授權它做什麼、它又代表誰，也逐漸成為新的問題，而台灣準備怎麼管？ 數位發展部次長侯宜秀透露，目前政府各部會填報的 AI 應用情境中，已經有部分機關使用 AI Agent。她指出，相"
+          "title": "【AI 購物助手大破口】研究人員突破多層防護，證明零售商系統可被完全掌控",
+          "link": "https://techorange.com/2026/09/11/ai-shopping-assistant-hacked/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-11T01:29:15+00:00",
+          "summary": "在美國拉斯維加斯所舉辦的黑帽（Black Hat）網路安全大會舞台上，資安專家 Netanel Rubin 和 Dan Avraham 帶來了一項重大發現，那就是某家大型零售商的 AI 購物助手，其安全防護機制居然能被輕鬆繞過，讓駭客透過 AI 聊天對話，使任意程式碼執行在業者的系統環境中。 資安專家指出，AI 購物助手薄弱的安全防護機制，如果落入不法之徒手中，即可能會讓攻擊者掌握徹底企業的內部系"
         },
         {
-          "title": "40 億美元認股權證綁定：高通攜手亞馬遜開發 AI 推論晶片與 1.6 Tbps 光通訊",
-          "link": "https://techorange.com/2026/09/09/qualcomm-collaboration-amazon-chips-ai-data-centers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-09T09:34:29+00:00",
-          "summary": "高通表示，亞馬遜未來可能向其採購最高 600 億美元的 AI 資料中心晶片及相關產品，雙方將展開長期合作，協助高通進一步拓展 AI 基礎設施市場。《Reuters》報導，根據高通提交的監管文件，這項交易也反映出 AI 熱潮下，晶片商與科技公司的合作已延伸至股權安排。高通將授予亞馬遜價值約 40 億美元的認股權證，權證將隨亞馬遜採購產品逐步生效，讓亞馬遜以每股 161.26 美元的價格購買高通股票。"
+          "title": "AI 購物的下一個戰場，不在電商而在貨架前：Home Depot 如何把導購搬進門市走道",
+          "link": "https://techorange.com/2026/09/11/ai-home-depot-in-store-guidance/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-10T22:58:00+00:00",
+          "summary": "美國家居零售商 Home Depot 正將生成式 AI 助手「Magic Apron」擴大部署至全美超過 2,000 家門市，讓消費者即使已經走進店內，也能透過手機取得 AI 協助。《Marketing Tech》指出，這項布局意味著零售 AI 的應用場景正在突破傳統電商介面，進一步深入實體購物環境。 從線上走向貨架：將手機變成門市「購物導航與專案顧問」 Home Depot 最初在 2025 年"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "台中男撞倒護理師折返輾斃！稱「自覺被針對」，檢方依殺人收押",
-          "link": "https://www.gvm.com.tw/article/132941",
-          "published": "2026-09-09T18:40:00",
-          "summary": "林姓男子昨天開車行經台中中區，撞上過馬路的陳姓護理師，林男肇事後未停車，更折返再次輾過陳女致死。林男自稱因為覺得被針對而犯案，被檢方依殺人罪嫌向法院聲押獲准。台灣台中地方法院今天發布新聞稿表示，案經檢察官聲請羈押所提出相關事證，認定林男涉犯刑法殺人罪嫌，犯罪嫌疑重大，且林男於案件發生後即逃離現場，足認有逃亡事實。另外，法官審酌，被害人與林男並無恩怨，案發時也未與被告積極對話或有實際挑釁行為，林男卻"
+          "title": "AI將於2030年前害死人類？Anthropic科學家辭職抗議，「末日論」再起",
+          "link": "https://www.gvm.com.tw/article/132964",
+          "published": "2026-09-10T18:24:00",
+          "summary": "美國人工智慧（AI）新貴Anthropic公司研究員考克森這週辭職時表示，他的東家與對手OpenAI競相研發更尖端AI「很可能2030年之前害死人類」，再次引發「末日論」隱憂。前OpenAI、Anthropic核心研究員相繼發聲27歲的考克森（Jacob Coxon）8日表示將離職，因為不想參與整個行業競相開發會「自我改進型」AI系統的熱潮。他說今年稍早離開OpenAI轉而加入Anthropic，"
         },
         {
-          "title": "中方遞紙條質疑南海仲裁，菲律賓防長開嗆「應知羞恥」！菲外交部回應",
-          "link": "https://www.gvm.com.tw/article/132939",
-          "published": "2026-09-09T18:30:00",
-          "summary": "菲律賓防長鐵歐多洛昨天出席首爾防務對話時收到中國代表遞來紙條，內文質疑2016年南海仲裁案的裁決，使他當場脫口「多點羞恥心」，菲國外交部今天則說，尊重防長此番言論。菲律賓ABS-CBN電視網報導，菲國外交部發言人拉托內爾（Analyn Ratonel）在記者會表示：「我們尊重鐵歐多洛（Gilberto Teodoro）防長的聲明和觀點。除此之外，我不想再做進一步評論。」鐵歐多洛7日至9日訪問韓國參"
+          "title": "國旅推薦》2025各縣市最夯景區榜單，這些新寵景點為何崛起？",
+          "link": "https://www.gvm.com.tw/article/132963",
+          "published": "2026-09-10T17:45:00",
+          "summary": "國人國旅玩法正在悄悄改變！觀光署資料顯示，民眾出遊不再只追求山林美景、名勝古蹟，反而愈來愈重視購物、吃美食，以及旅程是否舒適好玩，也讓全台景區人氣重新洗牌。揭開2025年全台各縣市熱門景區榜單，業者觀察，現在民眾挑選國旅景點，首看三大條件：夠不夠新奇、拍照漂不漂亮、環境夠不夠舒適，從基隆海科館、桃園高鐵商圈，到屏東勝利星村，都成為新一波人氣景點。過去想到基隆，許多人想到的是廟口夜市的美味，但如今造"
         },
         {
-          "title": "油價高漲！布蘭特原油升破每桶100美元，7/24以來首見",
-          "link": "https://www.gvm.com.tw/article/132938",
-          "published": "2026-09-09T18:13:00",
-          "summary": "美國與伊朗間的衝突不斷，加上中國原油採購復甦，共同推動油價上漲。布蘭特原油價格今天升破每桶100美元，為自從7月24日以來首見。彭博（Bloomberg News）報導，倫敦市場交易時段布蘭特原油（Brent Crude）價格一度上漲2.3%。美軍中央司令部（US Central Command）指出，美軍摧毀5艘運輸原油的伊朗油輪，對伊朗方面夜間企圖使用彈道飛彈襲擊美國軍艦作出回應。布蘭特原油價"
+          "title": "川普又點名台灣晶片「應課重稅」！行政院回應了",
+          "link": "https://www.gvm.com.tw/article/132960",
+          "published": "2026-09-10T16:44:00",
+          "summary": "美國總統川普9日再度提及晶片應課重稅，才能讓台灣等業者留在美國。行政院今天表示，台美1月簽署台美貿易備忘錄時，就取得半導體232關稅最惠國待遇，只是美國尚未推出，後續台灣將持續透過政府對政府（G2G）機制，協助企業與美國協商免稅配額與清單計算。川普在達拉斯共和黨期中選舉造勢大會，再度提及晶片重稅，「當初只要課關稅，業者根本就不會走。換句話說，台灣要是想把晶片賣到美國，就得付100%、200%、50"
         },
         {
-          "title": "《怎麼可能我家的祖先是你家的鬼》小薰：原住民的世界裡沒有鬼，祖靈一直都在守護我們",
-          "link": "https://www.gvm.com.tw/article/132934",
-          "published": "2026-09-09T16:15:00",
-          "summary": "電影《怎麼可能我家的祖先是你家的鬼》由蘇達自編、自導、自演，更找來渡邊直美、劉以豪、黃瀞怡（小薰）、撒基努等人共同演出，而小薰也分享在整部電影的過程裡，祖靈對原住民的信仰與依賴。從山林裡的濃霧、祖靈信仰，到每個人藏在心底不願面對的祕密，《怎麼可能我家的祖先是你家的鬼》表面上是一部融合恐怖與喜劇元素的電影，骨子裡更談著尋根、家族，以及人該如何面對自己。電影由蘇達自編、自導、自演，更找來渡邊直美、劉以"
+          "title": "2026亞運棒球》愛知名古屋亞運棒球賽程資訊全攻略！台灣賽程、參賽隊伍、分組名單、球員資訊、轉播單位一次看",
+          "link": "https://www.gvm.com.tw/article/132904",
+          "published": "2026-09-10T16:44:00",
+          "summary": "2026年亞洲運動會將於9月19日至10月4日在日本愛知、名古屋舉行，台灣球迷最關注的棒球項目，則將於9月21日至27日展開。台灣是否能在2006年杜哈亞運後，時隔20年再抱回一面金牌？4年一度的亞洲體壇盛會即將登場！2026年亞洲運動會將於9月19日至10月4日在日本愛知、名古屋舉行，來自亞洲各國的頂尖好手齊聚一堂，而台灣球迷最關注的棒球項目，則將於9月21日至27日展開，一路從小組賽打到金牌戰"
         },
         {
-          "title": "LINE「幫忙投票」是盜帳號陷阱！8月被盜通報數增加97% ，記事本不再支援2類貼文",
-          "link": "https://www.gvm.com.tw/article/132936",
-          "published": "2026-09-09T16:10:00",
-          "summary": "別再幫親友的小孩畫畫投票或寵物投票了！近期網路詐騙手法頻傳，LINE 提醒所有用戶務必提高警覺。根據 LINE 內部最新統計，2026 年 8 月接獲用戶通報「帳號被盜」的客服案件數，較 7 月大幅增加了 97%。分析常見詐騙手法發現，詐騙集團常利用已遭盜用的親友帳號發送訊息，以「幫小孩投票」、「幫寵物選拔集氣」等名義誘使民眾點擊連結，或是透過對話騙取 LINE 認證碼，進而盜走LINE帳號。此外"
+          "title": "清大校長高為元說明赴美遴選爭議：捐「每年5月薪水」自省",
+          "link": "https://www.gvm.com.tw/article/132959",
+          "published": "2026-09-10T16:03:00",
+          "summary": "清華大學校長高為元續任後卻赴美參與校長遴選引議。他今天坦言輕忽校長職位特殊性，辜負清華人對他的期待，願接受批評及配合校內調查，並捐出每年5月的薪資來提醒自己。媒體報導，高為元今年5月1日正式展開清大校長第2個4年任期，5月4日至5日即赴美國參與其他學校的校長遴選，最後未獲選。消息一出，引發議論。清大今天舉行校長說明會，高為元致詞表示，事件引發師生、校友疑慮與不安，他再次致歉，過去這個月是他學術生涯"
         },
         {
-          "title": "911事件25週年！世界學會反恐，卻擋不住AI與無人機新戰爭",
-          "link": "https://www.gvm.com.tw/article/132935",
-          "published": "2026-09-09T15:29:00",
-          "summary": "911事件雖讓全球重新思考安全與防禦，25年後，威脅卻已悄然變形。科技一面強化防線，一面降低攻擊門檻，從數位世界到真實戰場，全球安全體系迎來更艱難的考驗。四分之一世紀前，2001年9月11日，恐怖分子劫持美國民航客機，衝撞紐約世貿雙塔及五角大廈，導致近3000人罹難，航空跟邊境安檢標準隨之大幅提升。這，就是震撼全球的911事件。然而，在911事件過了25年後的今天，世界似乎沒有變得更安全。延伸閱讀"
+          "title": "卓榮泰薪資遭立法院凍結，行政院：違反釋字601號解釋",
+          "link": "https://www.gvm.com.tw/article/132958",
+          "published": "2026-09-10T15:53:00",
+          "summary": "立法院凍結行政院長卓榮泰9月至12月薪資，行政院今天表示，這是立法院透過年度預算案審議影響行政院長行使憲政職權，已經違反釋字601號解釋，也逾越立法院權限以及權力分立原則，同時牴觸預算法52條第1項但書規定，行政院將在收到總預算案後審慎研議。立法院8月14日通過115年度中央政府總預算案，但凍結卓榮泰9月至12月薪資，並刪除不當黨產處理委員會政務人員待遇。行政院發言人李慧芝今天主持行政院會後記者會"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "8月創全球史上最熱單月紀錄專家：至少10萬年從未遇過| 中央廣播電臺 - LINE TODAY",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/WBRvoJ5&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw16dk8cmZywinelQJMoVBQ1",
-          "published": "2026-09-10T05:10:41+00:00",
-          "summary": "對此，聯合國警告，除非人類擺脫對化石燃料的依賴，否則地球將只會不斷深入未知的領域。 哥白尼氣候變化服務(Copernicus Climate Change Service)的觀測最早可以&nbsp;..."
+          "title": "人類<b>淨零</b>排放後，研究：地球最大碳匯將開始「回吐」",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://technews.tw/2026/09/11/study-earths-largest-carbon-sink-to-begin-releasing-carbon-after-humanity-reaches-net-zero-emissions/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0m87SoIyqFvGBAxWxa0gdn",
+          "published": "2026-09-11T04:57:33+00:00",
+          "summary": "海水溫度愈高，溶解二氧化碳的能力愈低，洋流改變也可能削弱碳被輸送至深海的效率。2026 年刊登於《Nature Climate Change》 ... The world's biggest carbon sink&nbsp;..."
         },
         {
-          "title": "富邦證券舉辦永續金融議合工作坊協助企業掌握<b>淨零</b>轉型方向 - 蕃新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20260910419712&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1_oEaRrTWm7JiJr8mMFbzu",
-          "published": "2026-09-10T03:25:02+00:00",
-          "summary": "中央社財經訊息服務20260910 10:57:54)富邦證券於昨(9)日舉辦「全球淨."
+          "title": "人類<b>淨零</b>排放後，研究：地球最大碳匯將開始「回吐」 - 股市爆料同學會",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/article/184536880&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2sQrdyd0tCpcZiJ0iGPWju",
+          "published": "2026-09-11T04:41:24+00:00",
+          "summary": "全球積極追求「淨零排放」，希望停止增加大氣中的二氧化碳，但科學家發現，即使人類成功達成這項目標，地球最大的天然[…]"
         },
         {
-          "title": "富邦證券舉辦永續金融議合工作坊協助企業掌握<b>淨零</b>轉型方向 - 中央社",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/business/chinese/443779&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1tnIiqB-E1HVL1uCdprkqQ",
-          "published": "2026-09-10T03:04:34+00:00",
-          "summary": "圖說：富邦證券舉辦「全球淨零趨勢與永續金融機會」議合工作坊，資深副總林昶棟(前排左)與福爾摩沙氣候智慧服務有限公司執行長曹榮軒(前排右)及企業客戶、公司&nbsp;..."
+          "title": "高雄拚<b>淨零</b>，林園新四輕擴建別忘了市民健康- Greenpeace 綠色和平",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.greenpeace.org/taiwan/update/47503/%25E9%25AB%2598%25E9%259B%2584%25E6%259E%2597%25E5%259C%2592%25E6%2596%25B0%25E5%259B%259B%25E8%25BC%2595%25E6%2593%25B4%25E5%25BB%25BA%25EF%25BC%259A%25E6%25B7%25A8%25E9%259B%25B6%25E8%25BD%2589%25E5%259E%258B%25E4%25B8%258D%25E8%2583%25BD%25E7%258A%25A7%25E7%2589%25B2%25E5%25B8%2582%25E6%25B0%2591%25E5%2581%25A5%25E5%25BA%25B7/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3muO1QXOQZnb5WjXHZT8ik",
+          "published": "2026-09-11T04:29:34+00:00",
+          "summary": "中油規劃擴建高雄林園新四輕，將乙烯產能擴增至現有三倍。面對空污、碳排與健康風險，高雄追求淨零的同時，也不能忽視市民的健康與安全。"
         },
         {
-          "title": "高銀TCFD評鑑獲「進步卓越獎」財務碳排盤查覆蓋率衝98.08% 接軌SBTi邁向<b>淨零</b>、布局TNFD",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.storm.mg/article/11163159&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3lheNbWamFsaT4fCVcBL9n",
-          "published": "2026-09-10T02:00:37+00:00",
-          "summary": "高雄銀行持續深化氣候治理與永續金融布局，氣候資訊揭露成果再獲肯定。國立政治大學企業永續管理研究中心於9月3日舉辦「第三屆氣候相關財務揭露（TCFD）報告&nbsp;..."
+          "title": "《2026臺北永續競爭力論壇暨<b>淨零</b>行動特展》圓滿落幕攜手企業 - 聯合新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=http://udn.com/news/story/7314/9741843%3Ffrom%3Dudn-catelistnews_ch2&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2I9Woci6YtmunRMSAu5OjE",
+          "published": "2026-09-11T04:07:42+00:00",
+          "summary": "面對全球升溫與極端氣候挑戰，臺北市政府確立「降溫城市」、「綠運城市」、「韌性城市」、「淨零新生活」四大政策主軸，建構臺北承諾2050年淨零排放的施政願景。"
         },
         {
-          "title": "環境部謝燕儒次長率團訪巴拉圭環境部續推台巴環境治理方案 - 蕃新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20260909439677&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw36tapVmvlHInHNRdu2BU0T",
-          "published": "2026-09-10T01:35:49+00:00",
-          "summary": "... 氣候變遷及碳管理等研究，展現具體實務成果；在數位治理方面，我國向巴國分享運用LEAP模型支援NDC 3.0 與淨零路徑規劃經驗，並探討如何將模型參數轉化為再生&nbsp;..."
+          "title": "老化、成本、氣候壓力，日本稻農歇業連4 年創新高",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://technews.tw/2026/09/11/aging-rising-costs-and-climate-pressures-hit-japans-rice-farmers-as-farm-closures-reach-record-high-for-fourth-straight-year/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2PQcHtncCgJL_UZ0VfYoGq",
+          "published": "2026-09-11T03:40:14+00:00",
+          "summary": "... 。更矛盾的是，去年超過九成米農其實都有賺錢，顯示日本稻米產業面臨的已不只是價格問題，而是高齡化、缺工、設備老化與氣候變遷交織的結構性危機。..."
         },
         {
-          "title": "香港氣候意識指數74.67分反映市民對氣候議題具一定認知 - 東網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://hk.on.cc/hk/bkn/cnt/finance/20260909/bkn-20260909210422402-0909_00842_001.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1QS0xCcKgWm_igJy5vjCZl",
-          "published": "2026-09-10T01:07:35+00:00",
-          "summary": "理大環境、社會及治理促進研究中心與會計及金融學院，聯同中銀香港發布聯合研究報告，首次構建並發布「香港氣候意識指數」(HK..."
+          "title": "中華車拚2035年再生能源占比35% 重申2050<b>淨零</b>",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E4%25B8%25AD%25E8%258F%25AF%25E8%25BB%258A%25E6%258B%259A2035%25E5%25B9%25B4%25E5%2586%258D%25E7%2594%259F%25E8%2583%25BD%25E6%25BA%2590%25E5%258D%25A0%25E6%25AF%259435-%25E9%2587%258D%25E7%2594%25B32050%25E6%25B7%25A8%25E9%259B%25B6-021735249.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3YYVfCNPFZruuFRVWEpowg",
+          "published": "2026-09-11T02:50:03+00:00",
+          "summary": "中央社記者鍾榮峰台北2026年9月11日電）中華車(2204)積極推動再生能源，在2025永續報告書指出，持續設立太陽能發電系統與購買綠電，提升綠能占比，&nbsp;..."
         }
       ]
     }
