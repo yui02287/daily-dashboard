@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-09-12T05:25:56.022755+00:00",
-    "date": "2026-09-12",
+    "generated_at": "2026-09-13T05:41:35.686916+00:00",
+    "date": "2026-09-13",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -10,84 +10,47 @@
     {
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
-      "items": [
-        {
-          "title": "【政府 AI 轉型下一步】64 國建好數位身分只是起點，AI 代理正在改寫政府服務方式",
-          "link": "https://techorange.com/2026/09/12/government-trends/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-11T22:29:00+00:00",
-          "summary": "德勤政府洞察中心（Deloitte Center for Government Insights）發布《2026 全球政府趨勢報告》（Government Trends 2026），內容指出，AI 技術加速演進、財政日益緊縮，加上跨部會協調的複雜度提高，讓傳統的局部改革、組織微調，以及把紙本流程搬上網的數位化工程，都已經走到極限。 領先的政府因此把目光轉向「政府作業系統」的全面重組，重寫底層的規則"
-        },
-        {
-          "title": "零售媒體延伸至 AI 介面：亞馬遜開放品牌經由 Amazon DSP 投放 ChatGPT 廣告",
-          "link": "https://techorange.com/2026/09/11/amazon-ads-chat-gpt-advertising/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-11T10:23:30+00:00",
-          "summary": "亞馬遜宣布，將與 OpenAI 合作，讓旗下廣告主能在 ChatGPT 投放廣告，初期先開放美國部分品牌參與。 《CNBC》報導，這項合作也反映全球最大電商看好 OpenAI 持續成長中的廣告業務。OpenAI 的廣告業務近期已達到 10 億美元年化營收規模。今年 2 月，OpenAI 開始在美國 ChatGPT 測試投放贊助廣告，初期合作零售商包括 Best Buy 與 Williams-Son"
-        },
-        {
-          "title": "ChatGPT 變身一站式金融工作區？整合 LSEG、PitchBook 等資料源，可生成互動式網站",
-          "link": "https://techorange.com/2026/09/11/openai-introducing-chatgpt-financial-services/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-11T08:35:39+00:00",
-          "summary": "OpenAI 推出專為金融業打造的 ChatGPT，整合 LSEG、PitchBook、Daloopa 等金融資料供應商的資料，並搭載最新 AI 模型，鎖定投資銀行與股票研究等工作場景。 OpenAI 在部落格文章中表示，這款名為「ChatGPT for Financial Services」的產品，是與 Morgan Stanley、Evercore 共同開發，兩家公司擔任設計合作夥伴，協助 O"
-        },
-        {
-          "title": "永大抽水機攜手台達，透過高效馬達與變頻控制破解傳統泵浦高耗能痛點",
-          "link": "https://techorange.com/2026/09/11/delta-yungtay-pump-motor/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-11T07:27:23+00:00",
-          "summary": "隨著淨零減碳與能源成本壓力升高，企業節能的範圍已從照明、空調主機與能源管理平台，延伸到過去較少被關注的基礎設備，長時間運轉的泵浦正是其中之一。 在商辦大樓、醫院、學校、科技廠與製程冷卻系統中，泵浦支撐空調循環、冷卻與給排水等基礎運作，其設備效率與控制方式是否匹配，直接影響用電成本與系統穩定性。面對市場對高效率泵浦系統的需求升高，永大抽水機近年從單一設備供應商，轉向更重視系統整合的節能方案，並導入台"
-        },
-        {
-          "title": "AI 上車不只拚算力！超恩、滿拓、晶心拆解智慧移動落地關鍵",
-          "link": "https://techorange.com/2026/09/11/semi-ai-sipo-vecow-deepmentor-andes/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-11T04:47:55+00:00",
-          "summary": "隨著 AI 應用加速從雲端走向終端，邊緣運算晶片能否真正落地，關鍵已不只在單一晶片的運算效能，更在於晶片、系統與應用端能否共同因應實際部署需求。為鏈結國內半導體產業技術能量與多元應用需求，經濟部產業發展署推動「邊緣運算晶片系統產業鏈結推動計畫」，聚焦智慧移動與智慧醫療照護領域，並透過「邊緣運算晶片系統價值共創平台」(以下簡稱價值共創平台)，促進晶片、系統及應用端業者交流與供需對接，推進跨域合作與邊"
-        },
-        {
-          "title": "AI 網攻自動化到哪一步？Anthropic 報告揭漏洞研究、偵察與資料竊取如何 Agent 化",
-          "link": "https://techorange.com/2026/09/11/anthropic-threat-intelligence-report-september-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-11T04:33:34+00:00",
-          "summary": "AI 已經能自己執行網路攻擊了嗎？Anthropic 最新調查顯示，還沒有走到完全自主，但部分原本高度依賴資安專家的工作，已經開始交給 AI Agent 持續執行。 Anthropic 9 月 10 日發布最新 AI 威脅報告，整理 2025 年 12 月至 2026 年 8 月間，在自家 Claude 模型上偵測並中止的惡意活動，涵蓋網路攻擊、影響力操作、監控、傳統武器、生物濫用、詐騙與詐欺，以"
-        }
-      ]
+      "items": []
     },
     {
       "feed_name": "遠見雜誌 - 前進的動力",
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "長時間久坐損害血管功能！新研究證實：運動也無法抵銷傷害",
-          "link": "https://www.gvm.com.tw/article/132972",
-          "published": "2026-09-12T07:00:00",
-          "summary": "許多人認為下班運動就能彌補久坐一天對身體的傷害，但加拿大達爾豪斯大學團隊最新研究無情戳破這個粉紅泡泡。科學家發現，就算運動促進心血管健康，只要你「連續坐 2 小時不起來」，腿部血管彈性依然會遭到嚴重打擊，而運動對這件事一點保護作用都沒有。研究團隊將 21 位參與測試的健康年輕人分為 2 組，實驗組（11 位）進行長達 12 週的高強度間歇訓練 ，對照組（10 位）維持原本生活習慣，意欲探討 12 "
+          "title": "比健忘更早出現？情緒波動大常發脾氣，醫提醒10大失智警訊",
+          "link": "https://www.gvm.com.tw/article/132975",
+          "published": "2026-09-13T07:00:00",
+          "summary": "另一半變得暴躁、健忘，甚至和孩子大打出手，羅小姐今天回首先生對抗失智症歷程，強調應向外求助。醫師提醒，失智症非正常老化，若出現記憶或生活能力明顯改變等10大警訊，應儘早就醫。羅小姐和丈夫都從事保險工作，過去先生到新北中永和跑業務，彷彿在自家後院走跳那麼自然，但在55歲那年，卻發生好幾次在街頭繞了1、2小時仍繞不出來的情況，更在一年內遺失6次健保卡、弄丟機車，連手機也不見。羅小姐提到，昔日活潑開朗的"
         },
         {
-          "title": "《超異能快感：魔法之書》珊卓．布拉克接戲鐵律：孩子不同行就不演！",
-          "link": "https://www.gvm.com.tw/article/132996",
-          "published": "2026-09-11T18:34:00",
-          "summary": "好萊塢女星珊卓．布拉克新片《超異能快感：魔法之書》11日上映，她談起自己的育兒觀，堅持孩子不能同行就不接戲，坦言孩子的行程比事業重要。她也透露，兩個孩子反過來影響自己，兒子是她的「道德指標」，新片更是獻給女兒的一封「充滿歉意的情書」。好萊塢女星珊卓．布拉克（Sandra Bullock）主演的新片《超異能快感：魔法之書》（Practical Magic 2）11日起在台灣上映。現年62歲的珊卓．布"
+          "title": "耶魯大學精神醫學博士後：不睡覺是賺到更多時間？其實你是在預支生命",
+          "link": "https://www.gvm.com.tw/article/133012",
+          "published": "2026-09-12T19:18:00",
+          "summary": "現代社會中幾乎每個人都會受到各種各樣心理和精神問題的困擾。如何識別自己的心理和精神問題，如何應對快節奏生活帶來的壓力和成長中必經的心理困境，如何在適應社會的過程中保持心理健康，並擁有滿意的學習和工作表現，耶魯大學精神醫學博士後姚乃琳提供了具有科學驗證的權威解答。（本文節錄自《大腦修復術》一書，作者：姚乃琳／麥田出版，以下為摘文。）不睡覺真的會出人命你以為你在跟老天搶時間？其實你是在預支生命【科學事"
         },
         {
-          "title": "【百年世家】從白宮到哈里發塔都有它，科勒憑什麼低調稱霸衛浴？",
-          "link": "https://www.gvm.com.tw/article/132993",
-          "published": "2026-09-11T18:16:00",
-          "summary": "創立迄今153年的美國傳奇家族企業，把浴室做成美學，連美國白宮和杜拜哈里發塔都埋單。《遠見雜誌》獨家專訪科勒家族第四代掌門人，拆解百年生意的訣竅之一，是「好設計會讓人微笑，好工藝能陪你一輩子。」全世界權力最集中的辦公室，是華盛頓白宮；全世界最高的建築，是杜拜哈里發塔；辦過奧運、被全球記憶的，是北京國家體育場「鳥巢」。三座地標分屬三個大洲，彼此毫無關聯。如果有幸使用過這些地標的任何一間洗手間，湊近水"
+          "title": "部屬變主管、年薪慘砍三成？50多歲面臨「被退休」的職場殘酷挑戰",
+          "link": "https://www.gvm.com.tw/article/133011",
+          "published": "2026-09-12T18:56:00",
+          "summary": "公司把你以前帶過的部屬升為你的主管。這個暗示很明顯了吧？身為職場高年級生，你有轉身換工作的勇氣嗎？這種工作要去哪裡找？萬一突然「被」退休，你得繼續為錢而工作嗎？如果不想繼續工作，現在開始該準備多少可支配所得，才能投入以前沒空完成的興趣或嗜好？（本文節錄自《沒料到的被退休，如何提前準備》一書，作者：大塚壽／大是文化出版，以下為摘文。）五十多歲被迫面對職涯卡位戰相對的，絕大多數人在五十多歲時，便即將卸"
         },
         {
-          "title": "樂天桃猿攜手NIJISANJI辦野球日，現場布置與聯名一次看",
-          "link": "https://www.gvm.com.tw/article/132994",
-          "published": "2026-09-11T17:55:00",
-          "summary": "與知名動漫與文創IP聯名打造主題日，已是近年中華職棒吸引新觀眾進場的重要引擎。繼味全龍將hololive引進台北大巨蛋與天母棒球場後，樂天桃猿也在今年9月展開跨界合作，攜手日本超人氣VTuber團體「NIJISANJI」，於9月11日至13日在樂天桃園棒球場舉辦「2026 NIJISANJI野球日」。當虛擬偶像走入傳統職棒主場，粉絲如何把線上的熱情轉化為實體應援？面對首次進場的新觀眾，球團又該如何"
+          "title": "「讀書有什麼用？」孔子用一句話讓子路甘願拜師，成最忠心弟子",
+          "link": "https://www.gvm.com.tw/article/133010",
+          "published": "2026-09-12T18:33:00",
+          "summary": "至聖先師孔子門下弟子三千人，在德行、言語、政治才能、文學造詣方面各有所長，這群學生跟隨孔子周遊列國，有著超展開的人生經歷，師徒在彼此交鋒中，如何激盪出絢爛火花？事實上，孔子的教學開局就遇到人生危機，因為他居然遇到有人上門找碴，但這個圖謀不軌的挑釁者子路，卻成為與他交情最深的學生，並且一路維持到人生的盡頭。（本文節錄自《孔子與他的學生們》一書，作者：金哲毅（金老ㄕ）／時報出版，以下為摘文。）師徒的相"
         },
         {
-          "title": "爸媽豪砸17萬送小六生去升學營隊！專家曝家長真實心態",
-          "link": "https://www.gvm.com.tw/article/132992",
-          "published": "2026-09-11T17:10:00",
-          "summary": "日本近年私校入學考試競爭持續升溫，家長為了讓孩子考進理想的中高一貫校（免試升高中的完全中學），不惜投入大量時間與金錢。日本知名升學補習班ena近期推出小學六年級、國中三年級的暑期營隊，依照參加天數分成11天、23天及35天三種方案，其中最長的35天，意味著孩子將超過1個月不能回家，費用更高達80萬日圓（約新台幣17萬元）。如此昂貴的「暑期讀書營隊」仍受到不少家長青睞，因此引發外界好奇：究竟是什麼原"
+          "title": "醫師想幫阿媽拆鼻胃管，卻被她拒絕？家屬透露背後「情緒勒索」真相",
+          "link": "https://www.gvm.com.tw/article/133008",
+          "published": "2026-09-12T17:33:00",
+          "summary": "從高齡邁向超高齡社會，僅花7年，台灣老化速度世界第一，台灣社會普遍重視孝道，中年子女也容易因為孝順，而以年齡來限制父母能做的事，又或對年邁父母過度保護，但當剝奪了父母的自理能力。老後的「獨立自主、尊重生命品質」是父母與子女都該學習的功課。（本文節錄自《照顧父母，最難的不是照顧》一書，作者：陳乃菁／寶瓶文化出版，以下為摘文。）自願插鼻胃管的阿媽我是跑居家醫療的醫師，因為長年累月到宅看診，對病患家庭的"
         },
         {
-          "title": "黃仁勳曝AI下個商機「在這」！再駁循環交易：我投資的通常不會糟",
-          "link": "https://www.gvm.com.tw/article/132991",
-          "published": "2026-09-11T16:35:00",
-          "summary": "輝達（NVIDIA）執行長黃仁勳週四在舊金山舉行的高盛科技大會上表示，隨著人工智慧（AI）技術持續進步，「資安很可能成為AI下一個重大應用領域」。他指出，AI模型讓程式設計自動化，正衝擊資安產業，而因為程式碼遭利用的速度變快，修補漏洞的速度也必須跟上。他說：「還有什麼比製造問題更能創造需求？誰不希望市場為自家產品瘋狂，消費者大排長龍搶購。當然，這件事有負責任的做法，也有不太可取的做法。」黃仁勳是在"
+          "title": "解開年齡束縛的生存法則：日本作家居台多年，樂當台灣「歐巴醬」",
+          "link": "https://www.gvm.com.tw/article/133007",
+          "published": "2026-09-12T17:01:00",
+          "summary": "與其用「歐巴桑」這個詞，倒不如用「歐巴醬」來得優。日語中的歐巴醬有活力充沛又迷人的意思，更適合笑容可親的台灣歐巴桑形象。歐巴醬們也有自己的「人生軸」生存法則。穿自己喜歡的衣服、吃自己愛吃的東西。無關乎年紀，只要自己能接受就好，根本不需要去在乎別人的眼光。（本文節錄自《我成為台灣歐巴醬的修練之路》一書，作者：近藤弥生子，以下為摘文。）我在台灣本來就已經是「歐巴桑」了，自三十歲移居來台時被升格的。順帶"
         }
       ]
     },
@@ -96,40 +59,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "卑詩省推動建設大溫首間<b>淨零</b>排放學校",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.singtao.ca/googleamp/amp.php%3Fregion%3Dtoronto_hk%26cat%3D2379025%26post_id%3D7624766&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0ZTH1Cyzp84X22RTNigipA",
-          "published": "2026-09-12T00:12:03+00:00",
-          "summary": "【星島訊】卑詩省府表示，隨着Snokomish小學(École Snokomish Elementary) 啟用，卑詩水電公司(BC Hydro) 與省府正攜手推動更潔淨、更具能源效益的公共基礎&nbsp;..."
+          "title": "榮獲國家能源安全與永續影響力典範獎 - 中華電信",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cht.com.tw/home/campaign/digitalservices/content/article/5215/5215-37/article331722&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0vIBANcQjlnm99xQwotWB2",
+          "published": "2026-09-13T00:21:50+00:00",
+          "summary": "第三個二十年，則由能源轉型、淨零碳排、再生能源、半導體及AI 共同推動。 ... 身兼永續長的楊振通直言：「No ESG, No Money ; No Net Zero, No Business。」"
         },
         {
-          "title": "Hugging Face執行長：問Anthropic研究員AI滅絕風險如同問冷氣師傅<b>氣候變遷</b>",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.businessinsider.tw/article/6984&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2TytxzlbgUAnaxw-zBmDcz",
-          "published": "2026-09-11T18:38:15+00:00",
-          "summary": "Coxon 週二在X 上發文表示，他因擔心Anthropic 和自己曾任職的OpenAI「正一路競逐能自我改進的超級智慧，拿我們的性命下注」，因此決定辭職。"
+          "title": "鳳梨葉變纖維、蚵殼變循環紗雲林農業剩餘資材轉出綠色新價值 - 崛起新傳媒-",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://rise-mediacorp.com/archives/143997&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0bQtwWKgxU5NlN3d-LI7lu",
+          "published": "2026-09-12T21:12:26+00:00",
+          "summary": "墨新聞｜記者張游舜／台北報導. 面對氣候變遷與2050淨零轉型趨勢，農業不只是需要因應氣候衝擊的產業，更是地方推動減碳、增匯與循環經濟的重要力量。"
         },
         {
-          "title": "​金管局「2026綠色金融科技研討會」促進智慧金融推動<b>淨零</b>轉型（附圖）",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.info.gov.hk/gia/general/202609/11/P2026091000681p.htm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3f8_ajuNTReB81YLaSAsB3",
-          "published": "2026-09-11T18:19:30+00:00",
-          "summary": "金管局總裁余偉文為研討會致開幕辭時表示：「發展淨零排放及具氣候韌性的經濟，不僅在於籌集更多資金，亦在於更明智地投放資金。我們需要目標明確的融資，以&nbsp;..."
+          "title": "【浩海觀瀾】冰川失穩見時弊：氣候變化與全球治理不足的矛盾- 香港文匯報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.wenweipo.com/a/202609/13/AP6aa5b628e4b01d54a282e7b8.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1QnOZwoc8hwsetnqERCwNy",
+          "published": "2026-09-12T20:50:50+00:00",
+          "summary": "今夏以來，亞歐高海拔山區氣候異常事件多發。帕米爾高原慕士塔格峰發生冰川崩滑，尼泊爾喜馬拉雅山區出現冰岩崩塌，高加索山脈也接連發生山體失穩災害。"
         },
         {
-          "title": "研究指加國「無可能」達成2030減碳目標2050年仍未能實現",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.singtao.ca/googleamp/amp.php%3Fregion%3Dvancouver_hk%26cat%3D296%26post_id%3D7624550&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3Q5iBCV7xYsWrY6IHuflkc",
-          "published": "2026-09-11T18:04:04+00:00",
-          "summary": "研究人員周五（11日）公布的分析指出，加拿大距離短期氣候目標仍相當遙遠，預計未來排放量與2050年實現淨零排放的目標之間存在「巨大差距」。 根據《巴黎協定》&nbsp;..."
+          "title": "<b>淨零</b>城市新時代：臺灣綠建築與都市更新策略- 房產 - PCHOME NEWS",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/realestate/housetube/20260912/index-78922018304603228101.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Qq9sc15AQfmITAqQdRwNb",
+          "published": "2026-09-12T20:10:42+00:00",
+          "summary": "政府目前透過跨部會合作推動住商部門淨零轉型，並以**2030年減碳35%**作為重要階段目標。政策方向涵蓋近零碳建築、既有建築改善、老舊建物延壽、家電與設備能源&nbsp;..."
         },
         {
-          "title": "專欄:二十一世紀三大危機<b>氣候變遷</b>核武機器人.王駿一",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.chinesedaily.com/article/detail-704676.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw34hVxDyHSyBtXozC3i1izA",
-          "published": "2026-09-11T16:52:17+00:00",
-          "summary": "，十一年之後，距離二零五零年空氣污染應達「淨零目標」僅剩二十四年。今年聯合國氣候大會（COP30）檢視「國家自定貢獻」（NDC）各國承諾落實的情況，如今是&nbsp;..."
+          "title": "鳳梨葉變纖維蚵殼變海毛紗雲林農業廢材翻身拚<b>淨零</b> - Life 生活網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://life.tw/article/%25E9%25B3%25B3%25E6%25A2%25A8%25E8%2591%2589%25E8%25AE%258A%25E7%25BA%2596%25E7%25B6%25AD%25E8%259A%25B5%25E6%25AE%25BC%25E8%25AE%258A%25E6%25B5%25B7%25E6%25AF%259B%25E7%25B4%2597-%25E9%259B%25B2%25E6%259E%2597%25E8%25BE%25B2%25E6%25A5%25AD%25E5%25BB%25A2%25E6%259D%2590%25E7%25BF%25BB%25E8%25BA%25AB%25E6%258B%259A%25E6%25B7%25A8%25E9%259B%25B6-3147110&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1Xl6mzu4yJNJ-X5c15SEvW",
+          "published": "2026-09-12T18:16:10+00:00",
+          "summary": "大埤酸菜產業的醃漬液及剩餘物，轉化為微藻、餌料生物培養資源，串聯養殖業。 ○ 縣府推動益生菌水稻田減&nbsp;..."
         },
         {
-          "title": "呼籲「碳排放大國」增加援助規模尼泊爾緩慢、艱難地展開重建| Newtalk | LINE TODAY",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/DRmKmMg&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0vx0j9dGRq1gVCITbVxWAm",
-          "published": "2026-09-11T16:36:20+00:00",
-          "summary": "... 氣候變遷的風險，呼籲「碳排放大國」增加對尼泊爾的援助規模。 圖：翻攝自X @MrPew. Newtalk新聞. 2026 年8 月26 日，尼泊爾與西藏邊境爆發嚴重的洪水與土石流&nbsp;..."
+          "title": "9月12日寰宇掠影| 專題節目 - 無綫新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.tvb.com/tc/programme/34/episode/9269-9%25E6%259C%258812%25E6%2597%25A5%25E5%25AF%25B0%25E5%25AE%2587%25E6%258E%25A0%25E5%25BD%25B1&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3i_5Qkybrl-W-sH3Qj5x39",
+          "published": "2026-09-12T15:40:56+00:00",
+          "summary": "意大利的義工和科學家正致力，保育蝙蝠的棲息地，並協助牠們應對氣候變遷，及人類活動對蝙蝠生存的影響，希望能維護好當地的生物多樣性。 比利時舉辦「巨型&nbsp;..."
         }
       ]
     }
