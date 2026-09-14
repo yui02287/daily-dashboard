@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-09-13T05:41:35.686916+00:00",
-    "date": "2026-09-13",
+    "generated_at": "2026-09-14T05:50:53.144250+00:00",
+    "date": "2026-09-14",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -10,47 +10,84 @@
     {
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
-      "items": []
+      "items": [
+        {
+          "title": "AI 夠不夠「台」，誰說了算？iKala 程世嘉：TMMLU+ 為主權 AI 訂出繁中標準",
+          "link": "https://techorange.com/2026/09/14/ikala-sega-tmmlu-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-14T05:20:47+00:00",
+          "summary": "從「會說繁中」到真正懂台灣，TMMLU+ v1.1 更新 66 領域在地題庫，下一步走向 Agent、多模態評測。 生成式 AI 競賽進入下半場。當模型能力快速拉近，真正的競爭正從「誰有最大的模型」，轉向「誰能讓 AI 真正落地」。iKala 共同創辦人暨董事長程世嘉（Sega）認為，台灣談主權 AI，不能只停留在打造自己的 Foundation Model，而應重新思考：從算力、模型、資料到應用"
+        },
+        {
+          "title": "AI 要減速，誰來訂規則？Anthropic、微軟與川普政府各有主張",
+          "link": "https://techorange.com/2026/09/14/anthropic-pace-frontier-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-14T04:31:16+00:00",
+          "summary": "OpenAI、Anthropic 等前沿 AI 公司最近罕見開始討論「跑慢一點」，美國總統川普卻不打算跟著踩煞車。9 月 12 日，Anthropic 執行長 Dario Amodei 發文呼籲放慢前沿模型能力進步速度，OpenAI 執行長 Sam Altman、xAI 創辦人 Elon Musk 等人也表態支持。Amodei 希望先引入常駐第三方評估者，再進一步讓主要 AI 業者建立共同安全標準"
+        },
+        {
+          "title": "OpenAI 證實不於 2026 啟動 IPO：優先建構技術安全與對齊，AI 企業醞釀減速協議？",
+          "link": "https://techorange.com/2026/09/14/sam-altman-openai-ipo-delay-safety-concerns/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-14T04:06:15+00:00",
+          "summary": "OpenAI 執行長 Sam Altman 證實，OpenAI 不會在 2026 年上市。Sam Altman 接受《Fortune》專訪時表示，OpenAI 不急著推動首次公開募股（IPO），要等到業務準備就緒，且公司也認為當前社會面對 AI 技術發展的時機已經合適，才會啟動上市。 AI 失控疑慮夾擊：OpenAI 延後 IPO、科技巨頭呼籲產業減速 《Fortune》進一步追問，這番說法是否代"
+        },
+        {
+          "title": "亞洲 AI 投資焦點從模型走向工業體系，KPMG：台灣新創要先回答技術、部署、效益三個問題",
+          "link": "https://techorange.com/2026/09/14/q2-26-venture-pulse-report-global/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-14T03:00:00+00:00",
+          "summary": "專訪：戴季全撰稿：李昀蔚 KPMG 最新發布的《2026 年第二季創投脈動：全球創業投資分析》顯示，全球創投市場雖從第一季歷史高點回落，第二季投資金額仍達 2,274 億美元，是史上第二高。表面上看是資金降溫，背後更明顯的變化，其實是資本正在快速集中。 KPMG 安侯建業創新與新創服務團隊主持會計師黃海寧在接受《全新一週》專訪時指出，現在真正值得注意的是「資本正在重新選擇贏家」。過去，創投傾向把資"
+        },
+        {
+          "title": "AI 省下的工時算誰的？生產力紅利正在換主人，雇傭關係舊規被 AI 重新談判",
+          "link": "https://techorange.com/2026/09/14/when-ai-saves-time-at-work/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-14T02:37:57+00:00",
+          "summary": "如果一名員工用 AI 把原本一天的工作量，壓縮到半天就完成，多出來的時間該歸誰？多數企業的預設答案，是把省下的產能直接填入更多任務，工時本身不會改變。 但獨立接案市場給出截然不同的答案。接案者若以固定報酬談定專案，AI 把 8 小時工作壓縮到 4 小時，省下的時間就屬於自己。這個對比點出 AI 正在鬆動工時與產值之間的既有關係。 生產力紅利的分配權，正從組織轉移到個人 過去每一次重大的生產力提升，"
+        },
+        {
+          "title": "【用字型也能反制 AI】讓 AI 爬蟲抓到假資料，設計師推 ShieldFont 保護創作者",
+          "link": "https://techorange.com/2026/09/14/shieldfont-for-ai-scrapers-html/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-14T01:43:52+00:00",
+          "summary": "為了對付 AI 爬蟲，全新字型 ShieldFont 堂堂誕生，其應用字型引擎中的連字（ligatures）機制，替換網頁底層 HTML 文字為垃圾內容，藉此阻擋 AI 抓取資料用於訓練。"
+        }
+      ]
     },
     {
       "feed_name": "遠見雜誌 - 前進的動力",
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "比健忘更早出現？情緒波動大常發脾氣，醫提醒10大失智警訊",
-          "link": "https://www.gvm.com.tw/article/132975",
-          "published": "2026-09-13T07:00:00",
-          "summary": "另一半變得暴躁、健忘，甚至和孩子大打出手，羅小姐今天回首先生對抗失智症歷程，強調應向外求助。醫師提醒，失智症非正常老化，若出現記憶或生活能力明顯改變等10大警訊，應儘早就醫。羅小姐和丈夫都從事保險工作，過去先生到新北中永和跑業務，彷彿在自家後院走跳那麼自然，但在55歲那年，卻發生好幾次在街頭繞了1、2小時仍繞不出來的情況，更在一年內遺失6次健保卡、弄丟機車，連手機也不見。羅小姐提到，昔日活潑開朗的"
+          "title": "微創眼底手術非得擠大醫院？南部視網膜權威吳宗典：掌握「人、時、地、物」四大關鍵，爭取最佳治療時機",
+          "link": "https://www.gvm.com.tw/article/132719",
+          "published": "2026-09-14T00:00:00",
+          "summary": "當看直線感覺有扭曲，或是視野邊緣突然有大片黑影，甚至遮蔽了視野，或是高度近視引發的病變，許多人第一反應通常是：「我得趕快去大醫院掛號排隊，這樣之後如果要開刀才安心。」事實上，這是許多患者在面臨眼睛危機時常見的迷思。目錄•&nbsp;高度近視容易病變？「眼軸長度」比驗光度數更重要•&nbsp;眼軸拉長的高度近視，背後潛藏哪些眼底病變危機？•&nbsp;看手機直線感覺歪斜、扭曲是黃斑部病變警訊嗎？如何"
         },
         {
-          "title": "耶魯大學精神醫學博士後：不睡覺是賺到更多時間？其實你是在預支生命",
-          "link": "https://www.gvm.com.tw/article/133012",
-          "published": "2026-09-12T19:18:00",
-          "summary": "現代社會中幾乎每個人都會受到各種各樣心理和精神問題的困擾。如何識別自己的心理和精神問題，如何應對快節奏生活帶來的壓力和成長中必經的心理困境，如何在適應社會的過程中保持心理健康，並擁有滿意的學習和工作表現，耶魯大學精神醫學博士後姚乃琳提供了具有科學驗證的權威解答。（本文節錄自《大腦修復術》一書，作者：姚乃琳／麥田出版，以下為摘文。）不睡覺真的會出人命你以為你在跟老天搶時間？其實你是在預支生命【科學事"
+          "title": "不喊口號的AI治理 鍾東錦的苗栗新模式",
+          "link": "https://www.gvm.com.tw/article/132911",
+          "published": "2026-09-14T00:00:00",
+          "summary": "在《遠見雜誌》2026年縣市長施政滿意度調查中，苗栗縣長鍾東錦以74.4%的滿意度，創下苗栗自2011年以來新高；相較上任首年的滿意度，也大幅提升22.8個百分點，增幅更居全臺第一。這份成績，展現了縣民對施政成果的肯定，也讓外界開始關注，這位商界出身的縣長，究竟以何種治理思維，推動苗栗的改變。商界出身，打造不一樣的治理節奏從企業經營轉戰公共治理，鍾東錦縣長沒有複製傳統行政思維，而是將商界講求效率、"
         },
         {
-          "title": "部屬變主管、年薪慘砍三成？50多歲面臨「被退休」的職場殘酷挑戰",
-          "link": "https://www.gvm.com.tw/article/133011",
-          "published": "2026-09-12T18:56:00",
-          "summary": "公司把你以前帶過的部屬升為你的主管。這個暗示很明顯了吧？身為職場高年級生，你有轉身換工作的勇氣嗎？這種工作要去哪裡找？萬一突然「被」退休，你得繼續為錢而工作嗎？如果不想繼續工作，現在開始該準備多少可支配所得，才能投入以前沒空完成的興趣或嗜好？（本文節錄自《沒料到的被退休，如何提前準備》一書，作者：大塚壽／大是文化出版，以下為摘文。）五十多歲被迫面對職涯卡位戰相對的，絕大多數人在五十多歲時，便即將卸"
+          "title": "把黑暗變成觀光資產，屏東打開星空旅遊新藍海",
+          "link": "https://www.gvm.com.tw/article/132898",
+          "published": "2026-09-14T00:00:00",
+          "summary": "當全球都會區逐漸被強光與霓虹吞噬，「黑暗」反而成了最稀缺的奢侈品。在永續旅遊與在地經濟轉型的雙重契機下，「暗空經濟」（Dark Sky Economy）正迅速崛起。台灣最南端的屏東，憑藉獨特的地理條件與在地社區的集體覺醒，正悄悄將「漆黑的夜空」轉化為帶動地方創生的關鍵引擎。不必登高追星，屏東靠暗空條件開啟旅遊新想像談到觀星，多數人第一時間聯想到的可能是高海拔的高山，但屏東卻展現了截然不同的平地與海"
         },
         {
-          "title": "「讀書有什麼用？」孔子用一句話讓子路甘願拜師，成最忠心弟子",
-          "link": "https://www.gvm.com.tw/article/133010",
-          "published": "2026-09-12T18:33:00",
-          "summary": "至聖先師孔子門下弟子三千人，在德行、言語、政治才能、文學造詣方面各有所長，這群學生跟隨孔子周遊列國，有著超展開的人生經歷，師徒在彼此交鋒中，如何激盪出絢爛火花？事實上，孔子的教學開局就遇到人生危機，因為他居然遇到有人上門找碴，但這個圖謀不軌的挑釁者子路，卻成為與他交情最深的學生，並且一路維持到人生的盡頭。（本文節錄自《孔子與他的學生們》一書，作者：金哲毅（金老ㄕ）／時報出版，以下為摘文。）師徒的相"
+          "title": "坦承自己也是平凡人！從桑德伯格到納德拉：「這2個字」才是真正領導力",
+          "link": "https://www.gvm.com.tw/article/133017",
+          "published": "2026-09-13T16:37:00",
+          "summary": "在職場上展現真誠與脆弱，究竟是建立信任的利器，還是自曝其短的危機？真正有力量的領導，不是把情緒藏起來，而是懂得在真實與專業之間拿捏分寸。臉書前營運長雪柔・桑德伯格、微軟執行長薩蒂亞・納德拉等知名領導者的真實經驗，教你如何在職場走好這條「真實的鋼索」，打造更有同理心的團隊氛圍。（本文節錄自《情緒過勞》一書，作者：迪娜．鄧翰．史密斯，艾莉西亞．格蘭迪／天下文化出版，以下為摘文。）臉書前營運長雪柔・桑德"
         },
         {
-          "title": "醫師想幫阿媽拆鼻胃管，卻被她拒絕？家屬透露背後「情緒勒索」真相",
-          "link": "https://www.gvm.com.tw/article/133008",
-          "published": "2026-09-12T17:33:00",
-          "summary": "從高齡邁向超高齡社會，僅花7年，台灣老化速度世界第一，台灣社會普遍重視孝道，中年子女也容易因為孝順，而以年齡來限制父母能做的事，又或對年邁父母過度保護，但當剝奪了父母的自理能力。老後的「獨立自主、尊重生命品質」是父母與子女都該學習的功課。（本文節錄自《照顧父母，最難的不是照顧》一書，作者：陳乃菁／寶瓶文化出版，以下為摘文。）自願插鼻胃管的阿媽我是跑居家醫療的醫師，因為長年累月到宅看診，對病患家庭的"
+          "title": "栽培多年愛將突然跳槽同業？老闆與高階主管必學的「3種人資決策」",
+          "link": "https://www.gvm.com.tw/article/133016",
+          "published": "2026-09-13T16:06:00",
+          "summary": "辛苦培養多年的核心人才，突然被同業挖走，老闆該怎麼辦？人才流動無法避免，真正危險的從來不是一個人離職，而是公司沒有第二個人能接手。企業的人才培養，不能只押寶單一精英，而要建立多點培養的接班梯隊。從年輕人才到主管接班，如何降低關鍵人才離職帶來的組織風險，是每位經營者都必須面對的課題。（本文節錄自《台北街角解憂故事》一書，作者：王學呈／商周出版，以下為摘文。）我們在台大碰頭，聊聊近況。校園繁花盛開。他"
         },
         {
-          "title": "解開年齡束縛的生存法則：日本作家居台多年，樂當台灣「歐巴醬」",
-          "link": "https://www.gvm.com.tw/article/133007",
-          "published": "2026-09-12T17:01:00",
-          "summary": "與其用「歐巴桑」這個詞，倒不如用「歐巴醬」來得優。日語中的歐巴醬有活力充沛又迷人的意思，更適合笑容可親的台灣歐巴桑形象。歐巴醬們也有自己的「人生軸」生存法則。穿自己喜歡的衣服、吃自己愛吃的東西。無關乎年紀，只要自己能接受就好，根本不需要去在乎別人的眼光。（本文節錄自《我成為台灣歐巴醬的修練之路》一書，作者：近藤弥生子，以下為摘文。）我在台灣本來就已經是「歐巴桑」了，自三十歲移居來台時被升格的。順帶"
+          "title": "定期定額也有缺點？上班族沒空看盤怎麼辦？投資專家破解新手最常見迷思",
+          "link": "https://www.gvm.com.tw/article/133015",
+          "published": "2026-09-13T15:48:00",
+          "summary": "現在是高點嗎？是不是不該進場？現在是低點嗎？是不是可以進場了？相信這是不少上班族的心聲，尤其上班忙碌更是抽不出時間盯盤或研究財報，這時就很適用「每隔一定時間，購買相同金額」的「定期定額」投資。選擇標的應具備長期向上趨勢、屬產業龍頭、流動性高的特徵，才能累積報酬，如元大台灣50（0050）、富邦台50（006208）、台積電（2330）等。（本文節錄自《一直盈 股市必勝法》一書，作者：鍾國忠／幸福文"
         }
       ]
     },
@@ -59,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "榮獲國家能源安全與永續影響力典範獎 - 中華電信",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cht.com.tw/home/campaign/digitalservices/content/article/5215/5215-37/article331722&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0vIBANcQjlnm99xQwotWB2",
-          "published": "2026-09-13T00:21:50+00:00",
-          "summary": "第三個二十年，則由能源轉型、淨零碳排、再生能源、半導體及AI 共同推動。 ... 身兼永續長的楊振通直言：「No ESG, No Money ; No Net Zero, No Business。」"
+          "title": "富邦人壽綠色金融投資近2兆，盼2050年<b>淨零</b>排放 - MoneyDJ理財網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.moneydj.com/f1a.aspx%3Fa%3Dc514d874-85e7-4913-ae7d-70810ae95a25&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0-QYhu_rCqMYaP1suSjzRg",
+          "published": "2026-09-14T04:20:03+00:00",
+          "summary": "MoneyDJ新聞2026-09-14 11:40:46 新聞中心發佈. 富邦人壽今(14)日發布《2025年永續報告書》，完整揭露環境、社會與公司治理三大面向成果。"
         },
         {
-          "title": "鳳梨葉變纖維、蚵殼變循環紗雲林農業剩餘資材轉出綠色新價值 - 崛起新傳媒-",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://rise-mediacorp.com/archives/143997&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0bQtwWKgxU5NlN3d-LI7lu",
-          "published": "2026-09-12T21:12:26+00:00",
-          "summary": "墨新聞｜記者張游舜／台北報導. 面對氣候變遷與2050淨零轉型趨勢，農業不只是需要因應氣候衝擊的產業，更是地方推動減碳、增匯與循環經濟的重要力量。"
+          "title": "儘管全球氣候行動面臨阻力，新加坡對實現<b>淨零</b>碳排放目標承諾依然堅定 - Yahoo股市",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2584%2598%25E7%25AE%25A1%25E5%2585%25A8%25E7%2590%2583%25E6%25B0%25A3%25E5%2580%2599%25E8%25A1%258C%25E5%258B%2595%25E9%259D%25A2%25E8%2587%25A8%25E9%2598%25BB%25E5%258A%259B-%25E6%2596%25B0%25E5%258A%25A0%25E5%259D%25A1%25E5%25B0%258D%25E5%25AF%25A6%25E7%258F%25BE%25E6%25B7%25A8%25E9%259B%25B6%25E7%25A2%25B3%25E6%258E%2592%25E6%2594%25BE%25E7%259B%25AE%25E6%25A8%2599%25E6%2589%25BF%25E8%25AB%25BE%25E4%25BE%259D%25E7%2584%25B6%25E5%25A0%2585%25E5%25AE%259A-024600204.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw253YeUryneeWPA-BRC5YVw",
+          "published": "2026-09-14T03:52:55+00:00",
+          "summary": "儘管全球氣候行動面臨阻力，新加坡對實現淨零碳排放目標的承諾依然堅定一、依據新加坡聯合早報本（2026）年9月11日報導，星國交通部長兼財政部第二部長&nbsp;..."
         },
         {
-          "title": "【浩海觀瀾】冰川失穩見時弊：氣候變化與全球治理不足的矛盾- 香港文匯報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.wenweipo.com/a/202609/13/AP6aa5b628e4b01d54a282e7b8.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1QnOZwoc8hwsetnqERCwNy",
-          "published": "2026-09-12T20:50:50+00:00",
-          "summary": "今夏以來，亞歐高海拔山區氣候異常事件多發。帕米爾高原慕士塔格峰發生冰川崩滑，尼泊爾喜馬拉雅山區出現冰岩崩塌，高加索山脈也接連發生山體失穩災害。"
+          "title": "黃柏霖推動運具總量管理加速低碳交通轉型 - PCHOME NEWS",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/living/focusnews/20260913/index-78930923441626302009.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3vzZVGFtBJmW6loe4871lK",
+          "published": "2026-09-14T02:51:59+00:00",
+          "summary": "高雄雖然近年積極發展捷運路網、推動「淨零城市自治條例」與綠色交通，但要真正達成民團訴求中的「雙零交通（零死亡、淨零碳排）」與「運具總量管理」的目標仍有&nbsp;..."
         },
         {
-          "title": "<b>淨零</b>城市新時代：臺灣綠建築與都市更新策略- 房產 - PCHOME NEWS",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/realestate/housetube/20260912/index-78922018304603228101.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Qq9sc15AQfmITAqQdRwNb",
-          "published": "2026-09-12T20:10:42+00:00",
-          "summary": "政府目前透過跨部會合作推動住商部門淨零轉型，並以**2030年減碳35%**作為重要階段目標。政策方向涵蓋近零碳建築、既有建築改善、老舊建物延壽、家電與設備能源&nbsp;..."
+          "title": "鳳梨葉變纖維、蚵殼變循環紗雲林農業剩餘資材轉出綠色新價值 - 蕃新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20260913382394&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3kZQfqoH4Xj7e6slSiXcIR",
+          "published": "2026-09-14T02:45:03+00:00",
+          "summary": "報新聞/編輯部面對氣候變遷與2050淨零轉型趨勢，農業不只是需要因應氣候衝擊的產業，更是地方推動減碳."
         },
         {
-          "title": "鳳梨葉變纖維蚵殼變海毛紗雲林農業廢材翻身拚<b>淨零</b> - Life 生活網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://life.tw/article/%25E9%25B3%25B3%25E6%25A2%25A8%25E8%2591%2589%25E8%25AE%258A%25E7%25BA%2596%25E7%25B6%25AD%25E8%259A%25B5%25E6%25AE%25BC%25E8%25AE%258A%25E6%25B5%25B7%25E6%25AF%259B%25E7%25B4%2597-%25E9%259B%25B2%25E6%259E%2597%25E8%25BE%25B2%25E6%25A5%25AD%25E5%25BB%25A2%25E6%259D%2590%25E7%25BF%25BB%25E8%25BA%25AB%25E6%258B%259A%25E6%25B7%25A8%25E9%259B%25B6-3147110&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1Xl6mzu4yJNJ-X5c15SEvW",
-          "published": "2026-09-12T18:16:10+00:00",
-          "summary": "大埤酸菜產業的醃漬液及剩餘物，轉化為微藻、餌料生物培養資源，串聯養殖業。 ○ 縣府推動益生菌水稻田減&nbsp;..."
+          "title": "守護家園從行動做起高雄郵局攜手社區共創永續好生活",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://life.tw/article/%25E5%25AE%2588%25E8%25AD%25B7%25E5%25AE%25B6%25E5%259C%2592%25E5%25BE%259E%25E8%25A1%258C%25E5%258B%2595%25E5%2581%259A%25E8%25B5%25B7-%25E9%25AB%2598%25E9%259B%2584%25E9%2583%25B5%25E5%25B1%2580%25E6%2594%259C%25E6%2589%258B%25E7%25A4%25BE%25E5%258D%2580%25E5%2585%25B1%25E5%2589%25B5%25E6%25B0%25B8%25E7%25BA%258C%25E5%25A5%25BD%25E7%2594%259F%25E6%25B4%25BB-3148117&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3nrYYqAXQRQJZbqswPiraJ",
+          "published": "2026-09-14T02:17:38+00:00",
+          "summary": "高雄郵局響應ESG理念，舉辦「中華郵政清淨家園」活動，結合員工生日會，展現企業社會責任。"
         },
         {
-          "title": "9月12日寰宇掠影| 專題節目 - 無綫新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.tvb.com/tc/programme/34/episode/9269-9%25E6%259C%258812%25E6%2597%25A5%25E5%25AF%25B0%25E5%25AE%2587%25E6%258E%25A0%25E5%25BD%25B1&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3i_5Qkybrl-W-sH3Qj5x39",
-          "published": "2026-09-12T15:40:56+00:00",
-          "summary": "意大利的義工和科學家正致力，保育蝙蝠的棲息地，並協助牠們應對氣候變遷，及人類活動對蝙蝠生存的影響，希望能維護好當地的生物多樣性。 比利時舉辦「巨型&nbsp;..."
+          "title": "氣象賦能美麗中國法治守護綠水青山",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=http://cpc.people.com.cn/BIG5/n1/2026/0914/c64387-40798115.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1TJzwIR7jrO2NoyacBXiVe",
+          "published": "2026-09-14T00:44:07+00:00",
+          "summary": "法典有8條10處直接提及“氣象”，有多條涉及“天氣”“氣候”“氣候變化”等氣象相關內容。 ... 碳中和工作落地見效。 堅持學用貫通，推動法典制度規定轉化為治理&nbsp;..."
         }
       ]
     }
