@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-09-14T05:50:53.144250+00:00",
-    "date": "2026-09-14",
+    "generated_at": "2026-09-15T05:53:44.555175+00:00",
+    "date": "2026-09-15",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "AI 夠不夠「台」，誰說了算？iKala 程世嘉：TMMLU+ 為主權 AI 訂出繁中標準",
-          "link": "https://techorange.com/2026/09/14/ikala-sega-tmmlu-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-14T05:20:47+00:00",
-          "summary": "從「會說繁中」到真正懂台灣，TMMLU+ v1.1 更新 66 領域在地題庫，下一步走向 Agent、多模態評測。 生成式 AI 競賽進入下半場。當模型能力快速拉近，真正的競爭正從「誰有最大的模型」，轉向「誰能讓 AI 真正落地」。iKala 共同創辦人暨董事長程世嘉（Sega）認為，台灣談主權 AI，不能只停留在打造自己的 Foundation Model，而應重新思考：從算力、模型、資料到應用"
+          "title": "OpenAI 收購 Glass Imaging：估值破 3 億美元，收編蘋果前影像班底",
+          "link": "https://techorange.com/2026/09/15/openai-buys-glass-imaging-smartphone-camera/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-15T03:44:49+00:00",
+          "summary": "《華爾街日報》報導，OpenAI 近幾個月悄悄收購了一家正在開發更高畫質智慧型手機相機的新創公司，知情人士透露。這家公司名為 Glass Imaging，正在開發一項運用 AI 技術，讓智慧型手機所拍攝的影像品質達到與 DSLR 相機相當水準的技術。 不再受限框架：蘋果前員工成立 Glass Imaging 重新定義計算攝影 Glass Imaging 由兩名蘋果前員工 Ziv Attar 和 T"
         },
         {
-          "title": "AI 要減速，誰來訂規則？Anthropic、微軟與川普政府各有主張",
-          "link": "https://techorange.com/2026/09/14/anthropic-pace-frontier-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-14T04:31:16+00:00",
-          "summary": "OpenAI、Anthropic 等前沿 AI 公司最近罕見開始討論「跑慢一點」，美國總統川普卻不打算跟著踩煞車。9 月 12 日，Anthropic 執行長 Dario Amodei 發文呼籲放慢前沿模型能力進步速度，OpenAI 執行長 Sam Altman、xAI 創辦人 Elon Musk 等人也表態支持。Amodei 希望先引入常駐第三方評估者，再進一步讓主要 AI 業者建立共同安全標準"
+          "title": "從黃仁勳到 Broadcom 都沒打算為 AI 踩煞車，微軟公布 37 頁 Agent 行為準則",
+          "link": "https://techorange.com/2026/09/15/microsoft-ai-mai-code-of-conduct/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-15T02:50:52+00:00",
+          "summary": "AI 發展是不是該慢下來，這幾天迅速成為科技業焦點。Anthropic 執行長 Dario Amodei 呼籲降低前沿模型能力進步速度，OpenAI 執行長 Sam Altman、xAI 創辦人 Elon Musk 隨後表態支持；但從政府、晶片商到資本市場的反應來看，要讓整個 AI 產業一起踩煞車並不容易。 就在這波爭論升溫之際，微軟 AI 在 9 月 14 日公布 37 頁《Humanist A"
         },
         {
-          "title": "OpenAI 證實不於 2026 啟動 IPO：優先建構技術安全與對齊，AI 企業醞釀減速協議？",
-          "link": "https://techorange.com/2026/09/14/sam-altman-openai-ipo-delay-safety-concerns/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-14T04:06:15+00:00",
-          "summary": "OpenAI 執行長 Sam Altman 證實，OpenAI 不會在 2026 年上市。Sam Altman 接受《Fortune》專訪時表示，OpenAI 不急著推動首次公開募股（IPO），要等到業務準備就緒，且公司也認為當前社會面對 AI 技術發展的時機已經合適，才會啟動上市。 AI 失控疑慮夾擊：OpenAI 延後 IPO、科技巨頭呼籲產業減速 《Fortune》進一步追問，這番說法是否代"
+          "title": "當技術走出實驗室，台灣科研如何撐起產業韌性？直擊 2026 台灣創博會（tie）四大亮點",
+          "link": "https://techorange.com/2026/09/15/tie-2026-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-15T02:02:26+00:00",
+          "summary": "當 AI 成為各行各業的共同語言，真正的挑戰不再是技術本身，而是它能否在真實環境中穩定運作。 2026 台灣創新技術博覽會（tie）以「AI 賦能創新｜永續邁向未來」為主軸，於 9 月 17 日至 19 日在台北世貿一館登場。展會以四大主題館串起從基礎科研、跨部會計畫到專利商品化的完整產業鏈，集結跨部會與學研能量，將散落在各領域的研發成果推向產業落地的最後一哩路，能夠在同一個場域中，看見臺灣創新從"
         },
         {
-          "title": "亞洲 AI 投資焦點從模型走向工業體系，KPMG：台灣新創要先回答技術、部署、效益三個問題",
-          "link": "https://techorange.com/2026/09/14/q2-26-venture-pulse-report-global/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-14T03:00:00+00:00",
-          "summary": "專訪：戴季全撰稿：李昀蔚 KPMG 最新發布的《2026 年第二季創投脈動：全球創業投資分析》顯示，全球創投市場雖從第一季歷史高點回落，第二季投資金額仍達 2,274 億美元，是史上第二高。表面上看是資金降溫，背後更明顯的變化，其實是資本正在快速集中。 KPMG 安侯建業創新與新創服務團隊主持會計師黃海寧在接受《全新一週》專訪時指出，現在真正值得注意的是「資本正在重新選擇贏家」。過去，創投傾向把資"
+          "title": "程式開發已成流水線，Warp 推開箱即用「軟體工廠」替小企業打造 AI 代理開發環境",
+          "link": "https://techorange.com/2026/09/15/warp-out-of-box-software-factories/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-15T01:26:42+00:00",
+          "summary": "Warp 推出 Warp Factories 一套試圖讓建立、營運軟體工廠，變得盡可能簡單的全新系統，其完整架構讓企業開箱即用，配合 AI 代理讓每個步驟於未來實現輕鬆自動化。"
         },
         {
-          "title": "AI 省下的工時算誰的？生產力紅利正在換主人，雇傭關係舊規被 AI 重新談判",
-          "link": "https://techorange.com/2026/09/14/when-ai-saves-time-at-work/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-14T02:37:57+00:00",
-          "summary": "如果一名員工用 AI 把原本一天的工作量，壓縮到半天就完成，多出來的時間該歸誰？多數企業的預設答案，是把省下的產能直接填入更多任務，工時本身不會改變。 但獨立接案市場給出截然不同的答案。接案者若以固定報酬談定專案，AI 把 8 小時工作壓縮到 4 小時，省下的時間就屬於自己。這個對比點出 AI 正在鬆動工時與產值之間的既有關係。 生產力紅利的分配權，正從組織轉移到個人 過去每一次重大的生產力提升，"
+          "title": "【AI 代理進駐採購】談判、比價、續約評估都交給機器，B2B 銷售規則被迫重寫",
+          "link": "https://techorange.com/2026/09/15/buyer-is-an-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-15T01:26:18+00:00",
+          "summary": "2021 年，全球最大貨櫃航運公司 Maersk 開始讓 AI 直接替公司談生意，它導入新創公司 Pactum 的 AI 代理，與超過 50 家承運商自主協商航線價格、運輸義務與付款條件。這套系統從聯繫供應商、進行多輪談判，一路做到協議確認，整個過程不需要人工介入。 最後，AI 與承運商達成協議的比例達到 96%——在與人類談判員進行的對照測試中，相同航線談到的價格更低了 22%。企業採購的「對手"
         },
         {
-          "title": "【用字型也能反制 AI】讓 AI 爬蟲抓到假資料，設計師推 ShieldFont 保護創作者",
-          "link": "https://techorange.com/2026/09/14/shieldfont-for-ai-scrapers-html/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-14T01:43:52+00:00",
-          "summary": "為了對付 AI 爬蟲，全新字型 ShieldFont 堂堂誕生，其應用字型引擎中的連字（ligatures）機制，替換網頁底層 HTML 文字為垃圾內容，藉此阻擋 AI 抓取資料用於訓練。"
+          "title": "BMW、TOYOTA、賓士都在做：人形機器人進車廠，比的不是誰更像人",
+          "link": "https://techorange.com/2026/09/15/bmw-toyota-hyundai-mercedes-benz-humanoid-robotics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-14T22:00:00+00:00",
+          "summary": "汽車產業的自動化正迎來全新的轉型階段。過去數十年，工業手臂已全面普及於焊接、塗膠與零件搬運等固定工序；如今，包含 BMW、TOYOTA、Mercedes-Benz 與 Hyundai 等汽車巨頭，更開始在既有產線中引進具備「類人型態」與靈活移動能力的 AI 機器人，嘗試接手原本由人工負責的搬運、取放與組裝工作。 積極佈局的領頭羊：BMW 在這波浪潮中，BMW 是態度最為積極的車廠之一。在美洲市場，"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "微創眼底手術非得擠大醫院？南部視網膜權威吳宗典：掌握「人、時、地、物」四大關鍵，爭取最佳治療時機",
-          "link": "https://www.gvm.com.tw/article/132719",
-          "published": "2026-09-14T00:00:00",
-          "summary": "當看直線感覺有扭曲，或是視野邊緣突然有大片黑影，甚至遮蔽了視野，或是高度近視引發的病變，許多人第一反應通常是：「我得趕快去大醫院掛號排隊，這樣之後如果要開刀才安心。」事實上，這是許多患者在面臨眼睛危機時常見的迷思。目錄•&nbsp;高度近視容易病變？「眼軸長度」比驗光度數更重要•&nbsp;眼軸拉長的高度近視，背後潛藏哪些眼底病變危機？•&nbsp;看手機直線感覺歪斜、扭曲是黃斑部病變警訊嗎？如何"
+          "title": "台灣如何守住和平？從俄烏戰爭發展，尋找台海危機解方",
+          "link": "https://www.gvm.com.tw/article/133033",
+          "published": "2026-09-14T18:39:00",
+          "summary": "編按：俄烏戰爭提醒台灣，和平從來不是理所當然。當世界容錯率愈來愈低，台灣真正要準備的，不只是武器，而是能撐住戰爭衝擊的社會韌性，讓對手算清楚：攻打台灣的代價，不值得。當俄羅斯走到戰爭十字路口，我們應該正視的，不是普丁輸，而是世界正在失去容錯率。四年多以前，我曾寫過一篇文章：〈第三次世界大戰到來了嗎？〉當時俄羅斯才剛剛全面入侵烏克蘭。那時候很多人相信，這是一場幾個星期，甚至幾個月就會結束的區域戰爭。"
         },
         {
-          "title": "不喊口號的AI治理 鍾東錦的苗栗新模式",
-          "link": "https://www.gvm.com.tw/article/132911",
-          "published": "2026-09-14T00:00:00",
-          "summary": "在《遠見雜誌》2026年縣市長施政滿意度調查中，苗栗縣長鍾東錦以74.4%的滿意度，創下苗栗自2011年以來新高；相較上任首年的滿意度，也大幅提升22.8個百分點，增幅更居全臺第一。這份成績，展現了縣民對施政成果的肯定，也讓外界開始關注，這位商界出身的縣長，究竟以何種治理思維，推動苗栗的改變。商界出身，打造不一樣的治理節奏從企業經營轉戰公共治理，鍾東錦縣長沒有複製傳統行政思維，而是將商界講求效率、"
+          "title": "聯準會升息機率飆破八成！川普喊降息，華許卻不鬆口",
+          "link": "https://www.gvm.com.tw/article/133032",
+          "published": "2026-09-14T18:26:00",
+          "summary": "市場預期，聯準會9月升息機率超過八成，普遍預期升息1碼。8月非農新增16.2萬人、核心CPI月增0.3％，強勁就業與通膨壓力提高升息可能。聯準會主席華許強調抗通膨立場，升息大門尚未關閉。同時，川普持續施壓要求降息，Fed將如何在物價與政治壓力間做出決策，成為本次會議焦點。美國聯準會（Fed）將於9月15、16日召開聯邦公開市場委員會（FOMC）利率會議，台灣時間17日凌晨2時公布利率決策。隨著美國"
         },
         {
-          "title": "把黑暗變成觀光資產，屏東打開星空旅遊新藍海",
-          "link": "https://www.gvm.com.tw/article/132898",
-          "published": "2026-09-14T00:00:00",
-          "summary": "當全球都會區逐漸被強光與霓虹吞噬，「黑暗」反而成了最稀缺的奢侈品。在永續旅遊與在地經濟轉型的雙重契機下，「暗空經濟」（Dark Sky Economy）正迅速崛起。台灣最南端的屏東，憑藉獨特的地理條件與在地社區的集體覺醒，正悄悄將「漆黑的夜空」轉化為帶動地方創生的關鍵引擎。不必登高追星，屏東靠暗空條件開啟旅遊新想像談到觀星，多數人第一時間聯想到的可能是高海拔的高山，但屏東卻展現了截然不同的平地與海"
+          "title": "蘋果、小米、華為摺疊機「三國殺」，貴鬆鬆到底誰在買？",
+          "link": "https://www.gvm.com.tw/article/133031",
+          "published": "2026-09-14T18:06:00",
+          "summary": "72小時內，蘋果、小米、華為輪番端出摺疊新機，三巨頭原本互相迴避鋒芒，這次卻搶著同一週亮牌，打的是其實是一場注意力爭奪戰。「開摺」後的售價是人民幣萬元起跳，換算台幣最高逼近10萬元，誰願意為這身價埋單呢？盤點全球23款摺疊機的摺法和價格後，答案藏在一份出人意料的消費者畫像裡。一場摺疊手機掀起的商戰，靜悄悄。時間軸是這樣的：9月7日下午兩點半，華為終端BG董事長余承東掏出人民幣19999元起的「三摺"
         },
         {
-          "title": "坦承自己也是平凡人！從桑德伯格到納德拉：「這2個字」才是真正領導力",
-          "link": "https://www.gvm.com.tw/article/133017",
-          "published": "2026-09-13T16:37:00",
-          "summary": "在職場上展現真誠與脆弱，究竟是建立信任的利器，還是自曝其短的危機？真正有力量的領導，不是把情緒藏起來，而是懂得在真實與專業之間拿捏分寸。臉書前營運長雪柔・桑德伯格、微軟執行長薩蒂亞・納德拉等知名領導者的真實經驗，教你如何在職場走好這條「真實的鋼索」，打造更有同理心的團隊氛圍。（本文節錄自《情緒過勞》一書，作者：迪娜．鄧翰．史密斯，艾莉西亞．格蘭迪／天下文化出版，以下為摘文。）臉書前營運長雪柔・桑德"
+          "title": "【百年世家】153年不上市、獲利九成回投，科勒憑什麼富過四代？",
+          "link": "https://www.gvm.com.tw/article/133030",
+          "published": "2026-09-14T15:36:00",
+          "summary": "美國科勒家族第五代正式進入集團工作，「未來少主」到美國總部報到的第一天，董事長大衛．科勒本人卻身在台北。這家153年老字號的世界廚衛龍頭，靠獲利九成回投、不上市的家族紀律，打破「富不過三代」魔咒。如今正考驗著下一代能否經得起同樣的磨練。就在美國百年廚衛龍頭、科勒（Kohler）第五代正式在集團內走馬上任的這一天，現任董事長大衛．科勒（David Kohler）卻現身在數千公里之外的台北街頭。難道這"
         },
         {
-          "title": "栽培多年愛將突然跳槽同業？老闆與高階主管必學的「3種人資決策」",
-          "link": "https://www.gvm.com.tw/article/133016",
-          "published": "2026-09-13T16:06:00",
-          "summary": "辛苦培養多年的核心人才，突然被同業挖走，老闆該怎麼辦？人才流動無法避免，真正危險的從來不是一個人離職，而是公司沒有第二個人能接手。企業的人才培養，不能只押寶單一精英，而要建立多點培養的接班梯隊。從年輕人才到主管接班，如何降低關鍵人才離職帶來的組織風險，是每位經營者都必須面對的課題。（本文節錄自《台北街角解憂故事》一書，作者：王學呈／商周出版，以下為摘文。）我們在台大碰頭，聊聊近況。校園繁花盛開。他"
+          "title": "習近平有異狀？金磚峰會莫迪中斷致詞連問「還好嗎？」",
+          "link": "https://www.gvm.com.tw/article/133029",
+          "published": "2026-09-14T15:29:00",
+          "summary": "印度總理莫迪（Narendra Modi）在金磚國家（BRICS）峰會發表開幕致詞時，注意到中國國家主席習近平似有異狀，兩度中斷演說，詢問「還好嗎？」另外，習近平在會議結束後，並未參加晚宴，兩起事件的原因均未獲官方證實。金磚國家峰會及相關活動，12日在印度新德里的印度會議中心（Bharat Mandapam）展開，金磚國家今年由印度擔任輪值主席國，這讓習近平繼2019年後，於12日再度踏上印度，他"
         },
         {
-          "title": "定期定額也有缺點？上班族沒空看盤怎麼辦？投資專家破解新手最常見迷思",
-          "link": "https://www.gvm.com.tw/article/133015",
-          "published": "2026-09-13T15:48:00",
-          "summary": "現在是高點嗎？是不是不該進場？現在是低點嗎？是不是可以進場了？相信這是不少上班族的心聲，尤其上班忙碌更是抽不出時間盯盤或研究財報，這時就很適用「每隔一定時間，購買相同金額」的「定期定額」投資。選擇標的應具備長期向上趨勢、屬產業龍頭、流動性高的特徵，才能累積報酬，如元大台灣50（0050）、富邦台50（006208）、台積電（2330）等。（本文節錄自《一直盈 股市必勝法》一書，作者：鍾國忠／幸福文"
+          "title": "工作12年沒出過錯，升遷卻始終輪不到她？別把公司待成「感業寺」",
+          "link": "https://www.gvm.com.tw/article/133028",
+          "published": "2026-09-14T15:04:00",
+          "summary": "勞動部2026年公布的調查顯示，在對工作不滿意的勞工中，有75.5％最不滿「人事考核升遷制度」，高居第一。女性在職場上因性別感受到不平等待遇，則以「工作分配」與「調薪幅度」最高，兩者皆為2.5％；2025年台灣女性平均時薪，也仍比男性低16.1％。一千多年前的武則天，也碰到了類似的問題。（本文節錄自《武則天攻略》一書，作者：吳淡如，時報出版，以下為摘文。）武則天14歲進宮，靠著自己的工作能力在宮中"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "富邦人壽綠色金融投資近2兆，盼2050年<b>淨零</b>排放 - MoneyDJ理財網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.moneydj.com/f1a.aspx%3Fa%3Dc514d874-85e7-4913-ae7d-70810ae95a25&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0-QYhu_rCqMYaP1suSjzRg",
-          "published": "2026-09-14T04:20:03+00:00",
-          "summary": "MoneyDJ新聞2026-09-14 11:40:46 新聞中心發佈. 富邦人壽今(14)日發布《2025年永續報告書》，完整揭露環境、社會與公司治理三大面向成果。"
+          "title": "特朗普自詡AI睿智護欄桑德斯籲美中締約 - 中國評論新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.crntt.com/doc/1_0_107233967_1_0915100126.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3oq6RBgjAyppiQ-Bm5rWOW",
+          "published": "2026-09-15T02:03:52+00:00",
+          "summary": "特朗普另一條帖子稱：“人工智能統治世界、毀滅人類以及所有其他壞事都是騙局。”他又暗示，那些呼籲對人工智能技術設置限制的人也曾警告過氣候變化，而他也稱氣候&nbsp;..."
         },
         {
-          "title": "儘管全球氣候行動面臨阻力，新加坡對實現<b>淨零</b>碳排放目標承諾依然堅定 - Yahoo股市",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E5%2584%2598%25E7%25AE%25A1%25E5%2585%25A8%25E7%2590%2583%25E6%25B0%25A3%25E5%2580%2599%25E8%25A1%258C%25E5%258B%2595%25E9%259D%25A2%25E8%2587%25A8%25E9%2598%25BB%25E5%258A%259B-%25E6%2596%25B0%25E5%258A%25A0%25E5%259D%25A1%25E5%25B0%258D%25E5%25AF%25A6%25E7%258F%25BE%25E6%25B7%25A8%25E9%259B%25B6%25E7%25A2%25B3%25E6%258E%2592%25E6%2594%25BE%25E7%259B%25AE%25E6%25A8%2599%25E6%2589%25BF%25E8%25AB%25BE%25E4%25BE%259D%25E7%2584%25B6%25E5%25A0%2585%25E5%25AE%259A-024600204.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw253YeUryneeWPA-BRC5YVw",
-          "published": "2026-09-14T03:52:55+00:00",
-          "summary": "儘管全球氣候行動面臨阻力，新加坡對實現淨零碳排放目標的承諾依然堅定一、依據新加坡聯合早報本（2026）年9月11日報導，星國交通部長兼財政部第二部長&nbsp;..."
+          "title": "從“用能”到“產能”，東風汽車“天<b>淨零</b>碳”等三大計劃發布",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=http://hb.people.com.cn/BIG5/n2/2026/0915/c406123-41696420.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3z9WxdZbXUZS2XADyJJG3I",
+          "published": "2026-09-15T01:51:34+00:00",
+          "summary": "東風天淨零碳合作伙伴計劃暨東風汽車第十屆科技創新周”啟動。受訪者供圖9月14日，以“東方風起智繪新生活”為主題的東風汽車第十屆科技創新周在武漢開幕。"
         },
         {
-          "title": "黃柏霖推動運具總量管理加速低碳交通轉型 - PCHOME NEWS",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/living/focusnews/20260913/index-78930923441626302009.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3vzZVGFtBJmW6loe4871lK",
-          "published": "2026-09-14T02:51:59+00:00",
-          "summary": "高雄雖然近年積極發展捷運路網、推動「淨零城市自治條例」與綠色交通，但要真正達成民團訴求中的「雙零交通（零死亡、淨零碳排）」與「運具總量管理」的目標仍有&nbsp;..."
+          "title": "下載「環境部<b>淨零</b>綠領人才培育課程」合格證明有困難？ 國環院「綠領人才資訊平臺」刊登問題 ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14108&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3gC1eLEtJKL20VrhV876Zz",
+          "published": "2026-09-15T01:34:47+00:00",
+          "summary": "環境部淨零綠領人才培育課程」今年第二次全國集中測驗成績已於上週日公布，即日起開放900名參加測驗學員自行下載成績單及合格證明。主辦單位國家環境研究&nbsp;..."
         },
         {
-          "title": "鳳梨葉變纖維、蚵殼變循環紗雲林農業剩餘資材轉出綠色新價值 - 蕃新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20260913382394&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3kZQfqoH4Xj7e6slSiXcIR",
-          "published": "2026-09-14T02:45:03+00:00",
-          "summary": "報新聞/編輯部面對氣候變遷與2050淨零轉型趨勢，農業不只是需要因應氣候衝擊的產業，更是地方推動減碳."
+          "title": "ADB提供越南融資於灌溉現代化建設，強化... | 經貿透視雙周刊",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.trademag.org.tw/page/newsid1/%3Fid%3D7929975%26iz%3D6&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2bp05BUVNNxUK5LHuSIdxl",
+          "published": "2026-09-15T01:23:33+00:00",
+          "summary": "亞洲開發銀行(ADB)於2026年9月3日與越南政府簽署總額4,276萬美元融資計畫，協助越南建設現代化灌溉系統，提升農民因應氣候變遷及水資源壓力之韌性。該計畫&nbsp;..."
         },
         {
-          "title": "守護家園從行動做起高雄郵局攜手社區共創永續好生活",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://life.tw/article/%25E5%25AE%2588%25E8%25AD%25B7%25E5%25AE%25B6%25E5%259C%2592%25E5%25BE%259E%25E8%25A1%258C%25E5%258B%2595%25E5%2581%259A%25E8%25B5%25B7-%25E9%25AB%2598%25E9%259B%2584%25E9%2583%25B5%25E5%25B1%2580%25E6%2594%259C%25E6%2589%258B%25E7%25A4%25BE%25E5%258D%2580%25E5%2585%25B1%25E5%2589%25B5%25E6%25B0%25B8%25E7%25BA%258C%25E5%25A5%25BD%25E7%2594%259F%25E6%25B4%25BB-3148117&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3nrYYqAXQRQJZbqswPiraJ",
-          "published": "2026-09-14T02:17:38+00:00",
-          "summary": "高雄郵局響應ESG理念，舉辦「中華郵政清淨家園」活動，結合員工生日會，展現企業社會責任。"
+          "title": "華航拚<b>淨零</b>長程首用40% SAF 一趟減碳93.2噸 - 國泰證券",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20260914%26CSeqNO%3DE9753942&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw185-PNFParHxT6pJDE8xQk",
+          "published": "2026-09-14T22:05:08+00:00",
+          "summary": "自2022年迄今，華航共完成8趟次示範航班，累計減少至少600公噸碳排放，展現跨夥伴協作推動低碳運輸的決心及成果。 華航長期推動永續航空燃油使用，近年已陸續&nbsp;..."
         },
         {
-          "title": "氣象賦能美麗中國法治守護綠水青山",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=http://cpc.people.com.cn/BIG5/n1/2026/0914/c64387-40798115.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1TJzwIR7jrO2NoyacBXiVe",
-          "published": "2026-09-14T00:44:07+00:00",
-          "summary": "法典有8條10處直接提及“氣象”，有多條涉及“天氣”“氣候”“氣候變化”等氣象相關內容。 ... 碳中和工作落地見效。 堅持學用貫通，推動法典制度規定轉化為治理&nbsp;..."
+          "title": "莊琇媛：混合金融扮<b>淨零</b>轉型要角 - 工商時報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260915700075-439901&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2vNPK__scd8yo9dOf0t8LM",
+          "published": "2026-09-14T19:07:38+00:00",
+          "summary": "尤其再生能源、儲能、深度節能、低碳科技、循環經濟及氣候調適等領域，都是將永續政策轉化為可投資的案例。目前台灣已累積公私協力共同投資與永續金融的基礎，&nbsp;..."
         }
       ]
     }
