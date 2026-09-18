@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-09-17T05:48:03.769934+00:00",
-    "date": "2026-09-17",
+    "generated_at": "2026-09-18T05:34:38.827580+00:00",
+    "date": "2026-09-18",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "AI Agent 越界不再等查完才說，OpenAI 再公開 6 起新案例、首推失準事件揭露框架",
-          "link": "https://techorange.com/2026/09/17/openai-framework-for-reporting-model-misalignment/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-17T04:34:10+00:00",
-          "summary": "OpenAI 先前預告的 AI 異常行為揭露制度正式出爐。9 月初「Wiki 事件」曝光後，OpenAI 曾表示，過去主要把模型失準（model misalignment）視為研究問題，缺乏固定的公開機制，因此預告將建立新的揭露框架。不到兩週，OpenAI 便正式公布「模型失準事件揭露框架」（Model Misalignment Reporting Framework），並一次公開過去半年觀察到的"
+          "title": "「帶著你的點子來！」專訪 Agentic AI on the Edge HACKATHON 技術工作坊講師曾吉弘，談 NVIDIA 技術資源與賽前準備",
+          "link": "https://techorange.com/2026/09/18/nvidia-agentic-ai-edge-hackathon/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-18T04:49:07+00:00",
+          "summary": "由 NVIDIA 擔任 AI 技術協辦單位的 AI 代理邊緣黑客松大賽【2026 Agentic AI on the Edge HACKATHON】將於 10 月底登場，邀請開發者、IT 人員與新創團隊，在低延遲、無網 / 弱網環境、隱私資料保護等邊緣場景中，打造能自主規劃、執行與修正，真正走進現實世界的 Agentic AI。 TechOrange 在會前採訪黑客松主辦單位翰尼斯企業成員暨技術工"
         },
         {
-          "title": "X 升級 Cashtag 串接五大券商與交易所：討論直接變下單，背後仍有未解難題",
-          "link": "https://techorange.com/2026/09/17/x-users-trade-via-cashtags/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-17T04:28:32+00:00",
-          "summary": "X 宣布把交易功能整合進社群平台。Elon Musk 旗下 X 近日推出 Cashtag 新功能，美國用戶現在即可透過合作券商，直接從 X 上查看股票資訊並進行交易。首批合作夥伴包括 Interactive Brokers、Moomoo、Gemini、Kraken 與 Coinbase，涵蓋股票證券經紀商及加密貨幣交易平台。 不再只是討論標籤：X 升級 Cashtag 功能，點擊股票代號即可串接券"
+          "title": "「AI 開發 AI」到底進展多快？Anthropic 首度公布三大衡量指標",
+          "link": "https://techorange.com/2026/09/18/anthropic-measurements-the-pace-of-ai-development/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-18T03:57:12+00:00",
+          "summary": "AI 發展得太快了嗎？人們越來越擔心，AI 可能很快就會發展成幾乎不需人類干預就能自我發展的地步。Anthropic 執行長 Dario Amodei 近日呼籲前沿 AI 公司討論放慢模型能力進步速度，並主張引入獨立第三方評估者。與此同時，前沿 AI 公司也開始增加外界看見內部風險的方式。 OpenAI 美國時間 9/16 公布新的模型異常行為揭露框架，承諾更有系統地公開模型出現未授權或其他值得關"
         },
         {
-          "title": "【巨頭搶聘 FDE 前線部署工程師】需求暴增是雙面指標，企業評估績效該看能否自主營運",
-          "link": "https://techorange.com/2026/09/17/deployed-engineers-around-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-17T01:46:50+00:00",
-          "summary": "生成式 AI 的競爭，正在從模型能力轉向企業部署。AWS 之前宣布投入 10 億美元成立專責組織，計畫派遣數千名工程師深入客戶現場；微軟則準備為新的 AI 交付部門投資 35 億美元、招募 6,000 人。 OpenAI 也成立專門的部署公司，並同意收購英國 AI 顧問與工程公司 Tomoro，增加約 150 名「前線部署工程師」（Forward Deployed Engineer，FDE）及部署"
+          "title": "OpenAI 推 Astra for Law：判例多找 24%、正確率大勝通用模型，法律 AI 開打",
+          "link": "https://techorange.com/2026/09/18/openai-astra-law-source-chatgpt/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-18T02:48:28+00:00",
+          "summary": "OpenAI Group PBC 宣布推出 Astra for Law，將 GPT-6 Astra 結合法律搜尋索引與法律分析的指令，針對法律研究與文件起草需求提供給律師事務所及法律科技軟體公司使用。Astra for Law 並非全新的模型，而是以 GPT-6 Astra 為基礎打造的法律專用版本。 奠基於 GPT-6 基礎：Astra for Law 強化法律依據檢索與段落定位能力 《Sili"
         },
         {
-          "title": "勞斯萊斯用代理式 AI 大改造 IT：MTTR 從 6 天砍到 1 天、38,000 張工單自動分流",
-          "link": "https://techorange.com/2026/09/17/ai-control-tower-rolls-royce-servicenow/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-16T22:38:00+00:00",
-          "summary": "對航空引擎製造商而言，IT 系統異常影響的不只是員工能否順利工作，更直接牽動生產線的運作效率。英國航空引擎巨頭勞斯萊斯（Rolls-Royce）近年將代理式 AI（Agentic AI）與預測性智慧導入企業 IT 服務，打破長期累積的系統複雜度、資料孤島與重複性工作。 據官方案例顯示，這項轉型已將平均修復時間（MTTR）從 6 天縮短至 1 天，54% 的 IT 查詢無須人工介入，單是在生產現場（"
+          "title": "【洗碗影片＝機器人訓練資料】Figure 砸 10 億美元蒐集真實數據，瞄準家用機器人市場",
+          "link": "https://techorange.com/2026/09/18/figure-index-human-train-ai-robot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-18T02:00:31+00:00",
+          "summary": "Figure 推出零工經濟平台 Index，透過佩戴攝影機的人類工作者，以影像記錄家事任務，藉此取得大量資料投入人形機器人訓練，並預期支出 10 億美元換取真實世界數據。"
         },
         {
-          "title": "【科技早餐】OpenAI 傳洽談新募資，上市前估值上看 1.2 兆美元",
-          "link": "https://techorange.com/2026/09/17/openai-pre-ipo-funding-1-2-trillion-valuation/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-16T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊OpenAI 傳洽談新募資，上市前估值上看 1.2 兆美元 《金融時報》引述知情人士報導，OpenAI 最近與大型投資人接觸，討論在上市前進行新一輪募資，潛在估值約為 1.2 兆美元。相關對話仍處初期，且由投資人主動發起，募資規模尚未確定，估值也可能在未來幾個月改變；OpenAI 拒絕評論。公司今年 3 月完成一輪包含 1,220 億美元承諾資本"
+          "title": "AI 代理怎麼顧好 1,800 家門市評論？美國連鎖美髮龍頭把回覆率衝上 98%",
+          "link": "https://techorange.com/2026/09/18/agentic-ai-localize-customer-engagement/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-17T22:11:00+00:00",
+          "summary": "對擁有數百甚至上千家門市的連鎖品牌而言，Google 與 Yelp 等平台上的顧客評論早已不只是客服工作，更是影響消費者選擇門市、反映線下營運問題的關鍵。然而，隨著展店速度加快，總部若要維持每家分店的評論品質、搜尋曝光與數據分析，傳統的人力維運模式將難以為繼。 生成式 AI 正徹底翻轉這項局限。AI 的角色已從單純「輔助寫作」進化為自主運作的「門市數位代理人」，能直接執行評論維運、在地 SEO 優"
         },
         {
-          "title": "AI 叢集 ROI 關鍵在傳輸效率？英特爾前員工創 Delos Data 募逾 1 億美元",
-          "link": "https://techorange.com/2026/09/16/delos-data-efficient-ai-capacity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-16T08:56:40+00:00",
-          "summary": "由英特爾前員工創立的 AI 基礎架構新創 Delos Data 近日宣布，已完成 1 億美元募資，將投入開發網路晶片與軟體，提升 AI 資料中心內部的資料傳輸效率。《Reuters》報導，隨著 AI 資料中心的運算架構日益複雜，如何讓不同種類的運算晶片高速交換資料，成為影響整體運算效率的重要因素。 此次募資由創投與科技投資機構參與，包括深科技創投公司 Playground、半導體領域創投 Socr"
+          "title": "【科技早餐】華邦電 11.2 億美元簽約收購英飛凌記憶體事業，Apple 傳重返企業伺服器市場",
+          "link": "https://techorange.com/2026/09/18/winbond-infineon-memory-deal-apple-ai-server/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-17T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊華邦電 11.2 億美元簽約收購英飛凌記憶體事業，Spansion 將重啟 華邦電子（Winbond）宣布，已與英飛凌（Infineon Technologies）旗下 Infineon Technologies LLC 簽署股份購買協議，將以全現金取得英飛凌 NOR Flash 與 F-RAM 事業百分之百股權。基礎交易價格為 11.2 億美元"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "國銀獲利衝新高！KPMG：高資產規模跨過2兆、虛擬資產揭開新戰局",
-          "link": "https://www.gvm.com.tw/article/133083",
-          "published": "2026-09-16T18:33:00",
-          "summary": "KPMG安侯建業16日發布報告，2025年國銀稅前盈餘達5836億元新高。受惠出口拉動授信、財管2.0規模突破2兆元，銀行正加速布局家族辦公室與虛擬資產保管新戰場。本國銀行獲利寫下歷史新頁。KPMG安侯建業今（16）日發布《2026臺灣銀行業報告》指出，2025年國銀營收突破4兆元、稅前盈餘達5,836億元，年增10.7％；資產報酬率（ROA）升至0.78%、淨值報酬率（ROE）達10.83%，雙"
+          "title": "生病、失能、傳承的人生課題，老後生活誰來接住？ 中國信託銀行為不同家庭型態提出安心解方",
+          "link": "https://www.gvm.com.tw/article/132692",
+          "published": "2026-09-18T00:00:00",
+          "summary": "家庭關係可以帶來支持，卻不會自動完成退休、照護與傳承等財務安排。單身無子女者要讓生活中的重要關係獲得制度支持；已婚有子女者也要避免把期待默默留給下一代。無論家中有幾個人，真正的安心都始於把未來想清楚、說明白。乾兒子陪到最後，為何法律看見的卻是手足？一位未婚、沒有子女的資深男藝人，晚年由乾兒子陪伴生活。他生前曾表示，希望將辛苦累積的財產留給乾兒子，不讓關係疏遠的手足取得；但在他離世後，乾兒子能否承接"
         },
         {
-          "title": "矽光子下一站：自駕車眼睛、生醫感測晶片與無人機羅盤？",
-          "link": "https://www.gvm.com.tw/article/133082",
-          "published": "2026-09-16T18:09:00",
-          "summary": "在生成式AI帶動下，半導體產業焦點多集中於資料中心伺服器的「光進銅退」。然而，受限於雲端大廠的高度集中與嚴格價格要求，伺服器光互連已面臨激烈競爭，事實上，矽光子的商業潛力不僅限於伺服器傳輸，還有三大方向：自駕、生醫與國防都有可能點燃新一波產業商機。根據歐洲光子聯盟Photonics21統計，全球約8650億美元的光子母市場正逐步推動晶片化。光學儀器能夠透過半導體製程微縮成晶片，便有機會從當前炙手可"
+          "title": "薪資低於平均比率首破七成，AI時代我們正走向K型的哪一端？",
+          "link": "https://www.gvm.com.tw/article/133104",
+          "published": "2026-09-17T17:43:00",
+          "summary": "今年1至6月總薪資低於平均數員工比率，首次突破七成大關，意味有七成受僱員工領不到平均薪資水準，台灣人才市場K型化危機正浮現？此外，黃仁勳指出AI下一波熱潮是資安？以上兩種說法，剛赴美交流回台的iKala程世嘉都認同。他表示當AI正拆掉新人的練功房、台灣人才市場K型化會日益明顯、但中階主管也有消失危機。另外，當Anthropic離職員工擔憂AI難駕馭，資安確實日益重要。程世嘉完整剖析當今職場生存護城"
         },
         {
-          "title": "女主外，男主內：台灣夫妻檔把「豪宅AI」做進泰國富豪的曼谷一號",
-          "link": "https://www.gvm.com.tw/article/133081",
-          "published": "2026-09-16T17:52:00",
-          "summary": "「Light！」對空氣喊一聲，燈就亮了。泰國富豪的商業地產開發案「曼谷一號」，導入了AI智慧居家系統，操刀者卻是一對台灣夫妻。老公「主內」打磨技術，老婆「主外」征戰市場。這套反轉分工，怎麼讓台灣AI軟體公司騰雲科技（6870）攻進東南亞頂級豪宅？「我主外，他主內。」騰雲科技（6870）執行副總張婷婷笑吟吟說道。坐在一旁的另一半、騰雲科技董事長梁基文跟著點點頭，沒有提出異議。迥異於傳統家庭的「男主外"
+          "title": "沒跟進Fed升息！央行利率「連10凍」，鬆綁房市管制",
+          "link": "https://www.gvm.com.tw/article/133102",
+          "published": "2026-09-17T17:30:00",
+          "summary": "中央銀行今天舉行第3季理監事會決議利率維持不變、「連10凍」；央行並鬆綁房市管制措施，調整自然人第2戶購屋貸款最高成數上限，由6成調升為7成，同時購地貸款也有所鬆綁。央行也上修今年全年經濟成長率至11.48%，估明年經濟成長率為5.82%；2026年消費者物價上漲率（CPI）突破2%、達2.03%，估明年為1.83%中東緊張局勢持續，推升國際能源價格，也加重通膨壓力。美國聯邦準備理事會（Fed）於"
         },
         {
-          "title": "幸福人生最大的祕密，其實一直都沒變！研究揭開真正重要的5個關鍵",
-          "link": "https://www.gvm.com.tw/article/133075",
-          "published": "2026-09-16T17:45:00",
-          "summary": "這項跨越數十年的研究，讓我們一起看看幸福人生最重要的5個關鍵。人的一生，究竟要擁有什麼，才算真正幸福？年輕的時候，也許總以為幸福在未來。等到找到一份更好的工作、賺到更多錢、買下理想的房子，甚至終於成為自己想像中的模樣，人生似乎就會從此圓滿。然而，當真的得到曾經渴望的一切，卻可能慢慢發現，幸福從來沒有一個可以抵達的終點。從1938年開始，哈佛大學展開一項歷時數十年的發展研究，長期追蹤不同人生背景的人"
+          "title": "《惡靈古堡：爆發夜》是電玩改編史上最完美神作！札克克瑞格拍出「玩遊戲」氛圍的5大精彩看點",
+          "link": "https://www.gvm.com.tw/article/133097",
+          "published": "2026-09-17T16:56:00",
+          "summary": "電影《惡靈古堡：爆發夜》由《宿劫》、《凶器》導演札克克瑞格執導、編劇，找來曾與他在《凶器》合作的奧斯汀亞布蘭斯領銜主演。這次的《惡靈古堡》不再重拍任何一款遊戲，而是從一名再普通不過的小人物開始。在獨特的氣氛營造下，《惡靈古堡：爆發夜》獲得了系列IP改編電影的最高評價，也堪稱史上最完美的電玩改編作品。1996年，卡普空推出首款《惡靈古堡》（Resident Evil）作品，以陰暗封閉的空間、無盡的喪"
         },
         {
-          "title": "AAA2026卡司一覽！9/17拓元搶先購、9/19全面開賣，票價、座位圖、搶票攻略一次看",
-          "link": "https://www.gvm.com.tw/article/133077",
-          "published": "2026-09-16T16:39:00",
-          "summary": "亞洲跨界盛典「Asia Artist Awards（AAA）」第11屆將於2026年12月5日（六）、6日（日）連續兩天重返高雄國家體育場（世運主場館）！9月15日主辦單位正式公布兩日完整分日卡司，超過60組歌手與演員齊聚高雄，主持陣容由台南女兒TWICE周子瑜、韓國天后IVE張員瑛、池昌旭、成韓彬四人領銜，精采程度更勝去年！一般門票演唱會票價NT$1,980起，9月19日（六）下午1點透過拓元售"
+          "title": "美台密推的「地獄景象」是什麼？《經濟學人》：台灣無人載具產能不足成隱憂",
+          "link": "https://www.gvm.com.tw/article/133101",
+          "published": "2026-09-17T16:17:00",
+          "summary": "外媒報導，美台軍方正低調推動「地獄景象」作戰構想，計劃以大量無人機封鎖台灣海峽，結合AI自主辨識攻擊中國艦艇，不僅提高共軍攻台代價，同時爭取美軍馳援時間。「經濟學人」報導，美台軍方共同推動的「地獄景象」（Hellscape）作戰構想，最初始於拜登政府任內，主要借鏡烏克蘭與伊朗的實戰經驗，運用大量低技術門檻無人機結合AI技術，消耗解放軍攔截彈並重創登陸艦隊。在作戰設計上，即使共軍切斷或干擾通訊，無人"
         },
         {
-          "title": "川習會24日登場！美議員籲川普表明「不容武力改變台灣現狀」",
-          "link": "https://www.gvm.com.tw/article/133076",
-          "published": "2026-09-16T16:19:00",
-          "summary": "川習會預計24日登場，美國聯邦參議員芮基茲今天表示，美國總統川普應當在美國立場沒有改變的脈絡下討論台灣議題，並表明，華府不容許以武力改變台灣現狀。芮基茲也說，美國的目標是避免戰爭，美中若發生戰爭對誰都沒好處。川普（Donald Trump）預計24日在白宮與來訪的中國國家主席習近平舉行峰會之際，美國聯邦參議院外交委員會亞太小組主席、共和黨籍參議員芮基茲（Pete Ricketts）今天下午出席華府"
+          "title": "新光三越入主北車只是第一步！力拚重返店王寶座，吳昕陽拋「樞紐經濟」是什麼？",
+          "link": "https://www.gvm.com.tw/article/133100",
+          "published": "2026-09-17T15:55:00",
+          "summary": "百貨龍頭新光三越今（17）日公布前8月業績，較去年同期增近三成、台中中港店業績已回到2024年95%水準，重返店王寶座在望。新光三越斥資10億入主北車商場改造，副董吳昕陽拋出「樞紐經濟」，如何拚出千億業績？回顧今年上半年營運表現，新光三越副董事長吳昕陽指出，集團年初設定朝「穩健致遠」前進，今年1至8月全台業績受惠於台中中港店復業帶動，整體年增近三成，中港店業績已回到2024 年95% 水準，力拚今"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "新聞訊息| 海洋酸化恐讓烏賊大腦縮小中研院揭<b>氣候變遷</b>下的神經衝擊",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sinica.edu.tw/news_content/55/3959&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw29y3Owr6r7Jd55fOpJ82KI",
-          "published": "2026-09-17T02:40:11+00:00",
-          "summary": "氣候變遷導致海洋吸收大量二氧化碳，造成全球海洋酸化持續加劇。中央研究院細胞與個體生物學研究所曾庸哲副研究員領軍的國際團隊，發現長期暴露於酸化海水中&nbsp;..."
+          "title": "桃園環保局獲環境部肯定總成績連續五年勇奪特優務實精進低碳循環與科技稽查",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tycg.gov.tw/NewsPage_Content.aspx%3Fn%3D7%26s%3D1875102&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0tIEWg8riV0HQbjCDj4zv2",
+          "published": "2026-09-18T03:22:01+00:00",
+          "summary": "... 氣候變遷行動考核」等5 項勇奪最高榮譽特優獎；另於「環境影響評估與環境教育考核」、「空氣品質維護與噪音管制績效考核」、「水污染防治績效考核」、「淨零&nbsp;..."
         },
         {
-          "title": "尼泊爾冰川崩塌釀重大傷亡科學家直指<b>氣候變遷</b>是主因 - 民視新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ftvnews.com.tw/news/detail/2026917W0136&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1BK4KPhXbdBrvqrjxKkWbe",
-          "published": "2026-09-17T02:34:13+00:00",
-          "summary": "Reuters 路透社報導尼泊爾與西藏交&nbsp;..."
+          "title": "公有建築能效升級睿田能源以彩繪光電串起國際、綠色輸出與金融支持 - 中央社",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/business/chinese/444552&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2W1lgkl-1ya2AnPdCujVAU",
+          "published": "2026-09-18T02:55:48+00:00",
+          "summary": "... 設計與系統導入、智慧監測與維運，以及ESG／碳資訊揭露，以可驗證數據協助業主達成淨零建築與城市低碳轉型。 訊息來源：睿田能源股份有限公司. 更多訊息. 睿&nbsp;..."
         },
         {
-          "title": "國環院與建研所「近零碳建築綠領人才培育課程」爆棚開課參加學員數為預計招生數6倍",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14128&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0OsA23vZeoB1sESXyQ26uG",
-          "published": "2026-09-17T02:16:26+00:00",
-          "summary": "他進一步說明，近零碳建築再依建築條件導入太陽光電、儲能或其他零碳再生能源，逐步平衡剩餘用電，取得淨零建築標示。 為回應廣大需求，國環院與建研所將於11 月&nbsp;..."
+          "title": "港燈：為香港邁向<b>碳中和</b>提供更清晰路向，反映推動能源轉型和綠色發展決心 - etnet 經濟通",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.etnet.com.hk/www/tc/news/news-article.php%3Fsection%3Dspecial%26category%3D%25E6%2596%25BD%25E6%2594%25BF%25E8%25BF%25B4%25E9%259F%25BF%26newsid%3D20260918491&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3lsc54y0vZ03FJ91VVewfa",
+          "published": "2026-09-18T02:21:21+00:00",
+          "summary": "【施政迴響】港燈：為香港邁向碳中和提供更清晰路向，反映推動能源轉型和綠色發展決心. 最新. 人氣. etnet TV. 財經新聞. 評論. 專題透視. 生活. DIVA."
         },
         {
-          "title": "台水持續推動光電與小水力發電朝<b>淨零</b>排放目標邁進| 青年日報 - LINE TODAY",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/LXyx8zM&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3pAD5hjsCqkGQcAJIDhcp9",
-          "published": "2026-09-16T23:18:36+00:00",
-          "summary": "記者吳典叡／臺北報導台灣自來水公司今（16）日指出，為多元利用土地，將供水設施轉化為綠能場域，截至今年6月底，台水已建置約72MW太陽光電..."
+          "title": "港燈：為香港邁向<b>碳中和</b>提供更清晰路向，反映推動能源轉型和綠色發展決心 - etnet 經濟通",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.etnet.com.hk/www/tc/news/news-article.php%3Fsection%3Dcategorized%26category%3Dlatest%26newsid%3D20260918491&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3J4ccrQ57h9bw3O_iw3glz",
+          "published": "2026-09-18T02:21:01+00:00",
+          "summary": "ET Net Limited is not soliciting any subscriber or site visitor to execute any trade. Any trades executed following the commentaries and buy/sell&nbsp;..."
         },
         {
-          "title": "首君落實永續作為攜供應鏈減碳<b>淨零</b>|半導體|產業新聞|產科國際所【IEK產業情報網】",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D5%26nsl_id%3D15b9a1a05f724f0c8e51c447c763775f&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0mbtJj85FHl46ZbpL13aT8",
-          "published": "2026-09-16T22:44:50+00:00",
-          "summary": "... 淨零轉型，不僅完成企業碳管理制度建置， ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
+          "title": "苗栗環保績效獲中央4項優等水質改善、綠色消費與氣候行動受肯定 - 是新聞YesMedia",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.yesmedia.com.tw/%25E8%258B%2597%25E6%25A0%2597%25E7%2592%25B0%25E4%25BF%259D%25E7%25B8%25BE%25E6%2595%2588%25E7%258D%25B2%25E4%25B8%25AD%25E5%25A4%25AE4%25E9%25A0%2585%25E5%2584%25AA%25E7%25AD%2589%25E3%2580%2580%25E6%25B0%25B4%25E8%25B3%25AA%25E6%2594%25B9%25E5%2596%2584%25E3%2580%2581%25E7%25B6%25A0%25E8%2589%25B2%25E6%25B6%2588%25E8%25B2%25BB/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1yTnpwhmZ4807evGIIqZzc",
+          "published": "2026-09-18T02:18:16+00:00",
+          "summary": "環境部9月17日舉行「114年度環保績效考核績優機關頒獎典禮」，苗栗縣政府一舉獲得水污染防治、淨零綠生活及綜合業務、毒物及化學物質管理，以及推動因應氣候&nbsp;..."
         },
         {
-          "title": "AI賦能創新，中小微企業以技術力挑戰永續轉型 - 經濟部",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.moea.gov.tw/Mns/populace/news/EpaperDetail.aspx%3Fvolume%3D20260916&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3qGNX5UqRDtZhHKECoLW2s",
-          "published": "2026-09-16T19:36:53+00:00",
-          "summary": "台灣自來水公司今(16)日表示，面對供水設施更新、能源與物料成本持續上升等經營挑戰，積極推動資產活化與淨零轉型，將既有供水設施及低度利用土地轉化為綠能、&nbsp;..."
+          "title": "亞總與中經院攜手開創ESG新商機助力亞洲臺商<b>淨零</b>轉型 - 中華民國僑務委員會",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ocac.gov.tw/OCAC/Pages/Detail.aspx%3Fnodeid%3D346%26pid%3D90638125&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0GIQMyw1zHnsarUM4wdM55",
+          "published": "2026-09-18T02:12:52+00:00",
+          "summary": "僑委會僑商處處長莊雅淑（左一）及亞總ESG主任委員郭修敏(右一)，見證亞洲臺灣商會聯合總會總會長俞秀霞（左二）與中華經濟研究院院長連賢明（右二）簽署&nbsp;..."
         }
       ]
     }
