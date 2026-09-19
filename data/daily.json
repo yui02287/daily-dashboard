@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-09-18T05:34:38.827580+00:00",
-    "date": "2026-09-18",
+    "generated_at": "2026-09-19T05:30:48.234222+00:00",
+    "date": "2026-09-19",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -11,6 +11,24 @@
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
       "items": [
+        {
+          "title": "【全球 900+ IT 高管報告】雲端與 AI 時代新規：49.1% 企業為導入 AI 加速上雲，IT 拚的不是客製軟體而是資料整合",
+          "link": "https://techorange.com/2026/09/19/transformations-studie-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-18T22:29:00+00:00",
+          "summary": "德國的數位轉型服務公司 Natuvion 與全球 IT 服務供應商 NTT DATA Business Solutions，聯合發布《IT 轉型研究報告》（Transformations studie 2026），為確保結果能反映大型架構的真實複雜度，受訪企業特別鎖定中大型規模——77% 的公司年營收超過 3.5 億歐元，其中近 34% 更高達 10 億歐元以上；員工人數超過 1,000 人的企業"
+        },
+        {
+          "title": "全自駕計程車下一關是規模化？Waymo 加速亞洲布局：東京 2027、新加坡 2028",
+          "link": "https://techorange.com/2026/09/18/waymo-robotaxi-autonomous-ride-tokyo-singapore/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-18T10:04:13+00:00",
+          "summary": "Alphabet 旗下自駕車公司 Waymo 正加速進軍亞洲市場。Waymo 於 9 月 14 日宣布，目標在 2027 年於東京推出全自動駕駛叫車服務；9 月 17 日又宣布，計劃於 2028 年在新加坡推出全自動駕駛叫車服務，並採用全電動車隊。兩項布局相隔僅數日，分別鎖定東亞與東南亞市場。 全自駕計程車 2027 登陸東京：Waymo 攜手車隊打造 24 小時服務 《Reuters》指出，Wa"
+        },
+        {
+          "title": "舊金山軟體工程師需求跌 42%、「前線部署工程師」缺暴增近 6 倍：AI 就業兩極化成形",
+          "link": "https://techorange.com/2026/09/18/san-francisco-ai-engineers-openai-anthropic-ipos-2/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-18T07:18:55+00:00",
+          "summary": "Anthropic 與 OpenAI 即將 IPO，預期將為舊金山帶來新一波財富，但 AI 熱潮也正同步重塑當地就業市場。《Bloomberg》報導，科技公司持續爭搶能夠建構與部署 AI 的人才之際，傳統科技工作者卻面臨裁員，甚至開始思考是否要離開科技業。 軟體工程師需求慘跌 42%：加州就業市場重組，科技業新鮮人首當其衝 《Bloomberg》根據加州就業發展部（California Emplo"
+        },
         {
           "title": "「帶著你的點子來！」專訪 Agentic AI on the Edge HACKATHON 技術工作坊講師曾吉弘，談 NVIDIA 技術資源與賽前準備",
           "link": "https://techorange.com/2026/09/18/nvidia-agentic-ai-edge-hackathon/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -28,24 +46,6 @@
           "link": "https://techorange.com/2026/09/18/openai-astra-law-source-chatgpt/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
           "published": "2026-09-18T02:48:28+00:00",
           "summary": "OpenAI Group PBC 宣布推出 Astra for Law，將 GPT-6 Astra 結合法律搜尋索引與法律分析的指令，針對法律研究與文件起草需求提供給律師事務所及法律科技軟體公司使用。Astra for Law 並非全新的模型，而是以 GPT-6 Astra 為基礎打造的法律專用版本。 奠基於 GPT-6 基礎：Astra for Law 強化法律依據檢索與段落定位能力 《Sili"
-        },
-        {
-          "title": "【洗碗影片＝機器人訓練資料】Figure 砸 10 億美元蒐集真實數據，瞄準家用機器人市場",
-          "link": "https://techorange.com/2026/09/18/figure-index-human-train-ai-robot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-18T02:00:31+00:00",
-          "summary": "Figure 推出零工經濟平台 Index，透過佩戴攝影機的人類工作者，以影像記錄家事任務，藉此取得大量資料投入人形機器人訓練，並預期支出 10 億美元換取真實世界數據。"
-        },
-        {
-          "title": "AI 代理怎麼顧好 1,800 家門市評論？美國連鎖美髮龍頭把回覆率衝上 98%",
-          "link": "https://techorange.com/2026/09/18/agentic-ai-localize-customer-engagement/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-17T22:11:00+00:00",
-          "summary": "對擁有數百甚至上千家門市的連鎖品牌而言，Google 與 Yelp 等平台上的顧客評論早已不只是客服工作，更是影響消費者選擇門市、反映線下營運問題的關鍵。然而，隨著展店速度加快，總部若要維持每家分店的評論品質、搜尋曝光與數據分析，傳統的人力維運模式將難以為繼。 生成式 AI 正徹底翻轉這項局限。AI 的角色已從單純「輔助寫作」進化為自主運作的「門市數位代理人」，能直接執行評論維運、在地 SEO 優"
-        },
-        {
-          "title": "【科技早餐】華邦電 11.2 億美元簽約收購英飛凌記憶體事業，Apple 傳重返企業伺服器市場",
-          "link": "https://techorange.com/2026/09/18/winbond-infineon-memory-deal-apple-ai-server/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-17T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊華邦電 11.2 億美元簽約收購英飛凌記憶體事業，Spansion 將重啟 華邦電子（Winbond）宣布，已與英飛凌（Infineon Technologies）旗下 Infineon Technologies LLC 簽署股份購買協議，將以全現金取得英飛凌 NOR Flash 與 F-RAM 事業百分之百股權。基礎交易價格為 11.2 億美元"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "生病、失能、傳承的人生課題，老後生活誰來接住？ 中國信託銀行為不同家庭型態提出安心解方",
-          "link": "https://www.gvm.com.tw/article/132692",
-          "published": "2026-09-18T00:00:00",
-          "summary": "家庭關係可以帶來支持，卻不會自動完成退休、照護與傳承等財務安排。單身無子女者要讓生活中的重要關係獲得制度支持；已婚有子女者也要避免把期待默默留給下一代。無論家中有幾個人，真正的安心都始於把未來想清楚、說明白。乾兒子陪到最後，為何法律看見的卻是手足？一位未婚、沒有子女的資深男藝人，晚年由乾兒子陪伴生活。他生前曾表示，希望將辛苦累積的財產留給乾兒子，不讓關係疏遠的手足取得；但在他離世後，乾兒子能否承接"
+          "title": "尹衍樑逝世後首頒唐獎！尹崇堯：父親建立的制度與精神將永續傳承",
+          "link": "https://www.gvm.com.tw/article/133129",
+          "published": "2026-09-18T19:13:00",
+          "summary": "2026年第七屆唐獎頒獎典禮今（18）日於臺北表演藝術中心盛大舉行。這是唐獎創辦人尹衍樑辭世後首度頒獎，在莊重傳承的氛圍中，表彰六位得主的卓越成就。典禮開場特別播放紀念影片，向創辦人尹衍樑致敬。唐獎教育基金會董事長尹崇堯致詞表示，父親創辦唐獎，是希望透過獎勵對人類社會具重要貢獻與影響力的研究成果及實踐，引領全球永續發展，雖然父親現已離開，但他所建立的制度與精神將持續傳承，此次頒獎也是唐獎創辦理念的"
         },
         {
-          "title": "薪資低於平均比率首破七成，AI時代我們正走向K型的哪一端？",
-          "link": "https://www.gvm.com.tw/article/133104",
-          "published": "2026-09-17T17:43:00",
-          "summary": "今年1至6月總薪資低於平均數員工比率，首次突破七成大關，意味有七成受僱員工領不到平均薪資水準，台灣人才市場K型化危機正浮現？此外，黃仁勳指出AI下一波熱潮是資安？以上兩種說法，剛赴美交流回台的iKala程世嘉都認同。他表示當AI正拆掉新人的練功房、台灣人才市場K型化會日益明顯、但中階主管也有消失危機。另外，當Anthropic離職員工擔憂AI難駕馭，資安確實日益重要。程世嘉完整剖析當今職場生存護城"
+          "title": "2026國慶煙火在台東！手機與直播怎麼看？時間地點彙整",
+          "link": "https://www.gvm.com.tw/article/133136",
+          "published": "2026-09-18T18:05:00",
+          "summary": "2026年國慶煙火在台東！睽違九年再度登場；國慶晚會則首度由新北板橋承辦，台北101同步展演。無法到現場也能手機、線上直播觀看。從時間地點、南島主題設計到交通接駁，一次看懂今年國慶系列活動。【目錄】 2026國慶煙火｜時間、地點2026國慶煙火｜交通攻略2026國慶煙火｜直播轉播與手機觀賞指引2026國慶煙火｜主題「世界的方舟：南島臺灣」2026國慶晚會｜時間、地點2026國慶晚會｜交通攻略202"
         },
         {
-          "title": "沒跟進Fed升息！央行利率「連10凍」，鬆綁房市管制",
-          "link": "https://www.gvm.com.tw/article/133102",
-          "published": "2026-09-17T17:30:00",
-          "summary": "中央銀行今天舉行第3季理監事會決議利率維持不變、「連10凍」；央行並鬆綁房市管制措施，調整自然人第2戶購屋貸款最高成數上限，由6成調升為7成，同時購地貸款也有所鬆綁。央行也上修今年全年經濟成長率至11.48%，估明年經濟成長率為5.82%；2026年消費者物價上漲率（CPI）突破2%、達2.03%，估明年為1.83%中東緊張局勢持續，推升國際能源價格，也加重通膨壓力。美國聯邦準備理事會（Fed）於"
+          "title": "10月電價凍漲！經濟部：優先爭取政府撥補預算",
+          "link": "https://www.gvm.com.tw/article/133135",
+          "published": "2026-09-18T17:40:00",
+          "summary": "經濟部今天召開115年第2次電價費率審議會決議，支持優先爭取政府撥補預算新台幣711億元，本次電價調整暫不決定，留待今年12月併入第3次電價審議會審議輸配電費率時再行討論。經濟部說明，依據台電本次電價檢討案應有調幅為12.83%，主要因為燃料價格上漲導致發購電成本大幅增加。倘若今年沒發生戰爭，台電有機會保持盈餘，可逐步健全財務。審議會檢視台電各項成本控管尚屬合宜，另參考鄰近國家對中東戰爭應變作法，"
         },
         {
-          "title": "《惡靈古堡：爆發夜》是電玩改編史上最完美神作！札克克瑞格拍出「玩遊戲」氛圍的5大精彩看點",
-          "link": "https://www.gvm.com.tw/article/133097",
-          "published": "2026-09-17T16:56:00",
-          "summary": "電影《惡靈古堡：爆發夜》由《宿劫》、《凶器》導演札克克瑞格執導、編劇，找來曾與他在《凶器》合作的奧斯汀亞布蘭斯領銜主演。這次的《惡靈古堡》不再重拍任何一款遊戲，而是從一名再普通不過的小人物開始。在獨特的氣氛營造下，《惡靈古堡：爆發夜》獲得了系列IP改編電影的最高評價，也堪稱史上最完美的電玩改編作品。1996年，卡普空推出首款《惡靈古堡》（Resident Evil）作品，以陰暗封閉的空間、無盡的喪"
+          "title": "媽媽過世，26天後爸爸也走了...「5年內繼承」仍要補稅近百萬",
+          "link": "https://www.gvm.com.tw/article/133134",
+          "published": "2026-09-18T17:32:00",
+          "summary": "依《遺產及贈與稅法》規定，被繼承人死亡前5年內繼承、且已納遺產稅的財產，可不計入遺產總額。不過，一名母親過世僅26天，父親也隨後離世，父親才剛繼承的遺產，最後仍被計入自己的遺產課稅，家屬因此遭補徵91萬餘元遺產稅。這起案件中，母親於2021年8月29日過世，留下23筆、約2,295萬元遺產，扣除免稅額及相關扣除額後，遺產淨額及應納遺產稅均為0元。父親依法取得母親遺產的1/5應繼分，但母親過世僅26"
         },
         {
-          "title": "美台密推的「地獄景象」是什麼？《經濟學人》：台灣無人載具產能不足成隱憂",
-          "link": "https://www.gvm.com.tw/article/133101",
-          "published": "2026-09-17T16:17:00",
-          "summary": "外媒報導，美台軍方正低調推動「地獄景象」作戰構想，計劃以大量無人機封鎖台灣海峽，結合AI自主辨識攻擊中國艦艇，不僅提高共軍攻台代價，同時爭取美軍馳援時間。「經濟學人」報導，美台軍方共同推動的「地獄景象」（Hellscape）作戰構想，最初始於拜登政府任內，主要借鏡烏克蘭與伊朗的實戰經驗，運用大量低技術門檻無人機結合AI技術，消耗解放軍攔截彈並重創登陸艦隊。在作戰設計上，即使共軍切斷或干擾通訊，無人"
+          "title": "為台南女兒出氣！「鍘美藝術節」今開鑼，5天大戲、750桌全滿，時間地點、劇目資訊一覽",
+          "link": "https://www.gvm.com.tw/article/132438",
+          "published": "2026-09-18T17:05:00",
+          "summary": "9/18更新：陳幸妤與趙建銘的離婚風波，意外點燃了台灣傳統戲曲的一把火。「2026臺南文藝負心運動－鍘美藝術節」確定將於9月18日至22日一連5天，在「台南安平・安億停車場」登場，集結布袋戲、歌仔戲及辦桌文化，這場活動最初其實只是網路上的1句玩笑話。因台灣社會及台南民眾對「台南女兒」陳幸妤處境的不捨與疼惜，網友的玩笑話一路發酵，最後真的成了1場大型文化活動。發起團隊在不到1個月內，自掏腰包並號召民"
         },
         {
-          "title": "新光三越入主北車只是第一步！力拚重返店王寶座，吳昕陽拋「樞紐經濟」是什麼？",
-          "link": "https://www.gvm.com.tw/article/133100",
-          "published": "2026-09-17T15:55:00",
-          "summary": "百貨龍頭新光三越今（17）日公布前8月業績，較去年同期增近三成、台中中港店業績已回到2024年95%水準，重返店王寶座在望。新光三越斥資10億入主北車商場改造，副董吳昕陽拋出「樞紐經濟」，如何拚出千億業績？回顧今年上半年營運表現，新光三越副董事長吳昕陽指出，集團年初設定朝「穩健致遠」前進，今年1至8月全台業績受惠於台中中港店復業帶動，整體年增近三成，中港店業績已回到2024 年95% 水準，力拚今"
+          "title": "《懺悔》太感人！中島哲也拍出生命最動人的模樣：有些人光是存在，就已值得被愛",
+          "link": "https://www.gvm.com.tw/article/133130",
+          "published": "2026-09-18T16:42:00",
+          "summary": "電影《懺悔》由中島哲也執導，本片改編自打海文三原著小說。電影集結西島秀俊、滿島光、黑木華、宮藤官九郎、柴崎幸、役所廣司等日本影壇重量級演員，透過一樁犯罪案件，慢慢走進一群傷痕累累的大人，以及一個重度障礙孩子的生命。一個人的生命，究竟要做到什麼，才能證明自己值得來到這個世界？曾以《告白》、《令人討厭的松子的一生》等作品震撼日本影壇的導演中島哲也，睽違8年推出最新電影《懺悔》，這也是他從讀到打海文三原"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "桃園環保局獲環境部肯定總成績連續五年勇奪特優務實精進低碳循環與科技稽查",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tycg.gov.tw/NewsPage_Content.aspx%3Fn%3D7%26s%3D1875102&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0tIEWg8riV0HQbjCDj4zv2",
-          "published": "2026-09-18T03:22:01+00:00",
-          "summary": "... 氣候變遷行動考核」等5 項勇奪最高榮譽特優獎；另於「環境影響評估與環境教育考核」、「空氣品質維護與噪音管制績效考核」、「水污染防治績效考核」、「淨零&nbsp;..."
+          "title": "中研院揭<b>氣候變遷</b>埋烏賊「腦袋縮水」風險！ 恐牽動海洋生態系 - 知新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.knews.com.tw/news/26C0820B2EAF0EBDEE0B54788F42AE33&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw25XICSdr6yYKEbnYr1X6Fx",
+          "published": "2026-09-19T00:33:48+00:00",
+          "summary": "【記者賴昀岫／台北報導】氣候變遷竟害烏賊「腦袋縮水」！中研院團隊發現，長期暴露於酸化海水中的萊氏擬烏賊（俗稱軟絲），雖然基本視覺仍維持正常，&nbsp;..."
         },
         {
-          "title": "公有建築能效升級睿田能源以彩繪光電串起國際、綠色輸出與金融支持 - 中央社",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/business/chinese/444552&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2W1lgkl-1ya2AnPdCujVAU",
-          "published": "2026-09-18T02:55:48+00:00",
-          "summary": "... 設計與系統導入、智慧監測與維運，以及ESG／碳資訊揭露，以可驗證數據協助業主達成淨零建築與城市低碳轉型。 訊息來源：睿田能源股份有限公司. 更多訊息. 睿&nbsp;..."
+          "title": "卓揆：將接觸核融合技術 - IEK產業情報網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Fnsl_id%3Da059a2a547804887ba6b5b2066714fb5&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw36rtvoBiH2mbfdgTc4-2gG",
+          "published": "2026-09-18T19:52:50+00:00",
+          "summary": "淨零促東協轉乾淨能源泰學者：區域應合作共推SMR &middot; 重啟核電有望？曾文生提3要件. 關於 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
         },
         {
-          "title": "港燈：為香港邁向<b>碳中和</b>提供更清晰路向，反映推動能源轉型和綠色發展決心 - etnet 經濟通",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.etnet.com.hk/www/tc/news/news-article.php%3Fsection%3Dspecial%26category%3D%25E6%2596%25BD%25E6%2594%25BF%25E8%25BF%25B4%25E9%259F%25BF%26newsid%3D20260918491&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3lsc54y0vZ03FJ91VVewfa",
-          "published": "2026-09-18T02:21:21+00:00",
-          "summary": "【施政迴響】港燈：為香港邁向碳中和提供更清晰路向，反映推動能源轉型和綠色發展決心. 最新. 人氣. etnet TV. 財經新聞. 評論. 專題透視. 生活. DIVA."
+          "title": "IMO<b>淨零</b>框架如何改變航運成本？ - 股市爆料同學會",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/readmo/03a26a65-95b5-419b-9515-61ae69d9243c&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0JFpYhfhwUuf7vNQSe7fev",
+          "published": "2026-09-18T19:52:01+00:00",
+          "summary": "IMO淨零框架會如何改變航運成本？ IMO淨零框架一旦定案，影響的不是單一燃料價格，而是整條航運供應鏈的成本結構。對貨櫃三雄來說，提前加碼甲醇雙燃料船，&nbsp;..."
         },
         {
-          "title": "港燈：為香港邁向<b>碳中和</b>提供更清晰路向，反映推動能源轉型和綠色發展決心 - etnet 經濟通",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.etnet.com.hk/www/tc/news/news-article.php%3Fsection%3Dcategorized%26category%3Dlatest%26newsid%3D20260918491&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3J4ccrQ57h9bw3O_iw3glz",
-          "published": "2026-09-18T02:21:01+00:00",
-          "summary": "ET Net Limited is not soliciting any subscriber or site visitor to execute any trade. Any trades executed following the commentaries and buy/sell&nbsp;..."
+          "title": "<b>氣候變遷</b>暖化，歐洲穀物比2000 年時早熟20 天| 科技新報 - LINE TODAY",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/KwVlOJo&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2dPGsYk8YlMmFgK852Ixy5",
+          "published": "2026-09-18T19:47:29+00:00",
+          "summary": "Europe's crops mature earlier due to climate change, data shows. （首圖來源：Unsplash）. 立刻加入《科技新報》LINE 官方帳號，全方位科技產業新知一手&nbsp;..."
         },
         {
-          "title": "苗栗環保績效獲中央4項優等水質改善、綠色消費與氣候行動受肯定 - 是新聞YesMedia",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.yesmedia.com.tw/%25E8%258B%2597%25E6%25A0%2597%25E7%2592%25B0%25E4%25BF%259D%25E7%25B8%25BE%25E6%2595%2588%25E7%258D%25B2%25E4%25B8%25AD%25E5%25A4%25AE4%25E9%25A0%2585%25E5%2584%25AA%25E7%25AD%2589%25E3%2580%2580%25E6%25B0%25B4%25E8%25B3%25AA%25E6%2594%25B9%25E5%2596%2584%25E3%2580%2581%25E7%25B6%25A0%25E8%2589%25B2%25E6%25B6%2588%25E8%25B2%25BB/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1yTnpwhmZ4807evGIIqZzc",
-          "published": "2026-09-18T02:18:16+00:00",
-          "summary": "環境部9月17日舉行「114年度環保績效考核績優機關頒獎典禮」，苗栗縣政府一舉獲得水污染防治、淨零綠生活及綜合業務、毒物及化學物質管理，以及推動因應氣候&nbsp;..."
+          "title": "科學家研發深根大豆應對氣候變化增碳儲量 - 巴士的報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bastillepost.com/hongkong/article/16799852-%25E7%25A7%2591%25E5%25AD%25B8%25E5%25AE%25B6%25E7%25A0%2594%25E7%2599%25BC%25E6%25B7%25B1%25E6%25A0%25B9%25E5%25A4%25A7%25E8%25B1%2586-%25E6%2587%2589%25E5%25B0%258D%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E5%258C%2596%25E5%25A2%259E%25E7%25A2%25B3%25E5%2584%25B2%25E9%2587%258F&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1V6V7fG009HM1CC5Zv1cDp",
+          "published": "2026-09-18T18:37:14+00:00",
+          "summary": "研究科學家阿希什·拉朱爾卡跪在泥土中，提起一團纏繞着大豆植株的泥土。他撥開植物根部的泥塊，這些根部與一般大豆植物不同，是垂直向下生長，而非向兩側&nbsp;..."
         },
         {
-          "title": "亞總與中經院攜手開創ESG新商機助力亞洲臺商<b>淨零</b>轉型 - 中華民國僑務委員會",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ocac.gov.tw/OCAC/Pages/Detail.aspx%3Fnodeid%3D346%26pid%3D90638125&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0GIQMyw1zHnsarUM4wdM55",
-          "published": "2026-09-18T02:12:52+00:00",
-          "summary": "僑委會僑商處處長莊雅淑（左一）及亞總ESG主任委員郭修敏(右一)，見證亞洲臺灣商會聯合總會總會長俞秀霞（左二）與中華經濟研究院院長連賢明（右二）簽署&nbsp;..."
+          "title": "唐獎頒獎尹崇堯發揚父志：父親離開未讓夢想消散 - 永豐金證券",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/6aad751c768afb87c646d596&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0hH5G_gLQnsVzKWotgWTwa",
+          "published": "2026-09-18T18:16:06+00:00",
+          "summary": "永續發展獎得主索羅門，以臭氧層耗竭及氣候變遷研究聞名，其成果奠定《蒙特婁議定書》的科學基礎。她表示，1985年發現南極臭氧洞後，全球科學家共同尋找答案，&nbsp;..."
         }
       ]
     }
