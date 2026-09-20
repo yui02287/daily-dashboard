@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-09-19T05:30:48.234222+00:00",
-    "date": "2026-09-19",
+    "generated_at": "2026-09-20T05:46:09.107850+00:00",
+    "date": "2026-09-20",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -10,84 +10,47 @@
     {
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
-      "items": [
-        {
-          "title": "【全球 900+ IT 高管報告】雲端與 AI 時代新規：49.1% 企業為導入 AI 加速上雲，IT 拚的不是客製軟體而是資料整合",
-          "link": "https://techorange.com/2026/09/19/transformations-studie-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-18T22:29:00+00:00",
-          "summary": "德國的數位轉型服務公司 Natuvion 與全球 IT 服務供應商 NTT DATA Business Solutions，聯合發布《IT 轉型研究報告》（Transformations studie 2026），為確保結果能反映大型架構的真實複雜度，受訪企業特別鎖定中大型規模——77% 的公司年營收超過 3.5 億歐元，其中近 34% 更高達 10 億歐元以上；員工人數超過 1,000 人的企業"
-        },
-        {
-          "title": "全自駕計程車下一關是規模化？Waymo 加速亞洲布局：東京 2027、新加坡 2028",
-          "link": "https://techorange.com/2026/09/18/waymo-robotaxi-autonomous-ride-tokyo-singapore/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-18T10:04:13+00:00",
-          "summary": "Alphabet 旗下自駕車公司 Waymo 正加速進軍亞洲市場。Waymo 於 9 月 14 日宣布，目標在 2027 年於東京推出全自動駕駛叫車服務；9 月 17 日又宣布，計劃於 2028 年在新加坡推出全自動駕駛叫車服務，並採用全電動車隊。兩項布局相隔僅數日，分別鎖定東亞與東南亞市場。 全自駕計程車 2027 登陸東京：Waymo 攜手車隊打造 24 小時服務 《Reuters》指出，Wa"
-        },
-        {
-          "title": "舊金山軟體工程師需求跌 42%、「前線部署工程師」缺暴增近 6 倍：AI 就業兩極化成形",
-          "link": "https://techorange.com/2026/09/18/san-francisco-ai-engineers-openai-anthropic-ipos-2/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-18T07:18:55+00:00",
-          "summary": "Anthropic 與 OpenAI 即將 IPO，預期將為舊金山帶來新一波財富，但 AI 熱潮也正同步重塑當地就業市場。《Bloomberg》報導，科技公司持續爭搶能夠建構與部署 AI 的人才之際，傳統科技工作者卻面臨裁員，甚至開始思考是否要離開科技業。 軟體工程師需求慘跌 42%：加州就業市場重組，科技業新鮮人首當其衝 《Bloomberg》根據加州就業發展部（California Emplo"
-        },
-        {
-          "title": "「帶著你的點子來！」專訪 Agentic AI on the Edge HACKATHON 技術工作坊講師曾吉弘，談 NVIDIA 技術資源與賽前準備",
-          "link": "https://techorange.com/2026/09/18/nvidia-agentic-ai-edge-hackathon/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-18T04:49:07+00:00",
-          "summary": "由 NVIDIA 擔任 AI 技術協辦單位的 AI 代理邊緣黑客松大賽【2026 Agentic AI on the Edge HACKATHON】將於 10 月底登場，邀請開發者、IT 人員與新創團隊，在低延遲、無網 / 弱網環境、隱私資料保護等邊緣場景中，打造能自主規劃、執行與修正，真正走進現實世界的 Agentic AI。 TechOrange 在會前採訪黑客松主辦單位翰尼斯企業成員暨技術工"
-        },
-        {
-          "title": "「AI 開發 AI」到底進展多快？Anthropic 首度公布三大衡量指標",
-          "link": "https://techorange.com/2026/09/18/anthropic-measurements-the-pace-of-ai-development/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-18T03:57:12+00:00",
-          "summary": "AI 發展得太快了嗎？人們越來越擔心，AI 可能很快就會發展成幾乎不需人類干預就能自我發展的地步。Anthropic 執行長 Dario Amodei 近日呼籲前沿 AI 公司討論放慢模型能力進步速度，並主張引入獨立第三方評估者。與此同時，前沿 AI 公司也開始增加外界看見內部風險的方式。 OpenAI 美國時間 9/16 公布新的模型異常行為揭露框架，承諾更有系統地公開模型出現未授權或其他值得關"
-        },
-        {
-          "title": "OpenAI 推 Astra for Law：判例多找 24%、正確率大勝通用模型，法律 AI 開打",
-          "link": "https://techorange.com/2026/09/18/openai-astra-law-source-chatgpt/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-18T02:48:28+00:00",
-          "summary": "OpenAI Group PBC 宣布推出 Astra for Law，將 GPT-6 Astra 結合法律搜尋索引與法律分析的指令，針對法律研究與文件起草需求提供給律師事務所及法律科技軟體公司使用。Astra for Law 並非全新的模型，而是以 GPT-6 Astra 為基礎打造的法律專用版本。 奠基於 GPT-6 基礎：Astra for Law 強化法律依據檢索與段落定位能力 《Sili"
-        }
-      ]
+      "items": []
     },
     {
       "feed_name": "遠見雜誌 - 前進的動力",
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "尹衍樑逝世後首頒唐獎！尹崇堯：父親建立的制度與精神將永續傳承",
-          "link": "https://www.gvm.com.tw/article/133129",
-          "published": "2026-09-18T19:13:00",
-          "summary": "2026年第七屆唐獎頒獎典禮今（18）日於臺北表演藝術中心盛大舉行。這是唐獎創辦人尹衍樑辭世後首度頒獎，在莊重傳承的氛圍中，表彰六位得主的卓越成就。典禮開場特別播放紀念影片，向創辦人尹衍樑致敬。唐獎教育基金會董事長尹崇堯致詞表示，父親創辦唐獎，是希望透過獎勵對人類社會具重要貢獻與影響力的研究成果及實踐，引領全球永續發展，雖然父親現已離開，但他所建立的制度與精神將持續傳承，此次頒獎也是唐獎創辦理念的"
+          "title": "打mRNA新冠疫苗會罹癌？台大權威闢謠：沒有證據顯示會致癌",
+          "link": "https://www.gvm.com.tw/article/133115",
+          "published": "2026-09-20T07:00:00",
+          "summary": "COVID-19已成日常流行疫病之一，但至今網路仍流傳「打mRNA的COVID-19疫苗會罹癌」謠言。專家17日闢謠指出，mRNA不會進入細胞核、更不會改變人體DNA，且沒有證據顯示會致癌。公費流感、COVID-19（2019冠狀病毒疾病）疫苗將在10月開打，台灣感染症醫學會、台灣基層糖尿病學會等學會17日舉辦衛教記者會，破解常見接種mRNA的COVID-19疫苗迷思。會中網路溫度計公布「COVI"
         },
         {
-          "title": "2026國慶煙火在台東！手機與直播怎麼看？時間地點彙整",
-          "link": "https://www.gvm.com.tw/article/133136",
-          "published": "2026-09-18T18:05:00",
-          "summary": "2026年國慶煙火在台東！睽違九年再度登場；國慶晚會則首度由新北板橋承辦，台北101同步展演。無法到現場也能手機、線上直播觀看。從時間地點、南島主題設計到交通接駁，一次看懂今年國慶系列活動。【目錄】 2026國慶煙火｜時間、地點2026國慶煙火｜交通攻略2026國慶煙火｜直播轉播與手機觀賞指引2026國慶煙火｜主題「世界的方舟：南島臺灣」2026國慶晚會｜時間、地點2026國慶晚會｜交通攻略202"
+          "title": "解析》川普宣布取得格陵蘭永久安全控制權：一紙協議如何改寫北極安全與全球供應鏈？",
+          "link": "https://www.gvm.com.tw/article/133138",
+          "published": "2026-09-19T18:48:00",
+          "summary": "美國總統川普今（19）日在自家真實社群（Truth Social）上宣布取得格陵蘭永久安全控制權，引發全球譁然。美國沒有取得格陵蘭主權，卻可能取得安全與敏感投資的主導權。從軍事防線、北極航道、關鍵礦產到格陵蘭民意，這份協議牽動的是下一個百年的世界秩序；而對台灣而言，格陵蘭帶來三項警訊。美國總統川普今（19）日在自家真實社群（Truth Social）上宣布，美國、丹麥與格陵蘭已就新的安全協議達成共"
         },
         {
-          "title": "10月電價凍漲！經濟部：優先爭取政府撥補預算",
-          "link": "https://www.gvm.com.tw/article/133135",
-          "published": "2026-09-18T17:40:00",
-          "summary": "經濟部今天召開115年第2次電價費率審議會決議，支持優先爭取政府撥補預算新台幣711億元，本次電價調整暫不決定，留待今年12月併入第3次電價審議會審議輸配電費率時再行討論。經濟部說明，依據台電本次電價檢討案應有調幅為12.83%，主要因為燃料價格上漲導致發購電成本大幅增加。倘若今年沒發生戰爭，台電有機會保持盈餘，可逐步健全財務。審議會檢視台電各項成本控管尚屬合宜，另參考鄰近國家對中東戰爭應變作法，"
+          "title": "王道50論壇〉施振榮提「新王道思想」3核心，籲重視隱性價值",
+          "link": "https://www.gvm.com.tw/article/133137",
+          "published": "2026-09-19T18:21:00",
+          "summary": "在全球秩序重組、AI加速重塑產經治理的時代，領導人真正的競爭力，已不在於掌握多少技術，而在於選擇何種治理價值。智榮基金會、遠見．天下文化事業群於2026年9月19日舉辦王道50「王道經營與AI國際論壇」，聚焦企業領導者如何在AI浪潮下兼顧經營、創新、人才與價值選擇，實現永續發展。本次活動還特別邀請NVIDIA創辦人暨執行長黃仁勳，透過預錄影片發表閉幕演說。施振榮：重視「隱性價值」是企業永續的祕訣宏"
         },
         {
-          "title": "媽媽過世，26天後爸爸也走了...「5年內繼承」仍要補稅近百萬",
-          "link": "https://www.gvm.com.tw/article/133134",
-          "published": "2026-09-18T17:32:00",
-          "summary": "依《遺產及贈與稅法》規定，被繼承人死亡前5年內繼承、且已納遺產稅的財產，可不計入遺產總額。不過，一名母親過世僅26天，父親也隨後離世，父親才剛繼承的遺產，最後仍被計入自己的遺產課稅，家屬因此遭補徵91萬餘元遺產稅。這起案件中，母親於2021年8月29日過世，留下23筆、約2,295萬元遺產，扣除免稅額及相關扣除額後，遺產淨額及應納遺產稅均為0元。父親依法取得母親遺產的1/5應繼分，但母親過世僅26"
+          "title": "機加酒還有剩！猛健樂日本售價便宜一半，韓國旅客赴日瘋搶「壽司健樂」",
+          "link": "https://www.gvm.com.tw/article/133114",
+          "published": "2026-09-19T16:00:00",
+          "summary": "用於減重的糖尿病治療藥物「猛健樂」因在日本售價據稱不到韓國一半，加上日圓貶值，許多韓國民眾認為「就算加上旅費還是划算」，而大批赴日購買，又被稱「壽司健樂」。不過，未經申報便將藥品帶回韓國的情況也隨之增加，韓國海關已加強查緝。猛健樂（Mounjaro）由美國藥廠禮來公司（Eli Lilly）研發，除了可降低血糖，也有望達到減重效果。日本於2022年9月核准其作為第2型糖尿病治療藥物，近年來則被廣泛用"
         },
         {
-          "title": "為台南女兒出氣！「鍘美藝術節」今開鑼，5天大戲、750桌全滿，時間地點、劇目資訊一覽",
-          "link": "https://www.gvm.com.tw/article/132438",
-          "published": "2026-09-18T17:05:00",
-          "summary": "9/18更新：陳幸妤與趙建銘的離婚風波，意外點燃了台灣傳統戲曲的一把火。「2026臺南文藝負心運動－鍘美藝術節」確定將於9月18日至22日一連5天，在「台南安平・安億停車場」登場，集結布袋戲、歌仔戲及辦桌文化，這場活動最初其實只是網路上的1句玩笑話。因台灣社會及台南民眾對「台南女兒」陳幸妤處境的不捨與疼惜，網友的玩笑話一路發酵，最後真的成了1場大型文化活動。發起團隊在不到1個月內，自掏腰包並號召民"
+          "title": "電腦可一直不關機？專家解析「重新啟動」的最佳時機，筆電放包包更要注意",
+          "link": "https://www.gvm.com.tw/article/133112",
+          "published": "2026-09-19T11:00:00",
+          "summary": "許多現代人習慣讓電腦長時間待機或直接進入睡眠模式，久久才關機一次。然而，最新觀點提醒，定期將電腦「重新啟動」依然不可或缺。這不僅是讓系統重新運作，更是徹底清除記憶體暫存、終止異常背景程式，並確保作業系統順利完成更新與修補的關鍵步驟。專家指出，若電腦長時間不關機，記憶體（RAM）容易堆積無用的系統垃圾，進而導致運行變慢、畫面卡頓，甚至無預警當機。此外，背景程式與驅動程式在長時間運作下，也極易出現不穩"
         },
         {
-          "title": "《懺悔》太感人！中島哲也拍出生命最動人的模樣：有些人光是存在，就已值得被愛",
-          "link": "https://www.gvm.com.tw/article/133130",
-          "published": "2026-09-18T16:42:00",
-          "summary": "電影《懺悔》由中島哲也執導，本片改編自打海文三原著小說。電影集結西島秀俊、滿島光、黑木華、宮藤官九郎、柴崎幸、役所廣司等日本影壇重量級演員，透過一樁犯罪案件，慢慢走進一群傷痕累累的大人，以及一個重度障礙孩子的生命。一個人的生命，究竟要做到什麼，才能證明自己值得來到這個世界？曾以《告白》、《令人討厭的松子的一生》等作品震撼日本影壇的導演中島哲也，睽違8年推出最新電影《懺悔》，這也是他從讀到打海文三原"
+          "title": "82歲走路快到同事跟不上！張淑芬分享凍齡又快樂的3個功課",
+          "link": "https://www.gvm.com.tw/article/133072",
+          "published": "2026-09-19T07:00:00",
+          "summary": "台積電慈善基金會董事長張淑芬近來出席國內媒體一場熟齡論壇，自曝物慾並不高，身上穿的更是十多年前的舊衣。除了多年來實行簡單生活，她還有許多身心修養的祕訣，讓年過八旬的她凍齡又快樂。《遠見》一文整理這套張淑芬自創兼顧身、心、腦的養生哲學。台積電慈善基金會董事長張淑芬長期以樂善好施、聰穎圓融的形象深植人心。尤其年逾80歲的她，仍親赴許多賑災與事故現場，花蓮震災、太魯閣號事故等第一線都可以看到她與台積電志"
         }
       ]
     },
@@ -96,40 +59,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "中研院揭<b>氣候變遷</b>埋烏賊「腦袋縮水」風險！ 恐牽動海洋生態系 - 知新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.knews.com.tw/news/26C0820B2EAF0EBDEE0B54788F42AE33&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw25XICSdr6yYKEbnYr1X6Fx",
-          "published": "2026-09-19T00:33:48+00:00",
-          "summary": "【記者賴昀岫／台北報導】氣候變遷竟害烏賊「腦袋縮水」！中研院團隊發現，長期暴露於酸化海水中的萊氏擬烏賊（俗稱軟絲），雖然基本視覺仍維持正常，&nbsp;..."
+          "title": "115年彰化縣環境知識競賽在大葉大學辦理，環保達人爭取全國總決賽... | PeoPo 公民新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.peopo.org/news/858203&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0ZJDHKkTkJhyIdnc-2dhqF",
+          "published": "2026-09-19T23:39:25+00:00",
+          "summary": "... 淨零綠生活」是台灣2050 淨零轉型12 項關鍵戰略之一，進而邁向2050 淨零排放需從淨零生活開始轉型，舉凡全民食、衣、住、行、育、樂、購的行為及消費模式&nbsp;..."
         },
         {
-          "title": "卓揆：將接觸核融合技術 - IEK產業情報網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Fnsl_id%3Da059a2a547804887ba6b5b2066714fb5&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw36rtvoBiH2mbfdgTc4-2gG",
-          "published": "2026-09-18T19:52:50+00:00",
-          "summary": "淨零促東協轉乾淨能源泰學者：區域應合作共推SMR &middot; 重啟核電有望？曾文生提3要件. 關於 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
+          "title": "兒童委員進總統府氣候峰會提建言 - 國語日報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.mdnkids.com/content.asp%3FLink_String_%3D249K00000WBSSMF&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0xNPcd3obittA6MpfRyutf",
+          "published": "2026-09-19T21:03:59+00:00",
+          "summary": "... 、陳星羽、周姸希、王柏森所報告的「氣候變遷下的兒童行動」，希望透過舉辦氣候變遷營隊、兒童氣候遊行等活動，讓更多人能注意到氣候變遷帶給地球的傷害。"
         },
         {
-          "title": "IMO<b>淨零</b>框架如何改變航運成本？ - 股市爆料同學會",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/readmo/03a26a65-95b5-419b-9515-61ae69d9243c&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0JFpYhfhwUuf7vNQSe7fev",
-          "published": "2026-09-18T19:52:01+00:00",
-          "summary": "IMO淨零框架會如何改變航運成本？ IMO淨零框架一旦定案，影響的不是單一燃料價格，而是整條航運供應鏈的成本結構。對貨櫃三雄來說，提前加碼甲醇雙燃料船，&nbsp;..."
+          "title": "賴出席首屆兒童<b>氣候變遷</b>高峰會 - 中時新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/newspapers/20260920000401-260110&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0jS3Ue7eghbtBeewKpWqpP",
+          "published": "2026-09-19T20:21:26+00:00",
+          "summary": "由富邦文教基金會與多個團體共同推動的「2026大FUN凱道」，19日於凱達格蘭大道及總統府內外登場，吸引超過4萬人次親子參與，並有近400位現場志工協力；&nbsp;..."
         },
         {
-          "title": "<b>氣候變遷</b>暖化，歐洲穀物比2000 年時早熟20 天| 科技新報 - LINE TODAY",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/KwVlOJo&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2dPGsYk8YlMmFgK852Ixy5",
-          "published": "2026-09-18T19:47:29+00:00",
-          "summary": "Europe's crops mature earlier due to climate change, data shows. （首圖來源：Unsplash）. 立刻加入《科技新報》LINE 官方帳號，全方位科技產業新知一手&nbsp;..."
+          "title": "【首屆兒童<b>氣候變遷</b>高峰會】賴總統：傾聽兒童建議 完善氣候政策 - Yahoo新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E9%25A6%2596%25E5%25B1%2586%25E5%2585%2592%25E7%25AB%25A5%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E9%25AB%2598%25E5%25B3%25B0%25E6%259C%2583-%25E8%25B3%25B4%25E7%25B8%25BD%25E7%25B5%25B1-%25E5%2582%25BE%25E8%2581%25BD%25E5%2585%2592%25E7%25AB%25A5%25E5%25BB%25BA%25E8%25AD%25B0-%25E5%25AE%258C%25E5%2596%2584%25E6%25B0%25A3%25E5%2580%2599%25E6%2594%25BF%25E7%25AD%2596-180700999.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1ifVvlr6E0Cfuk90179gJH",
+          "published": "2026-09-19T18:41:14+00:00",
+          "summary": "... 氣候變遷挑戰，兒童的生活與未來同樣受到影響，政府將傾聽兒童委員提出的建議，並務實研議納入國家氣候變遷政策，讓兒童也能透過公共參與，為環境議題提出意見。"
         },
         {
-          "title": "科學家研發深根大豆應對氣候變化增碳儲量 - 巴士的報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bastillepost.com/hongkong/article/16799852-%25E7%25A7%2591%25E5%25AD%25B8%25E5%25AE%25B6%25E7%25A0%2594%25E7%2599%25BC%25E6%25B7%25B1%25E6%25A0%25B9%25E5%25A4%25A7%25E8%25B1%2586-%25E6%2587%2589%25E5%25B0%258D%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E5%258C%2596%25E5%25A2%259E%25E7%25A2%25B3%25E5%2584%25B2%25E9%2587%258F&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1V6V7fG009HM1CC5Zv1cDp",
-          "published": "2026-09-18T18:37:14+00:00",
-          "summary": "研究科學家阿希什·拉朱爾卡跪在泥土中，提起一團纏繞着大豆植株的泥土。他撥開植物根部的泥塊，這些根部與一般大豆植物不同，是垂直向下生長，而非向兩側&nbsp;..."
+          "title": "【首屆兒童<b>氣候變遷</b>高峰會】賴總統：傾聽兒童建議完善氣候政策| 青年日報 - LINE TODAY",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/x2EylXj&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1PR185ZTC-QpMSPwgPs2-2",
+          "published": "2026-09-19T18:25:41+00:00",
+          "summary": "總統賴清德昨日出席第一屆「兒童氣候變遷高峰會」表示，面對極端高溫、暴雨、乾旱及強烈颱風等氣候變遷挑戰，兒童的生活與未來同樣受到影響，政府將傾聽兒童委員&nbsp;..."
         },
         {
-          "title": "唐獎頒獎尹崇堯發揚父志：父親離開未讓夢想消散 - 永豐金證券",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/6aad751c768afb87c646d596&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0hH5G_gLQnsVzKWotgWTwa",
-          "published": "2026-09-18T18:16:06+00:00",
-          "summary": "永續發展獎得主索羅門，以臭氧層耗竭及氣候變遷研究聞名，其成果奠定《蒙特婁議定書》的科學基礎。她表示，1985年發現南極臭氧洞後，全球科學家共同尋找答案，&nbsp;..."
+          "title": "高雄市(2027-2028年)碳預算（草案）說明會 - 高雄市政府環境保護局",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ksepb.kcg.gov.tw/AuditAnnouncement/news%3FKeyword%3D%25E9%25AB%2598%25E9%259B%2584%25E5%25B8%2582%26pageIndex%3D3%26PageType%3D1%26id%3D7f3457ba-f731-4e38-af01-1d25066d790f&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2BCiECkAposEhBY1xrCgsh",
+          "published": "2026-09-19T17:28:22+00:00",
+          "summary": "依據「高雄市淨零城市發展自治條例」第4條第2項第5款規定(略以)：「前款碳預算擬定前應邀集有關機關、學者、專家、民間團體舉辦座談會，或以其他適當方法廣&nbsp;..."
         }
       ]
     }
