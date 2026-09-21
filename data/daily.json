@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-09-20T05:46:09.107850+00:00",
-    "date": "2026-09-20",
+    "generated_at": "2026-09-21T05:56:09.997514+00:00",
+    "date": "2026-09-21",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -10,47 +10,60 @@
     {
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
-      "items": []
+      "items": [
+        {
+          "title": "30 分鐘建構雷射腔：MIT 導入 7 軸機器人，實現光學實驗「從零到一」自動化",
+          "link": "https://techorange.com/2026/09/21/mit-robotic-lab-runs-optics-experiments-demand/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-21T04:34:06+00:00",
+          "summary": "麻省理工學院（Massachusetts Institute of Technology，MIT）研究團隊打造一套可自主執行光學實驗的機器人系統，讓機器人能自行組裝鏡子、透鏡等光學元件，並依照研究需求調整實驗配置。《Forbes》報導，這套系統可協助研究人員自動完成大量重複性的實驗準備工作，並有望應用於包括量子力學在內的多種研究。 MIT 開發全自動機器人實驗室：30 分鐘組裝「桌上型雷射腔」 這"
+        },
+        {
+          "title": "AI 失控就拔插頭？打造「終止開關」為何比想像中更難",
+          "link": "https://techorange.com/2026/09/21/ai-kill-switch/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-21T04:14:28+00:00",
+          "summary": "最近幾個月，前沿實驗室的 AI Agent（AI 代理）接連出現越過原先限制的案例。這些事件多發生在評測與研究環境，但當 Agent 能自己操作電腦、使用工具甚至尋找其他行動路徑，一個更實際的問題也跟著浮現：出了問題，人類真的能把 AI 關掉嗎？ 美國已經開始嘗試回答這個問題。加州州長 Gavin Newsom 9 月 18 日發布行政命令，成立專家小組研究 AI「終止開關（kill switch"
+        },
+        {
+          "title": "先別急著變成 AI Native 組織，勤業眾信資深執行副總經理溫紹群：台灣企業應先用 AI Empower 放大既有優勢",
+          "link": "https://techorange.com/2026/09/21/deloitte-rick-wen-podcast/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-21T03:00:00+00:00",
+          "summary": "專訪：戴季全撰稿：李昀蔚 「企業不會說 AI 不是競爭力，但是 AI 不會是唯一的競爭力。」本集《全新一週》邀請勤業眾信資深執行副總經理溫紹群，從第一線協助企業與組織導入 AI 的經驗出發，剖析 AI Agent 從回答問題走向自主執行後，企業真正面臨的挑戰，已經不只是模型能力，而是資料、流程、系統、組織與治理能不能一起跟上的課題。 從 CIO 如何在百家爭鳴的 AI Agent 生態中規劃未來架"
+        },
+        {
+          "title": "都透過 Uber App 叫無人車，倫敦 Wayve 仍需配安全駕駛，克羅埃西亞 Pony.ai 已完全無人",
+          "link": "https://techorange.com/2026/09/21/robotaxi-revolution/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-21T02:01:22+00:00",
+          "summary": "本月起，15 輛電動福特 Mustang，開始在倫敦街頭自動行駛，這是倫敦第一個商業化的無人計程車服務，由叫車平台 Uber 與英國自駕技術新創公司 Wayve 合作推出。目前這些車輛仍配有持照駕駛，一旦發生突發狀況可隨時接手控制，倫敦交通局將這些車輛核准為私人租賃車輛，而非自動駕駛車輛。 無人計程車並非新鮮事。全球已有超過 20 個城市，包括美國、中國與中東地區都有無人計程車（robotaxi）"
+        },
+        {
+          "title": "【零信任程式碼】企業資安別問能不能攔截，先問這段程式碼該不該被允許執行",
+          "link": "https://techorange.com/2026/09/21/ai-malware-to-zero-trust-code/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-21T01:23:16+00:00",
+          "summary": "AI 崛起不只提升開發人員的生產力與技術力，更改變當代資安攻擊的運作模式，促使企業重新思考現有資安防禦策略是否足夠，並進一步走向「零信任程式碼」。"
+        },
+        {
+          "title": "從真人侍奉到數據預測：高價郵輪業的 AI 轉型",
+          "link": "https://techorange.com/2026/09/21/ai-is-taking-over-cruise-ships/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-20T22:22:00+00:00",
+          "summary": "過去，高價郵輪最難被科技取代的價值，往往是「人」。旅客支付高昂票價，買的不只是海上客房與餐飲，更包含被記住的感覺：房務人員知道你習慣喝黑咖啡，服務生記得同行家人的生日，甚至船員能在旅程中主動察覺需求。對講究體驗的郵輪品牌而言，這些細節構成了高價服務的重要一環。 然而，這套高度仰賴真人經驗與人力堆疊的商業模式，正迎來 AI 的全面洗牌。《Inc.》報導，AI 在郵輪產業中已經從後台運算走向前台，深入"
+        }
+      ]
     },
     {
       "feed_name": "遠見雜誌 - 前進的動力",
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
+          "title": "世界末日躲哪裡可以活比較久？最新研究揭全球最安全國家",
+          "link": "https://www.gvm.com.tw/article/133117",
+          "published": "2026-09-20T11:00:00",
+          "summary": "如果核戰、超級火山爆發或大型小行星撞擊真的發生，全球供應鏈中斷、農作物歉收，哪個國家最有機會撐過危機？德國哈根遠距大學研究團隊綜合糧食安全、生物危害、火山活動、基礎設施及國際貿易等因素後發現，澳洲可能是全球面對重大災難時最具韌性的國家，其次包括阿根廷、巴西與紐西蘭。研究關注的是可能在數月或數年內造成全球超過&nbsp;10%&nbsp;人口死亡的「全球災難性風險」，主要分成三類，核戰、超級火山爆發"
+        },
+        {
           "title": "打mRNA新冠疫苗會罹癌？台大權威闢謠：沒有證據顯示會致癌",
           "link": "https://www.gvm.com.tw/article/133115",
           "published": "2026-09-20T07:00:00",
           "summary": "COVID-19已成日常流行疫病之一，但至今網路仍流傳「打mRNA的COVID-19疫苗會罹癌」謠言。專家17日闢謠指出，mRNA不會進入細胞核、更不會改變人體DNA，且沒有證據顯示會致癌。公費流感、COVID-19（2019冠狀病毒疾病）疫苗將在10月開打，台灣感染症醫學會、台灣基層糖尿病學會等學會17日舉辦衛教記者會，破解常見接種mRNA的COVID-19疫苗迷思。會中網路溫度計公布「COVI"
-        },
-        {
-          "title": "解析》川普宣布取得格陵蘭永久安全控制權：一紙協議如何改寫北極安全與全球供應鏈？",
-          "link": "https://www.gvm.com.tw/article/133138",
-          "published": "2026-09-19T18:48:00",
-          "summary": "美國總統川普今（19）日在自家真實社群（Truth Social）上宣布取得格陵蘭永久安全控制權，引發全球譁然。美國沒有取得格陵蘭主權，卻可能取得安全與敏感投資的主導權。從軍事防線、北極航道、關鍵礦產到格陵蘭民意，這份協議牽動的是下一個百年的世界秩序；而對台灣而言，格陵蘭帶來三項警訊。美國總統川普今（19）日在自家真實社群（Truth Social）上宣布，美國、丹麥與格陵蘭已就新的安全協議達成共"
-        },
-        {
-          "title": "王道50論壇〉施振榮提「新王道思想」3核心，籲重視隱性價值",
-          "link": "https://www.gvm.com.tw/article/133137",
-          "published": "2026-09-19T18:21:00",
-          "summary": "在全球秩序重組、AI加速重塑產經治理的時代，領導人真正的競爭力，已不在於掌握多少技術，而在於選擇何種治理價值。智榮基金會、遠見．天下文化事業群於2026年9月19日舉辦王道50「王道經營與AI國際論壇」，聚焦企業領導者如何在AI浪潮下兼顧經營、創新、人才與價值選擇，實現永續發展。本次活動還特別邀請NVIDIA創辦人暨執行長黃仁勳，透過預錄影片發表閉幕演說。施振榮：重視「隱性價值」是企業永續的祕訣宏"
-        },
-        {
-          "title": "機加酒還有剩！猛健樂日本售價便宜一半，韓國旅客赴日瘋搶「壽司健樂」",
-          "link": "https://www.gvm.com.tw/article/133114",
-          "published": "2026-09-19T16:00:00",
-          "summary": "用於減重的糖尿病治療藥物「猛健樂」因在日本售價據稱不到韓國一半，加上日圓貶值，許多韓國民眾認為「就算加上旅費還是划算」，而大批赴日購買，又被稱「壽司健樂」。不過，未經申報便將藥品帶回韓國的情況也隨之增加，韓國海關已加強查緝。猛健樂（Mounjaro）由美國藥廠禮來公司（Eli Lilly）研發，除了可降低血糖，也有望達到減重效果。日本於2022年9月核准其作為第2型糖尿病治療藥物，近年來則被廣泛用"
-        },
-        {
-          "title": "電腦可一直不關機？專家解析「重新啟動」的最佳時機，筆電放包包更要注意",
-          "link": "https://www.gvm.com.tw/article/133112",
-          "published": "2026-09-19T11:00:00",
-          "summary": "許多現代人習慣讓電腦長時間待機或直接進入睡眠模式，久久才關機一次。然而，最新觀點提醒，定期將電腦「重新啟動」依然不可或缺。這不僅是讓系統重新運作，更是徹底清除記憶體暫存、終止異常背景程式，並確保作業系統順利完成更新與修補的關鍵步驟。專家指出，若電腦長時間不關機，記憶體（RAM）容易堆積無用的系統垃圾，進而導致運行變慢、畫面卡頓，甚至無預警當機。此外，背景程式與驅動程式在長時間運作下，也極易出現不穩"
-        },
-        {
-          "title": "82歲走路快到同事跟不上！張淑芬分享凍齡又快樂的3個功課",
-          "link": "https://www.gvm.com.tw/article/133072",
-          "published": "2026-09-19T07:00:00",
-          "summary": "台積電慈善基金會董事長張淑芬近來出席國內媒體一場熟齡論壇，自曝物慾並不高，身上穿的更是十多年前的舊衣。除了多年來實行簡單生活，她還有許多身心修養的祕訣，讓年過八旬的她凍齡又快樂。《遠見》一文整理這套張淑芬自創兼顧身、心、腦的養生哲學。台積電慈善基金會董事長張淑芬長期以樂善好施、聰穎圓融的形象深植人心。尤其年逾80歲的她，仍親赴許多賑災與事故現場，花蓮震災、太魯閣號事故等第一線都可以看到她與台積電志"
         }
       ]
     },
@@ -59,40 +72,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "115年彰化縣環境知識競賽在大葉大學辦理，環保達人爭取全國總決賽... | PeoPo 公民新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.peopo.org/news/858203&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0ZJDHKkTkJhyIdnc-2dhqF",
-          "published": "2026-09-19T23:39:25+00:00",
-          "summary": "... 淨零綠生活」是台灣2050 淨零轉型12 項關鍵戰略之一，進而邁向2050 淨零排放需從淨零生活開始轉型，舉凡全民食、衣、住、行、育、樂、購的行為及消費模式&nbsp;..."
+          "title": "南華大學節電成效獲教育部肯定攜手嘉義縣府推動產業節能 - 波新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bo6s.com.tw/news_detail.php%3FNewsID%3D116733&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2CuQd78DD08g9JGVzvBfTN",
+          "published": "2026-09-21T05:34:11+00:00",
+          "summary": "南華大學校長高俊雄表示，面對全球氣候變遷與淨零轉型趨勢，大學不僅肩負 ... 氣候變遷所帶來的環境挑戰。他表示，節電不僅有助於降低能源使用與營運&nbsp;..."
         },
         {
-          "title": "兒童委員進總統府氣候峰會提建言 - 國語日報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.mdnkids.com/content.asp%3FLink_String_%3D249K00000WBSSMF&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0xNPcd3obittA6MpfRyutf",
-          "published": "2026-09-19T21:03:59+00:00",
-          "summary": "... 、陳星羽、周姸希、王柏森所報告的「氣候變遷下的兒童行動」，希望透過舉辦氣候變遷營隊、兒童氣候遊行等活動，讓更多人能注意到氣候變遷帶給地球的傷害。"
+          "title": "工程師吹哨示警AI恐失控反對方指<b>氣候變遷</b>更迫在眉睫｜20260919 全球現場深度週報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DOL-jnT-huRc&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1h1WtPszI5-2DbNBW82eyP",
+          "published": "2026-09-21T05:30:23+00:00",
+          "summary": "「AI末日論」近來在產官學界掀起劇烈論戰，有頂尖企業工程師化身吹哨者示警，業者盲目發展AI，恐將引發人類滅亡危機。日前甚至發生AI Agent 代理程式在人類&nbsp;..."
         },
         {
-          "title": "賴出席首屆兒童<b>氣候變遷</b>高峰會 - 中時新聞網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/newspapers/20260920000401-260110&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0jS3Ue7eghbtBeewKpWqpP",
-          "published": "2026-09-19T20:21:26+00:00",
-          "summary": "由富邦文教基金會與多個團體共同推動的「2026大FUN凱道」，19日於凱達格蘭大道及總統府內外登場，吸引超過4萬人次親子參與，並有近400位現場志工協力；&nbsp;..."
+          "title": "1.5°C 恐失守，UNEP 解析氣候新現實：「過衝、達峰、下降路徑」",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://csrone.com/topics/10121&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1rC4Tjo1QaXxXuTQckbHVC",
+          "published": "2026-09-21T04:58:01+00:00",
+          "summary": "全球長期平均升溫跨越1.5°C 的可能性正在增加。聯合國環境規劃署（UNEP）最新報告指出，即使各國完整落實現有氣候計畫與額外淨零承諾，預期全球升溫峰值仍約&nbsp;..."
         },
         {
-          "title": "【首屆兒童<b>氣候變遷</b>高峰會】賴總統：傾聽兒童建議 完善氣候政策 - Yahoo新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E9%25A6%2596%25E5%25B1%2586%25E5%2585%2592%25E7%25AB%25A5%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E9%25AB%2598%25E5%25B3%25B0%25E6%259C%2583-%25E8%25B3%25B4%25E7%25B8%25BD%25E7%25B5%25B1-%25E5%2582%25BE%25E8%2581%25BD%25E5%2585%2592%25E7%25AB%25A5%25E5%25BB%25BA%25E8%25AD%25B0-%25E5%25AE%258C%25E5%2596%2584%25E6%25B0%25A3%25E5%2580%2599%25E6%2594%25BF%25E7%25AD%2596-180700999.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1ifVvlr6E0Cfuk90179gJH",
-          "published": "2026-09-19T18:41:14+00:00",
-          "summary": "... 氣候變遷挑戰，兒童的生活與未來同樣受到影響，政府將傾聽兒童委員提出的建議，並務實研議納入國家氣候變遷政策，讓兒童也能透過公共參與，為環境議題提出意見。"
+          "title": "推動綠色辦公，找對「神隊友」，就能從日常工作輕鬆實踐！",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14153&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1BxeFrAW31dmQDIR4FFxpa",
+          "published": "2026-09-21T04:06:32+00:00",
+          "summary": "「淨零綠生活大聯盟」低碳辦公神隊友對接交流會，邀請#群光電能科技、#凱鈿行動科技、#正隆、#緯詠智能，分享企業可直接導入的綠色解方."
         },
         {
-          "title": "【首屆兒童<b>氣候變遷</b>高峰會】賴總統：傾聽兒童建議完善氣候政策| 青年日報 - LINE TODAY",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/x2EylXj&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1PR185ZTC-QpMSPwgPs2-2",
-          "published": "2026-09-19T18:25:41+00:00",
-          "summary": "總統賴清德昨日出席第一屆「兒童氣候變遷高峰會」表示，面對極端高溫、暴雨、乾旱及強烈颱風等氣候變遷挑戰，兒童的生活與未來同樣受到影響，政府將傾聽兒童委員&nbsp;..."
+          "title": "深耕在地與國際接軌！亞太能源科學教育協會持續協辦第三屆「嘉風盃」風力永續能源創意實作 ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.peopo.org/news/858333&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw29nGb_V62fQOHt4wOspTks",
+          "published": "2026-09-21T04:04:14+00:00",
+          "summary": "蘇教授長期深耕並致力於臺灣能源教育，他為本競賽堅定擘畫了「淨零永續、綠能環保、地方融入」十二字核心精神。蘇教授堅持在地化經營的初衷，成功帶領團隊&nbsp;..."
         },
         {
-          "title": "高雄市(2027-2028年)碳預算（草案）說明會 - 高雄市政府環境保護局",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ksepb.kcg.gov.tw/AuditAnnouncement/news%3FKeyword%3D%25E9%25AB%2598%25E9%259B%2584%25E5%25B8%2582%26pageIndex%3D3%26PageType%3D1%26id%3D7f3457ba-f731-4e38-af01-1d25066d790f&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2BCiECkAposEhBY1xrCgsh",
-          "published": "2026-09-19T17:28:22+00:00",
-          "summary": "依據「高雄市淨零城市發展自治條例」第4條第2項第5款規定(略以)：「前款碳預算擬定前應邀集有關機關、學者、專家、民間團體舉辦座談會，或以其他適當方法廣&nbsp;..."
+          "title": "市政新聞-用畫筆勾勒<b>淨零</b>永續未來新北第7屆「繪眼識地球」環境教育繪本展開幕",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ntpc.gov.tw/ch/home.jsp%3Fid%3De8ca970cde5c00e1%26dataserno%3D3a2a25967c56021baff81de977e2706a&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3NqRLKth44wZEXmp5uzsk_",
+          "published": "2026-09-21T03:18:30+00:00",
+          "summary": "市政新聞 &middot; 發佈日期：2026-09-21 &middot; 發佈單位：新北市政府環境保護局 &middot; 類別：機關新聞."
         }
       ]
     }
