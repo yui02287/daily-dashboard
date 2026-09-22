@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-09-21T05:56:09.997514+00:00",
-    "date": "2026-09-21",
+    "generated_at": "2026-09-22T05:52:59.144126+00:00",
+    "date": "2026-09-22",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "30 分鐘建構雷射腔：MIT 導入 7 軸機器人，實現光學實驗「從零到一」自動化",
-          "link": "https://techorange.com/2026/09/21/mit-robotic-lab-runs-optics-experiments-demand/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-21T04:34:06+00:00",
-          "summary": "麻省理工學院（Massachusetts Institute of Technology，MIT）研究團隊打造一套可自主執行光學實驗的機器人系統，讓機器人能自行組裝鏡子、透鏡等光學元件，並依照研究需求調整實驗配置。《Forbes》報導，這套系統可協助研究人員自動完成大量重複性的實驗準備工作，並有望應用於包括量子力學在內的多種研究。 MIT 開發全自動機器人實驗室：30 分鐘組裝「桌上型雷射腔」 這"
+          "title": "企業 AI 準確率如何從 43% 升至 90%？DoorDash 實踐證明：優化資料結構比升級模型更關鍵",
+          "link": "https://techorange.com/2026/09/22/ai-vera-doordashs-data-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-22T04:38:02+00:00",
+          "summary": "美國最大的線上餐點與零售外送平台 DoorDash 正加速將 AI 代理導入企業內部資料分析，並自行打造名為 Vera 的 AI 資料分析代理，讓員工可以直接以自然語言提問，快速取得公司內部資料的分析結果。DoorDash 表示，目前已有超過 1 萬名員工仰賴公司資料生態系，而 Vera 可以從超過 20 萬個資料集、總規模達 350 PB 的企業資料中搜尋所需資訊。 員工可直接查詢營運數據，Do"
         },
         {
-          "title": "AI 失控就拔插頭？打造「終止開關」為何比想像中更難",
-          "link": "https://techorange.com/2026/09/21/ai-kill-switch/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-21T04:14:28+00:00",
-          "summary": "最近幾個月，前沿實驗室的 AI Agent（AI 代理）接連出現越過原先限制的案例。這些事件多發生在評測與研究環境，但當 Agent 能自己操作電腦、使用工具甚至尋找其他行動路徑，一個更實際的問題也跟著浮現：出了問題，人類真的能把 AI 關掉嗎？ 美國已經開始嘗試回答這個問題。加州州長 Gavin Newsom 9 月 18 日發布行政命令，成立專家小組研究 AI「終止開關（kill switch"
+          "title": "RSI 風險浮上檯面，OpenAI 提新標準：AI 研發到哪一步要人類介入？",
+          "link": "https://techorange.com/2026/09/22/standards-ai-rsi/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-22T03:37:08+00:00",
+          "summary": "隨著 AI Agent 越界與模型異常行為話題持續延燒，前沿 AI 公司近期也接連端出新的安全治理方案。從 Anthropic 提出 AI 研發三大量測指標，到 Google DeepMind 主張建立前沿 AI 標準機構，業界正試圖把原本較抽象的安全原則，轉成可量測、可監督的制度。 OpenAI 也在短時間內連續採取行動：9/6 先公開 AI 如何加速內部研究，9/16 再推出模型未對齊報告框架"
         },
         {
-          "title": "先別急著變成 AI Native 組織，勤業眾信資深執行副總經理溫紹群：台灣企業應先用 AI Empower 放大既有優勢",
-          "link": "https://techorange.com/2026/09/21/deloitte-rick-wen-podcast/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-21T03:00:00+00:00",
-          "summary": "專訪：戴季全撰稿：李昀蔚 「企業不會說 AI 不是競爭力，但是 AI 不會是唯一的競爭力。」本集《全新一週》邀請勤業眾信資深執行副總經理溫紹群，從第一線協助企業與組織導入 AI 的經驗出發，剖析 AI Agent 從回答問題走向自主執行後，企業真正面臨的挑戰，已經不只是模型能力，而是資料、流程、系統、組織與治理能不能一起跟上的課題。 從 CIO 如何在百家爭鳴的 AI Agent 生態中規劃未來架"
+          "title": "【AI 代理只是聰明的猴子】軟體工程師的新工作，是打造讓代理更強大的系統邊界",
+          "link": "https://techorange.com/2026/09/22/software-engineer-new-job-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-22T01:33:41+00:00",
+          "summary": "資料工程領域專家認為，軟體工程師要開始理解系統邊界的意義，因為 AI 代理只是比較聰明的猴子，程式開發者得創造出有限環境，讓 AI 生成的邏輯能夠被人類所信賴。"
         },
         {
-          "title": "都透過 Uber App 叫無人車，倫敦 Wayve 仍需配安全駕駛，克羅埃西亞 Pony.ai 已完全無人",
-          "link": "https://techorange.com/2026/09/21/robotaxi-revolution/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-21T02:01:22+00:00",
-          "summary": "本月起，15 輛電動福特 Mustang，開始在倫敦街頭自動行駛，這是倫敦第一個商業化的無人計程車服務，由叫車平台 Uber 與英國自駕技術新創公司 Wayve 合作推出。目前這些車輛仍配有持照駕駛，一旦發生突發狀況可隨時接手控制，倫敦交通局將這些車輛核准為私人租賃車輛，而非自動駕駛車輛。 無人計程車並非新鮮事。全球已有超過 20 個城市，包括美國、中國與中東地區都有無人計程車（robotaxi）"
+          "title": "【電動車退役電池第二人生】供電給旅館、AI 資料中心，新創 Moment 與 Redwood 如何找到解方",
+          "link": "https://techorange.com/2026/09/22/ev-batteries-second-life/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-22T01:33:18+00:00",
+          "summary": "退役電動車電池還有第二人生，離島旅館、機場，甚至 AI 資料中心，都可能靠它們供電。電動車車主眼中「該換電池」的訊號，在儲能業者眼裡，卻是一批還沒用完的資源。 加拿大的 Moment Energy 與美國的 Redwood Materials，正把這些退役電池改造成固定式儲能系統。但這門生意能否成立，除了要拿到足夠的退役電池，還得解決兩個難題：一是電池品牌、電壓、容量與健康狀況都不同，業者得逐一檢"
         },
         {
-          "title": "【零信任程式碼】企業資安別問能不能攔截，先問這段程式碼該不該被允許執行",
-          "link": "https://techorange.com/2026/09/21/ai-malware-to-zero-trust-code/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-21T01:23:16+00:00",
-          "summary": "AI 崛起不只提升開發人員的生產力與技術力，更改變當代資安攻擊的運作模式，促使企業重新思考現有資安防禦策略是否足夠，並進一步走向「零信任程式碼」。"
+          "title": "「世界模型」資金先進場，產品卻還沒定型：AI 新創究竟在藏什麼？",
+          "link": "https://techorange.com/2026/09/22/world-model-secret/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-21T22:30:00+00:00",
+          "summary": "「世界模型（World Model）」正成為 AI 資本市場的新熱門領域，但一個反差也越來越明顯：錢已經大量進場，真正能賺錢的產品卻還沒有定型。 今年以來，Yann LeCun 創立的 AMI Labs 募得 10.3 億美元，李飛飛的 World Labs 也完成 10 億美元融資。更極端的是，《Financial Times》9 月報導，由前 Google DeepMind Genie 團隊成"
         },
         {
-          "title": "從真人侍奉到數據預測：高價郵輪業的 AI 轉型",
-          "link": "https://techorange.com/2026/09/21/ai-is-taking-over-cruise-ships/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-20T22:22:00+00:00",
-          "summary": "過去，高價郵輪最難被科技取代的價值，往往是「人」。旅客支付高昂票價，買的不只是海上客房與餐飲，更包含被記住的感覺：房務人員知道你習慣喝黑咖啡，服務生記得同行家人的生日，甚至船員能在旅程中主動察覺需求。對講究體驗的郵輪品牌而言，這些細節構成了高價服務的重要一環。 然而，這套高度仰賴真人經驗與人力堆疊的商業模式，正迎來 AI 的全面洗牌。《Inc.》報導，AI 在郵輪產業中已經從後台運算走向前台，深入"
+          "title": "【科技早餐】川習會前美中研議 AI 對話、川普將組「AI 部隊」；中國傳放慢人形機器人上市",
+          "link": "https://techorange.com/2026/09/22/us-china-ai-dialogue-ai-force/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-21T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊川習會前美中研議 AI 對話，美提國安事故通報、川普將組「AI 部隊」 美國財政部長貝森特（Scott Bessent）與中國國務院副總理何立峰，在紐約舉行川習會前的經貿會談。雙方討論建立美中 AI 對話，處理 AI 帶來的機會與威脅。美方並提議建立安全通報機制，當 AI 事件升高到國家安全層級時，兩國可以相互通知，提高資訊透明度。中國是否接受這"
         }
       ]
     },
@@ -54,16 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "世界末日躲哪裡可以活比較久？最新研究揭全球最安全國家",
-          "link": "https://www.gvm.com.tw/article/133117",
-          "published": "2026-09-20T11:00:00",
-          "summary": "如果核戰、超級火山爆發或大型小行星撞擊真的發生，全球供應鏈中斷、農作物歉收，哪個國家最有機會撐過危機？德國哈根遠距大學研究團隊綜合糧食安全、生物危害、火山活動、基礎設施及國際貿易等因素後發現，澳洲可能是全球面對重大災難時最具韌性的國家，其次包括阿根廷、巴西與紐西蘭。研究關注的是可能在數月或數年內造成全球超過&nbsp;10%&nbsp;人口死亡的「全球災難性風險」，主要分成三類，核戰、超級火山爆發"
+          "title": "俄羅斯與北約要開戰了？歐洲警戒升高，波羅的海三國卻喊冷靜",
+          "link": "https://www.gvm.com.tw/article/133162",
+          "published": "2026-09-21T19:02:00",
+          "summary": "歐洲警戒升高，俄羅斯混合威脅引發關注，但「升級警戒」是否意味著「即將開戰」？目前，歐洲各國的評估並不一致。波蘭警告俄羅斯可能測試北約第5條，法國要求強化關鍵基礎設施防護；波羅的海三國則表示，目前尚無即將遭攻擊的明確跡象。台灣包括Threads在內的社群平台與論壇，近日熱議歐洲多國升級警戒，甚至擔心俄羅斯可能發動攻擊、引爆更大規模衝突。然而，「警戒升級」是否意味著「即將開戰」？目前歐洲各國的評估並不"
         },
         {
-          "title": "打mRNA新冠疫苗會罹癌？台大權威闢謠：沒有證據顯示會致癌",
-          "link": "https://www.gvm.com.tw/article/133115",
-          "published": "2026-09-20T07:00:00",
-          "summary": "COVID-19已成日常流行疫病之一，但至今網路仍流傳「打mRNA的COVID-19疫苗會罹癌」謠言。專家17日闢謠指出，mRNA不會進入細胞核、更不會改變人體DNA，且沒有證據顯示會致癌。公費流感、COVID-19（2019冠狀病毒疾病）疫苗將在10月開打，台灣感染症醫學會、台灣基層糖尿病學會等學會17日舉辦衛教記者會，破解常見接種mRNA的COVID-19疫苗迷思。會中網路溫度計公布「COVI"
+          "title": "台灣ETF滲透率53%稱霸亞太！但投資人為何「棄被動、轉主動」？",
+          "link": "https://www.gvm.com.tw/article/133163",
+          "published": "2026-09-21T18:39:00",
+          "summary": "貝萊德最新調查顯示，台灣以53%的ETF滲透率稱霸亞太，且高達40%投資人配置主動式ETF。在近九成散戶自主操盤下，市場正面臨從追求配息轉向動態抗震的關鍵十字路口。滲透率53.3％稱霸亞太，台灣ETF規模跨過全民門檻全球資產管理龍頭貝萊德（BlackRock）旗下iShares發布《2026台灣ETF投資人洞察調查》，在針對逾2,300位台灣成年投資人的調查中，台灣成年人口目前約有79%持有至少一"
+        },
+        {
+          "title": "HBR 20週年晚宴》全球秩序重組、AI顛覆媒體！企業財富三大挑戰怎因應？",
+          "link": "https://www.gvm.com.tw/article/133080",
+          "published": "2026-09-21T18:11:00",
+          "summary": "當全球化紅利退潮、AI加速改寫產業規則，企業熟悉的經營座標正全面位移。迎來繁體中文版20週年，《哈佛商業評論》在一整天的年會議程之後，邀集上百位企業家與決策者進行晚宴。在灣聲樂團的悠揚樂音、Johnnie Walker威士忌品味之下，《哈佛商業評論》英文版總主筆殷阿笛談及全球領導觀點，台新私銀投資策略處資深副總阮建銘也分享財管趨勢與總經預測，共同創造一場豐美的知性盛宴。15日，《哈佛商業評論》全球"
+        },
+        {
+          "title": "亞運台灣首金出爐！「軟網混雙」余凱文、黃詩媛冠軍戰打敗日本摘金",
+          "link": "https://www.gvm.com.tw/article/133161",
+          "published": "2026-09-21T17:52:00",
+          "summary": "名古屋亞運今天舉行的軟網混雙項目，台灣組合余凱文、黃詩媛在冠軍戰以5比4擊敗大會頭號種子、日本組合上松俊貴與天間麗奈，如願替台灣代表隊搶下本屆亞運首面金牌。余凱文、黃詩媛今天在8強戰以5比0完封菲律賓組合，接著4強戰對上日本組合丸山海斗、前田梨緒，再以5比0過關。金牌戰余凱文、黃詩媛迎戰地主上松俊貴、天間麗奈，台灣組合頂住主場球迷的壓力，經過2比4、5比3、4比2、1比4、1比4、4比0、1比4、"
+        },
+        {
+          "title": "退場的華夏科大校地變身！台科大打造微電網，停電最高撐8小時",
+          "link": "https://www.gvm.com.tw/article/133160",
+          "published": "2026-09-21T17:41:00",
+          "summary": "台灣科技大學接手新北市中和原華夏科技大學校地3年後，在2026年9月宣布完成全台首座「都市型校園微電網」，將退場校區轉型為智慧能源與防災示範場域。在台電補助1億元及校方自籌經費挹注下，華夏校區導入太陽光電、2MWh儲能、柴油備援發電機與智慧能源管理系統，平時節能減碳，遇到停電則可切換孤島模式，最長維持8小時供電，成為大學結合永續與社區防災的新案例。台灣科技大學於三年前的2023年8月正式接手位於新"
+        },
+        {
+          "title": "中風臥床一個多月，江賢二靠病房窗景打造首部影像作品",
+          "link": "https://www.gvm.com.tw/article/133159",
+          "published": "2026-09-21T17:19:00",
+          "summary": "84歲藝術家江賢二今年因中風臥床一個多月，卻在身體限制中重新看見生命之美，創作生平首件影像作品〈窗〉。9月18日，江賢二藝術園區推出「畫布之外──江賢二的藝術」，從《火與冰》到病後新作，呈現他60多年創作生涯對人性、苦難與希望的追尋。從畫布到牆面、影像與空間，他也再次提醒人們：藝術不只關於美，更是理解世界、淨化人心的方式。享譽國際的知名藝術家江賢二，投身藝術創作超過一甲子，但在今（2026）年因過"
         }
       ]
     },
@@ -72,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "南華大學節電成效獲教育部肯定攜手嘉義縣府推動產業節能 - 波新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bo6s.com.tw/news_detail.php%3FNewsID%3D116733&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2CuQd78DD08g9JGVzvBfTN",
-          "published": "2026-09-21T05:34:11+00:00",
-          "summary": "南華大學校長高俊雄表示，面對全球氣候變遷與淨零轉型趨勢，大學不僅肩負 ... 氣候變遷所帶來的環境挑戰。他表示，節電不僅有助於降低能源使用與營運&nbsp;..."
+          "title": "華航再寫永續新局首度挑戰長程航線使用40% SAF - 航貿週刊",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://shippingdigest.tw/news/20260922n5/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3Fr02VMXlZGaM_9ZFPhNdH",
+          "published": "2026-09-22T01:18:23+00:00",
+          "summary": "華航總經理陳漢銘表示，永續航空燃油是航空業邁向淨零轉型的重要關鍵，華航致力擴大SAF應用範圍，自2025 年起在歐洲、美洲及亞洲等主要區域推動落實；並將低碳&nbsp;..."
         },
         {
-          "title": "工程師吹哨示警AI恐失控反對方指<b>氣候變遷</b>更迫在眉睫｜20260919 全球現場深度週報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DOL-jnT-huRc&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1h1WtPszI5-2DbNBW82eyP",
-          "published": "2026-09-21T05:30:23+00:00",
-          "summary": "「AI末日論」近來在產官學界掀起劇烈論戰，有頂尖企業工程師化身吹哨者示警，業者盲目發展AI，恐將引發人類滅亡危機。日前甚至發生AI Agent 代理程式在人類&nbsp;..."
+          "title": "9/22 雙北免費公車日之後，企業如何看待員工通勤碳排",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://csrone.com/topics/10124&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0uU0WrPBlifTR5j-828JB2",
+          "published": "2026-09-21T22:02:09+00:00",
+          "summary": "一趟免費公車看似只是交通優惠，背後其實連結著淨零轉型中的一項長期課題，如何降低人們對私人汽機車的依賴，轉向大眾運輸。 交通減碳從「人如何移動」出發."
         },
         {
-          "title": "1.5°C 恐失守，UNEP 解析氣候新現實：「過衝、達峰、下降路徑」",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://csrone.com/topics/10121&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1rC4Tjo1QaXxXuTQckbHVC",
-          "published": "2026-09-21T04:58:01+00:00",
-          "summary": "全球長期平均升溫跨越1.5°C 的可能性正在增加。聯合國環境規劃署（UNEP）最新報告指出，即使各國完整落實現有氣候計畫與額外淨零承諾，預期全球升溫峰值仍約&nbsp;..."
+          "title": "面對氣候變化及地緣衝突等不確定性中國糧食安全有可靠保障- 香港文匯報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.wenweipo.com/a/202609/22/AP6ab197f9e4b01d54a2843b09.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1YsluhlC7Ovp8RRQgjJ14e",
+          "published": "2026-09-21T20:54:15+00:00",
+          "summary": "劉煥鑫指出，近期世界氣象組織預測厄爾尼諾現象持續增強，將對全球糧食生產帶來一定影響；同時，地緣衝突導致運輸通道受阻、化肥價格上漲，進而造成糧食生產&nbsp;..."
         },
         {
-          "title": "推動綠色辦公，找對「神隊友」，就能從日常工作輕鬆實踐！",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14153&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1BxeFrAW31dmQDIR4FFxpa",
-          "published": "2026-09-21T04:06:32+00:00",
-          "summary": "「淨零綠生活大聯盟」低碳辦公神隊友對接交流會，邀請#群光電能科技、#凱鈿行動科技、#正隆、#緯詠智能，分享企業可直接導入的綠色解方."
+          "title": "加州嚴陣以待紐森簽緊急令迎戰歷史性風暴 - 星島日報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.singtaousa.com/2026/09/21/news/usa/governor-newsom-proclaims-state-of-emergency-to-bolster-statewide-el-nino-preparedness-protect-california/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw09i7IOUNEwgZ-5ECKLDx5j",
+          "published": "2026-09-21T20:39:36+00:00",
+          "summary": "面對預測將是史上最強的「超級厄爾尼諾」（El Niño）氣候現象，美國加州（California）州長紐森（Gavin Newsom）宣布全州進入緊急狀態。"
         },
         {
-          "title": "深耕在地與國際接軌！亞太能源科學教育協會持續協辦第三屆「嘉風盃」風力永續能源創意實作 ...",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.peopo.org/news/858333&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw29nGb_V62fQOHt4wOspTks",
-          "published": "2026-09-21T04:04:14+00:00",
-          "summary": "蘇教授長期深耕並致力於臺灣能源教育，他為本競賽堅定擘畫了「淨零永續、綠能環保、地方融入」十二字核心精神。蘇教授堅持在地化經營的初衷，成功帶領團隊&nbsp;..."
+          "title": "億緯鋰能：2030年實現運營<b>碳中和</b>",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.futunn.com/hk/post/79562108&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0dDX21ccnmETwLPABg4w14",
+          "published": "2026-09-21T20:02:57+00:00",
+          "summary": "證券之星消息，億緯鋰能(300014)09月20日在投資者關係平台上答覆投資者關心的問題。投資者提問：聯合國警告，全球變暖超過巴黎氣候協議的1.5℃已經不可避免，&nbsp;..."
         },
         {
-          "title": "市政新聞-用畫筆勾勒<b>淨零</b>永續未來新北第7屆「繪眼識地球」環境教育繪本展開幕",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ntpc.gov.tw/ch/home.jsp%3Fid%3De8ca970cde5c00e1%26dataserno%3D3a2a25967c56021baff81de977e2706a&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3NqRLKth44wZEXmp5uzsk_",
-          "published": "2026-09-21T03:18:30+00:00",
-          "summary": "市政新聞 &middot; 發佈日期：2026-09-21 &middot; 發佈單位：新北市政府環境保護局 &middot; 類別：機關新聞."
+          "title": "用畫筆勾勒<b>淨零</b>永續未來新北第7屆「繪眼識地球」環境教育繪本展開幕 - 蕃新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20260921374240&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0g2bl6-m4M9QTsWvdheYUu",
+          "published": "2026-09-21T19:32:36+00:00",
+          "summary": "【記者王志成／新北報導】用畫筆勾勒淨零永續未來！新北市政府環境保護局(二十)日舉辦第七屆「繪眼識地球."
         }
       ]
     }
