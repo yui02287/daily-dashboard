@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-09-22T05:52:59.144126+00:00",
-    "date": "2026-09-22",
+    "generated_at": "2026-09-23T05:32:06.113731+00:00",
+    "date": "2026-09-23",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
+          "title": "【AI 驅動的 vibe hacking】漏洞數量已找不完，企業資安計畫重點轉向驗證漏洞「可利用性」",
+          "link": "https://techorange.com/2026/09/23/vibe-hacking/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-23T02:39:24+00:00",
+          "summary": "過去，發動一場像樣的資安攻擊，需要經年累月鑽研技術才辦得到。但現在，只要懂得怎麼下指令給 AI，就有機會做到過去專業駭客才能完成的攻擊，這種被稱為「vibe hacking」的新型態攻擊，迫使企業資安團隊重新思考防禦節奏。 AI 讓攻擊技能門檻大幅降低 「Vibe hacking」是 AI 公司 Anthropic 提出的用語，指攻擊者只設定一個籠統目標，例如「入侵這家公司的系統並竊取資料」，接著"
+        },
+        {
+          "title": "歐洲央行正式接軌代幣化市場，Pontes 把鏈上交易接回央行貨幣",
+          "link": "https://techorange.com/2026/09/23/ecb-pontes-dlt/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-22T21:52:00+00:00",
+          "summary": "債券等金融資產逐漸走向代幣化，發行、交易甚至部分交割流程都能搬到分散式帳本，但交易完成後，最後要用什麼錢結算？歐洲央行（ECB）現在正式把央行貨幣接進這個新市場。 ECB 在 9/21 正式上線 Pontes，讓銀行與市場基礎設施交易代幣化資產後，可以透過歐元體系既有的 TARGET 服務，以央行貨幣完成結算。這也代表 ECB 過去數年的分散式帳本技術（distributed ledger tec"
+        },
+        {
+          "title": "【科技早餐】Meta Muse 超車 ChatGPT，Amazon 封鎖 AI 代理購物",
+          "link": "https://techorange.com/2026/09/23/meta-muse-tops-app-store-amazon-blocks-ai-shopping/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-22T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Meta Muse 超車 ChatGPT 登頂 App Store，Amazon 封鎖代理購物 Meta 於 9 月 8 日推出個人 AI 助理 Muse，可替使用者研究資料、填寫表格、預約服務及購買商品，並能連結電子郵件、行事曆、Instagram 等服務。Muse 上線後下載排名迅速超越 ChatGPT，一度登上美國 Apple App St"
+        },
+        {
+          "title": "Amazon 封鎖 Meta Muse、Shopify 卻主動接入：AI Agent 能不能進站，誰說了算？",
+          "link": "https://techorange.com/2026/09/22/amazon-shopify-ai-agent-shopping/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-22T09:35:12+00:00",
+          "summary": "AI 正快速進入消費者的購物流程，新的問題也逐漸浮現。PYMNTS Intelligence 與 Visa Acceptance Solutions 今年調查美國、巴西、阿聯 5,841 名消費者發現，47% 線上購物者在最近一次購物中使用過 AI。而當 AI 從找商品、比價，進一步能替人開啟網站、登入帳號甚至下單，商家開始需要思考：外部 AI Agent（AI 代理） 要進入自家公司的交易環境，"
+        },
+        {
+          "title": "IFR：人形機器人 2025 實銷 7,000 台，美銀估 2030 上看 120 萬台",
+          "link": "https://techorange.com/2026/09/22/ifr-humanoid-robot-sales-tally-hit-7000-globally-last-year/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-22T09:15:25+00:00",
+          "summary": "《Reuters》報導，據國際機器人聯盟（International Federation of Robotics，IFR）彙整的數據，2025 年全球約售出 7,000 台人形機器人，主要用於工業與專業服務。這項數據也是 IFR 首次將人形機器人納入其機器人產業統計。 人形機器人目前銷售規模仍有限，與市場成長預期成對比 《Reuters》指出，目前人形機器人的實際銷售規模仍相對有限，但與市場對未"
+        },
+        {
           "title": "企業 AI 準確率如何從 43% 升至 90%？DoorDash 實踐證明：優化資料結構比升級模型更關鍵",
           "link": "https://techorange.com/2026/09/22/ai-vera-doordashs-data-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
           "published": "2026-09-22T04:38:02+00:00",
           "summary": "美國最大的線上餐點與零售外送平台 DoorDash 正加速將 AI 代理導入企業內部資料分析，並自行打造名為 Vera 的 AI 資料分析代理，讓員工可以直接以自然語言提問，快速取得公司內部資料的分析結果。DoorDash 表示，目前已有超過 1 萬名員工仰賴公司資料生態系，而 Vera 可以從超過 20 萬個資料集、總規模達 350 PB 的企業資料中搜尋所需資訊。 員工可直接查詢營運數據，Do"
-        },
-        {
-          "title": "RSI 風險浮上檯面，OpenAI 提新標準：AI 研發到哪一步要人類介入？",
-          "link": "https://techorange.com/2026/09/22/standards-ai-rsi/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-22T03:37:08+00:00",
-          "summary": "隨著 AI Agent 越界與模型異常行為話題持續延燒，前沿 AI 公司近期也接連端出新的安全治理方案。從 Anthropic 提出 AI 研發三大量測指標，到 Google DeepMind 主張建立前沿 AI 標準機構，業界正試圖把原本較抽象的安全原則，轉成可量測、可監督的制度。 OpenAI 也在短時間內連續採取行動：9/6 先公開 AI 如何加速內部研究，9/16 再推出模型未對齊報告框架"
-        },
-        {
-          "title": "【AI 代理只是聰明的猴子】軟體工程師的新工作，是打造讓代理更強大的系統邊界",
-          "link": "https://techorange.com/2026/09/22/software-engineer-new-job-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-22T01:33:41+00:00",
-          "summary": "資料工程領域專家認為，軟體工程師要開始理解系統邊界的意義，因為 AI 代理只是比較聰明的猴子，程式開發者得創造出有限環境，讓 AI 生成的邏輯能夠被人類所信賴。"
-        },
-        {
-          "title": "【電動車退役電池第二人生】供電給旅館、AI 資料中心，新創 Moment 與 Redwood 如何找到解方",
-          "link": "https://techorange.com/2026/09/22/ev-batteries-second-life/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-22T01:33:18+00:00",
-          "summary": "退役電動車電池還有第二人生，離島旅館、機場，甚至 AI 資料中心，都可能靠它們供電。電動車車主眼中「該換電池」的訊號，在儲能業者眼裡，卻是一批還沒用完的資源。 加拿大的 Moment Energy 與美國的 Redwood Materials，正把這些退役電池改造成固定式儲能系統。但這門生意能否成立，除了要拿到足夠的退役電池，還得解決兩個難題：一是電池品牌、電壓、容量與健康狀況都不同，業者得逐一檢"
-        },
-        {
-          "title": "「世界模型」資金先進場，產品卻還沒定型：AI 新創究竟在藏什麼？",
-          "link": "https://techorange.com/2026/09/22/world-model-secret/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-21T22:30:00+00:00",
-          "summary": "「世界模型（World Model）」正成為 AI 資本市場的新熱門領域，但一個反差也越來越明顯：錢已經大量進場，真正能賺錢的產品卻還沒有定型。 今年以來，Yann LeCun 創立的 AMI Labs 募得 10.3 億美元，李飛飛的 World Labs 也完成 10 億美元融資。更極端的是，《Financial Times》9 月報導，由前 Google DeepMind Genie 團隊成"
-        },
-        {
-          "title": "【科技早餐】川習會前美中研議 AI 對話、川普將組「AI 部隊」；中國傳放慢人形機器人上市",
-          "link": "https://techorange.com/2026/09/22/us-china-ai-dialogue-ai-force/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-21T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊川習會前美中研議 AI 對話，美提國安事故通報、川普將組「AI 部隊」 美國財政部長貝森特（Scott Bessent）與中國國務院副總理何立峰，在紐約舉行川習會前的經貿會談。雙方討論建立美中 AI 對話，處理 AI 帶來的機會與威脅。美方並提議建立安全通報機制，當 AI 事件升高到國家安全層級時，兩國可以相互通知，提高資訊透明度。中國是否接受這"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "俄羅斯與北約要開戰了？歐洲警戒升高，波羅的海三國卻喊冷靜",
-          "link": "https://www.gvm.com.tw/article/133162",
-          "published": "2026-09-21T19:02:00",
-          "summary": "歐洲警戒升高，俄羅斯混合威脅引發關注，但「升級警戒」是否意味著「即將開戰」？目前，歐洲各國的評估並不一致。波蘭警告俄羅斯可能測試北約第5條，法國要求強化關鍵基礎設施防護；波羅的海三國則表示，目前尚無即將遭攻擊的明確跡象。台灣包括Threads在內的社群平台與論壇，近日熱議歐洲多國升級警戒，甚至擔心俄羅斯可能發動攻擊、引爆更大規模衝突。然而，「警戒升級」是否意味著「即將開戰」？目前歐洲各國的評估並不"
+          "title": "2026亞運棒球》愛知名古屋亞運棒球賽程資訊全攻略！台灣賽程、參賽隊伍、分組名單、球員資訊、轉播單位一次看",
+          "link": "https://www.gvm.com.tw/article/132904",
+          "published": "2026-09-22T23:05:00",
+          "summary": "2026年亞洲運動會正式於9月19日至10月4日在日本愛知、名古屋舉行，台灣球迷最關注的棒球項目，則於9月21日至27日展開。台灣是否能在2006年杜哈亞運後，時隔20年再抱回一面金牌？4年一度的亞洲體壇盛會即將登場！2026年亞洲運動會將於9月19日至10月4日在日本愛知、名古屋舉行，來自亞洲各國的頂尖好手齊聚一堂，而台灣球迷最關注的棒球項目，則將於9月21日至27日展開，一路從小組賽打到金牌戰"
         },
         {
-          "title": "台灣ETF滲透率53%稱霸亞太！但投資人為何「棄被動、轉主動」？",
-          "link": "https://www.gvm.com.tw/article/133163",
-          "published": "2026-09-21T18:39:00",
-          "summary": "貝萊德最新調查顯示，台灣以53%的ETF滲透率稱霸亞太，且高達40%投資人配置主動式ETF。在近九成散戶自主操盤下，市場正面臨從追求配息轉向動態抗震的關鍵十字路口。滲透率53.3％稱霸亞太，台灣ETF規模跨過全民門檻全球資產管理龍頭貝萊德（BlackRock）旗下iShares發布《2026台灣ETF投資人洞察調查》，在針對逾2,300位台灣成年投資人的調查中，台灣成年人口目前約有79%持有至少一"
+          "title": "奉俊昊應金馬之邀將首度來台！金馬電影大師課首波夢幻講師名單大公開",
+          "link": "https://www.gvm.com.tw/article/133187",
+          "published": "2026-09-22T19:53:00",
+          "summary": "2026年金馬電影大師課，邀來奧斯卡最佳影片《寄生上流》韓國大導奉俊昊、日本國民喜劇大師三谷幸喜、威尼斯金獅獎名導戴倫艾洛諾夫斯基、全球賣座動畫《小小兵》導演凱爾巴爾達，為電影人傾囊相授獨門心法與寶貴經驗。每年11月舉辦的「金馬電影大師課」，率先揭曉首波夢幻講師名單。金馬執委會與文化部影視及流行音樂產業局合作、和碩聯合科技贊助支持下，邀來奧斯卡最佳影片《寄生上流》韓國大導奉俊昊、日本國民喜劇大師三"
         },
         {
-          "title": "HBR 20週年晚宴》全球秩序重組、AI顛覆媒體！企業財富三大挑戰怎因應？",
-          "link": "https://www.gvm.com.tw/article/133080",
-          "published": "2026-09-21T18:11:00",
-          "summary": "當全球化紅利退潮、AI加速改寫產業規則，企業熟悉的經營座標正全面位移。迎來繁體中文版20週年，《哈佛商業評論》在一整天的年會議程之後，邀集上百位企業家與決策者進行晚宴。在灣聲樂團的悠揚樂音、Johnnie Walker威士忌品味之下，《哈佛商業評論》英文版總主筆殷阿笛談及全球領導觀點，台新私銀投資策略處資深副總阮建銘也分享財管趨勢與總經預測，共同創造一場豐美的知性盛宴。15日，《哈佛商業評論》全球"
+          "title": "川習二會談台灣？AI、稀土等五大議題曝光，黃仁勳、馬斯克將赴國宴",
+          "link": "https://www.gvm.com.tw/article/133186",
+          "published": "2026-09-22T19:03:00",
+          "summary": "24日川習會聚焦五大議題：貿易休兵、AI、台灣、稀土與關鍵礦物、伊朗。美中貿易休兵11月10日到期，美國傾向延長三至六個月；雙方也預計建立AI安全對話機制，約兩個月後再次會談；同時，台灣議題也再次成為川習會焦點。此外，黃仁勳、馬斯克等科技巨頭，預計出席24日的白宮國宴。中國國家主席習近平23日將抵達美國，展開三日的國是訪問；24日，將與美國總統川普（Donald Trump）在華府舉行今年的第二次"
         },
         {
-          "title": "亞運台灣首金出爐！「軟網混雙」余凱文、黃詩媛冠軍戰打敗日本摘金",
-          "link": "https://www.gvm.com.tw/article/133161",
-          "published": "2026-09-21T17:52:00",
-          "summary": "名古屋亞運今天舉行的軟網混雙項目，台灣組合余凱文、黃詩媛在冠軍戰以5比4擊敗大會頭號種子、日本組合上松俊貴與天間麗奈，如願替台灣代表隊搶下本屆亞運首面金牌。余凱文、黃詩媛今天在8強戰以5比0完封菲律賓組合，接著4強戰對上日本組合丸山海斗、前田梨緒，再以5比0過關。金牌戰余凱文、黃詩媛迎戰地主上松俊貴、天間麗奈，台灣組合頂住主場球迷的壓力，經過2比4、5比3、4比2、1比4、1比4、4比0、1比4、"
+          "title": "TRF為何害慘許多人？槓桿一旦失控，資產也可能變成負數",
+          "link": "https://www.gvm.com.tw/article/133064",
+          "published": "2026-09-22T18:10:00",
+          "summary": "台股AI行情震盪劇烈，有人為了加速累積資產，在行情看漲時提高投資槓桿，甚至同時背負房貸、車貸、信貸與股票質押融資。據媒體報導，近期30至40歲科技族群因貸款、股票質押與工作等多重壓力求診，比平常增加超過2成。借錢投資，看起來像是把累積資產的速度拉快，但市場一旦反轉，槓桿也會把虧損同步放大。（本文節錄自《財商》一書，作者：吳淡如，時報出版，以下為摘文。）理財不能只想最好結果，也得先想最壞結果。你應該"
         },
         {
-          "title": "退場的華夏科大校地變身！台科大打造微電網，停電最高撐8小時",
-          "link": "https://www.gvm.com.tw/article/133160",
-          "published": "2026-09-21T17:41:00",
-          "summary": "台灣科技大學接手新北市中和原華夏科技大學校地3年後，在2026年9月宣布完成全台首座「都市型校園微電網」，將退場校區轉型為智慧能源與防災示範場域。在台電補助1億元及校方自籌經費挹注下，華夏校區導入太陽光電、2MWh儲能、柴油備援發電機與智慧能源管理系統，平時節能減碳，遇到停電則可切換孤島模式，最長維持8小時供電，成為大學結合永續與社區防災的新案例。台灣科技大學於三年前的2023年8月正式接手位於新"
+          "title": "從桑德伯格到納德拉的真誠領導：先自我修復，才能在職場帶人又帶心",
+          "link": "https://www.gvm.com.tw/article/133017",
+          "published": "2026-09-22T18:06:00",
+          "summary": "在職場上展現真誠與脆弱，究竟是建立信任的利器，還是自曝其短的危機？真正有力量的領導，不是把情緒藏起來，而是懂得在真實與專業之間拿捏分寸。臉書前營運長雪柔・桑德伯格、微軟執行長薩蒂亞・納德拉等知名領導者的真實經驗，教你如何在職場走好這條「真實的鋼索」，打造更有同理心的團隊氛圍。（本文節錄自《情緒過勞》一書，作者：迪娜．鄧翰．史密斯，艾莉西亞．格蘭迪／天下文化出版，以下為摘文。）臉書前營運長雪柔・桑德"
         },
         {
-          "title": "中風臥床一個多月，江賢二靠病房窗景打造首部影像作品",
-          "link": "https://www.gvm.com.tw/article/133159",
-          "published": "2026-09-21T17:19:00",
-          "summary": "84歲藝術家江賢二今年因中風臥床一個多月，卻在身體限制中重新看見生命之美，創作生平首件影像作品〈窗〉。9月18日，江賢二藝術園區推出「畫布之外──江賢二的藝術」，從《火與冰》到病後新作，呈現他60多年創作生涯對人性、苦難與希望的追尋。從畫布到牆面、影像與空間，他也再次提醒人們：藝術不只關於美，更是理解世界、淨化人心的方式。享譽國際的知名藝術家江賢二，投身藝術創作超過一甲子，但在今（2026）年因過"
+          "title": "全台都不想生！19縣市人口自然成長全轉負，老年指數也全破百",
+          "link": "https://www.gvm.com.tw/article/133185",
+          "published": "2026-09-22T17:59:00",
+          "summary": "全台少子化危機惡化！《遠見》近日進行縣市大調查，發現人口自然增加率， 相比過去，就算是整體趨勢向下，全台19縣市大體仍會有一、兩個城市為正成長，但最新資料顯示，各縣市的人口自然增加率已全面負成長。與此同時，全台19縣市的老化指數也全面突破100，這代表各縣市的老年人口數量，已全面超過幼年人口，顯示台灣人口高齡化現象愈來愈嚴峻。《遠見》調查發現，資源較多的縣市，其人口自然增加率的表現相對較好，除了竹"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "華航再寫永續新局首度挑戰長程航線使用40% SAF - 航貿週刊",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://shippingdigest.tw/news/20260922n5/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3Fr02VMXlZGaM_9ZFPhNdH",
-          "published": "2026-09-22T01:18:23+00:00",
-          "summary": "華航總經理陳漢銘表示，永續航空燃油是航空業邁向淨零轉型的重要關鍵，華航致力擴大SAF應用範圍，自2025 年起在歐洲、美洲及亞洲等主要區域推動落實；並將低碳&nbsp;..."
+          "title": "內雙溪自然中心啟動碳封存為城市<b>淨零</b>打通關 - 行銷人",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.marketersgo.com/uncategorized/202609/%25E5%2585%25A7%25E9%259B%2599%25E6%25BA%25AA%25E8%2587%25AA%25E7%2584%25B6%25E4%25B8%25AD%25E5%25BF%2583%25E5%2595%259F%25E5%258B%2595%25E7%25A2%25B3%25E5%25B0%2581%25E5%25AD%2598%25E3%2580%2580%25E7%2582%25BA%25E5%259F%258E%25E5%25B8%2582%25E6%25B7%25A8%25E9%259B%25B6%25E6%2589%2593%25E9%2580%259A%25E9%2597%259C/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3PD8sbnnZBAIb8MVUhE8PQ",
+          "published": "2026-09-23T05:04:05+00:00",
+          "summary": "不是只有種樹才能為地球固碳！ &middot; 看似不起眼的黑炭不僅靠著微孔隙來改善土壤結構、幫植物保水透氣，更悄悄地將大約1公噸的二氧化碳緊緊鎖在土地中。 &middot; 生物炭不僅&nbsp;..."
         },
         {
-          "title": "9/22 雙北免費公車日之後，企業如何看待員工通勤碳排",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://csrone.com/topics/10124&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0uU0WrPBlifTR5j-828JB2",
-          "published": "2026-09-21T22:02:09+00:00",
-          "summary": "一趟免費公車看似只是交通優惠，背後其實連結著淨零轉型中的一項長期課題，如何降低人們對私人汽機車的依賴，轉向大眾運輸。 交通減碳從「人如何移動」出發."
+          "title": "內雙溪自然中心啟動碳封存為城市<b>淨零</b>打通關- 生活新聞 - PCHOME NEWS",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/living/morenews/20260923/index-79013621877194350009.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0MYnJWvU_1pmVkmQND5dRZ",
+          "published": "2026-09-23T04:56:40+00:00",
+          "summary": "墨新聞｜記者鄭富鈺／綜合報導為響應臺北市政府推動「2050淨零排放」目標，北市府大地工程處與土星烏日股份有限公司展開跨界合作，搶先於內雙溪自然中心啟動&nbsp;..."
         },
         {
-          "title": "面對氣候變化及地緣衝突等不確定性中國糧食安全有可靠保障- 香港文匯報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.wenweipo.com/a/202609/22/AP6ab197f9e4b01d54a2843b09.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1YsluhlC7Ovp8RRQgjJ14e",
-          "published": "2026-09-21T20:54:15+00:00",
-          "summary": "劉煥鑫指出，近期世界氣象組織預測厄爾尼諾現象持續增強，將對全球糧食生產帶來一定影響；同時，地緣衝突導致運輸通道受阻、化肥價格上漲，進而造成糧食生產&nbsp;..."
+          "title": "TAIWAN COP6十月高雄登場跨界共築氣候韌性、加速<b>淨零</b>實踐 - Yahoo股市",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/taiwan-cop6%25E5%258D%2581%25E6%259C%2588%25E9%25AB%2598%25E9%259B%2584%25E7%2599%25BB%25E5%25A0%25B4-%25E8%25B7%25A8%25E7%2595%258C%25E5%2585%25B1%25E7%25AF%2589%25E6%25B0%25A3%25E5%2580%2599%25E9%259F%258C%25E6%2580%25A7-%25E5%258A%25A0%25E9%2580%259F%25E6%25B7%25A8%25E9%259B%25B6%25E5%25AF%25A6%25E8%25B8%2590-044756899.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2elGCSSLlGhwZqb0h2Bq51",
+          "published": "2026-09-23T04:53:23+00:00",
+          "summary": "... 氣候變遷署、交通部中央氣象署、海洋委員會海洋保育署、高雄市政府環境保護局及國泰金控共同主辦，以「邁向淨零，共創未來」為核心，呼應「From Promise to&nbsp;..."
         },
         {
-          "title": "加州嚴陣以待紐森簽緊急令迎戰歷史性風暴 - 星島日報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.singtaousa.com/2026/09/21/news/usa/governor-newsom-proclaims-state-of-emergency-to-bolster-statewide-el-nino-preparedness-protect-california/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw09i7IOUNEwgZ-5ECKLDx5j",
-          "published": "2026-09-21T20:39:36+00:00",
-          "summary": "面對預測將是史上最強的「超級厄爾尼諾」（El Niño）氣候現象，美國加州（California）州長紐森（Gavin Newsom）宣布全州進入緊急狀態。"
+          "title": "TAIWAN COP6十月高雄登場跨界共築氣候韌性、加速<b>淨零</b>實踐 - 商傳媒",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://sunmedia.tw/news/technology/TAIWAN-COP6%25E5%258D%2581%25E6%259C%2588%25E9%25AB%2598%25E9%259B%2584%25E7%2599%25BB%25E5%25A0%25B4%25E3%2580%2580%25E8%25B7%25A8%25E7%2595%258C%25E5%2585%25B1%25E7%25AF%2589%25E6%25B0%25A3%25E5%2580%2599%25E9%259F%258C%25E6%2580%25A7%25E3%2580%2581%25E5%258A%25A0%25E9%2580%259F%25E6%25B7%25A8%25E9%259B%25B6%25E5%25AF%25A6%25E8%25B8%2590-1790138460969&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0aSxBlz6KzZ-aHTVG6zWUi",
+          "published": "2026-09-23T04:50:09+00:00",
+          "summary": "本屆由國際氣候發展智庫、環境部氣候變遷署、交通部中央氣象署、海洋委員會海洋保育署、高雄市政府環境保護局及國泰金控共同主辦，以「邁向淨零，共創未來&nbsp;..."
         },
         {
-          "title": "億緯鋰能：2030年實現運營<b>碳中和</b>",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.futunn.com/hk/post/79562108&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0dDX21ccnmETwLPABg4w14",
-          "published": "2026-09-21T20:02:57+00:00",
-          "summary": "證券之星消息，億緯鋰能(300014)09月20日在投資者關係平台上答覆投資者關心的問題。投資者提問：聯合國警告，全球變暖超過巴黎氣候協議的1.5℃已經不可避免，&nbsp;..."
+          "title": "PMC攜手元進莊完成產業<b>淨零</b>轉型新里程 - 工商時報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260923700818-431204&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1xGVZCPAb0GvfFJqKn7GA0",
+          "published": "2026-09-23T04:44:50+00:00",
+          "summary": "PMC代理總經理李健勲表示，製造與加工產業在推動低碳轉型過程中，數據的真實性、完整性與合規性是首要關鍵。PMC作為具備專業技術背景的查證機構，&nbsp;..."
         },
         {
-          "title": "用畫筆勾勒<b>淨零</b>永續未來新北第7屆「繪眼識地球」環境教育繪本展開幕 - 蕃新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20260921374240&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0g2bl6-m4M9QTsWvdheYUu",
-          "published": "2026-09-21T19:32:36+00:00",
-          "summary": "【記者王志成／新北報導】用畫筆勾勒淨零永續未來！新北市政府環境保護局(二十)日舉辦第七屆「繪眼識地球."
+          "title": "市政新聞-<b>淨零</b>助攻外貿拓銷中市府助特登工廠接軌綠色商機搶攻國際訂單 - 臺中市政府",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.taichung.gov.tw/3377193/post&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0372AQQ1QEv9hS7lA-DIvZ",
+          "published": "2026-09-23T04:03:35+00:00",
+          "summary": "經發局表示，面對國際市場對低碳、永續及綠色採購要求日益提升，特定工廠除了持續推動合法化，也必須同步強化產業競爭力及國際市場布局。此次系列講座將從「中小&nbsp;..."
         }
       ]
     }
