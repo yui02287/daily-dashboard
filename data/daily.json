@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-09-23T05:32:06.113731+00:00",
-    "date": "2026-09-23",
+    "generated_at": "2026-09-24T05:52:48.673154+00:00",
+    "date": "2026-09-24",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "【AI 驅動的 vibe hacking】漏洞數量已找不完，企業資安計畫重點轉向驗證漏洞「可利用性」",
-          "link": "https://techorange.com/2026/09/23/vibe-hacking/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-23T02:39:24+00:00",
-          "summary": "過去，發動一場像樣的資安攻擊，需要經年累月鑽研技術才辦得到。但現在，只要懂得怎麼下指令給 AI，就有機會做到過去專業駭客才能完成的攻擊，這種被稱為「vibe hacking」的新型態攻擊，迫使企業資安團隊重新思考防禦節奏。 AI 讓攻擊技能門檻大幅降低 「Vibe hacking」是 AI 公司 Anthropic 提出的用語，指攻擊者只設定一個籠統目標，例如「入侵這家公司的系統並竊取資料」，接著"
+          "title": "Meta 為 Muse 再開一個入口：Charm 把 AI Agent 放進口袋、掛上鑰匙圈",
+          "link": "https://techorange.com/2026/09/24/meta-muse-charm-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-24T04:58:25+00:00",
+          "summary": "把 AI 做成可以隨身攜帶的獨立裝置，已不是科技業的新點子。從 Friend 等產品到各式 AI 穿戴裝置，業者近年不斷嘗試，但這類產品能否形成真正需求，至今仍有待驗證。如今，Meta 正把這項嘗試，延伸到自家的個人 AI Agent（AI 代理）Muse，擴大 Muse 的使用範圍。 美國時間 9/23 登場的年度 Connect 大會上，Meta 一口氣宣布 Muse 將登上 AI 眼鏡、操作"
         },
         {
-          "title": "歐洲央行正式接軌代幣化市場，Pontes 把鏈上交易接回央行貨幣",
-          "link": "https://techorange.com/2026/09/23/ecb-pontes-dlt/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-22T21:52:00+00:00",
-          "summary": "債券等金融資產逐漸走向代幣化，發行、交易甚至部分交割流程都能搬到分散式帳本，但交易完成後，最後要用什麼錢結算？歐洲央行（ECB）現在正式把央行貨幣接進這個新市場。 ECB 在 9/21 正式上線 Pontes，讓銀行與市場基礎設施交易代幣化資產後，可以透過歐元體系既有的 TARGET 服務，以央行貨幣完成結算。這也代表 ECB 過去數年的分散式帳本技術（distributed ledger tec"
+          "title": "參數不到 Cosmos 一半卻登頂 RoboLab：BFL 開放權重模型 FLUX 3 Action 登場",
+          "link": "https://techorange.com/2026/09/24/black-forest-labs-flux-3-action/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-24T04:47:09+00:00",
+          "summary": "以影像生成模型 FLUX 打響名號的德國 AI 新創 Black Forest Labs（BFL），近日宣布推出機器人模型 FLUX 3 Action，正式跨足機器人領域。《VentureBeat》報導，這款模型擁有 70 億參數，採開放權重形式發布。 從影片生成跨足物理表徵：FLUX 3 Action 如何預測機器人動作 FLUX 3 Action 是一款世界動作模型（World Action "
         },
         {
-          "title": "【科技早餐】Meta Muse 超車 ChatGPT，Amazon 封鎖 AI 代理購物",
-          "link": "https://techorange.com/2026/09/23/meta-muse-tops-app-store-amazon-blocks-ai-shopping/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-22T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Meta Muse 超車 ChatGPT 登頂 App Store，Amazon 封鎖代理購物 Meta 於 9 月 8 日推出個人 AI 助理 Muse，可替使用者研究資料、填寫表格、預約服務及購買商品，並能連結電子郵件、行事曆、Instagram 等服務。Muse 上線後下載排名迅速超越 ChatGPT，一度登上美國 Apple App St"
+          "title": "企業導入 AI 面臨哪些資安風險？從 AI 測試事件看 AI Security 與供應鏈安全新挑戰",
+          "link": "https://techorange.com/2026/09/24/gss-ai-security-mendio/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-24T02:39:25+00:00",
+          "summary": "生成式 AI 快速進入企業開發與營運流程，隨著 AI 模型的能力持續提升，企業面臨的 AI Security 風險也從模型本身，進一步延伸至模型所能取得的權限、可連接的系統與實際執行環境。近期接連傳出的 AI 安全測試事件引發各界關注，AI 模型被發現可能突破原有的環境限制，連線至外部企業系統，甚至修改系統設定，反映出企業在導入 AI 模型時，除了關注模型本身的安全性，也需要重新檢視模型所能取得的"
         },
         {
-          "title": "Amazon 封鎖 Meta Muse、Shopify 卻主動接入：AI Agent 能不能進站，誰說了算？",
-          "link": "https://techorange.com/2026/09/22/amazon-shopify-ai-agent-shopping/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-22T09:35:12+00:00",
-          "summary": "AI 正快速進入消費者的購物流程，新的問題也逐漸浮現。PYMNTS Intelligence 與 Visa Acceptance Solutions 今年調查美國、巴西、阿聯 5,841 名消費者發現，47% 線上購物者在最近一次購物中使用過 AI。而當 AI 從找商品、比價，進一步能替人開啟網站、登入帳號甚至下單，商家開始需要思考：外部 AI Agent（AI 代理） 要進入自家公司的交易環境，"
+          "title": "人形機器人短期內仍趕不上人類工人：操控、泛化、安全性卡住實際運用",
+          "link": "https://techorange.com/2026/09/24/the-limit-of-humanoid-ai-robot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-24T01:13:56+00:00",
+          "summary": "人形機器人已經足以取代人類勞動力了嗎？當代 AI 機器人確實能夠完成艱難的特技動作，但反過來說像拿起可樂、剝橘子等簡單任務，對於人形機器人卻非常困難。"
         },
         {
-          "title": "IFR：人形機器人 2025 實銷 7,000 台，美銀估 2030 上看 120 萬台",
-          "link": "https://techorange.com/2026/09/22/ifr-humanoid-robot-sales-tally-hit-7000-globally-last-year/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-22T09:15:25+00:00",
-          "summary": "《Reuters》報導，據國際機器人聯盟（International Federation of Robotics，IFR）彙整的數據，2025 年全球約售出 7,000 台人形機器人，主要用於工業與專業服務。這項數據也是 IFR 首次將人形機器人納入其機器人產業統計。 人形機器人目前銷售規模仍有限，與市場成長預期成對比 《Reuters》指出，目前人形機器人的實際銷售規模仍相對有限，但與市場對未"
+          "title": "不靠漲價也能救毛利：AI 正把「菜單工程」變餐廳新財務槓桿",
+          "link": "https://techorange.com/2026/09/24/ai-menu-engineering/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-23T22:33:00+00:00",
+          "summary": "通膨蔓延、食材成本劇增與人力短缺，正讓餐飲業的營運數學變得空前艱難。過往業者習慣將「調漲售價」視為拆解成本危機的萬靈丹，然而根據餐飲管理軟體平台 Craftable 的資料，自疫情爆發以來，餐飲價格已累計攀升超過 30%，消費者的價格敏感度已逼近臨界點，繼續盲目漲價只會引發顧客流失。面對價格上漲空間封頂的窘境，Craftable 產品經理 Henry Escobar 指出，業者已無法單靠轉嫁成本來"
         },
         {
-          "title": "企業 AI 準確率如何從 43% 升至 90%？DoorDash 實踐證明：優化資料結構比升級模型更關鍵",
-          "link": "https://techorange.com/2026/09/22/ai-vera-doordashs-data-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-22T04:38:02+00:00",
-          "summary": "美國最大的線上餐點與零售外送平台 DoorDash 正加速將 AI 代理導入企業內部資料分析，並自行打造名為 Vera 的 AI 資料分析代理，讓員工可以直接以自然語言提問，快速取得公司內部資料的分析結果。DoorDash 表示，目前已有超過 1 萬名員工仰賴公司資料生態系，而 Vera 可以從超過 20 萬個資料集、總規模達 350 PB 的企業資料中搜尋所需資訊。 員工可直接查詢營運數據，Do"
+          "title": "【科技早餐】Meta 測試 AI 助理通話由真人接手，OpenAI、Anthropic 同日推低價模型",
+          "link": "https://techorange.com/2026/09/24/meta-muse-ai-assistant-human-call-test/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-23T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Meta 測試真人接手 AI 助理通話，因告知不足暫停 Meta 的 AI 助理 Muse 可依使用者指示致電商家，處理訂位、詢價及查詢商品等事項。《路透》查閱 Meta 內部貼文發現，公司曾在員工測試中，讓真人承包人員接手部分由 Muse 發起的電話。部分員工擔心，如果沒有清楚告知執行方式，承包人員可能在通話中接觸使用者的敏感資訊。Muse 上"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "2026亞運棒球》愛知名古屋亞運棒球賽程資訊全攻略！台灣賽程、參賽隊伍、分組名單、球員資訊、轉播單位一次看",
+          "title": "好的教養不是什麼都要管！心理學教授：5大支柱培養孩子的「韌性」",
+          "link": "https://www.gvm.com.tw/article/133245",
+          "published": "2026-09-23T20:21:00",
+          "summary": "如果培養孩子的自主性是為了讓他們獨立，那麼教養就是「放手」與「設限」之間的平衡。本文作者心理學教授克萊恩博士，提倡父母在教養中應扮演「錨」與「容器」的角色。作為「錨」，父母提供穩定的停泊處，在狂風巨浪中穩住孩子這艘小船；作為「容器」，父母營造無評判的情感空間，包容承載孩子所有的負面感受，阻止壓力荷爾蒙過度釋放。（本文節錄自《剛剛好的韌性教養》一書，作者：托瓦．克萊恩／堡壘文化出版，以下為摘文。）過"
+        },
+        {
+          "title": "同樣是老屋，為何價值天差地遠？胡偉良：別看現在值多少錢，要看「這件事」",
+          "link": "https://www.gvm.com.tw/article/133244",
+          "published": "2026-09-23T19:52:00",
+          "summary": "在台灣進入「老屋時代」之後，一個過去較少被正視、但正快速浮現的現象是：老屋如果無法順利改建，其價值不僅不會維持，甚至可能加速貶值。因為潛在的購屋族不喜歡老屋，使得需求量遞減，加上老屋的性能不佳且結構老化，各項補強、維修成本增加，即使整體房市大漲，老房子的資產也沒辦法回升。（本文節錄自《當房子老去》一書，作者：胡偉良／遠流出版，以下為摘文。）一位七十多歲阿姨，現在每天還能慢慢上樓，但是再過十年呢？當"
+        },
+        {
+          "title": "2026亞運棒球》愛知名古屋亞運棒球賽程資訊全攻略！台灣晉級超級循環賽：台灣賽程、參賽隊伍、分組名單一次看",
           "link": "https://www.gvm.com.tw/article/132904",
-          "published": "2026-09-22T23:05:00",
+          "published": "2026-09-23T19:51:00",
           "summary": "2026年亞洲運動會正式於9月19日至10月4日在日本愛知、名古屋舉行，台灣球迷最關注的棒球項目，則於9月21日至27日展開。台灣是否能在2006年杜哈亞運後，時隔20年再抱回一面金牌？4年一度的亞洲體壇盛會即將登場！2026年亞洲運動會將於9月19日至10月4日在日本愛知、名古屋舉行，來自亞洲各國的頂尖好手齊聚一堂，而台灣球迷最關注的棒球項目，則將於9月21日至27日展開，一路從小組賽打到金牌戰"
         },
         {
-          "title": "奉俊昊應金馬之邀將首度來台！金馬電影大師課首波夢幻講師名單大公開",
-          "link": "https://www.gvm.com.tw/article/133187",
-          "published": "2026-09-22T19:53:00",
-          "summary": "2026年金馬電影大師課，邀來奧斯卡最佳影片《寄生上流》韓國大導奉俊昊、日本國民喜劇大師三谷幸喜、威尼斯金獅獎名導戴倫艾洛諾夫斯基、全球賣座動畫《小小兵》導演凱爾巴爾達，為電影人傾囊相授獨門心法與寶貴經驗。每年11月舉辦的「金馬電影大師課」，率先揭曉首波夢幻講師名單。金馬執委會與文化部影視及流行音樂產業局合作、和碩聯合科技贊助支持下，邀來奧斯卡最佳影片《寄生上流》韓國大導奉俊昊、日本國民喜劇大師三"
+          "title": "宏碁陳俊聖看壞記憶體，前韓駐台代表為何表達類似擔憂？",
+          "link": "https://www.gvm.com.tw/article/133238",
+          "published": "2026-09-23T18:45:00",
+          "summary": "記憶體缺貨潮，是否已經降溫？宏碁（2353）董事長陳俊聖9月19日在智榮基金會、遠見．天下文化事業群主辦的王道50－王道經營與AI國際論壇會後受訪，認為記憶體沒有外界說的那麼缺，說法與市場主流看法不同。加上中國長鑫存儲隔天宣布新一代DRAM平台量產，台股記憶體族群9月21日普遍走弱。他到底說了什麼？研調機構的數據哪裡不同？但前任韓國駐台代表最近透過韓媒擔憂韓國記憶體的未來，又提出了什麼警訊？DDR"
         },
         {
-          "title": "川習二會談台灣？AI、稀土等五大議題曝光，黃仁勳、馬斯克將赴國宴",
-          "link": "https://www.gvm.com.tw/article/133186",
-          "published": "2026-09-22T19:03:00",
-          "summary": "24日川習會聚焦五大議題：貿易休兵、AI、台灣、稀土與關鍵礦物、伊朗。美中貿易休兵11月10日到期，美國傾向延長三至六個月；雙方也預計建立AI安全對話機制，約兩個月後再次會談；同時，台灣議題也再次成為川習會焦點。此外，黃仁勳、馬斯克等科技巨頭，預計出席24日的白宮國宴。中國國家主席習近平23日將抵達美國，展開三日的國是訪問；24日，將與美國總統川普（Donald Trump）在華府舉行今年的第二次"
+          "title": "吸引力法則到底有沒有用？她沉迷18年：願望成真後，沒變幸福反而更空虛",
+          "link": "https://www.gvm.com.tw/article/133237",
+          "published": "2026-09-23T18:26:00",
+          "summary": "「吸引力法則」常被視為實現願望、改變人生的工具，但如果願望真的一一實現，幸福就會隨之而來嗎？本書作者研究靈性與身心靈18年，分享自己沉迷吸引力法則的親身經歷：從願望成真、神祕體驗，到不斷追逐下一個目標，她發現真正困住人的，可能不是願望沒有實現，而是永遠不知道自己究竟想要什麼。（本文節錄自《吸引力法則太有效到幾乎毀了我的生活》一書，作者：角 由紀子／三采出版，以下為摘文。）18年來，我持續探索靈性與"
         },
         {
-          "title": "TRF為何害慘許多人？槓桿一旦失控，資產也可能變成負數",
-          "link": "https://www.gvm.com.tw/article/133064",
-          "published": "2026-09-22T18:10:00",
-          "summary": "台股AI行情震盪劇烈，有人為了加速累積資產，在行情看漲時提高投資槓桿，甚至同時背負房貸、車貸、信貸與股票質押融資。據媒體報導，近期30至40歲科技族群因貸款、股票質押與工作等多重壓力求診，比平常增加超過2成。借錢投資，看起來像是把累積資產的速度拉快，但市場一旦反轉，槓桿也會把虧損同步放大。（本文節錄自《財商》一書，作者：吳淡如，時報出版，以下為摘文。）理財不能只想最好結果，也得先想最壞結果。你應該"
-        },
-        {
-          "title": "從桑德伯格到納德拉的真誠領導：先自我修復，才能在職場帶人又帶心",
-          "link": "https://www.gvm.com.tw/article/133017",
-          "published": "2026-09-22T18:06:00",
-          "summary": "在職場上展現真誠與脆弱，究竟是建立信任的利器，還是自曝其短的危機？真正有力量的領導，不是把情緒藏起來，而是懂得在真實與專業之間拿捏分寸。臉書前營運長雪柔・桑德伯格、微軟執行長薩蒂亞・納德拉等知名領導者的真實經驗，教你如何在職場走好這條「真實的鋼索」，打造更有同理心的團隊氛圍。（本文節錄自《情緒過勞》一書，作者：迪娜．鄧翰．史密斯，艾莉西亞．格蘭迪／天下文化出版，以下為摘文。）臉書前營運長雪柔・桑德"
-        },
-        {
-          "title": "全台都不想生！19縣市人口自然成長全轉負，老年指數也全破百",
-          "link": "https://www.gvm.com.tw/article/133185",
-          "published": "2026-09-22T17:59:00",
-          "summary": "全台少子化危機惡化！《遠見》近日進行縣市大調查，發現人口自然增加率， 相比過去，就算是整體趨勢向下，全台19縣市大體仍會有一、兩個城市為正成長，但最新資料顯示，各縣市的人口自然增加率已全面負成長。與此同時，全台19縣市的老化指數也全面突破100，這代表各縣市的老年人口數量，已全面超過幼年人口，顯示台灣人口高齡化現象愈來愈嚴峻。《遠見》調查發現，資源較多的縣市，其人口自然增加率的表現相對較好，除了竹"
+          "title": "川普簽格陵蘭協議！美軍新增兩基地，北極成美中俄角力場",
+          "link": "https://www.gvm.com.tw/article/133234",
+          "published": "2026-09-23T18:09:00",
+          "summary": "美國與丹麥、格陵蘭22日簽署協議，美國將新增兩處軍事據點，並擴建皮圖菲克太空基地。此外，未經美國明確書面批准，任何美國競爭對手將被永久禁止在格陵蘭設立軍事基地、維持軍事存在，或是進行敏感投資。該協議沒有終止日期。美國總統川普（Donald Trump）日前在其社群平台「真實社群」（Truth Social）上，宣布與丹麥及格陵蘭（Greenland）達成協議，取得格陵蘭安全的永久控制權，將進一步強"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "內雙溪自然中心啟動碳封存為城市<b>淨零</b>打通關 - 行銷人",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.marketersgo.com/uncategorized/202609/%25E5%2585%25A7%25E9%259B%2599%25E6%25BA%25AA%25E8%2587%25AA%25E7%2584%25B6%25E4%25B8%25AD%25E5%25BF%2583%25E5%2595%259F%25E5%258B%2595%25E7%25A2%25B3%25E5%25B0%2581%25E5%25AD%2598%25E3%2580%2580%25E7%2582%25BA%25E5%259F%258E%25E5%25B8%2582%25E6%25B7%25A8%25E9%259B%25B6%25E6%2589%2593%25E9%2580%259A%25E9%2597%259C/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3PD8sbnnZBAIb8MVUhE8PQ",
-          "published": "2026-09-23T05:04:05+00:00",
-          "summary": "不是只有種樹才能為地球固碳！ &middot; 看似不起眼的黑炭不僅靠著微孔隙來改善土壤結構、幫植物保水透氣，更悄悄地將大約1公噸的二氧化碳緊緊鎖在土地中。 &middot; 生物炭不僅&nbsp;..."
+          "title": "【世界素食日】林超英：氣候變化或觸發糧食危機籲多食素減碳 - 獨立媒體",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.inmediahk.net/node/%25E4%25BF%259D%25E8%2582%25B2/%25E3%2580%2590%25E4%25B8%2596%25E7%2595%258C%25E7%25B4%25A0%25E9%25A3%259F%25E6%2597%25A5%25E3%2580%2591%25E6%259E%2597%25E8%25B6%2585%25E8%258B%25B1%25EF%25BC%259A%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E5%258C%2596%25E6%2588%2596%25E8%25A7%25B8%25E7%2599%25BC%25E7%25B3%25A7%25E9%25A3%259F%25E5%258D%25B1%25E6%25A9%259F-%25E7%25B1%25B2%25E5%25A4%259A%25E9%25A3%259F%25E7%25B4%25A0%25E6%25B8%259B%25E7%25A2%25B3&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3ZjuCTl-_CoJMEbJc2Fm4-",
+          "published": "2026-09-24T03:39:53+00:00",
+          "summary": "【獨媒報導】10月1日是「世界素食日」，嘉道理農場暨植物園（KFBG）推出社群平台「慧食。同行」，鼓勵大眾實踐植物為本飲食。為響應「世界素食日」，&nbsp;..."
         },
         {
-          "title": "內雙溪自然中心啟動碳封存為城市<b>淨零</b>打通關- 生活新聞 - PCHOME NEWS",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/living/morenews/20260923/index-79013621877194350009.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0MYnJWvU_1pmVkmQND5dRZ",
-          "published": "2026-09-23T04:56:40+00:00",
-          "summary": "墨新聞｜記者鄭富鈺／綜合報導為響應臺北市政府推動「2050淨零排放」目標，北市府大地工程處與土星烏日股份有限公司展開跨界合作，搶先於內雙溪自然中心啟動&nbsp;..."
+          "title": "亞馬遜喊2040<b>淨零</b>卻坦言「不知如何達成」 氣候承諾受考驗- 科技新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/science/technice/20260924/index-79022003100302338005.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0UiWCjDlCQgpL047b0nq_h",
+          "published": "2026-09-24T03:27:08+00:00",
+          "summary": "亞馬遜首席永續長Kara Hurst坦言，公司目前仍不知道要如何在2040年達成淨零碳排目標。Hurst在Axios一場活動中表示，我們仍在朝這個目標努力。"
         },
         {
-          "title": "TAIWAN COP6十月高雄登場跨界共築氣候韌性、加速<b>淨零</b>實踐 - Yahoo股市",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/taiwan-cop6%25E5%258D%2581%25E6%259C%2588%25E9%25AB%2598%25E9%259B%2584%25E7%2599%25BB%25E5%25A0%25B4-%25E8%25B7%25A8%25E7%2595%258C%25E5%2585%25B1%25E7%25AF%2589%25E6%25B0%25A3%25E5%2580%2599%25E9%259F%258C%25E6%2580%25A7-%25E5%258A%25A0%25E9%2580%259F%25E6%25B7%25A8%25E9%259B%25B6%25E5%25AF%25A6%25E8%25B8%2590-044756899.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2elGCSSLlGhwZqb0h2Bq51",
-          "published": "2026-09-23T04:53:23+00:00",
-          "summary": "... 氣候變遷署、交通部中央氣象署、海洋委員會海洋保育署、高雄市政府環境保護局及國泰金控共同主辦，以「邁向淨零，共創未來」為核心，呼應「From Promise to&nbsp;..."
+          "title": "公開資訊 - 高雄市政府環境保護局",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ksepb.kcg.gov.tw/Announcement/meeting%3FPageType%3D1%26id%3Dbfcfd776-5bc7-4185-91d2-d812271a92ac&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1-Qi5VhPpiyC9LspFgNtR5",
+          "published": "2026-09-24T03:21:02+00:00",
+          "summary": "六、本案招商文件:如附件。 相關檔案. 00高雄市廚餘生質能(厭氧消化)廠BTO案_公告事項.pdf &middot; 雜湊&nbsp;..."
         },
         {
-          "title": "TAIWAN COP6十月高雄登場跨界共築氣候韌性、加速<b>淨零</b>實踐 - 商傳媒",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://sunmedia.tw/news/technology/TAIWAN-COP6%25E5%258D%2581%25E6%259C%2588%25E9%25AB%2598%25E9%259B%2584%25E7%2599%25BB%25E5%25A0%25B4%25E3%2580%2580%25E8%25B7%25A8%25E7%2595%258C%25E5%2585%25B1%25E7%25AF%2589%25E6%25B0%25A3%25E5%2580%2599%25E9%259F%258C%25E6%2580%25A7%25E3%2580%2581%25E5%258A%25A0%25E9%2580%259F%25E6%25B7%25A8%25E9%259B%25B6%25E5%25AF%25A6%25E8%25B8%2590-1790138460969&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0aSxBlz6KzZ-aHTVG6zWUi",
-          "published": "2026-09-23T04:50:09+00:00",
-          "summary": "本屆由國際氣候發展智庫、環境部氣候變遷署、交通部中央氣象署、海洋委員會海洋保育署、高雄市政府環境保護局及國泰金控共同主辦，以「邁向淨零，共創未來&nbsp;..."
+          "title": "AI<b>淨零</b>／聯卡中心推信用卡簽帳單電子化遠東SOGO率先導入 - 中央社",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/news/ahel/202609240060.aspx&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3i8gWyOMv4KsKky3b90bM2",
+          "published": "2026-09-24T03:00:52+00:00",
+          "summary": "聯卡中心今天表示，自今年9月起正式推出「持卡人信用卡簽帳單電子化」服務，並由遠東SOGO百貨率先導入，此外，年底前將推出推廣獎勵方案，盼該服務可擴展至&nbsp;..."
         },
         {
-          "title": "PMC攜手元進莊完成產業<b>淨零</b>轉型新里程 - 工商時報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20260923700818-431204&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1xGVZCPAb0GvfFJqKn7GA0",
-          "published": "2026-09-23T04:44:50+00:00",
-          "summary": "PMC代理總經理李健勲表示，製造與加工產業在推動低碳轉型過程中，數據的真實性、完整性與合規性是首要關鍵。PMC作為具備專業技術背景的查證機構，&nbsp;..."
+          "title": "日本強化任務導向型STI政策推動科技創新與社會系統轉型",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://iknow.stpi.niar.org.tw/article/4/25419&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3nobgn32jiiY_IxufwULpU",
+          "published": "2026-09-24T02:56:14+00:00",
+          "summary": "日本科學技術振興機構研究開發戰略中心（JST-CRDS）發布《強化日本任務導向型STI政策的實踐—核心功能與區域任務—》，針對氣候變遷、碳中和及永續韌性社會等&nbsp;..."
         },
         {
-          "title": "市政新聞-<b>淨零</b>助攻外貿拓銷中市府助特登工廠接軌綠色商機搶攻國際訂單 - 臺中市政府",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.taichung.gov.tw/3377193/post&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0372AQQ1QEv9hS7lA-DIvZ",
-          "published": "2026-09-23T04:03:35+00:00",
-          "summary": "經發局表示，面對國際市場對低碳、永續及綠色採購要求日益提升，特定工廠除了持續推動合法化，也必須同步強化產業競爭力及國際市場布局。此次系列講座將從「中小&nbsp;..."
+          "title": "川普在聯合國抨擊航運業的<b>淨零</b>排放計畫 - 理財寶",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.cmoney.tw/forum/article/184936654&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1DTypa25wLMoehaS-SlIDq",
+          "published": "2026-09-24T02:36:18+00:00",
+          "summary": "川普說：「去年，我的政府被迫介入，阻止一個鮮為人知的聯合國機構——國際海事組織秘密建立首個全球碳稅，」並聲稱該措施將使國際運輸成本「提高10%到20%——甚至&nbsp;..."
         }
       ]
     }
