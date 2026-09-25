@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-09-24T05:52:48.673154+00:00",
-    "date": "2026-09-24",
+    "generated_at": "2026-09-25T05:53:12.799526+00:00",
+    "date": "2026-09-25",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -11,6 +11,24 @@
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
       "items": [
+        {
+          "title": "【DataDome 2026 報告】惡意 Bot 增速超越人類 9 倍：逾六成網站防護掛零，僅 2.4% 具備完整防禦力",
+          "link": "https://techorange.com/2026/09/24/state-of-bot-agent-security-report-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-24T09:10:46+00:00",
+          "summary": "資安公司 DataDome 發布《2026 年 Bot 與 Agent 安全狀況報告》（State of Bot &amp; Agent Security Report 2026），分析超過 1 兆筆請求、涵蓋逾 7.5 萬個客戶網站，並測試超過 2 萬個熱門網站。報告指出，過去一年自動化流量快速增加，惡意 Bot 開始鎖定更具商業價值的使用者流程，AI Agent 也逐漸從資料蒐集延伸至實際操作"
+        },
+        {
+          "title": "「Token 使用量可降至五百分之一。」SAS 分享實戰經驗：治理，才能讓 AI Agent 真正創造價值",
+          "link": "https://techorange.com/2026/09/24/sas-ai-agent-save-token/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-24T09:02:20+00:00",
+          "summary": "TechOrange 科技報橘日前（9/17）在新竹舉辦「AI 智造領航午宴」，邀集多位高科技製造業中高階主管蒞臨餐敘交流，共同探討 AI 落地製造現場的實務路徑。現場特別邀請全球數據分析與 AI 領導品牌 SAS 帶來專題分享，揭露一套能同時兼顧「安全治理」與「成本控管」的解方。 當 AI Agent 開始接入 ERP 及其他企業內部系統，企業就必須同步建立權限控管、執行紀錄與人工決策機制，才能"
+        },
+        {
+          "title": "首起已知 AI 代理闖入政府網站，澳洲如何重整政府資安防禦？",
+          "link": "https://techorange.com/2026/09/24/openai-ai-agent-hacked-australias-medicare/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-24T08:07:36+00:00",
+          "summary": "近期 AI 代理（AI Agent）越界事件接連曝光，如今，第一起已知 AI 代理成功入侵政府網站的案例也浮上檯面。《Reuters》指出，這可能是目前已知首例，而遭入侵的是澳洲政府的 Medicare 統計網站。 澳洲總理 Anthony Albanese 在美國時間 9/23、台灣時間 9/24 公開這起事件。他表示，一個 OpenAI 代理今年 6 月在執行內部能力測試時，未經授權進入澳洲服"
+        },
         {
           "title": "Meta 為 Muse 再開一個入口：Charm 把 AI Agent 放進口袋、掛上鑰匙圈",
           "link": "https://techorange.com/2026/09/24/meta-muse-charm-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -28,24 +46,6 @@
           "link": "https://techorange.com/2026/09/24/gss-ai-security-mendio/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
           "published": "2026-09-24T02:39:25+00:00",
           "summary": "生成式 AI 快速進入企業開發與營運流程，隨著 AI 模型的能力持續提升，企業面臨的 AI Security 風險也從模型本身，進一步延伸至模型所能取得的權限、可連接的系統與實際執行環境。近期接連傳出的 AI 安全測試事件引發各界關注，AI 模型被發現可能突破原有的環境限制，連線至外部企業系統，甚至修改系統設定，反映出企業在導入 AI 模型時，除了關注模型本身的安全性，也需要重新檢視模型所能取得的"
-        },
-        {
-          "title": "人形機器人短期內仍趕不上人類工人：操控、泛化、安全性卡住實際運用",
-          "link": "https://techorange.com/2026/09/24/the-limit-of-humanoid-ai-robot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-24T01:13:56+00:00",
-          "summary": "人形機器人已經足以取代人類勞動力了嗎？當代 AI 機器人確實能夠完成艱難的特技動作，但反過來說像拿起可樂、剝橘子等簡單任務，對於人形機器人卻非常困難。"
-        },
-        {
-          "title": "不靠漲價也能救毛利：AI 正把「菜單工程」變餐廳新財務槓桿",
-          "link": "https://techorange.com/2026/09/24/ai-menu-engineering/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-23T22:33:00+00:00",
-          "summary": "通膨蔓延、食材成本劇增與人力短缺，正讓餐飲業的營運數學變得空前艱難。過往業者習慣將「調漲售價」視為拆解成本危機的萬靈丹，然而根據餐飲管理軟體平台 Craftable 的資料，自疫情爆發以來，餐飲價格已累計攀升超過 30%，消費者的價格敏感度已逼近臨界點，繼續盲目漲價只會引發顧客流失。面對價格上漲空間封頂的窘境，Craftable 產品經理 Henry Escobar 指出，業者已無法單靠轉嫁成本來"
-        },
-        {
-          "title": "【科技早餐】Meta 測試 AI 助理通話由真人接手，OpenAI、Anthropic 同日推低價模型",
-          "link": "https://techorange.com/2026/09/24/meta-muse-ai-assistant-human-call-test/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-23T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Meta 測試真人接手 AI 助理通話，因告知不足暫停 Meta 的 AI 助理 Muse 可依使用者指示致電商家，處理訂位、詢價及查詢商品等事項。《路透》查閱 Meta 內部貼文發現，公司曾在員工測試中，讓真人承包人員接手部分由 Muse 發起的電話。部分員工擔心，如果沒有清楚告知執行方式，承包人員可能在通話中接觸使用者的敏感資訊。Muse 上"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "好的教養不是什麼都要管！心理學教授：5大支柱培養孩子的「韌性」",
-          "link": "https://www.gvm.com.tw/article/133245",
-          "published": "2026-09-23T20:21:00",
-          "summary": "如果培養孩子的自主性是為了讓他們獨立，那麼教養就是「放手」與「設限」之間的平衡。本文作者心理學教授克萊恩博士，提倡父母在教養中應扮演「錨」與「容器」的角色。作為「錨」，父母提供穩定的停泊處，在狂風巨浪中穩住孩子這艘小船；作為「容器」，父母營造無評判的情感空間，包容承載孩子所有的負面感受，阻止壓力荷爾蒙過度釋放。（本文節錄自《剛剛好的韌性教養》一書，作者：托瓦．克萊恩／堡壘文化出版，以下為摘文。）過"
-        },
-        {
-          "title": "同樣是老屋，為何價值天差地遠？胡偉良：別看現在值多少錢，要看「這件事」",
-          "link": "https://www.gvm.com.tw/article/133244",
-          "published": "2026-09-23T19:52:00",
-          "summary": "在台灣進入「老屋時代」之後，一個過去較少被正視、但正快速浮現的現象是：老屋如果無法順利改建，其價值不僅不會維持，甚至可能加速貶值。因為潛在的購屋族不喜歡老屋，使得需求量遞減，加上老屋的性能不佳且結構老化，各項補強、維修成本增加，即使整體房市大漲，老房子的資產也沒辦法回升。（本文節錄自《當房子老去》一書，作者：胡偉良／遠流出版，以下為摘文。）一位七十多歲阿姨，現在每天還能慢慢上樓，但是再過十年呢？當"
+          "title": "中秋節柚子不能和什麼一起吃？營養師傳授6大安全守則：吃這7種藥物別碰文旦",
+          "link": "https://www.gvm.com.tw/article/133217",
+          "published": "2026-09-25T07:00:00",
+          "summary": "中秋節吃柚子應景？小心吃錯傷身，甚至可能引發藥物交互作用！高敏敏營養師提醒，柚子高纖富含維生素C，但有腎臟病（腎功能不佳）、糖尿病等服藥中 6 類人切勿任意服用。尤其，柚子含「呋喃香豆素」，與降血壓、降血脂等 7 類藥物同吃恐引發毒性，且影響藥物代謝可長達 3 天，間隔 2 小時也沒用！本文傳授 6 大安全守則助你健康過節。中秋節柚子一剝開，氣味芬芳、酸甜多汁、清爽解膩，真的很容易一瓣接一瓣，也是"
         },
         {
           "title": "2026亞運棒球》愛知名古屋亞運棒球賽程資訊全攻略！台灣晉級超級循環賽：台灣賽程、參賽隊伍、分組名單一次看",
           "link": "https://www.gvm.com.tw/article/132904",
-          "published": "2026-09-23T19:51:00",
+          "published": "2026-09-25T00:17:00",
           "summary": "2026年亞洲運動會正式於9月19日至10月4日在日本愛知、名古屋舉行，台灣球迷最關注的棒球項目，則於9月21日至27日展開。台灣是否能在2006年杜哈亞運後，時隔20年再抱回一面金牌？4年一度的亞洲體壇盛會即將登場！2026年亞洲運動會將於9月19日至10月4日在日本愛知、名古屋舉行，來自亞洲各國的頂尖好手齊聚一堂，而台灣球迷最關注的棒球項目，則將於9月21日至27日展開，一路從小組賽打到金牌戰"
         },
         {
-          "title": "宏碁陳俊聖看壞記憶體，前韓駐台代表為何表達類似擔憂？",
-          "link": "https://www.gvm.com.tw/article/133238",
-          "published": "2026-09-23T18:45:00",
-          "summary": "記憶體缺貨潮，是否已經降溫？宏碁（2353）董事長陳俊聖9月19日在智榮基金會、遠見．天下文化事業群主辦的王道50－王道經營與AI國際論壇會後受訪，認為記憶體沒有外界說的那麼缺，說法與市場主流看法不同。加上中國長鑫存儲隔天宣布新一代DRAM平台量產，台股記憶體族群9月21日普遍走弱。他到底說了什麼？研調機構的數據哪裡不同？但前任韓國駐台代表最近透過韓媒擔憂韓國記憶體的未來，又提出了什麼警訊？DDR"
+          "title": "世界上10個最遺世獨立的地方！來一場遠離人群的旅行，感受世界盡頭的浪漫與孤獨",
+          "link": "https://www.gvm.com.tw/article/133291",
+          "published": "2026-09-25T00:01:00",
+          "summary": "世界上有哪些真正遺世獨立的地方？從南太平洋上的復活節島、皮特肯群島，到格陵蘭冰雪小鎮與遙遠的南極洲，地球上仍藏著許多遠離人群與現代文明的祕境。有些沒有機場，有些光是抵達就得花上數天時間。在世界上10個最遙遠的地方，展開一場遠離喧囂的旅行，感受世界盡頭最純粹的浪漫與孤獨。在這個搭上飛機，就能輕易跨越半個地球的年代，世界似乎已經愈來愈小。然而，在地球的某些角落，依然存在著一些遠離城市、遠離人群，甚至光"
         },
         {
-          "title": "吸引力法則到底有沒有用？她沉迷18年：願望成真後，沒變幸福反而更空虛",
-          "link": "https://www.gvm.com.tw/article/133237",
-          "published": "2026-09-23T18:26:00",
-          "summary": "「吸引力法則」常被視為實現願望、改變人生的工具，但如果願望真的一一實現，幸福就會隨之而來嗎？本書作者研究靈性與身心靈18年，分享自己沉迷吸引力法則的親身經歷：從願望成真、神祕體驗，到不斷追逐下一個目標，她發現真正困住人的，可能不是願望沒有實現，而是永遠不知道自己究竟想要什麼。（本文節錄自《吸引力法則太有效到幾乎毀了我的生活》一書，作者：角 由紀子／三采出版，以下為摘文。）18年來，我持續探索靈性與"
+          "title": "川習會2.0「閉門會談」！習近平：邀10萬美國青少年來華、大熊貓平平、福雙將落戶亞特蘭大",
+          "link": "https://www.gvm.com.tw/article/133290",
+          "published": "2026-09-24T23:47:00",
+          "summary": "美國總統川普與中國國家主席習近平於白宮展開今年第二度會談，美國總統川普台灣時間今晚在白宮接待，他說此次訪問期間，雙方將討論安全、貿易、科技、人工智慧（AI）等重要議題。上午10時20分左右，川普與習近平在白宮國事廳分別致詞。川普表示，很高興與梅蘭妮亞接待習近平與彭麗媛，並回顧自2016年首次當選以來，兩人建立深厚友誼，奠基於相互尊重與兩國人民共同利益。他指出，這是習近平第二度正式國事訪美，也適逢美"
         },
         {
-          "title": "川普簽格陵蘭協議！美軍新增兩基地，北極成美中俄角力場",
-          "link": "https://www.gvm.com.tw/article/133234",
-          "published": "2026-09-23T18:09:00",
-          "summary": "美國與丹麥、格陵蘭22日簽署協議，美國將新增兩處軍事據點，並擴建皮圖菲克太空基地。此外，未經美國明確書面批准，任何美國競爭對手將被永久禁止在格陵蘭設立軍事基地、維持軍事存在，或是進行敏感投資。該協議沒有終止日期。美國總統川普（Donald Trump）日前在其社群平台「真實社群」（Truth Social）上，宣布與丹麥及格陵蘭（Greenland）達成協議，取得格陵蘭安全的永久控制權，將進一步強"
+          "title": "颱風動態》颱風假？舒力基颱風最新路徑，北轉閃過台灣！中秋連假把握好天氣",
+          "link": "https://www.gvm.com.tw/article/133250",
+          "published": "2026-09-24T23:30:00",
+          "summary": "今年第25號颱風舒力基（國際命名SURIGAE）在23日晚間生成，路徑逐漸明朗，中央氣象署預報員賴欣國表示，颱風預估周六（26日）抵達琉球東南方海域後北轉，對台灣直接影響機率降低；中秋連假4天天氣則大致穩定，適合烤肉、賞月；不過下周西北太平洋可能還有新颱風「彩雲」生成，10月初颱風活動仍須持續關注。中秋連假天氣賴欣國說明，中秋連假4天天氣全台都會很穩定，禮拜五中秋節上半天，大台北、東半部、恆春半島"
+        },
+        {
+          "title": "2026名古屋亞運》電競奪銅首獎牌到手！中華隊獎牌、完整賽程、轉播一次看",
+          "link": "https://www.gvm.com.tw/article/132893",
+          "published": "2026-09-24T23:15:00",
+          "summary": "9/24更新：2026第20屆亞洲運動會在日本名古屋與愛知縣舉行，9月19日開幕、10月4日閉幕，共43種運動。台灣派出482名選手競逐34種運動，加上教練、後勤共超過700人。名古屋亞運進入開幕後第6天，台灣電競隊開出獎牌，四強準決賽不敵中國，為代表團收下電競項目首面獎牌。《遠見》整理了本屆亞運的完整觀賽指南，包括亞運相關介紹、中華隊陣容及各項賽事日程，幫助讀者快速掌握賽事焦點與轉播資訊。【目錄"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "【世界素食日】林超英：氣候變化或觸發糧食危機籲多食素減碳 - 獨立媒體",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.inmediahk.net/node/%25E4%25BF%259D%25E8%2582%25B2/%25E3%2580%2590%25E4%25B8%2596%25E7%2595%258C%25E7%25B4%25A0%25E9%25A3%259F%25E6%2597%25A5%25E3%2580%2591%25E6%259E%2597%25E8%25B6%2585%25E8%258B%25B1%25EF%25BC%259A%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E5%258C%2596%25E6%2588%2596%25E8%25A7%25B8%25E7%2599%25BC%25E7%25B3%25A7%25E9%25A3%259F%25E5%258D%25B1%25E6%25A9%259F-%25E7%25B1%25B2%25E5%25A4%259A%25E9%25A3%259F%25E7%25B4%25A0%25E6%25B8%259B%25E7%25A2%25B3&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3ZjuCTl-_CoJMEbJc2Fm4-",
-          "published": "2026-09-24T03:39:53+00:00",
-          "summary": "【獨媒報導】10月1日是「世界素食日」，嘉道理農場暨植物園（KFBG）推出社群平台「慧食。同行」，鼓勵大眾實踐植物為本飲食。為響應「世界素食日」，&nbsp;..."
+          "title": "尼泊爾總理：洪災敲響<b>氣候變遷</b>警鐘籲國際伸援",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5599/9777369&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3xnrhlYKuruNhDhhqBRDWa",
+          "published": "2026-09-25T04:30:38+00:00",
+          "summary": "法新社報導，在聯合國大會高階週（High-LevelWeek），夏哈（Balendra Shah）戴著太陽眼鏡發表演說。他表示，全球暖化正「破壞脆弱的喜馬拉雅生態」，導致永凍土&nbsp;..."
         },
         {
-          "title": "亞馬遜喊2040<b>淨零</b>卻坦言「不知如何達成」 氣候承諾受考驗- 科技新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/science/technice/20260924/index-79022003100302338005.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0UiWCjDlCQgpL047b0nq_h",
-          "published": "2026-09-24T03:27:08+00:00",
-          "summary": "亞馬遜首席永續長Kara Hurst坦言，公司目前仍不知道要如何在2040年達成淨零碳排目標。Hurst在Axios一場活動中表示，我們仍在朝這個目標努力。"
+          "title": "尼泊爾洪災向全世界「示警」 總理促各國協助應對<b>氣候變遷</b> - Yahoo新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%25B0%25BC%25E6%25B3%258A%25E7%2588%25BE%25E6%25B4%25AA%25E7%2581%25BD%25E5%2590%2591%25E5%2585%25A8%25E4%25B8%2596%25E7%2595%258C-%25E7%25A4%25BA%25E8%25AD%25A6-%25E7%25B8%25BD%25E7%2590%2586%25E4%25BF%2583%25E5%2590%2584%25E5%259C%258B%25E5%258D%2594%25E5%258A%25A9%25E6%2587%2589%25E5%25B0%258D%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7-030341473.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1VqBqywQRoPRBuY1oSkUmc",
+          "published": "2026-09-25T03:47:08+00:00",
+          "summary": "戴著太陽眼鏡的夏哈在聯合國大會(General Assembly)發表演說，他表示，不斷暖化的氣候「破壞了喜瑪拉雅脆弱的生態系」，融化永久凍土與冰川，加劇了危險。"
         },
         {
-          "title": "公開資訊 - 高雄市政府環境保護局",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ksepb.kcg.gov.tw/Announcement/meeting%3FPageType%3D1%26id%3Dbfcfd776-5bc7-4185-91d2-d812271a92ac&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1-Qi5VhPpiyC9LspFgNtR5",
-          "published": "2026-09-24T03:21:02+00:00",
-          "summary": "六、本案招商文件:如附件。 相關檔案. 00高雄市廚餘生質能(厭氧消化)廠BTO案_公告事項.pdf &middot; 雜湊&nbsp;..."
+          "title": "二零二六年三月的熱帶氣旋概述｜香港天文台(HKO)",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hko.gov.hk/tc/informtc/tc2026/tc2603.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1lWdmoWayhrVafJxG8ffvg",
+          "published": "2026-09-25T03:30:32+00:00",
+          "summary": "熱帶低氣壓鸚鵡(2603)於三月十日凌晨在雅蒲島以北約170公里的西北太平洋上形成。當晚鸚鵡增強為熱帶風暴，並達到其最高強度，中心附近最高持續風速估計為每小時&nbsp;..."
         },
         {
-          "title": "AI<b>淨零</b>／聯卡中心推信用卡簽帳單電子化遠東SOGO率先導入 - 中央社",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/news/ahel/202609240060.aspx&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3i8gWyOMv4KsKky3b90bM2",
-          "published": "2026-09-24T03:00:52+00:00",
-          "summary": "聯卡中心今天表示，自今年9月起正式推出「持卡人信用卡簽帳單電子化」服務，並由遠東SOGO百貨率先導入，此外，年底前將推出推廣獎勵方案，盼該服務可擴展至&nbsp;..."
+          "title": "二零二六年四月的熱帶氣旋概述｜香港天文台(HKO)",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hko.gov.hk/tc/informtc/tc2026/tc2604.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1JUtlchi76wq1Ohjf2iruU",
+          "published": "2026-09-25T03:18:33+00:00",
+          "summary": "熱帶低氣壓森拉克(2604)於四月九日凌晨在關島之東南偏東約1 010公里的西北太平洋上形成，隨後兩天在該區徘徊。森拉克於四月十二日迅速增強為超強颱風，並加速向&nbsp;..."
         },
         {
-          "title": "日本強化任務導向型STI政策推動科技創新與社會系統轉型",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://iknow.stpi.niar.org.tw/article/4/25419&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3nobgn32jiiY_IxufwULpU",
-          "published": "2026-09-24T02:56:14+00:00",
-          "summary": "日本科學技術振興機構研究開發戰略中心（JST-CRDS）發布《強化日本任務導向型STI政策的實踐—核心功能與區域任務—》，針對氣候變遷、碳中和及永續韌性社會等&nbsp;..."
+          "title": "尼泊爾總理聯大警告氣候變化稱洪災為全球響警號 - 巴士的報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bastillepost.com/hongkong/article/16843371-%25E5%25B0%25BC%25E6%25B3%258A%25E7%2588%25BE%25E7%25B8%25BD%25E7%2590%2586%25E8%2581%25AF%25E5%25A4%25A7%25E8%25AD%25A6%25E5%2591%258A%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E5%258C%2596-%25E7%25A8%25B1%25E6%25B4%25AA%25E7%2581%25BD%25E7%2582%25BA%25E5%2585%25A8%25E7%2590%2583%25E9%259F%25BF%25E8%25AD%25A6%25E8%2599%259F&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1LJpLeT6UMBdnCQQ320_1f",
+          "published": "2026-09-25T03:05:00+00:00",
+          "summary": "沙阿表示，尼泊爾排放的溫室氣體不足百分之零點一。尼泊爾約九成九電力來自水力發電，許多工人在洪災中遭洪水圍困於隧道內。"
         },
         {
-          "title": "川普在聯合國抨擊航運業的<b>淨零</b>排放計畫 - 理財寶",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.cmoney.tw/forum/article/184936654&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1DTypa25wLMoehaS-SlIDq",
-          "published": "2026-09-24T02:36:18+00:00",
-          "summary": "川普說：「去年，我的政府被迫介入，阻止一個鮮為人知的聯合國機構——國際海事組織秘密建立首個全球碳稅，」並聲稱該措施將使國際運輸成本「提高10%到20%——甚至&nbsp;..."
+          "title": "高雄109家績優宗教團體獲表揚公益捐資近9.7億元暖遍城市",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.yesmedia.com.tw/%25E9%25AB%2598%25E9%259B%2584109%25E5%25AE%25B6%25E7%25B8%25BE%25E5%2584%25AA%25E5%25AE%2597%25E6%2595%2599%25E5%259C%2598%25E9%25AB%2594%25E7%258D%25B2%25E8%25A1%25A8%25E6%258F%259A%25E3%2580%2580%25E5%2585%25AC%25E7%259B%258A%25E6%258D%2590%25E8%25B3%2587%25E8%25BF%25919-7%25E5%2584%2584%25E5%2585%2583%25E6%259A%2596/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0dPl8isqoLI8J63teg9T7i",
+          "published": "2026-09-25T02:57:25+00:00",
+          "summary": "... 淨零轉型。市府未來將持續與宗教團體攜手合作，共同邁向淨零永續，打造更具韌性與溫度的幸福城市。 高雄市議會議長康裕成也表示，很高興看到天主教、基督教&nbsp;..."
         }
       ]
     }
