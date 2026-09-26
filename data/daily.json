@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-09-25T05:53:12.799526+00:00",
-    "date": "2026-09-25",
+    "generated_at": "2026-09-26T05:53:24.365780+00:00",
+    "date": "2026-09-26",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,10 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "【DataDome 2026 報告】惡意 Bot 增速超越人類 9 倍：逾六成網站防護掛零，僅 2.4% 具備完整防禦力",
-          "link": "https://techorange.com/2026/09/24/state-of-bot-agent-security-report-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-24T09:10:46+00:00",
-          "summary": "資安公司 DataDome 發布《2026 年 Bot 與 Agent 安全狀況報告》（State of Bot &amp; Agent Security Report 2026），分析超過 1 兆筆請求、涵蓋逾 7.5 萬個客戶網站，並測試超過 2 萬個熱門網站。報告指出，過去一年自動化流量快速增加，惡意 Bot 開始鎖定更具商業價值的使用者流程，AI Agent 也逐漸從資料蒐集延伸至實際操作"
-        },
-        {
-          "title": "「Token 使用量可降至五百分之一。」SAS 分享實戰經驗：治理，才能讓 AI Agent 真正創造價值",
-          "link": "https://techorange.com/2026/09/24/sas-ai-agent-save-token/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-24T09:02:20+00:00",
-          "summary": "TechOrange 科技報橘日前（9/17）在新竹舉辦「AI 智造領航午宴」，邀集多位高科技製造業中高階主管蒞臨餐敘交流，共同探討 AI 落地製造現場的實務路徑。現場特別邀請全球數據分析與 AI 領導品牌 SAS 帶來專題分享，揭露一套能同時兼顧「安全治理」與「成本控管」的解方。 當 AI Agent 開始接入 ERP 及其他企業內部系統，企業就必須同步建立權限控管、執行紀錄與人工決策機制，才能"
-        },
-        {
-          "title": "首起已知 AI 代理闖入政府網站，澳洲如何重整政府資安防禦？",
-          "link": "https://techorange.com/2026/09/24/openai-ai-agent-hacked-australias-medicare/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-24T08:07:36+00:00",
-          "summary": "近期 AI 代理（AI Agent）越界事件接連曝光，如今，第一起已知 AI 代理成功入侵政府網站的案例也浮上檯面。《Reuters》指出，這可能是目前已知首例，而遭入侵的是澳洲政府的 Medicare 統計網站。 澳洲總理 Anthony Albanese 在美國時間 9/23、台灣時間 9/24 公開這起事件。他表示，一個 OpenAI 代理今年 6 月在執行內部能力測試時，未經授權進入澳洲服"
-        },
-        {
-          "title": "Meta 為 Muse 再開一個入口：Charm 把 AI Agent 放進口袋、掛上鑰匙圈",
-          "link": "https://techorange.com/2026/09/24/meta-muse-charm-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-24T04:58:25+00:00",
-          "summary": "把 AI 做成可以隨身攜帶的獨立裝置，已不是科技業的新點子。從 Friend 等產品到各式 AI 穿戴裝置，業者近年不斷嘗試，但這類產品能否形成真正需求，至今仍有待驗證。如今，Meta 正把這項嘗試，延伸到自家的個人 AI Agent（AI 代理）Muse，擴大 Muse 的使用範圍。 美國時間 9/23 登場的年度 Connect 大會上，Meta 一口氣宣布 Muse 將登上 AI 眼鏡、操作"
-        },
-        {
-          "title": "參數不到 Cosmos 一半卻登頂 RoboLab：BFL 開放權重模型 FLUX 3 Action 登場",
-          "link": "https://techorange.com/2026/09/24/black-forest-labs-flux-3-action/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-24T04:47:09+00:00",
-          "summary": "以影像生成模型 FLUX 打響名號的德國 AI 新創 Black Forest Labs（BFL），近日宣布推出機器人模型 FLUX 3 Action，正式跨足機器人領域。《VentureBeat》報導，這款模型擁有 70 億參數，採開放權重形式發布。 從影片生成跨足物理表徵：FLUX 3 Action 如何預測機器人動作 FLUX 3 Action 是一款世界動作模型（World Action "
-        },
-        {
-          "title": "企業導入 AI 面臨哪些資安風險？從 AI 測試事件看 AI Security 與供應鏈安全新挑戰",
-          "link": "https://techorange.com/2026/09/24/gss-ai-security-mendio/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-24T02:39:25+00:00",
-          "summary": "生成式 AI 快速進入企業開發與營運流程，隨著 AI 模型的能力持續提升，企業面臨的 AI Security 風險也從模型本身，進一步延伸至模型所能取得的權限、可連接的系統與實際執行環境。近期接連傳出的 AI 安全測試事件引發各界關注，AI 模型被發現可能突破原有的環境限制，連線至外部企業系統，甚至修改系統設定，反映出企業在導入 AI 模型時，除了關注模型本身的安全性，也需要重新檢視模型所能取得的"
+          "title": "【微軟前沿企業 AI 轉型守則】試點小組人均營收成長 9.4%，靠「角色加速配方」找出職務痛點嵌入 AI",
+          "link": "https://techorange.com/2026/09/26/becoming-a-frontier-firm/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-25T22:29:00+00:00",
+          "summary": "微軟近期發布白皮書《Becoming a Frontier Firm: Our Frontier Playbook》（成為前沿企業：前沿教戰守則），提供全球企業一套將人工智慧技術深度融入營運模式、業務流程與人才架構的系統化轉型方法論與實證指標。 報告核心在於破除「購買工具即完成轉型」的迷思，強調「AI 導入」本質上是一場全面的商業變革，必須由企業整體商業戰略導引，並錨定明確的業務成效。 📎 這份報"
         }
       ]
     },
@@ -54,40 +24,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "中秋節柚子不能和什麼一起吃？營養師傳授6大安全守則：吃這7種藥物別碰文旦",
-          "link": "https://www.gvm.com.tw/article/133217",
-          "published": "2026-09-25T07:00:00",
-          "summary": "中秋節吃柚子應景？小心吃錯傷身，甚至可能引發藥物交互作用！高敏敏營養師提醒，柚子高纖富含維生素C，但有腎臟病（腎功能不佳）、糖尿病等服藥中 6 類人切勿任意服用。尤其，柚子含「呋喃香豆素」，與降血壓、降血脂等 7 類藥物同吃恐引發毒性，且影響藥物代謝可長達 3 天，間隔 2 小時也沒用！本文傳授 6 大安全守則助你健康過節。中秋節柚子一剝開，氣味芬芳、酸甜多汁、清爽解膩，真的很容易一瓣接一瓣，也是"
+          "title": "閱讀能降低失智風險三成！劍橋研究：從小讀到老有助大腦健康、減少認知衰退風險",
+          "link": "https://www.gvm.com.tw/article/133257",
+          "published": "2026-09-26T07:00:00",
+          "summary": "每天花點時間看自己喜歡的書，可能是最便宜的大腦保養方式之一。劍橋大學研究團隊綜合多年研究發現，為興趣而閱讀不僅與更好的記憶力、注意力及心理健康有關，到了老年，經常閱讀的人出現認知衰退及失智症的風險也較低，而且這些好處從兒童時期就可能開始累積。研究近日發表於《Psychological Medicine》。研究人員整理問卷調查、長期追蹤研究、行為實驗及腦部影像資料後指出，閱讀是一項成本低、容易進行的"
+        },
+        {
+          "title": "Netflix 10月上線必看片單出爐！期待已久的《亞森羅蘋：第4部》終於來了，韓劇《戀愛充電中》、《百日謊言》精彩可期",
+          "link": "https://www.gvm.com.tw/article/133298",
+          "published": "2026-09-26T00:39:00",
+          "summary": "Netflix 10月上線必看片單出爐，包含影集、電影，像是期待已久的《亞森羅蘋：第4部》、韓劇《戀愛充電中》、《百日謊言》，以及電影《人性本獸》等，都非常令人期待。邁入秋天氣息的10月，Netflix有哪些最令人期待的作品？許多精彩的戲劇和電影都將和觀眾見面，包含期待已久的《亞森羅蘋：第4部》、韓劇《戀愛充電中》、《百日謊言》，以及電影《人性本獸》等，都非常令人期待。讓我們一起來看看，10月有什"
         },
         {
           "title": "2026亞運棒球》愛知名古屋亞運棒球賽程資訊全攻略！台灣晉級超級循環賽：台灣賽程、參賽隊伍、分組名單一次看",
           "link": "https://www.gvm.com.tw/article/132904",
-          "published": "2026-09-25T00:17:00",
+          "published": "2026-09-26T00:14:00",
           "summary": "2026年亞洲運動會正式於9月19日至10月4日在日本愛知、名古屋舉行，台灣球迷最關注的棒球項目，則於9月21日至27日展開。台灣是否能在2006年杜哈亞運後，時隔20年再抱回一面金牌？4年一度的亞洲體壇盛會即將登場！2026年亞洲運動會將於9月19日至10月4日在日本愛知、名古屋舉行，來自亞洲各國的頂尖好手齊聚一堂，而台灣球迷最關注的棒球項目，則將於9月21日至27日展開，一路從小組賽打到金牌戰"
         },
         {
-          "title": "世界上10個最遺世獨立的地方！來一場遠離人群的旅行，感受世界盡頭的浪漫與孤獨",
-          "link": "https://www.gvm.com.tw/article/133291",
-          "published": "2026-09-25T00:01:00",
-          "summary": "世界上有哪些真正遺世獨立的地方？從南太平洋上的復活節島、皮特肯群島，到格陵蘭冰雪小鎮與遙遠的南極洲，地球上仍藏著許多遠離人群與現代文明的祕境。有些沒有機場，有些光是抵達就得花上數天時間。在世界上10個最遙遠的地方，展開一場遠離喧囂的旅行，感受世界盡頭最純粹的浪漫與孤獨。在這個搭上飛機，就能輕易跨越半個地球的年代，世界似乎已經愈來愈小。然而，在地球的某些角落，依然存在著一些遠離城市、遠離人群，甚至光"
+          "title": "川習會成「外交秀」？未見重大突破，台灣、AI分歧未解",
+          "link": "https://www.gvm.com.tw/article/133297",
+          "published": "2026-09-25T23:20:00",
+          "summary": "川習會90分鐘閉門會談未見重大突破，中美僅同意將貿易休兵延長2個月，關稅、稀土、農產品採購、AI監管仍存分歧。雙方同意另啟動AI對話。習近平並要求美方反對「台獨」，目前沒跡象表明川普政府計劃修改措辭，台灣議題仍是中美關係焦點。美國總統川普與中國國家主席習近平24日舉行90分鐘閉門會談，雙方雖就貿易、人工智慧（AI）、台灣、國際局勢等議題交換意見，但未見重大突破。中美同意將11月10日到期的貿易休兵"
         },
         {
-          "title": "川習會2.0「閉門會談」！習近平：邀10萬美國青少年來華、大熊貓平平、福雙將落戶亞特蘭大",
-          "link": "https://www.gvm.com.tw/article/133290",
-          "published": "2026-09-24T23:47:00",
-          "summary": "美國總統川普與中國國家主席習近平於白宮展開今年第二度會談，美國總統川普台灣時間今晚在白宮接待，他說此次訪問期間，雙方將討論安全、貿易、科技、人工智慧（AI）等重要議題。上午10時20分左右，川普與習近平在白宮國事廳分別致詞。川普表示，很高興與梅蘭妮亞接待習近平與彭麗媛，並回顧自2016年首次當選以來，兩人建立深厚友誼，奠基於相互尊重與兩國人民共同利益。他指出，這是習近平第二度正式國事訪美，也適逢美"
-        },
-        {
-          "title": "颱風動態》颱風假？舒力基颱風最新路徑，北轉閃過台灣！中秋連假把握好天氣",
-          "link": "https://www.gvm.com.tw/article/133250",
-          "published": "2026-09-24T23:30:00",
-          "summary": "今年第25號颱風舒力基（國際命名SURIGAE）在23日晚間生成，路徑逐漸明朗，中央氣象署預報員賴欣國表示，颱風預估周六（26日）抵達琉球東南方海域後北轉，對台灣直接影響機率降低；中秋連假4天天氣則大致穩定，適合烤肉、賞月；不過下周西北太平洋可能還有新颱風「彩雲」生成，10月初颱風活動仍須持續關注。中秋連假天氣賴欣國說明，中秋連假4天天氣全台都會很穩定，禮拜五中秋節上半天，大台北、東半部、恆春半島"
-        },
-        {
-          "title": "2026名古屋亞運》電競奪銅首獎牌到手！中華隊獎牌、完整賽程、轉播一次看",
+          "title": "2026名古屋亞運》王冠閎奪台灣史上首面男子游泳金牌！中華隊獎牌、完整賽程、轉播一次看",
           "link": "https://www.gvm.com.tw/article/132893",
-          "published": "2026-09-24T23:15:00",
-          "summary": "9/24更新：2026第20屆亞洲運動會在日本名古屋與愛知縣舉行，9月19日開幕、10月4日閉幕，共43種運動。台灣派出482名選手競逐34種運動，加上教練、後勤共超過700人。名古屋亞運進入開幕後第6天，台灣電競隊開出獎牌，四強準決賽不敵中國，為代表團收下電競項目首面獎牌。《遠見》整理了本屆亞運的完整觀賽指南，包括亞運相關介紹、中華隊陣容及各項賽事日程，幫助讀者快速掌握賽事焦點與轉播資訊。【目錄"
+          "published": "2026-09-25T19:25:00",
+          "summary": "9/25更新：2026第20屆亞洲運動會在日本名古屋與愛知縣舉行，9月19日開幕、10月4日閉幕，共43種運動。台灣派出482名選手競逐34種運動，加上教練、後勤共超過700人。「台灣蝶王」王冠閎今在名古屋亞運男子200公尺蝶式決賽中一路領先，最終以1分55秒05勇奪第一，這不僅是中華泳隊今年亞運第一面獎牌，同時更是台灣泳壇史上第一面男子游泳金牌！《遠見》整理了本屆亞運的完整觀賽指南，包括亞運相關"
+        },
+        {
+          "title": "2026九合一大選》「洋流」能複製2018韓流？沈伯洋談最新民調：追近速度比想像快",
+          "link": "https://www.gvm.com.tw/article/133226",
+          "published": "2026-09-25T16:00:00",
+          "summary": "台北市長選情最新民調差距縮至1.2個百分點！民進黨台北市長參選人沈伯洋接受《遠見》專訪時，仍以「挑戰者」自居，談民調、破圈策略，以及5萬則市民留言背後看到的台北。民調公布隔天，沈伯洋也將前往西門町真善美廣場，舉行「市長你給我聽好了！」實體肥皂箱活動。民調專家戴立安與台北市信民兩岸研究協會合作，9月22日公布最新的台北市長選情民調，國民黨籍現任市長蔣萬安支持度41.7％、民進黨參選人沈伯洋40.5％"
         }
       ]
     },
@@ -96,40 +66,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "尼泊爾總理：洪災敲響<b>氣候變遷</b>警鐘籲國際伸援",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5599/9777369&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3xnrhlYKuruNhDhhqBRDWa",
-          "published": "2026-09-25T04:30:38+00:00",
-          "summary": "法新社報導，在聯合國大會高階週（High-LevelWeek），夏哈（Balendra Shah）戴著太陽眼鏡發表演說。他表示，全球暖化正「破壞脆弱的喜馬拉雅生態」，導致永凍土&nbsp;..."
+          "title": "籲紐西蘭各界支持台參與聯合國體系歐江安：台灣經驗不可或缺| Newtalk",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/zNMJqMW&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0d-8_fiQg71yaf9wPGAi-2",
+          "published": "2026-09-25T21:33:43+00:00",
+          "summary": "台灣與紐西蘭均致力推動2050淨零轉型，氣候變遷的影響不分國界，全球氣候治理需要廣納一切有能力、有意願的夥伴共同參與；而台灣已做好準備，參與聯合國及相關&nbsp;..."
         },
         {
-          "title": "尼泊爾洪災向全世界「示警」 總理促各國協助應對<b>氣候變遷</b> - Yahoo新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%25B0%25BC%25E6%25B3%258A%25E7%2588%25BE%25E6%25B4%25AA%25E7%2581%25BD%25E5%2590%2591%25E5%2585%25A8%25E4%25B8%2596%25E7%2595%258C-%25E7%25A4%25BA%25E8%25AD%25A6-%25E7%25B8%25BD%25E7%2590%2586%25E4%25BF%2583%25E5%2590%2584%25E5%259C%258B%25E5%258D%2594%25E5%258A%25A9%25E6%2587%2589%25E5%25B0%258D%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7-030341473.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1VqBqywQRoPRBuY1oSkUmc",
-          "published": "2026-09-25T03:47:08+00:00",
-          "summary": "戴著太陽眼鏡的夏哈在聯合國大會(General Assembly)發表演說，他表示，不斷暖化的氣候「破壞了喜瑪拉雅脆弱的生態系」，融化永久凍土與冰川，加劇了危險。"
+          "title": "習近平六次訪美- 中國- 今日大公",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://epaper.tkww.hk/a/202609/26/AP6ab6d605e4b0e1e2ee71d6e2.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0FUbCCLDp9xvZH75Tc5tT9",
+          "published": "2026-09-25T21:09:09+00:00",
+          "summary": "兩國元首明確提出共同構建中美新型大國關係，核心內涵：不衝突不對抗、相互尊重、合作共贏。 •雙方圍繞各自內外政策、雙邊關係、亞太局勢、網絡安全、氣候變化等&nbsp;..."
         },
         {
-          "title": "二零二六年三月的熱帶氣旋概述｜香港天文台(HKO)",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hko.gov.hk/tc/informtc/tc2026/tc2603.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1lWdmoWayhrVafJxG8ffvg",
-          "published": "2026-09-25T03:30:32+00:00",
-          "summary": "熱帶低氣壓鸚鵡(2603)於三月十日凌晨在雅蒲島以北約170公里的西北太平洋上形成。當晚鸚鵡增強為熱帶風暴，並達到其最高強度，中心附近最高持續風速估計為每小時&nbsp;..."
+          "title": "中國<b>碳中和</b>(01372) 董事會召開日期- 信報網站hkej.com",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hkej.com/instantnews/hkex/article/4523814/%25E4%25B8%25AD%25E5%259C%258B%25E7%25A2%25B3%25E4%25B8%25AD%25E5%2592%258C%252801372%2529%2B%25E8%2591%25A3%25E4%25BA%258B%25E6%259C%2583%25E5%258F%25AC%25E9%2596%258B%25E6%2597%25A5%25E6%259C%259F&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3-tbHkjxg1Ib2Er-Pz2C47",
+          "published": "2026-09-25T19:21:26+00:00",
+          "summary": "中國碳中和(01372) 董事會召開日期. 中國碳中和(01372) 董事會會議召開日期變更(231KB, pdf). 下載港交所通告原文. 下一篇：, 中國旺旺(00151) 翌日披露報表&nbsp;..."
         },
         {
-          "title": "二零二六年四月的熱帶氣旋概述｜香港天文台(HKO)",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hko.gov.hk/tc/informtc/tc2026/tc2604.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1JUtlchi76wq1Ohjf2iruU",
-          "published": "2026-09-25T03:18:33+00:00",
-          "summary": "熱帶低氣壓森拉克(2604)於四月九日凌晨在關島之東南偏東約1 010公里的西北太平洋上形成，隨後兩天在該區徘徊。森拉克於四月十二日迅速增強為超強颱風，並加速向&nbsp;..."
+          "title": "川普出手阻擋IMO全球航運排放定價- 新聞與統計 - IndexBox",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.indexbox.io/zh-hant/blog/trump-moves-to-block-imo-global-shipping-emissions-pricing/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0NoYXkfSS7EjhqTY1NqOu5",
+          "published": "2026-09-25T15:04:03+00:00",
+          "summary": "川普誓言阻擋IMO的全球航運排放定價計畫，稱其為碳稅，將使成本上升10-20%，而淨零架構正面臨MEPC 85的關鍵表決。"
         },
         {
-          "title": "尼泊爾總理聯大警告氣候變化稱洪災為全球響警號 - 巴士的報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bastillepost.com/hongkong/article/16843371-%25E5%25B0%25BC%25E6%25B3%258A%25E7%2588%25BE%25E7%25B8%25BD%25E7%2590%2586%25E8%2581%25AF%25E5%25A4%25A7%25E8%25AD%25A6%25E5%2591%258A%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E5%258C%2596-%25E7%25A8%25B1%25E6%25B4%25AA%25E7%2581%25BD%25E7%2582%25BA%25E5%2585%25A8%25E7%2590%2583%25E9%259F%25BF%25E8%25AD%25A6%25E8%2599%259F&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1LJpLeT6UMBdnCQQ320_1f",
-          "published": "2026-09-25T03:05:00+00:00",
-          "summary": "沙阿表示，尼泊爾排放的溫室氣體不足百分之零點一。尼泊爾約九成九電力來自水力發電，許多工人在洪災中遭洪水圍困於隧道內。"
+          "title": "尼泊爾總理：洪災敲響<b>氣候變遷</b>警鐘籲國際伸援 - 中央社",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/news/aopl/202609250093.aspx&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1Kxz1gmd9hl35v94YZnNn6",
+          "published": "2026-09-25T14:52:19+00:00",
+          "summary": "法新社報導，在聯合國大會高階週（High-Level Week），夏哈（Balendra Shah）戴著太陽眼鏡發表演說。他表示，全球暖化正「破壞脆弱的喜馬拉雅生態」，導致永凍土&nbsp;..."
         },
         {
-          "title": "高雄109家績優宗教團體獲表揚公益捐資近9.7億元暖遍城市",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.yesmedia.com.tw/%25E9%25AB%2598%25E9%259B%2584109%25E5%25AE%25B6%25E7%25B8%25BE%25E5%2584%25AA%25E5%25AE%2597%25E6%2595%2599%25E5%259C%2598%25E9%25AB%2594%25E7%258D%25B2%25E8%25A1%25A8%25E6%258F%259A%25E3%2580%2580%25E5%2585%25AC%25E7%259B%258A%25E6%258D%2590%25E8%25B3%2587%25E8%25BF%25919-7%25E5%2584%2584%25E5%2585%2583%25E6%259A%2596/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0dPl8isqoLI8J63teg9T7i",
-          "published": "2026-09-25T02:57:25+00:00",
-          "summary": "... 淨零轉型。市府未來將持續與宗教團體攜手合作，共同邁向淨零永續，打造更具韌性與溫度的幸福城市。 高雄市議會議長康裕成也表示，很高興看到天主教、基督教&nbsp;..."
+          "title": "尼泊爾總理：泥石流災害是對全世界的警告呼籲國際合作應對氣候變化 - Now 新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.now.com/home/international/player%3FnewsId%3D663684&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3JHdMmpeUKFrzJNIT7oM3j",
+          "published": "2026-09-25T14:14:14+00:00",
+          "summary": "以招牌太陽眼鏡造型現身的沙阿，周四在聯合國大會發表演說，表示全球暖化正破壞脆弱的喜馬拉雅生態，導致永凍土和冰川融化，加劇災害風險；而尼泊爾卻要承擔代價&nbsp;..."
         }
       ]
     }
