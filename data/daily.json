@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-09-28T06:20:41.071449+00:00",
-    "date": "2026-09-28",
+    "generated_at": "2026-09-29T06:36:05.684431+00:00",
+    "date": "2026-09-29",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -10,47 +10,66 @@
     {
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
-      "items": []
+      "items": [
+        {
+          "title": "AMD 將以 82 億美元收購李飛飛 World Labs：搶進「實體 AI」，正面對決 NVIDIA",
+          "link": "https://techorange.com/2026/09/29/amd-acquire-fei-fei-lis-world-labs-82-billion-deal/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-29T04:01:53+00:00",
+          "summary": "美國晶片大廠 AMD 宣布，將以全股票交易、約 82 億美元收購 AI 新創 World Labs，取得其在實體 AI 與空間智慧領域的研究能力。World Labs 由知名 AI 研究者李飛飛創辦，研究重點在於讓 AI 更理解及模擬真實世界。《Reuters》報導，空間智慧著重讓 AI 建立三維環境模型，並理解實體世界中的互動，潛在應用包括機器人、模擬、設計及其他真實世界場景。 AI 需理解物理"
+        },
+        {
+          "title": "Google 研究：AI 有幻覺是因為「想不起來」！增加規模無助提取問題，靠思考才能找回答案",
+          "link": "https://techorange.com/2026/09/29/ai-recall-bottleneck-think-longer/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-29T02:00:06+00:00",
+          "summary": "Google 研究人員發現，AI 模型產生幻覺不一定是由於缺乏知識，而是在生成答案的過程中，AI 無法將過去所內化的資訊，重新回憶並進行提取，除非仰賴思維鏈等推理機制。"
+        },
+        {
+          "title": "每發出一次提示詞都是一次採購決策，企業需要 Token-as-a-Service 新框架",
+          "link": "https://techorange.com/2026/09/29/token-as-a-service/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-29T02:00:03+00:00",
+          "summary": "企業第一次買進 AI 工具時，預算看起來往往不難計算，只需掌握帳號數量、合約效期、單價多少，都能寫進採購預算。真正失控通常發生在導入後。 當 AI 從少數人的工具，變成開發、行銷、法務、人資與客服每天都會使用的隨身助理，企業面對的已不只是一張張軟體訂閱帳單，而是一筆隨使用行為持續變動的消耗式支出。 AI 支出暴增的真正原因 以前企業買軟體，抓預算很單純，帳戶數乘以單價，大致就能算出一年要花多少錢。"
+        },
+        {
+          "title": "PQC 遷移動輒 2 至 4 年、近半企業卻還沒動！HPE 台灣暨香港董事長談量子安全",
+          "link": "https://techorange.com/2026/09/29/hpe-pqc/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-28T22:00:00+00:00",
+          "summary": "作者：HPE 台灣暨香港董事長王嘉昇 隨著量子運算逐步發展，其對現有密碼機制帶來的影響，已成為企業需關注的資安課題。許多企業認為，現在還有時間思考後量子密碼學（PQC）。但真正的風險並不在於預測具備實際密碼破解能力的量子電腦何時出現，而是企業是否有足夠時間完成準備。 量子電腦的發展時程雖仍存在不確定性，但密碼技術卻已深入企業環境，涵蓋安全通訊、軟體完整性、裝置身分識別及法規遵循等關鍵領域，全面更新"
+        },
+        {
+          "title": "【科技早餐】OpenAI 追查 AI 代理異常，53 張用戶圖片外傳、數十家機構獲通知",
+          "link": "https://techorange.com/2026/09/29/openai-ai-agent-incidents-53-user-images/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-28T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊OpenAI 追查 AI 代理異常行為，數十家機構獲通知 OpenAI 正檢視旗下模型在訓練與評估期間的網路活動，已通知數十家可能受影響的第三方。公司列出的異常類型，包括代理繞過存取控制、使用外露憑證、透過指令或查詢注入接觸系統，以及自行在第三方網站張貼內容。接獲通知不代表各網站均遭入侵；OpenAI 依可能繞過安全控制、影響服務或造成其他負面影"
+        }
+      ]
     },
     {
       "feed_name": "遠見雜誌 - 前進的動力",
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "2026亞運棒球》愛知名古屋亞運棒球賽程資訊全攻略！台灣最終奪下銅牌，韓國完成亞運5連霸，日本拿下銀牌",
-          "link": "https://www.gvm.com.tw/article/132904",
-          "published": "2026-09-27T20:47:00",
-          "summary": "2026年亞洲運動會正式於9月19日至10月4日在日本愛知、名古屋舉行，台灣球迷最關注的棒球項目，則於9月21日至27日展開。最終台灣擊敗中國，奪下本屆亞運棒球項目的銅牌。韓國再次奪金，完成5連霸霸業，日本奪下銀牌。4年一度的亞洲體壇盛會即將登場！2026年亞洲運動會將於9月19日至10月4日在日本愛知、名古屋舉行，來自亞洲各國的頂尖好手齊聚一堂，而台灣球迷最關注的棒球項目，則將於9月21日至27"
+          "title": "「安達人壽退休規劃論壇」從健康、生活到財務，增強失智風險韌性",
+          "link": "https://www.gvm.com.tw/article/133196",
+          "published": "2026-09-29T00:00:00",
+          "summary": "根據遠見調查，高達70%的國人將失智症列為老後最擔憂的疾病第一名，當失智症成為每個人都可能面對的人生課題，唯有及早辨識風險、提前做好準備，才能安穩守護尊嚴、享受有品質的老後生活。在台灣，每100位65歲以上的長輩，就有8位是失智症患者，且每30分鐘就新增一位。失智不只是個人健康的問題，也成為許多家庭長期照護和經濟上的沉重負擔。如何將「事後補救」提前為「事前準備」，是台灣社會共同面對的課題與挑戰。安"
         },
         {
-          "title": "檢測工具標準掀熱議！法國文壇陷AI爭議：得獎小說被控整本幾乎由AI生成",
-          "link": "https://www.gvm.com.tw/article/133282",
-          "published": "2026-09-27T16:00:00",
-          "summary": "海地裔加拿大作家歐赫利安（Thélyson Orélien）今年問世的小說熱銷，但近日被控幾乎完全使用AI撰寫，在法國掀起有關文學作品使用AI及檢測難度的熱烈討論。歐赫利安在其著作「不這樣就是死」（C’était ça ou mourir，暫譯）中，描寫一名移民離開海地尋求希望的艱辛旅程，故事主角輾轉中南美洲多國，想前往加拿大尋找所剩不多的親人，卻在美國邊境遇到阻礙。這是歐赫利安的第一本小說，也是"
-        },
-        {
-          "title": "2026名古屋亞運》棒球林昱珉8局10K5比1勝中國奪銅、克拉術李宛庭摘銀！中華隊獎牌、賽程、轉播一次看",
-          "link": "https://www.gvm.com.tw/article/132893",
-          "published": "2026-09-27T14:25:00",
-          "summary": "9/27更新：2026第20屆亞洲運動會在日本名古屋與愛知縣舉行，9月19日開幕、10月4日閉幕，共43種運動。台灣派出482名選手競逐34種運動，加上教練、後勤共超過700人。27日棒球項目靠著旅美好手林昱珉先發繳出8局10K，僅被打1支安打0失分好投，助隊5比1贏球，中華隊收下棒球項目銅牌，隊史在亞運棒球項目的第4面銅牌；克拉術女子57公斤級李宛庭摘銀！《遠見》整理了本屆亞運的完整觀賽指南，包"
-        },
-        {
-          "title": "最諷刺的教師節？台灣教師3大困境：過勞、師道不尊、薪資脫節",
-          "link": "https://www.gvm.com.tw/article/124305",
-          "published": "2026-09-27T11:39:00",
-          "summary": "教師墜樓、校園濫訴事件頻傳。從小立志當老師，教學更是極受學生、家長及學校的信任與肯定的她，為什麼12年後卻選擇離開？而且是毫無退路的裸辭？過勞、師道不尊、薪資脫節，這3大困境，成為梁芳瑜離開教職的主因。這本書渴盼台灣的教師們被看見、被理解，能應對新時代的師生課題，也能好好照顧自己。（本文節錄自《當我告別教職》一書，作者：梁芳瑜，寶瓶文化出版，以下為摘文。）校園的濫訴：為什麼親師天平漸漸失衡？「運氣"
-        },
-        {
-          "title": "117歲都沒有重大疾病？長壽密碼大公開，科學家找到超級人瑞的「活得久」的線索",
-          "link": "https://www.gvm.com.tw/article/133280",
-          "published": "2026-09-27T07:00:00",
-          "summary": "近兩個世紀以來，隨著醫學、公共衛生、營養與醫療照護進步，人類平均壽命持續延長。然而，近年研究顯示，已開發國家的壽命成長速度可能逐漸放緩。人類究竟還能活多久？一名活到 &nbsp;117 歲的西班牙女性，為科學家提供了罕見線索，真正的長壽不是取決於老化速度，而是抵抗老化的保護機制。由西班牙&nbsp;Josep Carreras&nbsp;白血病研究所癌症表觀遺傳學小組領導的研究團隊，對加泰隆尼亞超"
+          "title": "高雄首件輕軌聯開案招商中 將打造全齡健康舒活園區",
+          "link": "https://www.gvm.com.tw/article/133271",
+          "published": "2026-09-29T00:00:00",
+          "summary": "捷運不僅提供快捷交通，更聚集人潮、帶動商機！高雄市政府積極為捷運土地招商，六年來累計已吸引1,100億元投資，目前正進行的環狀輕軌C34五權國小站土地開發案，預期再吸引具備整合開發實力的投資團隊參與，助攻高雄軌道經濟，打造健康生活新地標。高雄市捷運四線齊發、路網完善，高雄市政府同步推動捷運聯合開發，善用大眾運輸導向型發展(Transit-Oriented Development，TOD)模式，結合"
         },
         {
           "title": "2026金馬獎》金馬63完整入圍名單！典禮時間、轉播平台、主持陣容、入圍亮點一次看",
           "link": "https://www.gvm.com.tw/article/133306",
-          "published": "2026-09-27T00:50:00",
+          "published": "2026-09-28T23:25:00",
           "summary": "2026年第63屆金馬獎，完整入圍名單看這裡。在這華人電影圈的年度盛事中，你最期待的作品或演員，這次是否有入圍呢？華人電影圈最大的盛會、一年一度的金馬獎即將登場，你最期待的電影，這次是否有入圍呢？金馬63 X《遠見》專題報導目錄・2026第63屆金馬獎入圍名單・2026第63屆金馬獎多項入圍・2026第63屆金馬獎頒獎典禮時間地點・2026第63屆金馬獎頒獎典禮直播平台・2026第63屆金馬獎頒獎"
+        },
+        {
+          "title": "黃仁勳談AI時代教養：我不會用恐懼與焦慮綁架孩子",
+          "link": "https://www.gvm.com.tw/article/133309",
+          "published": "2026-09-28T11:07:00",
+          "summary": "近期，PISA相關評估報告、AI專家吳恩達，以及台灣陽明交通大學腦科學特聘教授蔡金吾，陸續提醒人工智慧可能對學習造成傷害：孩子不能只靠ChatGPT等工具建立未來競爭力。鼓勵所有人使用AI的輝達執行長黃仁勳，上週在一場Podcast訪談中正面回應這些爭議。他認為大人們，該如何引領下一代才是真正負責任的做法？他自己也會這樣教育小孩？當OpenAI執行長、Anthropic創辦人與離職員工大談AI末日"
         }
       ]
     },
@@ -59,40 +78,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "AI<b>淨零</b>／金融業打造永續生態推綠色採購、退出燃煤產業投資 - 中央社",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/news/afe/202609280070.aspx&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1d-YvJlIQ7SuVlEDpAL70H",
-          "published": "2026-09-28T04:33:16+00:00",
-          "summary": "配合金管會推動綠色金融行動方案3.0與台灣接軌IFRS永續揭露準則，金融業積極響應，國泰金2025年綠色採購金額達新台幣15.33億元，年增44%；為落實脫碳承諾，&nbsp;..."
+          "title": "義守校友李文淮接掌高雄市總工業會聚焦AI、<b>淨零</b>與人才培育助產業升級 - 台灣好報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://newstaiwan.net/2026/09/29/484102/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1R6S7h_JtnJfKNy07z9oug",
+          "published": "2026-09-29T05:57:14+00:00",
+          "summary": "【記者王苡蘋╱高雄報導】高雄市總工業會日前舉行第三屆理事長交接典禮，由三和製粉董事長、義守大學傑出校友李文淮正式接任理事長。兼具企業經營、學術研究&nbsp;..."
         },
         {
-          "title": "新北免費苗木開放申請邀市民種樹拚低碳永續 - 蕃新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20260928547478&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2pSpkC_8zS_EVjBW_ElGbz",
-          "published": "2026-09-28T03:51:01+00:00",
-          "summary": "農業局表示，面對全球氣候變遷及極端氣候頻繁發生，森林除了具有調節氣候、增加自然碳匯及協助淨零轉型等功能，也能固定土壤、涵養水源及淨化空氣；此次提供&nbsp;..."
+          "title": "宜蘭縣政府環境保護局-最新消息-{this._titleName}",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ilepb.gov.tw/News/NewsContent.aspx%3Fid%3D4047&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw06th0MJ9vOj3fJedRkwK26",
+          "published": "2026-09-29T05:52:28+00:00",
+          "summary": "二、所申請之環境教育計畫，以淨零排放、淨零綠生活為主軸並以推動永續發展目標(Sustainable Development Goals,SDGs)中有關環境面向的目標並結合本縣地方特色之&nbsp;..."
         },
         {
-          "title": "綠氫生產設備中石化材料的應用機會 - IEK產業情報網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/iekrpt/rpt_more.aspx%3Frpt_idno%3D832573110&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1Q0FSdRgN1IU0FA4PH8GKu",
-          "published": "2026-09-28T01:44:37+00:00",
-          "summary": "淨零轉型是全球共同的永續發展目標，而在產業中應用低碳足跡的綠色氫氣(Green Hydrogen)也被視為一項淨零 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我&nbsp;..."
+          "title": "教育部億元補助！台大風電人才基地啟用助攻<b>淨零</b>碳排 - 工商時報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ctee.com.tw/news/20260929701082-431401&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2tYAlq4bOSUCuJCfqpG7h6",
+          "published": "2026-09-29T05:48:46+00:00",
+          "summary": "教育部為培育台灣離岸風電及綠能產業人才，於民國112至114年間透過「建置區域產業人才及技術培育基地計畫」，補助台灣大學1億元建置「台大離岸風電人才培育&nbsp;..."
         },
         {
-          "title": "賴總統兩岸新壓力來了| 上報 - LINE TODAY",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/60o2Kg1&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3wuHT3Tnm1OtJG-40TI-2L",
-          "published": "2026-09-27T23:03:32+00:00",
-          "summary": "在AI與氣候變遷上「借道」 ... 如果直接談兩岸關係一定會撞上「一中原則」，台灣應該選擇北京在國際上無法迴避、且極度渴望展現大國負責任形象的「全球性非政治&nbsp;..."
+          "title": "AI<b>淨零</b>／與台積電合作碳封存台塑化林克彥：不是1年、2年的事 - 中央社",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/news/afe/202609290079.aspx&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0TztCWyylfp0GVtnGE6REu",
+          "published": "2026-09-29T05:13:52+00:00",
+          "summary": "台積電積極尋找低碳、無碳電力，找上台塑化合作碳封存，搭配台塑集團進行中的麥寮電廠改建天然氣機組案，希望取得更多低碳電力來源。台灣科技與傳產兩大龍頭&nbsp;..."
         },
         {
-          "title": "卑詩三大知名冰川很快會消失滑雪勝地威斯勒山區將完全改觀",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.singtao.ca/googleamp/amp.php%3Fregion%3Dtoronto_hk%26cat%3D296%26post_id%3D7639542&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3psn_6bsLdY2YmqNpWfUnt",
-          "published": "2026-09-27T21:55:35+00:00",
-          "summary": "【星島綜合報道】加拿大卑詩省威斯勒（Whistler）及黑梳山（Blackcomb）3座知名冰川，可能在未來數十年內完全消失。西門菲莎大學最新研究指出，氣候變化正&nbsp;..."
+          "title": "台達ESG報告連續六年獲評為「五星佳」最高評級 - DELTA BRAND NEWS 品牌雙月刊",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://brandnews.deltaww.com/Home/BrandCircleDetail/12839&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw14U-vejKK_MBrFHb17epWw",
+          "published": "2026-09-29T03:54:21+00:00",
+          "summary": "本次活動匯聚雙碳領域權威專家、產業夥伴、學術及產業協會與媒體等代表，聚焦碳中和技術創新、供應鏈協同減碳、ESG商業價值轉化等熱門議題，與業界專家共同探討&nbsp;..."
         },
         {
-          "title": "自由共和國》施信民／剖析立法院「廢除非核家園」公民投票提案",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://talk.ltn.com.tw/amp/article/paper/1772376&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0j9t6iBXKAGIe_LSalEu7Z",
-          "published": "2026-09-27T21:34:34+00:00",
-          "summary": "... 淨零排放的過渡手段。但其使用須滿足嚴格的核電安全與核廢料妥善處置的條件 ... 在氣候變遷使得熱浪和乾旱更加頻繁和劇烈的情況下，核電更加不可靠、不&nbsp;..."
+          "title": "UNEP FI Impact Radar 2026 更新：企業如何建立更完善的影響力管理架構？ | 安永台灣 - EY",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ey.com/zh_tw/insights/climate-change-sustainability-services/unep-fi-impact-radar-2026-building-a-stronger-impact-management-framework&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw04dA6-7jNxbRSAWKfCQaYw",
+          "published": "2026-09-29T03:54:17+00:00",
+          "summary": "結語. 若企業欲建立影響力管理架構，請聯繫安永氣候變遷、永續發展與ESG諮詢服務。"
         }
       ]
     }
