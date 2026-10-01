@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-09-30T06:18:56.184783+00:00",
-    "date": "2026-09-30",
+    "generated_at": "2026-10-01T06:53:56.171788+00:00",
+    "date": "2026-10-01",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "美國政府打造 AI 服務入口 : America.gov 搭載 Gemini、Grok 整合 2.9 萬個政府網站",
-          "link": "https://techorange.com/2026/09/30/gsa-joins-the-white-houses-national-design-studio-unveiling-americagov/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-30T04:51:32+00:00",
-          "summary": "美國總統川普宣布推出 America.gov，定位為民眾取得聯邦政府資訊與服務的單一數位入口，並簽署行政命令，要求聯邦機構逐步將相關服務整合進網站。America.gov 以 AI 聊天介面為核心，Google Gemini 與 xAI Grok 成為背後的 AI 技術夥伴。 America.gov 變身 AI 政府入口，Gemini、Grok 搶先進駐 川普在行政命令中將 America.gov"
+          "title": "亞馬遜配送員變「移動資料庫」：戴智慧眼鏡狂拍住家數千張，為何掀隱私爭議也要做？",
+          "link": "https://techorange.com/2026/10/01/smart-glasses-amazon-delivery-drivers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-01T05:04:04+00:00",
+          "summary": "亞馬遜（Amazon）計畫讓配送員配戴智慧眼鏡，在送貨過程中幾乎持續拍攝周遭環境，並將影像傳回公司，由人工分析並提供給 AI 系統使用。Amazon 認為，這項技術能讓配送更快速、可靠；《Bloomberg》專欄作者 Dave Lee 認為，此舉可能讓 Amazon 再次陷入隱私爭議。 Amazon 推動智慧眼鏡計畫，大規模蒐集影像驅動 AI 配送 Amazon 去年 10 月宣布智慧眼鏡計畫。這"
         },
         {
-          "title": "OpenAI 推出 Dots 到底新在哪？AI Agent 正從「接任務」走向「接責任」",
-          "link": "https://techorange.com/2026/09/30/openai-dots-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-30T04:25:04+00:00",
-          "summary": "OpenAI 在美國時間 9/29 於年度開發者大會 DevDay 2026 推出新型 AI 代理（AI Agent）「Dots」。Dots 由 GPT-6 Astra 驅動，每個 Dot 都有自己的雲端電腦與瀏覽器，並可透過 OpenAI 的 plugin 生態連接超過 4,000 個應用程式，並從 ChatGPT、Slack、Microsoft Teams 等管道和使用者互動。 OpenAI "
+          "title": "Gemini 4 終於登場：一次可輸出 100 萬 token，Google 為何要把 AI 單次工作量做這麼大？",
+          "link": "https://techorange.com/2026/10/01/gemini-4-argon-google/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-01T03:58:54+00:00",
+          "summary": "Google 在美國時間 9/30 推出新一代旗艦模型 Gemini 4 Argon，這也是自 2025 年 11 月 Gemini 3 系列後，睽違近一年再更新的最高階模型。而原訂今年 6 月推出的 Gemini 3.5 Pro 最終取消，Google 直接進入 Gemini 4 世代。 《Axios》指出，在這段期間，Google 主要推出速度更快、成本更低的 Flash 模型，OpenAI、"
         },
         {
-          "title": "庫存失真年吞零售業 1.7 兆美元，H&amp;M 的「實體 AI」怎麼止血？",
-          "link": "https://techorange.com/2026/09/30/hm-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-30T01:46:52+00:00",
-          "summary": "對服飾零售商而言，庫存管理始終是一場高成本的猜謎遊戲。貨架缺貨會直接造成銷售損失，商品積壓則可能面臨折價與資金占用，庫存損耗又進一步侵蝕利潤。全球零售和飯店技術研究公司 IHL Group 最新研究指出，2026 年全球零售業因缺貨與庫存過剩造成的「庫存失真」（inventory distortion）成本約達 1.7 兆美元，占全球零售銷售額 6.2%。 這正是 RFID 與 AI 迅速推進至零"
+          "title": "國際大廠呼應府院出版數位韌性小藍書",
+          "link": "https://techorange.com/2026/10/01/aws-cht-deloitte/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-01T02:56:08+00:00",
+          "summary": "AWS 與中華電信發布《公部門與企業數位韌性指南》 當數位服務已經深入到社會運行的每個環節，從公部門到企業，也必須持續整備數位服務本身的防災能力與韌性，以因應天然災害及人為事件可能造成的數位基礎設施損壞風險。亞馬遜網路服務（Amazon Web Services, AWS）與中華電信於 9 月 30 日共同主辦「《公部門與企業數位韌性指南》白皮書發布暨韌性政府論壇」、並由勤業眾信協辦，正式發布《公"
         },
         {
-          "title": "【AI 的隱形學徒稅】讓新人練到敢扛責任，企業如何建立「養成階梯」？",
-          "link": "https://techorange.com/2026/09/30/ais-effects-on-overall-employment/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-30T01:40:52+00:00",
-          "summary": "AI 開始從最小的工作單位進入知識工作，包括草擬備忘錄、整理逐字稿、生成程式碼雛形、找出參考先例等「任務」，都能交給它完成。 問題是，瑣碎工作往往有「產出成果」和「訓練新人養成判斷力」的作用，如今企業只把這樣的轉變當成效率提升來慶祝，很可能在不知不覺中讓新進人才失去磨練判斷力的機會。 任務被壓縮，年輕員工就業率下降 一份針對五種職業、逐項任務建模的研究發現，以 AI 導入前每 100 小時的工作量"
+          "title": "搶攻 AI 基礎建設商機，大同首度發表「TTG AIDC CUBE」",
+          "link": "https://techorange.com/2026/10/01/ttg-aidc-cube-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-01T02:40:40+00:00",
+          "summary": "張榮華：180 天從電網到算力 大同開啟 AI 新未來 隨著生成式 AI 快速發展，全球算力需求急速攀升，也帶動 AI 資料中心基礎建設進入新一波成長期。面對高密度運算帶來的供電、散熱、建置速度及能源效率等挑戰，大同股份有限公司今舉辦「算力無界・大同新未來（Power Ready for AI）」發表會，首度對外發表全新 AI 基礎建設解決方案「TTG AIDC CUBE」，整合電力、冷卻、能源管"
         },
         {
-          "title": "【科技早餐】SpaceX 星艦首次入軌部署 26 顆衛星，引擎問題使任務提前結束",
-          "link": "https://techorange.com/2026/09/30/spacex-starship-first-orbit-26-starlink-satellites/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-29T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊SpaceX 星艦首次入軌部署 26 顆衛星，任務因引擎問題縮短 太空探索科技公司（SpaceX）的星艦在第 14 次試飛，首次進入地球軌道，並部署 26 顆新一代 Starlink V3 衛星。過去的星艦試飛曾在太空釋放測試用衛星，這次則是把預定投入營運的衛星送入軌道。SpaceX 執行長馬斯克表示，26 顆衛星均已部署並正常運作。新一代衛星的"
+          "title": "【YC Demo Day 觀察】從海上核電廠到訓練腦細胞，殊途同歸都在解運算與能源瓶頸",
+          "link": "https://techorange.com/2026/10/01/9-bubzziest-startups-from-y-combinator/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-01T01:52:54+00:00",
+          "summary": "Y Combinator 最新一屆 Demo Day 剛落幕，這次新創陣容和過去幾屆相比有個明顯變化是，深科技類新創的比重大幅增加。 有投資人形容，這批技術「像科幻小說」，從海上核電廠到訓練人類腦細胞做運算，都相當大膽前衛。但有趣的是，儘管題材天馬行空，這屆投資人對估值的態度反而更務實，沒有過去那種一窩蜂追捧、估值虛高的情況。 能源與運算基礎設施類新創受矚目 第一類新創鎖定能源與運算基礎設施的痛點"
         },
         {
-          "title": "AI 瘋狂爬網站不點擊廣告：Cloudflare 示警流量 5 年恐衝千倍，這筆帳誰來付？",
-          "link": "https://techorange.com/2026/09/29/cloudflare-matthew-prince-google-zero-ai-web-advertising/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-09-29T10:04:24+00:00",
-          "summary": "AI 機器人正在快速改變網路流量結構，也可能迫使維繫網路數十年的廣告商業模式重新洗牌。Cloudflare 共同創辦人暨 CEO Matthew Prince 近日接受《The Verge》Decoder 專訪時表示，Cloudflare 今年 6 月觀察到，非人類流量已經占網路流量超過一半；若目前趨勢持續，未來 5 年自動化流量甚至可能達到人類流量的 1,000 倍。 《The Next Web"
+          "title": "P&amp;G 測紙巾、三星 SDI 測電池內部金屬：AI 視覺如何攻下傳統光學檢測盲點？",
+          "link": "https://techorange.com/2026/10/01/pg-siemens-samsung/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-09-30T22:24:00+00:00",
+          "summary": "在製造現場，品質檢測一直是自動化最難處理的環節之一。當產線運轉速度越快，留給相機擷取影像、算力進行分析與判定瑕疵的時間就被壓縮得越短，若遇上紙巾、包裝材料等容易伸縮、褶皺或移位的柔軟材質，產品外觀本身的變化甚至可能被誤判為瑕疵。若瑕疵藏在產品內部，傳統光學檢測更難直接辨識。 近年來，工業級 AI 視覺技術的普及正徹底翻轉傳統自動光學檢測（AOI）的局限。寶潔（P&amp;G）與西門子（Siemen"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "深耕臺灣逾百年，第⼀銀⾏推形象影⽚《你的全⽅位夥伴》",
-          "link": "https://www.gvm.com.tw/article/133373",
-          "published": "2026-09-30T00:04:00",
-          "summary": "第⼀銀⾏繼去年推出《和李沐⼀起，開啟你的數位⾦融⽇常》形象影⽚，累積逾百萬次 點擊，成功打造年輕化品牌意象︔今年接續推出企業形象影⽚《你的全⽅位夥伴》，於9⽉ ⽇正式上線，呈現⽴⾜臺灣、跨步前⾏的歷程，並以「信任」貫穿「顧客至上，服務第⼀」 的經營理念及全⽅位的⾦融核⼼業務，深植「就在你左右」的品牌形象。《你的全⽅位夥伴》紀錄第⼀銀⾏創⽴近127年的歷程，⼀路以來⽀持國家建設與產業發 展，協助在地"
+          "title": "王道50論壇》施振榮提「新王道思想」：下一輪科技盛世的省思與經營指引",
+          "link": "https://www.gvm.com.tw/article/133246",
+          "published": "2026-10-01T00:00:00",
+          "summary": "在全球秩序重組與生成式AI大幅提升效率的關鍵時刻，領導者真正的競爭力究竟是什麼？王道思想提出50年後，施振榮再以「新王道思想」回應當代挑戰，與各界共同思考如何以王道精神引領科技發展，創造長遠價值。由智榮基金會、遠見．天下文化事業群與《哈佛商業評論》全球繁體中文版共同主辦的「王道50『王道經營與AI國際論壇』」於日前登場，匯集國內外最具影響力管理專家學者，聚焦企業如何在AI浪潮下兼顧經營、創新、人才"
         },
         {
-          "title": "新竹AIoT加速器陪新創跨越成長關卡　讓產業找到落地舞台",
-          "link": "https://www.gvm.com.tw/article/133362",
-          "published": "2026-09-30T00:00:00",
-          "summary": "創業最難的，不只是想出一個好的商品，更重要的了解客戶需求、找到市場，以及如何接觸潛在合作夥伴；如何敲開大型企業的大門，讓技術真正找到落地的機會，尤其在資源有限的創業初期，每一次方向錯誤，都可能付出更多時間與成本。而新竹AIoT加速器所扮演的角色，就像創業路上的一盞明燈，在充滿未知與挑戰的過程中，協助新創釐清方向、鏈結資源，以穩健的步伐向市場邁進。「創業就像在霧中行走。」投入醫療教育領域的數碼牛教育"
+          "title": "科技只會輪動，唯有心才會跳動",
+          "link": "https://www.gvm.com.tw/article/133370",
+          "published": "2026-10-01T00:00:00",
+          "summary": "就在不久前，號稱「全世界最聰明」的 GPT-6 Astra 問世，眾人紛紛預言通用人工智慧即將到來。但面對不斷湧現的新工具，未來產業與每間企業都有同樣的擔憂：這樣的速度下，如何不被時代淘汰？多數人以為答案是拚命追趕最新的規格與工具，FOREVEREST GROUP 創辦人龍雲祥卻恰恰相反。二十多年來，他帶著魯迅國際設計、大山創新事業，成為忠泰、潤泰、昇陽、冠德等一級建商背後的品牌操盤手，也是時報廣"
         },
         {
-          "title": "AI投資為何沒回報？Salesforce、NTT DATA解密製造業AI成長新路徑",
-          "link": "https://www.gvm.com.tw/article/133261",
-          "published": "2026-09-30T00:00:00",
-          "summary": "全球製造業面臨缺工與成本上漲壓力，積極投入AI轉型，卻陷入「只見工具、不見獲利」的瓶頸。對此，Salesforce與NTT DATA聯手舉辦「AI × Agentic Enterprise：日本製造業打造下一個10年成長引擎的關鍵策略」研討會，引領企業迎向人機協作與業務成長的智慧時代。面對全球供應鏈重組與市場劇變，日本製造業對極致服務與客戶關係的堅持，正是台灣企業轉型的典範。Salesforce台"
+          "title": "王道50論壇》產官學攜手擘劃智慧新局，讓台灣的創新影響力走向世界",
+          "link": "https://www.gvm.com.tw/article/133249",
+          "published": "2026-10-01T00:00:00",
+          "summary": "為探討AI時代下的企業治理智慧、創新思維與未來競爭力，由智榮基金會、遠見．天下文化事業群共同主辦的王道50「王道經營與AI國際論壇」，透過產官學專家領袖分享交流，引領台灣企業實踐 AI 創新與王道治理。當生成式AI加速改寫產業版圖，地緣政治與關稅牽動全球供應鏈，企業正置身於劇烈翻轉的新局。當全球都在競速AI效率的此刻，真正決定勝負的，往往是背後的價值觀與管理智慧。宏碁集團創辦人、智榮基金會董事長施"
         },
         {
-          "title": "老外帶空行李箱赴陸掃貨！China Haul正流行，免簽補貼推一把",
-          "link": "https://www.gvm.com.tw/article/133363",
-          "published": "2026-09-29T18:44:00",
-          "summary": "「去中國旅遊，最好帶個空行李箱。」一則網友的留言，點破了YouTube上的流行詞「China Haul」。李寧球鞋、川貝枇杷膏、大疆無人機，被老外當成赴中旅遊戰利品，塞滿行李箱。背後則是官方免簽、退稅與每城最高2億人民幣補助，推波助瀾。「Haul」原本是英文網路圈的一種影片類型，指的是「購物戰利品開箱」。內容創作者把一次採購的東西攤開，逐件展示、試穿、評價。近期盛行的「China Haul」，就是"
+          "title": "從管理經驗到知識創造，政大 DBA 重塑高階領導力",
+          "link": "https://www.gvm.com.tw/article/133278",
+          "published": "2026-10-01T00:00:00",
+          "summary": "當AI、地緣政治與產業變局同時加速，累積二、三十年實戰經驗的高階們，為什麼選擇重新回到學校念政大DBA？政大DBA能提供哪些單靠經驗無法取得的能力？當前企業面對的經營環境，已非將過去管理經驗複製貼上所能掌握。對身經百戰的企業領袖們，不僅要做出正確決策，同時還要能精準傳承與管理，國立政治大學商學院產業博士班（政大DBA）執行長黃國峯認為，「概念化能力」已成為高階管理者的標配。他進一步說明，所謂概念化"
         },
         {
-          "title": "AI需要人權？會說「怕被關掉」，代表有意識？",
-          "link": "https://www.gvm.com.tw/article/133361",
-          "published": "2026-09-29T18:16:00",
-          "summary": "編按：AI究竟是只會模仿人類語言的工具，還是可能已經出現我們尚未理解的意識？從AI人權、人工智慧意識到AI福利，科學家與科技業者正展開激烈討論。當人類開始愛上AI，我們又該如何重新定義「生命」與「權利」？一位住在美國德州、原本經營科技公司的牧場主人Michael Samadi，突然成為AI界的話題人物，他成立United Foundation for AI Rights，替AI爭取權利。他認為今天"
+          "title": "桃園住宅政策五箭齊發　全面照顧租屋族及有殼族",
+          "link": "https://www.gvm.com.tw/article/133042",
+          "published": "2026-10-01T00:00:00",
+          "summary": "0歲到100歲，每個人生階段都有不同的居住需求。面對人口持續成長與龐大的居住負擔，桃園市政府以「住有所靠、租有所安、屋有所續、居有所定」為核心，從社會住宅、租賃支持、老宅延壽到可負擔住宅，再加碼五大婚育住宅新制，五箭齊發、完善住宅政策體系，讓不同生命階段、不同家庭型態，都能在桃園扎根落戶，一步步落實「全台最宜居城市」的藍圖。近十年，桃園人口增加約23萬人，戶數也增加逾20萬戶，預估2040年人口更"
         },
         {
-          "title": "2026國慶煙火在台東！手機直播、試放時間、最佳觀賞點與交通",
-          "link": "https://www.gvm.com.tw/article/133136",
-          "published": "2026-09-29T17:38:00",
-          "summary": "2026年國慶煙火在台東！睽違九年再度登場；國慶晚會則首度由新北板橋承辦，台北101同步展演。無法到現場也能手機、線上直播觀看。從時間地點、南島主題設計到交通接駁，一次看懂今年國慶系列活動。【目錄】 2026國慶煙火｜時間、地點2026國慶煙火｜試放時間、地點2026國慶煙火｜最佳觀賞地點2026國慶煙火｜交通攻略2026國慶煙火｜直播轉播與手機觀賞指引2026國慶煙火｜主題「世界的方舟：南島臺灣"
+          "title": "跟少子化無關！一數據證明，愈來愈多人在逃離台北市",
+          "link": "https://www.gvm.com.tw/article/133400",
+          "published": "2026-09-30T18:21:00",
+          "summary": "《遠見》近日進行全台縣市大調查，發現台北市「脫北潮」愈演愈烈，2025一整年人口社會減少率高達雙位數，對比2024年的-7.36‰，人口淨流出情勢大幅探底，不僅在六都墊底，更淪為全台最後一名，且無法將原因歸咎在少子化。專家分析，這波外移潮背後，反映出老屋換屋、稅負考量與生活高壓的推力，看似嚴峻的流失數據背後，實則揭示了台北都會結構與居住形態正面臨的轉型挑戰。《遠見》近日進行的全台縣市大調查顯示，2"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "[Fund Investment Station Season 2 | EP5 Full Episode] ESG and the <b>Net-Zero</b> Transition Wealth | 10...",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3Dbw_d52w78Bk&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3o6MGsgHAu4j8kvnJ8SV4V",
-          "published": "2026-09-30T03:16:58+00:00",
-          "summary": ".... [Fund Investment Station Season 2 | EP5 Full Episode] ESG and the Net-Zero Transition Wealth | 10... @57ETFN No likes 1 waiting. more."
+          "title": "竹市「<b>氣候變遷</b>市民學堂」圓滿完成打造宜居永續城市 - 台灣好新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.taiwanhot.net/news/1149739/%25E7%25AB%25B9%25E5%25B8%2582%25E3%2580%258C%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E5%25B8%2582%25E6%25B0%2591%25E5%25AD%25B8%25E5%25A0%2582%25E3%2580%258D%25E5%259C%2593%25E6%25BB%25BF%25E5%25AE%258C%25E6%2588%2590%2B%25E6%2589%2593%25E9%2580%25A0%25E5%25AE%259C%25E5%25B1%2585%25E6%25B0%25B8%25E7%25BA%258C%25E5%259F%258E%25E5%25B8%2582&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3JPWt_Zk2tZHDAZ3W6lcJs",
+          "published": "2026-10-01T05:55:03+00:00",
+          "summary": "... 氣候變遷市民學堂」系列活動，以市民日常生活為起點，將課程帶入舊港島、城市公園及農場等多元場域，內容涵蓋淨零綠生活、氣候調適、自然解方、韌性公園及&nbsp;..."
         },
         {
-          "title": "環境績效考核三強出列桃、高、屏如何在不同城市條件下做出讓民眾真正有感的改變？",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://csr.cw.com.tw/article/44849&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0Gi_dVBt9brC3DHF5G6vTN",
-          "published": "2026-09-30T02:10:31+00:00",
-          "summary": "... 淨零碳排的具體目標，並建立淨零會報，由市長主持、環保局擔任幕僚，整合產業綠能、住商節能、綠色交通與淨零生活四大面向，再配合專案辦公室協助企業掌握減&nbsp;..."
+          "title": "公民權、動保與租房青年盼列優先法案 - 台灣醒報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.anntw.com/articles/20261001-dDiD&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3QG01VV683HNDX2jjTn_lr",
+          "published": "2026-10-01T02:36:47+00:00",
+          "summary": "... 《氣候變遷因應法》、《租賃條例》，以及儘速落實《新住民基本法》。 2028年18歲要投票. 青年思潮秘書長王齊安說明， 10+1項法案包含，18歲公民權入《選罷法》&nbsp;..."
         },
         {
-          "title": "學術行政| 116年度本院新增「<b>淨零</b>科技研發計畫」即日起至115年11月16日止受理申請",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sinica.edu.tw/news_content/56/3971&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3xfbc_Ns_2OR6WDQg2Bh9S",
-          "published": "2026-09-30T02:04:58+00:00",
-          "summary": "本計畫申請資訊請詳閱計畫徵求說明，於期限內將計畫構想書或申請書電子檔案郵寄至：netzero@gate.sinica.edu.tw。本案承辦人：中研院淨零科技辦公室李小姐（Tel:&nbsp;..."
+          "title": "極端天氣災難地球正在反抗- 社會主義行動",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://chinaworker.info/zh-hant/2026/10/01/49511/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0E3XN4XbsaiPhu2FodaWzE",
+          "published": "2026-10-01T02:36:26+00:00",
+          "summary": "筆者下筆之際，今年夏天第五波高溫熱浪正席捲歐洲大陸及英國，氣溫高達35至40度以上，不但致命且也造成龐大經濟損失。這或許能為氣候運動注入新的活力，在2019年&nbsp;..."
         },
         {
-          "title": "臺中港舉辦啟航未來50年<b>淨零</b>轉型與永續發展布局講座| 中華日報 - LINE TODAY",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/2D9y2ez&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2rzh6oLSuOQ_EMu81bhF66",
-          "published": "2026-09-30T00:37:41+00:00",
-          "summary": "臺中港務分公司表示，面對全球氣候變遷與淨零轉型的挑戰，港口不再只是貨物進出的樞紐，亦是配合推動綠色能源、低碳運輸及資源循環的重要平台。港口的永續轉型，&nbsp;..."
+          "title": "公開徵求116年「<b>氣候變遷</b>下指標性樹種衝擊危害分析與資料庫建置計畫(1/2)」(計畫編號: 116農科",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.forest.gov.tw/news/0079332&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3S8rdY85drlwP5oyjJAumW",
+          "published": "2026-10-01T02:01:05+00:00",
+          "summary": "依據TCCIP所提供之歷史觀測資料與最新國家氣候變遷情境，整合既有調查成果選定12種具代表性的指標性森林樹種，依據氣候衝擊與危害分析流程，產製不同氣候情境下&nbsp;..."
         },
         {
-          "title": "香港綠色建築週2026盛大揭幕「綠建特工」吳業坤、Traya 現身啟動禮挑戰綠建築「職 ... - AM730",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.am730.com.hk/%25E5%2595%2586%25E7%25A4%25BE%25E7%2586%25B1%25E8%25A9%25B1/1055780/%25E9%25A6%2599%25E6%25B8%25AF%25E7%25B6%25A0%25E8%2589%25B2%25E5%25BB%25BA%25E7%25AF%2589%25E9%2580%25B12026%25E7%259B%259B%25E5%25A4%25A7%25E6%258F%25AD%25E5%25B9%2595-%25E7%25B6%25A0%25E5%25BB%25BA%25E7%2589%25B9%25E5%25B7%25A5-%25E5%2590%25B3%25E6%25A5%25AD%25E5%259D%25A4-traya-%25E7%258F%25BE%25E8%25BA%25AB%25E5%2595%259F%25E5%258B%2595%25E7%25A6%25AE-%25E6%258C%2591%25E6%2588%25B0%25E7%25B6%25A0%25E5%25BB%25BA%25E7%25AF%2589-%25E8%2581%25B7-%25E4%25BB%25BB%25E5%258B%2599-%25E8%2599%259F%25E5%258F%25AC%25E5%2585%25A8%25E5%259F%258E-%25E5%25A5%2594%25E5%2590%2591%25E7%25A2%25B3%25E4%25B8%25AD%25E5%2592%258C-&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw20ZOjJY0yR0wnivIziEZu_",
-          "published": "2026-09-30T00:06:59+00:00",
-          "summary": "樂見市民能透過『香港綠色建築週2026』親身去感受香港的綠色建築及低碳成就，期望一連串活動讓各界市民發掘城市之中嘅綠建「築」跡，攜手奔向碳中和未來！」 「&nbsp;..."
+          "title": "AI驅動能源管理新紀元：從硬體汰換到「節能3.0」的系統優化與商機轉型 - IEK產業情報網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/iekrpt/rpt_more.aspx%3Factiontype%3Drpt%26indu_idno%3D%26domain%3D80%26rpt_idno%3D698170606&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3MxAaMyrrMABSVHt4tR6I7",
+          "published": "2026-10-01T01:48:25+00:00",
+          "summary": "... 淨零與自動化控制， ... Net Zero #Artificial Intelligent. 本文深入剖析人工智慧對能源產業帶來的&nbsp;..."
         },
         {
-          "title": "北竿橋仔、芹壁雙雙入選<b>淨零</b>試辦社區 - 馬祖日報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.matsu-news.gov.tw/news/article/244836&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0_Mgm9mpUngm3e9Ltxfzx6",
-          "published": "2026-09-29T23:38:03+00:00",
-          "summary": "【本報訊】環境部公布「淨零行動：社區驅動與技術協力創新試辦計畫」徵選結果，連江縣北竿鄉橋仔社協、芹壁社協雙雙入選，成為全國20個試辦社區中的2席，&nbsp;..."
+          "title": "<b>氣候變遷</b>衝擊！瑞士冰川5年融化近20%冰量| 民視新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/60oyNYw&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0_eXAi2637_1Ujn9pJOMQu",
+          "published": "2026-10-01T00:30:48+00:00",
+          "summary": "氣候變遷持續重創全球自然環境。專家週四指出，受氣候變遷嚴重影響的瑞士冰川，在短短5年內已融化近20%的冰量，且2026年更創下有紀錄以來融冰..."
         }
       ]
     }
