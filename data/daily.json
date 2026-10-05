@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-10-04T06:38:02.990987+00:00",
-    "date": "2026-10-04",
+    "generated_at": "2026-10-05T06:34:45.940393+00:00",
+    "date": "2026-10-05",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,10 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "新北青年局「AI 實戰職涯營」成果亮相  25 位跨域青年打造 AI Agent 解企業真實命題",
-          "link": "https://techorange.com/2026/10/03/2026aipractitionerprogram-aws-ai-agent-demoday/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-03T11:30:24+00:00",
-          "summary": "【新北市訊】新北市政府青年局第二屆「2026 AI Practitioner Program（ AI 實戰職涯營）」昨（2）日舉辦 Demo Day，25 名學員歷經 3 個月密集訓練，將 AI 導入物流、航運、食品、醫療及會計等領域，針對企業實際工作流程打造 AI Agent。獲選 MVP 的「箱當可以 Boxcellent」團隊獲得 AWS 資深主管職涯諮詢機會，結訓學員也有機會銜接伊雲谷數位"
+          "title": "Robotaxi 開得更晚、FSD 前進台灣，Tesla 純視覺路線面臨哪些新考驗？",
+          "link": "https://techorange.com/2026/10/05/tesla-robotaxi-austin/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-05T04:48:32+00:00",
+          "summary": "電動車大廠 Tesla 正把旗下無人計程車服務 Robotaxi 往更晚的夜間延伸，但執行長馬斯克最近提到的一個例子，也讓 Tesla 長年選擇的自駕技術路線再次受到關注。 Tesla 近日將美國德州 Austin 的 Robotaxi 無人計程車服務時間，從晚上 10 點延長至 11 點。馬斯克隨後表示，目前團隊仍在處理夜間寵物辨識問題，甚至具體舉例，要確保車輛能看見「黑暗中灰色柏油路上的灰色小"
+        },
+        {
+          "title": "美中 AI 差距縮至 3%？彭博研究：中國憑「高效率與低成本」逼近美國領先優勢",
+          "link": "https://techorange.com/2026/10/05/ai-china-narrows-deepseek-nvidia-bloomberg-intelligence/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-05T03:25:39+00:00",
+          "summary": "美國 AI 業者與中國業者之間的性能差距，近幾個月快速縮小至歷來最低水準。彭博行業研究（Bloomberg Intelligence，BI）指出，在中國 AI 實驗室 DeepSeek 等業者持續追趕下，美國在 AI 技術上的領先優勢正面臨挑戰。 中國 AI 靠效率追趕：部分模型以五分之一成本處理多數工程任務 BI 資深分析師 Robert Lea 在報告中指出，DeepSeek 於 9 月推出 "
+        },
+        {
+          "title": "【用資安思維做 AI 治理】78% 員工自行使用未核准 AI，企業可比照資安管控分層授權",
+          "link": "https://techorange.com/2026/10/05/employees-are-trusting-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-05T02:36:15+00:00",
+          "summary": "員工自行使用公司從未審核過的 AI 工具，這種情況在中小企業裡遠比管理層想像的普遍。美國雲端軟體經銷平台 Pax8 近期一項研究發現，約 78% 員工正在使用雇主未核准的 AI 工具。 這類在 IT 部門視線之外使用的 AI 工具被稱為「影子 AI」（Shadow AI），牽涉的不只是工作效率，更關乎資料安全、客戶信任與企業治理。 90% 中小企業已用 AI，僅 23% 訂有書面政策 從整體導入情"
+        },
+        {
+          "title": "資料中心是當代工廠運算層：製造業與資料中心不是二選一，而是同一場工業革命",
+          "link": "https://techorange.com/2026/10/05/data-center-modern-reindustrialization/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-05T01:55:39+00:00",
+          "summary": "資料中心本身將是現代工廠幕後的運算層，亦是傳統製造業邁向下一階段，實現次世代工廠的發展關鍵，藉此重塑社區經濟面貌，並非得 AI 與傳統製造業投資二選一。"
+        },
+        {
+          "title": "汰換 30 年老 POS、再上 AI，美國披薩品牌的數位轉型如何拿回主導權",
+          "link": "https://techorange.com/2026/10/05/ai-papa-johns/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-04T22:12:00+00:00",
+          "summary": "第三方外送平台改變了披薩產業的消費習慣，也讓原本擁有直面消費者優勢的速食品牌，開始面臨顧客關係與利潤空間被中間平台切割的問題。美國速食披薩品牌 Papa Johns 上季同店銷售下滑超過 8%，伴隨關店與營運調整，促使品牌展開全面性的數位轉型。 Papa Johns 數位與科技長 Kevin Vasconi 指出，Papa Johns 雖有高達 85% 業務來自數位管道，但核心系統已嚴重老化，改革"
+        },
+        {
+          "title": "【科技早餐】AI 代理私訊存取惹爭議，蘋果將收緊 Mac 完整磁碟授權",
+          "link": "https://techorange.com/2026/10/05/apple-mac-ai-agent-data-access/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-04T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊AI 代理私訊存取惹爭議，蘋果將收緊 Mac 完整磁碟授權 蘋果（Apple）10 月 2 日宣布，將為 macOS 的「完整磁碟存取權」（Full Disk Access）增加控制措施，要求使用者透過更明確的操作才能授權。該功能原本支援備份程式，可略過多項資料保護限制，接觸檔案、郵件、訊息與瀏覽紀錄。蘋果指出，部分開發者的使用方式，可能讓使用者"
         }
       ]
     },
@@ -24,34 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "肝癌15公分可開刀？56歲男靠這療法「切7成肝臟」再活4年",
-          "link": "https://www.gvm.com.tw/article/133463",
-          "published": "2026-10-04T07:00:00",
-          "summary": "56歲王先生發現肝癌時，腫瘤已超過15公分，比皮球還大，甚至侵犯大血管，多專科團隊共同制定治療計畫，經免疫加標靶治療後腫瘤縮小，再接受手術切除，至今已存活4年多。台大癌醫中心今天舉辦肝癌衛教展覽開幕記者會，台大癌醫院長吳耀銘致詞表示，肝癌治療選項越來越多，已不是過去單純的手術或化療「二選一」，而是可依患者病況整合多種治療方式。若評估不適合立即手術，內科醫師可即時提供治療建議，透過多專科團隊共同制定"
+          "title": "東元七十年淬鍊，雙軸轉型再造成長新動能",
+          "link": "https://www.gvm.com.tw/article/133320",
+          "published": "2026-10-05T00:00:00",
+          "summary": "面對全球AI浪潮，傳統機電大廠如何翻轉定位，找到新的競爭力？今年創立70年的東元電機，正以「One TECO 」整合策略，從傳統重電跨足AI基礎建設與能源服務布局，目標是要成為國際領先的AI基礎建設整合與能源解決方案領導品牌。目錄• 「One TECO」文化重塑，從重電製造邁向 AI 基建與能源新局• 從設備供應商，升級為全方位解決方案提供者• 南向併購關鍵供應鏈，佈局東南亞算力市場• 必看重點Q"
         },
         {
-          "title": "繼承房子卻繳不出遺產稅？３招避免「看得到、收不到」",
-          "link": "https://www.gvm.com.tw/article/133473",
-          "published": "2026-10-03T16:59:00",
-          "summary": "2020年，日本喜劇天王志村健因新冠肺炎病逝，身後留下高達10億日圓的龐大遺產。而根據日本媒體報導，志村健的繼承人，也就是他的兩位哥哥，由於必須在十個月內，各自繳納高達2億日圓的高額遺產稅，因此一度萌生「乾脆放棄繼承算了」的想法。志村健的案例並非特別，因為在面臨「大繼承潮」的台灣，未來「繼承遺產卻繳不出遺產稅」的情況只會愈來愈常見，要是未來繼承的是單價更高的房屋，更可能面臨無力繳納遺產稅的狀況，這"
+          "title": "一個人離開職場多久會「回不去」？他60歲重新找工作，結果如何了？",
+          "link": "https://www.gvm.com.tw/article/133397",
+          "published": "2026-10-04T21:51:00",
+          "summary": "一個人離開職場多久，就會被認定「回不去了」？最近一名60歲男子重新工作的故事引起注意，他35歲為了照顧父母返鄉，一離開就是25年，等到父母相繼離世，才重新開始找工作。履歷空白了4分之1世紀，年紀也早已不是企業眼中的職場新人，最後他仍進入飯店擔任櫃台。（本文節錄自《窮思維、富邏輯》一書，作者：吳淡如，時報出版，以下為摘文。）自律意味著朝你要的方向按規則前進。雖然，這個方向可能不只一條路。許多年來，我"
         },
         {
-          "title": "醫美跨海求償難！赴韓醫美不是買伴手禮，別「來都來了」留意照護斷層求償地雷",
-          "link": "https://www.gvm.com.tw/article/133460",
-          "published": "2026-10-03T16:00:00",
-          "summary": "機票一刷飛韓國，不少人行程多了「修修臉」。然而「來都來了」的旅遊醫美背後，暗藏跨海求償難、術後照護斷層等隱形地雷，醫美不是買伴手禮，專家提醒別讓變美成了變相冒險。隨著台韓往返便利，赴韓「醫美自由行」正夯，不少韓國院所在台大打繁體中文廣告、邀網紅開箱，價格甚至只要台灣的2/3，讓許多愛美民眾心動不已。上班族翁小姐告訴中央社記者，她出發前鎖定非侵入性的電波，診所配有中文翻譯，體驗自在又划算，「但針劑或"
+          "title": "歷史強者NBA得分王、莫札特、愛迪生都在刷次數？靠「它」才能放大你的勝率",
+          "link": "https://www.gvm.com.tw/article/133388",
+          "published": "2026-10-04T21:49:00",
+          "summary": "努力並不保證你的勝率就會提高。有人一次創業就成功，有人試了十次仍然失敗；有人天分出眾，卻總在關鍵時刻出局。我們習慣把成敗差距歸因於能力、毅力或運氣，卻忽略了每一個目標的背後，其實都隱藏著兩個數字：成功機率與失敗機率。（本文節錄自《成功是場數字遊戲》一書，作者：凱爾・奧斯丁・楊／今周刊出版，以下為摘文。）大約15年前，當時還是大學生的我，為了課堂報告訪問了一位名叫柯瑞的創業家。就我認識的人來說，我們"
         },
         {
-          "title": "玩具反斗城捲土重來！從破產到全美160家店，復活其實不只靠小孩子",
-          "link": "https://www.gvm.com.tw/article/133459",
-          "published": "2026-10-03T11:00:00",
-          "summary": "今年皮克斯電影〈玩具總動員 5〉一針見血的諷刺 3C 改變兒童玩遊戲的本能，剝奪他們從真實互動中建立情感連結的機會，也反應孩子愈來愈習慣手機、平板與遊戲，傳統玩具似乎逐漸被冷落，然而玩具零售似乎找到另一條生路，曾經破產、關閉全美門市的玩具反斗城宣布在美國新增 120 家獨立門市，原因是他們的目標客群不再只是孩子。玩具反斗城 2017 年聲請破產，隔年關閉全美門市，一度被視為實體玩具零售時代結束的象"
+          "title": "美債殖利率飆破5％，投資穩賺不賠？華爾街知名操盤手：公債也曾經歷36年空頭市場",
+          "link": "https://www.gvm.com.tw/article/133386",
+          "published": "2026-10-04T21:47:00",
+          "summary": "美債殖利率飆破5％，對想收息的人來說，乍看像是進場好時機。據媒體報導，美國財政部標售30年期公債並回購長債，仍未能穩住市場，10年期美債殖利率最高升至4.963％，30年期更達5.365％。高油價又推升通膨疑慮，長債持續承壓。問題是，殖利率愈高，真的代表債券愈值得買嗎？（本文節錄自《你沒有學到的資產配置：巴菲特默默在做的事》一書，作者：闕又上，以下為摘文。）公債是穩賺不賠的投資？公債的報酬來自於兩"
         },
         {
-          "title": "每天走1萬步維持一個月！啟動你不知道的機制，身體悄悄升級的數十種變化",
-          "link": "https://www.gvm.com.tw/article/133458",
-          "published": "2026-10-03T07:00:00",
-          "summary": "「每天走一萬步」是現代人耳熟能詳的健康口號，你是否曾好奇若認真執行這個目標滿一個月，會為身體帶來哪些改變？走路絕非只是「移動」這麼簡單的事情，它會引起一連串精密生理反應，從細胞到系統層級都迎來蛻變。每天走路1萬步不僅帶來體重計上的數字變化，還會掀起從心臟、血管、代謝、骨骼、大腦到心理的全面性健康革命。許多研究已指出每天走路與心血管疾病、全因死亡率降低有關，多數益處在前期就顯現，比如依賴日光、荷爾蒙"
+          "title": "一場動員3億人的貨幣轉型：歐元為何能成為全球第2大幣？全靠「它」",
+          "link": "https://www.gvm.com.tw/article/133384",
+          "published": "2026-10-04T21:45:00",
+          "summary": "歐元誕生，不只是一次貨幣更換，而是一場牽動數億人的超大型轉型專案。從20多年前開始規劃，到紙鈔硬幣全面流通，專案打從一開始就有明確的願景、理由與效益：使歐洲人的關係更緊密，幫助整合與促進會員國的繁榮。（本文節錄自《世界上最成功的專案》一書，作者：安東尼奧．尼托—羅德里格茲／天下文化出版，以下為摘文。）對現在多數歐洲人而言，歐元是日常生活的一部分，但當年轉換成歐元的貨幣改革可以說是歷史上最大的政治、"
+        },
+        {
+          "title": "真正的職場高手：不跟「又懶又雷」的同事吵架，而是先做「這件事」",
+          "link": "https://www.gvm.com.tw/article/133383",
+          "published": "2026-10-04T21:42:00",
+          "summary": "很遺憾，無論你把界線守得多緊，或溝通多麼到位，與人共事時多少還是會碰上棘手的狀況。懶散、沒效率，或總是做不出成果的人，真的會讓人抓狂。有時候，和你共事的某位同事會讓你忍不住心想：「你到底是怎麼通過第一輪面試的？」但很可惜，你控制不了別人。你唯一能控制的，只有你自己！（本文節錄自《會溝通的同事有祕密》一書，作者：艾琳．麥高夫／天下文化出版，以下為摘文。）如果你身邊剛好有懶散到不行的同事，首先要問自己"
         }
       ]
     },
@@ -60,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "多維發力梯次躍升：<b>碳中和</b>發展力指數見証綠色轉型成效",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=http://finance.people.com.cn/BIG5/n1/2026/1004/c1004-40809411.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3lLiuy4Zi1dVoh3OcfRD0X",
-          "published": "2026-10-04T03:42:25+00:00",
-          "summary": "指數顯示，浙江、廣東、北京、江蘇、上海等地在綠色航運、生態碳匯、低碳產業、新能源技術等領域成效明顯﹔深圳、南京、廣州、成都、杭州等地通過布局新興產業&nbsp;..."
+          "title": "彭啓明：碳費助公正轉型擬規劃部落可直接申請 - 放言Fount Media",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.fountmedia.io/article/431130&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1EvxPFnwkai2wgNSlgZoRB",
+          "published": "2026-10-05T05:23:08+00:00",
+          "summary": "環境部今天舉辦「氣候變遷下的原民力量國際論壇」，聚焦傳統生態知識、氣候正義與淨零公正轉型解方。 彭啓明致詞時表示，當前國際社會看待原住民族的框架有3&nbsp;..."
         },
         {
-          "title": "<b>氣候變遷</b>重創吐瓦魯99.9%珊瑚礁死亡面臨生存威脅 - 民視新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ftvnews.com.tw/news/detail/2026A04W0146&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0wrBRAJctKm47oZgBqKwPS",
-          "published": "2026-10-04T03:19:09+00:00",
-          "summary": "海洋生物學家Austin Bowden-&nbsp;..."
+          "title": "最高法院新會期審理多宗案件聚焦氣候變化移民槍械權利 - 巴士的報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bastillepost.com/hongkong/article/16909673-%25E6%259C%2580%25E9%25AB%2598%25E6%25B3%2595%25E9%2599%25A2%25E6%2596%25B0%25E6%259C%2583%25E6%259C%259F%25E5%25AF%25A9%25E7%2590%2586%25E5%25A4%259A%25E5%25AE%2597%25E6%25A1%2588%25E4%25BB%25B6-%25E8%2581%259A%25E7%2584%25A6%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E5%258C%2596%25E7%25A7%25BB%25E6%25B0%2591%25E6%25A7%258D&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3JeGv1n-TMEFtiihVzZ-b0",
+          "published": "2026-10-05T04:52:11+00:00",
+          "summary": "最高法院將考慮推翻下級法院允許他們提出反對的命令。法官同時已批准這些航班繼續。 另一宗案件涉及政府對非法居留美國的移民，實施強制拘留政策&nbsp;..."
         },
         {
-          "title": "永續教父簡又新開講打造下一世代城市價值 - 房產",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://house.chinatimes.com/20261004000004-264414&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0R-NG2frIOFCEAX3oGER3E",
-          "published": "2026-10-04T02:53:55+00:00",
-          "summary": "近年他獲聘為中華民國無任所大使，並擔任總統府國家氣候變遷對策委員會顧問，以及台灣淨零排放協會理事長，持續在國際場合為臺灣的環境外交與永續發展努力發聲。"
+          "title": "邁向<b>淨零</b>永續教育部頒<b>氣候變遷</b>系列競賽獎 - 財經新聞- 聚財網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.wearn.com/c2118880.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2JktaCJFDjDQZbAxxpRksm",
+          "published": "2026-10-05T04:36:02+00:00",
+          "summary": "教育部4日於高雄國立科學工藝博物館「第六屆台灣氣候行動博覽會」辦理2026年度氣候變遷系列競賽頒獎典禮暨成果發表會，頒發大專校院「氣候變遷創意實作&nbsp;..."
         },
         {
-          "title": "「智慧機器人產業系列研討會」第四場聚焦綠色科技與循環經濟引領產業從實體試錯邁向虛擬 ...",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/society/thehubnews/20261003/index-79102961262883306009.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0TFvWsG8FcH0xZ132fsCc2",
-          "published": "2026-10-04T01:23:58+00:00",
-          "summary": "... ／台南報導面對全球嚴峻的淨零碳排趨勢、碳邊境調整機制（CBAM）以及勞動力結構轉變，台灣製造業正加速迎向「AI × 低 ... 碳中和規範）建立完整的碳管理與查證機制&nbsp;..."
+          "title": "響應PreCOP31 環境部偕原民會辦<b>氣候變遷</b>原民論壇 - Yahoo新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E9%259F%25BF%25E6%2587%2589precop31-%25E7%2592%25B0%25E5%25A2%2583%25E9%2583%25A8%25E5%2581%2595%25E5%258E%259F%25E6%25B0%2591%25E6%259C%2583%25E8%25BE%25A6%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E5%258E%259F%25E6%25B0%2591%25E8%25AB%2596%25E5%25A3%2587-042133769.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0KxsQUSXPO1lNO6JS5pjdJ",
+          "published": "2026-10-05T04:32:02+00:00",
+          "summary": "彭啓明進一步表示，這次會議也希望可讓淨零轉型帶動地方創生，也確保原民部落在再生能源等計畫中可公平分享成果，他也指出這次會議的舉行和原民出身的立委陳&nbsp;..."
         },
         {
-          "title": "越南漁民面臨多重困境：燃油飆漲、漁獲銳減與南海爭議夾擊 - 商傳媒",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://sunmedia.tw/news/finance/1790984421-%25E8%25B6%258A%25E5%258D%2597%25E6%25BC%2581%25E6%25B0%2591%25E9%259D%25A2%25E8%2587%25A8%25E5%25A4%259A%25E9%2587%258D%25E5%259B%25B0%25E5%25A2%2583%25EF%25BC%259A%25E7%2587%2583%25E6%25B2%25B9%25E9%25A3%2586%25E6%25BC%25B2%25E3%2580%2581%25E6%25BC%2581%25E7%258D%25B2%25E9%258A%25B3%25E6%25B8%259B%25E8%2588%2587%25E5%258D%2597%25E6%25B5%25B7%25E7%2588%25AD%25E8%25AD%25B0%25E5%25A4%25BE%25E6%2593%258A&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3-za_GFMdSUXxX5dTTktOg",
-          "published": "2026-10-03T23:29:53+00:00",
-          "summary": "... 淨零治理匯聚產官學力量 TAIWAN COP6高峰論壇聚焦能源韌性與多元創新 矽谷 ... 此外，因不可持續的漁撈方式與氣候變遷，越南的漁獲量在過去十年中&nbsp;..."
+          "title": "邁向<b>淨零</b>永續教育部頒<b>氣候變遷</b>系列競賽獎",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7238/9795381&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw01KhlP-4c_dK98jwwDl1y7",
+          "published": "2026-10-05T04:30:36+00:00",
+          "summary": "其中國立宜蘭大學及成功大學跨校團隊，以「永續農業方案：回收纖維農膜結合LDHs土壤改良促進土壤碳匯」，榮獲「金獎」殊榮。 教育部肯定此屆「氣候變遷創意實作&nbsp;..."
         },
         {
-          "title": "台英簽署科技合作協議國科會副主委：促進戰略整合|半導體|產業新聞 - IEK產業情報網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D1%26nsl_id%3Da34e99f11b75449ab571491ecd409737&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw33mCgLkRBNPA0yn68TQYdt",
-          "published": "2026-10-03T23:11:24+00:00",
-          "summary": "陳炳宇2日接受中央社專訪表示，SITA初步設定的台英5大重點合作領域涵蓋半導體、太空、次世代通訊、淨零技術、人工智慧（AI）。 ... Net-Zero Sustainability2022｜&nbsp;..."
+          "title": "邁向<b>淨零</b>永續教育部頒<b>氣候變遷</b>系列競賽獎| 產業熱點 - 經濟日報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5612/9795381%3Ffrom%3Dedn_newest_index&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2o0-RViJhZnBOLlKaTYxH8",
+          "published": "2026-10-05T04:27:42+00:00",
+          "summary": "國立宜蘭大學及成功大學團隊獲頒「金獎」的作品，是以廢棄植物纖維結合層狀雙氫氧化物（LDHs），開發「可分解功能型農膜」，可調控水分、養分與微氣候，提升土壤&nbsp;..."
         }
       ]
     }
