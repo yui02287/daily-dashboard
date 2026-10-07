@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-10-06T07:13:23.795747+00:00",
-    "date": "2026-10-06",
+    "generated_at": "2026-10-07T06:52:35.658468+00:00",
+    "date": "2026-10-07",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "免寫程式也能讓 AI 自動交易？幣安 Binance Intelligence 從市場資訊一路做到策略執行",
-          "link": "https://techorange.com/2026/10/06/binance-launches-retail-ai-assistant-repackages-trading-tools/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-06T04:18:30+00:00",
-          "summary": "幣安（Binance）推出 Binance Intelligence，整合 Binance AI、Binance AI Pro 與 Binance Agent OS，讓使用者從取得市場資訊、制定投資策略，到開發可與幣安金融服務互動的 AI 應用，都能在同一套生態系中完成。 Binance Intelligence 整合 3 大 AI 工具，Binance AI 提供個人化市場資訊 幣安聯合執行長 "
+          "title": "高通、緯謙科技、戴爾科技專家拆解 Edge AI Agent 落地應用關鍵",
+          "link": "https://techorange.com/2026/10/07/qualcomm-dell-wiadvance-edge-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-07T05:00:00+00:00",
+          "summary": "日前由 TechOrange 科技報橘與美國高通公司（Qualcomm）共同主辦的「2026 AI 智慧大工廠論壇新竹場」，以「Edge AI Agent：高科技製造的超自動化與資安實戰」為主題，聚焦 AI 如何在工廠設備端即時執行決策，邀請高通、緯謙科技、戴爾科技和先構技研等產業專家，從晶片、IT 整合服務、基礎架構與產線視覺設備，解釋為何 AI 模型愈來愈強，工廠裡的 AI 卻常卡在 PoC，"
         },
         {
-          "title": "中國的開放模型對手來了？Reflection AI 推 Beam，憑什麼挑戰 GLM、Qwen",
-          "link": "https://techorange.com/2026/10/06/reflection-ai-beam/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-06T03:34:15+00:00",
-          "summary": "中國開放模型快速崛起後，美國又多了一個試圖迎戰的新玩家。獲 NVIDIA、Sequoia 等投資的美國新創 Reflection AI，在美國時間 10/5 發表首款開放權重模型 Beam，主攻程式設計、推理與 AI Agent 任務。《Reuters》指出，Reflection 直接把中國 Z.ai 的 GLM-5.2、阿里巴巴 Qwen3.8-Max 等模型列為競爭標竿，希望提供中國開放模型之"
+          "title": "避開美國、劍指中國：南韓砸 34.9 億美元自研前沿 AI，規模衝首輪 9 倍",
+          "link": "https://techorange.com/2026/10/07/south-korea-bets-billion-building-homegrown-frontier-ai-model-rival-chinas/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-07T04:09:40+00:00",
+          "summary": "《The Decoder》報導，南韓政府計畫透過政府支持的股權投資，投入 4.7 兆韓元（約 34.9 億美元），打造南韓自主研發的前沿 AI 模型，目標是讓本土 AI 能力追上中國最頂尖的開源模型。這筆資金已納入南韓政府提出的 2027 年度預算案，但仍有待國會批准；另一項資金計畫則將支持韓國自行開發的 AI 模型在全國經濟體系中的採用。 34.9 億美元押注自研前沿 AI，資金規模約為首輪 9"
         },
         {
-          "title": "監視攝影機成實體 AI 天然起點，新創 Lumana 教 AI 分辨監視畫面並壓低運算費用",
-          "link": "https://techorange.com/2026/10/06/lumana-ai-via-1-physical-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-06T01:39:10+00:00",
-          "summary": "Lumana 認為 AI 監視系統的願景，將是組合成一套實體 AI 代理，由監視攝影機觸發後續於現實世界中的各種行動，讓監視器影像畫面成為 AI 進軍實體世界最自然也最合理的起點。"
+          "title": "美中以外最強 AI 模型出現了，Mistral Large 4 靠 4,000 顆 Blackwell 怎麼追上來？",
+          "link": "https://techorange.com/2026/10/07/mistral-large-4-le-chonk/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-07T03:40:23+00:00",
+          "summary": "幾個月前，網路社群還在開玩笑，猜法國 AI 新創 Mistral 會不會做出一款巨大模型。當時一個虛構模型「Le Chaton Fat」在社群平台 X、Reddit 流傳，其中法文「Le Chaton」意指小貓，因此網友不只替它編出超過 30 兆參數等誇張規格，還惡搞它每秒可以「喵」1,000 次。Mistral 執行長 Arthur Mensch 當時也加入玩梗。 如今，這個玩笑真的成了一部分現"
         },
         {
-          "title": "通用 AI 懂最多卻搞不定公司內部流程，企業需要訓練自己的專屬模型",
-          "link": "https://techorange.com/2026/10/06/enterprises-open-weight-models/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-06T01:38:50+00:00",
-          "summary": "企業導入 AI 時，最常問的是目前哪個通用模型最強？但對真正需要把 AI 放進日常流程的企業來說，這個問題可能問錯了。 模型在公開測試中得分最高，不代表它能準確處理公司的會計規則、內部系統與審批流程。企業真正需要比較的，是哪個模型能以合理的成本與延遲，穩定完成指定任務。 當通用模型無法滿足這項要求時，開源權重模型的專業化微調，便可能成為更合適的選擇。 權重模型讓企業取得 AI 的核心系統 首先，先"
+          "title": "【AI 已能建議解雇員工】人資體系跟不上，企業需要「機器人關係」部門接住員工申訴",
+          "link": "https://techorange.com/2026/10/07/robot-relations/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-07T02:38:55+00:00",
+          "summary": "當 AI 開始參與排班、評估績效，甚至影響裁員名單，員工的不滿該向誰申訴，正成為企業必須面對的新問題。 美國的政策研究機構布魯金斯研究院（Brookings Institution）資深研究員 Darrell M. West，在 7 月發表評論指出，AI 時代的員工關切將不再以同事為中心，而是轉向與 AI 代理人、協作機器人（cobot），以及大型語言模型之間的互動。其中，協作機器人在製造現場等實"
         },
         {
-          "title": "AI Agent 斷網還能繼續動作，KPMG：Edge AI Agent 需要另一套治理方式",
-          "link": "https://techorange.com/2026/10/06/edge-ai-agent-kpmg/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-05T22:36:00+00:00",
-          "summary": "撰稿：廖紹伶 企業開始讓 AI Agent 不只回答問題，還能規劃任務、存取資料、呼叫工具，甚至直接執行動作後，AI 治理也變得更複雜，而到了「Edge AI Agent」，問題又多了一層。資料與部分運算留在企業內部或終端裝置，乍看之下似乎更安全，但當 Agent 同時取得端點上的資料與執行能力，即使與中央系統失去連線，也可能繼續動作。換句話說，「資料不上雲」不代表企業就比較容易掌控 Agent。"
+          "title": "【333 Robots Community Meetup】台灣開發者用 LeRobot 玩什麼？從機械手臂一路玩到移動抓取",
+          "link": "https://techorange.com/2026/10/07/333-robots-community-meetup-september/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-07T01:55:51+00:00",
+          "summary": "從低成本機械手臂，到移動機器人、人形機器人，再到視覺－語言－動作（VLA）模型，Hugging Face 的 LeRobot 近年持續擴大支援範圍，並以統一資料格式串起資料蒐集、模型訓練與部署。這套開源生態也開始被台灣開發者拿來實驗，從單一手臂往移動、視覺與語音等能力延伸。 這些實作也是 9/16「333 Robots Community Meetup」的焦點，該活動由鴻海科技集團、科技報橘與三創"
         },
         {
-          "title": "【科技早餐】台積電將助馬斯克營運德州晶圓廠？馬斯克證實洽談中",
-          "link": "https://techorange.com/2026/10/06/musk-tsmc-chip-fab-talks/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-05T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊馬斯克證實與台積電洽談，晶圓廠合作仍未定案 馬斯克（Elon Musk）證實，旗下晶片計畫 Terafab 與台積電（TSMC）的合作仍在討論。據消息人士指出，台積電正評估協助 Terafab 營運德州新晶圓廠的可能性。馬斯克在社群平台 X 回應相關消息時表示，目前只是討論，但可能會有進展。現階段可確認的是雙方正在商談，合作模式與具體安排仍待說明"
+          "title": "【科技早餐】OpenAI 代理遭指未授權活動，維基媒體揭大量請求疑涉服務中斷",
+          "link": "https://techorange.com/2026/10/07/openai-agents-wikimedia/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-06T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊維基媒體發現 OpenAI 代理未授權活動，流量疑涉服務中斷 維基百科營運機構維基媒體基金會（Wikimedia Foundation）10 月 5 日公布調查，表示旗下平台出現它認為由 OpenAI 運作的 AI 代理活動，包括未經批准的編輯、未成功的線上筆記工具入侵嘗試，以及大量資料下載。基金會指出，編輯幾乎都發生在測試區，未刊登至一般讀者可"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "雲林再登ICF全球Top 7 從智慧治理看見農業縣的轉型實力",
-          "link": "https://www.gvm.com.tw/article/133423",
-          "published": "2026-10-06T00:00:00",
-          "summary": "2026年，雲林縣再度入選國際智慧城市論壇（Intelligent Community Forum，ICF）全球Top 7，成為台灣唯一入榜城市，也是繼2024年後第二度獲得這項國際肯定。同時，雲林更取得ICF「完整智慧城市社群認證」，成為繼新北市後，全台第二座獲得完整認證的城市。一座沒有直轄市資源、以農業為主要產業的雲林，為何能連續兩度站上全球智慧城市舞台？這項榮耀的價值，在於ICF評選看的不只"
+          "title": "桃園，農好！讓土地成為城市進步的永續力量",
+          "link": "https://www.gvm.com.tw/article/133344",
+          "published": "2026-10-07T00:00:00",
+          "summary": "一座城市的進步，不只看高樓、產業與人口，更要看土地是否持續生長。桃園，正以科技、品牌、人才與政策支持，重新定義農業在現代城市中的角色。而這些正在土地上發生的改變，也完整收錄於桃園市政府農業局甫出版的新書《桃園，農好！》。從一塊土地，看見一座城市的永續未來如果把視線從機場、工業區與交通幹道移開，會發現桃園還有另一幅風景：高樓旁的溫室與菜田、城市邊緣的大面積農地及星羅棋布的埤塘，以及一路延伸至復興山區"
         },
         {
-          "title": "杜拜航空遭恐攻！攻擊機長的副駕駛入職前就已密謀，原企圖撞以色列機場",
-          "link": "https://www.gvm.com.tw/article/133501",
-          "published": "2026-10-05T18:54:00",
-          "summary": "杜拜航空FZ1073航班遭副駕駛哈馬米持斧攻擊機長，客機30秒驟降1萬7000英尺，幸好最後平安落幕，機上182人全數生還。根據調查，哈馬米2024年擔任副駕駛培訓生期間，曾被發現持有極端主義相關材料，遭停止飛行任務。他供稱，原計畫劫持飛機撞向以色列的本–古里安機場，最終遭乘客制服，並由兩名非執勤飛行員接手操控。事件也引發海外航班機組員安檢與航空安全漏洞疑慮。杜拜航空（flydubai）FZ107"
+          "title": "當科技與藝術於腕間相遇　RICHARD MILLE 如何重新想像高級製錶 ?",
+          "link": "https://www.gvm.com.tw/article/133461",
+          "published": "2026-10-07T00:00:00",
+          "summary": "當科技與藝術不再對立，而是成就彼此的創作語言，高級製錶也跳脫「計時工具」的框架，開展不一樣的風華。RICHARD MILLE以跨領域的品牌思維重新定義腕錶創作，以RM 16-02、RM 74-02到RM 07-01 Intergalactic三款腕錶分別從建築、材質與宇宙汲取靈感，讓機械結構、材質創新與美學語彙交融，成就卓越之美。回望文藝復興時期，藝術與科學從不是截然分離的兩個世界。達文西既以畫筆"
         },
         {
-          "title": "謝淑薇、詹皓晴「賽後不握手」掀議！心理師：不只是禮貌問題，還藏著關係訊號",
-          "link": "https://www.gvm.com.tw/article/133500",
-          "published": "2026-10-05T18:00:00",
-          "summary": "9月美網女雙謝淑薇與詹皓晴隔網交手，上演台灣選手對決，賽後兩人「沒有握手」成為話題，而這樣的場面，在10/3的名古屋亞運網球女雙決賽竟再度出現，台灣網球「內戰」爭議持續受到關注。一場球賽結束後，最受討論的竟不只是輸贏，而是一個沒有出現的動作。（本文節錄自《從肢體洞察人心》一書，作者：林萃芬，時報出版，以下為摘文。）為什麼少了一次握手，會讓外界如此在意？因為在人際互動中，握手從來不只是幾秒鐘的禮貌。"
+          "title": "多吃維他命、多喝水就好？入秋換季感冒10大迷思，中醫師解析正確觀念",
+          "link": "https://www.gvm.com.tw/article/133533",
+          "published": "2026-10-06T19:32:00",
+          "summary": "換季一到，身邊開始出現咳嗽、打噴嚏、流鼻水的人，「是不是感冒了？」也跟著成為日常對話。有人看到打噴嚏、流鼻水，就直覺認為是感冒；有人習慣每日補充保健食品，也有人深信「天氣一冷、身體著涼就容易感冒」。加上連假出遊與聚會熱潮，導致流感與新冠等呼吸道病毒蠢蠢欲動。然而，許多民眾在面對換季健康威脅時，常存有「打過疫苗就不會中鏢」或「感冒靠吞維他命就好」等常見迷思，反而因忽視輕微警訊而延誤調理良機。這些從小"
         },
         {
-          "title": "台大擬祭最高1200萬攬才、多所私校加薪，教授低薪能改善嗎？",
-          "link": "https://www.gvm.com.tw/article/133499",
-          "published": "2026-10-05T17:37:00",
-          "summary": "物價持續上漲、科技業薪資攀升，台灣大學教授的薪資競爭力愈顯薄弱，也讓高教留才壓力浮上檯面。東海、亞洲大學等私校接連宣布加薪，跟進公立大學待遇調整，朝陽、弘光等校也醞釀跟進。從教授薪資長期落後國際，到台大祭出最高1200萬元留任獎勵，高教如何留住人才，正成為台灣大學競爭力的關鍵課題。在近年物價通膨、加上科技業暢旺發展帶動薪資成長之下，台灣教授的薪水吸引力愈顯薄弱。根據教育部與行政院核定的大學教師薪資"
+          "title": "台灣首檔加密股 MaiCoin 闖創新板！萊爾富、遠傳成背後大股東，藏什麼布局？",
+          "link": "https://www.gvm.com.tw/article/133532",
+          "published": "2026-10-06T18:57:00",
+          "summary": "MaiCoin闖關創新板，萊爾富、遠傳竟是大股東！MaiCoin集團母公司「現代財富控股」，已於9月9日正式向台灣證券交易所送件，申請股票創新板第一上市，股票簡稱「MaiCoin-KY」、代號7903。若最後順利掛牌，MaiCoin將成為台灣第一家進入集中市場的虛擬資產服務商（VASP）。未來的台灣首檔加密股背後藏什麼布局？近一個月來，幣圈熱烈討論，台灣資本市場可能迎來第一檔「加密股」。MaiCo"
         },
         {
-          "title": "補充Omega-3每週吃魚夠嗎？專家曝：最佳魚種竟不是鮭魚而是「這種魚」",
-          "link": "https://www.gvm.com.tw/article/133498",
-          "published": "2026-10-05T17:30:00",
-          "summary": "飽和脂肪或反式脂肪，幾乎大量存在於所有高度加工食品中，對心血管的傷害非常大。現代人常以為多吃魚就能補足Omega-3，卻忽略養殖飼料改變及加工食品帶來的反式脂肪危機。究竟哪些魚真正富含EPA、DHA？又該怎麼吃，才能補足Omega-3、降低不必要的脂肪攝取？（本文節錄自《逆齡密碼》一書，作者：大衛．考克斯／天下文化出版，以下為摘文。）飽和脂肪早已被證實會提高LDL（也就是俗稱的「壞膽固醇」），進而"
+          "title": "全球最佳10大航空公司！台灣長榮和星宇都差點擠進前10，前幾名更全是獲獎常客",
+          "link": "https://www.gvm.com.tw/article/133522",
+          "published": "2026-10-06T18:55:00",
+          "summary": "2026全球最佳航空公司排名正式出爐！航空界指標性評鑑Skytrax公布最新全球百大航空公司，台灣航空今年表現格外亮眼，長榮航空高居全球第11名，距離前10名僅一步之遙；星宇航空也大幅躍升至第13名，中華航空則進步至第30名，三家國籍航空排名全數向前。究竟今年全球最佳10大航空公司有哪些？對許多旅客而言，一趟美好的旅行，往往從踏上飛機的那一刻就已經開始。從機艙環境、座椅舒適度、空服員服務，到機上餐"
         },
         {
-          "title": "東北季風影響有雨轉涼！「這3日」低溫探16度",
-          "link": "https://www.gvm.com.tw/article/133497",
-          "published": "2026-10-05T17:26:00",
-          "summary": "氣象署今天提醒南投、台南及屏東防攝氏36度以上高溫。氣象專家吳德榮說，今明2天東北季風增強，北、東部有雨轉涼，7至9日平地低溫探16度；最快今天西北太平洋將3颱共舞，對台皆無威脅。中央氣象署今天發布高溫資訊，天氣高溫炎熱，中午前後南投縣為橙色燈號，有機會連續出現36度高溫；台南市、屏東縣為黃色燈號，注意36度以上高溫。中央大學大氣科學系兼任副教授吳德榮今天在氣象應用推廣基金會的「洩天機教室」專欄表"
+          "title": "世界綠色大學評比是什麼？2026台灣前三名：屏科大、暨大、大葉",
+          "link": "https://www.gvm.com.tw/article/133531",
+          "published": "2026-10-06T18:35:00",
+          "summary": "全球永續浪潮席捲高教，2026年世界綠色大學評比吸引110國、2016所大學參與，創下歷史新高。台灣大學校院再度交出亮眼成績，屏東科技大學勇奪東亞冠軍；暨南國際大學、大葉大學也躋身全球前40名。但是這個評比到底是評什麼？當初為何發起？原來都跟全球永續風潮興起有關。2026年「世界綠色大學評比」（UI GreenMetric Sustainable University Rankings, UIGM"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "紐西蘭<b>氣候變遷</b>加劇| 經貿透視雙周刊",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.trademag.org.tw/page/newsid1/%3Fid%3D7930743%26iz%3D1&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Ng1xvTAodXP4tHAJ75bei",
-          "published": "2026-10-06T00:07:53+00:00",
-          "summary": "紐西蘭統計局本(10)月2日發布最新環境監測報告，綜整紐西蘭地球科學局(Earth Sciences New Zealand)在全國30個氣候觀測站數十年來的監測數據，該國正經歷劇."
+          "title": "COP31會前會議澳洲挹注太平洋地區基礎設施資金 - 中央廣播電台",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rti.org.tw/news%3Fuid%3D3%26pid%3D236150&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0GC3q5rP5sDmUvUSJEsx4k",
+          "published": "2026-10-07T04:59:24+00:00",
+          "summary": "聯合國氣候變化綱要公約第31次締約方會議(COP31)11月將在土耳其登場，本週在斐濟城市納迪(Nadi)舉行COP會前會議。 南太平洋是最容易受到全球暖化影響的地區之一&nbsp;..."
         },
         {
-          "title": "美國最高法院迎來關鍵新任期！氣候、槍械、移民、投票與宗教權利全面開戰 - 星島日報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.singtaousa.com/2026/10/05/news/usa/supreme-court-new-session-focuses-on-climate-gun-rights-immigration/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3QBhiydOuYXal1nJLlsIpC",
-          "published": "2026-10-05T23:09:46+00:00",
-          "summary": "美國最高法院新任期週一展開，將審理多宗重大案件。焦點包括能源公司試圖阻止氣候變化訴訟、突擊步槍禁令是否違反第二修正案，以及特朗普政府的強制拘留移民&nbsp;..."
+          "title": "99所大學已設永續長環境部攜手教育部加速<b>淨零</b>新引擎 - Yahoo新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/99%25E6%2589%2580%25E5%25A4%25A7%25E5%25AD%25B8%25E5%25B7%25B2%25E8%25A8%25AD%25E6%25B0%25B8%25E7%25BA%258C%25E9%2595%25B7-%25E7%2592%25B0%25E5%25A2%2583%25E9%2583%25A8%25E6%2594%259C%25E6%2589%258B%25E6%2595%2599%25E8%2582%25B2%25E9%2583%25A8%25E5%258A%25A0%25E9%2580%259F%25E6%25B7%25A8%25E9%259B%25B6%25E6%2596%25B0%25E5%25BC%2595%25E6%2593%258E-044649781.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1eO2L6Fz0h5fu52UDNDD6g",
+          "published": "2026-10-07T04:59:15+00:00",
+          "summary": "氣候變遷衝擊讓淨零轉型不得不加快腳步，環境部今（7日）攜手教育部、經濟部舉辦「115年大學永續長研討會」，吸引113校響應，並統計已有99所大學設有永續長&nbsp;..."
         },
         {
-          "title": "<b>氣候變遷</b>衝擊蒙古兒童中醫大附醫攜世展會投入500萬元啟動「草原小太陽」 | 觀傳媒",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/aGpB9eP&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw15QFVc7emFUGzJTTMJO5qK",
-          "published": "2026-10-05T19:22:41+00:00",
-          "summary": "中醫大附醫攜手台灣世界展望會正式啟動蒙古「草原小太陽」行動。左起：林增連慈善基金會董事長林嘉琪、中醫大附醫院長周德陽、愛心大使張鈞甯、台灣世..."
+          "title": "從產業轉型到綠色生活雲林科大推智慧<b>淨零</b>共創永續未來 - 國立教育廣播電臺",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ner.gov.tw/CultureNews/Content/%3Fid%3D26100711501480967&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1XMquwRMP35hTnnOgQrfb3",
+          "published": "2026-10-07T04:32:44+00:00",
+          "summary": "為了展現雲林縣推動淨零轉型及永續發展成果，雲林縣政府攜手雲林科技大學舉辦「雲聚淨零．共築永續」2026雲林淨零轉型成果展，集結政府、產業及學術界共同&nbsp;..."
         },
         {
-          "title": "中醫大附醫攜手世展會守護<b>氣候變遷</b>下的蒙古兒童啟動「草原小太陽」計畫| 大成報Great News",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://greatnews.com.tw/news_pagein.php%3FiType%3D1010%26n_id%3D315550&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw25Mj-0g5X3O1csPXXsip9t",
-          "published": "2026-10-05T18:29:09+00:00",
-          "summary": "【大成報記者吳非羽/臺中報導】中國醫藥大學附設醫院持續把醫療專業延伸至國際公益，10/5攜手臺灣世界展望會，正式啟動蒙古「草原小太陽」行動；&nbsp;..."
+          "title": "蘇巧慧談新北產業政策力推AI<b>淨零</b>雙轉型、打造國際會展中心 - 匯流新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://cnews.com.tw/248261007a02/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3bfOgkn8z9fikzb8XPNU53",
+          "published": "2026-10-07T03:32:22+00:00",
+          "summary": "蘇巧慧表示，過去在立法院推動《氣候變遷因應法》，希望透過制度與政府資源，協助產業因應淨零轉型。未來將推動公私合作設立「企業AI算力中心」，並提供「數位淨&nbsp;..."
         },
         {
-          "title": "最高法院審議氣候變化訴訟地方政府控告油氣公司 - 巴士的報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bastillepost.com/hongkong/article/16913796-%25E6%259C%2580%25E9%25AB%2598%25E6%25B3%2595%25E9%2599%25A2%25E5%25AF%25A9%25E8%25AD%25B0%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E5%258C%2596%25E8%25A8%25B4%25E8%25A8%259F-%25E5%259C%25B0%25E6%2596%25B9%25E6%2594%25BF%25E5%25BA%259C%25E6%258E%25A7%25E5%2591%258A%25E6%25B2%25B9%25E6%25B0%25A3%25E5%2585%25AC%25E5%258F%25B8&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2c88ZILVwaqlNKXvJiCe2v",
-          "published": "2026-10-05T18:24:08+00:00",
-          "summary": "美國最高法院周一審理一宗案件，探討地方政府能否控告油氣公司，要求對方分擔應對氣候變化相關的開支。案件涉及數十億美元賠償，主要大法官對訴訟可能帶來的&nbsp;..."
+          "title": "<b>淨零</b>承諾持續前行！環境部與屏科大攜手，重啟「大武山生質能中心」政策公告廣發英雄帖",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14259&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3VI51t5YcLB_Vj9D6Env7o",
+          "published": "2026-10-07T03:29:31+00:00",
+          "summary": "環境部與國立屏東科技大學（以下簡稱屏科大）跨域合作，於今（7）日正式重啟「大武山永續生質能源研究發展示範中心」政策公告。環境部依據「促參法」第46條&nbsp;..."
         },
         {
-          "title": "歐盟<b>淨零</b>能源組合如何同時降低氣候風險與能源安全風險- 股市爆料同學會 - 理財寶",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/readmo/d79af98d-ba01-4ebd-8f11-593012e945ef&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3iAElREjFRl9raaB0vooZA",
-          "published": "2026-10-05T17:28:26+00:00",
-          "summary": "對政策制定者而言，最重要的是先回答：在電力需求持續上升、極端天氣更頻繁、地緣政治更不穩定的情況下，哪些能源能提供低碳、穩定且可負擔的供電？如果只用核電&nbsp;..."
+          "title": "<b>淨零</b>不只減碳！ 企業面臨新考題：生物多樣性、人權風險 - 中央社",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/business/chinese/446249&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1girc9D7gwn_z2FduLr3oi",
+          "published": "2026-10-07T03:16:10+00:00",
+          "summary": "安永聯合會計師事務所氣候變遷、永續發展與ESG諮詢服務負責人曾于哲指出，在聯合國三大環境公約－氣候變化綱要公約（UNFCCC）、生物多樣性公約（CBD）及防治&nbsp;..."
         }
       ]
     }
