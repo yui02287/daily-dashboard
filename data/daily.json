@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-10-07T06:52:35.658468+00:00",
-    "date": "2026-10-07",
+    "generated_at": "2026-10-08T07:01:11.207406+00:00",
+    "date": "2026-10-08",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "高通、緯謙科技、戴爾科技專家拆解 Edge AI Agent 落地應用關鍵",
-          "link": "https://techorange.com/2026/10/07/qualcomm-dell-wiadvance-edge-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-07T05:00:00+00:00",
-          "summary": "日前由 TechOrange 科技報橘與美國高通公司（Qualcomm）共同主辦的「2026 AI 智慧大工廠論壇新竹場」，以「Edge AI Agent：高科技製造的超自動化與資安實戰」為主題，聚焦 AI 如何在工廠設備端即時執行決策，邀請高通、緯謙科技、戴爾科技和先構技研等產業專家，從晶片、IT 整合服務、基礎架構與產線視覺設備，解釋為何 AI 模型愈來愈強，工廠裡的 AI 卻常卡在 PoC，"
+          "title": "CloudMile 萬里雲 2026 AI MASTERS 登場，攜手 OpenAI、台達電子從 AI 試驗走向可衡量的回報",
+          "link": "https://techorange.com/2026/10/08/cloudmile-2026-ai-masters-openai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-08T06:15:14+00:00",
+          "summary": "隨著 AI Agent 逐步走入企業核心營運，如何控管風險、管理成本並創造實際效益，成為企業擴大應用 AI 的關鍵課題。亞洲領先人工智慧科技集團 CloudMile 萬里雲與《天下》今（6）日共同舉辦「2026 AI MASTERS：AI 大師論壇暨企業實戰 Demo Day」，邀集 OpenAI、台達電子、威摩科技及奧義智慧等企業代表，從全球 AI 趨勢、風險與成本治理到企業實戰成果，探討 AI"
         },
         {
-          "title": "避開美國、劍指中國：南韓砸 34.9 億美元自研前沿 AI，規模衝首輪 9 倍",
-          "link": "https://techorange.com/2026/10/07/south-korea-bets-billion-building-homegrown-frontier-ai-model-rival-chinas/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-07T04:09:40+00:00",
-          "summary": "《The Decoder》報導，南韓政府計畫透過政府支持的股權投資，投入 4.7 兆韓元（約 34.9 億美元），打造南韓自主研發的前沿 AI 模型，目標是讓本土 AI 能力追上中國最頂尖的開源模型。這筆資金已納入南韓政府提出的 2027 年度預算案，但仍有待國會批准；另一項資金計畫則將支持韓國自行開發的 AI 模型在全國經濟體系中的採用。 34.9 億美元押注自研前沿 AI，資金規模約為首輪 9"
+          "title": "AI 讓重建成熟軟體的門檻降低？開發者用 Claude 打造 7 款 Adobe 替代品，揚言數月內追上 99% 功能",
+          "link": "https://techorange.com/2026/10/08/artcraft-software-ai-developer-adobe/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-08T04:11:58+00:00",
+          "summary": "Adobe 長期以 Photoshop、Illustrator、Premiere 等 Creative Cloud 軟體主導創意工具市場，但現在一名軟體開發者試圖利用 AI 加速逆向工程，打造一套免費、開源的 Adobe 替代方案，甚至喊話要在數個月內達到接近完整的功能相容。 這項計畫來自 ArtCraft。ArtCraft 起步於 2025 年，原本是一款主打讓藝術家能控制 AI 的工具，讓使用"
         },
         {
-          "title": "美中以外最強 AI 模型出現了，Mistral Large 4 靠 4,000 顆 Blackwell 怎麼追上來？",
-          "link": "https://techorange.com/2026/10/07/mistral-large-4-le-chonk/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-07T03:40:23+00:00",
-          "summary": "幾個月前，網路社群還在開玩笑，猜法國 AI 新創 Mistral 會不會做出一款巨大模型。當時一個虛構模型「Le Chaton Fat」在社群平台 X、Reddit 流傳，其中法文「Le Chaton」意指小貓，因此網友不只替它編出超過 30 兆參數等誇張規格，還惡搞它每秒可以「喵」1,000 次。Mistral 執行長 Arthur Mensch 當時也加入玩梗。 如今，這個玩笑真的成了一部分現"
+          "title": "AI 小模型戰升溫，Anthropic 推 Haiku 5.5，價格更低、Agent 能力卻更強？",
+          "link": "https://techorange.com/2026/10/08/anthropic-claude-haiku-5-5-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-08T03:16:22+00:00",
+          "summary": "AI 小型模型的競爭，正從價格延伸到能承接多少實際工作。Anthropic 在美國時間 10/7 推出新 AI 模型 Claude Haiku 5.5，API 價格最高調降 90%，電腦操作測試表現更大幅超越前代，甚至領先 OpenAI GPT-6 Luna。隨著小型模型逐漸具備執行多步驟任務的能力，Haiku 5.5 究竟適合接手哪些工作？ 電腦操作成功率躍升，小模型能做的事越來越多 Anthr"
         },
         {
-          "title": "【AI 已能建議解雇員工】人資體系跟不上，企業需要「機器人關係」部門接住員工申訴",
-          "link": "https://techorange.com/2026/10/07/robot-relations/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-07T02:38:55+00:00",
-          "summary": "當 AI 開始參與排班、評估績效，甚至影響裁員名單，員工的不滿該向誰申訴，正成為企業必須面對的新問題。 美國的政策研究機構布魯金斯研究院（Brookings Institution）資深研究員 Darrell M. West，在 7 月發表評論指出，AI 時代的員工關切將不再以同事為中心，而是轉向與 AI 代理人、協作機器人（cobot），以及大型語言模型之間的互動。其中，協作機器人在製造現場等實"
+          "title": "「先解決人怎麼做，再試試 AI 怎麼做。」緯謙科技為智慧工廠推進 AI Ready 到 AI 落地",
+          "link": "https://techorange.com/2026/10/08/wiadvance-aiready/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-08T03:08:32+00:00",
+          "summary": "製造業的相關資料，業績、稼動率、產能與異常分析報告，散落在 ERP、設備與紙本檔案裡，難的是怎麼把資料拿出來，以及有多少企業敢讓 AI 直接接上 SAP、Oracle 的核心系統。在日前舉辦的「2026 AI 智慧大工廠論壇新竹場」，緯謙科技智慧製造處技術經理吳政舉分享了過去一年協助製造業做 POC 的經驗，他表示 AI 進工廠的第一步不是自主決策，而是先釐清人怎麼做、資料在哪裡，再讓 AI 一段"
         },
         {
-          "title": "【333 Robots Community Meetup】台灣開發者用 LeRobot 玩什麼？從機械手臂一路玩到移動抓取",
-          "link": "https://techorange.com/2026/10/07/333-robots-community-meetup-september/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-07T01:55:51+00:00",
-          "summary": "從低成本機械手臂，到移動機器人、人形機器人，再到視覺－語言－動作（VLA）模型，Hugging Face 的 LeRobot 近年持續擴大支援範圍，並以統一資料格式串起資料蒐集、模型訓練與部署。這套開源生態也開始被台灣開發者拿來實驗，從單一手臂往移動、視覺與語音等能力延伸。 這些實作也是 9/16「333 Robots Community Meetup」的焦點，該活動由鴻海科技集團、科技報橘與三創"
+          "title": "叡揚資訊提供三大 Forrester 微分段解方 打造更貼近企業環境的零信任架構",
+          "link": "https://techorange.com/2026/10/08/gss-forrester/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-08T02:39:13+00:00",
+          "summary": "面對零日漏洞、勒索軟體等威脅，攻擊者一旦進入企業環境，即可能迅速在內部系統間橫向移動並擴大影響範圍。企業資安防禦的重點，也逐漸從「如何阻止攻擊進入」，延伸至「即使發生入侵，如何限制攻擊擴散並降低營運衝擊」。在此趨勢下，微分段（Microsegmentation）正從網路安全控制，逐步成為企業落實零信任（Zero Trust）、限制橫向移動及提升資安韌性的重要能力。 Forrester 於 2026"
         },
         {
-          "title": "【科技早餐】OpenAI 代理遭指未授權活動，維基媒體揭大量請求疑涉服務中斷",
-          "link": "https://techorange.com/2026/10/07/openai-agents-wikimedia/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-06T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊維基媒體發現 OpenAI 代理未授權活動，流量疑涉服務中斷 維基百科營運機構維基媒體基金會（Wikimedia Foundation）10 月 5 日公布調查，表示旗下平台出現它認為由 OpenAI 運作的 AI 代理活動，包括未經批准的編輯、未成功的線上筆記工具入侵嘗試，以及大量資料下載。基金會指出，編輯幾乎都發生在測試區，未刊登至一般讀者可"
+          "title": "視覺 AI 為建築工地打造「感知層」，讓機器人讀懂人類在哪裡、正要做什麼",
+          "link": "https://techorange.com/2026/10/08/construction-robotics-vision-ai-safety/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-08T01:28:02+00:00",
+          "summary": "建築機器人是否能夠取得成功，關鍵在於是否可以跟人類和其他自動化系統，安全進行協同作業，而為整個工地打造「感知層」的視覺 AI 系統將成為關鍵解方。"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "桃園，農好！讓土地成為城市進步的永續力量",
-          "link": "https://www.gvm.com.tw/article/133344",
-          "published": "2026-10-07T00:00:00",
-          "summary": "一座城市的進步，不只看高樓、產業與人口，更要看土地是否持續生長。桃園，正以科技、品牌、人才與政策支持，重新定義農業在現代城市中的角色。而這些正在土地上發生的改變，也完整收錄於桃園市政府農業局甫出版的新書《桃園，農好！》。從一塊土地，看見一座城市的永續未來如果把視線從機場、工業區與交通幹道移開，會發現桃園還有另一幅風景：高樓旁的溫室與菜田、城市邊緣的大面積農地及星羅棋布的埤塘，以及一路延伸至復興山區"
+          "title": "台股衝5萬點有何底氣？渣打揭關鍵在「它」能跑贏股價",
+          "link": "https://www.gvm.com.tw/article/133578",
+          "published": "2026-10-07T18:53:00",
+          "summary": "近期台股在全球資金行情與AI權值股帶動下屢創新高，距離5萬點大關僅一步之遙。然而，5萬點前似乎還有一道隱形關卡，台股究竟何時才能正式突破，並且站穩？在這波「驚驚漲」的行情中，投資人又該如何持盈保泰？回顧10月5日，台股加權指數狂飆 1,236.3 點，終場收在 49,712.04 點，台指期夜盤更一度衝破 50,265 點大關。市場頓時歡欣鼓舞，預期隔日便能順勢站上5萬點的歷史紀錄。然而，之後的盤"
         },
         {
-          "title": "當科技與藝術於腕間相遇　RICHARD MILLE 如何重新想像高級製錶 ?",
-          "link": "https://www.gvm.com.tw/article/133461",
-          "published": "2026-10-07T00:00:00",
-          "summary": "當科技與藝術不再對立，而是成就彼此的創作語言，高級製錶也跳脫「計時工具」的框架，開展不一樣的風華。RICHARD MILLE以跨領域的品牌思維重新定義腕錶創作，以RM 16-02、RM 74-02到RM 07-01 Intergalactic三款腕錶分別從建築、材質與宇宙汲取靈感，讓機械結構、材質創新與美學語彙交融，成就卓越之美。回望文藝復興時期，藝術與科學從不是截然分離的兩個世界。達文西既以畫筆"
+          "title": "黃仁勳女婿是誰？他曾是瑞士滑雪國手，不到兩年直升輝達權力核心",
+          "link": "https://www.gvm.com.tw/article/133577",
+          "published": "2026-10-07T18:29:00",
+          "summary": "輝達（NVIDIA）執行長黃仁勳長女黃敏珊（Madison Huang）近日完成終身大事，35歲的夫婿卡普雷茲（Nico Caprez）現任輝達高階主管。外媒指出，卡普雷茲升遷神速，不到兩年就「躍升權力核心」，在公司內部地位日益提升。黃仁勳9月下旬在紐約獲頒2026年范佛里特獎，三星電子會長李在鎔出席致詞時，意外透露黃仁勳長女黃敏珊完婚消息。不過，黃仁勳本人與輝達目前尚未針對婚訊發布正式聲明。科技"
         },
         {
-          "title": "多吃維他命、多喝水就好？入秋換季感冒10大迷思，中醫師解析正確觀念",
-          "link": "https://www.gvm.com.tw/article/133533",
-          "published": "2026-10-06T19:32:00",
-          "summary": "換季一到，身邊開始出現咳嗽、打噴嚏、流鼻水的人，「是不是感冒了？」也跟著成為日常對話。有人看到打噴嚏、流鼻水，就直覺認為是感冒；有人習慣每日補充保健食品，也有人深信「天氣一冷、身體著涼就容易感冒」。加上連假出遊與聚會熱潮，導致流感與新冠等呼吸道病毒蠢蠢欲動。然而，許多民眾在面對換季健康威脅時，常存有「打過疫苗就不會中鏢」或「感冒靠吞維他命就好」等常見迷思，反而因忽視輕微警訊而延誤調理良機。這些從小"
+          "title": "假消息滿天飛，如何不落入「理所當然」的思考陷阱？",
+          "link": "https://www.gvm.com.tw/article/79555",
+          "published": "2026-10-07T18:23:00",
+          "summary": "編按：並不是真的要你無時無刻質疑身邊的一切事物，因為從實務面來說，在大多數的情況下，我們還是非常需要用所謂「理所當然」的事物，來進行快速的決策判斷。其實，從演化心理學來說，人類本來就是靠各種「刻板印象」和「成見」來做各種生存所需的迅速決策。（本文摘自《冷知識背後的熱思考》一書，作者為啾啾鞋，以下為摘文。）&nbsp;想像你是一個原始人，在叢林中發現另一個部落的人，雖然看得出來都是人類，但這些人的服"
         },
         {
-          "title": "台灣首檔加密股 MaiCoin 闖創新板！萊爾富、遠傳成背後大股東，藏什麼布局？",
-          "link": "https://www.gvm.com.tw/article/133532",
-          "published": "2026-10-06T18:57:00",
-          "summary": "MaiCoin闖關創新板，萊爾富、遠傳竟是大股東！MaiCoin集團母公司「現代財富控股」，已於9月9日正式向台灣證券交易所送件，申請股票創新板第一上市，股票簡稱「MaiCoin-KY」、代號7903。若最後順利掛牌，MaiCoin將成為台灣第一家進入集中市場的虛擬資產服務商（VASP）。未來的台灣首檔加密股背後藏什麼布局？近一個月來，幣圈熱烈討論，台灣資本市場可能迎來第一檔「加密股」。MaiCo"
+          "title": "你的願景影響你看到的現實：7個改寫人生的「幸運體質」養成術",
+          "link": "https://www.gvm.com.tw/article/116506",
+          "published": "2026-10-07T18:18:00",
+          "summary": "改變日常習慣的關鍵，其實是我們的「大腦」，大腦會本能地阻止巨大變化，所以若想要改變它，必須一點點逐漸改變，等成為習慣後再執行下一個，當你循序漸進地增加累積，最終將成為巨大的改變，進而產生強力的「幸運波動」，將幸福的狀態吸引而來，無論工作、財富或人際關係等，一切都將無往不利。（本文節錄自《1天1分鐘開運習慣》一書，作者：桑名正典，平安文化出版，以下為摘文。）你平時對自己有怎樣的「想像」呢？想像自己是"
         },
         {
-          "title": "全球最佳10大航空公司！台灣長榮和星宇都差點擠進前10，前幾名更全是獲獎常客",
-          "link": "https://www.gvm.com.tw/article/133522",
-          "published": "2026-10-06T18:55:00",
-          "summary": "2026全球最佳航空公司排名正式出爐！航空界指標性評鑑Skytrax公布最新全球百大航空公司，台灣航空今年表現格外亮眼，長榮航空高居全球第11名，距離前10名僅一步之遙；星宇航空也大幅躍升至第13名，中華航空則進步至第30名，三家國籍航空排名全數向前。究竟今年全球最佳10大航空公司有哪些？對許多旅客而言，一趟美好的旅行，往往從踏上飛機的那一刻就已經開始。從機艙環境、座椅舒適度、空服員服務，到機上餐"
+          "title": "怕缺錢，卻不怕錯過人生體驗？擁有「這資產」才是真正的富人",
+          "link": "https://www.gvm.com.tw/article/116103",
+          "published": "2026-10-07T18:15:00",
+          "summary": "已故蘋果電腦創辦人賈伯斯，因患胰臟癌，抗癌長達八年仍不敵病魔辭世。有太多在事業上極有成就及名氣的人，為大家在在證明健康是最重要的。太多人，一輩子，花了大部分的時間賺錢；但到了尾聲，疾病找上門，甚至身體垮了，而沒有機會享受人生。（本文節錄自《100歲不掉牙的祕訣》一書，作者：潘韞珊，吳錦珠，聯合文學出版，以下為摘文。）近幾年，在LINE、微信等通訊軟體，我看到很多人分享，一位知名律師提供給中年民眾的"
         },
         {
-          "title": "世界綠色大學評比是什麼？2026台灣前三名：屏科大、暨大、大葉",
-          "link": "https://www.gvm.com.tw/article/133531",
-          "published": "2026-10-06T18:35:00",
-          "summary": "全球永續浪潮席捲高教，2026年世界綠色大學評比吸引110國、2016所大學參與，創下歷史新高。台灣大學校院再度交出亮眼成績，屏東科技大學勇奪東亞冠軍；暨南國際大學、大葉大學也躋身全球前40名。但是這個評比到底是評什麼？當初為何發起？原來都跟全球永續風潮興起有關。2026年「世界綠色大學評比」（UI GreenMetric Sustainable University Rankings, UIGM"
+          "title": "哈佛日曆快10天：哈佛優等生、高效主管都在用的「奇蹟時間管理法」",
+          "link": "https://www.gvm.com.tw/article/116109",
+          "published": "2026-10-07T18:12:00",
+          "summary": "我近距離觀察過CEO們工作時的模樣。除了掌握最高決定權的CEO外，還有其他深受下屬們尊崇的領導者、在團體中工作表現傑出得令人敬佩的人等，我察覺哈佛生和職場精英會把時間看得最重要，他們把事情提早完成後，充分保留修正與改善的熟成時間，正是這些人最重要的共同特徵。（本文節錄自《哈佛日曆快十天》一書，作者：河知銀，幸福文化出版，以下為摘文。）有句話說：「從哈佛畢業後，生活變得輕鬆了。(After Harv"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "COP31會前會議澳洲挹注太平洋地區基礎設施資金 - 中央廣播電台",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rti.org.tw/news%3Fuid%3D3%26pid%3D236150&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0GC3q5rP5sDmUvUSJEsx4k",
-          "published": "2026-10-07T04:59:24+00:00",
-          "summary": "聯合國氣候變化綱要公約第31次締約方會議(COP31)11月將在土耳其登場，本週在斐濟城市納迪(Nadi)舉行COP會前會議。 南太平洋是最容易受到全球暖化影響的地區之一&nbsp;..."
+          "title": "信義房屋致力<b>淨零</b>轉型「氫能論壇」登場- 生活新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/living/nownews/20261008/index-79141802065216207009.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0svQXVHV_I8j1bRergzLVk",
+          "published": "2026-10-08T00:20:33+00:00",
+          "summary": "[NOWNEWS今日新聞]台灣是全球AI伺服器與半導體製造重鎮，資料中心用電需求隨AI浪潮急速攀升。一旦機房斷電，氫燃料電池能否撐起備援電力？台灣淨零排放協會&nbsp;..."
         },
         {
-          "title": "99所大學已設永續長環境部攜手教育部加速<b>淨零</b>新引擎 - Yahoo新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/99%25E6%2589%2580%25E5%25A4%25A7%25E5%25AD%25B8%25E5%25B7%25B2%25E8%25A8%25AD%25E6%25B0%25B8%25E7%25BA%258C%25E9%2595%25B7-%25E7%2592%25B0%25E5%25A2%2583%25E9%2583%25A8%25E6%2594%259C%25E6%2589%258B%25E6%2595%2599%25E8%2582%25B2%25E9%2583%25A8%25E5%258A%25A0%25E9%2580%259F%25E6%25B7%25A8%25E9%259B%25B6%25E6%2596%25B0%25E5%25BC%2595%25E6%2593%258E-044649781.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1eO2L6Fz0h5fu52UDNDD6g",
-          "published": "2026-10-07T04:59:15+00:00",
-          "summary": "氣候變遷衝擊讓淨零轉型不得不加快腳步，環境部今（7日）攜手教育部、經濟部舉辦「115年大學永續長研討會」，吸引113校響應，並統計已有99所大學設有永續長&nbsp;..."
+          "title": "投書：綠混凝土兼顧減碳與耐震是邁向<b>淨零</b>建築關鍵一步 - 鏡報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.mirrordaily.news/story/89724&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0Zs3p32fBBJNDgr_2s8E5e",
+          "published": "2026-10-07T22:22:37+00:00",
+          "summary": "反之，國內產生的爐石粉每公噸二氧化碳排放量則僅約六十公斤，而燃煤飛灰的排碳量為零。 也就是說，綠混凝土的總排碳量，相較於以純水泥生產的一般混凝土，僅約&nbsp;..."
         },
         {
-          "title": "從產業轉型到綠色生活雲林科大推智慧<b>淨零</b>共創永續未來 - 國立教育廣播電臺",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ner.gov.tw/CultureNews/Content/%3Fid%3D26100711501480967&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1XMquwRMP35hTnnOgQrfb3",
-          "published": "2026-10-07T04:32:44+00:00",
-          "summary": "為了展現雲林縣推動淨零轉型及永續發展成果，雲林縣政府攜手雲林科技大學舉辦「雲聚淨零．共築永續」2026雲林淨零轉型成果展，集結政府、產業及學術界共同&nbsp;..."
+          "title": "教育部<b>氣候變遷</b>競賽頒獎宜蘭大學、成大團隊農膜作品奪金獎",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.myhousing.com.tw/l/l04/297672/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1Musdh-wNQsyn3b5Vb8Q6a",
+          "published": "2026-10-07T19:13:32+00:00",
+          "summary": "落實創意邁向淨零永續教育部舉辦115年度氣候變遷系列. 報新聞/編輯部. 教育部10月4日於高雄國立科學工藝博物館「第六屆臺灣氣候行動博覽會」辦理115年度氣候變遷&nbsp;..."
         },
         {
-          "title": "蘇巧慧談新北產業政策力推AI<b>淨零</b>雙轉型、打造國際會展中心 - 匯流新聞網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://cnews.com.tw/248261007a02/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3bfOgkn8z9fikzb8XPNU53",
-          "published": "2026-10-07T03:32:22+00:00",
-          "summary": "蘇巧慧表示，過去在立法院推動《氣候變遷因應法》，希望透過制度與政府資源，協助產業因應淨零轉型。未來將推動公私合作設立「企業AI算力中心」，並提供「數位淨&nbsp;..."
+          "title": "跨部會攜手合作推動<b>淨零</b>韌性校園| 青年日報 - LINE TODAY",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/QwWPnWj&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3Bp9WDlizZiplBnMkhsVb5",
+          "published": "2026-10-07T19:08:14+00:00",
+          "summary": "會中針對「大學永續治理」、「校園太陽光電」及「氣候調適」3大核心議題展開深度研討，共同開創「淨零韌性校園」的全新里程碑。 廣告（請繼續閱讀本文）. 環境&nbsp;..."
         },
         {
-          "title": "<b>淨零</b>承諾持續前行！環境部與屏科大攜手，重啟「大武山生質能中心」政策公告廣發英雄帖",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14259&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3VI51t5YcLB_Vj9D6Env7o",
-          "published": "2026-10-07T03:29:31+00:00",
-          "summary": "環境部與國立屏東科技大學（以下簡稱屏科大）跨域合作，於今（7）日正式重啟「大武山永續生質能源研究發展示範中心」政策公告。環境部依據「促參法」第46條&nbsp;..."
+          "title": "AI算力推升電力需求低碳電力與智慧儲能卡位新商機 - DIGITIMES",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.digitimes.com.tw/tech/dt/n/shwnws.asp%3Fcnlid%3D13%26cat%3D30%26id%3D0000770712_9H48OGPD0MRLJU32QY5NR&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0_VxLu4faz95G0Y8aObds4",
+          "published": "2026-10-07T19:02:17+00:00",
+          "summary": "由外貿協會（TAITRA）與SEMI旗下GESA綠能暨永續發展聯盟共同主辦的2026 台灣國際淨零永續展（Net-Zero Taiwan）與台灣國際智慧能源週（Energy Taiwan），將&nbsp;..."
         },
         {
-          "title": "<b>淨零</b>不只減碳！ 企業面臨新考題：生物多樣性、人權風險 - 中央社",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/business/chinese/446249&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1girc9D7gwn_z2FduLr3oi",
-          "published": "2026-10-07T03:16:10+00:00",
-          "summary": "安永聯合會計師事務所氣候變遷、永續發展與ESG諮詢服務負責人曾于哲指出，在聯合國三大環境公約－氣候變化綱要公約（UNFCCC）、生物多樣性公約（CBD）及防治&nbsp;..."
+          "title": "澎湖縣成功實現「裸露垃圾清零」打造宜居海島邁向永續",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.phnes.net/%25E6%25BE%258E%25E6%25B9%2596%25E7%25B8%25A3%25E6%2588%2590%25E5%258A%259F%25E5%25AF%25A6%25E7%258F%25BE%25E3%2580%258C%25E8%25A3%25B8%25E9%259C%25B2%25E5%259E%2583%25E5%259C%25BE%25E6%25B8%2585%25E9%259B%25B6%25E3%2580%258D%25E6%2589%2593%25E9%2580%25A0%25E5%25AE%259C%25E5%25B1%2585%25E6%25B5%25B7%25E5%25B3%25B6%25E9%2582%2581&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1gjl0EunUGJpQnDWvufAg_",
+          "published": "2026-10-07T18:54:05+00:00",
+          "summary": "為配合中央政策、提升離島環境品質及落實永續發展目標，澎湖縣政府環境保護局近年積極推動全縣垃圾掩埋場改善及垃圾轉運計畫。在中央統籌調度、外縣市焚化爐&nbsp;..."
         }
       ]
     }
