@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-10-09T07:09:18.153727+00:00",
-    "date": "2026-10-09",
+    "generated_at": "2026-10-10T06:42:40.900949+00:00",
+    "date": "2026-10-10",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,10 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "AI 模型越便宜反而越花錢？史丹佛等機構研究：近 1/3 模型成本比較出現「反轉」",
-          "link": "https://techorange.com/2026/10/08/cheaper-ai-models-cost-more-price-reversal-study/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-08T09:03:12+00:00",
-          "summary": "AI 模型的 API 價格持續下降，企業選擇較便宜的模型，就一定能降低成本嗎？史丹佛大學等機構一項研究發現，在 336 組 AI 模型成本比較中，約 32% 出現「價格逆轉」（Price Reversal）現象，也就是 API 單價較低的模型，執行相同測試任務反而更花錢。隨著 AI Agent（AI 代理）開始承接更多複雜工作，這項發現也對企業過去依據模型單價比較成本的方式提出挑戰。 API 單價"
-        },
-        {
-          "title": "AI 落地的關鍵，在於找到合適的 Use Case：高通攜手生態系共創 Edge AI 加速產業部署",
-          "link": "https://techorange.com/2026/10/08/edge-ai-ecosystem-use-case/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-08T08:44:19+00:00",
-          "summary": "TechOrange 科技報橘與美國高通公司（Qualcomm）於 9 月 17 日在新竹共同舉辦「AI 智造領航午宴」，邀集多位高科技製造業中高階主管蒞臨餐敘交流，共同探討 AI 落地製造現場的實務路徑。 科技報橘社長戴季全致詞時表示，台灣企業正進入全球佈局與國際經營的新階段，研發與創新服務更不可或缺。他觀察到，台灣廠商彼此之間正從單純的上下游供應鏈，轉向奠基於共同技術基礎上合作、研發與開拓市場"
-        },
-        {
-          "title": "電動車電池有望變小、變便宜？Honda 開發「邊開邊充」道路，2027 年啟動測試",
-          "link": "https://techorange.com/2026/10/08/honda-electrification-2027-releases-e20/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-08T08:01:10+00:00",
-          "summary": "Honda 最快將從 2027 會計年度起，參與日本高速公路上的行駛中無線充電實證測試，這套內建於道路中的系統，可讓電動車以最高每小時 120 公里的速度行駛時，仍獲得最高 150 kW 的充電功率。 道路直接幫電動車充電，電池有望更小、更輕 《The Next Web》報導，這套系統由 Honda 研發部門與建設公司大成建設（Taisei）共同開發，第一階段測試將以商用車為主。根據《日經亞洲》，"
-        },
-        {
-          "title": "CloudMile 萬里雲 2026 AI MASTERS 登場，攜手 OpenAI、台達電子從 AI 試驗走向可衡量的回報",
-          "link": "https://techorange.com/2026/10/08/cloudmile-2026-ai-masters-openai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-08T06:15:14+00:00",
-          "summary": "隨著 AI Agent 逐步走入企業核心營運，如何控管風險、管理成本並創造實際效益，成為企業擴大應用 AI 的關鍵課題。亞洲領先人工智慧科技集團 CloudMile 萬里雲與《天下》今（6）日共同舉辦「2026 AI MASTERS：AI 大師論壇暨企業實戰 Demo Day」，邀集 OpenAI、台達電子、威摩科技及奧義智慧等企業代表，從全球 AI 趨勢、風險與成本治理到企業實戰成果，探討 AI"
-        },
-        {
-          "title": "AI 讓重建成熟軟體的門檻降低？開發者用 Claude 打造 7 款 Adobe 替代品，揚言數月內追上 99% 功能",
-          "link": "https://techorange.com/2026/10/08/artcraft-software-ai-developer-adobe/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-08T04:11:58+00:00",
-          "summary": "Adobe 長期以 Photoshop、Illustrator、Premiere 等 Creative Cloud 軟體主導創意工具市場，但現在一名軟體開發者試圖利用 AI 加速逆向工程，打造一套免費、開源的 Adobe 替代方案，甚至喊話要在數個月內達到接近完整的功能相容。 這項計畫來自 ArtCraft。ArtCraft 起步於 2025 年，原本是一款主打讓藝術家能控制 AI 的工具，讓使用"
-        },
-        {
-          "title": "AI 小模型戰升溫，Anthropic 推 Haiku 5.5，價格更低、Agent 能力卻更強？",
-          "link": "https://techorange.com/2026/10/08/anthropic-claude-haiku-5-5-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-08T03:16:22+00:00",
-          "summary": "AI 小型模型的競爭，正從價格延伸到能承接多少實際工作。Anthropic 在美國時間 10/7 推出新 AI 模型 Claude Haiku 5.5，API 價格最高調降 90%，電腦操作測試表現更大幅超越前代，甚至領先 OpenAI GPT-6 Luna。隨著小型模型逐漸具備執行多步驟任務的能力，Haiku 5.5 究竟適合接手哪些工作？ 電腦操作成功率躍升，小模型能做的事越來越多 Anthr"
+          "title": "【貝萊德機器原生經濟報告】Token Economy 打通 AI 商業行為，穩定幣與算力成新型態金融資產",
+          "link": "https://techorange.com/2026/10/10/machinenative-economy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-09T22:29:00+00:00",
+          "summary": "全球資產管理公司貝萊德（BlackRock）旗下的數位資產研究團隊，發布《機器原生經濟》（The Machine-Native Economy: How digital assets connect intelligence, commerce, and compute）報告。報告的核心主張是，人工智慧代表「機器原生的智慧」，數位資產則代表「機器原生的貨幣」；兩者結合後，將形成一個以自主軟體代理人"
         }
       ]
     },
@@ -54,40 +24,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
+          "title": "健檢別只看紅字！醫揭報告「5大指標」藏失智及中風風險",
+          "link": "https://www.gvm.com.tw/article/133592",
+          "published": "2026-10-10T07:00:00",
+          "summary": "很多人收到健檢報告往往只看有沒有紅字，但專家提醒，血壓、血糖等5項數值是腦健康關鍵指標，即使未見紅字，若逐年靠近臨界值，血管性失智等神經退化風險恐已悄悄累積。「一張健檢報告看的是現在，把連續幾年的報告攤開來，才能看到健康往哪個方向走。」開業健康管理機構醫師林美秀今天透過新聞稿指出，大腦重量雖然只大約占體重的2%，卻需要消耗全身約20%的氧氣，維持負責輸送氧氣的血管對大腦功能相當重要。林美秀表示，失"
+        },
+        {
+          "title": "川普還是落空了！2026諾貝爾和平獎得主皮萊是誰？曾籲中國公布天安門真相",
+          "link": "https://www.gvm.com.tw/article/133619",
+          "published": "2026-10-10T02:06:00",
+          "summary": "南非法官皮萊獲頒2026年諾貝爾和平獎，表彰她為促進和平與國際法所做的貢獻。她曾任聯合國人權事務高級專員，呼籲中國公布天安門事件真相，也曾主持撰寫認定以色列在加薩犯下種族滅絕罪的調查報告。2026年諾貝爾和平獎9日揭曉，由南非法官皮萊（Navanethem “Navi” Pillay）獲獎，以表彰她為促進和平與國際法所做的貢獻，她將獲得1200萬瑞典克朗獎金（約新台幣3788萬元）。現年85歲的皮"
+        },
+        {
+          "title": "正向獨處是什麼？為何高級大人最懂？心得：湊合的熱鬧不如清醒的自由",
+          "link": "https://www.gvm.com.tw/article/133560",
+          "published": "2026-10-09T16:00:00",
+          "summary": "剛結束的中秋連假，我是一個人過的。身邊朋友問我，這樣難道不會覺得可憐嗎？但我得說，這個假期反而讓我的心情意外平靜。最近剛好看到一項研究，指出經常進行正向獨處的人，更容易成為情緒穩定的大人，我看了很有共鳴。正向獨處是什麼？為什麼有時候刻意一個人吃飯，斷絕無聊的聚會，反而能活得更自在？這通常是有一點世事歷練的「高級大人」才會懂！就來分享自己的經驗。前些日子，我突然重感冒，還併發支氣管發炎。整個中秋連假"
+        },
+        {
+          "title": "專訪》「當選立即上工！」賴瑞隆的「1機場3中心」如何再造高雄？",
+          "link": "https://www.gvm.com.tw/article/133589",
+          "published": "2026-10-09T14:00:00",
+          "summary": "高雄市長選舉藍綠激戰。根據9月最新民調，賴瑞隆、柯志恩民調成互有領先的膠著態勢。面對選戰升溫，賴瑞隆如何爭取選民認同？他接受《遠見》專訪時自信表示「最大優勢是了解高雄」，從傳產轉型、半導體與AI布局，到亞灣3.0、交通建設與「一機場三中心」，提出下一階段的城市發展藍圖，直言：「如果順利當選，我馬上可以上工。」近日，高雄市長參選人賴瑞隆接受《遠見》專訪時分享，自己曾在高雄市府歷練10年，轉戰立法院後"
+        },
+        {
+          "title": "基隆離台北這麼近，為何被嫌「全台最難住」？一年下雨186天，砸696億蓋捷運就能變宜居嗎？",
+          "link": "https://www.gvm.com.tw/article/133305",
+          "published": "2026-10-09T11:00:00",
+          "summary": "基隆距離台北不遠，台鐵部分班次從基隆站到台北站不到1小時，在雙北高房價下，看似具備成為通勤衛星城市的條件，卻屢被網友點名「難住」。問題可能不在距離，而在「離台北近」與「住起來方便」其實是兩回事。如今，總經費696.89億元的基隆捷運已動工，老城更新也陸續展開。這座離台北如此近的港都，究竟卡在哪裡？近700億元建設，又能改變多少？&nbsp;「最爛的絕對是基隆。」一篇討論「台灣哪個城市住起來最不舒服"
+        },
+        {
           "title": "憂鬱會增加失智症風險！長期負面思考可能讓大腦提早老化，研究：與認知退化有關",
           "link": "https://www.gvm.com.tw/article/133586",
           "published": "2026-10-09T07:00:00",
           "summary": "老年憂鬱可能不只是情緒問題，也與大腦老化及認知退化密切相關。一項針對超過 1 千名中高齡者的研究發現，容易感到痛苦、反覆負面思考的人，往往同時出現憂鬱、焦慮、孤獨、睡眠障礙，以及自覺記憶力或思考能力變差等問題。研究人員認為，這類心理特徵可能形成一條「心理─情緒路徑」，與日後認知障礙及失智症風險增加有關。這項研究由西班牙巴塞隆納大學神經科學研究所研究團隊進行，分析超過1&nbsp;千名沒有認知障礙的"
-        },
-        {
-          "title": "談判大叔陳侯勳：真正的談判高手不急著說服對方，而是讓對方說服自己 !",
-          "link": "https://www.gvm.com.tw/article/133559",
-          "published": "2026-10-09T00:00:00",
-          "summary": "房市轉冷，買方議價空間變大，但價格能砍多少，得看談判功力。人稱「談判大叔」的陳侯勳，在疫情房市狂飆時，能每坪砍下逾14萬元，他說，談判要學的第一件事，是「如何被說服」。《哈佛商業評論》曾在〈商業談判不敗祕笈：破解零和迷思，三大應用情境教戰〉一文中指出，談判時常見的三個迷思，包括把協商當成零和對決、以為靠讀心術和氣勢就能壓過對方，以及把「關係」和「問題」混為一談。文章建議，上談判桌前先備妥BATNA"
-        },
-        {
-          "title": "AI繪圖爭議全解析：繪師為何反彈？被掠奪這個難以承受",
-          "link": "https://www.gvm.com.tw/article/133616",
-          "published": "2026-10-08T18:41:00",
-          "summary": "自Midjourney、Stable Diffusion等工具問世以來，動漫與插畫圈爭議不斷。從好萊塢影視巨頭控告AI公司、韓國模型涉嫌模仿特定畫風引發跨國抵制，到近期台灣政治人物簡報因使用AI輔助圖片引發討論，繪師社群對AI生成的敏感神經一再被觸動。在一般讀者眼中，AI生成圖精緻且快速，為何在專業圈內卻激起強烈反彈？AI是否已實質衝擊繪師生計？《遠見》專訪繪師、原畫師和AI工程師，從倫理、技術、"
-        },
-        {
-          "title": "三大AI Agent可免費用？OpenAI Dots、Meta Muse、Grok Bot全攻略",
-          "link": "https://www.gvm.com.tw/article/133614",
-          "published": "2026-10-08T18:30:00",
-          "summary": "從今年（2026）8月以來，科技巨頭密集推出新一代AI Agent（AI代理）。xAI、Meta與OpenAI先後端出Grok Bot、Meta Muse與OpenAI Dots，三款產品除了回答問題以外，還可以操作雲端電腦、串接外部服務，甚至在使用者離線後持續執行任務。究竟三者定位有何不同？可以做到哪些事？台灣能不能用、一個月又要花多少錢？誰有免費方案？《遠見》一文完整整理。【目錄】▌Meta "
-        },
-        {
-          "title": "野村目標價喊破八千，大立光CPO、FAU何時放量？",
-          "link": "https://www.gvm.com.tw/article/133612",
-          "published": "2026-10-08T18:02:00",
-          "summary": "光學之王大立光（3008）今（8日）召開第三季法人說明會。由執行長林恩平親自主持，市場高度聚焦大立光共同封裝光學（CPO）與FA（光纖陣列）驗證最新進展，以及對智慧型手機等消費性電子產業景氣觀察。這位業界「老實樹」6月時狂砸逾80億元積極購地，帶給外資無限遐想，出具報告多空激戰，讓大立光股價上下震盪、目標價差距逾三千元，成為市場最熱議的焦點。今日法說帶你一窺：法人、外資怎麼說？各自給出的目標價合理"
-        },
-        {
-          "title": "從AI充電到缺工危機，公共運輸迎來「雙軸轉型」，臺灣如何駛向下一個十年？",
-          "link": "https://www.gvm.com.tw/article/133605",
-          "published": "2026-10-08T18:00:00",
-          "summary": "一輛電動公車，除了載客，未來可能也是城市裡的一顆大型「行動電池」。當大量電動公車回到場站，AI可以決定何時、用多少電充電，甚至透過V2G（Vehicle-to-Grid，車輛到電網）反向供電、穩定電網。這正是公共運輸的「雙軸轉型」，即讓AI、數據等數位工具，成為淨零轉型的助力之一。交通部運輸研究所日前攜手國際公共交通聯會（UITP）、逢甲大學中區區域運輸發展研究中心，舉辦「公共運輸雙軸發展國際論壇"
         }
       ]
     },
@@ -96,40 +66,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "臺灣銀行一舉抱回四項數位金融大獎數位創新、綠色<b>淨零</b>金融勇奪雙金質大獎 - 中華日報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cdns.com.tw/articles/1471640&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1HRNIiwLDTjX62LCr8cU4h",
-          "published": "2026-10-08T22:55:37+00:00",
-          "summary": "臺銀串聯12家銀行及財金公司，為國內黃金交易市場建立跨行即時清算交割(DvP)之基礎設施，並藉由開創性的提領憑證代幣，實現實體黃金跨行提領及鏈上與鏈下的即時&nbsp;..."
+          "title": "竹市推綠能屋頂擴大再生能源應用串聯能源轉型與資源循環打造永續城市 - 中央社",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/postwrite/chi/446565&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw31x42SzWhbYGo2NGV-STcY",
+          "published": "2026-10-10T04:51:30+00:00",
+          "summary": "因應全球氣候變遷與我國2050淨零轉型目標，新竹市政府持續推動氣候變遷減緩、再生能源應用及淨零綠生活，透過環境教育、實地參訪及公私協力，深化市民與各界&nbsp;..."
         },
         {
-          "title": "守護鄉親通行與防洪安全！紅羅2號排水復興橋南側改善工程完工！ - 澎湖e傳媒",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.phnes.net/%25E5%25AE%2588%25E8%25AD%25B7%25E9%2584%2589%25E8%25A6%25AA%25E9%2580%259A%25E8%25A1%258C%25E8%2588%2587%25E9%2598%25B2%25E6%25B4%25AA%25E5%25AE%2589%25E5%2585%25A8%25EF%25BC%2581%25E7%25B4%2585%25E7%25BE%25852%25E8%2599%259F%25E6%258E%2592%25E6%25B0%25B4%25E5%25BE%25A9%25E8%2588%2588%25E6%25A9%258B%25E5%258D%2597%25E5%2581%25B4&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1J3N5jKO9Uv1q7D8YY64HK",
-          "published": "2026-10-08T22:22:35+00:00",
-          "summary": "為保障縣民生命財產安全，提升區域排水防洪韌性，澎湖縣政府積極推動各項水利改善工程。其中「紅羅2號排水出海口復興橋南側橋板」因長年受海風與鹽霧侵蝕，&nbsp;..."
+          "title": "推動碳市場建設助力綠色低碳轉型 - 臺灣導報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.taiwan-reports.com/archives/721704&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw35m8pvqQmYtRNO_t4_Mmxb",
+          "published": "2026-10-10T04:00:59+00:00",
+          "summary": "... 碳中和、建設美麗中國提供更多力量支撐。 走進武漢鋼鐵廠區，藍天白雲下生氣 ... 氣候變遷、加速綠色轉型的重要政策工具。以「碳增效」，釋放產業發展&nbsp;..."
         },
         {
-          "title": "玉山金ESG倡議登場賴清德：雙軸轉型是台灣邁向<b>淨零</b>關鍵| 陳怡慈 - 風傳媒",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.storm.mg/article/11171008&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw25EtlyfKWtgcFKQ6VOk8Cy",
-          "published": "2026-10-08T21:56:21+00:00",
-          "summary": "隨後舉行Panel座談，由麥肯錫全球合夥人AndrewRyba、臺科大教授盧希鵬、滙豐銀行FrancesChen（北亞區可持續發展和氣候變化總監）共同交流，從產業、金融、國際&nbsp;..."
+          "title": "賴總統：不因意識形態排除能源選項、不會犧牲永續 - 放言Fount Media",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.fountmedia.io/article/432924&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1i6bCfULOFEu7C__cwb2MG",
+          "published": "2026-10-10T03:59:08+00:00",
+          "summary": "（中央社記者賴于榛台北10日電）面對能源與氣候挑戰，總統賴清德今天發表國慶演說時指出，政府以穩定供電、能源安全及淨零轉型為目標，推動多元綠能、儲能、&nbsp;..."
         },
         {
-          "title": "港產創新研發4/納入InnoHK平台前沿技術最快3年內落地科大研有機固體儲氫為港實現<b>碳中和</b>獻力",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://epaper.tkww.hk/a/202610/09/AP6ac7fd94e4b0e1e2ee731634.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw14aNtqD1SwMg1QHEwzmt0I",
-          "published": "2026-10-08T20:32:45+00:00",
-          "summary": "其中，HKCRES將主力研究儲能技術、能源系統整合與優化等課題，HKCRES主任邵敏華教授本周接受《大公報》專訪時介紹，中心已研發出全球首創的有機固體儲氫技術&nbsp;..."
+          "title": "礦業市場點評（10月10日） - Coface：銅鎳價格未來十年或翻倍 - NAI500",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://nai500.com/zh-hant/blog/2026/10/%25E7%25A4%25A6%25E6%25A5%25AD%25E5%25B8%2582%25E5%25A0%25B4%25E9%25BB%259E%25E8%25A9%2595%25EF%25BC%258810%25E6%259C%258810%25E6%2597%25A5%25EF%25BC%2589-coface%25EF%25BC%259A%25E9%258A%2585%25E9%258E%25B3%25E5%2583%25B9%25E6%25A0%25BC%25E6%259C%25AA%25E4%25BE%2586%25E5%258D%2581%25E5%25B9%25B4%25E6%2588%2596/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0LESCHTliqA2rxixGIpCRX",
+          "published": "2026-10-10T03:14:00+00:00",
+          "summary": "分品種看，銅鎳面臨的缺口最深。Coface 預計，精煉銅到2035 年缺口將達150 萬至650 萬噸，約占預期需求的11%；淨零情景下&nbsp;..."
         },
         {
-          "title": "<b>淨零</b>轉型與能源教育！高雄市國小校長團到台電大林發電廠參訪交流 - NOWnews今日新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.nownews.com/news/6881821&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2O0yJPHr746FMrZzZEN85f",
-          "published": "2026-10-08T17:21:30+00:00",
-          "summary": "高雄市國小校長團於今(8)日上午，到台灣電力公司大林發電廠參訪交流，期深化能源教育交流，讓與會國小校長更加瞭解我國電力發展與淨零轉型。"
+          "title": "紡織展揭示哪些<b>淨零</b>、AI轉型新趨勢？ - 聯合新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/ai/answer/%25E7%25B4%25A1%25E7%25B9%2594%25E5%25B1%2595%25E6%258F%25AD%25E7%25A4%25BA%25E5%2593%25AA-58431924&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0BrNavFCFchOHZRFcUuL-G",
+          "published": "2026-10-09T23:52:37+00:00",
+          "summary": "即時 &middot; 松機遷移 &middot; 要聞 選舉 娛樂 運動 全球 社會 地方 產經 股市 房市 生活 寵物 健康 橘世代 文教 評論 兩岸 科技 Oops 閱讀 旅遊 雜誌 報時光 倡議+ 500&nbsp;..."
         },
         {
-          "title": "農漁局聯合海巡查獲抱卵母蟹15.3公斤（三點蟹）立即放流守護海洋資源 - 澎湖e傳媒",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.phnes.net/%25E8%25BE%25B2%25E6%25BC%2581%25E5%25B1%2580%25E8%2581%25AF%25E5%2590%2588%25E6%25B5%25B7%25E5%25B7%25A1%25E6%259F%25A5%25E7%258D%25B2%25E6%258A%25B1%25E5%258D%25B5%25E6%25AF%258D%25E8%259F%25B915-3%25E5%2585%25AC%25E6%2596%25A4%25EF%25BC%2588%25E4%25B8%2589%25E9%25BB%259E%25E8%259F%25B9%25EF%25BC%2589%25E7%25AB%258B&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3BYoFORTOeBfdwhlHC_Mjd",
-          "published": "2026-10-08T16:11:33+00:00",
-          "summary": "依據農業部漁業署公告「沿近海漁船捕撈蟳蟹類漁獲管制措施」，為維護海洋漁業資源及落實每年8月1日至12月31日禁捕抱卵母蟹保育措施，澎湖縣政府農漁局近日接&nbsp;..."
+          "title": "有展會冀助本澳會展產業可持續發展 - 澳門廣播電視",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tdm.com.mo/zh-hant/news-detail/1248738%3Flang%3Dzh-hant%26isvideo%3D%26category%3Dall%26shortvideo%3D0&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1D8VdzKQuhrVRAqgQeZnnx",
+          "published": "2026-10-09T23:16:03+00:00",
+          "summary": "主辦方表示，本屆活動首次編製活動溫室氣體預估排放報告，期望進一步研究可重複使用的展陳材料、精細化能源管理等，讓可持續思維進入會展產業。 #碳中和. 澳廣視&nbsp;..."
         }
       ]
     }
