@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-10-11T06:49:50.415195+00:00",
-    "date": "2026-10-11",
+    "generated_at": "2026-10-12T07:00:07.194825+00:00",
+    "date": "2026-10-12",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -10,47 +10,60 @@
     {
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
-      "items": []
+      "items": [
+        {
+          "title": "楊立昆團隊推新世界模型 H-JEPA，為什麼能讓機器人走迷宮成功率提升 4 倍？",
+          "link": "https://techorange.com/2026/10/12/h-jepa-yann-lecun-world-model-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-12T04:55:32+00:00",
+          "summary": "當 AI 產業持續投入大型語言模型（LLM），AI 學者楊立昆（Yann LeCun）卻認為，光靠語言模型不足以讓 AI 真正理解物理世界，或預測自身行動可能帶來的後果。因此，他押注能學習環境運作規律、支援推理與行動規劃的「世界模型（World Model）」。 2025 年底，LeCun 離開 Meta 創辦 AI 新創 AMI Labs，今年 3 月完成 10.3 億美元種子輪融資。如今，他與"
+        },
+        {
+          "title": "AI 寫的程式碼愈來愈多，美國軟體開發職缺卻增近 15%：工程師沒被取代的原因是什麼？",
+          "link": "https://techorange.com/2026/10/12/ai-software-developer-jobs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-12T04:35:10+00:00",
+          "summary": "自 Anthropic 於 2025 年 2 月推出 Claude Code 以來，美國軟體開發職缺刊登數量持續上升，即使整體職缺刊登數量正在下降。這讓「AI 將迅速消除開發者需求」的預測，變得更加難以判斷。 外界對軟體開發職涯未來的擔憂並非毫無根據。隨著企業採用 AI 程式設計工具，尤其是這些工具的能力持續提升，相關疑慮也日益加深。早在 2023 年，微軟旗下的軟體開發平台 GitHub 就指出"
+        },
+        {
+          "title": "iKala 專訪：從零點擊到 Agentic Commerce，企業與品牌如何面對這場 AI 生存戰？",
+          "link": "https://techorange.com/2026/10/12/ikala-aimarketing-agentic-commerce-tmmlu/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-12T03:00:00+00:00",
+          "summary": "試著回想一下，你上一次在 Google 搜尋後，真的點進某個網站，是什麼時候的事？ 根據 iKala 共同創辦人暨集團董事長程世嘉引用的數據，目前 Google 搜尋的零點擊率已高達 70%，消費者不再需要點進網站，因為 AI 已經替他們整理好答案，當 ChatGPT、Gemini、Perplexity 這些生成式 AI 引擎成為人們獲取資訊的主要入口，品牌與消費者之間的關係正在發生轉變。 同時，"
+        },
+        {
+          "title": "ElevenLabs 以「聲音授權市集」提供名人聲音的正式授權，這會留下什麼風險？",
+          "link": "https://techorange.com/2026/10/12/elevenlabs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-12T02:35:28+00:00",
+          "summary": "想讓馬克吐溫或愛迪生的聲音出現在品牌廣告裡，現在可以透過正式授權取得。提供這項服務的，是近期估值翻倍的語音 AI 新創 ElevenLabs。 總部位於倫敦、開發擬真語音生成軟體的 ElevenLabs，透過一次股權出售，估值從今年 2 月的 110 億美元翻倍至 220 億美元。新估值讓 ElevenLabs 躋身中國以外前 10 大最有價值的 AI 實驗室，與法國 AI 公司 Mistral "
+        },
+        {
+          "title": "【Atlas 頭部設計邏輯】拿掉人臉改用燈環，讓人類同事秒懂機器人在看哪裡、做什麼",
+          "link": "https://techorange.com/2026/10/12/boston-dynamics-atlas-robot-head/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-12T01:47:12+00:00",
+          "summary": "波士頓動力（Boston Dynamics）工程師指出，新款電動版 Atlas 機器人的頭部外型，其實是人類與機器人之間透過燈光進行溝通的設計語言，並在安全與效率間扮演雙向橋樑。"
+        },
+        {
+          "title": "餐飲 AI 不只會點餐，達美樂、麥當勞如何把 AI 深入門市營運系統？",
+          "link": "https://techorange.com/2026/10/12/dominos-mcdonalds-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-11T22:02:00+00:00",
+          "summary": "當餐飲業開始導入 AI，最早受到關注的往往是消費者看得見的功能，例如語音點餐、聊天機器人或行銷工具。但近期達美樂（Domino&#8217;s）與麥當勞的動作，顯示餐飲科技正在往更深的營運層移動：AI 不再只是附加功能，而是逐步嵌入點餐、備餐、庫存、設備與外送等流程，成為串聯餐廳日常運作的核心系統。 達美樂以自研 DomOS 升級追蹤器，用精準預測解除顧客「等待焦慮」 達美樂近期大幅升級了自 20"
+        }
+      ]
     },
     {
       "feed_name": "遠見雜誌 - 前進的動力",
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
+          "title": "你也在焦慮螺旋中掙扎？找到這個「觸發點」，輕鬆緩解情緒與健康",
+          "link": "https://www.gvm.com.tw/article/132335",
+          "published": "2026-10-11T11:00:00",
+          "summary": "編按：在當今快節奏的社會中，焦慮已成為許多人無法逃避的陰影，影響著專注力與生活品質。天下文化出版一書《逆轉內耗》，深入探討大腦中的焦慮觸發點，揭示這些隱藏因子的運作邏輯，並提供實用的解決方案，幫助讀者逐步走出焦慮的循環。你是否曾經思考，這些看似無關的情緒，實際上如何影響你的身心健康？焦慮總是不斷來襲，讓你無法專注或好好休息？其實，關鍵不在你本身，而是在那些隱藏的大腦「觸發點」。《逆轉內耗》將帶你解"
+        },
+        {
           "title": "吸菸傷肺還「催老」 ！可能加速外表老化，國健署研究：女性吸菸臉部皺紋風險增3.1倍",
           "link": "https://www.gvm.com.tw/article/133613",
           "published": "2026-10-11T07:00:00",
           "summary": "吸菸造成多項長期健康危害，更與皮膚老化及臉部皺紋增加有關。研究發現，40歲以上女性目前吸菸者出現中度至重度臉部皺紋的風險，是從未吸菸女性的3.1倍，國健署呼籲勇敢拒菸。根據研究顯示，菸害不只傷害健康，更加速外表老化。國健署引用一份研究，研究對象為來自某健康維護組織的30至69歲成人，包括299名從未吸菸者、551名曾吸菸者，及286名仍在吸菸者。研究人員透過問卷評估吸菸狀況、吸菸包年數，以及可能造"
-        },
-        {
-          "title": "韓國瑜國慶致詞談不副署，又如何直指台灣「最大問題」？",
-          "link": "https://www.gvm.com.tw/article/133623",
-          "published": "2026-10-10T18:01:00",
-          "summary": "10日雙十國慶大會上，立法院長韓國瑜以國慶大會主席身分致詞，他在致詞中除了慶賀台灣近年的各項進度，也談起近年來台灣朝野分歧，帶來的各項隱憂，直白發言意外引起各界熱議。本文還原韓國瑜本日致詞重點：如何肯定台灣現有進步？同時發表自己觀察從去年大罷免，到今年行政院不副署看出的隱憂？又如何直指台灣目前最大問題，呼籲各界政治人物別再「火上加油」？「大罷免不是民主，是政治獵殺。」10日雙十國慶大會上，立法院長"
-        },
-        {
-          "title": "柯志恩再戰高雄「穿破4雙鞋」民調只差賴瑞隆0.3個百分點！台積電都來了，港都為何留不住青年？",
-          "link": "https://www.gvm.com.tw/article/133308",
-          "published": "2026-10-10T16:00:00",
-          "summary": "4年來走遍高雄38個行政區，穿破快4雙布鞋。這幾個數字，或許比競選口號更能解釋，國民黨高雄市長參選人柯志恩為何再次投入2026高雄市長選舉，更用一句「這柯不一樣」來形容自己。2022年投入高雄市長選舉時，柯志恩自言才到高雄約3個月。當時的她，是外界熟悉的大學教授、立法委員與電視節目主持人，一口標準國語，加上長年在北部發展，「City Girl」這個帶著都會、外來感的標籤，也成為她當時必須面對的地方"
-        },
-        {
-          "title": "雙十國慶文告「中華民國台灣」消失，賴清德透露什麼政治訊息？",
-          "link": "https://www.gvm.com.tw/article/133622",
-          "published": "2026-10-10T14:30:00",
-          "summary": "今天是中華民國115歲生日，總統賴清德在總統府發表國慶文告，時間緊接在美中川習二會後。綜觀整份講稿，專家認為賴清德的兩岸立場，跟以往相較顯得更加軟化，而講稿中台灣提了43次（含標題）、中華民國2次，但前總統蔡英文時代總會提及的「中華民國台灣」則一次未有，這背後又透露哪些政治訊息？今年國慶文告，賴清德以「台灣，山巔之城，地上的鹽，世上的光」作為演講主題，引用⟪聖經⟫中的經典語言，有意對美傳遞價值認同"
-        },
-        {
-          "title": "一表看懂》韓國瑜質疑行政院的不副署是什麼？包括哪七個法案？",
-          "link": "https://www.gvm.com.tw/article/132417",
-          "published": "2026-10-10T13:42:00",
-          "summary": "2026/10/10編按更新：10日立法院長韓國瑜在雙十國慶大會上致詞時，質疑行政院長不副署法案，會變成憲法課堂的負面教材，引發熱議。到底行政院長卓榮泰不副署了哪些法案？目前不被行政院副署的法案共是哪七部？究竟會讓哪些國人的權益與補助受到影響？一表簡單看懂。近期朝野的對峙日益升溫，立法院長韓國瑜也公開在國慶日致詞發表憂心，表示行政院長不副署法案將成憲法負面教材？其實，截自2026/8/19，有七個"
-        },
-        {
-          "title": "賴清德雙十國慶演說：深知衝突代價，選擇以堅持和平為己任",
-          "link": "https://www.gvm.com.tw/article/133620",
-          "published": "2026-10-10T11:48:00",
-          "summary": "今（10日）雙十國慶上，總統賴清德以「臺灣&nbsp;山巔之城，地上的鹽，世上的光」為主題發表演講。面對中美台地緣政治緊張情勢，他回顧起今年正逢總統直選30週年，30年前面對飛彈威脅，當時台灣人民仍勇敢走進投票所，令人感佩。如今，台灣走過民主轉型，他表示深知衝突的代價，因此選擇以堅持和平為己任，做國際社會可信賴的穩定力量。他還針對少子化、缺工以及台灣年底將舉行的地方選舉發表什麼看法？本文呈現完整的"
         }
       ]
     },
@@ -59,40 +72,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "加州與法國簽署合作意向書攜手應對氣候變化促進創新 - 星島日報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.singtaousa.com/2026/10/10/news/usa/california-france-climate-cooperation/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0SMl6Pi0HwmaRNEb3ezAwd",
-          "published": "2026-10-11T06:12:21+00:00",
-          "summary": "加州州長紐森與法國生態轉型部長巴爾比簽署合作意向書，將在清潔能源、氣候變化及環境保護方面加強合作。新計劃促進政府、研究人員及企業交流技術，&nbsp;..."
+          "title": "星耀投控首度亮相<b>淨零</b>永續展，拓展企業自供電解決方案版圖 - Yahoo股市",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E6%2598%259F%25E8%2580%2580%25E6%258A%2595%25E6%258E%25A7%25E9%25A6%2596%25E5%25BA%25A6%25E4%25BA%25AE%25E7%259B%25B8%25E6%25B7%25A8%25E9%259B%25B6%25E6%25B0%25B8%25E7%25BA%258C%25E5%25B1%2595-%25E6%258B%2593%25E5%25B1%2595%25E4%25BC%2581%25E6%25A5%25AD%25E8%2587%25AA%25E4%25BE%259B%25E9%259B%25BB%25E8%25A7%25A3%25E6%25B1%25BA%25E6%2596%25B9%25E6%25A1%2588%25E7%2589%2588%25E5%259C%2596-032605803.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3StDEe2ei_beo2bK-gpEJP",
+          "published": "2026-10-12T03:32:07+00:00",
+          "summary": "【財訊快報／記者戴海茜報導】「台灣國際淨零永續展（Net-Zero Taiwan 2026）」即將於本週三登場，星耀投控首度亮相，將展示「系統賦能，企業自供電」產品&nbsp;..."
         },
         {
-          "title": "吳大使與日本貿易振興機構亞洲經濟研究所及美國羅格斯大學就聯合國氣候變化綱要公約Pre ...",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.roc-taiwan.org/fj/post/3986.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0B-eDPNi3UwxHXrhvXPOOA",
-          "published": "2026-10-11T05:19:56+00:00",
-          "summary": "日本貿易振興機構亞洲經濟研究所（IDE-JETRO）鄭方婷研究員、山田浩成博士、中村敏久先生，以及美國羅格斯大學社會學博士生凃峻清一行聯袂來處拜會交流意見."
+          "title": "布魯塞爾數萬人走上街頭籲加強氣候行動| 國際| 中央社CNA",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/news/aopl/202610120045.aspx&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1NTbkBNzzaS7MskBX_VdaS",
+          "published": "2026-10-12T03:07:50+00:00",
+          "summary": "數以萬計民眾今天走上比利時首都布魯塞爾（Brussels）街頭，前往歐洲聯盟（European Union）總部，要求在聯合國一場重要峰會召開前加強因應氣候變遷。"
         },
         {
-          "title": "高雄東南亞教育交流協會訪菲推動AI<b>淨零</b>與雙邊合作 - 華視新聞網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.cts.com.tw/cna/life/202610/202610113088466.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw02WYHUYLKChncYKDqVZwGJ",
-          "published": "2026-10-11T03:04:13+00:00",
-          "summary": "（中央社記者林行健馬尼拉11日專電）高雄市東南亞教育交流協會訪團近日訪問菲律賓，拜會菲律賓大學、政府官員及教育科技團隊，推動台菲在人工智慧（AI）淨零、&nbsp;..."
+          "title": "中火燃氣二期環評遭撤、巴拿馬規模7.7極淺層強震、南極企鵝巢穴因<b>氣候變遷</b>銳減63%",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://e-info.org.tw/node/243960&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3kkbJpNQNO6_IvwBkv777v",
+          "published": "2026-10-12T03:06:39+00:00",
+          "summary": "中火燃氣二期環評遭撤環團籲台電進行二階環評 &middot; 對決高溫害蟲葉蟎苗栗農改場生物防治技術奏效 &middot; 國慶連假又見「林園聖火」！ &middot; 國慶焰火引卑南溪濕地火警保育團體憂&nbsp;..."
         },
         {
-          "title": "追不上往南移的磷蝦，<b>氣候變遷</b>讓南極企鵝巢穴銳減63%",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://technews.tw/2026/10/11/worlds-largest-penguin-colony-hit-by-climate-driven-decline/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw151Ay0kR15dbGK29DfssqD",
-          "published": "2026-10-11T02:41:32+00:00",
-          "summary": "October 11, 2026 by TechNews 編輯台 Tagged: 全球暖化, 南極, 南極企鵝, 氣候變遷, 海水升溫, 磷蝦, 長冠企鵝. Categories: 環境科學, 生態保育, 生物科技,&nbsp;..."
+          "title": "元大期貨奪第6屆工商時報數位金融獎8獎6項金質獎展現數位金融領航力 - 中央社",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/business/chinese/446664&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2qHgZUMXwLzIU5kP5e-M5b",
+          "published": "2026-10-12T02:53:22+00:00",
+          "summary": "在AI應用與資訊安全方面，元大期貨積極導入智能化工具，強化營運效率、客戶服務與風險控管能力，並持續升級資安防護與防詐機制，守護客戶交易安全。面對淨零轉型&nbsp;..."
         },
         {
-          "title": "賴清德談能源：不因意識形態排除選項！科技要帶著傳產走打造「護國群山」 - 放言Fount Media",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.fountmedia.io/article/433146&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2_Tp7vg9vbk4J4Kx3Sy6FJ",
-          "published": "2026-10-11T02:32:29+00:00",
-          "summary": "能源政策不能靠口號供電、安全、淨零一起評估. 面對能源與氣候挑戰，賴清德表示，政府將以供電穩定、能源安全和淨零轉型為目標，持續發展多元綠能，搭配儲能、&nbsp;..."
+          "title": "《產業》星耀投控首度亮相<b>淨零</b>永續展整合創能、儲能布局企業自供電 - 旺得富理財網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20261012900247-420101&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0nyaq82h7IU6JU0j3TBJ3Q",
+          "published": "2026-10-12T02:47:13+00:00",
+          "summary": "星耀投控首度亮相「台灣國際淨零永續展(Net-Zero Taiwan 2026)」，展示「系統賦能，企業自供電」產品組合，整合多元創能、儲能、智慧能源管理、電力調度及節能&nbsp;..."
         },
         {
-          "title": "引領綠色金融注資！經濟部率金融業考察地熱- 生活新聞 - PCHOME NEWS",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/living/nownews/20261011/index-79168483695474207009.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3JmBFZ59p0ZM57ooWEWARr",
-          "published": "2026-10-11T02:32:08+00:00",
-          "summary": "[NOWNEWS今日新聞]經濟部日前邀請逾10家金融業者前往台東金崙地熱案場參訪，透過對案場近距離觀察與深度交流，協助金融界掌握地熱從資源探勘、鑽井到發電的&nbsp;..."
+          "title": "能源週來了風電雙強尬場受矚 - 群益期貨",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.capitalfutures.com.tw/zh-tw/Financial/GlobalArticle%3FContentId%3DC26101200191%26Category%3Dall&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0z0p8FpG44G1EB9_f8rdSb",
+          "published": "2026-10-12T02:33:23+00:00",
+          "summary": "2026年「台灣國際智慧能源週」（Energy Taiwan）與「台灣國際淨零永續展」（Net-Zero Taiwan）將於14日（周三）登場。為傳遞政府對綠能支持及大力推動決心，&nbsp;..."
         }
       ]
     }
