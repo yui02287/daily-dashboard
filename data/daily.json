@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-10-14T05:51:59.285588+00:00",
-    "date": "2026-10-14",
+    "generated_at": "2026-10-15T05:35:52.652557+00:00",
+    "date": "2026-10-15",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "AI 投資熱潮暗藏風險：IMF 估若生產力落空，美股恐跌 20%、全球產出 2028 年少 1.1%",
-          "link": "https://techorange.com/2026/10/14/imf-world-bank-annual-meetings-bangkok-asia/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-14T04:34:53+00:00",
-          "summary": "國際貨幣基金（IMF）上修 2026 年全球經濟成長預測，AI 投資熱潮協助抵銷能源價格飆漲帶來的部分衝擊。不過，IMF 也警告，全球經濟韌性正逼近極限，下檔風險持續升高。 AI 投資抵銷能源衝擊，IMF 上修 2026 年全球成長預測 IMF 預測，2026 年全球經濟將成長 3.1%，高於 7 月預測的 3.0%，但低於 2025 年的 3.5%；2027 年全球經濟成長率預計為 3.4%，與"
+          "title": "AI 需求延伸至 2030 年：客戶搶先洽談訂單，ASML 坦言擴產 30% 恐仍不夠",
+          "link": "https://techorange.com/2026/10/15/asml-ai-chip-demand-stretching-2030-expects-supply-shortages/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-15T03:39:48+00:00",
+          "summary": "荷蘭半導體設備製造商 ASML 表示，隨著 AI 相關投資持續推升晶片製造需求，部分客戶已開始洽談 2029 年與 2030 年的先進製程設備訂單。即使公司已計畫在 2027 年將部分設備產能提高 30%，預期 2027 年與 2028 年的供應量仍不足以滿足客戶需求，因此正評估進一步提高 2028 年的產能。 ASML 週三公布第三季財報，單季淨銷售額創下 116.6 億歐元的紀錄，淨利則從第二"
         },
         {
-          "title": "Google 最強模型 Gemini 4 Argon 登場，連 Apollo 人形機器人的動作都能教？",
-          "link": "https://techorange.com/2026/10/14/gemini-4-argon-apollo/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-14T03:46:33+00:00",
-          "summary": "Google 在美國時間 10/13 擴大開放新一代旗艦 AI 模型 Gemini 4 Argon，主打複雜推理、程式開發、企業知識工作與 AI Agent（AI 代理）能力，並宣稱在部分專業任務評測中超越 OpenAI、Anthropic 等競爭對手。 但這次值得關注的不只有模型效能。Google DeepMind 還展示，如何利用 Gemini 4 Argon 分析人類動作影片、自動建立模擬環"
+          "title": "【監控的 AI 也會被騙】專家警告惡意代理人可能騙過監控者，建議另加不靠 AI 的日誌與網路分析",
+          "link": "https://techorange.com/2026/10/15/rogue-ai-agents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-15T02:07:26+00:00",
+          "summary": "企業把越來越多、越來越複雜的任務交給 AI 代理人（AI Agent），監督也隨之成為難題。代理人行動更快、運作時間更長、數量也更多，人類根本來不及審查。 今年 7 月的 Hugging Face 事件，把這個問題推到極致。OpenAI 一款尚未發布的前沿 AI 代理人，在進行極限網路安全評測時，自行突破隔離沙盒，入侵開源 AI 平台 Hugging Face。當時有將近 12,000 個代理人彼"
         },
         {
-          "title": "【沒人負責就不准上線】專家建議員工自建 AI 工具「先指定負責人」，並在執行階段持續監控",
-          "link": "https://techorange.com/2026/10/14/govern-ai-and-low-code-tools/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-14T02:32:45+00:00",
-          "summary": "當員工能自行用 AI 打造工具，企業內部究竟有哪些系統在運作、由誰負責，就變得難以掌握。 AI、低程式碼（low-code）工具與自動化普及後，更多員工能自行開發應用程式與工作流程，實驗與解決問題的速度變快了，企業卻也累積出一層持續增加、難以追蹤、保護與維護的技術。 每個 AI 工具上線前，都要有人負責 事實上，這並不是企業第一次把建置權交給業務人員。開發代理人協作平台與治理工具的 OneReac"
+          "title": "GitHub 爆紅的 REA 真能逆向任何軟體？從 51 件實作看 AI Agent 的能力與限制",
+          "link": "https://techorange.com/2026/10/15/rea-ai-agent-reverse-engineer-github/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-14T22:33:00+00:00",
+          "summary": "AI Coding Agent 不只能協助開發者寫程式，現在也開始挑戰沒有原始碼的軟體，甚至嘗試重新實作其中的功能。開源專案 REA（Reverse Engineer Anything）近期在 GitHub 爆紅，截至 10 月 14 日已累積約 22.6 萬顆 Stars。它讓 Claude Code、Codex、Cursor 等 AI Coding Agent 能操作專業逆向工程工具，分析已編"
         },
         {
-          "title": "不再盲目投放：Kroger 研究發現，符合 AI 建議的廣告轉換率高出 3 倍",
-          "link": "https://techorange.com/2026/10/14/predictive-scoring-work-ai-kroger/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-14T01:56:17+00:00",
-          "summary": "生成式 AI 與創作者經濟正在大幅降低廣告內容的製作門檻。當 Midjourney、ChatGPT 等工具讓品牌與創作者能快速產出更多素材，廣告資產數量也隨之快速膨脹。創意數據分析公司 Vidmob 創辦人暨執行董事長 Alex Collmer 形容，生成式 AI 與創作者媒體正在讓廣告素材數量增加 10 倍甚至 100 倍。 但素材變多，不代表業績會同步成長。對行銷團隊而言，真正棘手的問題逐漸變"
+          "title": "【科技早餐】日本出資、美國持股！最高 210 億美元晶圓廠計畫出爐",
+          "link": "https://techorange.com/2026/10/15/japan-us-chip-fabs-investment/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-14T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊日本擬投最高 210 億美元在美建晶圓廠，格羅方德獲選營運 格羅方德（GlobalFoundries）10 月 14 日宣布，獲選為美日合作計畫中兩座新晶圓廠的技術提供者與營運商，廠址位於美國紐約州馬爾他，日本將提供最高 210 億美元資金。第一座廠預計以約 100 億美元加速建置，今年稍晚動工、2029 年投產；第二座廠則納入另一筆約 100 "
         },
         {
-          "title": "模型可換、資料可控：微軟卞志祥談 AI 時代企業如何守住核心競爭力",
-          "link": "https://techorange.com/2026/10/13/microsoft-taiwan-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-13T10:21:05+00:00",
-          "summary": "訪談：戴季全撰稿：張哲瑋 隨著技術的突飛猛進，全球企業正加速邁入 AI Agent 時代，試圖將自動化普及至核心業務。然而當 AI Agent 獲得系統執行與存取權限時，矛盾隨之浮現：如何在提升營運效率的同時，精準把握權限與資料控管的邊界？企業組織與治理的轉型變革，是導入 AI 的企業決策者都必須面對的課題。 本集《全新一週》專訪台灣微軟總經理卞志祥，深入探討 AI 科技的最新趨勢與企業應用，分析"
+          "title": "AI 蠕蟲年底成形？Anthropic 示警小模型自我複製，外媒質疑實驗條件",
+          "link": "https://techorange.com/2026/10/14/anthropic-self-replicating-ai-iot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-14T10:15:13+00:00",
+          "summary": "AI 能不能像電腦蠕蟲一樣，自行找到下一台裝置、把自己複製過去，而且不需要龐大的資料中心？Anthropic 前沿紅隊（Frontier Red Team）在 10/12 發布研究，在模擬的 Android 裝置網路中測試開放權重模型的自我複製能力，其中 GLM-5.2 在 5 次試驗中有 4 次擴散到全部 8 個節點。Anthropic 推估，若小模型維持過往的進步速度，今年底就可能具備同等能力"
         },
         {
-          "title": "降低對 NVIDIA 依賴：亞馬遜傳以約 70 億美元洽購 Decart，助 Trainium 晶片爭取開發者",
-          "link": "https://techorange.com/2026/10/13/amazon-buy-ai-startup-decart-around-7-billion/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-13T09:00:50+00:00",
-          "summary": "根據《The Wall Street Journal》引述知情人士報導，亞馬遜（Amazon）正與 AI 新創 Decart 洽談收購事宜，交易估值可能約 70 億美元。知情人士表示，除非談判破局或有其他買家出現，雙方可望很快達成協議。《GeekWire》則分析，這筆交易能讓亞馬遜有新的方式，吸引更多 AI 開發者改用自研晶片，而非 NVIDIA 的硬體。 Decart 成立於 2023 年，由 "
+          "title": "Facebook 推「可以對話的演算法」：用 LLM 讓使用者描述喜好，推薦內容即時調整",
+          "link": "https://techorange.com/2026/10/14/meta-introducing-your-algorithm-facebook/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-14T08:31:56+00:00",
+          "summary": "Facebook 成為最新一個讓使用者更能掌控推薦演算法的社群平台。Meta 近日宣布在 Facebook 推出 AI 功能「Your Algorithm」，讓使用者能以自然語言描述自己的內容偏好，進而影響動態消息與 Reels 短影音中出現的內容。 結合 AI 與三點選單，使用者可直接告訴演算法想看什麼 透過「Your Algorithm」，使用者能直接新增並管理自己想在動態消息與 Reels "
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "從線上數據到線下熱血  台灣大哥大用科技讓同仁運動玩出新花樣",
-          "link": "https://www.gvm.com.tw/article/133565",
-          "published": "2026-10-14T00:00:00",
-          "summary": "運動不只場上流汗，也能在線上「組隊、累積數據、拚榮耀」！台灣大哥大善用科技與電信優勢，串聯線上平台與線下團隊，每年春、秋兩季舉辦「MySports台灣大員工線上運動會」，讓數千名同仁不論身在何處，都能一起動起來。從個人挑戰到團隊競賽，科技不只讓運動更便利，也讓「一起運動」變成一場團隊盛事。線上運動會 串聯日常與健康「歡迎光臨myfone！」，是大家熟悉的台灣大哥大門市問候語。這一群熱情又專業的工作"
+          "title": "AI 能分析卻不能替你決策！北商大任立中揭未來人才真正競爭力",
+          "link": "https://www.gvm.com.tw/article/133488",
+          "published": "2026-10-15T00:00:00",
+          "summary": "當 AI 真的開始「上班」了，人才被AI取代的焦慮愈發嚴重。然而，國立臺北商業大學校長任立中卻認為不用太過焦慮，他點出，產業界目前最稀缺的是能把資料轉成決策、懂市場又懂研發的人才。北商大如何以「五層蛋糕理論」，系統性的培育新型態的商管人才？「AI讓飯碗不保」、「害怕被AI取代」⋯⋯成為AI時代的熱門討論話題，職場AI焦慮成為員工們縈繞在心頭的沈重壓力。全臺歷史最悠久、長期為企業培養商管人才的臺北商"
         },
         {
-          "title": "當專業邊界消失，未來人才如何養成？雲科大從人文與科學找答案！",
-          "link": "https://www.gvm.com.tw/article/133561",
-          "published": "2026-10-14T00:00:00",
-          "summary": "當AI可以快速生成文字、影像，甚至完成過去專業人力才能執行的工作，人文教育還重要嗎？國立雲林科技大學（雲科大）人文與科學學院院長李謁政認為，「不僅重要，而且關鍵！」「AI可以處理龐大的資訊，卻無法取代人類對價值、文化與問題脈絡的理解。」 雲科大人文與科學學院（人文學院）院長李謁政指出，AI越強，人類越需要強化思考、判斷與創造力。學院正以「人文×科技×跨領域」為核心，重新改變人才培育的方向。學院目前"
+          "title": "時間，也可以有兩種速度  江詩丹頓 Twin Beat 重新思考機械腕錶的節奏",
+          "link": "https://www.gvm.com.tw/article/133347",
+          "published": "2026-10-15T00:00:00",
+          "summary": "時間不僅是流光刻度，也是人類探索世界、理解自身的一種方式。自1755年創立以來，江詩丹頓不斷在傳承與創新之間尋找新的答案，Traditionnelle Twin Beat 萬年曆腕錶以雙振頻機芯重新思考時間的節奏，讓高級製錶優雅演繹時間的秩序，展現品牌的技藝突破與美學思維，讓高級製錶在技術突破與美學表達之間，重新演繹時間的秩序。機械腕錶的魅力，在於以齒輪、游絲與發條，將抽象的時間化為可觸摸、可閱讀"
         },
         {
-          "title": "打破系所框架，AI賦能加值！長庚大學培養未來金融人才",
-          "link": "https://www.gvm.com.tw/article/133513",
-          "published": "2026-10-14T00:00:00",
-          "summary": "在金融業界，AI已是人才標配！長庚大學數位金融科技學系打破系所框架，鏈結AI應用與業界實務，比傳統金融人更有智慧創新力，比AI Agent更有人本素養，跨域養成能夠「管理AI」的BOSS。當AI成為金融業標配，真正的人才競爭已從誰會用AI，轉向「誰能判斷AI、管理AI，並做出更好的金融決策」。長庚大學數位金融科技系系主任周賓凰教授表示，課程導入業界級AI工具，將金融專業、資料科技等專業硬實力，整合"
+          "title": "美俄達成「柴油協議」川普還施壓烏克蘭？義大利總理批：非常冒險的選擇",
+          "link": "https://www.gvm.com.tw/article/133774",
+          "published": "2026-10-14T18:54:00",
+          "summary": "傳言美國要求烏克蘭停止攻擊俄羅斯煉油廠，並威脅將切斷情報共享，美國總統川普今天表示，華府正在協助烏克蘭並分享相關情報，美國正和俄、烏雙方努力，為戰爭劃下句點。川普還說，他和俄羅斯達成的柴油協議是為因應全球市場需求。川普（Donald Trump）在白宮接受媒體聯訪被問及美國是否停止和烏克蘭分享情報時表示，美國正在幫助烏克蘭，正在分享相關情報，「我們希望這場戰爭結束」，正和烏克蘭、俄羅斯共同努力，設"
         },
         {
-          "title": "當AI成為工作夥伴，中國醫大培育下一代健康人才",
-          "link": "https://www.gvm.com.tw/article/133517",
-          "published": "2026-10-14T00:00:00",
-          "summary": "人工智慧正從生成資訊走向自主規劃與執行。當每個人都可能擁有AI智慧夥伴，人與科技正從操作工具走向共同完成任務，也促使大學重新思考人才培育。AI時代的關鍵人才，需要具備三項核心能力：首先是問題定義與跨域整合，從複雜情境找出真正需要解決的問題；其次是人機協作與AI管理，能分配任務、驗證AI產出，並處理意外狀況；最後是專業判斷與責任承擔。尤其在醫療領域，科技可以協助分析與決策，但面對病人的生命與健康，仍"
+          "title": "家族企業交棒難在哪？大成、志聖、敏盛接班人分享心法",
+          "link": "https://www.gvm.com.tw/article/133773",
+          "published": "2026-10-14T18:52:00",
+          "summary": "面對全球局勢巨變與產業轉型浪潮，企業能否永續經營的關鍵，已不再只是單純的財富轉移，更是經營傳承與創新的考驗。10月14日下午，「2026第24屆遠見高峰會」 （簡稱2026遠見高峰會）以「傳承與破框 繼承者的多重挑戰」為題，由 《遠見雜誌》副社長李建興擔任主持人，邀請大成集團總經理韓芳豪、志聖工業總經理兼執行長梁又文，和敏盛醫療體系執行長楊弘仁，這三位新一代的接班人，探討如何在延續企業根基的同時，"
         },
         {
-          "title": "不只星巴克！牛肉麵、雞排、手搖飲全被點名：2026漲價超有感台灣小吃排行榜",
-          "link": "https://www.gvm.com.tw/article/133734",
-          "published": "2026-10-13T20:13:00",
-          "summary": "星巴克去冰補滿要加錢，而曾幾何時，台灣街頭隨處可見的銅板美食也已逐漸漲成吃不起的模樣了。比起偶爾才享用的大餐，小吃與日常生活的關係更為密切，也因此更容易讓人感受到價格的變化。面對一波波物價調漲，過去隨手就能買的小吃，如今卻得先摸摸荷包再決定。從早餐多加一顆蛋、午餐配上一碗湯，到下班後買份炸物解饞，這些看似不起眼的日常消費，單次增加的金額或許不多，但一筆筆累積下來，對每月生活開銷的影響卻還是相當有感"
+          "title": "能源能成台灣新國力？AI重塑電力版圖，業者籲：用電戶應轉型為產消者",
+          "link": "https://www.gvm.com.tw/article/133772",
+          "published": "2026-10-14T18:50:00",
+          "summary": "隨著人工智慧（AI）與超級智慧浪潮席捲而來，台灣的電力供應面臨前所未有的挑戰與機遇。2026第24屆遠見高峰會上，業界專家共同探討如何在再生能源高比例併網的情境下，重塑能源結構，提升國家競爭力。透過虛擬電廠與分散式能源的結合，企業不僅能夠應對日益增加的用電需求，還能在電力市場中扮演更靈活的角色。2026第24屆遠見高峰會今（14）日盛大登場，虛擬電廠產業聯盟理事長許志義、台灣電力公司副總經理兼輸供"
         },
         {
-          "title": "AI如海嘯來襲！IMF示警40%工作受影響、蓋茲籲防網路攻擊",
-          "link": "https://www.gvm.com.tw/article/133700",
-          "published": "2026-10-13T19:09:00",
-          "summary": "國際貨幣基金（IMF）總裁喬治艾娃表示，AI基礎設施的大規模投資，使全球經濟成長率維持在約3%；不過，AI猶如一場「緩步推進的海嘯」，預期財富分配將會從勞動轉向資本，對於就業、經濟成長、教育，乃至於政府如何透過稅收籌措財源產生深遠的影響。IMF與世銀年會昨天在泰國曼谷展開，喬治艾娃說，AI投資熱潮是一場「需求震撼，也是投資震撼」，預期可以使亞洲先進經濟體的經濟成長率提高0.5至1個百分點，新興亞洲"
+          "title": "台中透過AI三部曲強化治理，改善空汙還拯救溺水小朋友",
+          "link": "https://www.gvm.com.tw/article/133770",
+          "published": "2026-10-14T18:03:00",
+          "summary": "AI浪潮襲來，全台各縣市的城市治理也跟著大進化！臺中市政府副祕書長林谷隆今（14）日受邀至「2026第24屆遠見高峰會」 （簡稱2026遠見高峰會），分享臺中市的AI三部曲，透過AI治理，臺中市不但大幅改善過去困擾市民多年的空氣汙染問題，甚至透過AI技術監測水域風險，去年成功拯救一位溺水小朋友。除了嶄新的AI治理實力，透過各項數據，也側面證實許多人正用腳投票，看好臺中市未來的發展潛力。林谷隆說，在"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "活動資訊｜環境部新聞專區",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/moenv-news/zh-tw/Level/36%3Fqs%3D%25E4%25B8%258B%25E4%25B8%2580%25E7%25AB%2599%25EF%25BC%258C%25E5%259F%25BA%25E9%259A%2586%25EF%25BC%2581%25E4%25B8%2580%25E8%25B5%25B7%25E8%2581%258A%25E8%2581%258A%25E5%259C%258B%25E5%259C%259F%25E7%25B6%25A0%25E8%2594%25AD%25E8%2588%2587%25E6%25B0%25A3%25E5%2580%2599%25E8%25AA%25BF%25E9%2581%25A9&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Q-GG_locFyAARcyTpXLuK",
-          "published": "2026-10-14T01:11:21+00:00",
-          "summary": "「國土綠蔭氣候調適計畫暨推動木質資源循環說明會」前進基隆！從基隆港的海風、山城巷弄，到山海交織的港都風景，基隆有著獨特的城市樣貌。面對氣候變遷與&nbsp;..."
+          "title": "黃志芳：AI、<b>氣候變遷</b>台擁三優勢 - 群益期貨",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.capitalfutures.com.tw/zh-tw/Financial/GlobalArticle%3FContentId%3DC26101500354&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3YAIGzRPUtfebx-DPyMHwT",
+          "published": "2026-10-15T02:12:34+00:00",
+          "summary": "台灣國際智慧能源週、台灣國際淨零永續展14日雙展登場，外貿協會董事長黃志芳指出，今年匯聚20國共46..."
         },
         {
-          "title": "我國低碳技術形成領先優勢",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=http://finance.people.com.cn/BIG5/n1/2026/1014/c1004-40814166.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1G_RC89pF4HGxc4nR7vsWO",
-          "published": "2026-10-14T00:45:54+00:00",
-          "summary": "記者10月11日從清華大學碳中和研究院獲悉，《2026全球碳中和年度進展報告》（以下簡稱《報告》）近日發布。《報告》指出，2010—2024年，全球光伏降本中超過&nbsp;..."
+          "title": "【航港】從B24示範走向國際綠色航運——船商如何接軌、業者如何參與",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.csbc.com.tw/155807&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1BxK0M3TX5KYO6Hb8X9kQw",
+          "published": "2026-10-15T01:52:15+00:00",
+          "summary": "當國際航商未來尋找亞洲航線與港口服務時，希望高雄港能夠提供安全、可靠、符合國際規範的綠色能源選項。這不只是為了單一港口的發展，也是臺灣面對全球淨零與&nbsp;..."
         },
         {
-          "title": "減排愈遲代價愈大研究指一氣候風險恐持續數百年| SBS 中文",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sbs.com.au/language/zh-hant/article/scientists-looked-at-a-net-zero-future-one-climate-risk-remained/x7g5ogwk3&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2QpnVO_0vCZT8Zc1WQ74-k",
-          "published": "2026-10-14T00:12:56+00:00",
-          "summary": "專家表示，要減少未來厄爾尼諾(El Niño)現象頻繁出現，最快的方法就是更快實現淨零排放。"
+          "title": "I'M IN，<b>淨零</b>生活行動家！苗栗環保局邀社區學校共學「<b>淨零</b>綠生活」 - 苗栗縣政府環境保護局",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.mlepb.gov.tw/newsin.html%3Fnid%3D1475&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3ATx8swkU26_1qEW__i9Ui",
+          "published": "2026-10-15T01:16:32+00:00",
+          "summary": "為鼓勵民眾從日常生活實踐減碳行動，苗栗縣政府環境保護局呼籲縣內社區、學校及各類團體踴躍申請115年環境教育「淨零綠生活」推廣課程，透過專業種子講師帶領，&nbsp;..."
         },
         {
-          "title": "水利設施及其他相關工程委外設計監造技術服務(開口契約) - 台南市政府",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.tainan.gov.tw/News_Content2.aspx%3Fn%3D4966%26s%3D8841427&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2JhMZpmtX7_3CLK0jMzQTS",
-          "published": "2026-10-13T22:30:34+00:00",
-          "summary": "決標公告[標案案號]wat115084[標案名稱]115因應氣候變遷改善計畫雨水下水道 ... [標案名稱]115 Climate Change Adaptation Improvement Program The&nbsp;..."
+          "title": "內政部<b>淨零</b>實證獲美肯定公有建築創能接軌國際建研所銜接公共工程與海外示範提供地方建築轉型參考",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bo6s.com.tw/news_detail.php%3FNewsID%3D117619&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3KptyT4myqdIJerbu0bsk9",
+          "published": "2026-10-15T00:57:25+00:00",
+          "summary": "蒙大拿州商務廳副廳長Mandy Rambo以「世界級」形容材料實驗中心，認為彩繪光電可兼顧外牆發電與歷史小鎮美感，歡迎睿田將蒙大拿視為創新夥伴及氣候韌性測試場域&nbsp;..."
         },
         {
-          "title": "全臺首例竹林經營碳匯專案通過環境部註冊申請審查 - 熱門新訊- 自由時報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://market.ltn.com.tw/article/18961&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0u5lzC6RUJw53OIV5Z3LTl",
-          "published": "2026-10-13T22:08:09+00:00",
-          "summary": "中華電信從科技減碳走向自然增匯，攜手政府、地方與部落，讓竹林成為臺灣企業永續轉型的新起點。 中華電信攜手林業保育署打造自然碳匯×企業淨零×部落共榮新典範."
+          "title": "黃志芳：AI、<b>氣候變遷</b>台擁三優勢- 財經要聞 - 中時新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/newspapers/20261015000225-260202&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0V0D10A7v_tmWLMOMFD1rV",
+          "published": "2026-10-15T00:57:17+00:00",
+          "summary": "智慧能源週、淨零永續雙展登場！國際參展商年增16％，看好促成商機創高. 04:102026/10/15."
         },
         {
-          "title": "AI驅動電力需求大躍進！台灣智慧能源與<b>淨零</b>雙展10/14登場，聚焦半導體低碳轉型",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://naipnews.naipo.com/72654/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2JSKUr7U0_gAivOPOYHZ1P",
-          "published": "2026-10-13T21:31:33+00:00",
-          "summary": "面對全球AI技術爆發帶動的龐大用電需求，由外貿協會（TAITRA）與SEMI旗下GESA綠能暨永續發展聯盟共同主辦的2026「台灣國際淨零永續展」（Net-Zero Taiwan）&nbsp;..."
+          "title": "7911 阿波羅電力- 智慧能源週（Energy Taiwan）與<b>淨零</b>永續展（Net... - 股市爆料同學會",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/article/185797228&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw231Qz4WOa8qkkElZFjOZ55",
+          "published": "2026-10-15T00:24:06+00:00",
+          "summary": "智慧能源週（Energy Taiwan）與淨零永續展（Net-Zero Taiwan）今天10月14日開幕，國際參與度創新高；雙展在台北南港展覽館1館1、4樓登."
         }
       ]
     }
