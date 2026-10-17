@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-10-16T05:30:12.443786+00:00",
-    "date": "2026-10-16",
+    "generated_at": "2026-10-17T05:20:34.661861+00:00",
+    "date": "2026-10-17",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "Meta 推美最強開放模型 Muse Spark Open，8,160 億參數為何兩台 Mac 就能跑？",
-          "link": "https://techorange.com/2026/10/16/meta-muse-spark-open-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-16T03:51:31+00:00",
-          "summary": "Meta 本週動作頻頻，先是發表新一代閉源 AI 模型 Muse Wonder，又於美國時間 10/15 發布新一代 AI 模型 Muse Spark Open，並宣稱是迄今最強的美國開放權重模型，總參數高達 8,160 億，主攻程式開發與 AI Agent（AI 代理）任務。其中更引人關注的是，Meta 與 Apple 合作，讓這款超大型模型能在兩台 Mac Studio 上運行。 這不僅讓企業"
+          "title": "【企業 AI 成本報告】代理型 AI 與 AI 開發工具成本衝擊商業決策，建立「主動式財務防線」防範失控帳單",
+          "link": "https://techorange.com/2026/10/17/control-your-ai-costs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-16T22:29:00+00:00",
+          "summary": "AI 自由實驗期結束，企業迎來「帳單震撼」 AI／雲端成本治理平台 Mavvrik 與 B2B SaaS 研究機構 Benchmarkit，聯合發表《2026 年 AI 成本治理現況報告》（State of AI Cost Governance 2026），內容調查全球 396 家企業的營運現況，評估企業擴大部署 AI 時的財務管控能力。 報告指出，企業 AI 的「自由實驗期」已正式終結，過去在創"
         },
         {
-          "title": "美國上百家人形機器人公司，機器人投資基金執行長為何只看好特斯拉、Figure AI 與 Apptronik？",
-          "link": "https://techorange.com/2026/10/16/humanoid-ai-robot-companies-win/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-16T01:35:12+00:00",
-          "summary": "封閉式基金 RoboStrategy 執行長 Andrew Kang 認為，真正值得投資的機器人公司，只有特斯拉（Tesla）、Figure AI 與 Apptronik，但 Optimus 業務還有待馬斯克回神。"
+          "title": "「AI Agent 也需要自己的身分證。」從持續驗證到責任歸屬，來毅數位攜手合作夥伴拆解信任治理關鍵",
+          "link": "https://techorange.com/2026/10/16/keypasco-ai-agent-summit/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-16T10:12:34+00:00",
+          "summary": "這個 Agent 是誰？能夠存取哪些資料、使用哪些系統？當它做出錯誤決策或執行越權行動時，企業能不能追蹤、稽核，並釐清責任？ 面對 AI Agent 帶來的新型態資安風險與治理挑戰，Keypasco 來毅數位與 TechOrange 科技報橘共同主辦「2026 AI 信任治理論壇」，以「突破試點斷層，讓AI真正進入營運：從Agent身分、設備信任到持續驗證」為題，深入剖析 AI 跨越 POC 進入"
         },
         {
-          "title": "Grok Voice 3.0 超車 OpenAI、Google，星鏈、特斯拉已如何應用語音 Agent？",
-          "link": "https://techorange.com/2026/10/16/grok-voice-3-0-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-15T22:30:00+00:00",
-          "summary": "SpaceX 旗下 AI 業務 SpaceXSI（原 xAI）10/14 推出 Grok Voice 3.0，在第三方語音 AI 綜合評測中超越 OpenAI、Google。除了模型性能，SpaceXSI 也展示 Grok Voice 的商業化進展：衛星網路服務商 Starlink（星鏈）平日約有 2 萬通客服與銷售來電使用 Grok Voice 處理，其中約 70% 無須真人介入；Tesla（特"
+          "title": "AI 揪出的漏洞誰來補？美國銀行加派 1,000 名承包商，少見公開修補人力規模",
+          "link": "https://techorange.com/2026/10/16/bank-of-america-contractors-patch-mythos-flaws/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-16T09:47:12+00:00",
+          "summary": "美國銀行（Bank of America）執行長 Brian Moynihan，美國時間 10/14 公布第三季財報後接受《CNBC》專訪時透露，為了修補 Anthropic 的 Mythos 等先進 AI 模型揭露的軟體漏洞，銀行第二季加派了 1,000 名外部承包商，與原有的 3,000 名內部員工一起作業。《CNBC》指出，這是美國大型企業最早具體說明為防範 Mythos 投入多少人力與資金"
         },
         {
-          "title": "【科技早餐】台積電證實洽談馬斯克晶圓廠！魏哲家：必須由我們營運",
-          "link": "https://techorange.com/2026/10/16/tsmc-musk-terafab-talks/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-15T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊台積電證實洽談馬斯克 Terafab，魏哲家：晶圓廠必須由台積電營運 台積電（TSMC）10 月 15 日在法說會證實，正與馬斯克推動的 Terafab 晶圓廠計畫洽談合作，並已派團隊前往德州評估。董事長暨總裁魏哲家表示，美國主要客戶持續要求增加當地產能，公司因此評估亞利桑那州以外的擴產機會，德州是選項之一。他強調，合作方式仍在討論，若有具體結論"
+          "title": "科技巨頭想當礦商股東？英美資源證實洽談入股，尋求保障 AI 資料中心金屬供應",
+          "link": "https://techorange.com/2026/10/16/tech-firms-metals-supply-anglo-wanblad/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-16T09:24:45+00:00",
+          "summary": "隨著 AI 資料中心建設持續推進，科技企業正積極尋找確保關鍵金屬供應的方式。倫敦上市礦業集團英美資源（Anglo American）執行長 Duncan Wanblad 透露，公司已與有意入股的科技企業展開討論。 確保金屬供應，科技企業評估長期承購與直接入股 Wanblad 於 10 月 15 日在《金融時報》舉辦的金屬與礦業峰會上表示，相關討論「確實正在進行」。他指出，這些企業的考量是：「我們能"
         },
         {
-          "title": "AlphaGo 推手 David Silver 不走 LLM 路線，要讓 AI 在模擬「熔爐」裡從零自學",
-          "link": "https://techorange.com/2026/10/15/david-silver-ineffable-superlearner-without-llm/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-15T09:56:27+00:00",
-          "summary": "當多數 AI 實驗室都在大型語言模型（LLM）上加碼，曾主導 AlphaGo 的 David Silver 選了另一條路。他離開 Google DeepMind 後於倫敦創立 Ineffable Intelligence，今年 4 月宣布募得 11 億美元種子輪、估值 51 億美元。美國時間 10 月 13 日，Silver 與共同創辦人之一 Lasse Espeholt 在領投方之一 Sequo"
+          "title": "AI 黑盒子沒那麼黑？Goodfire 研究員：神經元「亂塞概念」可能是誤讀",
+          "link": "https://techorange.com/2026/10/16/neural-networks-already-clean-goodfire/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-16T06:39:03+00:00",
+          "summary": "想了解 AI 為什麼做出某個判斷，最直接的方式，是打開模型，看看裡面的「神經元」各自在做什麼。但長期以來，研究界普遍認為這條路並不好走：神經元裡似乎塞滿了互不相干的概念，就像一團打結的毛線。AI 新創 Goodfire 研究員 Nick Cammarata 日前發表長文挑戰這個看法，他聲稱，在語言模型 Qwen3-32B 中，多數神經元其實只負責一件主要工作。 Cammarata 曾在 OpenA"
         },
         {
-          "title": "「硬體是 AI 的牙齒」：Matter 募得 4.5 億美元，押注機器人與下一波硬科技",
-          "link": "https://techorange.com/2026/10/15/infinite-demand-robots-inside-matter-venture-partners-450-million-bet-physical-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-15T09:00:36+00:00",
-          "summary": "矽谷創投公司 Matter Venture Partners 上個月宣布完成第二期基金募資，規模達 4.5 億美元，較第一期基金的 3 億美元進一步擴大，將投資早期硬科技新創，涵蓋半導體、機器人、實體 AI、量子運算、先進製造與能源等領域。 AI 熱潮帶動硬體投資，今年深科技投資已達 900 億美元 《The New York Times》指出，2022 年 ChatGPT 問世後，多數創投業者紛"
+          "title": "日常聊天也能變購物提醒？亞馬遜推 Bee 新 AI 裝置，串接 Alexa+ 與電商平台",
+          "link": "https://techorange.com/2026/10/16/amazon-personal-ai-bee-frontier-bee-eclipse/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-16T04:52:44+00:00",
+          "summary": "亞馬遜（Amazon）近日推出兩款 AI 裝置，主打透過聆聽日常對話，協助使用者記住重要資訊、整理待辦事項，並根據過往互動提供個人化建議。新產品由亞馬遜旗下個人 AI 裝置品牌 Bee 開發，分別為穿戴式的 Frontier，以及可磁吸在手機背面的 Eclipse。 AI 裝置 Bee Frontier、Eclipse，可記錄對話、提供購物建議 兩款裝置是 Bee 前一代手環產品 Pioneer "
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "從小白到達人，新北教師用AI翻轉教學！",
-          "link": "https://www.gvm.com.tw/article/133575",
-          "published": "2026-10-16T00:00:00",
-          "summary": "老師是孩子學習的領航員，而教育局則是提供老師資源與工具的神隊友。新北市教育局兩年來力推AI教育，為老師提供好用AI工具、派出輔導團巡迴教學，更打造新北市親師生平台，引導老師們從AI小白晉升達人，善用AI降低日常重複工作量，有更多心力陪伴學生、創新教學！2025年是新北市AI教育元年，經過兩年推展，如今AI不僅在各學科廣泛應用，更點亮各個校本特色領域，讓備課更高效、讓教材更豐富、讓學習更有趣。善用A"
+          "title": "為什麼撞球不再流行？曾是「撞球王國」的台灣，如今撞球館為何逐漸消失？",
+          "link": "https://www.gvm.com.tw/article/133848",
+          "published": "2026-10-16T19:19:00",
+          "summary": "曾經有「撞球王國」美譽的台灣，在1998年曼谷亞運寫下輝煌成績，撞球館更曾是五、六、七年級生最熟悉的休閒娛樂場所。然而，隨著網咖與數位娛樂崛起、經營成本上漲，以及職業撞球賽事熱度不如以往，曾經風靡全台的撞球館，如今卻逐漸消失。為什麼撞球不再流行？你還記得上一次走進撞球館，是什麼時候嗎？對許多五、六、七年級生而言，撞球館曾經是青春歲月裡最熟悉的娛樂場所之一。放學後約上三五好友，走進燈光略顯昏暗的撞球"
         },
         {
-          "title": "把科技變成社會解方，Gogolook、永悅健康獲頒青年傑出創業獎",
-          "link": "https://www.gvm.com.tw/article/133814",
-          "published": "2026-10-15T19:20:00",
-          "summary": "2026年第24屆遠見高峰會於10月14日迎來閉幕贈獎時刻，由遠見．天下文化事業群發行人王力行擔任贈獎人，頒發「青年傑出創業獎」給兩組得主，分別是Gogolook共同創辦人暨董事長鄭勝丰、共同創辦人暨執行長郭建甫、共同創辦人暨技術長宋政桓，以及永悅健康董事長暨執行長陳俊嘉。一組從陌生來電辨識出發，致力對抗詐騙、重建數位信任；另一組從企業保健室起步，逐步將健康管理推向更廣泛的市場。兩組創業者在獲獎感"
+          "title": "兄弟皆半導體專家，胡正大談兄長胡正明「不管遇到什麼、絕不逃避」",
+          "link": "https://www.gvm.com.tw/article/133847",
+          "published": "2026-10-16T18:40:00",
+          "summary": "一家出了兩位半導體專家，究竟是父親的影響，還是哥哥帶著弟弟走？在《拿出辦法來》新書發表會開始前，被譽為「FinFET之父」的中研院院士胡正明接受媒體採訪，面對兄弟倆為何都投入半導體的提問，先說「沒有任何計畫」，接著幽默補上一句：「如果有什麼特別，一定是他跟我學的，他是弟弟嘛。」同一道問題，弟弟、敦泰電子董事長胡正大的回答，則把故事帶回兩人的童年。「我覺得第一個是因為父親的關係。」他回憶，父親具有工"
         },
         {
-          "title": "錢大群：尋找混沌世界的新成長，以知識與信任迎接AI時代",
-          "link": "https://www.gvm.com.tw/article/133816",
-          "published": "2026-10-15T19:01:00",
-          "summary": "「2026第24屆遠見高峰會」（以下簡稱「2026遠見高峰會」）於10月15日圓滿閉幕。遠見・天下文化事業群學習長錢大群在閉幕致詞中，回顧本屆峰會三大特色，包括AI重現跨越40年的創辦人對話、63位講者剖析全球政經與產業變局，以及《遠見》邁向下一個40年的發展方向。他強調，面對AI浪潮與全球動盪，知識與信任將成為個人、企業及國家的關鍵資產。為期兩天的2026遠見高峰會，於15日圓滿閉幕。遠見・天下"
+          "title": "「長者免健保費」立院三讀！民團指埋3惡果、醫團反對憂摧毀健保",
+          "link": "https://www.gvm.com.tw/article/133846",
+          "published": "2026-10-16T18:08:00",
+          "summary": "藍白挾表決優勢，立法院今天三讀通過「長者有條件免健保費」修法，醫改會指將埋深化世代對立等3大惡果；民間監督健保聯盟指「禍國殃民、債留子孫」，籲行政院不要副署。立法院會今天三讀修正通過攸關老人健保費免費的老人福利法第22條條文，明訂近1年綜合所得未達申報標準或綜所稅率未達20%的相對經濟弱勢長輩，由中央主管機關補助全額健保費。由於稅率20%約為年所得新台幣133萬元以上，外界認為幾乎就是實質上的65"
         },
         {
-          "title": "科技、製造與醫療的奠基者！胡正明、卓永財、黃達夫獲頒遠見終身成就獎",
-          "link": "https://www.gvm.com.tw/article/133815",
-          "published": "2026-10-15T18:47:00",
-          "summary": "在2026第24屆遠見高峰會的閉幕贈獎典禮上，同時頒發三座「終身成就獎」，給與在各自領域為台灣奉獻一生的傑出領袖，包括美國加州大學柏克萊分校榮譽講座教授胡正明、上銀集團總裁卓永財，以及和信治癌中心醫院董事長黃達夫。他們分別在半導體科技、精密機械製造與全人癌症醫療領域，帶領台灣走過轉型關鍵期，不僅在國際上寫下輝煌篇章，更為下一代留下了珍貴的教育與人文資產。2026第24屆遠見高峰會於10月15日迎來"
+          "title": "智慧科技監測 守護藍天白雲",
+          "link": "https://www.gvm.com.tw/article/133599",
+          "published": "2026-10-16T17:32:00",
+          "summary": "近年來，臺中市持續推動「藍天白雲行動計畫」，透過固定污染源、移動污 染源及逸散污染源三大面向同步改善，並結合人工智慧（AI）、智慧監測及大數 據分析等科技工具，建立精準治理模式，讓空氣品質持續改善，打造兼具產業發 展與宜居生活的幸福城市。面對空氣污染型態日益複雜，臺中市環保局持續強化科技治理量能，針對工 業區及大型固定污染源，臺中市導入AI判煙技術，透過影像辨識分析煙流顏色、 型態與持續時間，搭配"
         },
         {
-          "title": "施振榮談企業接班：傳賢不傳子，無形價值比有形資產更重要",
-          "link": "https://www.gvm.com.tw/article/133812",
-          "published": "2026-10-15T18:42:00",
-          "summary": "2026年是宏碁集團創辦50週年。宏碁集團創辦人暨智榮基金會董事長施振榮今（15）日受邀至「2026第24屆遠見高峰會」分享「王道領導學」。他強調企業領導人的責任就是要做傳承，建議所有權與經營權要分開思考，並以「企業家族」的概念，透過共同的價值觀、組織文化，找尋適合的傳承者。演講一開始，施振榮首先指出，他提出「王道」已經非常多年，最早不是叫「王道」，是在2011年開設「全球王道企業領袖薪傳班」後才"
+          "title": "台灣赴美建工業區！首座將斥40億美元落腳德州，龔明鑫：不只一座",
+          "link": "https://www.gvm.com.tw/article/133843",
+          "published": "2026-10-16T17:29:00",
+          "summary": "台灣政府計劃籌資數十億美元，在美國開展工業園區，為輝達及其他AI硬體業者在當地建立完整供應鏈。經濟部長龔明鑫表示，這項計畫將從德州開始，首座園區建置費用最高達40億美元，協助中小型供應商赴美設廠。這些業者對輝達主要生產夥伴台積電（2330），以及鴻海（2317）等AI伺服器組裝業者的營運，都不可或缺。龔明鑫12日接受彭博訪問時說，每座園區建置費用約20億至40億美元，政府規劃在美國設立「不只一座」"
         },
         {
-          "title": "醫院沒有個人英雄！北榮院長陳威明獲傑出領袖獎，感念高希均、尹衍樑",
-          "link": "https://www.gvm.com.tw/article/133813",
-          "published": "2026-10-15T18:34:00",
-          "summary": "2026第24屆遠見高峰會今（15日）舉行閉幕暨贈獎典禮，今年傑出領袖獎由臺北榮民總醫院院長陳威明獲得。他在得獎感言中表示：「醫院沒有個人的英雄，只有一個共同為病人付出的團體。」他特別感謝已故的遠見‧天下文化事業群創辦人高希均、潤泰集團總裁尹衍樑，兩人都是他「敬佩的偶像」與「終身學習的榜樣」。2026遠見高峰會於15日特邀宏碁集團創辦人、智榮基金會董事長施振榮擔任贈獎貴賓，將傑出領袖獎頒給北榮院長"
+          "title": "啟動轉型學習之旅！星展銀行、奇異公司揭示變革成敗關鍵",
+          "link": "https://www.gvm.com.tw/article/133841",
+          "published": "2026-10-16T17:00:00",
+          "summary": "面對科技與地緣政治的快速變化，企業如何避免變革失敗？從星展銀行與奇異公司的成敗經驗，掌握以學習之旅取代固定路線圖的方法，讓企業在持續探索與調整中，創造出長期價值。當科技、社會與地緣政治快速變化，企業必須持續轉型。但許多轉型仍以失敗告終，原因就在於領導者總是將轉型視為有固定目標、詳細路線圖、明確期限的大型專案。面對不斷變動的環境，原定計畫難以適應，導致專案零碎、員工疲憊，最終失去組織與股東的支持。要"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "影音/<b>氣候變遷</b>原民作物種原保存刻不容緩農試所舉辦研討會共商保存機制",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.thehubnews.net/archives/675717&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3bU5EFHkj9Wj4paeFl0aYI",
-          "published": "2026-10-16T02:49:45+00:00",
-          "summary": "地方中心/臺中報導面對氣候變遷、生產環境改變及保種人力減少，讓原民作物品種保存與相關知識，都面臨了流失的風險。農業部農業試驗所10月14日舉辦了「原住."
+          "title": "迎戰歐美碳關稅，全球供應鏈綠色變革！ 赫曼咖啡攜手綠岩能源導入Tesla Powerwall 寫下<b>淨零</b>新頁",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://nvns.net/news_view.php%3Fnew_sn%3D146443%26new_csn%3D1977&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0aAGkdJ2n3etzWvnNkA1cU",
+          "published": "2026-10-17T02:46:23+00:00",
+          "summary": "視傳媒-新興網路媒體，目前各縣市均有記者發稿，有多位資深也有很多充滿活力的記者，一起拿起筆桿來為民眾出聲。"
         },
         {
-          "title": "碳匯功能性材料：生物炭的原理與應用 - IEK產業情報網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/iekrpt/rpt_more.aspx%3Factiontype%3Drpt%26indu_idno%3D5%26domain%3D90%26rpt_idno%3D979512790&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw10_jPi44QuOI48EAejQN9J",
-          "published": "2026-10-16T02:29:26+00:00",
-          "summary": "淨零永續對策與商機特化與綠色化學 &middot; #生物炭 #裂解 #二氧化碳移除 #碳匯 #biochar ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
+          "title": "AI驅動智慧節能！赫曼咖啡實現100％綠電生產產官學齊聚能源論壇見證<b>淨零</b>成果 - 大成報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://greatnews.com.tw/news_pagein.php%3FiType%3D1004%26n_id%3D315857&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3EuMiJJflPPdUJ0xQn--C8",
+          "published": "2026-10-17T02:03:38+00:00",
+          "summary": "【大成報記者羅林/新竹報導】在全球淨零排放與綠色供應鏈的剛性需求下，全台首家100%綠電生產咖啡品牌「赫曼咖啡」於今(10/16)日攜手再生能源領導企業綠岩&nbsp;..."
         },
         {
-          "title": "暖化加速，科學家警告：30 歲世代恐見證氣候失控",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://technews.tw/2026/10/16/global-warming-accelerates-scientists-warn-todays-30-year-olds-could-witness-climate-chaos/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw37FDT5BSTFEDeY9GLC8_GU",
-          "published": "2026-10-16T02:10:03+00:00",
-          "summary": "2025 年全球化石燃料消耗量增加 0.9%，能源相關二氧化碳排放量首次突破 410 億公噸。人口增加與肉類需求成長，也持續推升畜牧業的甲烷排放。與此同時，全球野火&nbsp;..."
+          "title": "<b>氣候變遷</b>衝擊漁業信義社區一家攜手屏東團體推食魚教育 - PCHOME NEWS",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/living/cna/20261017/index-17922006009512218009.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1kBeCoJr6VNSNfcBPTazSg",
+          "published": "2026-10-17T01:49:14+00:00",
+          "summary": "氣候變遷衝擊屏東漁業，信義房屋透過「社區一家」支持大小港邊地方創生協會推動食魚教育計畫《我的未來餐桌也吃魚》，帶民眾認識魚從哪裡來、如何捕撈。"
         },
         {
-          "title": "活動資訊｜環境部新聞專區",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/moenv-news/zh-tw/Level/36%3Fqs%3D%25E5%2588%25A5%25E8%25AE%2593%25E3%2580%258C%25E9%2580%2599%25E9%2582%2584%25E5%25A5%25BD%25E5%2590%25A7%25EF%25BC%2581%25EF%25BC%259F%25E3%2580%258D%25E6%2588%2590%25E7%2582%25BA%25E7%2592%25B0%25E5%25A2%2583%25E7%259A%2584%25E5%25A4%25A7%25E9%25BA%25BB%25E7%2585%25A9&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw15wR5IyCKm579IFuxqo9Dk",
-          "published": "2026-10-16T01:11:47+00:00",
-          "summary": "淨零綠生活, 綠生活轉型, 永續發展, 環境科技發展, 綠色辦公, 淨零排放, 水質保護, 淨水永續獎, 水污染防治費, 廢棄物管理, 資源循環, 源頭減量, 氣候變遷, 氣候&nbsp;..."
+          "title": "永續轉型新典範! 赫曼咖啡、綠岩能源、Tesla打造100%綠電智慧咖啡廠 - PCHOME NEWS",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/society/focus586/20261016/index-79215614903371289002.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2_epYD0ydbpSpFCFcOpfxx",
+          "published": "2026-10-16T19:23:21+00:00",
+          "summary": "此次論壇聚焦於AI 智慧工廠、表後儲能與企業能源管理的實踐應用，展示出台灣中小企業在面對淨零轉型時，如何透過數位與低碳的雙軸轉型，成功打造符合未來&nbsp;..."
         },
         {
-          "title": "鋼聯攜台鋼資源大秀雙UL國際認證實力，擴增料源量能搶攻<b>淨零</b>永續商機 - Yahoo股市",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E9%258B%25BC%25E8%2581%25AF%25E6%2594%259C%25E5%258F%25B0%25E9%258B%25BC%25E8%25B3%2587%25E6%25BA%2590%25E5%25A4%25A7%25E7%25A7%2580%25E9%259B%2599ul%25E5%259C%258B%25E9%259A%259B%25E8%25AA%258D%25E8%25AD%2589%25E5%25AF%25A6%25E5%258A%259B-%25E6%2593%25B4%25E5%25A2%259E%25E6%2596%2599%25E6%25BA%2590%25E9%2587%258F%25E8%2583%25BD%25E6%2590%25B6%25E6%2594%25BB%25E6%25B7%25A8%25E9%259B%25B6%25E6%25B0%25B8%25E7%25BA%258C%25E5%2595%2586%25E6%25A9%259F-002816070.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3Eg1AI40MqL5I5GjCBSXy3",
-          "published": "2026-10-16T00:38:56+00:00",
-          "summary": "【財訊快報／記者張家瑋報導】國內循環經濟指標大廠鋼聯(6581)與全資子公司台鋼資源，於「2026台灣國際淨零永續展」中，展示如何透過先進的高溫冶煉技術將&nbsp;..."
+          "title": "聯合國示警<b>氣候變遷</b>衝擊南亞數以百萬人恐流離失所 - 財經新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.wearn.com/c2127020.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3I8D_QiByT3AbnBG-Wx1mf",
+          "published": "2026-10-16T18:15:34+00:00",
+          "summary": "聯合國國際移民組織（IOM）秘書長波普今天告訴法新社，氣候變遷正威脅南亞各地民眾的生計，恐迫使數以百萬人流離失所，但科技..."
         },
         {
-          "title": "觀點投書：<b>淨零</b>減碳的最後一哩路  當停車位開始充電，消防也要往前一步 - 風傳媒",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.storm.mg/article/11171652&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2LFSFwQfXzFp0hQHy35ShB",
-          "published": "2026-10-15T22:09:19+00:00",
-          "summary": "電動車普及與充電設施布建，正把淨零轉型推進到城市生活的最後一哩。當停車位開始充電，原本供車輛停放的一個格子，也開始成為能源系統的一部分。"
+          "title": "聯合國示警<b>氣候變遷</b>衝擊南亞數以百萬人恐流離失所 - PCHOME NEWS",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/internation/cna/20261016/index-17921517007732918011.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2zJX9vvAy9z3SUbSDAntbi",
+          "published": "2026-10-16T18:08:50+00:00",
+          "summary": "聯合國國際移民組織（IOM）秘書長波普今天告訴法新社，氣候變遷正威脅南亞各地民眾的生計，恐迫使數以百萬人流離失所，但科技與政府行動有助於減輕衝擊。"
         }
       ]
     }
