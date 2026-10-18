@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-10-17T05:20:34.661861+00:00",
-    "date": "2026-10-17",
+    "generated_at": "2026-10-18T05:28:20.367486+00:00",
+    "date": "2026-10-18",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -10,84 +10,47 @@
     {
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
-      "items": [
-        {
-          "title": "【企業 AI 成本報告】代理型 AI 與 AI 開發工具成本衝擊商業決策，建立「主動式財務防線」防範失控帳單",
-          "link": "https://techorange.com/2026/10/17/control-your-ai-costs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-16T22:29:00+00:00",
-          "summary": "AI 自由實驗期結束，企業迎來「帳單震撼」 AI／雲端成本治理平台 Mavvrik 與 B2B SaaS 研究機構 Benchmarkit，聯合發表《2026 年 AI 成本治理現況報告》（State of AI Cost Governance 2026），內容調查全球 396 家企業的營運現況，評估企業擴大部署 AI 時的財務管控能力。 報告指出，企業 AI 的「自由實驗期」已正式終結，過去在創"
-        },
-        {
-          "title": "「AI Agent 也需要自己的身分證。」從持續驗證到責任歸屬，來毅數位攜手合作夥伴拆解信任治理關鍵",
-          "link": "https://techorange.com/2026/10/16/keypasco-ai-agent-summit/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-16T10:12:34+00:00",
-          "summary": "這個 Agent 是誰？能夠存取哪些資料、使用哪些系統？當它做出錯誤決策或執行越權行動時，企業能不能追蹤、稽核，並釐清責任？ 面對 AI Agent 帶來的新型態資安風險與治理挑戰，Keypasco 來毅數位與 TechOrange 科技報橘共同主辦「2026 AI 信任治理論壇」，以「突破試點斷層，讓AI真正進入營運：從Agent身分、設備信任到持續驗證」為題，深入剖析 AI 跨越 POC 進入"
-        },
-        {
-          "title": "AI 揪出的漏洞誰來補？美國銀行加派 1,000 名承包商，少見公開修補人力規模",
-          "link": "https://techorange.com/2026/10/16/bank-of-america-contractors-patch-mythos-flaws/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-16T09:47:12+00:00",
-          "summary": "美國銀行（Bank of America）執行長 Brian Moynihan，美國時間 10/14 公布第三季財報後接受《CNBC》專訪時透露，為了修補 Anthropic 的 Mythos 等先進 AI 模型揭露的軟體漏洞，銀行第二季加派了 1,000 名外部承包商，與原有的 3,000 名內部員工一起作業。《CNBC》指出，這是美國大型企業最早具體說明為防範 Mythos 投入多少人力與資金"
-        },
-        {
-          "title": "科技巨頭想當礦商股東？英美資源證實洽談入股，尋求保障 AI 資料中心金屬供應",
-          "link": "https://techorange.com/2026/10/16/tech-firms-metals-supply-anglo-wanblad/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-16T09:24:45+00:00",
-          "summary": "隨著 AI 資料中心建設持續推進，科技企業正積極尋找確保關鍵金屬供應的方式。倫敦上市礦業集團英美資源（Anglo American）執行長 Duncan Wanblad 透露，公司已與有意入股的科技企業展開討論。 確保金屬供應，科技企業評估長期承購與直接入股 Wanblad 於 10 月 15 日在《金融時報》舉辦的金屬與礦業峰會上表示，相關討論「確實正在進行」。他指出，這些企業的考量是：「我們能"
-        },
-        {
-          "title": "AI 黑盒子沒那麼黑？Goodfire 研究員：神經元「亂塞概念」可能是誤讀",
-          "link": "https://techorange.com/2026/10/16/neural-networks-already-clean-goodfire/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-16T06:39:03+00:00",
-          "summary": "想了解 AI 為什麼做出某個判斷，最直接的方式，是打開模型，看看裡面的「神經元」各自在做什麼。但長期以來，研究界普遍認為這條路並不好走：神經元裡似乎塞滿了互不相干的概念，就像一團打結的毛線。AI 新創 Goodfire 研究員 Nick Cammarata 日前發表長文挑戰這個看法，他聲稱，在語言模型 Qwen3-32B 中，多數神經元其實只負責一件主要工作。 Cammarata 曾在 OpenA"
-        },
-        {
-          "title": "日常聊天也能變購物提醒？亞馬遜推 Bee 新 AI 裝置，串接 Alexa+ 與電商平台",
-          "link": "https://techorange.com/2026/10/16/amazon-personal-ai-bee-frontier-bee-eclipse/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-16T04:52:44+00:00",
-          "summary": "亞馬遜（Amazon）近日推出兩款 AI 裝置，主打透過聆聽日常對話，協助使用者記住重要資訊、整理待辦事項，並根據過往互動提供個人化建議。新產品由亞馬遜旗下個人 AI 裝置品牌 Bee 開發，分別為穿戴式的 Frontier，以及可磁吸在手機背面的 Eclipse。 AI 裝置 Bee Frontier、Eclipse，可記錄對話、提供購物建議 兩款裝置是 Bee 前一代手環產品 Pioneer "
-        }
-      ]
+      "items": []
     },
     {
       "feed_name": "遠見雜誌 - 前進的動力",
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "為什麼撞球不再流行？曾是「撞球王國」的台灣，如今撞球館為何逐漸消失？",
-          "link": "https://www.gvm.com.tw/article/133848",
-          "published": "2026-10-16T19:19:00",
-          "summary": "曾經有「撞球王國」美譽的台灣，在1998年曼谷亞運寫下輝煌成績，撞球館更曾是五、六、七年級生最熟悉的休閒娛樂場所。然而，隨著網咖與數位娛樂崛起、經營成本上漲，以及職業撞球賽事熱度不如以往，曾經風靡全台的撞球館，如今卻逐漸消失。為什麼撞球不再流行？你還記得上一次走進撞球館，是什麼時候嗎？對許多五、六、七年級生而言，撞球館曾經是青春歲月裡最熟悉的娛樂場所之一。放學後約上三五好友，走進燈光略顯昏暗的撞球"
+          "title": "日本專家指出：週末愛補眠的人，星期一早起恐有這個後果",
+          "link": "https://www.gvm.com.tw/article/133723",
+          "published": "2026-10-17T18:00:00",
+          "summary": "週末兩天晚起，以享受平日上班無法的懶覺自由，是許多上班族的小確幸，卻被醫學專家警告有健康風險！一位日本教授田原優指出，錯誤行為會讓人生理時鐘被打亂，引發驚人後果。另外結合生理時鐘的營養學，還能讓人輕鬆減重。到底要怎麼掌握？（本文節錄自《逆齡密碼》一書，作者：大衛．考克斯／天下文化出版，以下為摘文。）雖然日本並未實施日光節約時間，但田原優教授長期以來一直對這個現象深感興趣。他向我解釋，星期一早晨現象"
         },
         {
-          "title": "兄弟皆半導體專家，胡正大談兄長胡正明「不管遇到什麼、絕不逃避」",
-          "link": "https://www.gvm.com.tw/article/133847",
-          "published": "2026-10-16T18:40:00",
-          "summary": "一家出了兩位半導體專家，究竟是父親的影響，還是哥哥帶著弟弟走？在《拿出辦法來》新書發表會開始前，被譽為「FinFET之父」的中研院院士胡正明接受媒體採訪，面對兄弟倆為何都投入半導體的提問，先說「沒有任何計畫」，接著幽默補上一句：「如果有什麼特別，一定是他跟我學的，他是弟弟嘛。」同一道問題，弟弟、敦泰電子董事長胡正大的回答，則把故事帶回兩人的童年。「我覺得第一個是因為父親的關係。」他回憶，父親具有工"
+          "title": "睡不好總是淺眠多夢？廢棄樹根變助眠新資源，日本研究找到自然處方",
+          "link": "https://www.gvm.com.tw/article/133821",
+          "published": "2026-10-17T16:00:00",
+          "summary": "睡眠品質不佳是許多中年人的共同困擾，尤其 40~50 歲女性，更容易出現夜間頻繁醒來、睡不安穩等問題。日本九州大學最新研究發現，只要在睡前聞一聞扁柏根部萃取的精油，並將香氣留在床邊，就可能減少夜間醒來的次數，甚至讓隔天早晨更有精神，為改善睡眠提供一種簡單的天然方法。日本九州大學研究團隊找來&nbsp;12&nbsp;名&nbsp;35~60&nbsp;歲日本女性，進行居家睡眠實驗。所有參與者分別經"
         },
         {
-          "title": "「長者免健保費」立院三讀！民團指埋3惡果、醫團反對憂摧毀健保",
-          "link": "https://www.gvm.com.tw/article/133846",
-          "published": "2026-10-16T18:08:00",
-          "summary": "藍白挾表決優勢，立法院今天三讀通過「長者有條件免健保費」修法，醫改會指將埋深化世代對立等3大惡果；民間監督健保聯盟指「禍國殃民、債留子孫」，籲行政院不要副署。立法院會今天三讀修正通過攸關老人健保費免費的老人福利法第22條條文，明訂近1年綜合所得未達申報標準或綜所稅率未達20%的相對經濟弱勢長輩，由中央主管機關補助全額健保費。由於稅率20%約為年所得新台幣133萬元以上，外界認為幾乎就是實質上的65"
+          "title": "台南鐵路地下化17日通車！賴清德為何先說對不起？17年工程還沒完，340戶拆遷換來什麼",
+          "link": "https://www.gvm.com.tw/article/133001",
+          "published": "2026-10-17T11:00:00",
+          "summary": "台南等了17年的鐵路地下化，終於要在2026年10月17日迎來第一階段通車。全長8.23公里的鐵路將轉入地下，新台南車站率先投入營運，原本橫亙市區的地面鐵道，未來則將逐步轉化為約30米寬的綠園道。然而，在9月10日的新站揭牌典禮上，曾在台南市長任內推動工程、如今已是總統的賴清德，首先面對的卻不是慶功，而是向當年反對拆遷的居民說「對不起」。這句道歉，也揭開台南鐵路地下化最難用「通車」兩字概括的一面。"
         },
         {
-          "title": "智慧科技監測 守護藍天白雲",
-          "link": "https://www.gvm.com.tw/article/133599",
-          "published": "2026-10-16T17:32:00",
-          "summary": "近年來，臺中市持續推動「藍天白雲行動計畫」，透過固定污染源、移動污 染源及逸散污染源三大面向同步改善，並結合人工智慧（AI）、智慧監測及大數 據分析等科技工具，建立精準治理模式，讓空氣品質持續改善，打造兼具產業發 展與宜居生活的幸福城市。面對空氣污染型態日益複雜，臺中市環保局持續強化科技治理量能，針對工 業區及大型固定污染源，臺中市導入AI判煙技術，透過影像辨識分析煙流顏色、 型態與持續時間，搭配"
+          "title": "失智天氣變化症狀加劇？醫解析4大問題加重原因：這件事容易被忽略",
+          "link": "https://www.gvm.com.tw/article/133819",
+          "published": "2026-10-17T07:00:00",
+          "summary": "秋天，天氣一變冷，失智長輩變得更容易忘東忘西、日夜顛倒？記憶、睡眠、情緒或行為問題 4 情況加劇？中醫師指出，這不一定是失智症病情惡化，而可能是換季日照縮短打亂作息！本文教你從日曬、飲食到規律生活全方位調理，並示警若突然出現意識混亂、幻覺等 6 急症徵兆，應及早辨別才不延誤就醫。最近天氣一變冷，媽媽好像變得更容易忘東忘西，晚上也比較睡不著，甚至一直問同樣的問題。一名失智症患者家屬發現，長輩進入秋天"
         },
         {
-          "title": "台灣赴美建工業區！首座將斥40億美元落腳德州，龔明鑫：不只一座",
-          "link": "https://www.gvm.com.tw/article/133843",
-          "published": "2026-10-16T17:29:00",
-          "summary": "台灣政府計劃籌資數十億美元，在美國開展工業園區，為輝達及其他AI硬體業者在當地建立完整供應鏈。經濟部長龔明鑫表示，這項計畫將從德州開始，首座園區建置費用最高達40億美元，協助中小型供應商赴美設廠。這些業者對輝達主要生產夥伴台積電（2330），以及鴻海（2317）等AI伺服器組裝業者的營運，都不可或缺。龔明鑫12日接受彭博訪問時說，每座園區建置費用約20億至40億美元，政府規劃在美國設立「不只一座」"
+          "title": "補Omega-3魚油藻油怎麼選？EPA與DHA含量差異、選購指標、用藥禁忌一次看",
+          "link": "https://www.gvm.com.tw/article/133823",
+          "published": "2026-10-17T07:00:00",
+          "summary": "想補 Omega-3，選魚油還是藻油？混吃保健效果能加倍、防心臟病？藥師直言，兩者吸收率相當，關鍵在 EPA 與 DHA實際含量而非名稱！本文除解析魚油藻油差異，以及孕婦與用藥族群的食用禁忌外，更公開 4 大避坑指標與天然飲食補充指南，教你遠離重金屬與劣質氧化油，補對才不白花錢。魚油藻油差在哪？藥師解析EPA與DHA功效：挑選成分含量才是關鍵潮玩健康周洸羽藥師表示，魚油（Fish oil）和藻油（"
         },
         {
-          "title": "啟動轉型學習之旅！星展銀行、奇異公司揭示變革成敗關鍵",
-          "link": "https://www.gvm.com.tw/article/133841",
-          "published": "2026-10-16T17:00:00",
-          "summary": "面對科技與地緣政治的快速變化，企業如何避免變革失敗？從星展銀行與奇異公司的成敗經驗，掌握以學習之旅取代固定路線圖的方法，讓企業在持續探索與調整中，創造出長期價值。當科技、社會與地緣政治快速變化，企業必須持續轉型。但許多轉型仍以失敗告終，原因就在於領導者總是將轉型視為有固定目標、詳細路線圖、明確期限的大型專案。面對不斷變動的環境，原定計畫難以適應，導致專案零碎、員工疲憊，最終失去組織與股東的支持。要"
+          "title": "算力競爭背後是電力！東元迎70週年，董座利明献：集團未來2至3年營收達千億目標",
+          "link": "https://www.gvm.com.tw/article/133851",
+          "published": "2026-10-17T02:12:00",
+          "summary": "電機大廠東元今年滿七十週年，董事長利明献致詞時表示，未來集團將持續聚焦於電力、動力系統及能源三大業務，擴大全球市場布局，隨著AI資料中心建置需求成長，看好集團營收將在二到三年後達到千億目標。電機大廠東元今年滿七十週年，今天以「AI時代：產業轉型與未來能源」為題舉辦論壇。董事長利明献表示，未來東元將持續聚焦於電力、動力系統及能源三大核心領域，預計未來二到三年，集團營收將突破千億。東元電機今（16）日"
         }
       ]
     },
@@ -96,40 +59,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "迎戰歐美碳關稅，全球供應鏈綠色變革！ 赫曼咖啡攜手綠岩能源導入Tesla Powerwall 寫下<b>淨零</b>新頁",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://nvns.net/news_view.php%3Fnew_sn%3D146443%26new_csn%3D1977&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0aAGkdJ2n3etzWvnNkA1cU",
-          "published": "2026-10-17T02:46:23+00:00",
-          "summary": "視傳媒-新興網路媒體，目前各縣市均有記者發稿，有多位資深也有很多充滿活力的記者，一起拿起筆桿來為民眾出聲。"
+          "title": "物流減碳只是基本功裕利醫藥總裁周志鴻：永續要深入藥品本身 - 元氣網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://health.udn.com/health/amp/story/124507/9819227&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3J7UAci8KerH3EI1cgFRRx",
+          "published": "2026-10-18T02:43:22+00:00",
+          "summary": "面對全球氣候變遷，醫療體系如何兼顧照護品質與環境永續，已成重要課題。裕利醫藥台灣、香港與澳門市場群總裁周志鴻指出，過去醫療機構談淨零轉型，多著重&nbsp;..."
         },
         {
-          "title": "AI驅動智慧節能！赫曼咖啡實現100％綠電生產產官學齊聚能源論壇見證<b>淨零</b>成果 - 大成報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://greatnews.com.tw/news_pagein.php%3FiType%3D1004%26n_id%3D315857&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3EuMiJJflPPdUJ0xQn--C8",
-          "published": "2026-10-17T02:03:38+00:00",
-          "summary": "【大成報記者羅林/新竹報導】在全球淨零排放與綠色供應鏈的剛性需求下，全台首家100%綠電生產咖啡品牌「赫曼咖啡」於今(10/16)日攜手再生能源領導企業綠岩&nbsp;..."
+          "title": "能源週、<b>淨零</b>展吸近1.8萬人！AI用電需求成焦點明年10/27再登場 - 壹蘋新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.nextapple.com/finance/20261018/6576B136485F91CA81D59AC709B28D1D&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0moCxYXJbyDB3ykIb0H8dy",
+          "published": "2026-10-18T02:17:21+00:00",
+          "summary": "由外貿協會（TAITRA）與SEMI旗下GESA綠能暨永續發展聯盟共同主辦的2026「台灣國際淨零永續展（Net-Zero Taiwan）」與「台灣國際智慧能源週（Energy&nbsp;..."
         },
         {
-          "title": "<b>氣候變遷</b>衝擊漁業信義社區一家攜手屏東團體推食魚教育 - PCHOME NEWS",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/living/cna/20261017/index-17922006009512218009.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1kBeCoJr6VNSNfcBPTazSg",
-          "published": "2026-10-17T01:49:14+00:00",
-          "summary": "氣候變遷衝擊屏東漁業，信義房屋透過「社區一家」支持大小港邊地方創生協會推動食魚教育計畫《我的未來餐桌也吃魚》，帶民眾認識魚從哪裡來、如何捕撈。"
+          "title": "鼎新數智Agent Space重新定義<b>淨零</b>永續工作新範式 - 工商時報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20261017700286-431203&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3rkj1e8qzRGfkd_qthUXyO",
+          "published": "2026-10-18T02:07:02+00:00",
+          "summary": "鼎新數智表示，以Agent Space讓減碳看得見成效為主題，於永續管理、淨零管理及廠務能源管理三大職能專家Agent。透過多智能體協作，讓企業如何串聯碳排與營運&nbsp;..."
         },
         {
-          "title": "永續轉型新典範! 赫曼咖啡、綠岩能源、Tesla打造100%綠電智慧咖啡廠 - PCHOME NEWS",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/society/focus586/20261016/index-79215614903371289002.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2_epYD0ydbpSpFCFcOpfxx",
-          "published": "2026-10-16T19:23:21+00:00",
-          "summary": "此次論壇聚焦於AI 智慧工廠、表後儲能與企業能源管理的實踐應用，展示出台灣中小企業在面對淨零轉型時，如何透過數位與低碳的雙軸轉型，成功打造符合未來&nbsp;..."
+          "title": "這次聖嬰有多猛？還沒到高峰太平洋海溫就已超越過去3大強聖嬰紀錄 - 倡議家- 聯合新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ubrand.udn.com/ubrand/amp/story/123658/9811275&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw16rs0Cz3-ejrLu4uwci-Y6",
+          "published": "2026-10-18T00:44:55+00:00",
+          "summary": "歐盟氣候監測機構12日表示，隨聖嬰現象持續增強，太平洋一處關鍵海域水溫9月已創下歷史新高，再次凸顯這輪聖嬰現象異常猛烈的威力，全球高溫超標的情況恐&nbsp;..."
         },
         {
-          "title": "聯合國示警<b>氣候變遷</b>衝擊南亞數以百萬人恐流離失所 - 財經新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.wearn.com/c2127020.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3I8D_QiByT3AbnBG-Wx1mf",
-          "published": "2026-10-16T18:15:34+00:00",
-          "summary": "聯合國國際移民組織（IOM）秘書長波普今天告訴法新社，氣候變遷正威脅南亞各地民眾的生計，恐迫使數以百萬人流離失所，但科技..."
+          "title": "從餐桌搶救發燒地球「跨界・植未來」純植論壇港都登場 - PCHOME NEWS",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/living/hoomedia/20261018/index-79225882490698344002.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2yk7_2rhHXWdcTWI7lLpjr",
+          "published": "2026-10-17T23:50:02+00:00",
+          "summary": "【互傳媒／記者蕭任峰／台中報導】面對全球氣候變遷、極端氣候及糧食安全等議題，植物性飲食逐漸成為健康與永續生活的重要討論方向。由純植行動聯盟（南區）&nbsp;..."
         },
         {
-          "title": "聯合國示警<b>氣候變遷</b>衝擊南亞數以百萬人恐流離失所 - PCHOME NEWS",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/internation/cna/20261016/index-17921517007732918011.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2zJX9vvAy9z3SUbSDAntbi",
-          "published": "2026-10-16T18:08:50+00:00",
-          "summary": "聯合國國際移民組織（IOM）秘書長波普今天告訴法新社，氣候變遷正威脅南亞各地民眾的生計，恐迫使數以百萬人流離失所，但科技與政府行動有助於減輕衝擊。"
+          "title": "尼泊爾洪災重建估478億美元聯合國籲全球承擔責任| 中央廣播電臺 - LINE TODAY",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/9m38Xye&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw24LvwjRdSNDIGqUtUIk61B",
+          "published": "2026-10-17T21:11:10+00:00",
+          "summary": "... 氣候變遷採取行動」。他說：「這同時也是氣候正義與氣候責任的問題。」 達席瓦也警告，溫室氣體排放量低的國家將持續承受氣候變遷帶來的最大衝擊：「除非&nbsp;..."
         }
       ]
     }
