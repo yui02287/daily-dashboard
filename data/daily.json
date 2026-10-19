@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-10-18T05:28:20.367486+00:00",
-    "date": "2026-10-18",
+    "generated_at": "2026-10-19T05:46:39.580490+00:00",
+    "date": "2026-10-19",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -10,47 +10,84 @@
     {
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
-      "items": []
+      "items": [
+        {
+          "title": "打造通用型機器人  ：高通攜手生態系解鎖 Physical AI「手腦合一」新世代",
+          "link": "https://techorange.com/2026/10/19/qualcomm-physical-ai-dragonwingiq/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-19T03:59:52+00:00",
+          "summary": "在製造與營運持續朝向高度自動化、數位化與彈性化發展的當下，AI 機器人正快速從前瞻性技術，轉變為支撐企業智慧製造與營運升級的關鍵能力。國際研調機構 IDC 於《全球供應鏈與產業生態系 2026 年預測》中指出，AI 正加速供應鏈與企業營運由傳統線性模式轉向更智慧、互聯且具協作能力的生態系模式。若要進一步發揮 AI 的應用價值，正有賴跨企業的系統互通性、完善的資料基礎，以及安全可信的數位環境加以支撐"
+        },
+        {
+          "title": "三星 HBM 一條龍模式鬆動？傳接受 NVIDIA 要求，基底晶粒首度交由台積電 3 奈米生產",
+          "link": "https://techorange.com/2026/10/19/samsung-use-tsmc-technology-nvidias-next-generation-memory-chips-seoul/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-19T03:57:27+00:00",
+          "summary": "三星電子（Samsung Electronics）傳出將採用台積電的 3 奈米製程，為 NVIDIA 次世代客製化高頻寬記憶體（HBM）製造基底晶粒（Base Die）。《Reuters》引述韓國《首爾經濟新聞》的報導指出，三星已接受 NVIDIA 對 NVHBM 提出的製程要求。 NVIDIA 要求採用台積電製程，NVHBM 將記憶體控制器整合至基底晶粒 《首爾經濟新聞》引述業界消息人士指出，N"
+        },
+        {
+          "title": "AI 成本失控，企業轉向私有雲：HPE 靠智慧路由省下六成 token 成本",
+          "link": "https://techorange.com/2026/10/19/private-cloud-ai-spending/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-19T02:44:43+00:00",
+          "summary": "法國財務自動化軟體商 Esker 的調查顯示，72% 的財務主管坦言，公司過去一年的 AI 支出超出預算。為了控制預算，越來越多企業把 AI 搬回「私有雲」，讓企業自己擁有、自己管理的運算環境；HPE 就是其中的代表，它不只用這套架構壓低成本，還順勢翻新了財務部門的工作方式。 AI 成本飆升正推動企業轉向私有雲 企業使用 AI 多半按 token 計費，而近一年科技業盛行「tokenmaxxing"
+        },
+        {
+          "title": "「住宅代理」成駭客攻擊新趨勢：能偽造到受害者所在區，企業的地理位置登入規則近乎失效",
+          "link": "https://techorange.com/2026/10/19/fbi-residential-proxy-hacker-fraud/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-19T02:30:43+00:00",
+          "summary": "FBI 警告，隱藏駭客真實 IP 位址的住宅代理（Residential Proxy）攻擊手法，近來開始跟不法行為出現掛鉤，它能讓惡意份子繞過地理位置和雙因素驗證（2FA）成為資安新興威脅。"
+        },
+        {
+          "title": "FedEx 用 AI 輔助關稅分類、DHL 整合全球貿易資訊，物流巨頭如何強化出貨前服務？",
+          "link": "https://techorange.com/2026/10/19/fedex-dhl-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-18T22:00:00+00:00",
+          "summary": "隨著跨境電商加速全球佈局，企業面臨的供應鏈挑戰已不限於運輸時效，更卡在各國繁複的海關規範與關稅分類。對缺乏專業報關團隊的中小企業而言，填錯商品分類代碼或申報描述不精準，可能引發清關延誤、供應鏈停擺、額外營運成本甚至罰款。 FedEx 與 DHL 正將數位工具導入跨境貿易合規流程，協助企業在出貨前掌握商品分類、進出口規範與關稅資訊。 FedEx 嵌入寄件流程，以 AI 提升申報精準度 FedEx 的"
+        },
+        {
+          "title": "【科技早餐】AI 伺服器也將納管！台灣擬收緊對中出口，違規將可追究刑責",
+          "link": "https://techorange.com/2026/10/19/taiwan-ai-chip-export-controls-china/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-18T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊AI 伺服器也將納管！台灣擬收緊對中出口，違規將可追究刑責 台灣準備收緊 AI 硬體對中國的出口管制。經濟部長龔明鑫接受《彭博》專訪表示，政府計畫將 AI 伺服器與尖端半導體納入出口管制清單，讓部分措施與美國接軌；這也涉及台灣在台美對等貿易協定中的承諾。新措施上路後，未經許可向中國輸出受限制的 AI 硬體，將可依《貿易法》追究刑事責任。不過，這項"
+        }
+      ]
     },
     {
       "feed_name": "遠見雜誌 - 前進的動力",
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "日本專家指出：週末愛補眠的人，星期一早起恐有這個後果",
-          "link": "https://www.gvm.com.tw/article/133723",
-          "published": "2026-10-17T18:00:00",
-          "summary": "週末兩天晚起，以享受平日上班無法的懶覺自由，是許多上班族的小確幸，卻被醫學專家警告有健康風險！一位日本教授田原優指出，錯誤行為會讓人生理時鐘被打亂，引發驚人後果。另外結合生理時鐘的營養學，還能讓人輕鬆減重。到底要怎麼掌握？（本文節錄自《逆齡密碼》一書，作者：大衛．考克斯／天下文化出版，以下為摘文。）雖然日本並未實施日光節約時間，但田原優教授長期以來一直對這個現象深感興趣。他向我解釋，星期一早晨現象"
+          "title": "有制度，真的就安全？《企業職安衛治理與永續韌性調查報告》揭台灣職場安全真實現況",
+          "link": "https://www.gvm.com.tw/article/132954",
+          "published": "2026-10-19T00:00:00",
+          "summary": "在全球永續發展的浪潮席捲下，企業的職場安全的要求也正在改變，已不只是預防工安事故。企業關注ESG（環境保護、社會責任與公司治理）的架構中，職業安全衛生（後稱職安衛）過去多聚焦於法規遵循與工安防護；如今，企業除須持續落實職業安全衛生法相關要求，管理範圍也逐步延伸至員工健康、職場心理健康、職場霸凌與不法侵害，以及承攬商與供應鏈安全，成為企業推動永續治理、維護健康勞動力及提升營運韌性的重要議題。目錄● "
         },
         {
-          "title": "睡不好總是淺眠多夢？廢棄樹根變助眠新資源，日本研究找到自然處方",
-          "link": "https://www.gvm.com.tw/article/133821",
-          "published": "2026-10-17T16:00:00",
-          "summary": "睡眠品質不佳是許多中年人的共同困擾，尤其 40~50 歲女性，更容易出現夜間頻繁醒來、睡不安穩等問題。日本九州大學最新研究發現，只要在睡前聞一聞扁柏根部萃取的精油，並將香氣留在床邊，就可能減少夜間醒來的次數，甚至讓隔天早晨更有精神，為改善睡眠提供一種簡單的天然方法。日本九州大學研究團隊找來&nbsp;12&nbsp;名&nbsp;35~60&nbsp;歲日本女性，進行居家睡眠實驗。所有參與者分別經"
+          "title": "2026職安法修法：職場霸凌納入防護，企業如何從源頭守護員工身心健康？",
+          "link": "https://www.gvm.com.tw/article/132968",
+          "published": "2026-10-19T00:00:00",
+          "summary": "工作，是每個人日常的一部分，而職業安全衛生守護的，從來不只是在工作場所裡的幾個小時。從踏進職場到平安下班，從看得見的事故風險，到不易察覺的心理壓力，當我們安心投入工作的時候，背後其實有許多人，正努力讓每一個工作環境變得更安全、更健康，而這份「守護」的內涵，也正在改變。2025年底《職業安全衛生法》（後稱職安法）完成修法，並於2026年7月正式上路，進一步強化工程源頭防災、職場霸凌防治等制度。這次職"
         },
         {
-          "title": "台南鐵路地下化17日通車！賴清德為何先說對不起？17年工程還沒完，340戶拆遷換來什麼",
-          "link": "https://www.gvm.com.tw/article/133001",
-          "published": "2026-10-17T11:00:00",
-          "summary": "台南等了17年的鐵路地下化，終於要在2026年10月17日迎來第一階段通車。全長8.23公里的鐵路將轉入地下，新台南車站率先投入營運，原本橫亙市區的地面鐵道，未來則將逐步轉化為約30米寬的綠園道。然而，在9月10日的新站揭牌典禮上，曾在台南市長任內推動工程、如今已是總統的賴清德，首先面對的卻不是慶功，而是向當年反對拆遷的居民說「對不起」。這句道歉，也揭開台南鐵路地下化最難用「通車」兩字概括的一面。"
+          "title": "詐騙，離我們比想像中更近",
+          "link": "https://www.gvm.com.tw/article/133637",
+          "published": "2026-10-19T00:00:00",
+          "summary": "打開手機，一件遠低於市價的限量商品、一張熱門演唱會票券，或是一則「免經驗、在家工作、日領高薪」的徵才貼文，都可能讓人多停留幾秒。另一端，投資群組裡的「老師」每天分享獲利紀錄，群友紛紛曬出賺錢截圖；又或者，一通自稱銀行、警察或檢察官的電話，準確說出姓名，聲稱帳戶涉及洗錢案件，要求立即配合調查。這些看似毫不相關的情境，其實有一個共同點：詐騙早已不再只是陌生電話裡生硬的話術，而是悄悄混進社群、購物、求職"
         },
         {
-          "title": "失智天氣變化症狀加劇？醫解析4大問題加重原因：這件事容易被忽略",
-          "link": "https://www.gvm.com.tw/article/133819",
-          "published": "2026-10-17T07:00:00",
-          "summary": "秋天，天氣一變冷，失智長輩變得更容易忘東忘西、日夜顛倒？記憶、睡眠、情緒或行為問題 4 情況加劇？中醫師指出，這不一定是失智症病情惡化，而可能是換季日照縮短打亂作息！本文教你從日曬、飲食到規律生活全方位調理，並示警若突然出現意識混亂、幻覺等 6 急症徵兆，應及早辨別才不延誤就醫。最近天氣一變冷，媽媽好像變得更容易忘東忘西，晚上也比較睡不著，甚至一直問同樣的問題。一名失智症患者家屬發現，長輩進入秋天"
+          "title": "她是大I人，聊天破冰卻勝過E人：職場Small Talk的3個接話技巧",
+          "link": "https://www.gvm.com.tw/article/133801",
+          "published": "2026-10-18T11:00:00",
+          "summary": "Ｉ人真的在職場不吃香嗎？前幾天看到Threads上網友抱怨，應徵某間矽谷外商，最後一關被刷下，推測是輸在「說故事」的能力。我必須說，在外商生存，口才真的好重要。不只是面試這種大場合，「Small Talk」更是有助於維穩高層人脈，讓你升遷快的必殺技。但是若你是天生MBTI中屬於內向I人，要怎麼學輕鬆聊呢？我其實有位前同事是個大I人，卻掌握一個必殺技，聊天破冰更勝過我這個E人，佩服之餘我就來公開她的"
         },
         {
-          "title": "補Omega-3魚油藻油怎麼選？EPA與DHA含量差異、選購指標、用藥禁忌一次看",
-          "link": "https://www.gvm.com.tw/article/133823",
-          "published": "2026-10-17T07:00:00",
-          "summary": "想補 Omega-3，選魚油還是藻油？混吃保健效果能加倍、防心臟病？藥師直言，兩者吸收率相當，關鍵在 EPA 與 DHA實際含量而非名稱！本文除解析魚油藻油差異，以及孕婦與用藥族群的食用禁忌外，更公開 4 大避坑指標與天然飲食補充指南，教你遠離重金屬與劣質氧化油，補對才不白花錢。魚油藻油差在哪？藥師解析EPA與DHA功效：挑選成分含量才是關鍵潮玩健康周洸羽藥師表示，魚油（Fish oil）和藻油（"
+          "title": "10年代步革命！大眾運輸愈發達，共享機車愈吃香、取代私人機車？調查揭近8成用戶這樣搭",
+          "link": "https://www.gvm.com.tw/article/133835",
+          "published": "2026-10-18T09:00:00",
+          "summary": "台灣共享機車WeMo公布萬人用戶調查結果。據其顯示，近8成用戶會搭配大眾運輸使用共享機車，且有約5成表示因此降低購買機車的意願，反映共享機車可補足大眾運輸的最後一哩路，也具備替代私人運具的潛力。但調查也顯示，有83.3%用戶曾因「找不到車」打亂行程，反映共享機車在供給與調度上仍存在挑戰。WeMo 自 2016 年於台北投入共享電動機車服務，至今已來到第10年，全台車隊規模約 1.1 萬台，用戶數突"
         },
         {
-          "title": "算力競爭背後是電力！東元迎70週年，董座利明献：集團未來2至3年營收達千億目標",
-          "link": "https://www.gvm.com.tw/article/133851",
-          "published": "2026-10-17T02:12:00",
-          "summary": "電機大廠東元今年滿七十週年，董事長利明献致詞時表示，未來集團將持續聚焦於電力、動力系統及能源三大業務，擴大全球市場布局，隨著AI資料中心建置需求成長，看好集團營收將在二到三年後達到千億目標。電機大廠東元今年滿七十週年，今天以「AI時代：產業轉型與未來能源」為題舉辦論壇。董事長利明献表示，未來東元將持續聚焦於電力、動力系統及能源三大核心領域，預計未來二到三年，集團營收將突破千億。東元電機今（16）日"
+          "title": "極端長壽的遺傳線索！194歲巨龜還活蹦亂跳，研究：基因開關宛如5歲幼龜",
+          "link": "https://www.gvm.com.tw/article/133834",
+          "published": "2026-10-18T07:20:00",
+          "summary": "科學家一直從動物或超級人瑞身上尋找長壽基因，最新研究針對一隻比同伴多活了一百年的超長壽巨龜，科學家發現，全球最長壽的陸生動物之一、巨龜「喬納森」雖然已經 194 歲，但體內部分控制細胞能量與 DNA 修復的基因開關，竟然仍保持與 5 歲幼龜相似的有序狀態。阿爾達布拉巨龜是陸地上壽命最長的動物之一。研究人員分析動物園記錄後估計，它們的平均壽命約為 80&nbsp;歲，上限約為 94&nbsp;歲。據"
         }
       ]
     },
@@ -59,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "物流減碳只是基本功裕利醫藥總裁周志鴻：永續要深入藥品本身 - 元氣網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://health.udn.com/health/amp/story/124507/9819227&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3J7UAci8KerH3EI1cgFRRx",
-          "published": "2026-10-18T02:43:22+00:00",
-          "summary": "面對全球氣候變遷，醫療體系如何兼顧照護品質與環境永續，已成重要課題。裕利醫藥台灣、香港與澳門市場群總裁周志鴻指出，過去醫療機構談淨零轉型，多著重&nbsp;..."
+          "title": "2026「台灣國際<b>淨零</b>永續展」與「台灣國... | 經貿透視雙周刊",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.trademag.org.tw/page/newsid1/%3Fid%3D7931186%26iz%3D1&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3KLvAcqoH_PAN72c6AFdMi",
+          "published": "2026-10-19T01:33:59+00:00",
+          "summary": "... 淨零永續展（Net-Zero Taiwan）」與「台灣國際智慧能源週（Energy Taiwan ... 淨零永續與能源韌性議題，已成為全球產業共同關注的焦點，進一步彰顯展會&nbsp;..."
         },
         {
-          "title": "能源週、<b>淨零</b>展吸近1.8萬人！AI用電需求成焦點明年10/27再登場 - 壹蘋新聞網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.nextapple.com/finance/20261018/6576B136485F91CA81D59AC709B28D1D&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0moCxYXJbyDB3ykIb0H8dy",
-          "published": "2026-10-18T02:17:21+00:00",
-          "summary": "由外貿協會（TAITRA）與SEMI旗下GESA綠能暨永續發展聯盟共同主辦的2026「台灣國際淨零永續展（Net-Zero Taiwan）」與「台灣國際智慧能源週（Energy&nbsp;..."
+          "title": "智慧能源週落幕，吸引1.8萬買主參觀，雙展展現科技與永續並進新局 - 財訊快報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.investor.com.tw/onlinenews/NewsContent.asp%3FarticleNo%3D14202610190003&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw01-e9XfLOv7KWq492seEge",
+          "published": "2026-10-18T23:29:23+00:00",
+          "summary": "【財訊快報／記者戴海茜報導】2026「台灣國際淨零永續展（Net-Zero Taiwan）」與「台灣國際智慧能源週（Energy Taiwan）」落幕，總計匯聚超過430家參展企業&nbsp;..."
         },
         {
-          "title": "鼎新數智Agent Space重新定義<b>淨零</b>永續工作新範式 - 工商時報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20261017700286-431203&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3rkj1e8qzRGfkd_qthUXyO",
-          "published": "2026-10-18T02:07:02+00:00",
-          "summary": "鼎新數智表示，以Agent Space讓減碳看得見成效為主題，於永續管理、淨零管理及廠務能源管理三大職能專家Agent。透過多智能體協作，讓企業如何串聯碳排與營運&nbsp;..."
+          "title": "睿田能源助攻公有建築<b>淨零</b>轉型|半導體|產業新聞|產科國際所【IEK產業情報網】",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D5%26nsl_id%3Dccca23262d2843269da7bfb9ca34863f&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1zIj3c4cAbwFp3pyNhO-ZU",
+          "published": "2026-10-18T22:43:15+00:00",
+          "summary": "... 淨零實證經驗逐步拓展至國際市場。 （宋依靜）. 眺望~2027產業發展趨勢研討會. 更多 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
         },
         {
-          "title": "這次聖嬰有多猛？還沒到高峰太平洋海溫就已超越過去3大強聖嬰紀錄 - 倡議家- 聯合新聞網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ubrand.udn.com/ubrand/amp/story/123658/9811275&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw16rs0Cz3-ejrLu4uwci-Y6",
-          "published": "2026-10-18T00:44:55+00:00",
-          "summary": "歐盟氣候監測機構12日表示，隨聖嬰現象持續增強，太平洋一處關鍵海域水溫9月已創下歷史新高，再次凸顯這輪聖嬰現象異常猛烈的威力，全球高溫超標的情況恐&nbsp;..."
+          "title": "樂活/超強厄爾尼諾如何應對\\潘少 - 今日大公",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://epaper.tkww.hk/a/202610/19/AP6ad52992e4b0e1e2ee7413c0.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1H4PI8_F0sXzGmZr-N856e",
+          "published": "2026-10-18T20:24:19+00:00",
+          "summary": "除了山洪、滑坡、泥石流和森林草原火災等災害風險隨之上升，全國氣溫今冬將總體偏高，但寒潮頻次可能偏多。明年夏季高溫熱浪可能更強、影響範圍更廣。 氣候變化&nbsp;..."
         },
         {
-          "title": "從餐桌搶救發燒地球「跨界・植未來」純植論壇港都登場 - PCHOME NEWS",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/living/hoomedia/20261018/index-79225882490698344002.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2yk7_2rhHXWdcTWI7lLpjr",
-          "published": "2026-10-17T23:50:02+00:00",
-          "summary": "【互傳媒／記者蕭任峰／台中報導】面對全球氣候變遷、極端氣候及糧食安全等議題，植物性飲食逐漸成為健康與永續生活的重要討論方向。由純植行動聯盟（南區）&nbsp;..."
+          "title": "中正學院學子揚威國際<b>氣候變遷</b>繪畫賽摘十五獎 - United News Ph",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://unitednews.net.ph/article.php%3Fpost%3D133939&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0rPPJe9RIkvG3OtBIYgsm9",
+          "published": "2026-10-18T17:12:32+00:00",
+          "summary": "( 菲律濱中正學院訊)由臺灣永續能源研究基金會（TAISE）主辦的「2026第十六屆氣候變遷國中小繪畫創作比賽」獲獎名單近日正式揭曉。本校學生表現極為亮眼，&nbsp;..."
         },
         {
-          "title": "尼泊爾洪災重建估478億美元聯合國籲全球承擔責任| 中央廣播電臺 - LINE TODAY",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/9m38Xye&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw24LvwjRdSNDIGqUtUIk61B",
-          "published": "2026-10-17T21:11:10+00:00",
-          "summary": "... 氣候變遷採取行動」。他說：「這同時也是氣候正義與氣候責任的問題。」 達席瓦也警告，溫室氣體排放量低的國家將持續承受氣候變遷帶來的最大衝擊：「除非&nbsp;..."
+          "title": "面對<b>淨零</b>新挑戰，掌握SBTi FINZ國際標準 - 遠見雜誌",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gvm.com.tw/activity/202611_yuanta/%3F%26utm_source%3Dgvm%26utm_medium%3Dgvm%26utm_campaign%3Dad_202611_yuantaesg%26from%3Dhotnews&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3Nwft8N8zxWrZ8nDNpMCxw",
+          "published": "2026-10-18T16:39:46+00:00",
+          "summary": "為協助企業與金融同業加速達成永續發展目標，遠見雜誌攜手元大金控舉辦「2026年ESG工作坊」，以「永續金融賦能」為核心主題，規劃兩場ESG工作坊。11月12日&nbsp;..."
         }
       ]
     }
