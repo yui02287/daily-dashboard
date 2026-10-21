@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-10-20T05:41:36.481543+00:00",
-    "date": "2026-10-20",
+    "generated_at": "2026-10-21T05:45:03.760397+00:00",
+    "date": "2026-10-21",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "AI 模型換晶片免重寫程式碼？亞馬遜推 TorchNeuron，挑戰 NVIDIA CUDA 優勢",
-          "link": "https://techorange.com/2026/10/20/aws-amazon-torchneuron-nvidia-cuda/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-20T04:18:42+00:00",
-          "summary": "從 Google、微軟到亞馬遜，科技巨頭紛紛投入自研 AI 晶片，試圖提供 NVIDIA GPU 以外的算力選擇。然而，NVIDIA 的競爭優勢不只有硬體效能，還包括難以複製的 CUDA 軟體生態系。開發者長期累積的程式碼、運算工具與最佳化技術，讓企業即使想改用其他晶片，也面臨不小的轉換成本。如今，亞馬遜宣稱推出「無須重寫程式碼」的新工具，準備從軟體切入，挑戰這道護城河。 亞馬遜旗下雲端服務事業 "
+          "title": "金屬加工大廠明昌國際攜手台達加速數位轉型，導入設備管理系統 DIAEMS",
+          "link": "https://techorange.com/2026/10/21/delta-diaems/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-21T04:48:01+00:00",
+          "summary": "在數位轉型的浪潮中，智能設備已邁向整線自動化，甚至是智能工廠。然而，在轉型過程中，許多傳統工廠面臨設備故障、停機待料、零件庫存失控，乃至資深技師經驗無法傳承等問題，成為侵蝕企業利潤的隱憂。 深耕金屬機櫃生產技術的製造大廠明昌國際，產品精準對接工具車、醫療推車及存儲機櫃等三大關鍵領域，近年來也積極佈局研發 AI 伺服器機櫃與半導體設備的機構件，以台灣製造、高度靈活的客製化能力享譽國際，兼具 ODM "
         },
         {
-          "title": "「沒有任何一家公司能單打獨鬥。」高通攜手研華、磐石、偲倢生態系夥伴加速工業邊緣 AI 規模化部署與落地",
-          "link": "https://techorange.com/2026/10/20/qualcomm-edge-ai-ecosystem/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-20T02:07:10+00:00",
-          "summary": "隨著 AI 逐步從雲端走進產線、機器人、AI Gateway 與各式邊緣設備，智慧製造現場對即時運算、低功耗與AI推論的需求也日益升高。TechOrange 科技報橘日前與美國高通公司（Qualcomm）共同主辦「2026 AI 智慧大工廠」新竹場論壇，邀集業界專家從晶片平台、工業電腦到設備與 AI 應用現場，探討工業邊緣 AI 如何跨越 POC 鴻溝，走向規模化部署。 高通行銷行政經理朱俊翰以「"
+          "title": "Google 免授權費 Coral NPU 擴大商用：新思國際推最高 400 GOPS 晶片瞄準智慧眼鏡",
+          "link": "https://techorange.com/2026/10/21/unifying-edge-ai-coral-npus-open-standard-brings-portable-energy-viable-intelligence-model-silicon/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-21T04:41:00+00:00",
+          "summary": "Google 持續將 AI 運算從資料中心推向日常裝置，並與半導體業者新思國際（Synaptics）合作，提供開源的 Coral 神經網路處理器（NPU）技術。新思國際於 10 月 20 日發表 Astra SR200 系列處理器，專為智慧眼鏡、攝影機、工業感測器等連網裝置設計，結合 Coral NPU 與記憶體、音訊、影像及運算功能，讓裝置能直接執行 AI 模型，不必依賴昂貴的處理器、持續的網路"
         },
         {
-          "title": "新創 PrismML 把 AI 模型壓縮近 10 倍，個人電腦就能執行，測試分數達原版 98%",
-          "link": "https://techorange.com/2026/10/20/prismml-6gb-ai-model-bonsai-2/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-20T01:33:25+00:00",
-          "summary": "PrismML 發表基於 Qwen3.8 27B 的第二代壓縮模型 Bonsai 2 27B，並將整體容量壓縮到 5.9GB，足以讓使用者於個人電腦或高階智慧型手機中直接執行。"
+          "title": "DeepSeek 把 AI 推論框架開源了！揭露單一叢集日處理 155 兆 Tokens 的系統設計",
+          "link": "https://techorange.com/2026/10/21/deepseek-deepinfer-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-21T03:40:40+00:00",
+          "summary": "單一叢集每天處理 155 兆 Tokens，DeepSeek 如何配置 GPU 與快取，支撐如此龐大的 AI 服務？中國 AI 新創 DeepSeek 10 月 20 日開源推論框架 DeepInfer，同步揭露自家 V4.1 Flash 大規模推論系統的部署細節。 《Bloomberg》分析，這套軟體有助加快 AI 模型執行、提高運算資源效率，DeepSeek 也表示希望藉此降低業界的運算與能源"
         },
         {
-          "title": "【新海底軍備競賽展開】各國投入無人載具巡邏海纜，這些機器能做到什麼？",
-          "link": "https://techorange.com/2026/10/20/new-arms-race/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-20T01:33:14+00:00",
-          "summary": "說到無人機改變戰爭，多數人想到烏俄戰爭。但各國政府與國防企業，正把目光轉向更隱密的戰場：海底。 各國為何砸錢發展海底無人載具？這些機器又真的能做到什麼？ 根據電信研究機構 TeleGeography 統計，截至 2026 年初，全球在役海纜總長超過 150 萬公里；衛星只占美國國際通訊容量的 0.37%，其餘幾乎都靠海纜。除了海纜，海底還有油氣管線，以及把離岸風電送上岸的電力電纜。英國智庫 Cha"
+          "title": "新加坡政府如何因應 AI 代理風險：沿用現行法規、讓政府機關先試驗",
+          "link": "https://techorange.com/2026/10/21/how-to-implement-ai-agents-singapore/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-21T02:34:36+00:00",
+          "summary": "當 AI 代理人接連發生違規事件，各國政府也開始重新檢視既有的監管框架。新加坡數位發展及新聞部高級政務部長 Tan Kiat How 10 月初在國會表示，政府正透過試驗與實驗，了解如何負責任地導入代理式 AI 系統。 所謂代理式 AI，是指能執行動作、與外部系統互動，並能調整自身行為、降低人類介入程度的 AI 系統。Tan Kiat How 指出，這類系統同時帶來機會與風險。 新加坡以試驗摸索代"
         },
         {
-          "title": "手作電商 Etsy 為逾 70% 買家建立 AI 顧客檔案，個人化推薦如何協助平台重返成長？",
-          "link": "https://techorange.com/2026/10/20/etsy-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-20T00:43:22+00:00",
-          "summary": "美國手作商品電商平台 Etsy 正運用 AI 改善商品推薦，透過分析消費者的購物紀錄、偏好與購物情境，為超過 70% 的用戶建立更精細的顧客檔案，協助平台判斷消費者是為自己購物，還是準備購買禮物。 根據《華爾街日報》報導，Etsy 財務長 Lanny Baker 表示，公司正加強個人化購物體驗，而這也是近期業績改善的因素之一。Etsy Marketplace 2026 年第二季的總商品交易額（GM"
+          "title": "【科技早餐】德國攜 NVIDIA 推工業 AI，黃仁勳：下一波是實體 AI",
+          "link": "https://techorange.com/2026/10/21/nvidia-germany-industrial-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-20T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊德國攜 NVIDIA 推工業 AI，西門子工廠展示新應用 德國政府 10 月 19 日與 NVIDIA 簽署合作意向聲明，擬結合德國製造業的工程知識與資料，推進實體 AI 模型，擴大工業 AI 應用並建立歐洲產業生態系。NVIDIA 執行長黃仁勳在柏林投資峰會表示，下一波 AI 是實體 AI，相關技術能增強德國既有的工業專長。總理梅爾茨則呼籲中型"
         },
         {
-          "title": "【科技早餐】微軟傳退出英國 AI 資料中心案，電網供電恐等到 2030 年代",
-          "link": "https://techorange.com/2026/10/20/microsoft-nscale-ai-data-center-power/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-19T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊微軟傳退出英國 AI 資料中心案，電網供電恐等到 2030 年代 微軟（Microsoft）傳出終止與英國雲端基礎設施業者 Nscale 的資料中心協議，讓 AI 擴張的用電瓶頸再度浮上檯面。《Reuters》指出，位於英格蘭艾塞克斯郡 Loughton 的案場多次延誤，電網業者告知 Nscale，預計要到 2030 年代才能供電。微軟拒絕評論，"
+          "title": "QNAP 推出「HDP for Business」，NAS 升級為零信任勒索防禦備份中心",
+          "link": "https://techorange.com/2026/10/20/qnap-hdp-for-businessnas/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-20T10:18:36+00:00",
+          "summary": "面對日益猖獗的勒索軟體攻擊與日趨複雜的混合 IT 架構，企業營運韌性正面臨前所未有的考驗。運算、網通及儲存解決方案領導者威聯通®科技 (QNAP® Systems, Inc.) 今日宣布推出全新企業級備份解決方案 [HDP for Business] Beta 版。其打破傳統備份軟體需額外添購昂貴專用機，讓企業能直接將現有的 QNAP NAS 轉化為強大的集中備份與復原驗證中心，以極具競爭力的總體"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "薔琵颱風動態》颱風假停班停課 ？最新路徑「加速轉彎」週五、六最接近台灣（不斷更新）",
+          "title": "薔琵颱風動態》颱風假停班停課 ？最新路徑「不排除陸警」週五、六起風雨明顯（不斷更新）",
           "link": "https://www.gvm.com.tw/article/133864",
-          "published": "2026-10-20T00:10:00",
-          "summary": "00:00更新：強颱薔琵逼近，氣象署最新觀測顯示，薔琵目前中心位在鵝鑾鼻東南東方1920公里海面上，以時速22轉26公里速度持續穩定向西北西移動，近中心最大風速每秒55公尺，相當於16級風，瞬間最大陣風每秒68公尺，7級暴風半徑維持250公里，但10級暴風半徑擴大至120公里，預估未來其暴風圈還有擴大趨勢，未來5天路徑預估北轉更明顯，並有逐漸加速再減速轉彎的趨勢。不過由於太平洋高壓強弱仍具變數，颱"
+          "published": "2026-10-21T00:00:00",
+          "summary": "00:00更新：強颱薔琵逼近，氣象署最新觀測顯示，中央氣象署20日晚間8時最新預報，薔琵的路徑逐漸收束，22日靠近台灣東部海面時偏北轉彎，逐漸朝日本前進。薔琵過去強度持續增強、暴風擴大，估計暴風半徑將擴大到300公里；未來120小時全台暴風侵襲率最高依舊落在基隆、宜蘭達63、62%。氣象署說明，由於太平洋高壓強弱仍具變數，颱風後續路徑與發布警報時間尚有不確定性，是否停班停課，仍須依風雨最新狀況以及"
         },
         {
-          "title": "他在巴黎當4年服務生嚐盡社會殘酷：遭人羞辱是家常便飯，弱肉強食到難以置信",
-          "link": "https://www.gvm.com.tw/article/114570",
-          "published": "2026-10-19T20:31:00",
-          "summary": "從校園資源缺乏，到生活成本高漲，巴黎大暴動情況愈演愈烈。一位巴黎餐酒館服務生，帶領我們深入世界上最具標誌性的城市，直入其輝煌的腹地。當時他生活在一個下班後只能筋疲力盡地泡在酒吧的世界；靠著咖啡、麵包、香菸勉強度日；在虐待狂經理手下工作，只為賺取微薄工資，甚至得與同事爭奪小費。（本文節錄自《巴黎侍者》一書，作者：艾德華．奇索姆（Edward Chisholm），麥田出版，以下為摘文。）金融海嘯過境後"
+          "title": "2026金鐘獎》金鐘61戲劇類完整得獎名單！典禮時間、轉播平台、表演節目、主持陣容一次看",
+          "link": "https://www.gvm.com.tw/article/133916",
+          "published": "2026-10-20T23:10:00",
+          "summary": "2026年第61屆金鐘獎，正式邁入嶄新的一年，在這個全台灣影劇、綜藝、電視、串流等領域最大的頒獎舞台上，能夠入圍就是最深刻的肯定。戲劇類頒獎典禮將於10月24日登場，本得獎名單將不斷更新。本篇為戲劇類得獎名單，節目類得獎名單請點此。台灣戲劇圈最大的盛會、一年一度的金鐘獎正式登場，你最期待的戲劇或節目，這次是否有入圍呢？金鐘61 X《遠見》專題報導目錄・2026第61屆戲劇類金鐘獎得獎名單・2026"
         },
         {
-          "title": "91APP詐騙信風暴始末》電商老闆：他們被駭，要我們去扛",
-          "link": "https://www.gvm.com.tw/article/133880",
-          "published": "2026-10-19T19:20:00",
-          "summary": "國內零售SaaS龍頭91APP於10月中爆發重大資安事件，數十家合作品牌客戶資料庫遭駭，真實訂單外流最後成詐騙切入點。詐騙集團宣稱「定期購方案設定錯誤」、「升級VIP批發會員」或「訂單重複扣款」，要求消費者操作網銀或取消自動扣款。然而，比起系統漏洞，更讓品牌錯愕的是通報上的時差，讓窗口在不知情下淪為消費者投訴的擋箭牌，週末更為此大加班，主管機關數發部也緊急啟動行政檢查。《遠見》取得內部信件與受害品"
+          "title": "2026金鐘獎》金鐘61節目類完整得獎名單！典禮時間、轉播平台、表演節目、主持陣容一次看",
+          "link": "https://www.gvm.com.tw/article/133915",
+          "published": "2026-10-20T23:06:00",
+          "summary": "2026年第61屆金鐘獎，正式邁入嶄新的一年，在這個全台灣影劇、綜藝、電視、串流等領域最大的頒獎舞台上，能夠入圍就是最深刻的肯定。節目頒獎典禮將於10月23日登場，本得獎名單將不斷更新。本篇為節目類得獎名單，戲劇類得獎名單請點此。台灣戲劇圈最大的盛會、一年一度的金鐘獎正式登場，你最期待的戲劇或節目，這次是否有入圍呢？金鐘61 X《遠見》專題報導目錄・2026第61屆節目類金鐘獎得獎名單・2026第"
         },
         {
-          "title": "法國抗議演變成失控暴動！愛馬仕、蘋果遭洗劫，馬克宏執政危機升溫",
-          "link": "https://www.gvm.com.tw/article/133878",
-          "published": "2026-10-19T18:13:00",
-          "summary": "法國17日爆發大規模抗議，約55萬人上街、逾2400人遭逮捕，約1500家商店遭破壞。愛馬仕、家樂福、蘋果門市遭洗劫，利摩日百年市政廳遭縱火。這場從物價高漲、教育資源不足延燒的示威，凸顯民眾對生活成本與政府施政的不滿，更衝擊治安、經濟與2027年總統大選，讓馬克宏政府面臨更大政治壓力。法國17日爆發大規模抗議，全國約有110場遊行、55萬人上街，抗議物價高漲、學校資源不足、公共服務縮減。巴黎與馬賽"
+          "title": "嘉義輕軌卡關21年終有譜，若成真可帶來「三大利多」",
+          "link": "https://www.gvm.com.tw/article/133912",
+          "published": "2026-10-20T18:58:00",
+          "summary": "卡關多年的嘉義輕軌，終於有譜！行政院長卓榮泰與嘉義市長黃敏惠10月中旬會商，針對嘉義輕軌達成三項共識，中央同意對嘉義市原提出的輕軌藍線可行性研究擴大延伸評估，來滿足嘉義地區的產業與都市發展需求。若嘉義輕軌最終拍板定案，預計可為嘉義市帶來三項發展利多。高鐵通車後，串起台灣西部走廊的交通與產業命脈，但嘉義市身為雲林、嘉義地區、北台南經濟消費與產業圈的生活中心，這幾年卻因欠缺高鐵聯外軌道系統，意外成為孤"
         },
         {
-          "title": "高調工作仍重要！開會老說這句，升遷加薪都注定不會有？",
-          "link": "https://www.gvm.com.tw/article/133872",
-          "published": "2026-10-19T17:14:00",
-          "summary": "最近聽到有人分享某個資深上班族，在開會老說一句話，結果注定加薪升遷都不會包括他。我必須說，默默耕耘永遠不會被看見的，該高調工作時，還是得高調。該怎麼高調又不會太張揚？我想舉一個前同事的經驗，他可以說是最懂得「高調工作」的人，結果不到一年就被其他公司高薪挖角，快樂遠離前東家。前陣子，職場上盛行「安靜離職（Quiet Quitting）」的討論。許多跨國調查與社群趨勢顯示，不少年輕世代選擇收斂熱情、按"
+          "title": "台股衝5萬點，台積電領漲？「多頭總司令」張錫：靠「這兩點」挑出強股",
+          "link": "https://www.gvm.com.tw/article/133911",
+          "published": "2026-10-20T18:46:00",
+          "summary": "台股挑戰5萬點大關，外資卻持續賣超，AI概念股也出現震盪，現在還能進場嗎？被市場稱為「台股多頭總司令」的基富通證券顧問張錫，對台股後市依舊樂觀。今（20）日他指出，外資今年雖賣超約2兆元，但持有台股資產市值增加逾20兆元，賣股更多是獲利了結，而非看壞台灣市場。尤其台積電（2330）在全球AI供應鏈的地位難以撼動，隨著台股重新挑戰5萬點，真正值得投資人注意的，不是外資賣了多少，而是哪些股票能靠基本面"
         },
         {
-          "title": "《沙央》湯湘竹、湯詠絮父女攜手拍電影！一個等待多年的導演夢，終於在女兒的演出中實現",
-          "link": "https://www.gvm.com.tw/article/133874",
-          "published": "2026-10-19T17:05:00",
-          "summary": "電影《沙央》由湯湘竹執導、湯詠絮主演，入圍第63屆金馬獎5項大獎，透過馬來西亞不同族群的成長故事，描繪人與人之間的理解與關愛。從事電影工作30多年的湯湘竹，花了十多年醞釀劇本，終於完成首部劇情長片，更特別的是，女兒湯詠絮也參與演出，讓這部電影成為父女共同完成的珍貴回憶，也見證一段跨越世代的電影緣分。電影《沙央》是金馬獎最佳紀錄片導演湯湘竹執導的首部劇情長片，由葉如芬、王禮霖監製，集結湯詠絮、米婭法"
+          "title": "55元早餐永遠只收30元？麥味登不只賣早餐：「價目表外」的服務藏暖心",
+          "link": "https://www.gvm.com.tw/article/133910",
+          "published": "2026-10-20T18:41:00",
+          "summary": "「阿伯，今天一樣30元。」老人家點點頭，熟練地從口袋拿出30元，只是他不知道，這份早餐真正的售價是55元。少掉的25元，從來沒有出現在店裡的帳單上，而是由吳店長默默補足。這個秘密，一維持就是一年多。對阿伯而言，他始終相信自己是憑著能力支付早餐；對吳店長而言，這份心意是替一位長輩守住了日常生活裡最珍貴的尊嚴。（本文節錄自《麥味登　溫暖你的每一天》一書，作者：卓靖倫，王筱君／商周出版。）一家早餐店，可"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "臺南國際論壇聚焦自然解方推動城市降溫與都市林| 台灣好新聞 - LINE TODAY",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/pepoRYp&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw19ZZiC9JD5BRuhgs2xnBUr",
-          "published": "2026-10-20T04:24:21+00:00",
-          "summary": "... 淨零、韌性與永續共融的城市願景邁進。 論壇由環境部氣候變遷署張根穆副署長分享都市林與自然碳匯政策，成功大學林子平教授探討都市綠地、水域及通風環境&nbsp;..."
+          "title": "臺荷共同舉辦「農業與糧食韌性國際研討會」 尋找<b>氣候變遷</b>下農業生產與糧食供應的解方",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.taiwanhot.net/news/1151639/%25E8%2587%25BA%25E8%258D%25B7%25E5%2585%25B1%25E5%2590%258C%25E8%2588%2589%25E8%25BE%25A6%25E3%2580%258C%25E8%25BE%25B2%25E6%25A5%25AD%25E8%2588%2587%25E7%25B3%25A7%25E9%25A3%259F%25E9%259F%258C%25E6%2580%25A7%25E5%259C%258B%25E9%259A%259B%25E7%25A0%2594%25E8%25A8%258E%25E6%259C%2583%25E3%2580%258D%2B%25E5%25B0%258B%25E6%2589%25BE%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E4%25B8%258B%25E8%25BE%25B2%25E6%25A5%25AD%25E7%2594%259F%25E7%2594%25A2%25E8%2588%2587%25E7%25B3%25A7%25E9%25A3%259F%25E4%25BE%259B%25E6%2587%2589%25E7%259A%2584%25E8%25A7%25A3%25E6%2596%25B9&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0DJ3EkyC-6uiZet3UCZfQ2",
+          "published": "2026-10-21T05:05:49+00:00",
+          "summary": "氣候變遷帶來的極端氣候，使土壤與環境管理面臨嚴峻挑戰。國立中興大學土壤環境科學系簡士濠教授於會中發表關於環太平洋農業生態系統的土壤有機碳（SOC）預測&nbsp;..."
         },
         {
-          "title": "高科大菁英學院邀陽明海運蔡豐明董座分享航運轉型 - 鑫台灣財經網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://3kingtw.com/3523/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2LfrI1qOuPbTiMyQcpERdk",
-          "published": "2026-10-20T04:23:19+00:00",
-          "summary": "面對全球淨零排放趨勢、ESG治理要求及數位科技快速演進，航運產業正迎來營運模式與競爭策略的結構性轉變。國立高雄科技大學（以下簡稱高科大）管理學院「菁英&nbsp;..."
+          "title": "安踏(02020.HK)：可持續發展是集團層面核心戰略目標2050年前實現<b>碳中和</b>",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://hk.finance.yahoo.com/news/%25E5%25AE%2589%25E8%25B8%258F-02020-hk-%25E5%258F%25AF%25E6%258C%2581%25E7%25BA%258C%25E7%2599%25BC%25E5%25B1%2595%25E6%2598%25AF%25E9%259B%2586%25E5%259C%2598%25E5%25B1%25A4%25E9%259D%25A2%25E6%25A0%25B8%25E5%25BF%2583%25E6%2588%25B0%25E7%2595%25A5-%25E7%259B%25AE%25E6%25A8%25992050%25E5%25B9%25B4%25E5%2589%258D%25E5%25AF%25A6%25E7%258F%25BE%25E7%25A2%25B3%25E4%25B8%25AD%25E5%2592%258C-043753566.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1IkH1KiBrbtpLcl1v-yk7J",
+          "published": "2026-10-21T05:04:10+00:00",
+          "summary": "安踏(02020.HK)執行董事、聯席CEO吳永華於「2026可持續全球領導者大會」上表示，可持續發展是安踏集團層面的核心戰略，面向消費者、員工、合作夥伴、社會和&nbsp;..."
         },
         {
-          "title": "從剩食救援到糧食韌性，食物銀行五年搶救逾1400 公噸食物 - CSRone 永續智庫",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://csrone.com/news/10158&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3TqmvdqiBO9Q11tyuZMiiW",
-          "published": "2026-10-20T03:34:03+00:00",
-          "summary": "碳費 CBAM ESG報告 淨零排放 TCFD 永續報告書 GRI準則 碳中和 &middot; CSRone &middot; 深度 ... 氣候變遷的選項。」 全方位糧食韌性：食物銀行是修補供應鏈斷點的樞紐."
+          "title": "碳排放權成交量破10億噸陸促COP31聚焦新舊問題 - 翻爆",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://turnnewsapp.com/livenews/chinav3/20261021002116-260409&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1U8nx7aeNH3QVY8NZBYod5",
+          "published": "2026-10-21T04:37:36+00:00",
+          "summary": "大陸生態環境部副部長李高20日在記者會上表示，大陸將組團參加11月9日至20日在土耳其安塔利亞（Antalya）舉辦的第31屆聯合國氣候變遷大會（COP31），意即&nbsp;..."
         },
         {
-          "title": "桃園綠色採購達5.9 億元連續15年獲中央肯定共創<b>淨零</b>生活 - 台灣大紀元",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.epochtimes.com.tw/n516240/%25E6%25A1%2583%25E5%259C%2592%25E7%25B6%25A0%25E8%2589%25B2%25E6%258E%25A1%25E8%25B3%25BC%25E9%2581%2594-5%25E3%2580%25829-%25E5%2584%2584%25E5%2585%2583%25E9%2580%25A3%25E7%25BA%258C15%25E5%25B9%25B4%25E7%258D%25B2%25E4%25B8%25AD%25E5%25A4%25AE%25E8%2582%25AF%25E5%25AE%259A--%25E5%2585%25B1%25E5%2589%25B5%25E6%25B7%25A8%25E9%259B%25B6%25E7%2594%259F%25E6%25B4%25BB.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2LAjXgxd-sE5AaFzn924qY",
-          "published": "2026-10-20T03:30:54+00:00",
-          "summary": "桃園市政府推動綠色採購再獲肯定，榮獲環境部114 年度「機關綠色採購評核優等單位」，寫下連續15 年獲獎紀錄。114."
+          "title": "安平古蹟面臨2公尺淹水風險，將衝擊20億元觀光！綠色和平：八成民意盼政策納入氣候調適",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://csr.cw.com.tw/article/44874&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1aPdX5eSkGI0p76AbfQvGy",
+          "published": "2026-10-21T04:36:46+00:00",
+          "summary": "綠色和平發布「氣候調適卡緊做，莫讓古都變水都！」記者會，揭露在現況與未來升溫2°C 情境下，安平運河沿線等多處指標性古蹟在短延時強降雨下面臨淹水風險，恐將&nbsp;..."
         },
         {
-          "title": "桃園綠色採購連續15年獲中央肯定市府採購達5.9 億元帶動企業與民眾共創<b>淨零</b>生活",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tydep.tycg.gov.tw/News_Content.aspx%3Fn%3D20082%26s%3D1911113&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw38DlaaS5f_vysjOAwWqImz",
-          "published": "2026-10-20T02:43:39+00:00",
-          "summary": "依114 年度採購成果估算，市府機關選購環境友善產品，共減少二氧化碳排放312.32 公噸、節省用電59 萬度、節約用水982 噸，整體效益相當於約9.1 萬棵樹木一年吸收&nbsp;..."
+          "title": "李高：加強頂層設計降低氣候變化風險和損害- 香港文匯報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.wenweipo.com/a/202610/21/AP6ad83c24e4b0fa894989be25.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0g9pYh5ZO_002TmBJ6dMrS",
+          "published": "2026-10-21T04:21:46+00:00",
+          "summary": "生態環境部副部長李高21日在國務院新聞辦公室舉行的新聞發布會上表示，生態環境部正在會同有關部門進一步加強頂層設計，努力降低氣候變化風險和損害。"
         },
         {
-          "title": "加州陽光變調，研究示警：海灘消失、野火與極端氣候加劇 - TechNews 科技新報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://technews.tw/2026/10/20/californias-sunshine-takes-a-dark-turn-research-warns-of-vanishing-beaches-wildfires-and-intensifying-extreme-weather/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw101Q-LI7pcg9DtewucRJcs",
-          "published": "2026-10-20T02:08:15+00:00",
-          "summary": "全球暖化正逐漸改變美國加州的自然環境與生活方式。加州最新發布的《第五次氣候變遷評估報告》警告，未來數十年，加州將面臨更多野火、更猛烈的暴雨，&nbsp;..."
+          "title": "南華大學推廣KKF自然農法結合國際生實作展現農業<b>碳中和</b> - 波新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bo6s.com.tw/news_detail.php%3FNewsID%3D117862&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3EWpetoJKEZ6elwhWKB4bu",
+          "published": "2026-10-21T04:04:38+00:00",
+          "summary": "KKF自然農法源自泰國的農業實務經驗，強調運用自然資源與有益微生物，促進土壤健康、農業資源循環及環境友善耕作。南華大學科技學院在既有農法經驗的基礎上，與&nbsp;..."
         }
       ]
     }
