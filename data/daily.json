@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-10-22T05:47:06.453314+00:00",
-    "date": "2026-10-22",
+    "generated_at": "2026-10-23T05:46:04.629481+00:00",
+    "date": "2026-10-23",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "PHP 多年未解的漏洞為何現在才緊急修補？歐洲政府、醫院預防性停站，台灣資安署示警",
-          "link": "https://techorange.com/2026/10/22/php-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-22T04:45:37+00:00",
-          "summary": "廣泛用於 WordPress、Drupal、Joomla 等網站系統的程式語言 PHP，10 月 21 日緊急修補兩項重大漏洞，嚴重程度評分（CVSS v4.0）均達 9.2 分，可能讓未經身分驗證的攻擊者遠端執行程式碼。根據《Reuters》報導，荷蘭鹿特丹港、政府入口網站，以及德國、法國等國政府機關，都因此預防性暫停部分網站服務；台灣資安署也於 22 日發布警訊，呼籲企業儘速修補。 然而，這場"
+          "title": "Hugging Face 推出開源模型 Carbon-X：DNA 基準測試逼近 GPT-6.1 Sol、成本估僅 1/1,800",
+          "link": "https://techorange.com/2026/10/23/hugging-face-bio-carbon-x-dna/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-23T04:36:15+00:00",
+          "summary": "AI 模型分享與開發平台 Hugging Face 近日推出開源 AI 模型 Carbon-X，讓研究人員能貼上 DNA 序列，以自然語言提出問題，並取得模型的解讀、預測或說明。Hugging Face 資深研究科學家 Lewis Tunstall 接受《Business Insider》採訪時表示，Carbon-X 是「首創」的模型，結合 DNA 分析與自然語言，讓研究人員基本上可以「與 DNA"
         },
         {
-          "title": "Anthropic 推主動式 AI 代理 Claude Duet：查發票、備薪資，付款簽約先問你",
-          "link": "https://techorange.com/2026/10/22/anthropic-claude-duet-proactive-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-22T04:12:17+00:00",
-          "summary": "Anthropic 於美國時間 10 月 21 日公布 Claude Duet 研究預覽版，讓 Claude 以「主動式代理」（proactive agent）的方式運作：它不等使用者提問，而是主動檢查已連結的信箱、會計與薪資等應用程式，找出需要處理的事。不過，Anthropic 也替它劃下界線，傳送訊息、付款、簽署文件或刪除資料前，都要先經使用者核准。 AI 代理（AI agent）是能替使用者"
+          "title": "AI 代理上工前，為何需要「工作地圖」？UiPath、SAP、Celonis 搶補關鍵缺口",
+          "link": "https://techorange.com/2026/10/23/ai-agents-process-map-uipath-sap-celonis/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-23T04:24:21+00:00",
+          "summary": "SAP 於美國時間 9 月 22 日在亞特蘭大宣布擴充 Signavio 等工具，協助企業部署、治理與監控 AI 代理（AI agent，能替人執行任務的 AI 系統）；隔天，自動化軟體商 UiPath 在拉斯維加斯的年度大會 FUSION 2026 推出 Cartographer，把散落各處的流程知識整理成一份「工作地圖」（Map of Work）。更早在 5 月，流程智慧（process in"
         },
         {
-          "title": "不必專職資安團隊，專家列出中小企業現在就能做的低成本防詐做法",
-          "link": "https://techorange.com/2026/10/22/fight-ai-scams/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-22T02:05:20+00:00",
-          "summary": "一通聽起來和工作夥伴聲音一模一樣的電話、要求立刻匯款，對中小企業來說，這可能就是一場代價高昂的詐騙。AI 讓詐騙者更容易冒充企業原本信任的人，從老闆到長期合作的廠商都可能被假冒，而資安資源有限的中小企業，一旦受騙，損失往往特別大。 不過，加強防護不一定需要昂貴的技術或專職資安團隊。由 CIO、CTO 等科技高階主管組成的 Forbes Technology Council，邀集專家提出中小企業現在"
+          "title": "「主權不等於自建，握有掌控權才是。」微軟、鴻海、資誠、iKala 等專家共同拆解 AI 主權防線與邊界",
+          "link": "https://techorange.com/2026/10/23/sovereign-ai-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-23T03:19:48+00:00",
+          "summary": "TechOrange 科技報橘於日前舉辦「2026 企業 AI 主權高峰論壇」，以「重塑企業核心競爭力：從 AI 成長引擎到營運韌性」為主軸，集結多位產業專家解析如何在使用 AI 的同時守住主導權，並同時掌握資料、權限與責任的邊界，企業才有底氣放手追求 AI 帶來的成長。科技報橘社長戴季全點出，一方面企業預算正從支付人力轉向支付數位勞動力，另一方面，台灣產業能夠長年贏得客戶信任，靠的正是在使用 A"
         },
         {
-          "title": "【科技早餐】SpaceX、特斯拉評估合併！潛在市值逾 3 兆美元",
-          "link": "https://techorange.com/2026/10/22/spacex-tesla-merger/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-21T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊SpaceX、特斯拉評估合併，潛在市值逾 3 兆美元 太空探索科技公司（SpaceX）執行長馬斯克在美國時間 10 月 20 日法說會證實，SpaceX 與特斯拉（Tesla）已各自成立由獨立董事組成的特別委員會，評估潛在合併。由於他同時涉及兩家公司利益，不能參與委員會討論。雙方尚未談妥交易條件，也不保證會達成協議，後續仍須取得股東支持。《Fin"
+          "title": "資安公司 Bitdefender 推出新型 VPN：保護的不是你，而是你的 AI 代理",
+          "link": "https://techorange.com/2026/10/23/bitdefender-ai-agent-vpn/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-23T01:39:19+00:00",
+          "summary": "資安業者 Bitdefender 推出專門為 AI 代理打造的 VPN 軟體，強調主動隔離每一次連線，使 AI 代理無法被網站或服務追蹤，並能將連線路由到特定國家或地區，繞過地理與區域封鎖。"
         },
         {
-          "title": "AI 訓練使用正版書就合法？NCC 前主委詹婷怡解析 Anthropic 15 億美元著作權爭議",
-          "link": "https://techorange.com/2026/10/21/copyright-ai-anthropic-nicole-chan/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-21T10:35:57+00:00",
-          "summary": "【TO 編輯部導讀】AI 公司 Anthropic 的著作權爭議延燒至台灣，近日外媒揭露，台灣圖書經銷商曾向 Anthropic 合作採購商運送約 563 公噸書籍。而在美國著作權訴訟中，Anthropic 大量購買正版紙本書、拆書掃描成數位檔並銷毀原件的做法，獲法院認定符合合理使用。為何這種看似極端的做法，反而成為 AI 業者的法律防禦策略？NCC 前主委詹婷怡從該判決切入，解析 AI 訓練的著"
+          "title": "台灣軟體業如何擺脫接案模式？政府採購破百億，產品化還缺什麼？",
+          "link": "https://techorange.com/2026/10/23/taiwan-digital-ai-policy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-22T22:00:00+00:00",
+          "summary": "從專案接案走向可規模化的產品經營，是台灣軟體產業長期面臨的轉型課題。數發部近年推動軟體業從專案開發（Project）走向產品經營（Product），希望透過政府採購擴大標準化軟體的市場，今年更公布 2025 年政府電腦軟體共同供應契約採購總額達 107 億元，年增 25%，其中國產產品訂單數量占比達 58%。然而，政府採購能創造市場，不代表業者取得訂單後，就能順利發展出可重複銷售的產品。 10 月"
         },
         {
-          "title": "萬事達卡示範 AI 代理自己買數位服務：企業核准一筆預算，付款 9 次免開帳戶",
-          "link": "https://techorange.com/2026/10/21/mastercard-agent-pay-for-machines/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-21T09:48:43+00:00",
-          "summary": "萬事達卡（Mastercard）美國時間 10 月 20 日宣布開放「機器代理支付」（Agent Pay for Machines，AP4M）早期存取，並在 Cloudflare Connect 大會上示範：AI 代理在企業核准的一筆預算內，自行向多家服務商購買數位服務。 AI 代理是能自主完成任務的軟體，執行任務時，可能要向一家業者購買資料、使用另一家的 AI 模型，再向第三家購買運算資源。萬事"
+          "title": "【科技早餐】Google Cloud 引進 OpenAI GPT-6，兩大 AI 對手跨陣營合作",
+          "link": "https://techorange.com/2026/10/23/google-cloud-openai-gpt6-models/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-22T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊Google Cloud 引進 OpenAI GPT-6 模型，兩大 AI 對手跨陣營合作 Google Cloud 於 10 月 21 日宣布，將 OpenAI 最新的 GPT-6 Astra、GPT-6.1 Sol 與 GPT-6 Luna 模型納入旗下 Model Garden 平台，涵蓋程式開發、專業工作、AI 代理及大量日常應用。目前先"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "把工作交給AI愈做愈錯？專家揭盲點：最不該外包的3件事失守，人會被淘汰",
-          "link": "https://www.gvm.com.tw/article/133929",
-          "published": "2026-10-22T00:00:00",
-          "summary": "AI代理與過往技術最大的不同，在於它不再僅僅是回答問題，而是開始接管任務。它能生成具有邏輯的敘事，並自主規劃達成路徑。這種高度的自主性與流暢感，創造了一個極其危險的誘惑：它讓組織與個人產生一種錯覺，以為我們可以將最核心的「理解與探詢」責任，連同任務本身一起外包給這台自動執行的聰明機器。那麼當AI開始參與決策，人應該做什麼？（本文節錄自《讓AI做事，你做主》一書，作者：連子智／聯經出版。）近年來，討"
+          "title": "2026金鐘獎》金鐘61戲劇類完整得獎名單！節目類因颱風延至週日，典禮異動時間、轉播平台、表演節目、主持陣容一次看",
+          "link": "https://www.gvm.com.tw/article/133916",
+          "published": "2026-10-22T20:55:00",
+          "summary": "因應薔琵颱風颱風的影響，主辦單位表示，節目類頒獎典禮將順延至10月25日舉辦，戲劇類頒獎典禮維持在10月24日。2026年第61屆金鐘獎，正式邁入嶄新的一年，在這個全台灣影劇、綜藝、電視、串流等領域最大的頒獎舞台上，能夠入圍就是最深刻的肯定。戲劇類頒獎典禮將於10月24日登場，本得獎名單將不斷更新。本篇為戲劇類得獎名單，節目類得獎名單請點此。台灣戲劇圈最大的盛會、一年一度的金鐘獎正式登場，你最期待"
         },
         {
-          "title": "看懂企業、看見市場！iKala用AI打通內外資料、助攻智慧轉型",
-          "link": "https://www.gvm.com.tw/article/133884",
-          "published": "2026-10-22T00:00:00",
-          "summary": "身處AI時代，iKala共同創辦人暨集團董事長程世嘉認為，智慧轉型成功的關鍵，在於讓AI同時串接公司內部資料與外部市場。企業如同多了一位策略長，能隨時掌握局勢、做出決策。2025年夏天，麻省理工學院（MIT）研究計畫 NANDA 發布報告指出，全球企業投入生成式AI的金額已逾300億美元，卻有95％的組織尚未取得可衡量的回報，主因是AI沒有真正融入日常工作流程。AI如何落地，因而成為產業關注焦點。"
+          "title": "2026金鐘獎》金鐘61節目類完整得獎名單！節目類因颱風延至週日，典禮異動時間、轉播平台、表演節目、主持陣容一次看",
+          "link": "https://www.gvm.com.tw/article/133915",
+          "published": "2026-10-22T20:54:00",
+          "summary": "因應薔琵颱風颱風的影響，主辦單位表示，節目類頒獎典禮將順延至10月25日舉辦，戲劇類頒獎典禮維持在10月24日。2026年第61屆金鐘獎，正式邁入嶄新的一年，在這個全台灣影劇、綜藝、電視、串流等領域最大的頒獎舞台上，能夠入圍就是最深刻的肯定。節目頒獎典禮將於10月25日登場（因颱風延期），本得獎名單將不斷更新。本篇為節目類得獎名單，戲劇類得獎名單請點此。台灣戲劇圈最大的盛會、一年一度的金鐘獎正式登"
         },
         {
-          "title": "當 AI 人人都會用，什麼才是國際人才的分水嶺？",
-          "link": "https://www.gvm.com.tw/article/133817",
-          "published": "2026-10-22T00:00:00",
-          "summary": "生成式 AI 與即時翻譯工具快速普及，從英文郵件、文件翻譯到跨國資訊整理，語言門檻似乎正在降低。但對經常面對國際客戶與跨國團隊的企業而言，事情並沒有這麼簡單。當 AI 能協助翻譯、寫信與整理內容，企業究竟還需要人才具備什麼能力？星宇航空、輝創電子與安富利從不同產業經驗，分享企業如何重新思考選才、溝通與人才培育。企業正在重新定義「合適的人」缺工、少子化與 AI 工具進入職場，正在改變企業看待人才的方"
+          "title": "台灣半導體業首場合法罷工！美光勞資戰，台中、桃園兩樣情",
+          "link": "https://www.gvm.com.tw/article/133974",
+          "published": "2026-10-22T19:47:00",
+          "summary": "台灣美光（Micron）勞資爭議22日出現重大轉折。颱風來襲，桃園工會11名幹部頂著風雨，今起發動台灣半導體產業史上首場24小時合法罷工；另一邊，美光台中工會昨天（21日）與資方簽署協議，撤回原訂的罷工行動，成為台灣首家透過揚言罷工、成功促使企業調整員工福利的半導體企業。兩地工會先後寫下各自的「第一」，卻走向不同的協商結果，也讓美光的薪酬改革與勞資溝通機制備受關注。台灣美光公司與台中工會21日在台"
         },
         {
-          "title": "65%台灣人曾遇「日常歧視」！無心玩笑也可能傷人，如何停止複製偏見？",
-          "link": "https://www.gvm.com.tw/article/133842",
-          "published": "2026-10-22T00:00:00",
-          "summary": "你我或許都曾有過這樣的經驗，看似出於善意關心或無心玩笑，背後可能隱藏未察覺的日常歧視（Microaggression，過去多稱微歧視）。深耕抗病毒醫療領域的吉立亞醫藥(Gilead Sciences)攜手中華心理衛生協會推動倡議，也從內部實踐多元與平等，期盼更多人看見隱形傷害、終結「日常歧獸」，讓尊重成為日常。世界衛生組織宣示：有心理健康，才有真正的健康。然而，吉立亞醫藥與中華心理衛生協會發布的 "
+          "title": "PHP漏洞逼日本離線，資安院長：強烈資安颱風來襲，台灣怎麼備戰？",
+          "link": "https://www.gvm.com.tw/article/133970",
+          "published": "2026-10-22T19:18:00",
+          "summary": "一個存在超過十年的開源程式語言PHP底層漏洞，為何迫使日本政府機關與連鎖牛丼品牌すき家（Sukiya）等知名企業，連夜關閉網站或者暫停點餐系統服務？當攻擊者開始借助AI工具大幅提升探測與滲透速度，日韓接連傳出資安受害事件。這場由AI推波助瀾的資安風暴，正給台灣企業帶來什麼樣的防禦啟示？10月中旬，日本政壇與企業界經歷了一場罕見的資安震動。日本首相高市早苗昨晚（10/21）罕見在社群平台發文提醒資安"
         },
         {
-          "title": "薔琵颱風動態》颱風假停班停課北北基桃周四晚間宣布，發布海警，最快下午陸警（不斷更新）",
-          "link": "https://www.gvm.com.tw/article/133864",
-          "published": "2026-10-21T23:40:00",
-          "summary": "23:30更新：強烈颱風薔琵逼近，中央氣象署21日晚間11時30分發布颱風薔琵海上颱風警報，警戒範圍包括台灣東北部海面、東南部海面及巴士海峽，目前尚未發布陸上警報；薔琵維持強烈颱風強度，向西北移動，氣象署提醒，台灣附近各海面風浪逐漸增大，東半部沿海可能出現6公尺以上巨浪，民眾應避免前往海邊活動。新北市長侯友宜21日接受媒體訪問表示，薔琵颱風依目前預測，風力、雨勢都相當強，有可能達到停班停課標準，北"
+          "title": "投信業史無前例「四合一」！四大公股投信2028年合併，可望打造資產管理國家隊",
+          "link": "https://www.gvm.com.tw/article/133971",
+          "published": "2026-10-22T19:02:00",
+          "summary": "公股金控整併話題再起！今（22）日第一金控（2892）、兆豐金控（2886）、華南金控（2880）及合庫金控（5880）等四家金控同步召開董事會，稍早一同舉行重大訊息說明記者會，正式拍板通過旗下四家投信「四合一」合併案。這起牽動數十萬名受益人權益、攸關近4000億元資金的大整併，是否真能成為打造「資產管理國家隊」的關鍵？第一金控（2892）、兆豐金控（2886）、合庫金控（5880）及華南金控（2"
         },
         {
-          "title": "擺脫中年發福！每天2200大卡就夠，《逆齡密碼》作者教你健康吃",
-          "link": "https://www.gvm.com.tw/article/133939",
-          "published": "2026-10-21T18:14:00",
-          "summary": "每天2200大卡就夠？《逆齡密碼》作者考克斯指出，中年發福未必是新陳代謝變慢，而是長期熱量攝取過剩。研究發現，人體代謝在20至60歲之間相當穩定。想健康老化，應減少超加工食品、增加原型食物，並提早吃完晚餐，讓身體有約12小時不進食。天下文化新書《逆齡密碼》作者考克斯（David Cox）來台旅遊，並撥冗接受《遠見》專訪。《逆齡密碼》深入探討飲食與老化的關聯，揭示日常飲食如何影響健康與壽命。專訪中，"
+          "title": "美國期中選舉，民主黨贏定了？不能只靠反川普情緒，分析師警告有六大變數",
+          "link": "https://www.gvm.com.tw/article/133972",
+          "published": "2026-10-22T19:00:00",
+          "summary": "美國總統川普支持率跌至31％，47％選民支持民主黨、35％支持共和黨，但民主黨未必能大勝。經濟政策缺乏共識、國會席次競爭激烈、投票率不確定及共和黨資金優勢等六大變數，恐左右2026年美國期中選舉結果。美國總統川普（Donald Trump）支持率持續低迷。路透／益普索（Reuters/Ipsos）19日公布的最新民調，川普施政支持率降至31%，反映選民對物價及其執政表現日益不滿。全國民調也顯示，若"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "AI 資料中心擴張恐讓德州空氣品質倒退20 年，即使走<b>淨零</b>路線氮氧化物排放仍增35%",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://technews.tw/2026/10/22/data-centers-could-erase-decades-of-air-quality-gains/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2ktFuMZqrw1l4ZHAhQJ_pc",
-          "published": "2026-10-22T05:09:43+00:00",
-          "summary": "休士頓先進研究中心（HARC）報告模擬德州資料中心擴張的空污衝擊，結論高度取決於電從哪裡來：最乾淨的情境排放仍會上升，最糟的情境則讓空氣品質倒退回2000&nbsp;..."
+          "title": "受<b>氣候變遷</b>影響歐夏季高溫奪5萬命｜中央社影音新聞 - YouTube",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DktkndIOC3YM&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1Dp0zpqfTC9R1k_RjIF4Ba",
+          "published": "2026-10-23T03:44:07+00:00",
+          "summary": "今年夏天歐洲極端高溫導致超過5萬人死亡，其中接近三分之二的人與人為氣候變遷造成的額外高溫有關，研究團隊分析發現，歐洲6到8月高溫死亡人數比最嚴重&nbsp;..."
         },
         {
-          "title": "加拿大國會議員赴台灣交流挺卑詩<b>淨零</b>館推廣永續科技創新",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.singtao.ca/7661920/2026-10-21/news-%25E5%258A%25A0%25E6%258B%25BF%25E5%25A4%25A7%25E5%259C%258B%25E6%259C%2583%25E8%25AD%25B0%25E5%2593%25A1%25E8%25B5%25B4%25E5%258F%25B0%25E7%2581%25A3%25E4%25BA%25A4%25E6%25B5%2581%2B%2B%2B%2B%25E6%258C%25BA%25E5%258D%2591%25E8%25A9%25A9%25E6%25B7%25A8%25E9%259B%25B6%25E9%25A4%25A8%25E6%258E%25A8%25E5%25BB%25A3%25E6%25B0%25B8%25E7%25BA%258C%25E7%25A7%2591%25E6%258A%2580%25E5%2589%25B5%25E6%2596%25B0/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2GUFMAkUxnV5PTMJVHO9RR",
-          "published": "2026-10-22T05:06:46+00:00",
-          "summary": "加拿大國會議員訪團在史葛洛(前右5)帶領下參觀國際淨零永續展的卑詩淨零館。CTOT 【星島記者黃憶欣報道】多位加拿大國會議員上周在台灣參加國際淨零永續展及&nbsp;..."
+          "title": "第三十一屆環保展台嘉許獎頒獎典禮| 澳門會展經濟報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.macaucee.com.mo/content.asp%3Fid%3D121677&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw210ZPAnteNqh9O64X7hVP6",
+          "published": "2026-10-23T02:42:28+00:00",
+          "summary": "... 淨零碳活動（NZCE）中國工作組以及澳門展貿協會和澳門低碳協會作為承辦單位 ... 今屆MIF和PLPEX獲綠色會展標籤，申請碳中和展台的參展商持續增加，印證標準落地&nbsp;..."
         },
         {
-          "title": "因應<b>氣候變遷</b>加劇、農業缺工農業部推四年總額152億元計畫打造智能韌性農業 - 農傳媒",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.agriharvest.tw/archives/139538/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1MywwaDVqVejEJWuf_1oaM",
-          "published": "2026-10-22T05:03:53+00:00",
-          "summary": "今日行政院會後記者會中，行政院發言人李慧芝轉述院長卓榮泰會中談話指出，農業部自106年推動興建結構加強型溫網室，截至114年輔導面積達2,912公頃，穩定蔬果&nbsp;..."
+          "title": "國籍航空拚<b>淨零</b>／飛行也能很環保！ 三大航空減碳回饋、綠色服務新動向一次看 - 鏡報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.mirrordaily.news/external/1259468&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0-Y7xLy7MDvva-ZhNMOFIE",
+          "published": "2026-10-23T00:43:38+00:00",
+          "summary": "Eco Travel是華航和英國專業機構Climate Impact Partners合作的服務，旅客可以依自己的需求，替航程產生的碳排進行抵換，以實際行動支持永續飛行體驗。平台有中&nbsp;..."
         },
         {
-          "title": "彰化縣攜手華碩推動AI 數位<b>淨零</b>轉型六大專業顧問助企業邁向智慧製造",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.chcg.gov.tw/ch2/newsdetail.aspx%3Fbull_id%3D440174%26utm_source%3Dwebsite%26utm_medium%3Dlist%26utm_campaign%3Dnews01&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3ql9wcSMs3ZllPwfRhI_qu",
-          "published": "2026-10-22T04:36:12+00:00",
-          "summary": "為協助彰化在地企業因應數位轉型、淨零排放等挑戰，彰化縣政府21日於彰化縣農會14樓舉辦「彰化縣AI數位淨零轉型論壇」，攜手華碩科技、緯育TibaM，集結六大&nbsp;..."
+          "title": "國籍航空拚<b>淨零</b>／牡蠣殼也能做毛毯！甘蔗渣變餐具航空公司減碳巧思大公開 - 鏡週刊",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.mirrormedia.mg/story/20261022fin006&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3b7_YUPeyuU8-4THDoKy7j",
+          "published": "2026-10-23T00:41:56+00:00",
+          "summary": "原來牡蠣殼和回收寶特瓶，也能化身成飛機上的毛毯；甘蔗渣還能做成兒童餐具。為了減碳、做環保，國籍航空在機上用品下足功夫，旅客下次搭機時，&nbsp;..."
         },
         {
-          "title": "報告：中國全球氣候治理引領作用日益增強- 香港文匯報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.wenweipo.com/a/202610/22/AP6ad924e8e4b0fa894989d383.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2VbeKh2vITOP0tQPiiUB60",
-          "published": "2026-10-22T02:54:29+00:00",
-          "summary": "截至目前，中國已經同46個發展中國家簽署了60份應對氣候變化南南合作諒解備忘錄。開展了建設低碳示範區、「非洲光帶」「早期預警」「清潔爐灶」等旗艦項目，向&nbsp;..."
+          "title": "環保展台嘉許禮促會展綠色轉型 - 澳門日報電子版",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.macaodaily.com/html/2026-10/23/content_1941736.htm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2JI89Bktx1oyNzwaFugi9p",
+          "published": "2026-10-23T00:05:54+00:00",
+          "summary": "今屆MIF和PLPEX獲綠色會展標籤，申請碳中和展台的參展商持續增加，印證標準落地成效。 ... 此外，今年九月啟動《中國會展產業淨零碳活動優秀實踐案例（2026&nbsp;..."
         },
         {
-          "title": "環境及自然保育基金資助香港可持續消費達致<b>碳中和</b>的態度及行為追蹤研究",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.consumer.org.hk/tc/advocacy/study-report/ecf-sustainable-consumption-study&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3toK__yQItKmd5wYAQw7V7",
-          "published": "2026-10-22T02:52:56+00:00",
-          "summary": "隨着全球各地積極推動碳中和及可持續發展，可持續消費日益被視為應對氣候變化、資源枯竭及環境退化的重要一環。香港特別行政區政府已承諾於2050年前實現碳中&nbsp;..."
+          "title": "世界綠色經濟高峰會召開部長級圓桌會議，探討如何動用綠色投資打造兼具韌性與包容性的全球經濟",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.businesswire.com/news/home/20261022290117/zh-HK&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0fmEeP8SrgATG6ey43u31G",
+          "published": "2026-10-22T23:49:13+00:00",
+          "summary": "... 氣候變遷、環境與能源國務部長Ibrahim Mimrah閣下；阿拉伯城鎮組織秘書長 ... Climate Change &middot; Banking &middot; Socially Responsible Investing &middot; Professional&nbsp;..."
         }
       ]
     }
