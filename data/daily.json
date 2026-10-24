@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-10-23T05:46:04.629481+00:00",
-    "date": "2026-10-23",
+    "generated_at": "2026-10-24T05:25:32.897594+00:00",
+    "date": "2026-10-24",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -11,6 +11,30 @@
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
       "items": [
+        {
+          "title": "【英特爾「機器人準備度差距」報告】邊緣 AI 算力是自動化規模的後盾，專用型 AMR 與工業手臂是產出翻倍主力",
+          "link": "https://techorange.com/2026/10/24/robotics-readiness-gap/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-23T22:29:00+00:00",
+          "summary": "英特爾（Intel）發布《機器人準備度差距報告》（The Robotics Readiness Gap Report），研究深入調查全球 800 位來自美國、中國、德國、日本、英國與韓國的企業高管、資訊科技（IT）主管，以及機器人專家；涵蓋製造業、零售業、醫療保健、國防與智慧城市等五大重要產業。 報告指出，過去大家印象中的機器人，大多是固定在工廠某個位置、只能重複做同一種動作的傳統自動化機械；但現"
+        },
+        {
+          "title": "美國限制外國機器人反傷本土市場？IDC 估人形機器人 2030 年營收較預期少 58%",
+          "link": "https://techorange.com/2026/10/23/fcc-grants-intel-waiver-foreign-made-robotic-devices/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-23T08:28:17+00:00",
+          "summary": "美國聯邦通訊委員會（FCC）限制外國製造的先進機器人新機型進入美國市場，可能對美國人形機器人市場造成衝擊。《Forbes》近日報導指出，這項規定原本是為了保護美國機器人產業，但根據市場研究機構 IDC 的最新研究，人形機器人反而會是受衝擊最大的類別。IDC 預測，到 2030 年，美國人形機器人市場的營收將比未實施限制的基準情境低 58%；相較之下，家用清潔機器人的差距則為 18%。 IDC 指出"
+        },
+        {
+          "title": "華為與 DeepSeek 聯手挑戰 NVIDIA，SemiAnalysis 實測：軟體接近前沿、硬體仍落後",
+          "link": "https://techorange.com/2026/10/23/huawei-deepseek-ascend/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-23T07:57:25+00:00",
+          "summary": "中國 AI 新創 DeepSeek（深度求索）在 9 月 30 日為 6 個儲存庫釋出華為昇騰（Ascend）晶片支援，涵蓋 DeepGEMM、FlashMLA 等自家工具，以及第三方開源框架 TileLang。其中部分工具在 2025 年 DeepSeek「開源週」釋出時，只支援 NVIDIA 晶片。半導體研究機構 SemiAnalysis 在 10 月 21 日發布的報告中，以這次更新為例，分"
+        },
+        {
+          "title": "AI Agent 遇到登入畫面就卡關？1Password 推免交密碼新機制，串接 Meta、OpenAI",
+          "link": "https://techorange.com/2026/10/23/1password-for-agents-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-23T05:20:32+00:00",
+          "summary": "當使用者要求 AI Agent（AI 代理）安排活動、管理行程或處理工作任務時，Agent 可能需要登入多個網站。然而，一旦遇到登入畫面，使用者往往得接手輸入帳號密碼，或直接將密碼提供給 Agent；前者中斷自動化流程，後者則可能使敏感憑證暴露於 AI 模型及相關系統。 為解決這項難題，密碼管理業者 1Password 宣布推出 1Password for Agents，讓 AI Agent 在使"
+        },
         {
           "title": "Hugging Face 推出開源模型 Carbon-X：DNA 基準測試逼近 GPT-6.1 Sol、成本估僅 1/1,800",
           "link": "https://techorange.com/2026/10/23/hugging-face-bio-carbon-x-dna/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -22,30 +46,6 @@
           "link": "https://techorange.com/2026/10/23/ai-agents-process-map-uipath-sap-celonis/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
           "published": "2026-10-23T04:24:21+00:00",
           "summary": "SAP 於美國時間 9 月 22 日在亞特蘭大宣布擴充 Signavio 等工具，協助企業部署、治理與監控 AI 代理（AI agent，能替人執行任務的 AI 系統）；隔天，自動化軟體商 UiPath 在拉斯維加斯的年度大會 FUSION 2026 推出 Cartographer，把散落各處的流程知識整理成一份「工作地圖」（Map of Work）。更早在 5 月，流程智慧（process in"
-        },
-        {
-          "title": "「主權不等於自建，握有掌控權才是。」微軟、鴻海、資誠、iKala 等專家共同拆解 AI 主權防線與邊界",
-          "link": "https://techorange.com/2026/10/23/sovereign-ai-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-23T03:19:48+00:00",
-          "summary": "TechOrange 科技報橘於日前舉辦「2026 企業 AI 主權高峰論壇」，以「重塑企業核心競爭力：從 AI 成長引擎到營運韌性」為主軸，集結多位產業專家解析如何在使用 AI 的同時守住主導權，並同時掌握資料、權限與責任的邊界，企業才有底氣放手追求 AI 帶來的成長。科技報橘社長戴季全點出，一方面企業預算正從支付人力轉向支付數位勞動力，另一方面，台灣產業能夠長年贏得客戶信任，靠的正是在使用 A"
-        },
-        {
-          "title": "資安公司 Bitdefender 推出新型 VPN：保護的不是你，而是你的 AI 代理",
-          "link": "https://techorange.com/2026/10/23/bitdefender-ai-agent-vpn/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-23T01:39:19+00:00",
-          "summary": "資安業者 Bitdefender 推出專門為 AI 代理打造的 VPN 軟體，強調主動隔離每一次連線，使 AI 代理無法被網站或服務追蹤，並能將連線路由到特定國家或地區，繞過地理與區域封鎖。"
-        },
-        {
-          "title": "台灣軟體業如何擺脫接案模式？政府採購破百億，產品化還缺什麼？",
-          "link": "https://techorange.com/2026/10/23/taiwan-digital-ai-policy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-22T22:00:00+00:00",
-          "summary": "從專案接案走向可規模化的產品經營，是台灣軟體產業長期面臨的轉型課題。數發部近年推動軟體業從專案開發（Project）走向產品經營（Product），希望透過政府採購擴大標準化軟體的市場，今年更公布 2025 年政府電腦軟體共同供應契約採購總額達 107 億元，年增 25%，其中國產產品訂單數量占比達 58%。然而，政府採購能創造市場，不代表業者取得訂單後，就能順利發展出可重複銷售的產品。 10 月"
-        },
-        {
-          "title": "【科技早餐】Google Cloud 引進 OpenAI GPT-6，兩大 AI 對手跨陣營合作",
-          "link": "https://techorange.com/2026/10/23/google-cloud-openai-gpt6-models/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-22T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊Google Cloud 引進 OpenAI GPT-6 模型，兩大 AI 對手跨陣營合作 Google Cloud 於 10 月 21 日宣布，將 OpenAI 最新的 GPT-6 Astra、GPT-6.1 Sol 與 GPT-6 Luna 模型納入旗下 Model Garden 平台，涵蓋程式開發、專業工作、AI 代理及大量日常應用。目前先"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "2026金鐘獎》金鐘61戲劇類完整得獎名單！節目類因颱風延至週日，典禮異動時間、轉播平台、表演節目、主持陣容一次看",
-          "link": "https://www.gvm.com.tw/article/133916",
-          "published": "2026-10-22T20:55:00",
-          "summary": "因應薔琵颱風颱風的影響，主辦單位表示，節目類頒獎典禮將順延至10月25日舉辦，戲劇類頒獎典禮維持在10月24日。2026年第61屆金鐘獎，正式邁入嶄新的一年，在這個全台灣影劇、綜藝、電視、串流等領域最大的頒獎舞台上，能夠入圍就是最深刻的肯定。戲劇類頒獎典禮將於10月24日登場，本得獎名單將不斷更新。本篇為戲劇類得獎名單，節目類得獎名單請點此。台灣戲劇圈最大的盛會、一年一度的金鐘獎正式登場，你最期待"
+          "title": "各住各的卻像家人！日本熟齡女性刻意「近居」，如何守護失智的她？",
+          "link": "https://www.gvm.com.tw/article/133925",
+          "published": "2026-10-24T07:00:00",
+          "summary": "在台灣，一人家戶已是主流，2025年底占比首度突破四成。《遠見》調查發現，關於獨居，國內民眾有高達77.6％，比起寂寞更怕意外無人救援。但日本有7位熟齡女性，彼此並非家人，她們不進養老院、也喜歡一人住，各住各的卻互相守望，甚至提前醫生確認發現朋友失智，並且接力陪伴任務。這「個個Seven」成功經驗引起日本媒體關注報導。她們如何十多年來溫馨互相守護？從事文案工作多年的一之坪良江，中年以後某日多年照顧"
         },
         {
-          "title": "2026金鐘獎》金鐘61節目類完整得獎名單！節目類因颱風延至週日，典禮異動時間、轉播平台、表演節目、主持陣容一次看",
+          "title": "2026金鐘獎》金鐘61節目類完整得獎名單！金鐘因颱風二度延期，典禮異動時間、轉播平台、表演節目、主持陣容一次看",
           "link": "https://www.gvm.com.tw/article/133915",
-          "published": "2026-10-22T20:54:00",
-          "summary": "因應薔琵颱風颱風的影響，主辦單位表示，節目類頒獎典禮將順延至10月25日舉辦，戲劇類頒獎典禮維持在10月24日。2026年第61屆金鐘獎，正式邁入嶄新的一年，在這個全台灣影劇、綜藝、電視、串流等領域最大的頒獎舞台上，能夠入圍就是最深刻的肯定。節目頒獎典禮將於10月25日登場（因颱風延期），本得獎名單將不斷更新。本篇為節目類得獎名單，戲劇類得獎名單請點此。台灣戲劇圈最大的盛會、一年一度的金鐘獎正式登"
+          "published": "2026-10-23T20:15:00",
+          "summary": "因應薔琵颱風的影響，主辦單位表示，節目類頒獎典禮將順延至10月25日舉辦，戲劇類頒獎典禮維持在10月24日。但因颱風影響停班停課達兩天，典禮依序順延至10月25日節目類、10月26日戲劇類，星光大道開始時間為晚間5時、頒獎典禮則於晚間7時舉辦，將持續關注颱風動向及市府公告，隨時更新相關資訊。2026年第61屆金鐘獎，正式邁入嶄新的一年，在這個全台灣影劇、綜藝、電視、串流等領域最大的頒獎舞台上，能夠"
         },
         {
-          "title": "台灣半導體業首場合法罷工！美光勞資戰，台中、桃園兩樣情",
-          "link": "https://www.gvm.com.tw/article/133974",
-          "published": "2026-10-22T19:47:00",
-          "summary": "台灣美光（Micron）勞資爭議22日出現重大轉折。颱風來襲，桃園工會11名幹部頂著風雨，今起發動台灣半導體產業史上首場24小時合法罷工；另一邊，美光台中工會昨天（21日）與資方簽署協議，撤回原訂的罷工行動，成為台灣首家透過揚言罷工、成功促使企業調整員工福利的半導體企業。兩地工會先後寫下各自的「第一」，卻走向不同的協商結果，也讓美光的薪酬改革與勞資溝通機制備受關注。台灣美光公司與台中工會21日在台"
+          "title": "2026金鐘獎》金鐘61戲劇類完整得獎名單！金鐘因颱風二度延期，典禮異動時間、轉播平台、表演節目、主持陣容一次看",
+          "link": "https://www.gvm.com.tw/article/133916",
+          "published": "2026-10-23T20:15:00",
+          "summary": "因應薔琵颱風的影響，主辦單位表示，節目類頒獎典禮將順延至10月25日舉辦，戲劇類頒獎典禮維持在10月24日。但因颱風影響停班停課達兩天，典禮依序順延至 10月25節目類、10月26日戲劇類，星光大道開始時間為晚間5時、頒獎典禮則於晚間7時舉辦，將持續關注颱風動向及市府公告，隨時更新相關資訊。2026年第61屆金鐘獎，正式邁入嶄新的一年，在這個全台灣影劇、綜藝、電視、串流等領域最大的頒獎舞台上，能夠"
         },
         {
-          "title": "PHP漏洞逼日本離線，資安院長：強烈資安颱風來襲，台灣怎麼備戰？",
-          "link": "https://www.gvm.com.tw/article/133970",
-          "published": "2026-10-22T19:18:00",
-          "summary": "一個存在超過十年的開源程式語言PHP底層漏洞，為何迫使日本政府機關與連鎖牛丼品牌すき家（Sukiya）等知名企業，連夜關閉網站或者暫停點餐系統服務？當攻擊者開始借助AI工具大幅提升探測與滲透速度，日韓接連傳出資安受害事件。這場由AI推波助瀾的資安風暴，正給台灣企業帶來什麼樣的防禦啟示？10月中旬，日本政壇與企業界經歷了一場罕見的資安震動。日本首相高市早苗昨晚（10/21）罕見在社群平台發文提醒資安"
+          "title": "資安風暴》91APP公布調查報告被AI攻擊，還有其他品牌個資外洩？",
+          "link": "https://www.gvm.com.tw/article/134004",
+          "published": "2026-10-23T19:12:00",
+          "summary": "全台電商遭逢詐騙信風暴，除91APP外，社群亦傳出其他開店平台旗下品牌陸續面臨個資疑慮。91APP最新調查報告證實遭遇AI自主滲透測試系統「ARTEX」攻擊，但破口源自未更新的第三方套件與存放在專案中的金鑰。《遠見》專訪多位資安與雲端專家，解析這場電商供應鏈大考。【目錄】▌哪些品牌傳出疑慮？出事的不只91APP？▌品牌端電商資料外洩原因可能是什麼？▌91APP最新調查報告說了什麼？補償方案有哪些？"
         },
         {
-          "title": "投信業史無前例「四合一」！四大公股投信2028年合併，可望打造資產管理國家隊",
-          "link": "https://www.gvm.com.tw/article/133971",
-          "published": "2026-10-22T19:02:00",
-          "summary": "公股金控整併話題再起！今（22）日第一金控（2892）、兆豐金控（2886）、華南金控（2880）及合庫金控（5880）等四家金控同步召開董事會，稍早一同舉行重大訊息說明記者會，正式拍板通過旗下四家投信「四合一」合併案。這起牽動數十萬名受益人權益、攸關近4000億元資金的大整併，是否真能成為打造「資產管理國家隊」的關鍵？第一金控（2892）、兆豐金控（2886）、合庫金控（5880）及華南金控（2"
+          "title": "台積電運動會喊卡，特別紅包會加碼嗎？員工期待比去年更多",
+          "link": "https://www.gvm.com.tw/article/134003",
+          "published": "2026-10-23T19:03:00",
+          "summary": "原定週六舉行的台積電運動會因颱風驟然喊卡，但十萬同仁最期待的「特別紅包」會隨業績創高再加碼，抑或另有安排？隨著法說會落幕，從毛利率隱憂、德州談判、突發工安風險到外資高達兩千元的目標價大洗牌，五大暗潮湧動的關鍵焦點，帶你看下週如何關注台股護國神山。每年入秋之際，新竹體育場上空飄揚的彩旗與數萬名同仁喊出的宏亮口號，總是將台積電運動會推向半導體界最受矚目的盛會。大家猶記去年輝達創辦人黃仁勳驚喜現身引發的"
         },
         {
-          "title": "美國期中選舉，民主黨贏定了？不能只靠反川普情緒，分析師警告有六大變數",
-          "link": "https://www.gvm.com.tw/article/133972",
-          "published": "2026-10-22T19:00:00",
-          "summary": "美國總統川普支持率跌至31％，47％選民支持民主黨、35％支持共和黨，但民主黨未必能大勝。經濟政策缺乏共識、國會席次競爭激烈、投票率不確定及共和黨資金優勢等六大變數，恐左右2026年美國期中選舉結果。美國總統川普（Donald Trump）支持率持續低迷。路透／益普索（Reuters/Ipsos）19日公布的最新民調，川普施政支持率降至31%，反映選民對物價及其執政表現日益不滿。全國民調也顯示，若"
+          "title": "薔琵颱風動態》路徑偏折打轉，今晚明晨風雨最劇，17地區侵襲率100%、全台停班停課一覽（不斷更新）",
+          "link": "https://www.gvm.com.tw/article/133864",
+          "published": "2026-10-23T18:20:00",
+          "summary": "20:15更新：薔琵颱風暴風圈今（23）日清晨已觸陸，且漸靠近台灣，全台將逐漸被暴風圈籠罩。中央氣象署表示，根據最新資料顯示，薔琵颱風的中心目前在宜蘭東南方海面，向西北轉北北東移動，其暴風圈正籠罩台灣，對台灣及澎湖、馬祖構成威脅。氣象署指出，薔琵颱風中心正朝著台灣東北方向移動，預估今下午到傍晚時移動速度會減慢，甚至出現打轉、不規則運動，不排除登陸宜蘭或東北角，因此預測今傍晚到明日清晨是颱風影響最劇"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "受<b>氣候變遷</b>影響歐夏季高溫奪5萬命｜中央社影音新聞 - YouTube",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3DktkndIOC3YM&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1Dp0zpqfTC9R1k_RjIF4Ba",
-          "published": "2026-10-23T03:44:07+00:00",
-          "summary": "今年夏天歐洲極端高溫導致超過5萬人死亡，其中接近三分之二的人與人為氣候變遷造成的額外高溫有關，研究團隊分析發現，歐洲6到8月高溫死亡人數比最嚴重&nbsp;..."
+          "title": "歐洲熱浪研究：氣候變化致死佔三分之二，今夏逾5萬人喪生 - 星島日報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.singtaousa.com/2026/10/23/news/world/europe-s-heat-claims-50-000-lives-climate-change-blamed-for-two-thirds-of-deaths/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1UsiBsmF0hvghi2FAjmQwo",
+          "published": "2026-10-24T04:06:54+00:00",
+          "summary": "她表示：「僅僅是人類活動（主要是燃燒化石燃料）造成的基礎暖化，就使我們所有人的溫度上升了聽起來相當小的幅度。對許多人來說，額外的攝氏2.5度暖化肯定會使&nbsp;..."
         },
         {
-          "title": "第三十一屆環保展台嘉許獎頒獎典禮| 澳門會展經濟報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.macaucee.com.mo/content.asp%3Fid%3D121677&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw210ZPAnteNqh9O64X7hVP6",
-          "published": "2026-10-23T02:42:28+00:00",
-          "summary": "... 淨零碳活動（NZCE）中國工作組以及澳門展貿協會和澳門低碳協會作為承辦單位 ... 今屆MIF和PLPEX獲綠色會展標籤，申請碳中和展台的參展商持續增加，印證標準落地&nbsp;..."
+          "title": "彰化縣攜手華碩推動AI數位<b>淨零</b>轉型六大專業顧問助企業邁向智慧製造",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://life.tw/article/%25E5%25BD%25B0%25E5%258C%2596%25E7%25B8%25A3%25E6%2594%259C%25E6%2589%258B%25E8%258F%25AF%25E7%25A2%25A9%25E6%258E%25A8%25E5%258B%2595ai%25E6%2595%25B8%25E4%25BD%258D%25E6%25B7%25A8%25E9%259B%25B6%25E8%25BD%2589%25E5%259E%258B-%25E5%2585%25AD%25E5%25A4%25A7%25E5%25B0%2588%25E6%25A5%25AD%25E9%25A1%25A7%25E5%2595%258F%25E5%258A%25A9%25E4%25BC%2581%25E6%25A5%25AD%25E9%2582%2581%25E5%2590%2591%25E6%2599%25BA-3191656&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2dutqsYb10-0G9WFD-tzCT",
+          "published": "2026-10-24T04:05:23+00:00",
+          "summary": "【互傳媒／記者林明佑／彰化報導】為協助彰化在地企業因應數位轉型、淨零排放等挑戰，彰化縣政府21日於彰化縣農會14樓舉辦「彰化縣AI數位淨零轉型論壇」，&nbsp;..."
         },
         {
-          "title": "國籍航空拚<b>淨零</b>／飛行也能很環保！ 三大航空減碳回饋、綠色服務新動向一次看 - 鏡報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.mirrordaily.news/external/1259468&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0-Y7xLy7MDvva-ZhNMOFIE",
-          "published": "2026-10-23T00:43:38+00:00",
-          "summary": "Eco Travel是華航和英國專業機構Climate Impact Partners合作的服務，旅客可以依自己的需求，替航程產生的碳排進行抵換，以實際行動支持永續飛行體驗。平台有中&nbsp;..."
+          "title": "國際物流與運輸盛會落腳高雄！高科大攜手全球學研與產業共築韌性供應鏈 - 波新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bo6s.com.tw/news_detail.php%3FNewsID%3D117994&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw37HVIc-p7EJeuIQDsGZtcZ",
+          "published": "2026-10-24T03:40:07+00:00",
+          "summary": "波新聞─李至文／高雄全球供應鏈面臨地緣政治風險、數位轉型、能源轉型與淨零 ... 氣候變遷及突發事件下所面臨的挑戰。臺灣高度連結國際製造、海運貿易與高&nbsp;..."
         },
         {
-          "title": "國籍航空拚<b>淨零</b>／牡蠣殼也能做毛毯！甘蔗渣變餐具航空公司減碳巧思大公開 - 鏡週刊",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.mirrormedia.mg/story/20261022fin006&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3b7_YUPeyuU8-4THDoKy7j",
-          "published": "2026-10-23T00:41:56+00:00",
-          "summary": "原來牡蠣殼和回收寶特瓶，也能化身成飛機上的毛毯；甘蔗渣還能做成兒童餐具。為了減碳、做環保，國籍航空在機上用品下足功夫，旅客下次搭機時，&nbsp;..."
+          "title": "彰化縣攜手華碩推動AI數位<b>淨零</b>轉型六大專業顧問助企業邁向智慧製造 - Yahoo新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%25BD%25B0%25E5%258C%2596%25E7%25B8%25A3%25E6%2594%259C%25E6%2589%258B%25E8%258F%25AF%25E7%25A2%25A9%25E6%258E%25A8%25E5%258B%2595ai%25E6%2595%25B8%25E4%25BD%258D%25E6%25B7%25A8%25E9%259B%25B6%25E8%25BD%2589%25E5%259E%258B-%25E5%2585%25AD%25E5%25A4%25A7%25E5%25B0%2588%25E6%25A5%25AD%25E9%25A1%25A7%25E5%2595%258F%25E5%258A%25A9%25E4%25BC%2581%25E6%25A5%25AD%25E9%2582%2581%25E5%2590%2591%25E6%2599%25BA%25E6%2585%25A7%25E8%25A3%25BD%25E9%2580%25A0-030202387.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1nDrnbwYq6IDCyu9eelTXi",
+          "published": "2026-10-24T03:26:34+00:00",
+          "summary": "互傳媒／記者林明佑／彰化報導】為協助彰化在地企業因應數位轉型、淨零排放等挑戰，彰化縣政府21日於彰化縣農."
         },
         {
-          "title": "環保展台嘉許禮促會展綠色轉型 - 澳門日報電子版",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.macaodaily.com/html/2026-10/23/content_1941736.htm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2JI89Bktx1oyNzwaFugi9p",
-          "published": "2026-10-23T00:05:54+00:00",
-          "summary": "今屆MIF和PLPEX獲綠色會展標籤，申請碳中和展台的參展商持續增加，印證標準落地成效。 ... 此外，今年九月啟動《中國會展產業淨零碳活動優秀實踐案例（2026&nbsp;..."
+          "title": "彰化縣攜手華碩推動AI數位<b>淨零</b>轉型六大專業顧問助企業邁向智慧製造 - 蕃新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20261024790263&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0_wqU4Y4goHQFH5qMNrng4",
+          "published": "2026-10-24T03:10:02+00:00",
+          "summary": "互傳媒／記者林明佑／彰化報導】為協助彰化在地企業因應數位轉型、淨零排放等挑戰，彰化縣政府21日."
         },
         {
-          "title": "世界綠色經濟高峰會召開部長級圓桌會議，探討如何動用綠色投資打造兼具韌性與包容性的全球經濟",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.businesswire.com/news/home/20261022290117/zh-HK&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0fmEeP8SrgATG6ey43u31G",
-          "published": "2026-10-22T23:49:13+00:00",
-          "summary": "... 氣候變遷、環境與能源國務部長Ibrahim Mimrah閣下；阿拉伯城鎮組織秘書長 ... Climate Change &middot; Banking &middot; Socially Responsible Investing &middot; Professional&nbsp;..."
+          "title": "彰化縣攜手華碩推動AI數位<b>淨零</b>轉型六大專業顧問助企業邁向智慧製造 - 互傳媒",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://hoomedia.com.tw/2026/10/24/176132/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0PapU2HFSlxxXzdPGQUoW1",
+          "published": "2026-10-24T03:04:51+00:00",
+          "summary": "互傳媒／記者林明佑／彰化報導】為協助彰化在地企業因應數位轉型、淨零排放等挑戰，彰化縣政府21日於彰化縣農會14樓舉辦「彰化縣AI數位淨零轉型論壇」，&nbsp;..."
         }
       ]
     }
