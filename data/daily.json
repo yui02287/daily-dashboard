@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-10-24T05:25:32.897594+00:00",
-    "date": "2026-10-24",
+    "generated_at": "2026-10-25T05:44:28.302939+00:00",
+    "date": "2026-10-25",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,10 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "【英特爾「機器人準備度差距」報告】邊緣 AI 算力是自動化規模的後盾，專用型 AMR 與工業手臂是產出翻倍主力",
-          "link": "https://techorange.com/2026/10/24/robotics-readiness-gap/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-23T22:29:00+00:00",
-          "summary": "英特爾（Intel）發布《機器人準備度差距報告》（The Robotics Readiness Gap Report），研究深入調查全球 800 位來自美國、中國、德國、日本、英國與韓國的企業高管、資訊科技（IT）主管，以及機器人專家；涵蓋製造業、零售業、醫療保健、國防與智慧城市等五大重要產業。 報告指出，過去大家印象中的機器人，大多是固定在工廠某個位置、只能重複做同一種動作的傳統自動化機械；但現"
-        },
-        {
-          "title": "美國限制外國機器人反傷本土市場？IDC 估人形機器人 2030 年營收較預期少 58%",
-          "link": "https://techorange.com/2026/10/23/fcc-grants-intel-waiver-foreign-made-robotic-devices/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-23T08:28:17+00:00",
-          "summary": "美國聯邦通訊委員會（FCC）限制外國製造的先進機器人新機型進入美國市場，可能對美國人形機器人市場造成衝擊。《Forbes》近日報導指出，這項規定原本是為了保護美國機器人產業，但根據市場研究機構 IDC 的最新研究，人形機器人反而會是受衝擊最大的類別。IDC 預測，到 2030 年，美國人形機器人市場的營收將比未實施限制的基準情境低 58%；相較之下，家用清潔機器人的差距則為 18%。 IDC 指出"
-        },
-        {
-          "title": "華為與 DeepSeek 聯手挑戰 NVIDIA，SemiAnalysis 實測：軟體接近前沿、硬體仍落後",
-          "link": "https://techorange.com/2026/10/23/huawei-deepseek-ascend/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-23T07:57:25+00:00",
-          "summary": "中國 AI 新創 DeepSeek（深度求索）在 9 月 30 日為 6 個儲存庫釋出華為昇騰（Ascend）晶片支援，涵蓋 DeepGEMM、FlashMLA 等自家工具，以及第三方開源框架 TileLang。其中部分工具在 2025 年 DeepSeek「開源週」釋出時，只支援 NVIDIA 晶片。半導體研究機構 SemiAnalysis 在 10 月 21 日發布的報告中，以這次更新為例，分"
-        },
-        {
-          "title": "AI Agent 遇到登入畫面就卡關？1Password 推免交密碼新機制，串接 Meta、OpenAI",
-          "link": "https://techorange.com/2026/10/23/1password-for-agents-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-23T05:20:32+00:00",
-          "summary": "當使用者要求 AI Agent（AI 代理）安排活動、管理行程或處理工作任務時，Agent 可能需要登入多個網站。然而，一旦遇到登入畫面，使用者往往得接手輸入帳號密碼，或直接將密碼提供給 Agent；前者中斷自動化流程，後者則可能使敏感憑證暴露於 AI 模型及相關系統。 為解決這項難題，密碼管理業者 1Password 宣布推出 1Password for Agents，讓 AI Agent 在使"
-        },
-        {
-          "title": "Hugging Face 推出開源模型 Carbon-X：DNA 基準測試逼近 GPT-6.1 Sol、成本估僅 1/1,800",
-          "link": "https://techorange.com/2026/10/23/hugging-face-bio-carbon-x-dna/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-23T04:36:15+00:00",
-          "summary": "AI 模型分享與開發平台 Hugging Face 近日推出開源 AI 模型 Carbon-X，讓研究人員能貼上 DNA 序列，以自然語言提出問題，並取得模型的解讀、預測或說明。Hugging Face 資深研究科學家 Lewis Tunstall 接受《Business Insider》採訪時表示，Carbon-X 是「首創」的模型，結合 DNA 分析與自然語言，讓研究人員基本上可以「與 DNA"
-        },
-        {
-          "title": "AI 代理上工前，為何需要「工作地圖」？UiPath、SAP、Celonis 搶補關鍵缺口",
-          "link": "https://techorange.com/2026/10/23/ai-agents-process-map-uipath-sap-celonis/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-23T04:24:21+00:00",
-          "summary": "SAP 於美國時間 9 月 22 日在亞特蘭大宣布擴充 Signavio 等工具，協助企業部署、治理與監控 AI 代理（AI agent，能替人執行任務的 AI 系統）；隔天，自動化軟體商 UiPath 在拉斯維加斯的年度大會 FUSION 2026 推出 Cartographer，把散落各處的流程知識整理成一份「工作地圖」（Map of Work）。更早在 5 月，流程智慧（process in"
+          "title": "【戴季全專欄】市長要考慮的不只是 AI 園區，城市需要的是迎接 AI 時代的治理能力",
+          "link": "https://techorange.com/2026/10/25/taipei-taiwan-ai-city/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-24T22:00:00+00:00",
+          "summary": "台北市長選舉最近討論松山機場遷建打造 AI 園區的政策，首先要肯定實質政策的討論。這是一個值得討論的重大城市發展構想，但這個議題可能要把「松山機場遷移」與「台北發展 AI」分開成兩件事來討論與處理。無論有沒有 AI，松山機場存廢和遷移仍然可以討論。但即使松山機場不遷移，台北也不能因此停止發展 AI。 蓋 AI 園區之前，先釐清城市要發展哪幾層 AI 我們要更進一步思考的是：AI 發展真正稀缺的可能"
         }
       ]
     },
@@ -54,40 +24,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
+          "title": "連3週只上4天班！國外週休三日不減薪、企業還能賺，台灣為何不敢推？",
+          "link": "https://www.gvm.com.tw/article/133724",
+          "published": "2026-10-25T07:00:00",
+          "summary": "10月連續三週上班不超過四天，讓台灣上班族開始認真討論「週休三日」。有民眾在Threads喊話勞動部，好幾週適應下來，是不是發現週休三日其實也沒差？這項想法並非毫無根據。英國61家企業曾試辦六個月、不減薪的四日工作週，員工病假天數減少65％、離職人數下降57％，部分企業的營收甚至微幅成長。然而，台灣勞動部今年2月正式回應相關提案後，至今仍未提出全面實施的時程。&nbsp;國外企業能讓員工少上20％"
+        },
+        {
+          "title": "亞洲大學國際研討會看AI下一步：Physical AI走進機器人與智慧醫療",
+          "link": "https://www.gvm.com.tw/article/133944",
+          "published": "2026-10-25T00:00:00",
+          "summary": "亞洲大學將於2026年12月3日至4日舉辦「2026 International Physical AI &amp; Robotics Symposium」國際物理人工智慧與機器人研討會，邀集國內外人工智慧、機器人、自主系統、智慧醫療及產業應用領域專家學者，共同探討 Physical AI 從演算法走向真實世界應用的最新發展。活動由亞洲大學主辦，中國醫藥大學附設醫院、蔡長海教育基金會共同協辦。隨著"
+        },
+        {
+          "title": "「東方底特律」的轉型考驗！向中國電動車開大門，泰國汽車業付出代價",
+          "link": "https://www.gvm.com.tw/article/133998",
+          "published": "2026-10-24T16:00:00",
+          "summary": "紐約時報報導，在泰國，隨著中國車企大舉前往設廠，中國電動車的市占率4年來從幾近於零暴增到85%，讓泰國智庫直呼本國受到的負面影響「遠比我們預想的嚴重」且快得多。報導還提到，泰國的經歷是警示，證明向中國電動車敞開大門可能帶來意想不到的後果。紐時這篇題為「泰國向中國電動汽車敞開大門，如今正付出代價」的報導指出，近5年來，中國電動車龍頭比亞迪已於2024年在泰國建成其第1家海外工廠，面積相當於180個足"
+        },
+        {
+          "title": "手搖飲喝到蛞蝓！誤食恐釀失明、四肢癱瘓，５招預防寄生蟲感染",
+          "link": "https://www.gvm.com.tw/article/133995",
+          "published": "2026-10-24T11:00:00",
+          "summary": "八曜和茶手搖飲驚見活蛞蝓，引爆食安疑慮！讓許多人回想起「金蘭醬油家族生食蝸牛滅門慘案」，更擔心染上寄生蟲。急診醫與營養師示警，誤食蛞蝓恐感染「廣東住血線蟲」引發腦膜炎，潛伏期更可能長達 47 天！本文教你掌握第一時間關鍵處理步驟，與５大預防原則，自保不受害。網友在社群平台 threads 上公開發文表示，自己在喝完八曜和茶手搖飲，要去洗杯子的時發現有倒出一顆東西。起初以為是梅子，想說什麼時候加了梅"
+        },
+        {
+          "title": "台鐵十大荒涼車站出爐，竟包含這「祕境」！冷清原因、在哪一次看",
+          "link": "https://www.gvm.com.tw/article/133468",
+          "published": "2026-10-24T10:00:00",
+          "summary": "台鐵公布2025年各站運量，南迴線內獅站全年僅477人次上下車，日均約1人，蟬聯最荒涼車站。至於全台十大冷門車站榜單揭露，也令人意外，有些可能在周邊長輩年輕時曾繁華一時，也有鐵道迷心中的必遊「祕境」。台鐵指出，內獅等南迴小站地處偏遠、周邊人口少；海端站則被揭露廁所上鎖、月台無椅，轉型與設施改善成為下一步課題。到底有哪些？想參觀該怎麼搭？全文揭露。【目錄】 • 冷清到什麼程度？十大台鐵冷門車站一次看"
+        },
+        {
           "title": "各住各的卻像家人！日本熟齡女性刻意「近居」，如何守護失智的她？",
           "link": "https://www.gvm.com.tw/article/133925",
           "published": "2026-10-24T07:00:00",
           "summary": "在台灣，一人家戶已是主流，2025年底占比首度突破四成。《遠見》調查發現，關於獨居，國內民眾有高達77.6％，比起寂寞更怕意外無人救援。但日本有7位熟齡女性，彼此並非家人，她們不進養老院、也喜歡一人住，各住各的卻互相守望，甚至提前醫生確認發現朋友失智，並且接力陪伴任務。這「個個Seven」成功經驗引起日本媒體關注報導。她們如何十多年來溫馨互相守護？從事文案工作多年的一之坪良江，中年以後某日多年照顧"
-        },
-        {
-          "title": "2026金鐘獎》金鐘61節目類完整得獎名單！金鐘因颱風二度延期，典禮異動時間、轉播平台、表演節目、主持陣容一次看",
-          "link": "https://www.gvm.com.tw/article/133915",
-          "published": "2026-10-23T20:15:00",
-          "summary": "因應薔琵颱風的影響，主辦單位表示，節目類頒獎典禮將順延至10月25日舉辦，戲劇類頒獎典禮維持在10月24日。但因颱風影響停班停課達兩天，典禮依序順延至10月25日節目類、10月26日戲劇類，星光大道開始時間為晚間5時、頒獎典禮則於晚間7時舉辦，將持續關注颱風動向及市府公告，隨時更新相關資訊。2026年第61屆金鐘獎，正式邁入嶄新的一年，在這個全台灣影劇、綜藝、電視、串流等領域最大的頒獎舞台上，能夠"
-        },
-        {
-          "title": "2026金鐘獎》金鐘61戲劇類完整得獎名單！金鐘因颱風二度延期，典禮異動時間、轉播平台、表演節目、主持陣容一次看",
-          "link": "https://www.gvm.com.tw/article/133916",
-          "published": "2026-10-23T20:15:00",
-          "summary": "因應薔琵颱風的影響，主辦單位表示，節目類頒獎典禮將順延至10月25日舉辦，戲劇類頒獎典禮維持在10月24日。但因颱風影響停班停課達兩天，典禮依序順延至 10月25節目類、10月26日戲劇類，星光大道開始時間為晚間5時、頒獎典禮則於晚間7時舉辦，將持續關注颱風動向及市府公告，隨時更新相關資訊。2026年第61屆金鐘獎，正式邁入嶄新的一年，在這個全台灣影劇、綜藝、電視、串流等領域最大的頒獎舞台上，能夠"
-        },
-        {
-          "title": "資安風暴》91APP公布調查報告被AI攻擊，還有其他品牌個資外洩？",
-          "link": "https://www.gvm.com.tw/article/134004",
-          "published": "2026-10-23T19:12:00",
-          "summary": "全台電商遭逢詐騙信風暴，除91APP外，社群亦傳出其他開店平台旗下品牌陸續面臨個資疑慮。91APP最新調查報告證實遭遇AI自主滲透測試系統「ARTEX」攻擊，但破口源自未更新的第三方套件與存放在專案中的金鑰。《遠見》專訪多位資安與雲端專家，解析這場電商供應鏈大考。【目錄】▌哪些品牌傳出疑慮？出事的不只91APP？▌品牌端電商資料外洩原因可能是什麼？▌91APP最新調查報告說了什麼？補償方案有哪些？"
-        },
-        {
-          "title": "台積電運動會喊卡，特別紅包會加碼嗎？員工期待比去年更多",
-          "link": "https://www.gvm.com.tw/article/134003",
-          "published": "2026-10-23T19:03:00",
-          "summary": "原定週六舉行的台積電運動會因颱風驟然喊卡，但十萬同仁最期待的「特別紅包」會隨業績創高再加碼，抑或另有安排？隨著法說會落幕，從毛利率隱憂、德州談判、突發工安風險到外資高達兩千元的目標價大洗牌，五大暗潮湧動的關鍵焦點，帶你看下週如何關注台股護國神山。每年入秋之際，新竹體育場上空飄揚的彩旗與數萬名同仁喊出的宏亮口號，總是將台積電運動會推向半導體界最受矚目的盛會。大家猶記去年輝達創辦人黃仁勳驚喜現身引發的"
-        },
-        {
-          "title": "薔琵颱風動態》路徑偏折打轉，今晚明晨風雨最劇，17地區侵襲率100%、全台停班停課一覽（不斷更新）",
-          "link": "https://www.gvm.com.tw/article/133864",
-          "published": "2026-10-23T18:20:00",
-          "summary": "20:15更新：薔琵颱風暴風圈今（23）日清晨已觸陸，且漸靠近台灣，全台將逐漸被暴風圈籠罩。中央氣象署表示，根據最新資料顯示，薔琵颱風的中心目前在宜蘭東南方海面，向西北轉北北東移動，其暴風圈正籠罩台灣，對台灣及澎湖、馬祖構成威脅。氣象署指出，薔琵颱風中心正朝著台灣東北方向移動，預估今下午到傍晚時移動速度會減慢，甚至出現打轉、不規則運動，不排除登陸宜蘭或東北角，因此預測今傍晚到明日清晨是颱風影響最劇"
         }
       ]
     },
@@ -96,40 +66,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "歐洲熱浪研究：氣候變化致死佔三分之二，今夏逾5萬人喪生 - 星島日報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.singtaousa.com/2026/10/23/news/world/europe-s-heat-claims-50-000-lives-climate-change-blamed-for-two-thirds-of-deaths/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1UsiBsmF0hvghi2FAjmQwo",
-          "published": "2026-10-24T04:06:54+00:00",
-          "summary": "她表示：「僅僅是人類活動（主要是燃燒化石燃料）造成的基礎暖化，就使我們所有人的溫度上升了聽起來相當小的幅度。對許多人來說，額外的攝氏2.5度暖化肯定會使&nbsp;..."
+          "title": "國際環保博覽2026公眾日免費入場梁榮武主講氣候變化講座 - 巴士的報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bastillepost.com/hongkong/article/17042456-%25E5%259C%258B%25E9%259A%259B%25E7%2592%25B0%25E4%25BF%259D%25E5%258D%259A%25E8%25A6%25BD2026%25E5%2585%25AC%25E7%259C%25BE%25E6%2597%25A5%25E5%2585%258D%25E8%25B2%25BB%25E5%2585%25A5%25E5%25A0%25B4-%25E6%25A2%2581%25E6%25A6%25AE%25E6%25AD%25A6%25E4%25B8%25BB%25E8%25AC%259B%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1acmOnrJ4_yGVNItzJ8rI3",
+          "published": "2026-10-25T01:43:06+00:00",
+          "summary": "國際環保博覽2026最後一日（10月29日）特設公眾日免費入場！前天文台助理台長梁榮武主講氣候變化講座，另有廚餘升級再造首飾分享及手作工作坊，一家大細邊玩&nbsp;..."
         },
         {
-          "title": "彰化縣攜手華碩推動AI數位<b>淨零</b>轉型六大專業顧問助企業邁向智慧製造",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://life.tw/article/%25E5%25BD%25B0%25E5%258C%2596%25E7%25B8%25A3%25E6%2594%259C%25E6%2589%258B%25E8%258F%25AF%25E7%25A2%25A9%25E6%258E%25A8%25E5%258B%2595ai%25E6%2595%25B8%25E4%25BD%258D%25E6%25B7%25A8%25E9%259B%25B6%25E8%25BD%2589%25E5%259E%258B-%25E5%2585%25AD%25E5%25A4%25A7%25E5%25B0%2588%25E6%25A5%25AD%25E9%25A1%25A7%25E5%2595%258F%25E5%258A%25A9%25E4%25BC%2581%25E6%25A5%25AD%25E9%2582%2581%25E5%2590%2591%25E6%2599%25BA-3191656&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2dutqsYb10-0G9WFD-tzCT",
-          "published": "2026-10-24T04:05:23+00:00",
-          "summary": "【互傳媒／記者林明佑／彰化報導】為協助彰化在地企業因應數位轉型、淨零排放等挑戰，彰化縣政府21日於彰化縣農會14樓舉辦「彰化縣AI數位淨零轉型論壇」，&nbsp;..."
+          "title": "彰縣攜手華碩推動AI數位<b>淨零</b>轉型6大專業顧問助企業邁向智慧製造 - 蕃新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20261024735117&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3h4hyG_6yKW_cUSyM6MZPn",
+          "published": "2026-10-25T00:39:33+00:00",
+          "summary": "【焦點時報／記者林明佑報導】為協助彰化在地企業因應數位轉型、淨零排放等挑戰，彰化縣政府21日於彰化縣."
         },
         {
-          "title": "國際物流與運輸盛會落腳高雄！高科大攜手全球學研與產業共築韌性供應鏈 - 波新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bo6s.com.tw/news_detail.php%3FNewsID%3D117994&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw37HVIc-p7EJeuIQDsGZtcZ",
-          "published": "2026-10-24T03:40:07+00:00",
-          "summary": "波新聞─李至文／高雄全球供應鏈面臨地緣政治風險、數位轉型、能源轉型與淨零 ... 氣候變遷及突發事件下所面臨的挑戰。臺灣高度連結國際製造、海運貿易與高&nbsp;..."
+          "title": "高雄躍上國際運輸舞台高科大攜手全球夥伴共築供應鏈韌性 - Life 生活網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://life.tw/article/%25E9%25AB%2598%25E9%259B%2584%25E8%25BA%258D%25E4%25B8%258A%25E5%259C%258B%25E9%259A%259B%25E9%2581%258B%25E8%25BC%25B8%25E8%2588%259E%25E5%258F%25B0-%25E9%25AB%2598%25E7%25A7%2591%25E5%25A4%25A7%25E6%2594%259C%25E6%2589%258B%25E5%2585%25A8%25E7%2590%2583%25E5%25A4%25A5%25E4%25BC%25B4%25E5%2585%25B1%25E7%25AF%2589%25E4%25BE%259B%25E6%2587%2589%25E9%258F%2588%25E9%259F%258C%25E6%2580%25A7-3192091&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw09Ll1-DHRbL8Kmkg6icMmN",
+          "published": "2026-10-24T17:19:50+00:00",
+          "summary": "【說新聞記者王萓蓁／高雄報導】全球供應鏈面臨地緣政治風險、數位轉型、能源轉型與淨零 ... 氣候變遷及突發事件下所面臨的挑戰。臺灣高度連結國際製造&nbsp;..."
         },
         {
-          "title": "彰化縣攜手華碩推動AI數位<b>淨零</b>轉型六大專業顧問助企業邁向智慧製造 - Yahoo新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E5%25BD%25B0%25E5%258C%2596%25E7%25B8%25A3%25E6%2594%259C%25E6%2589%258B%25E8%258F%25AF%25E7%25A2%25A9%25E6%258E%25A8%25E5%258B%2595ai%25E6%2595%25B8%25E4%25BD%258D%25E6%25B7%25A8%25E9%259B%25B6%25E8%25BD%2589%25E5%259E%258B-%25E5%2585%25AD%25E5%25A4%25A7%25E5%25B0%2588%25E6%25A5%25AD%25E9%25A1%25A7%25E5%2595%258F%25E5%258A%25A9%25E4%25BC%2581%25E6%25A5%25AD%25E9%2582%2581%25E5%2590%2591%25E6%2599%25BA%25E6%2585%25A7%25E8%25A3%25BD%25E9%2580%25A0-030202387.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1nDrnbwYq6IDCyu9eelTXi",
-          "published": "2026-10-24T03:26:34+00:00",
-          "summary": "互傳媒／記者林明佑／彰化報導】為協助彰化在地企業因應數位轉型、淨零排放等挑戰，彰化縣政府21日於彰化縣農."
+          "title": "醫廢再生綠色轉型萬芳醫院獲國際肯定 - 聯合新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7323/9835425&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1uUgwh9XmVcItGN9uEDXY_",
+          "published": "2026-10-24T16:22:21+00:00",
+          "summary": "萬芳醫院說，吸引全球三十八個國家及地區、逾七五○件作品參賽，醫院以「邁向二○五○淨零：綠色轉型與全面碳治理計畫」，獲「社會與環境責任卓越獎」金獎。 院&nbsp;..."
         },
         {
-          "title": "彰化縣攜手華碩推動AI數位<b>淨零</b>轉型六大專業顧問助企業邁向智慧製造 - 蕃新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20261024790263&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0_wqU4Y4goHQFH5qMNrng4",
-          "published": "2026-10-24T03:10:02+00:00",
-          "summary": "互傳媒／記者林明佑／彰化報導】為協助彰化在地企業因應數位轉型、淨零排放等挑戰，彰化縣政府21日."
+          "title": "年輕不設限科學向未來｜2026何享健青年科學家揭曉儀式成功舉辦 - TradingView",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.tradingview.com/news/gelonghui:255be7993acdf:0/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3peXtYTwy5Woy6_sATVaTn",
+          "published": "2026-10-24T16:00:55+00:00",
+          "summary": "... 氣候變化兩大領域的20位青年科學家，每位獲得200萬元科研資金、分三年撥付，支持其開展具備原創性和突破性的基礎、轉化和應用研究。這場兼具學術深度與公益&nbsp;..."
         },
         {
-          "title": "彰化縣攜手華碩推動AI數位<b>淨零</b>轉型六大專業顧問助企業邁向智慧製造 - 互傳媒",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://hoomedia.com.tw/2026/10/24/176132/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0PapU2HFSlxxXzdPGQUoW1",
-          "published": "2026-10-24T03:04:51+00:00",
-          "summary": "互傳媒／記者林明佑／彰化報導】為協助彰化在地企業因應數位轉型、淨零排放等挑戰，彰化縣政府21日於彰化縣農會14樓舉辦「彰化縣AI數位淨零轉型論壇」，&nbsp;..."
+          "title": "氣候變化：為何必須迅速制定SF6排放國際標準？ - 環境與發展- RFI",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rfi.fr/tw/%25E5%25B0%2588%25E6%25AC%2584%25E6%25AA%25A2%25E7%25B4%25A2/%25E7%2592%25B0%25E5%25A2%2583%25E8%2588%2587%25E7%2599%25BC%25E5%25B1%2595/20261024-%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E5%258C%2596-%25E7%2582%25BA%25E4%25BD%2595%25E5%25BF%2585%25E9%25A0%2588%25E8%25BF%2585%25E9%2580%259F%25E5%2588%25B6%25E5%25AE%259Asf6%25E6%258E%2592%25E6%2594%25BE%25E6%25A8%2599%25E6%25BA%2596&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw04G8rRzZY4AC_52bU0NBZW",
+          "published": "2026-10-24T15:38:30+00:00",
+          "summary": "事實上，中國學者2024年就在自然雜誌發表文章指出，2021年中國的六氟化硫的二氧化碳當量排放量就相當於荷蘭或尼日利亞等國全國的二氧化碳的排放總量。他們警告說&nbsp;..."
         }
       ]
     }
