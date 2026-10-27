@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-10-26T05:47:39.972099+00:00",
-    "date": "2026-10-26",
+    "generated_at": "2026-10-27T05:59:56.334460+00:00",
+    "date": "2026-10-27",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -10,12 +10,67 @@
     {
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
-      "items": []
+      "items": [
+        {
+          "title": "微軟向 6 萬名員工提出自願離職方案：一邊控制成本、一邊加碼 AI 資料中心",
+          "link": "https://techorange.com/2026/10/27/microsoft-buyout-ai-layoff-xbox/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-27T05:02:34+00:00",
+          "summary": "微軟（Microsoft）近日宣布，向約 6 萬名員工提供自願離職方案，占全球員工約 27%。《Reuters》指出，微軟希望藉此控制成本，並支應龐大的 AI 投資。這項方案適用於美國、加拿大、印度與英國參與團隊中，內部職級 70 以下的員工。 微軟人資長 Amy Coleman 在給員工的備忘錄中表示：「這項方案讓正在考慮離開公司的符合資格員工，有了新的選擇，可以在獲得支援的情況下，現在就完成轉"
+        },
+        {
+          "title": "Anthropic 送件上市、第二季首度營業獲利，長期算力合約與模型競爭仍是考驗",
+          "link": "https://techorange.com/2026/10/27/anthropic-ipo-s1/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-27T04:58:02+00:00",
+          "summary": "Anthropic 在美國時間 10 月 26 日向美國證券交易委員會（SEC）遞交上市申請文件 S-1，申請以代號「ANT」在 Nasdaq 掛牌。招股書顯示，第二季營收 115.6 億美元，去年同期為 7.87 億美元；在連續五季營業虧損後，第二季轉為營業獲利 9.74 億美元，據報導，這是 Anthropic 首度單季營業獲利。不過，Anthropic 也在招股書中先提醒投資人：以長期利益為"
+        },
+        {
+          "title": "如何建構能擴展成代理的 AI 技能：先做可獨立測試的專項能力，再交給協調層串接",
+          "link": "https://techorange.com/2026/10/27/ai-skills-to-ai-agents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-27T01:24:15+00:00",
+          "summary": "專家指出 AI 代理所能夠調用的技能（Skills）其實是比起代理本身，企業更應事先準備好的關鍵，只要將設計良好的技能加以組合，理論上就能創造出具有 AI 代理特性的工作流程。"
+        },
+        {
+          "title": "【鋼鐵之城轉攻物理 AI】匹茲堡把研究接上工業現場，客戶就在附近讓產品能快速修正",
+          "link": "https://techorange.com/2026/10/27/steel-to-physical-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-27T01:24:05+00:00",
+          "summary": "AI 正走出螢幕，開始駕駛卡車、檢查設備，在真實世界裡工作。這類能感知環境並採取行動的技術，被稱為「物理 AI」。根據 Crunchbase 統計，2026 年上半年，物理 AI 領域共完成 521 筆融資，募得 474 億美元，超過 2022 至 2024 年 3 年的總和。 競爭重心從生成文字轉向操控機器後，產業需要的條件也跟著改變。除了模型與算力，還得有人製造設備、提供測試場地，也要有客戶願"
+        },
+        {
+          "title": "【科技早餐】AI 算力大戰進入資金淘汰賽？OpenAI 下修估值目標、SpaceX 稱融資 400 億美元",
+          "link": "https://techorange.com/2026/10/27/ai-compute-funding-openai-spacex-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-26T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊OpenAI 估值目標降至 1.25 兆美元，SpaceX 稱完成 400 億美元融資 OpenAI 新一輪募資傳出估值調整。《Bloomberg》引述知情人士報導，公司正洽談募資約 300 億美元，目標估值從 1.4 兆美元降至 1.25 兆美元，減少 1,500 億美元。《Financial Times》指出，部分投資人質疑原先報價，投資意願"
+        }
+      ]
     },
     {
       "feed_name": "遠見雜誌 - 前進的動力",
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
+        {
+          "title": "蔡康永全程聆聽蔣萬安競總造勢！蔡：很成功的活動",
+          "link": "https://www.gvm.com.tw/article/134019",
+          "published": "2026-10-26T20:38:00",
+          "summary": "【編按】台北市長蔣萬安今（26）日成立競選總部，邀集許多國民黨大咖，包括立法院院長韓國瑜、台中市長盧秀燕與新北市長侯友宜等人。日前曾去過台北市長參選人、民進黨立委沈伯洋競總活動的主持人蔡康永，今日也在台北市文化局長蔡詩萍的邀請與陪同下，出席蔣萬安競總活動。隨後，蔡康永也回應他昨日在微博等平台上發表公開信的用意。台北市長蔣萬安競總今天舉行成立大會，主持人蔡康永依約現身。蔡康永受訪時說，是場很成功的活"
+        },
+        {
+          "title": "科學研究證實：職場遭辱罵後工作處理能力降61％，連旁觀者也遭殃",
+          "link": "https://www.gvm.com.tw/article/133927",
+          "published": "2026-10-26T20:33:00",
+          "summary": "南加州大學波拉斯和佛羅里達大學埃雷茲進行了一項研究，調查辱罵會對他人造成什麼影響，結果發現：直接受到辱罵的人，工作處理能力會降低61％，創造性會降低58％。即使不是針對自己，但是當自己所屬的團隊受到辱罵，處理能力也會降低33％，創造性會降低39％。即使只是目睹別人遭到辱罵的旁觀者，處理能力也會降低25％，創造性降低45％。（本文節錄自《科學實證最強習慣大百科》一書，作者：堀田秀吾／三采出版。）南加"
+        },
+        {
+          "title": "2026金鐘獎》金鐘61戲劇類完整得獎名單！戲劇類男女主角由莊凱勛、楊貴媚抱回榮耀；迷你劇男女主角由秦漢、瑞瑪席丹奪下",
+          "link": "https://www.gvm.com.tw/article/133916",
+          "published": "2026-10-26T19:20:00",
+          "summary": "2026年第61屆金鐘獎，正式邁入嶄新的一年，在這個全台灣影劇、綜藝、電視、串流等領域最大的頒獎舞台上，能夠入圍就是最深刻的肯定。在戲劇類頒獎典禮上，獲得主要最大獎的作品為《我們與惡的距離II》，幾乎囊括最重要的幾個大獎，《忘了我記得》，一共獲得6個獎項，也幾乎橫掃技術獎。本篇為戲劇類得獎名單，節目類得獎名單請點此。註：因應薔琵颱風的影響，主辦單位表示，節目類頒獎典禮將順延至10月25日舉辦，戲劇"
+        },
+        {
+          "title": "賈永婕外套「脫太冷穿太熱」曝更年期心聲！中醫教3招滋陰調養",
+          "link": "https://www.gvm.com.tw/article/134002",
+          "published": "2026-10-26T07:20:00",
+          "summary": "民進黨立委賴惠員日前質詢點名，台北101董事長賈永婕國會穿搭不夠純樸掀起熱議。對此賈永婕親曝，自己之所以外套不穿好，老是披著全因「更年期」報到，穿太熱，脫太冷導致。究竟面對更年期熱潮紅、潮熱、盜汗問題，該怎麼辦？中醫師解析這並非單純火氣大，盲目喝冰水退火往往只是治標不治本，本文教你透過溫和茶飲與生活作息調理等 3&nbsp;招，擺脫更年期症狀困擾。賈永婕國會穿著引討論，親揭外套披著是更年期惹禍！民"
+        },
         {
           "title": "體重沒變也別氣餒！沒變瘦還是有用，研究：持續8週運動全身器官出現變化",
           "link": "https://www.gvm.com.tw/article/134001",
@@ -27,30 +82,6 @@
           "link": "https://www.gvm.com.tw/article/133903",
           "published": "2026-10-26T00:00:00",
           "summary": "AI正加速改變醫療，但對醫院管理者而言，真正關鍵的是如何讓科技安全落地、創造臨床價值。中國醫藥大學附設醫院（簡稱中醫大附醫）院長周德陽強調，AI必須從需求出發、經過嚴格驗證，還要真正替醫護減輕負擔。從200人AI團隊到實現虛擬醫院，引領醫療現場重新思考AI的真正價值。當依賴人力的傳統模式難以為繼，醫療體系如何善用AI與數位科技補位、將醫療量能從醫院延伸至社區與家庭，成為重要的課題。日前盛大舉辦的「"
-        },
-        {
-          "title": "2026金鐘獎》金鐘61節目類完整得獎名單！《11點熱吵店》贏得綜藝節目主持人獎、《飢餓遊戲》抱回實境節目主持人榮耀",
-          "link": "https://www.gvm.com.tw/article/133915",
-          "published": "2026-10-25T22:23:00",
-          "summary": "2026年第61屆金鐘獎，正式邁入嶄新的一年，在這個全台灣影劇、綜藝、電視、串流等領域最大的頒獎舞台上，能夠入圍就是最深刻的肯定。節目頒獎典禮於10月25日登場（因颱風延期）。在最受關注的主持人部分，綜藝節目主持人獎由《11點熱吵店》的沈玉琳、Melody獲獎，實境節目主持人獎由《飢餓遊戲》主持群獲獎，生活風格節目主持人獎由《我們回家吧3》曾寶儀抱回。本篇為節目類得獎名單，戲劇類得獎名單請點此。因"
-        },
-        {
-          "title": "「惡緣」往往披著「好康」的外衣！不是迷信：學習德川家康的智慧",
-          "link": "https://www.gvm.com.tw/article/134014",
-          "published": "2026-10-25T22:13:00",
-          "summary": "在日常生活中，每個人都是踏實且努力地過日子，很難想像真的有什麼能夠輕鬆賺大錢的「捷徑」存在。因此，應該要警惕自己，不要在網路上被那些連容貌和來歷都不清楚的人的話術所惑，毫無戒心地上了賊船。只是，棘手的地方就在於，基本上惡緣都是披著「好康」的外衣，要看穿它並不容易。（本文節錄自《你可以選擇不承擔》一書，作者：枡野俊明／平安文化出版。）尤其是那些所謂社會上的成功人士，往往更易於收到來自各方的「好康」，"
-        },
-        {
-          "title": "BMI、體重正常就不算胖？506萬人研究證實：腰圍「多這圈」失智風險狂飆",
-          "link": "https://www.gvm.com.tw/article/134013",
-          "published": "2026-10-25T21:40:00",
-          "summary": "很多人控制體重，第一個盯的是體重計與BMI，但真正更值得拿起來的，可能是一條皮尺。近期一項納入96篇研究的系統性綜述受到關注，研究焦點從單純「胖不胖」，轉向腰圍、腹部肥胖與大腦健康。一項逾506萬人的統合分析顯示，腰圍增加與認知障礙、失智及阿茲海默症風險上升相關。（本文節錄自《精準醫學》一書，作者：曾嶔元，時報出版。）這也讓一個問題更值得追問：體重正常，就真的代表健康嗎？外表看起來不胖的人，體內可"
-        },
-        {
-          "title": "公司愈爛，你愈該留下來？真相是：聰明職場人懂把握「倖存者紅利」",
-          "link": "https://www.gvm.com.tw/article/134012",
-          "published": "2026-10-25T21:17:00",
-          "summary": "那些被貼上糟糕標籤的「爛公司」所能帶來的機遇，往往比中規中矩的公司要多得多。這句話聽起來似乎有悖於主流職場認知，卻千真萬確。公平正義與道德底線，從來都不該是衡量一家公司好爛的核心尺規，有多少能被撬動才是。我們真正要選的，是一條能助推自己職場躍升的通路，而非死守政治正確的窄巷。而正確的破局之道，應當是先摒棄那些形而上的價值執念。（本文節錄自《贓物之書》一書，作者：張力中／商周出版，以下為摘文。）評判"
         }
       ]
     },
@@ -59,40 +90,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "康業服務有限公司以科技點亮社區｜即時新聞｜中港台｜on.cc東網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://hk.on.cc/hk/bkn/cnt/news/20261026/bkn-20261026090015696-1026_00822_001.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0OfnspT--k1IxJddYX3n7D",
-          "published": "2026-10-26T01:13:12+00:00",
-          "summary": "... 氣候變化影響，攜手推動香港於2050 年前邁向碳中和。 身處AI與數碼化的年代，科技創新是推動行業突破的關鍵。康業一直追求創新、擁抱科技，以科技賦能優化&nbsp;..."
+          "title": "醫院綠能永續大創綠能攜手高醫大岡山醫院推<b>淨零</b>減碳 - 匯流新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://cnews.com.tw/%25E9%2586%25AB%25E9%2599%25A2%25E7%25B6%25A0%25E8%2583%25BD%25E6%25B0%25B8%25E7%25BA%258C%25E3%2580%2580%25E5%25A4%25A7%25E5%2589%25B5%25E7%25B6%25A0%25E8%2583%25BD%25E6%2594%259C%25E6%2589%258B%25E9%25AB%2598%25E9%2586%25AB%25E5%25A4%25A7%25E5%25B2%25A1%25E5%25B1%25B1%25E9%2586%25AB%25E9%2599%25A2%25E6%258E%25A8%25E6%25B7%25A8/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw12FOEwOR5wJ3-3i0LN3I98",
+          "published": "2026-10-27T04:12:05+00:00",
+          "summary": "CNEWS匯流新聞網記者郭思嫺／台北報導. 大創綠能打造發電、售電、循環回收的一站式永續能源服務。為深化城市能源步局，大創綠能攜手高雄醫學大學附設高醫&nbsp;..."
         },
         {
-          "title": "內政部攜手臺日韓澳專家打造韌性合作事業新解方",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/public/moi/20261026/index-79297460066420102016.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3_k8rYaAIcvf0QuLeLdup7",
-          "published": "2026-10-26T00:45:21+00:00",
-          "summary": "同時與學者專家及合作社工作者進行對話，尋求合作社在面對氣候變遷等結構性挑戰的「合作社韌性」。 內政部強調，去(114)年是聯合國「第二個國際合作社年&nbsp;..."
+          "title": "綠色航空風暴永續航空燃油的轉型痛點 - 中央廣播電臺",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rti.org.tw/news%3Fuid%3D3%26pid%3D240005&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw36fkV0JzDdi021NICf1Ow2",
+          "published": "2026-10-27T04:10:37+00:00",
+          "summary": "[Rti央廣新聞] 航空業二氧化碳排放量約占全球總排放量的2%至3%，被公認為最難脫碳的產業之一。隨著全球邁向2050年淨零..."
         },
         {
-          "title": "減碳應用凸顯戰略價值|半導體|產業新聞|產科國際所【IEK產業情報網】",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D5%26nsl_id%3D736ce4bfe91c4650b5fa0a15cd713241&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0GFE03aJx7ZJ7naM1dj3k_",
-          "published": "2026-10-25T23:03:20+00:00",
-          "summary": "中鋼落實5G策略目標2050實現碳中和 &middot; 中鋼煉鐵廠拚減碳獲節能績優獎肯定 &middot; 豐興開平盤待 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
+          "title": "竹市「資源循環技術論壇」登場高虹安市長：驅動產業循環經濟| 中央社訊息平台",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/postwrite/chi/448001&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1p1DcKJPVpoj6ESxb2EDUT",
+          "published": "2026-10-27T03:51:19+00:00",
+          "summary": "為邁向2050淨零轉型願景，新竹市政府以「資源循環零廢棄」作為永續城市的重要引擎，環保局21日於集思竹科會議中心2樓舉辦「新竹市資源循環技術論壇」，&nbsp;..."
         },
         {
-          "title": "不只省電，災難來時更不能斷線：台灣醫療怎麼用SusQI 撐住病患？ - CSRone 永續智庫",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://csrone.com/topics/10156&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1XjKtQslqQ7VEhUvoA11VT",
-          "published": "2026-10-25T23:02:52+00:00",
-          "summary": "碳費 CBAM ESG報告 淨零排放 TCFD 永續報告書 GRI準則 碳中和 &middot; CSRone &middot; 深度 ... 氣候變遷帶來的衝擊，進一步連帶影響交通、家庭與社區網絡。而且即便&nbsp;..."
+          "title": "台灣碳封存法規上路、台積電及鴻海加入布局！借鏡英國經驗，CCUS如何降低投資風險",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://esg.businesstoday.com.tw/article/category/190807/post/202610270010/%25E5%258F%25B0%25E7%2581%25A3%25E7%25A2%25B3%25E5%25B0%2581%25E5%25AD%2598%25E6%25B3%2595%25E8%25A6%258F%25E4%25B8%258A%25E8%25B7%25AF%25E3%2580%2581%25E5%258F%25B0%25E7%25A9%258D%25E9%259B%25BB%25E5%258F%258A%25E9%25B4%25BB%25E6%25B5%25B7%25E5%258A%25A0%25E5%2585%25A5%25E5%25B8%2583%25E5%25B1%2580%25EF%25BC%2581%25E5%2580%259F%25E9%258F%25A1%25E8%258B%25B1%25E5%259C%258B%25E7%25B6%2593%25E9%25A9%2597%25EF%25BC%258CCCUS%25E5%25A6%2582%25E4%25BD%2595%25E9%2599%258D%25E4%25BD%258E%25E6%258A%2595%25E8%25B3%2587%25E9%25A2%25A8%25E9%259A%25AA%25E3%2580%2581%25E8%25B5%25B0%25E5%2590%2591%25E5%2595%2586%25E6%25A5%25AD%25E5%258C%2596%25EF%25BC%259F&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0VzIsRkGCX7-UauTTN69sK",
+          "published": "2026-10-27T03:35:09+00:00",
+          "summary": "英國能源安全與淨零部工業碳捕捉策略首席希利（Chloe Healy）指出，英國曾於2010年及2015年前後兩度推動CCS，結果卻不盡理想，關鍵問題之一是要求單一業者承擔從&nbsp;..."
         },
         {
-          "title": "AI軟硬體族群可留意|半導體|產業新聞|產科國際所【IEK產業情報網】",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D6%26nsl_id%3Db60183f61fc14a78b96d30c7f86714cc&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3iV8V0vke64uv81B5V0rKo",
-          "published": "2026-10-25T22:05:15+00:00",
-          "summary": "... 氣候變遷所帶動的農業商機亦可適度留意。 眺望~2027產業發展趨勢研討會. 更多新聞. 四 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
+          "title": "共建綠色「一帶一路」合作向深向實",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=http://big5.locpg.gov.cn/gate/big5/www.locpg.gov.cn/20261027/06ed04e2e1254d25a5caa41effd14dfc/c.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2iZB1eLXLm3YWC6buPJioB",
+          "published": "2026-10-27T03:17:16+00:00",
+          "summary": "當前，全球環境與氣候治理正在從共識邁向實施的關鍵窗口期：聯合國《生物多樣性公約》第十七次締約方大會正對「昆明—蒙特利爾全球生物多樣性框架」開展首次全球&nbsp;..."
         },
         {
-          "title": "環境部擴充產品碳足跡資料庫本土係數對企業有何幫助？ - 經濟日報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/7307/9836804&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2_eksQAgIi0dBK2tsCIbmp",
-          "published": "2026-10-25T16:32:45+00:00",
-          "summary": "... 淨零與氣候韌性衛福部與環境部成立「醫療永續共創聯盟」. 2026-10-21 20:34 ... 淨零綠領加值專案過關即通識級應變人員享考照半價優惠. 2026-10-22 17:02."
+          "title": "盼2030年半數醫學中心落實低碳轉型！衛福部劉越萍司長：醫療韌性應從既有品質改善著手",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://csrone.com/topics/10166&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3rZm2Dc4NKGws-wr7WlaQQ",
+          "published": "2026-10-27T03:08:08+00:00",
+          "summary": "面對極端氣候、高齡化、慢性病增加與醫療人力不足，加上供應鏈的不確定性，醫療體系不僅要思考如何降低碳排，更必須確保重大災害發生時，醫療服務仍能持續&nbsp;..."
         }
       ]
     }
