@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-10-27T05:59:56.334460+00:00",
-    "date": "2026-10-27",
+    "generated_at": "2026-10-28T06:39:15.498335+00:00",
+    "date": "2026-10-28",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,34 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "微軟向 6 萬名員工提出自願離職方案：一邊控制成本、一邊加碼 AI 資料中心",
-          "link": "https://techorange.com/2026/10/27/microsoft-buyout-ai-layoff-xbox/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-27T05:02:34+00:00",
-          "summary": "微軟（Microsoft）近日宣布，向約 6 萬名員工提供自願離職方案，占全球員工約 27%。《Reuters》指出，微軟希望藉此控制成本，並支應龐大的 AI 投資。這項方案適用於美國、加拿大、印度與英國參與團隊中，內部職級 70 以下的員工。 微軟人資長 Amy Coleman 在給員工的備忘錄中表示：「這項方案讓正在考慮離開公司的符合資格員工，有了新的選擇，可以在獲得支援的情況下，現在就完成轉"
+          "title": "主權 AI 不只是自己練大模型，數發部次長侯宜秀：企業導入 AI 代理，先把資料與 Know-how 留在自己手上",
+          "link": "https://techorange.com/2026/10/28/isabel-hou-sovereign-ai-agent-governance/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-28T06:06:07+00:00",
+          "summary": "專訪：戴季全撰稿：張哲瑋 談到主權 AI，不少人的第一印象是台灣要訓練一個自己的大模型。數位發展部政務次長侯宜秀在《全新一週》提出不同看法：從主權的概念來看，主權 AI「一定不是只有硬體，或甚至不是一定只有模型」，資料、治理與安全同樣關鍵。 侯宜秀是律師出身，2025 年 9 月加入政府前，曾任財團法人台灣人工智慧學校基金會秘書長，也是 g0v 零時政府揪松團決策委員。本集節目中，她從主權 AI "
         },
         {
-          "title": "Anthropic 送件上市、第二季首度營業獲利，長期算力合約與模型競爭仍是考驗",
-          "link": "https://techorange.com/2026/10/27/anthropic-ipo-s1/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-27T04:58:02+00:00",
-          "summary": "Anthropic 在美國時間 10 月 26 日向美國證券交易委員會（SEC）遞交上市申請文件 S-1，申請以代號「ANT」在 Nasdaq 掛牌。招股書顯示，第二季營收 115.6 億美元，去年同期為 7.87 億美元；在連續五季營業虧損後，第二季轉為營業獲利 9.74 億美元，據報導，這是 Anthropic 首度單季營業獲利。不過，Anthropic 也在招股書中先提醒投資人：以長期利益為"
+          "title": "Anthropic 主管停考程式面試、Snowflake 新聘七至八成是初階工程師：AI 時代新人反而更搶手？",
+          "link": "https://techorange.com/2026/10/28/anthropic-hunger-beats-tenure-advice-junior-engineers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-28T05:05:53+00:00",
+          "summary": "近日，AI 公司 Anthropic 工程經理 Felix Rieseberg 發表文章表示，他已不再於招募時使用傳統程式面試，並認為在 AI 時代，相對新進的工程師同樣有機會做出成果、超越年資更久的同事。資料與 AI 平台 Snowflake 工程資深副總裁 Vivek Raghunathan 先前也在《Fast Company》撰文指出，Snowflake 目前的招募名額中，初階工程師占 70"
         },
         {
-          "title": "如何建構能擴展成代理的 AI 技能：先做可獨立測試的專項能力，再交給協調層串接",
-          "link": "https://techorange.com/2026/10/27/ai-skills-to-ai-agents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-27T01:24:15+00:00",
-          "summary": "專家指出 AI 代理所能夠調用的技能（Skills）其實是比起代理本身，企業更應事先準備好的關鍵，只要將設計良好的技能加以組合，理論上就能創造出具有 AI 代理特性的工作流程。"
+          "title": "Anduril 聯手高通推「美國造」筆電 BlueChip，晶片擬交台積電亞利桑那廠，面板等零件仍是缺口",
+          "link": "https://techorange.com/2026/10/28/anduril-qualcomm-bluechip-us-made-laptop/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-28T04:48:26+00:00",
+          "summary": "以軍用無人機與 AI 軟體聞名的美國國防科技公司 Anduril，在美國時間 10 月 27 日與高通（Qualcomm）宣布推出電腦產品線 BlueChip，首款產品是在美國設計、組裝的強固型筆電，鎖定政府、國防、第一線救難與公共安全單位，預計 2027 年開始接單。Anduril 稱，以零組件採購成本計算，原型機約 32% 來自美國本土，加上盟國供應商則超過 90%；Anduril 創辦人 P"
         },
         {
-          "title": "【鋼鐵之城轉攻物理 AI】匹茲堡把研究接上工業現場，客戶就在附近讓產品能快速修正",
-          "link": "https://techorange.com/2026/10/27/steel-to-physical-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-27T01:24:05+00:00",
-          "summary": "AI 正走出螢幕，開始駕駛卡車、檢查設備，在真實世界裡工作。這類能感知環境並採取行動的技術，被稱為「物理 AI」。根據 Crunchbase 統計，2026 年上半年，物理 AI 領域共完成 521 筆融資，募得 474 億美元，超過 2022 至 2024 年 3 年的總和。 競爭重心從生成文字轉向操控機器後，產業需要的條件也跟著改變。除了模型與算力，還得有人製造設備、提供測試場地，也要有客戶願"
+          "title": "Google 推 Genie 4 邁向「混合式世界模型」，為何生成虛擬世界還要加入 Gemini？",
+          "link": "https://techorange.com/2026/10/28/google-deepmind-genie-4-world-model/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-28T03:20:43+00:00",
+          "summary": "AI 不只能生成圖片、影片，還能創造一個可以走進去探索、即時改變場景的虛擬世界。Google DeepMind 在美國時間 10/27 發表新一代世界模型（World Model）Genie 4，不只提升虛擬環境的真實感，還能同步生成聲音、模擬人物行動，讓使用者在探索過程中持續改變場景。 更值得注意的是，Google 這次讓 Gemini 參與世界模擬，利用大型語言模型的推理能力，協助規劃、追蹤複"
         },
         {
-          "title": "【科技早餐】AI 算力大戰進入資金淘汰賽？OpenAI 下修估值目標、SpaceX 稱融資 400 億美元",
-          "link": "https://techorange.com/2026/10/27/ai-compute-funding-openai-spacex-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-26T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊OpenAI 估值目標降至 1.25 兆美元，SpaceX 稱完成 400 億美元融資 OpenAI 新一輪募資傳出估值調整。《Bloomberg》引述知情人士報導，公司正洽談募資約 300 億美元，目標估值從 1.4 兆美元降至 1.25 兆美元，減少 1,500 億美元。《Financial Times》指出，部分投資人質疑原先報價，投資意願"
+          "title": "【token 變便宜，AI 帳單反而更貴】代理成本 2028 年前增逾 5 倍，Gartner 建議企業為推論分級",
+          "link": "https://techorange.com/2026/10/28/agent-costs-will-rise/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-28T02:33:20+00:00",
+          "summary": "token 越來越便宜，企業的 AI 帳單卻可能越來越貴。市場研究機構 Gartner 預測，token 成本到 2030 年將下降 95%，但代理式工作流程的推論成本，到 2028 年卻將成長超過 5 倍。 Gartner 把這個現象稱為「推論悖論」（Inference Paradox）。不少企業以為 token 單價下降，AI 成本也會跟著降低，但 AI 代理人正在打破這個假設。 token "
+        },
+        {
+          "title": "【科技早餐】Meta AI 投資有多燒錢？擬籌 950 億美元，4 座超大型算力園區同步興建",
+          "link": "https://techorange.com/2026/10/28/meta-ai-funding-data-centers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-27T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Meta 擬籌資最高 950 億美元，4 座超大型 AI 算力園區建設中 Meta 在 10 月 26 日宣布啟動約 350 億美元股權發行，包括約 225 億美元普通股及約 125 億美元強制轉換特別股相關存託憑證，並規劃未來透過 C 類股的隨市發行機制，再募集最多約 600 億美元，整體計畫規模合計最高約 950 億美元。不過，後一階段尚未簽"
         }
       ]
     },
@@ -48,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "蔡康永全程聆聽蔣萬安競總造勢！蔡：很成功的活動",
-          "link": "https://www.gvm.com.tw/article/134019",
-          "published": "2026-10-26T20:38:00",
-          "summary": "【編按】台北市長蔣萬安今（26）日成立競選總部，邀集許多國民黨大咖，包括立法院院長韓國瑜、台中市長盧秀燕與新北市長侯友宜等人。日前曾去過台北市長參選人、民進黨立委沈伯洋競總活動的主持人蔡康永，今日也在台北市文化局長蔡詩萍的邀請與陪同下，出席蔣萬安競總活動。隨後，蔡康永也回應他昨日在微博等平台上發表公開信的用意。台北市長蔣萬安競總今天舉行成立大會，主持人蔡康永依約現身。蔡康永受訪時說，是場很成功的活"
+          "title": "LG將智慧科技藏於空間，將價值留給時間",
+          "link": "https://www.gvm.com.tw/article/133942",
+          "published": "2026-10-28T00:00:00",
+          "summary": "迎向永續與數位浪潮，奢華飯店與高端商業的空間規劃，從坪數極致利用的考量，轉向更重視使用者的身心感受與人機協作友善的智慧體驗。對此，新北北海溫泉洲際酒店、爾聲空間設計，兩家業者紛紛展現長期思維，雕琢出貼近人性需求的質感場域。若要塑造兼顧功能性與長久使用的場景，不光是內部硬體的堆疊，而是需要在初期與設計者、營運方深度對談，洞悉實體場域的隱性瓶頸。看見這股轉型趨勢，LG電子（LG）跳脫傳統硬體設備商的角"
         },
         {
-          "title": "科學研究證實：職場遭辱罵後工作處理能力降61％，連旁觀者也遭殃",
-          "link": "https://www.gvm.com.tw/article/133927",
-          "published": "2026-10-26T20:33:00",
-          "summary": "南加州大學波拉斯和佛羅里達大學埃雷茲進行了一項研究，調查辱罵會對他人造成什麼影響，結果發現：直接受到辱罵的人，工作處理能力會降低61％，創造性會降低58％。即使不是針對自己，但是當自己所屬的團隊受到辱罵，處理能力也會降低33％，創造性會降低39％。即使只是目睹別人遭到辱罵的旁觀者，處理能力也會降低25％，創造性降低45％。（本文節錄自《科學實證最強習慣大百科》一書，作者：堀田秀吾／三采出版。）南加"
+          "title": "主管問責不如改「說這句」！古猶太人「哈柏露塔」思考改變溝通結果",
+          "link": "https://www.gvm.com.tw/article/134072",
+          "published": "2026-10-27T19:42:00",
+          "summary": "哈柏露塔一詞源自古代猶太人的教育方式，原本意為「夥伴」或「同伴」，是一種透過彼此提問來擴展思考、探索真理的學習結構。哈柏露塔並不是為了確認「正確答案」，而是一種透過對話拓展思考、擴大視角，並試著理解他人觀點的方式。（本文節錄自《這樣問，讓心意好好被聽見》一書，作者：李秀璟／高寶出版。）小學生P在課堂上總是低頭坐著，從來沒有舉手發言過 。大家說P很「內向」，但其實那個孩子只是害怕被別人嘲笑，所以不敢"
         },
         {
-          "title": "2026金鐘獎》金鐘61戲劇類完整得獎名單！戲劇類男女主角由莊凱勛、楊貴媚抱回榮耀；迷你劇男女主角由秦漢、瑞瑪席丹奪下",
-          "link": "https://www.gvm.com.tw/article/133916",
-          "published": "2026-10-26T19:20:00",
-          "summary": "2026年第61屆金鐘獎，正式邁入嶄新的一年，在這個全台灣影劇、綜藝、電視、串流等領域最大的頒獎舞台上，能夠入圍就是最深刻的肯定。在戲劇類頒獎典禮上，獲得主要最大獎的作品為《我們與惡的距離II》，幾乎囊括最重要的幾個大獎，《忘了我記得》，一共獲得6個獎項，也幾乎橫掃技術獎。本篇為戲劇類得獎名單，節目類得獎名單請點此。註：因應薔琵颱風的影響，主辦單位表示，節目類頒獎典禮將順延至10月25日舉辦，戲劇"
+          "title": "卓榮泰立院報告總預算案：軍公教調薪預算799億元，近10年累計加薪5次",
+          "link": "https://www.gvm.com.tw/article/134071",
+          "published": "2026-10-27T18:36:00",
+          "summary": "行政院長卓榮泰今天赴立法院報告116年度總預算案。他指出，116年度總預算案兼顧國家財政健全，更兼具智慧、科技、建設、發展與公平分配，盼立院儘速審查通過，讓政府有能力照顧更多人民，完成更大建設，維持台灣科技領先地位，確保國安。立法院會邀請卓榮泰、主計長陳淑姿、財政部長莊翠雲列席報告「116年度中央政府總預算案」編製經過並備質詢。卓榮泰指出，116年度總預算案經縝密檢討後編訂，歲入編列新台幣3兆92"
         },
         {
-          "title": "賈永婕外套「脫太冷穿太熱」曝更年期心聲！中醫教3招滋陰調養",
-          "link": "https://www.gvm.com.tw/article/134002",
-          "published": "2026-10-26T07:20:00",
-          "summary": "民進黨立委賴惠員日前質詢點名，台北101董事長賈永婕國會穿搭不夠純樸掀起熱議。對此賈永婕親曝，自己之所以外套不穿好，老是披著全因「更年期」報到，穿太熱，脫太冷導致。究竟面對更年期熱潮紅、潮熱、盜汗問題，該怎麼辦？中醫師解析這並非單純火氣大，盲目喝冰水退火往往只是治標不治本，本文教你透過溫和茶飲與生活作息調理等 3&nbsp;招，擺脫更年期症狀困擾。賈永婕國會穿著引討論，親揭外套披著是更年期惹禍！民"
+          "title": "中山、高雄大學合併研議再啟動！校名協商，學歷認受度進展一次看",
+          "link": "https://www.gvm.com.tw/article/134068",
+          "published": "2026-10-27T17:53:00",
+          "summary": "國立中山大學與國立高雄大學合併案再有進展！高雄大學提出「國立高雄中山大學」作為合併校名，已獲中山大學表達尊重，但雙方協商時程尚未敲定。兩校目標於2026年底前完成合校計畫書草案，若後續程序順利，最快2028年8月掛牌合併。除了校名，系所整併、學生學歷認受度及教職員權益保障，也將是合校能否順利推進的關鍵。討論多年的國立中山大學與國立高雄大學合併案，在重啟併校研議之後，於2026年下半年再有新進展。針"
         },
         {
-          "title": "體重沒變也別氣餒！沒變瘦還是有用，研究：持續8週運動全身器官出現變化",
-          "link": "https://www.gvm.com.tw/article/134001",
-          "published": "2026-10-26T07:00:00",
-          "summary": "許多人開始運動，是為了減重或改善體態，但如果持續運動幾個星期，體重仍然沒有變化，是否代表努力白費？美國最新研究發現，即使體重與體脂肪沒有明顯下降，規律運動仍可能讓身體內部產生廣泛變化，從肌肉、心臟、肝臟到大腦，都會以不同方式回應運動。這項由美國索爾克生物研究所&nbsp;(Salk Institute)&nbsp;參與的研究，以年輕雄性與雌性老鼠為實驗對象，讓運動組自由使用跑輪，持續&nbsp;8"
+          "title": "球星姆巴佩「辱華」言論說了什麼？央視叫停轉播、下架廣告",
+          "link": "https://www.gvm.com.tw/article/134066",
+          "published": "2026-10-27T16:34:00",
+          "summary": "皇家馬德里法籍球星姆巴佩（Kylian Mbappe）涉及中國前領導人毛澤東的言論風波越滾越大，中國官媒央視已從昨晚開始全面暫停涉及西甲與姆巴佩的賽事播出，廣告也遭下架，社群平台小紅書也將姆巴佩的帳號設置為禁言。姆巴佩日前受訪時被問及最愛哪一張以他為主角的網路迷因時，大方坦承最喜歡把他的臉P在毛澤東身上的惡搞圖，並說私下打電動時經常傳給朋友。姆巴佩在球場上與隊內行事風格強勢，因此有部分球迷戲稱他為"
         },
         {
-          "title": "不為AI而AI！中醫大附醫從臨床痛點出發，把科技變成真正的醫療價值",
-          "link": "https://www.gvm.com.tw/article/133903",
-          "published": "2026-10-26T00:00:00",
-          "summary": "AI正加速改變醫療，但對醫院管理者而言，真正關鍵的是如何讓科技安全落地、創造臨床價值。中國醫藥大學附設醫院（簡稱中醫大附醫）院長周德陽強調，AI必須從需求出發、經過嚴格驗證，還要真正替醫護減輕負擔。從200人AI團隊到實現虛擬醫院，引領醫療現場重新思考AI的真正價值。當依賴人力的傳統模式難以為繼，醫療體系如何善用AI與數位科技補位、將醫療量能從醫院延伸至社區與家庭，成為重要的課題。日前盛大舉辦的「"
+          "title": "會外語、懂AI、能跨域！文藻外大教出新世代最搶手的文科生",
+          "link": "https://www.gvm.com.tw/article/133353",
+          "published": "2026-10-27T16:22:00",
+          "summary": "AI能寫文案、即時翻譯，文科生還有優勢嗎？文藻外語大學透過「語言x AI x跨域」模式，致力從AI素養、產業實習到全球雙聯學位，培養能和世界溝通、與AI協作的新世代人才。進入AI時代，生成式AI能寫文案、寫報告、即時翻譯的表現，讓「念文科、外語還有前途嗎？」成了不少學生、家長的疑問。但近來，輝達（NVIDIA）執行長黃仁勳受訪時卻提到，人們已經能用自然語言直接指揮AI，「文科生反而會是AI時代的最"
         }
       ]
     },
@@ -90,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "醫院綠能永續大創綠能攜手高醫大岡山醫院推<b>淨零</b>減碳 - 匯流新聞網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://cnews.com.tw/%25E9%2586%25AB%25E9%2599%25A2%25E7%25B6%25A0%25E8%2583%25BD%25E6%25B0%25B8%25E7%25BA%258C%25E3%2580%2580%25E5%25A4%25A7%25E5%2589%25B5%25E7%25B6%25A0%25E8%2583%25BD%25E6%2594%259C%25E6%2589%258B%25E9%25AB%2598%25E9%2586%25AB%25E5%25A4%25A7%25E5%25B2%25A1%25E5%25B1%25B1%25E9%2586%25AB%25E9%2599%25A2%25E6%258E%25A8%25E6%25B7%25A8/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw12FOEwOR5wJ3-3i0LN3I98",
-          "published": "2026-10-27T04:12:05+00:00",
-          "summary": "CNEWS匯流新聞網記者郭思嫺／台北報導. 大創綠能打造發電、售電、循環回收的一站式永續能源服務。為深化城市能源步局，大創綠能攜手高雄醫學大學附設高醫&nbsp;..."
+          "title": "面對<b>氣候變遷</b>、進口價格競爭，雲林虎尾兩代接力走過20年契作路，攜手守護本土花生",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://smiletaiwan.cw.com.tw/article/9524&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0EOJAtLcHChgyJvvhVyMzT",
+          "published": "2026-10-28T05:30:37+00:00",
+          "summary": "雲林虎尾是台灣重要的花生產地，但面對極端氣候、病蟲害與進口的價格競爭，增加了收成壓力。王澤星接手父親王建朝的棒子，引進「台南18號」品種，轉型友善耕作，&nbsp;..."
         },
         {
-          "title": "綠色航空風暴永續航空燃油的轉型痛點 - 中央廣播電臺",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rti.org.tw/news%3Fuid%3D3%26pid%3D240005&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw36fkV0JzDdi021NICf1Ow2",
-          "published": "2026-10-27T04:10:37+00:00",
-          "summary": "[Rti央廣新聞] 航空業二氧化碳排放量約占全球總排放量的2%至3%，被公認為最難脫碳的產業之一。隨著全球邁向2050年淨零..."
+          "title": "韓國央行：2050年<b>淨零</b>轉型若落實，GDP最多縮減10.2% - BigGo 財經",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://finance.biggo.com.tw/news/9ada7755-59f6-49c7-aefc-04f47f1d697a&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0KMOQIQKv9Ov9JqrPJIy62",
+          "published": "2026-10-28T04:41:40+00:00",
+          "summary": "韓國央行分析2035年國家溫室氣體減量目標的上、下限，模擬出兩條淨零轉型路徑，結果顯示2050年GDP線上性減量情境下將縮減10.2%，提前減量情境則&nbsp;..."
         },
         {
-          "title": "竹市「資源循環技術論壇」登場高虹安市長：驅動產業循環經濟| 中央社訊息平台",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/postwrite/chi/448001&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1p1DcKJPVpoj6ESxb2EDUT",
-          "published": "2026-10-27T03:51:19+00:00",
-          "summary": "為邁向2050淨零轉型願景，新竹市政府以「資源循環零廢棄」作為永續城市的重要引擎，環保局21日於集思竹科會議中心2樓舉辦「新竹市資源循環技術論壇」，&nbsp;..."
+          "title": "李家超：氣候變化加速帶來嚴峻挑戰香港有能力搭建綠色標準橋樑 - 巴士的報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bastillepost.com/hongkong/article/17062640-%25E6%259D%258E%25E5%25AE%25B6%25E8%25B6%2585%25EF%25BC%259A%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E5%258C%2596%25E5%258A%25A0%25E9%2580%259F%25E5%25B8%25B6%25E4%25BE%2586%25E5%259A%25B4%25E5%25B3%25BB%25E6%258C%2591%25E6%2588%25B0-%25E9%25A6%2599%25E6%25B8%25AF%25E6%259C%2589%25E8%2583%25BD%25E5%258A%259B%25E6%2590%25AD&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0lP8MTVCoUMgmjA_W57RKK",
+          "published": "2026-10-28T04:37:05+00:00",
+          "summary": "李家超視訊出席「一個地球高峰論壇」，公布香港首個五年規劃減碳目標，包括2030年前可持續航空燃料使用率達1%至3%、零碳能源佔比升至30%及「零廢堆填」。"
         },
         {
-          "title": "台灣碳封存法規上路、台積電及鴻海加入布局！借鏡英國經驗，CCUS如何降低投資風險",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://esg.businesstoday.com.tw/article/category/190807/post/202610270010/%25E5%258F%25B0%25E7%2581%25A3%25E7%25A2%25B3%25E5%25B0%2581%25E5%25AD%2598%25E6%25B3%2595%25E8%25A6%258F%25E4%25B8%258A%25E8%25B7%25AF%25E3%2580%2581%25E5%258F%25B0%25E7%25A9%258D%25E9%259B%25BB%25E5%258F%258A%25E9%25B4%25BB%25E6%25B5%25B7%25E5%258A%25A0%25E5%2585%25A5%25E5%25B8%2583%25E5%25B1%2580%25EF%25BC%2581%25E5%2580%259F%25E9%258F%25A1%25E8%258B%25B1%25E5%259C%258B%25E7%25B6%2593%25E9%25A9%2597%25EF%25BC%258CCCUS%25E5%25A6%2582%25E4%25BD%2595%25E9%2599%258D%25E4%25BD%258E%25E6%258A%2595%25E8%25B3%2587%25E9%25A2%25A8%25E9%259A%25AA%25E3%2580%2581%25E8%25B5%25B0%25E5%2590%2591%25E5%2595%2586%25E6%25A5%25AD%25E5%258C%2596%25EF%25BC%259F&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0VzIsRkGCX7-UauTTN69sK",
-          "published": "2026-10-27T03:35:09+00:00",
-          "summary": "英國能源安全與淨零部工業碳捕捉策略首席希利（Chloe Healy）指出，英國曾於2010年及2015年前後兩度推動CCS，結果卻不盡理想，關鍵問題之一是要求單一業者承擔從&nbsp;..."
+          "title": "李家超稱香港處於發展新綠色技術有利位置助建綠色標準橋樑- RTHK",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.rthk.hk/rthk/ch/component/k2/1875597-20261028.htm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2xtgzYkjlrmPh4MdPCNeLk",
+          "published": "2026-10-28T04:27:44+00:00",
+          "summary": "李家超在名為「一個地球高峰論壇」上以視訊致辭，會議主題是「智能時代的共同繁榮」。他說加速氣候變化和生物多樣性減少，均帶來了挑戰，意味必須填補綠色資本、&nbsp;..."
         },
         {
-          "title": "共建綠色「一帶一路」合作向深向實",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=http://big5.locpg.gov.cn/gate/big5/www.locpg.gov.cn/20261027/06ed04e2e1254d25a5caa41effd14dfc/c.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2iZB1eLXLm3YWC6buPJioB",
-          "published": "2026-10-27T03:17:16+00:00",
-          "summary": "當前，全球環境與氣候治理正在從共識邁向實施的關鍵窗口期：聯合國《生物多樣性公約》第十七次締約方大會正對「昆明—蒙特利爾全球生物多樣性框架」開展首次全球&nbsp;..."
+          "title": "超級聖嬰襲來總統氣候委員會談高溫調適：擬擴大高溫保險 - 環境資訊中心",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.e-info.org.tw/node/244009&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1S2IDltn-2QJ1pl_slpuP5",
+          "published": "2026-10-28T04:04:53+00:00",
+          "summary": "總統府22日召開氣候變遷對策委員會，會議中討論高溫調適策略與今（2026）年「超級聖嬰」的因應措施。總統賴清德表示，將提前因應聖嬰可能導致糧食、能源或水&nbsp;..."
         },
         {
-          "title": "盼2030年半數醫學中心落實低碳轉型！衛福部劉越萍司長：醫療韌性應從既有品質改善著手",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://csrone.com/topics/10166&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3rZm2Dc4NKGws-wr7WlaQQ",
-          "published": "2026-10-27T03:08:08+00:00",
-          "summary": "面對極端氣候、高齡化、慢性病增加與醫療人力不足，加上供應鏈的不確定性，醫療體系不僅要思考如何降低碳排，更必須確保重大災害發生時，醫療服務仍能持續&nbsp;..."
+          "title": "李家超:香港在綠色資本創新與治理發揮重要作用 - 信報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.hkej.com/landing/mobarticle2/id/4548948/%25E6%259D%258E%25E5%25AE%25B6%25E8%25B6%2585:%25E9%25A6%2599%25E6%25B8%25AF%25E5%259C%25A8%25E7%25B6%25A0%25E8%2589%25B2%25E8%25B3%2587%25E6%259C%25AC%25E5%2589%25B5%25E6%2596%25B0%25E8%2588%2587%25E6%25B2%25BB%25E7%2590%2586%25E7%2599%25BC%25E6%258F%25AE%25E9%2587%258D%25E8%25A6%2581%25E4%25BD%259C%25E7%2594%25A8&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw34neSyPu8_f6H81WbSUqS1",
+          "published": "2026-10-28T03:34:16+00:00",
+          "summary": "李家超稱，為加強應對氣候變化的能力，特區政府正成立跨部門小組建立「AI城巿大腦」系統，提供風險預警和趨勢預測，改善極端天氣、重大事件和公共秩序方面的跨&nbsp;..."
         }
       ]
     }
