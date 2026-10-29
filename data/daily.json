@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-10-28T06:39:15.498335+00:00",
-    "date": "2026-10-28",
+    "generated_at": "2026-10-29T06:46:29.547515+00:00",
+    "date": "2026-10-29",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "主權 AI 不只是自己練大模型，數發部次長侯宜秀：企業導入 AI 代理，先把資料與 Know-how 留在自己手上",
-          "link": "https://techorange.com/2026/10/28/isabel-hou-sovereign-ai-agent-governance/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-28T06:06:07+00:00",
-          "summary": "專訪：戴季全撰稿：張哲瑋 談到主權 AI，不少人的第一印象是台灣要訓練一個自己的大模型。數位發展部政務次長侯宜秀在《全新一週》提出不同看法：從主權的概念來看，主權 AI「一定不是只有硬體，或甚至不是一定只有模型」，資料、治理與安全同樣關鍵。 侯宜秀是律師出身，2025 年 9 月加入政府前，曾任財團法人台灣人工智慧學校基金會秘書長，也是 g0v 零時政府揪松團決策委員。本集節目中，她從主權 AI "
+          "title": "Apple 做小、Amazon 做大：Echo Show 16 與 HomeView 智慧螢幕走完全相反路線",
+          "link": "https://techorange.com/2026/10/29/amazon-echo-apple-homeview-smart-home-devices/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-29T05:11:25+00:00",
+          "summary": "電商巨頭 Amazon 近日發表 5 款搭載語音助理 Alexa 的新裝置，包括重新設計的智慧顯示器 Echo Show 16，以及智慧音箱、床頭鬧鐘與數位相框，藉此將最新版 Alexa 推進消費者家中。《Reuters》指出，Amazon 正面臨來自 Apple，以及 OpenAI 等具硬體野心的 AI 公司日益激烈的競爭。 Apple 本月稍早才推出首款智慧顯示器 HomeView，以及備受期"
         },
         {
-          "title": "Anthropic 主管停考程式面試、Snowflake 新聘七至八成是初階工程師：AI 時代新人反而更搶手？",
-          "link": "https://techorange.com/2026/10/28/anthropic-hunger-beats-tenure-advice-junior-engineers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-28T05:05:53+00:00",
-          "summary": "近日，AI 公司 Anthropic 工程經理 Felix Rieseberg 發表文章表示，他已不再於招募時使用傳統程式面試，並認為在 AI 時代，相對新進的工程師同樣有機會做出成果、超越年資更久的同事。資料與 AI 平台 Snowflake 工程資深副總裁 Vivek Raghunathan 先前也在《Fast Company》撰文指出，Snowflake 目前的招募名額中，初階工程師占 70"
+          "title": "找漏洞、寫修補的 AI 先給誰用？Gemini 4 Carbon 和 Anthropic、OpenAI 一樣採相似策略",
+          "link": "https://techorange.com/2026/10/29/google-gemini-4-carbon-cyber-defenders/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-29T04:49:04+00:00",
+          "summary": "Google 在美國時間 10/28 發布新一代前沿模型（frontier model）Gemini 4 Carbon，主打資安能力。Google 表示，Carbon 在漏洞發掘、漏洞利用與軟體修補等資安任務上，都達到最先進水準；不過，這款模型沒有直接開放給一般開發者與企業，而是先交給一部分資安防守方使用。 讓經過審核的防守方先用上新模型，並非 Google 所獨有的做法：Anthropic、Op"
         },
         {
-          "title": "Anduril 聯手高通推「美國造」筆電 BlueChip，晶片擬交台積電亞利桑那廠，面板等零件仍是缺口",
-          "link": "https://techorange.com/2026/10/28/anduril-qualcomm-bluechip-us-made-laptop/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-28T04:48:26+00:00",
-          "summary": "以軍用無人機與 AI 軟體聞名的美國國防科技公司 Anduril，在美國時間 10 月 27 日與高通（Qualcomm）宣布推出電腦產品線 BlueChip，首款產品是在美國設計、組裝的強固型筆電，鎖定政府、國防、第一線救難與公共安全單位，預計 2027 年開始接單。Anduril 稱，以零組件採購成本計算，原型機約 32% 來自美國本土，加上盟國供應商則超過 90%；Anduril 創辦人 P"
+          "title": "【温宏駿專欄】穩定幣與 AI Agent 會是銀行存款的殺手還是助力？",
+          "link": "https://techorange.com/2026/10/29/stablecoin-ai-agent-bank-deposit/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-29T04:02:14+00:00",
+          "summary": "文／海耶克科技共同創辦人温宏駿（aka 金融派大星） 先講結論：穩定幣和 AI Agent 都不會「殺死」銀行存款，但它們會聯手殺死一種商業模式——靠存款人「懶得比較」賺錢的模式。 從 9 月到 10 月，三件值得關注的事接連發生。第一，Meta 的個人 AI Agent Muse 透過 Plaid 串接銀行帳戶，上線後迅速登上下載榜首，隨後美股銀行股也出現明顯跌幅。第二，摩根大通、嘉信、花旗、美"
         },
         {
-          "title": "Google 推 Genie 4 邁向「混合式世界模型」，為何生成虛擬世界還要加入 Gemini？",
-          "link": "https://techorange.com/2026/10/28/google-deepmind-genie-4-world-model/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-28T03:20:43+00:00",
-          "summary": "AI 不只能生成圖片、影片，還能創造一個可以走進去探索、即時改變場景的虛擬世界。Google DeepMind 在美國時間 10/27 發表新一代世界模型（World Model）Genie 4，不只提升虛擬環境的真實感，還能同步生成聲音、模擬人物行動，讓使用者在探索過程中持續改變場景。 更值得注意的是，Google 這次讓 Gemini 參與世界模擬，利用大型語言模型的推理能力，協助規劃、追蹤複"
+          "title": "【從一台到一千台機器人】Hexagon 用「機隊思維」，改寫人形機器人的工廠劇本",
+          "link": "https://techorange.com/2026/10/29/hexagon-is-putting-1000-humanoid-robots/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-29T02:50:54+00:00",
+          "summary": "讓一台人形機器人進工廠，叫做試點；但是讓一千台同時上工，是完全不同的工程。 今年 4 月，德國機械與汽車零件製造商舍弗勒（Schaeffler）宣布，2032 年前要在全球工廠部署至少 1,000 台 Hexagon Robotics 的人形機器人 Aeon。 從產業面來看，需求與資金都已到位。全球大型人力資源公司 ManpowerGroup 調查顯示，75% 的受訪雇主找不到所需的技術人才；20"
         },
         {
-          "title": "【token 變便宜，AI 帳單反而更貴】代理成本 2028 年前增逾 5 倍，Gartner 建議企業為推論分級",
-          "link": "https://techorange.com/2026/10/28/agent-costs-will-rise/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-28T02:33:20+00:00",
-          "summary": "token 越來越便宜，企業的 AI 帳單卻可能越來越貴。市場研究機構 Gartner 預測，token 成本到 2030 年將下降 95%，但代理式工作流程的推論成本，到 2028 年卻將成長超過 5 倍。 Gartner 把這個現象稱為「推論悖論」（Inference Paradox）。不少企業以為 token 單價下降，AI 成本也會跟著降低，但 AI 代理人正在打破這個假設。 token "
+          "title": "【科技早餐】Google TPU 首度跨雲進駐 Oracle！NVIDIA 擬擴張多 GW AI 算力",
+          "link": "https://techorange.com/2026/10/29/google-tpu-oracle-ai-cloud/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-28T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Google TPU 首度跨雲進駐 Oracle！NVIDIA 擬擴張多 GW AI 算力 Oracle 與 Google 在 10 月 27 日宣布，將 Google 自研的張量處理器（TPU）引進 Oracle Cloud Infrastructure（OCI），預計 2027 年開始提供服務。這是 Google TPU 首次進入 Googl"
         },
         {
-          "title": "【科技早餐】Meta AI 投資有多燒錢？擬籌 950 億美元，4 座超大型算力園區同步興建",
-          "link": "https://techorange.com/2026/10/28/meta-ai-funding-data-centers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-27T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Meta 擬籌資最高 950 億美元，4 座超大型 AI 算力園區建設中 Meta 在 10 月 26 日宣布啟動約 350 億美元股權發行，包括約 225 億美元普通股及約 125 億美元強制轉換特別股相關存託憑證，並規劃未來透過 C 類股的隨市發行機制，再募集最多約 600 億美元，整體計畫規模合計最高約 950 億美元。不過，後一階段尚未簽"
+          "title": "荷蘭擬 10 年縮減 2.5 萬個公職，AI 真能讓政府瘦身？專家警告申訴量可能增加",
+          "link": "https://techorange.com/2026/10/28/dutch-plan-cut-25-000-jobs-will-show-whether-ai-shrink-government/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-28T10:03:10+00:00",
+          "summary": "荷蘭政府近日宣布，計畫在未來 10 年減少約 2.5 萬個全職政府職位，目標從 2035 年起每年節省 35 億歐元（約 39 億美元），並將在 2027 年第一季前提出如何運用 AI 協助達成目標的詳細計畫。 《Bloomberg》形容，這項以 AI 為主軸的效率計畫，可能是目前為止政府運用科技縮減人力最具野心的計畫；但要讓計畫奏效，並在其他國家推行類似方案，可能並不容易。 荷蘭擬削減 2.5 "
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "LG將智慧科技藏於空間，將價值留給時間",
-          "link": "https://www.gvm.com.tw/article/133942",
-          "published": "2026-10-28T00:00:00",
-          "summary": "迎向永續與數位浪潮，奢華飯店與高端商業的空間規劃，從坪數極致利用的考量，轉向更重視使用者的身心感受與人機協作友善的智慧體驗。對此，新北北海溫泉洲際酒店、爾聲空間設計，兩家業者紛紛展現長期思維，雕琢出貼近人性需求的質感場域。若要塑造兼顧功能性與長久使用的場景，不光是內部硬體的堆疊，而是需要在初期與設計者、營運方深度對談，洞悉實體場域的隱性瓶頸。看見這股轉型趨勢，LG電子（LG）跳脫傳統硬體設備商的角"
+          "title": "「這世代」健康習慣最差！南山人壽：台灣人長照金缺口達345萬元",
+          "link": "https://www.gvm.com.tw/article/134120",
+          "published": "2026-10-28T18:47:00",
+          "summary": "台灣人平均壽命已達81.27歲，但「長壽」未必等於「好命」。南山人壽今（28）日發布《2026永續健康白皮書》，其中，20到29歲年輕人，竟是生活習慣最差的「透支健康」大戶；而面對平均長達八年的不健康餘命，國人的長照準備金缺口高達345萬元。在「代謝症候群年輕化」與「百歲人生財務焦慮」的雙重夾擊下，國人該如何自保？南山人壽今（28）日發布《2026永續健康白皮書》。南山人壽健康與市場發展部資深協理"
         },
         {
-          "title": "主管問責不如改「說這句」！古猶太人「哈柏露塔」思考改變溝通結果",
-          "link": "https://www.gvm.com.tw/article/134072",
-          "published": "2026-10-27T19:42:00",
-          "summary": "哈柏露塔一詞源自古代猶太人的教育方式，原本意為「夥伴」或「同伴」，是一種透過彼此提問來擴展思考、探索真理的學習結構。哈柏露塔並不是為了確認「正確答案」，而是一種透過對話拓展思考、擴大視角，並試著理解他人觀點的方式。（本文節錄自《這樣問，讓心意好好被聽見》一書，作者：李秀璟／高寶出版。）小學生P在課堂上總是低頭坐著，從來沒有舉手發言過 。大家說P很「內向」，但其實那個孩子只是害怕被別人嘲笑，所以不敢"
+          "title": "考公務員比進哈佛難4倍！史上最多畢業生，沒上岸的去哪了？",
+          "link": "https://www.gvm.com.tw/article/134118",
+          "published": "2026-10-28T18:20:00",
+          "summary": "中國高校畢業生預計破紀錄，有1270萬人之多，失業率則高達18％。大陸公務員國考報名截止，約345萬人搶3.57萬個名額，錄取率比哈佛還低。魔幻的是，製造業同時缺近3000萬名技能人才。缺的到底是哪些產業？新鮮人能上的岸，或許不只一處。中國年輕人如今的就業環境是否特別「變態」？中國教育部預計，2026年高校畢業生達到恐怖的1270萬人，不僅超過台灣人口一半，還再創歷史新高，城鎮青年失業率飆至18％"
         },
         {
-          "title": "卓榮泰立院報告總預算案：軍公教調薪預算799億元，近10年累計加薪5次",
-          "link": "https://www.gvm.com.tw/article/134071",
-          "published": "2026-10-27T18:36:00",
-          "summary": "行政院長卓榮泰今天赴立法院報告116年度總預算案。他指出，116年度總預算案兼顧國家財政健全，更兼具智慧、科技、建設、發展與公平分配，盼立院儘速審查通過，讓政府有能力照顧更多人民，完成更大建設，維持台灣科技領先地位，確保國安。立法院會邀請卓榮泰、主計長陳淑姿、財政部長莊翠雲列席報告「116年度中央政府總預算案」編製經過並備質詢。卓榮泰指出，116年度總預算案經縝密檢討後編訂，歲入編列新台幣3兆92"
+          "title": "壽司郎「引爆語」看板爆紅！13句惹怒客人的話，職場其他行業適用？",
+          "link": "https://www.gvm.com.tw/article/134117",
+          "published": "2026-10-28T18:15:00",
+          "summary": "日本連鎖迴轉壽司業者壽司郎門市一張員工教育看板，日前被網友拍下分享到Threads，累積上百萬次觀看。看板列出「你記錯了」「不然呢？」等13句「引爆語」，警示第一線服務員工千萬別對客人這樣說，並逐一附上建議的委婉說法。網友笑稱不只餐飲業，其他各行各業職場、甚至兩性感情關係經營都用得上。這13句話為什麼特別刺耳？研究與台日新規又怎麼看待第一線服務的說話分寸？壽司郎「引爆語」員工教育看板寫了什麼？&n"
         },
         {
-          "title": "中山、高雄大學合併研議再啟動！校名協商，學歷認受度進展一次看",
-          "link": "https://www.gvm.com.tw/article/134068",
-          "published": "2026-10-27T17:53:00",
-          "summary": "國立中山大學與國立高雄大學合併案再有進展！高雄大學提出「國立高雄中山大學」作為合併校名，已獲中山大學表達尊重，但雙方協商時程尚未敲定。兩校目標於2026年底前完成合校計畫書草案，若後續程序順利，最快2028年8月掛牌合併。除了校名，系所整併、學生學歷認受度及教職員權益保障，也將是合校能否順利推進的關鍵。討論多年的國立中山大學與國立高雄大學合併案，在重啟併校研議之後，於2026年下半年再有新進展。針"
+          "title": "領先者「不屑、不願與不想」盲點：後進者利基策略",
+          "link": "https://www.gvm.com.tw/article/134116",
+          "published": "2026-10-28T18:10:00",
+          "summary": "編按：後進者如何在強敵環伺的市場中突圍？關鍵不在資源多寡，而在看見領先者忽略的商機。從低價市場、商業模式轉型到品牌定位，掌握「不屑、不願、不想」三大盲點，善用利基市場策略，找到差異化定位，打造企業成長新契機。在高度競爭的市場環境中，企業若想成功突圍，往往必須在強敵環伺的夾縫中找出獨特定位。對於後進者而言，最大的挑戰就是如何與既有市場領先者共處競爭。許多成功的後進者之所以能脫穎而出，不是因為資源雄厚"
         },
         {
-          "title": "球星姆巴佩「辱華」言論說了什麼？央視叫停轉播、下架廣告",
-          "link": "https://www.gvm.com.tw/article/134066",
-          "published": "2026-10-27T16:34:00",
-          "summary": "皇家馬德里法籍球星姆巴佩（Kylian Mbappe）涉及中國前領導人毛澤東的言論風波越滾越大，中國官媒央視已從昨晚開始全面暫停涉及西甲與姆巴佩的賽事播出，廣告也遭下架，社群平台小紅書也將姆巴佩的帳號設置為禁言。姆巴佩日前受訪時被問及最愛哪一張以他為主角的網路迷因時，大方坦承最喜歡把他的臉P在毛澤東身上的惡搞圖，並說私下打電動時經常傳給朋友。姆巴佩在球場上與隊內行事風格強勢，因此有部分球迷戲稱他為"
+          "title": "已跑了5500萬公里！台灣電動巴士普及率即將破5成，如何還賣到加勒比海去？",
+          "link": "https://www.gvm.com.tw/article/134115",
+          "published": "2026-10-28T18:08:00",
+          "summary": "台灣前三大電動巴士供應商創奕能源今年上半年繳出16.64億元營收成績，看好國際市場潛力，創奕能源已將版圖延伸至印度、印尼、馬來西亞、帛琉與加勒比海等國家，預計明年登錄興櫃。本土電動巴士打入國際盃！台灣前三大電動巴士供應商創奕能源，今年上半年營收達16.64億元新台幣，相當於去年全年營收的八成。董事長黃振聲自豪的表示，創奕能源不只穩坐國內三大電動巴士供應商之列，業務版圖也擴展到印度、印尼、馬來西亞、"
         },
         {
-          "title": "會外語、懂AI、能跨域！文藻外大教出新世代最搶手的文科生",
-          "link": "https://www.gvm.com.tw/article/133353",
-          "published": "2026-10-27T16:22:00",
-          "summary": "AI能寫文案、即時翻譯，文科生還有優勢嗎？文藻外語大學透過「語言x AI x跨域」模式，致力從AI素養、產業實習到全球雙聯學位，培養能和世界溝通、與AI協作的新世代人才。進入AI時代，生成式AI能寫文案、寫報告、即時翻譯的表現，讓「念文科、外語還有前途嗎？」成了不少學生、家長的疑問。但近來，輝達（NVIDIA）執行長黃仁勳受訪時卻提到，人們已經能用自然語言直接指揮AI，「文科生反而會是AI時代的最"
+          "title": "20歲搶快、60歲留客！台灣少子化又高齡化，麥味登「一招」破解餐飲業人才荒",
+          "link": "https://www.gvm.com.tw/article/134114",
+          "published": "2026-10-28T18:04:00",
+          "summary": "在人口結構快速改變的今天，一家早餐店需要的人才樣貌，也和過去不一樣了。麥味登認為，一家店真正需要的是一支能夠讓不同世代彼此接力、互相補位的團隊，尤其當少子化遇上高齡化，餐飲業的人才課題早已不是單純「找不到人」，而是如何重新定義人才，讓不同年齡層的人都能在適合的位置，發揮價值。（本文節錄自《麥味登　溫暖你的每一天》一書，作者：卓靖倫，王筱君／商周出版。）早上九點半，早餐店最忙碌的尖峰時段逐漸告一段落"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "面對<b>氣候變遷</b>、進口價格競爭，雲林虎尾兩代接力走過20年契作路，攜手守護本土花生",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://smiletaiwan.cw.com.tw/article/9524&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0EOJAtLcHChgyJvvhVyMzT",
-          "published": "2026-10-28T05:30:37+00:00",
-          "summary": "雲林虎尾是台灣重要的花生產地，但面對極端氣候、病蟲害與進口的價格競爭，增加了收成壓力。王澤星接手父親王建朝的棒子，引進「台南18號」品種，轉型友善耕作，&nbsp;..."
+          "title": "災防科技中心與德國氣候服務中心續簽MOU 推動極端氣候風險研究與調適應用 - 旺得富理財網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20261028900548-420501&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0gYhCM7fhbvvTSv7EVG_pG",
+          "published": "2026-10-28T22:27:29+00:00",
+          "summary": "GERICS主任雅各博士指出，氣候服務的核心在於掌握使用者需求，並將科學資訊轉化為調適規劃的具體工具。臺德兩國雖面對不同的氣候與災害型態，但透過跨國科研交流&nbsp;..."
         },
         {
-          "title": "韓國央行：2050年<b>淨零</b>轉型若落實，GDP最多縮減10.2% - BigGo 財經",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://finance.biggo.com.tw/news/9ada7755-59f6-49c7-aefc-04f47f1d697a&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0KMOQIQKv9Ov9JqrPJIy62",
-          "published": "2026-10-28T04:41:40+00:00",
-          "summary": "韓國央行分析2035年國家溫室氣體減量目標的上、下限，模擬出兩條淨零轉型路徑，結果顯示2050年GDP線上性減量情境下將縮減10.2%，提前減量情境則&nbsp;..."
+          "title": "「一個地球高峰論壇」聚焦智能時代生態- 港聞 - 今日大公",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://epaper.tkww.hk/a/202610/29/AP6ae25b44e4b03b525f959803.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2aP2Rm0aReaoeh42w2V0Wj",
+          "published": "2026-10-28T21:35:36+00:00",
+          "summary": "【大公報訊】全球多地極端高溫帶來的公共衞生壓力加劇，氣候變化早已不是遙遠的環保議題，而是關乎每個人的現實威脅。由可持續科技學院與香港科技大學合辦的&nbsp;..."
         },
         {
-          "title": "李家超：氣候變化加速帶來嚴峻挑戰香港有能力搭建綠色標準橋樑 - 巴士的報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bastillepost.com/hongkong/article/17062640-%25E6%259D%258E%25E5%25AE%25B6%25E8%25B6%2585%25EF%25BC%259A%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E5%258C%2596%25E5%258A%25A0%25E9%2580%259F%25E5%25B8%25B6%25E4%25BE%2586%25E5%259A%25B4%25E5%25B3%25BB%25E6%258C%2591%25E6%2588%25B0-%25E9%25A6%2599%25E6%25B8%25AF%25E6%259C%2589%25E8%2583%25BD%25E5%258A%259B%25E6%2590%25AD&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0lP8MTVCoUMgmjA_W57RKK",
-          "published": "2026-10-28T04:37:05+00:00",
-          "summary": "李家超視訊出席「一個地球高峰論壇」，公布香港首個五年規劃減碳目標，包括2030年前可持續航空燃料使用率達1%至3%、零碳能源佔比升至30%及「零廢堆填」。"
+          "title": "COP31呼籲各國就人工智能帶來的氣候挑戰做出承諾 - RFI",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rfi.fr/tw/%25E5%259C%258B%25E9%259A%259B/20261028-cop31%25E5%2591%25BC%25E7%25B1%25B2%25E5%2590%2584%25E5%259C%258B%25E5%25B0%25B1%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%25E5%25B8%25B6%25E4%25BE%2586%25E7%259A%2584%25E6%25B0%25A3%25E5%2580%2599%25E6%258C%2591%25E6%2588%25B0%25E5%2581%259A%25E5%2587%25BA%25E6%2589%25BF%25E8%25AB%25BE&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw30GK72wKeJQ9WFATh4FYOn",
+          "published": "2026-10-28T21:31:25+00:00",
+          "summary": "COP31主席國周三發布了首份關於人工智能（AI）問題的政策文件，呼籲各國自願承諾將人工智能作為“應對氣候挑戰的解決方案之一”，而不是溫室氣體排放激增的新&nbsp;..."
         },
         {
-          "title": "李家超稱香港處於發展新綠色技術有利位置助建綠色標準橋樑- RTHK",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.rthk.hk/rthk/ch/component/k2/1875597-20261028.htm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2xtgzYkjlrmPh4MdPCNeLk",
-          "published": "2026-10-28T04:27:44+00:00",
-          "summary": "李家超在名為「一個地球高峰論壇」上以視訊致辭，會議主題是「智能時代的共同繁榮」。他說加速氣候變化和生物多樣性減少，均帶來了挑戰，意味必須填補綠色資本、&nbsp;..."
+          "title": "災防科技中心與德國氣候服務中心續簽合作備忘錄 - 產業人物Wa-People",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://wa-people.com/nstc20261028/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw265kfjNJV4jE4b6HWEyuH8",
+          "published": "2026-10-28T18:43:09+00:00",
+          "summary": "圖說：左起駐德國代表處科技組組長張世杰、駐德國代表處漢堡辦事處處長陳尚友、災防科技中心陳宏宇主任、GERICS主任Daniela Jacob 、Hereon研究中心&nbsp;..."
         },
         {
-          "title": "超級聖嬰襲來總統氣候委員會談高溫調適：擬擴大高溫保險 - 環境資訊中心",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.e-info.org.tw/node/244009&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1S2IDltn-2QJ1pl_slpuP5",
-          "published": "2026-10-28T04:04:53+00:00",
-          "summary": "總統府22日召開氣候變遷對策委員會，會議中討論高溫調適策略與今（2026）年「超級聖嬰」的因應措施。總統賴清德表示，將提前因應聖嬰可能導致糧食、能源或水&nbsp;..."
+          "title": "不只是種菜花崗國中食農教育從藝術到環境 - 國立教育廣播電台",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ner.gov.tw/CultureNews/Content/26102816060799678/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3oJ0ylqGBvuU1nFvQq7cZ1",
+          "published": "2026-10-28T18:03:24+00:00",
+          "summary": "將食農教育加深加廣，除了「從產地到餐桌」，花崗國中更帶領學生從生態環境、氣候變遷等角度，以更宏觀的視野去檢視，若想有美好的餐飲體驗，食物的源頭，應該&nbsp;..."
         },
         {
-          "title": "李家超:香港在綠色資本創新與治理發揮重要作用 - 信報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.hkej.com/landing/mobarticle2/id/4548948/%25E6%259D%258E%25E5%25AE%25B6%25E8%25B6%2585:%25E9%25A6%2599%25E6%25B8%25AF%25E5%259C%25A8%25E7%25B6%25A0%25E8%2589%25B2%25E8%25B3%2587%25E6%259C%25AC%25E5%2589%25B5%25E6%2596%25B0%25E8%2588%2587%25E6%25B2%25BB%25E7%2590%2586%25E7%2599%25BC%25E6%258F%25AE%25E9%2587%258D%25E8%25A6%2581%25E4%25BD%259C%25E7%2594%25A8&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw34neSyPu8_f6H81WbSUqS1",
-          "published": "2026-10-28T03:34:16+00:00",
-          "summary": "李家超稱，為加強應對氣候變化的能力，特區政府正成立跨部門小組建立「AI城巿大腦」系統，提供風險預警和趨勢預測，改善極端天氣、重大事件和公共秩序方面的跨&nbsp;..."
+          "title": "台灣永續發展暨管理協會籌組中即日起公開徵求會員加入",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.fclnews.com/234461/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw19bW_IR3ekn2THD9058XTs",
+          "published": "2026-10-28T17:52:18+00:00",
+          "summary": "隨著全球對永續發展、淨零轉型及ESG（環境、社會及公司治理）議題日益 ... 近年來，全球氣候變遷與企業永續責任議題備受關注，永續發展已成為國際趨勢&nbsp;..."
         }
       ]
     }
