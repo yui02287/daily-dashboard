@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-10-29T06:46:29.547515+00:00",
-    "date": "2026-10-29",
+    "generated_at": "2026-10-30T06:49:50.714883+00:00",
+    "date": "2026-10-30",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "Apple 做小、Amazon 做大：Echo Show 16 與 HomeView 智慧螢幕走完全相反路線",
-          "link": "https://techorange.com/2026/10/29/amazon-echo-apple-homeview-smart-home-devices/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-29T05:11:25+00:00",
-          "summary": "電商巨頭 Amazon 近日發表 5 款搭載語音助理 Alexa 的新裝置，包括重新設計的智慧顯示器 Echo Show 16，以及智慧音箱、床頭鬧鐘與數位相框，藉此將最新版 Alexa 推進消費者家中。《Reuters》指出，Amazon 正面臨來自 Apple，以及 OpenAI 等具硬體野心的 AI 公司日益激烈的競爭。 Apple 本月稍早才推出首款智慧顯示器 HomeView，以及備受期"
+          "title": "Edge AI 不只靠攝影機：無線感測有望讓數十億台既有設備變身環境感測器",
+          "link": "https://techorange.com/2026/10/30/wireless-sensing-edge-ai-next/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-30T04:01:46+00:00",
+          "summary": "邊緣人工智慧（Edge AI）如今幾乎已和電腦視覺畫上等號，透過攝影機在裝置端辨識人物、物體與人臉。但嵌入式 AI 解決方案公司 embedUR systems 創辦人暨執行長 Rajesh Subramaniam 近日在《Forbes》撰文指出，視覺只是最早導入邊緣運算的感知方式，在許多場景中其實並不適合；他認為，無線感測（Wireless Sensing）是 Edge AI 的下一步。 Sub"
         },
         {
-          "title": "找漏洞、寫修補的 AI 先給誰用？Gemini 4 Carbon 和 Anthropic、OpenAI 一樣採相似策略",
-          "link": "https://techorange.com/2026/10/29/google-gemini-4-carbon-cyber-defenders/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-29T04:49:04+00:00",
-          "summary": "Google 在美國時間 10/28 發布新一代前沿模型（frontier model）Gemini 4 Carbon，主打資安能力。Google 表示，Carbon 在漏洞發掘、漏洞利用與軟體修補等資安任務上，都達到最先進水準；不過，這款模型沒有直接開放給一般開發者與企業，而是先交給一部分資安防守方使用。 讓經過審核的防守方先用上新模型，並非 Google 所獨有的做法：Anthropic、Op"
+          "title": "AWS 創近五年最快成長、Google Cloud 營收翻倍，股價卻下跌：華爾街為何擔心 AI 燒錢？",
+          "link": "https://techorange.com/2026/10/30/amazon-alphabet-ai-capex-cloud-cash-flow/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-30T03:51:11+00:00",
+          "summary": "Google 母公司 Alphabet 與亞馬遜分別在美國時間 10/28、10/29 公布第三季財報，雲端業務都交出亮眼成績：Google Cloud 營收年增 103%，亞馬遜的雲端服務 AWS（Amazon Web Services）營收年增 39%，是近五年來最快。但市場反應冷淡，Alphabet 股價在 10/29 重挫 12.6%，是史上最大單日跌幅（以百分比計），亞馬遜股價也在財報公"
         },
         {
-          "title": "【温宏駿專欄】穩定幣與 AI Agent 會是銀行存款的殺手還是助力？",
-          "link": "https://techorange.com/2026/10/29/stablecoin-ai-agent-bank-deposit/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-29T04:02:14+00:00",
-          "summary": "文／海耶克科技共同創辦人温宏駿（aka 金融派大星） 先講結論：穩定幣和 AI Agent 都不會「殺死」銀行存款，但它們會聯手殺死一種商業模式——靠存款人「懶得比較」賺錢的模式。 從 9 月到 10 月，三件值得關注的事接連發生。第一，Meta 的個人 AI Agent Muse 透過 Plaid 串接銀行帳戶，上線後迅速登上下載榜首，隨後美股銀行股也出現明顯跌幅。第二，摩根大通、嘉信、花旗、美"
+          "title": "【模型疲勞，中國更明顯】每次升級都重設價格底線，AI 業者積極開拓利基市場",
+          "link": "https://techorange.com/2026/10/30/ai-model-fatigue-in-china/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-30T02:02:30+00:00",
+          "summary": "當新款 AI 模型推出且不斷更新、升級，雖然反映人工智慧高速進步，但卻也同時引發開發者與科技從業者的模型疲勞，中國科技界尤其明顯，廠商更得因此打起價格戰。"
         },
         {
-          "title": "【從一台到一千台機器人】Hexagon 用「機隊思維」，改寫人形機器人的工廠劇本",
-          "link": "https://techorange.com/2026/10/29/hexagon-is-putting-1000-humanoid-robots/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-29T02:50:54+00:00",
-          "summary": "讓一台人形機器人進工廠，叫做試點；但是讓一千台同時上工，是完全不同的工程。 今年 4 月，德國機械與汽車零件製造商舍弗勒（Schaeffler）宣布，2032 年前要在全球工廠部署至少 1,000 台 Hexagon Robotics 的人形機器人 Aeon。 從產業面來看，需求與資金都已到位。全球大型人力資源公司 ManpowerGroup 調查顯示，75% 的受訪雇主找不到所需的技術人才；20"
+          "title": "【科技早餐】Google Cloud 營收暴增 103%！Microsoft Azure 成長 48%，AI 投資成本攀升",
+          "link": "https://techorange.com/2026/10/30/google-cloud-microsoft-azure-ai-revenue-growth/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-29T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Google Cloud 營收暴增 103%，Microsoft Azure 成長 48% Google 母公司字母控股（Alphabet）與微軟（Microsoft）在 10 月 28 日公布最新季度財報，兩家公司的雲端業務均受惠於企業 AI 需求。Alphabet 第三季營收達 1,275.8 億美元，年增 25%，其中 Google Clo"
         },
         {
-          "title": "【科技早餐】Google TPU 首度跨雲進駐 Oracle！NVIDIA 擬擴張多 GW AI 算力",
-          "link": "https://techorange.com/2026/10/29/google-tpu-oracle-ai-cloud/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-28T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Google TPU 首度跨雲進駐 Oracle！NVIDIA 擬擴張多 GW AI 算力 Oracle 與 Google 在 10 月 27 日宣布，將 Google 自研的張量處理器（TPU）引進 Oracle Cloud Infrastructure（OCI），預計 2027 年開始提供服務。這是 Google TPU 首次進入 Googl"
+          "title": "91APP 遭駭為何花了 11 天才查出破口？駭客是如何突破防線",
+          "link": "https://techorange.com/2026/10/29/91app-security-incident/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-29T13:00:52+00:00",
+          "summary": "SaaS 業者 91APP 近日被駭，其一座存放近 18 個月訂單交易資料的資料庫遭非法存取，部分資料遭竊。91APP 在 10/29 召開記者會，公布《91APP 被駭事件：25 天調查報告》，董事長何英圻率領公司主管，向受影響的消費者與品牌客戶鞠躬致歉。 91APP 指出，由於無法確認具體涉及哪些訂單，以最大可能影響範圍估算，涉及 1,329 家品牌、479 萬 8225 名消費者，可能遭取得"
         },
         {
-          "title": "荷蘭擬 10 年縮減 2.5 萬個公職，AI 真能讓政府瘦身？專家警告申訴量可能增加",
-          "link": "https://techorange.com/2026/10/28/dutch-plan-cut-25-000-jobs-will-show-whether-ai-shrink-government/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-28T10:03:10+00:00",
-          "summary": "荷蘭政府近日宣布，計畫在未來 10 年減少約 2.5 萬個全職政府職位，目標從 2035 年起每年節省 35 億歐元（約 39 億美元），並將在 2027 年第一季前提出如何運用 AI 協助達成目標的詳細計畫。 《Bloomberg》形容，這項以 AI 為主軸的效率計畫，可能是目前為止政府運用科技縮減人力最具野心的計畫；但要讓計畫奏效，並在其他國家推行類似方案，可能並不容易。 荷蘭擬削減 2.5 "
+          "title": "「五十年後，AI 會用什麼語言說話？」iKala 共同創辦人暨集團董事長程世嘉從「智慧通膨」談主權 AI",
+          "link": "https://techorange.com/2026/10/29/ikala-ai-tmmlu/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-29T10:11:07+00:00",
+          "summary": "「用繁體中文請 AI 說出一種黃色、帶刺的熱帶水果叫什麼，它可能會回『菠蘿』，而不是『鳳梨』。」看似只是用詞習慣的差異，卻反映出 AI 在理解繁體中文與台灣在地語境時，仍有值得改善的空間。在科技報橘日前舉辦的「2026 企業 AI 主權高峰論壇」，iKala 共同創辦人暨集團董事長程世嘉引用美國團隊 2025 年發表的研究，研究人員以 110 個台灣與中國大陸用法不同的詞彙，測試 11 個主流 A"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "「這世代」健康習慣最差！南山人壽：台灣人長照金缺口達345萬元",
-          "link": "https://www.gvm.com.tw/article/134120",
-          "published": "2026-10-28T18:47:00",
-          "summary": "台灣人平均壽命已達81.27歲，但「長壽」未必等於「好命」。南山人壽今（28）日發布《2026永續健康白皮書》，其中，20到29歲年輕人，竟是生活習慣最差的「透支健康」大戶；而面對平均長達八年的不健康餘命，國人的長照準備金缺口高達345萬元。在「代謝症候群年輕化」與「百歲人生財務焦慮」的雙重夾擊下，國人該如何自保？南山人壽今（28）日發布《2026永續健康白皮書》。南山人壽健康與市場發展部資深協理"
+          "title": "用智慧科技克服資源逆境！張麗善《躍上雲端》為地方治理樹立全球典範",
+          "link": "https://www.gvm.com.tw/article/134111",
+          "published": "2026-10-30T00:00:00",
+          "summary": "一個過去被認為「看天吃飯」的農業大縣，如何透過政策創新走向國際？雲林縣政專書《躍上雲端》新書發表會，縣長張麗善深入剖析雲林從傳統糧倉蛻變為全球頂尖智慧城市的治理歷程。這不只是一場新書發表，更是一場翻轉城鄉格局的實力展現！由遠見․天下文化出版、雲林縣政專書《躍上雲端》台北發表會於臺北文創大樓舉行，向各界展現雲林打破逆境、全面演進的城市韌性。現場貴賓雲集，國民黨主席鄭麗文、前行政院副院長朱立倫、前立法"
         },
         {
-          "title": "考公務員比進哈佛難4倍！史上最多畢業生，沒上岸的去哪了？",
-          "link": "https://www.gvm.com.tw/article/134118",
-          "published": "2026-10-28T18:20:00",
-          "summary": "中國高校畢業生預計破紀錄，有1270萬人之多，失業率則高達18％。大陸公務員國考報名截止，約345萬人搶3.57萬個名額，錄取率比哈佛還低。魔幻的是，製造業同時缺近3000萬名技能人才。缺的到底是哪些產業？新鮮人能上的岸，或許不只一處。中國年輕人如今的就業環境是否特別「變態」？中國教育部預計，2026年高校畢業生達到恐怖的1270萬人，不僅超過台灣人口一半，還再創歷史新高，城鎮青年失業率飆至18％"
+          "title": "AI、5G創新實力獲國際肯定！中華電信再創Frost & Sullivan最佳實踐獎九連霸",
+          "link": "https://www.gvm.com.tw/article/134080",
+          "published": "2026-10-30T00:00:00",
+          "summary": "從AI算力服務、智慧維運到5G無人機物流，當AI與5G加速走入產業現場，中華電信正以創新科技拓展數位服務新價值，2026年再度榮獲Frost &amp; Sullivan兩項國際大獎，締造連續九年獲獎紀錄，展現台灣電信領導品牌的創新實力。憑藉AI技術布局與5G創新應用成果，中華電信榮獲全球知名顧問公司Frost &amp; Sullivan 2026年《最佳實踐獎》兩項大獎，再度蟬聯「台灣年度最佳"
         },
         {
-          "title": "壽司郎「引爆語」看板爆紅！13句惹怒客人的話，職場其他行業適用？",
-          "link": "https://www.gvm.com.tw/article/134117",
-          "published": "2026-10-28T18:15:00",
-          "summary": "日本連鎖迴轉壽司業者壽司郎門市一張員工教育看板，日前被網友拍下分享到Threads，累積上百萬次觀看。看板列出「你記錯了」「不然呢？」等13句「引爆語」，警示第一線服務員工千萬別對客人這樣說，並逐一附上建議的委婉說法。網友笑稱不只餐飲業，其他各行各業職場、甚至兩性感情關係經營都用得上。這13句話為什麼特別刺耳？研究與台日新規又怎麼看待第一線服務的說話分寸？壽司郎「引爆語」員工教育看板寫了什麼？&n"
+          "title": "美國期中選舉影響什麼？川普施政、台灣軍購與關稅，國會3結局一次看",
+          "link": "https://www.gvm.com.tw/article/134150",
+          "published": "2026-10-29T18:08:00",
+          "summary": "11月3日的美國期中選舉，將改選眾議院435席、參議院35席、36州州長。選舉結果將影響川普未來兩年的預算、移民與關稅政策，也牽動台灣軍購、對中科技管制及半導體供應鏈布局。11月3日，美國期中選舉將登場，改選眾議院435席、參議院35席、36州州長。這場選舉是美國總統川普（Donald Trump）執政的期中考，也將決定他未來兩年的施政空間。隨著生活成本壓力升高、川普支持度下滑，共和黨（Repub"
         },
         {
-          "title": "領先者「不屑、不願與不想」盲點：後進者利基策略",
-          "link": "https://www.gvm.com.tw/article/134116",
-          "published": "2026-10-28T18:10:00",
-          "summary": "編按：後進者如何在強敵環伺的市場中突圍？關鍵不在資源多寡，而在看見領先者忽略的商機。從低價市場、商業模式轉型到品牌定位，掌握「不屑、不願、不想」三大盲點，善用利基市場策略，找到差異化定位，打造企業成長新契機。在高度競爭的市場環境中，企業若想成功突圍，往往必須在強敵環伺的夾縫中找出獨特定位。對於後進者而言，最大的挑戰就是如何與既有市場領先者共處競爭。許多成功的後進者之所以能脫穎而出，不是因為資源雄厚"
+          "title": "經營之聖稻盛和夫：所謂人生，是由「命運」加上「因果法則」",
+          "link": "https://www.gvm.com.tw/article/98093",
+          "published": "2026-10-29T17:56:00",
+          "summary": "稻盛和夫在演講開頭便點出了他這一生的體悟。他說：「所謂的人生，是由兩件事組成的：『命運』加上『因果法則』！」人生同時被「命運」與「因果」所掌控著，過度順從命運，或是一味地信仰自由意志，都是把人生看得太簡單。（本文摘自《大人學選擇》一書，作者為張國洋、姚詩豪，以下為摘文。）命運確實存在，我們每個人的際遇都受天生的命運所掌握。有的人天生富貴，得天獨厚；但也有人出身貧賤，連基本的生存需求也難以滿足。然而"
         },
         {
-          "title": "已跑了5500萬公里！台灣電動巴士普及率即將破5成，如何還賣到加勒比海去？",
-          "link": "https://www.gvm.com.tw/article/134115",
-          "published": "2026-10-28T18:08:00",
-          "summary": "台灣前三大電動巴士供應商創奕能源今年上半年繳出16.64億元營收成績，看好國際市場潛力，創奕能源已將版圖延伸至印度、印尼、馬來西亞、帛琉與加勒比海等國家，預計明年登錄興櫃。本土電動巴士打入國際盃！台灣前三大電動巴士供應商創奕能源，今年上半年營收達16.64億元新台幣，相當於去年全年營收的八成。董事長黃振聲自豪的表示，創奕能源不只穩坐國內三大電動巴士供應商之列，業務版圖也擴展到印度、印尼、馬來西亞、"
+          "title": "若有100萬元，買股票該投入多少？投資教練：用「2%規則」算出能買幾張",
+          "link": "https://www.gvm.com.tw/article/134149",
+          "published": "2026-10-29T17:46:00",
+          "summary": "我們知道停損可以控制單筆交易的風險，分散配置能降低資產組合的波動，但這些工具必須搭配明確的資金管理規則，才能真正發揮作用。實務上，許多專業交易員會設定每筆交易的最大風險，不得超過總資金的一定比例，常見數字包括1%、2%或3%。本節以「2%規則」為例，說明如何將抽象的風險控制，轉化為具體可執行的數字，讓每一次出手都在可承受範圍內。（本文節錄自《漲停8招：實戰背書！》一書，作者：趙彭博，鄭琬馨／時報出"
         },
         {
-          "title": "20歲搶快、60歲留客！台灣少子化又高齡化，麥味登「一招」破解餐飲業人才荒",
-          "link": "https://www.gvm.com.tw/article/134114",
-          "published": "2026-10-28T18:04:00",
-          "summary": "在人口結構快速改變的今天，一家早餐店需要的人才樣貌，也和過去不一樣了。麥味登認為，一家店真正需要的是一支能夠讓不同世代彼此接力、互相補位的團隊，尤其當少子化遇上高齡化，餐飲業的人才課題早已不是單純「找不到人」，而是如何重新定義人才，讓不同年齡層的人都能在適合的位置，發揮價值。（本文節錄自《麥味登　溫暖你的每一天》一書，作者：卓靖倫，王筱君／商周出版。）早上九點半，早餐店最忙碌的尖峰時段逐漸告一段落"
+          "title": "AI訂單看得到，出貨時點難抓？台達電鄭平說明庫存增加原因",
+          "link": "https://www.gvm.com.tw/article/134148",
+          "published": "2026-10-29T17:38:00",
+          "summary": "台達電（2308）2026年上半年股價曾漲破2500元，截自10月底卻跌掉四成，不少散戶都在關注背後原因，好奇近期會翻身嗎？AI資料中心熱潮到底卡關在哪？台達電今（29）日舉行第三季法說會，董事長鄭平直言，受到供應鏈長短料及客戶建置延遲影響，訂單能見度雖高，實際出貨時間卻難以掌握。此外，年初至今整體材料成本已上升約2%，公司正陸續與客戶洽談價格調整。但他展望未來仍看到正面線索，以下一文完整解析。今"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "災防科技中心與德國氣候服務中心續簽MOU 推動極端氣候風險研究與調適應用 - 旺得富理財網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://wantrich.chinatimes.com/news/20261028900548-420501&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0gYhCM7fhbvvTSv7EVG_pG",
-          "published": "2026-10-28T22:27:29+00:00",
-          "summary": "GERICS主任雅各博士指出，氣候服務的核心在於掌握使用者需求，並將科學資訊轉化為調適規劃的具體工具。臺德兩國雖面對不同的氣候與災害型態，但透過跨國科研交流&nbsp;..."
+          "title": "歐盟發佈新版北極策略聚焦安全經濟和氣候變化 - 中華日報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cdns.com.tw/articles/1482101&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2deXvcFJMT7HR9b_oeXkuv",
+          "published": "2026-10-30T00:42:39+00:00",
+          "summary": "新版策略還提出，加強歐盟與北極地區原住民和地方社區的合作，為當地居民創造更多發展機會。"
         },
         {
-          "title": "「一個地球高峰論壇」聚焦智能時代生態- 港聞 - 今日大公",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://epaper.tkww.hk/a/202610/29/AP6ae25b44e4b03b525f959803.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2aP2Rm0aReaoeh42w2V0Wj",
-          "published": "2026-10-28T21:35:36+00:00",
-          "summary": "【大公報訊】全球多地極端高溫帶來的公共衞生壓力加劇，氣候變化早已不是遙遠的環保議題，而是關乎每個人的現實威脅。由可持續科技學院與香港科技大學合辦的&nbsp;..."
+          "title": "資料中心電力需求年增31%！SEMI論壇聚焦能源韌性台電揭未來15年電網布局 - 風傳媒",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.storm.mg/article/11176722&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3w4oogjAxL4lj1DAG6INco",
+          "published": "2026-10-30T00:32:24+00:00",
+          "summary": "隨著能源管理與電網韌性逐漸成為產業布局的重要考量，SEMI旗下GESA綠能暨永續發展聯盟於2026「台灣國際淨零永續展（Net-Zero Taiwan）」與「台灣國際智慧能源週&nbsp;..."
         },
         {
-          "title": "COP31呼籲各國就人工智能帶來的氣候挑戰做出承諾 - RFI",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rfi.fr/tw/%25E5%259C%258B%25E9%259A%259B/20261028-cop31%25E5%2591%25BC%25E7%25B1%25B2%25E5%2590%2584%25E5%259C%258B%25E5%25B0%25B1%25E4%25BA%25BA%25E5%25B7%25A5%25E6%2599%25BA%25E8%2583%25BD%25E5%25B8%25B6%25E4%25BE%2586%25E7%259A%2584%25E6%25B0%25A3%25E5%2580%2599%25E6%258C%2591%25E6%2588%25B0%25E5%2581%259A%25E5%2587%25BA%25E6%2589%25BF%25E8%25AB%25BE&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw30GK72wKeJQ9WFATh4FYOn",
-          "published": "2026-10-28T21:31:25+00:00",
-          "summary": "COP31主席國周三發布了首份關於人工智能（AI）問題的政策文件，呼籲各國自願承諾將人工智能作為“應對氣候挑戰的解決方案之一”，而不是溫室氣體排放激增的新&nbsp;..."
+          "title": "【灣區新聞】海平面上升威脅海灣大橋Caltrans帶傳媒直擊防洪升級工程（視頻） - KTSF.com",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ktsf.com/2026/10/29/bay-bridge-sea-level-rise/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2r00dK_dSUQhAw0g0oeyzd",
+          "published": "2026-10-29T21:50:53+00:00",
+          "summary": "【KTSF 歐志洲的報導】. 面對氣候變遷導致海平面上升的威脅， 加州交通局會（Caltrans）例行評估加州的基礎建設，Caltrans週三帶媒體巡視在海灣大橋的維護&nbsp;..."
         },
         {
-          "title": "災防科技中心與德國氣候服務中心續簽合作備忘錄 - 產業人物Wa-People",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://wa-people.com/nstc20261028/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw265kfjNJV4jE4b6HWEyuH8",
-          "published": "2026-10-28T18:43:09+00:00",
-          "summary": "圖說：左起駐德國代表處科技組組長張世杰、駐德國代表處漢堡辦事處處長陳尚友、災防科技中心陳宏宇主任、GERICS主任Daniela Jacob 、Hereon研究中心&nbsp;..."
+          "title": "ESG國際快訊》日本熊出沒，癱瘓城市3天｜COP31元首出席恐銳減",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://esg.gvm.com.tw/article/128708&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2WblsUjvJsKegFmhEPSlZF",
+          "published": "2026-10-29T20:26:31+00:00",
+          "summary": "本週ESG國際快訊：氣候暖化加劇日本「人熊衝突」危機；美英兩國因政經利益考量放寬排汙與化石燃料限制；COP31元首出席率暴跌蒙上陰影。"
         },
         {
-          "title": "不只是種菜花崗國中食農教育從藝術到環境 - 國立教育廣播電台",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ner.gov.tw/CultureNews/Content/26102816060799678/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3oJ0ylqGBvuU1nFvQq7cZ1",
-          "published": "2026-10-28T18:03:24+00:00",
-          "summary": "將食農教育加深加廣，除了「從產地到餐桌」，花崗國中更帶領學生從生態環境、氣候變遷等角度，以更宏觀的視野去檢視，若想有美好的餐飲體驗，食物的源頭，應該&nbsp;..."
+          "title": "元寧<b>淨零</b>碳排技術助產業轉型 - 中時新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/newspapers/20261030000488-260202&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3gRoq6Asz9zn8Qu8U7GeIh",
+          "published": "2026-10-29T20:21:41+00:00",
+          "summary": "隨國際邁向2050淨零碳排趨勢，政府亦積極透過「氣候變遷因應法」強化企業碳盤查義務，並推動「企業淨零行動手冊」引導產業轉型。位於新竹縣新豐鄉的「元寧&nbsp;..."
         },
         {
-          "title": "台灣永續發展暨管理協會籌組中即日起公開徵求會員加入",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.fclnews.com/234461/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw19bW_IR3ekn2THD9058XTs",
-          "published": "2026-10-28T17:52:18+00:00",
-          "summary": "隨著全球對永續發展、淨零轉型及ESG（環境、社會及公司治理）議題日益 ... 近年來，全球氣候變遷與企業永續責任議題備受關注，永續發展已成為國際趨勢&nbsp;..."
+          "title": "元寧<b>淨零</b>碳排技術助產業轉型- 日報- 工商時報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20261030700340-439901&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw20e795cVdEiWVoUqg2T6mh",
+          "published": "2026-10-29T19:16:23+00:00",
+          "summary": "隨國際邁向2050淨零碳排趨勢，政府亦積極透過「氣候變遷因應法」強化企業碳盤查義務，並推動「企業淨零行動手冊」引導產業轉型。 位於新竹縣新豐鄉的「元寧&nbsp;..."
         }
       ]
     }
