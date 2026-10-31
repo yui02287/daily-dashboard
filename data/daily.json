@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-10-30T06:49:50.714883+00:00",
-    "date": "2026-10-30",
+    "generated_at": "2026-10-31T06:40:40.363562+00:00",
+    "date": "2026-10-31",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
+          "title": "【博通私有雲展望報告】97% IT 決策者坦言公有雲支出遭浪費，布局「私有 AI」翻轉昂貴算力架構",
+          "link": "https://techorange.com/2026/10/31/private-cloud-outlook/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-30T22:29:00+00:00",
+          "summary": "博通（Broadcom）與市場調查機構 Radius Tech 合作，發布研究報告《2026 年私有雲展望：人工智慧轉折點》（Private Cloud Outlook 2026: The AI Tipping Point）。這份報告基於全球 1,800 位高階 IT 決策者的實證調查（其中 69% 來自員工人數 5,000 人以上的大型企業），揭示企業在人工智慧從概念驗證正式跨入日常生產環境時，"
+        },
+        {
+          "title": "鴻海科技日揭製造效率：部分產品開發只需 3 週、AI 運算托盤組裝縮至 20 分鐘，怎麼做到？",
+          "link": "https://techorange.com/2026/10/30/hhtd-honhai-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-30T11:06:36+00:00",
+          "summary": "部分產品開發專案，其他業者可能需要 3 個月，鴻海只需 3 週；AI 伺服器運算托盤的組裝時間，也從兩個多小時縮短至 20 分鐘。今（30）日登場的 2026 鴻海科技日，鴻海董事長劉揚偉與輪值 CEO 蔣集恆揭露多項製造效率數字，並說明背後的技術與做法。 劉揚偉在開幕演講中表示，外界過去常將鴻海視為「box mover」，認為鴻海只是負責系統組裝的代工廠。因此，今年科技日特別聚焦過去較少對外介紹"
+        },
+        {
+          "title": "聯合利華 AI 代理連紙本表單照片都能讀：訂單處理快 8 倍、試行市場 95% 免人工",
+          "link": "https://techorange.com/2026/10/30/unilevers-multi-agent-creating-customer-value-global-scale/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-30T10:15:01+00:00",
+          "summary": "消費品公司聯合利華（Unilever）每年約 2,000 萬筆訂單中，仍有約 200 萬筆以電子郵件、PDF、試算表，甚至紙本表單照片等形式送來，過去每筆都要由人工花 15 至 20 分鐘輸入。微軟（Microsoft）近日發布的案例指出，聯合利華與微軟合作開發的 AI 多代理（Multi-Agent AI）系統 NOVA，已在 11 個試行市場中，把訂單到收款（Order-to-Cash）流程第"
+        },
+        {
+          "title": "【DEAT 專欄】從家門到捷運站，TPASS 還缺哪一塊？共享運具正在補上最後一哩",
+          "link": "https://techorange.com/2026/10/30/deat-tpass/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-30T08:34:00+00:00",
+          "summary": "文／台灣數位平台經濟協會（DEAT） 每天早上出門，如果住家離捷運站只有五分鐘，走路或騎 YouBike 都很方便；但如果距離拉長到兩、三公里，途中又有坡度，或者碰上炎熱、下雨、趕時間，選擇就會開始改變。這時候，很多人可能直接騎私人機車出門，原本預計搭乘的捷運或公車，也就從這趟旅程中消失了。 這正是公共運輸「最後一哩」真正需要處理的問題。 TPASS 上路後，逐步把捷運、公車、臺鐵與 YouBik"
+        },
+        {
+          "title": "不怕 AI 被斷供？Mistral 公開兆參數 Large 4 權重，金融、製造業可自建資安防禦",
+          "link": "https://techorange.com/2026/10/30/mistral-large-4-open-weights-cybersecurity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-10-30T06:35:32+00:00",
+          "summary": "法國 AI 新創 Mistral AI 在 10/29 公開旗艦模型 Mistral Large 4（暱稱 Le Chonk）的權重，企業與政府可以自行下載，部署在自家系統上。公司表示，這款 1 兆參數的模型是為了幫助組織找出並修補資安漏洞而設計；和 Google Gemini 這類主要透過線上服務使用的 AI 系統不同，任何人都能下載、獨立執行 Large 4。 Mistral 科學副總裁 Pi"
+        },
+        {
           "title": "Edge AI 不只靠攝影機：無線感測有望讓數十億台既有設備變身環境感測器",
           "link": "https://techorange.com/2026/10/30/wireless-sensing-edge-ai-next/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
           "published": "2026-10-30T04:01:46+00:00",
           "summary": "邊緣人工智慧（Edge AI）如今幾乎已和電腦視覺畫上等號，透過攝影機在裝置端辨識人物、物體與人臉。但嵌入式 AI 解決方案公司 embedUR systems 創辦人暨執行長 Rajesh Subramaniam 近日在《Forbes》撰文指出，視覺只是最早導入邊緣運算的感知方式，在許多場景中其實並不適合；他認為，無線感測（Wireless Sensing）是 Edge AI 的下一步。 Sub"
-        },
-        {
-          "title": "AWS 創近五年最快成長、Google Cloud 營收翻倍，股價卻下跌：華爾街為何擔心 AI 燒錢？",
-          "link": "https://techorange.com/2026/10/30/amazon-alphabet-ai-capex-cloud-cash-flow/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-30T03:51:11+00:00",
-          "summary": "Google 母公司 Alphabet 與亞馬遜分別在美國時間 10/28、10/29 公布第三季財報，雲端業務都交出亮眼成績：Google Cloud 營收年增 103%，亞馬遜的雲端服務 AWS（Amazon Web Services）營收年增 39%，是近五年來最快。但市場反應冷淡，Alphabet 股價在 10/29 重挫 12.6%，是史上最大單日跌幅（以百分比計），亞馬遜股價也在財報公"
-        },
-        {
-          "title": "【模型疲勞，中國更明顯】每次升級都重設價格底線，AI 業者積極開拓利基市場",
-          "link": "https://techorange.com/2026/10/30/ai-model-fatigue-in-china/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-30T02:02:30+00:00",
-          "summary": "當新款 AI 模型推出且不斷更新、升級，雖然反映人工智慧高速進步，但卻也同時引發開發者與科技從業者的模型疲勞，中國科技界尤其明顯，廠商更得因此打起價格戰。"
-        },
-        {
-          "title": "【科技早餐】Google Cloud 營收暴增 103%！Microsoft Azure 成長 48%，AI 投資成本攀升",
-          "link": "https://techorange.com/2026/10/30/google-cloud-microsoft-azure-ai-revenue-growth/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-29T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Google Cloud 營收暴增 103%，Microsoft Azure 成長 48% Google 母公司字母控股（Alphabet）與微軟（Microsoft）在 10 月 28 日公布最新季度財報，兩家公司的雲端業務均受惠於企業 AI 需求。Alphabet 第三季營收達 1,275.8 億美元，年增 25%，其中 Google Clo"
-        },
-        {
-          "title": "91APP 遭駭為何花了 11 天才查出破口？駭客是如何突破防線",
-          "link": "https://techorange.com/2026/10/29/91app-security-incident/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-29T13:00:52+00:00",
-          "summary": "SaaS 業者 91APP 近日被駭，其一座存放近 18 個月訂單交易資料的資料庫遭非法存取，部分資料遭竊。91APP 在 10/29 召開記者會，公布《91APP 被駭事件：25 天調查報告》，董事長何英圻率領公司主管，向受影響的消費者與品牌客戶鞠躬致歉。 91APP 指出，由於無法確認具體涉及哪些訂單，以最大可能影響範圍估算，涉及 1,329 家品牌、479 萬 8225 名消費者，可能遭取得"
-        },
-        {
-          "title": "「五十年後，AI 會用什麼語言說話？」iKala 共同創辦人暨集團董事長程世嘉從「智慧通膨」談主權 AI",
-          "link": "https://techorange.com/2026/10/29/ikala-ai-tmmlu/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-29T10:11:07+00:00",
-          "summary": "「用繁體中文請 AI 說出一種黃色、帶刺的熱帶水果叫什麼，它可能會回『菠蘿』，而不是『鳳梨』。」看似只是用詞習慣的差異，卻反映出 AI 在理解繁體中文與台灣在地語境時，仍有值得改善的空間。在科技報橘日前舉辦的「2026 企業 AI 主權高峰論壇」，iKala 共同創辦人暨集團董事長程世嘉引用美國團隊 2025 年發表的研究，研究人員以 110 個台灣與中國大陸用法不同的詞彙，測試 11 個主流 A"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "用智慧科技克服資源逆境！張麗善《躍上雲端》為地方治理樹立全球典範",
-          "link": "https://www.gvm.com.tw/article/134111",
-          "published": "2026-10-30T00:00:00",
-          "summary": "一個過去被認為「看天吃飯」的農業大縣，如何透過政策創新走向國際？雲林縣政專書《躍上雲端》新書發表會，縣長張麗善深入剖析雲林從傳統糧倉蛻變為全球頂尖智慧城市的治理歷程。這不只是一場新書發表，更是一場翻轉城鄉格局的實力展現！由遠見․天下文化出版、雲林縣政專書《躍上雲端》台北發表會於臺北文創大樓舉行，向各界展現雲林打破逆境、全面演進的城市韌性。現場貴賓雲集，國民黨主席鄭麗文、前行政院副院長朱立倫、前立法"
+          "title": "微塑膠入侵血管跑全身？最新研究：塑膠微粒恐來自食物包裝，自保3原則一次看",
+          "link": "https://www.gvm.com.tw/article/134155",
+          "published": "2026-10-31T07:00:00",
+          "summary": "你以為塑膠很穩定、能安心盛裝水與食物？最新研究顛覆想像：微塑膠遇水竟會活化產出毒性自由基、摧毀紅血球！更驚人的是，我們每天仰賴的食品包裝，正是將塑膠微粒送入人體的最大源頭。各界普遍認為，塑膠具備極高的化學穩定性，不容易和周圍物質產生反應，因而被大量應用在食品包裝與水瓶。然而，由哥倫比亞大學與加州大學團隊近期在頂級期刊《自然》（Nature）發表的最新研究顛覆這項認知。研究團隊表示，當微塑膠接觸到水"
         },
         {
-          "title": "AI、5G創新實力獲國際肯定！中華電信再創Frost & Sullivan最佳實踐獎九連霸",
-          "link": "https://www.gvm.com.tw/article/134080",
-          "published": "2026-10-30T00:00:00",
-          "summary": "從AI算力服務、智慧維運到5G無人機物流，當AI與5G加速走入產業現場，中華電信正以創新科技拓展數位服務新價值，2026年再度榮獲Frost &amp; Sullivan兩項國際大獎，締造連續九年獲獎紀錄，展現台灣電信領導品牌的創新實力。憑藉AI技術布局與5G創新應用成果，中華電信榮獲全球知名顧問公司Frost &amp; Sullivan 2026年《最佳實踐獎》兩項大獎，再度蟬聯「台灣年度最佳"
+          "title": "買下一座舊廠，人生從此不一樣！ jpp-KY為何能接下AI機櫃大單？",
+          "link": "https://www.gvm.com.tw/article/134188",
+          "published": "2026-10-31T00:48:00",
+          "summary": "泰國第一大精密鈑金廠jpp-KY經寶精密（下稱經寶）今年第二季單季獲利與毛利率雙創新高。受惠AI大單的背後，其實是董事長鍾國松以重資產投資，與精準的眼光，在泰國築起最難以攻破的護城河。相當於2.5個足球場大的工廠廠房，傍晚仍燈火通明，裡頭擺滿了剛組裝好的AI伺服器機櫃、電源櫃，得靜置48至72小時，確保材料平整、不變形後，才能包裝出貨到北美。這裡，是泰國第一大精密鈑金廠jpp-KY經寶精密（下稱經"
         },
         {
-          "title": "美國期中選舉影響什麼？川普施政、台灣軍購與關稅，國會3結局一次看",
-          "link": "https://www.gvm.com.tw/article/134150",
-          "published": "2026-10-29T18:08:00",
-          "summary": "11月3日的美國期中選舉，將改選眾議院435席、參議院35席、36州州長。選舉結果將影響川普未來兩年的預算、移民與關稅政策，也牽動台灣軍購、對中科技管制及半導體供應鏈布局。11月3日，美國期中選舉將登場，改選眾議院435席、參議院35席、36州州長。這場選舉是美國總統川普（Donald Trump）執政的期中考，也將決定他未來兩年的施政空間。隨著生活成本壓力升高、川普支持度下滑，共和黨（Repub"
+          "title": "電力就是城市競爭力！台電以提升電網韌性　為AI產業築起供電基石",
+          "link": "https://www.gvm.com.tw/article/134022",
+          "published": "2026-10-31T00:00:00",
+          "summary": "當AI算力成為驅動全球產業的新引擎，電力則是決定國家競爭力的關鍵資源。如今全球正加速邁入「大電力時代」，如何確保電力供應穩定、具備韌性，並兼顧淨零轉型，已不只是能源政策議題，更攸關產業發展與城市競爭力。2026年第24屆遠見高峰會「能源新國力」論壇中，邀請到台灣電力公司副總經理兼輸供電事業部執行長劉建勳，與大家分享台電所擘劃的「穩定供電」具體戰略。國際能源總署（IEA）《Global Energy"
         },
         {
-          "title": "經營之聖稻盛和夫：所謂人生，是由「命運」加上「因果法則」",
-          "link": "https://www.gvm.com.tw/article/98093",
-          "published": "2026-10-29T17:56:00",
-          "summary": "稻盛和夫在演講開頭便點出了他這一生的體悟。他說：「所謂的人生，是由兩件事組成的：『命運』加上『因果法則』！」人生同時被「命運」與「因果」所掌控著，過度順從命運，或是一味地信仰自由意志，都是把人生看得太簡單。（本文摘自《大人學選擇》一書，作者為張國洋、姚詩豪，以下為摘文。）命運確實存在，我們每個人的際遇都受天生的命運所掌握。有的人天生富貴，得天獨厚；但也有人出身貧賤，連基本的生存需求也難以滿足。然而"
+          "title": "2026雙11電商戰！momo、PChome、蝦皮不只拚低價，優惠一次看",
+          "link": "https://www.gvm.com.tw/article/134186",
+          "published": "2026-10-30T19:15:00",
+          "summary": "從韓流天團、明星代言，到點數生態圈與跨境購物，2026年雙11電商大戰出現新變化。當價格戰難以支撐長期成長，momo、PChome與蝦皮如何把流量轉化為營收，甚至進一步改善獲利，成為今年最值得關注的產業看點。一年一度的雙11購物節開打，台灣電商市場再度進入全年最激烈的促銷戰場。不過，今年除了折扣、免運與高額回饋，各大平台還不約而同打出「明星牌」，結合粉絲經濟、點數生態圈與跨境購物，試圖在高度同質化"
         },
         {
-          "title": "若有100萬元，買股票該投入多少？投資教練：用「2%規則」算出能買幾張",
-          "link": "https://www.gvm.com.tw/article/134149",
-          "published": "2026-10-29T17:46:00",
-          "summary": "我們知道停損可以控制單筆交易的風險，分散配置能降低資產組合的波動，但這些工具必須搭配明確的資金管理規則，才能真正發揮作用。實務上，許多專業交易員會設定每筆交易的最大風險，不得超過總資金的一定比例，常見數字包括1%、2%或3%。本節以「2%規則」為例，說明如何將抽象的風險控制，轉化為具體可執行的數字，讓每一次出手都在可承受範圍內。（本文節錄自《漲停8招：實戰背書！》一書，作者：趙彭博，鄭琬馨／時報出"
+          "title": "美國期中選舉震撼彈！堪薩斯94年紅州恐翻藍，川普票倉為何鬆動？",
+          "link": "https://www.gvm.com.tw/article/134185",
+          "published": "2026-10-30T19:02:00",
+          "summary": "最新民調顯示，民主黨牧師漢米爾頓的支持度，超越共和黨現任參議員馬歇爾，可能會改寫堪薩斯州94年未選出民主黨參議員的紀錄。面對川普曾以逾57%得票率勝出的共和黨票倉，漢米爾頓主打中間路線、爭取跨黨支持。柴油價格較戰前上漲七成、農業成本攀升，加上ICE逮捕104人引發民怨，成為選戰變數。11月3日，美國將舉行期中選舉，共和黨（Republican Party）傳統票倉堪薩斯州（Kansas）意外出現激"
         },
         {
-          "title": "AI訂單看得到，出貨時點難抓？台達電鄭平說明庫存增加原因",
-          "link": "https://www.gvm.com.tw/article/134148",
-          "published": "2026-10-29T17:38:00",
-          "summary": "台達電（2308）2026年上半年股價曾漲破2500元，截自10月底卻跌掉四成，不少散戶都在關注背後原因，好奇近期會翻身嗎？AI資料中心熱潮到底卡關在哪？台達電今（29）日舉行第三季法說會，董事長鄭平直言，受到供應鏈長短料及客戶建置延遲影響，訂單能見度雖高，實際出貨時間卻難以掌握。此外，年初至今整體材料成本已上升約2%，公司正陸續與客戶洽談價格調整。但他展望未來仍看到正面線索，以下一文完整解析。今"
+          "title": "美股重挫、台股失守季線！12月恐升1碼，2027投資怎布局？",
+          "link": "https://www.gvm.com.tw/article/134184",
+          "published": "2026-10-30T18:53:00",
+          "summary": "聯準會（Fed）10月28日未升息，美股卻在短暫上漲後轉跌，台股更接連重挫。當市場原以為升息暫停能讓股市喘口氣，AI投資回報與通膨壓力卻成為新的不確定因素。富達甚至預測，今年12月及明年3月還可能各升息1碼。面對2027年投資布局，股票、債券該如何選擇？美國聯準會（Fed）按兵不動、沒升息，股市卻沒有因此鬆一口氣。美東時間10月28日，聯準會宣布維持聯邦資金利率目標區間在3.75%至4.00%，符"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "歐盟發佈新版北極策略聚焦安全經濟和氣候變化 - 中華日報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cdns.com.tw/articles/1482101&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2deXvcFJMT7HR9b_oeXkuv",
-          "published": "2026-10-30T00:42:39+00:00",
-          "summary": "新版策略還提出，加強歐盟與北極地區原住民和地方社區的合作，為當地居民創造更多發展機會。"
+          "title": "<b>氣候變遷</b>恐加劇抗生素抗藥性！台灣為何無法置身事外？醫：3大因素添挑戰",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.mirrormedia.mg/external/healthnews_70183&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1IIrb5nOcXGZZejEm49a38",
+          "published": "2026-10-31T02:35:23+00:00",
+          "summary": "台灣感染症醫學會王永志秘書長指出，氣候變遷本身不會直接造成細菌產生抗藥性，但高溫、極端降雨、洪水等可能改變病原菌生長與傳播途徑，間接增加抗藥性問題的&nbsp;..."
         },
         {
-          "title": "資料中心電力需求年增31%！SEMI論壇聚焦能源韌性台電揭未來15年電網布局 - 風傳媒",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.storm.mg/article/11176722&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3w4oogjAxL4lj1DAG6INco",
-          "published": "2026-10-30T00:32:24+00:00",
-          "summary": "隨著能源管理與電網韌性逐漸成為產業布局的重要考量，SEMI旗下GESA綠能暨永續發展聯盟於2026「台灣國際淨零永續展（Net-Zero Taiwan）」與「台灣國際智慧能源週&nbsp;..."
+          "title": "超強聖嬰全球極端氣候頻傳10月4強颱創近30年新高乾旱野火豪雨衝擊",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7266/9848264&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0xfs7wb9OQKu2bopqRdBY7",
+          "published": "2026-10-30T23:05:26+00:00",
+          "summary": "回顧今年10月全球極端氣候事件。中央氣象署在「報氣候- 中央氣象署」臉書粉專表示，赤道中東太平洋海溫持續升高，超強聖嬰現象正逐步增強，全球氣候變化備受&nbsp;..."
         },
         {
-          "title": "【灣區新聞】海平面上升威脅海灣大橋Caltrans帶傳媒直擊防洪升級工程（視頻） - KTSF.com",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ktsf.com/2026/10/29/bay-bridge-sea-level-rise/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2r00dK_dSUQhAw0g0oeyzd",
-          "published": "2026-10-29T21:50:53+00:00",
-          "summary": "【KTSF 歐志洲的報導】. 面對氣候變遷導致海平面上升的威脅， 加州交通局會（Caltrans）例行評估加州的基礎建設，Caltrans週三帶媒體巡視在海灣大橋的維護&nbsp;..."
+          "title": "全球<b>氣候變遷</b>：2026年十月氣溫創歷史新高，厄爾尼諾現象加劇暖化 - 星島日報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.singtaousa.com/2026/10/30/news/world/this-october-is-on-track-to-be-the-hottest-ever-recorded/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1cxl_wn1eTPfzo9FKaw4qd",
+          "published": "2026-10-30T21:29:56+00:00",
+          "summary": "科學家預測，今年十月將成為有記錄以來最熱的十月，全球氣溫較工業化前高出約1.76°C。受「超級厄爾尼諾」影響，2026年恐成史上最熱年份，並可能引發一系列創&nbsp;..."
         },
         {
-          "title": "ESG國際快訊》日本熊出沒，癱瘓城市3天｜COP31元首出席恐銳減",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://esg.gvm.com.tw/article/128708&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2WblsUjvJsKegFmhEPSlZF",
-          "published": "2026-10-29T20:26:31+00:00",
-          "summary": "本週ESG國際快訊：氣候暖化加劇日本「人熊衝突」危機；美英兩國因政經利益考量放寬排汙與化石燃料限制；COP31元首出席率暴跌蒙上陰影。"
+          "title": "<b>碳中和</b>及可持續發展委員會 - Fortune Insight",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://fortuneinsight.com/web/tag/%25E7%25A2%25B3%25E4%25B8%25AD%25E5%2592%258C%25E5%258F%258A%25E5%258F%25AF%25E6%258C%2581%25E7%25BA%258C%25E7%2599%25BC%25E5%25B1%2595%25E5%25A7%2594%25E5%2593%25A1%25E6%259C%2583/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2zH8YbfaME_RloDj_xfjqL",
+          "published": "2026-10-30T21:06:18+00:00",
+          "summary": "恆生指數23,294.42 △ 0.86%恆生科技指數3,754.90 △ 0.00%標普5007,580.07 ▽ 1.82%納斯達克25,437.00 ▽ 2.86%上證指數3,599.02 ▽ 2.24%恆生&nbsp;..."
         },
         {
-          "title": "元寧<b>淨零</b>碳排技術助產業轉型 - 中時新聞網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/newspapers/20261030000488-260202&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3gRoq6Asz9zn8Qu8U7GeIh",
-          "published": "2026-10-29T20:21:41+00:00",
-          "summary": "隨國際邁向2050淨零碳排趨勢，政府亦積極透過「氣候變遷因應法」強化企業碳盤查義務，並推動「企業淨零行動手冊」引導產業轉型。位於新竹縣新豐鄉的「元寧&nbsp;..."
+          "title": "李鴻源赴竹市演講聚焦氣候調適！高虹安：強化綜合治水打造韌性智慧城市 - 風傳媒",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.storm.mg/article/11177208&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3xFkeyO9LXLuiukCp2m6eY",
+          "published": "2026-10-30T19:49:52+00:00",
+          "summary": "為因應氣候變遷及極端氣候帶來的災害風險，提升城市防洪韌性與氣候調適能力，新竹市政府今（30）日舉辦「氣候變遷下的調適與因應」專題演講，&nbsp;..."
         },
         {
-          "title": "元寧<b>淨零</b>碳排技術助產業轉型- 日報- 工商時報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20261030700340-439901&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw20e795cVdEiWVoUqg2T6mh",
-          "published": "2026-10-29T19:16:23+00:00",
-          "summary": "隨國際邁向2050淨零碳排趨勢，政府亦積極透過「氣候變遷因應法」強化企業碳盤查義務，並推動「企業淨零行動手冊」引導產業轉型。 位於新竹縣新豐鄉的「元寧&nbsp;..."
+          "title": "WMO：2025 年三大溫室氣體濃度創歷史新高，能源轉型藏副作用 - TechNews 科技新報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://technews.tw/2026/10/30/wmo-greenhouse-gas-bulletin-co2/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1tliMCZZ3sM0Pkz8dok4n2",
+          "published": "2026-10-30T19:44:26+00:00",
+          "summary": "... 氣候變遷, 溫室氣體. Categories: 環境科學, 自然科學 &middot; line share ... WMO 提醒，追求淨零道路上必須審慎評估能源轉型可能帶來的非預期後果，尤其&nbsp;..."
         }
       ]
     }
