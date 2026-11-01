@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-10-31T06:40:40.363562+00:00",
-    "date": "2026-10-31",
+    "generated_at": "2026-11-01T07:09:29.034103+00:00",
+    "date": "2026-11-01",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -10,84 +10,47 @@
     {
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
-      "items": [
-        {
-          "title": "【博通私有雲展望報告】97% IT 決策者坦言公有雲支出遭浪費，布局「私有 AI」翻轉昂貴算力架構",
-          "link": "https://techorange.com/2026/10/31/private-cloud-outlook/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-30T22:29:00+00:00",
-          "summary": "博通（Broadcom）與市場調查機構 Radius Tech 合作，發布研究報告《2026 年私有雲展望：人工智慧轉折點》（Private Cloud Outlook 2026: The AI Tipping Point）。這份報告基於全球 1,800 位高階 IT 決策者的實證調查（其中 69% 來自員工人數 5,000 人以上的大型企業），揭示企業在人工智慧從概念驗證正式跨入日常生產環境時，"
-        },
-        {
-          "title": "鴻海科技日揭製造效率：部分產品開發只需 3 週、AI 運算托盤組裝縮至 20 分鐘，怎麼做到？",
-          "link": "https://techorange.com/2026/10/30/hhtd-honhai-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-30T11:06:36+00:00",
-          "summary": "部分產品開發專案，其他業者可能需要 3 個月，鴻海只需 3 週；AI 伺服器運算托盤的組裝時間，也從兩個多小時縮短至 20 分鐘。今（30）日登場的 2026 鴻海科技日，鴻海董事長劉揚偉與輪值 CEO 蔣集恆揭露多項製造效率數字，並說明背後的技術與做法。 劉揚偉在開幕演講中表示，外界過去常將鴻海視為「box mover」，認為鴻海只是負責系統組裝的代工廠。因此，今年科技日特別聚焦過去較少對外介紹"
-        },
-        {
-          "title": "聯合利華 AI 代理連紙本表單照片都能讀：訂單處理快 8 倍、試行市場 95% 免人工",
-          "link": "https://techorange.com/2026/10/30/unilevers-multi-agent-creating-customer-value-global-scale/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-30T10:15:01+00:00",
-          "summary": "消費品公司聯合利華（Unilever）每年約 2,000 萬筆訂單中，仍有約 200 萬筆以電子郵件、PDF、試算表，甚至紙本表單照片等形式送來，過去每筆都要由人工花 15 至 20 分鐘輸入。微軟（Microsoft）近日發布的案例指出，聯合利華與微軟合作開發的 AI 多代理（Multi-Agent AI）系統 NOVA，已在 11 個試行市場中，把訂單到收款（Order-to-Cash）流程第"
-        },
-        {
-          "title": "【DEAT 專欄】從家門到捷運站，TPASS 還缺哪一塊？共享運具正在補上最後一哩",
-          "link": "https://techorange.com/2026/10/30/deat-tpass/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-30T08:34:00+00:00",
-          "summary": "文／台灣數位平台經濟協會（DEAT） 每天早上出門，如果住家離捷運站只有五分鐘，走路或騎 YouBike 都很方便；但如果距離拉長到兩、三公里，途中又有坡度，或者碰上炎熱、下雨、趕時間，選擇就會開始改變。這時候，很多人可能直接騎私人機車出門，原本預計搭乘的捷運或公車，也就從這趟旅程中消失了。 這正是公共運輸「最後一哩」真正需要處理的問題。 TPASS 上路後，逐步把捷運、公車、臺鐵與 YouBik"
-        },
-        {
-          "title": "不怕 AI 被斷供？Mistral 公開兆參數 Large 4 權重，金融、製造業可自建資安防禦",
-          "link": "https://techorange.com/2026/10/30/mistral-large-4-open-weights-cybersecurity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-30T06:35:32+00:00",
-          "summary": "法國 AI 新創 Mistral AI 在 10/29 公開旗艦模型 Mistral Large 4（暱稱 Le Chonk）的權重，企業與政府可以自行下載，部署在自家系統上。公司表示，這款 1 兆參數的模型是為了幫助組織找出並修補資安漏洞而設計；和 Google Gemini 這類主要透過線上服務使用的 AI 系統不同，任何人都能下載、獨立執行 Large 4。 Mistral 科學副總裁 Pi"
-        },
-        {
-          "title": "Edge AI 不只靠攝影機：無線感測有望讓數十億台既有設備變身環境感測器",
-          "link": "https://techorange.com/2026/10/30/wireless-sensing-edge-ai-next/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-10-30T04:01:46+00:00",
-          "summary": "邊緣人工智慧（Edge AI）如今幾乎已和電腦視覺畫上等號，透過攝影機在裝置端辨識人物、物體與人臉。但嵌入式 AI 解決方案公司 embedUR systems 創辦人暨執行長 Rajesh Subramaniam 近日在《Forbes》撰文指出，視覺只是最早導入邊緣運算的感知方式，在許多場景中其實並不適合；他認為，無線感測（Wireless Sensing）是 Edge AI 的下一步。 Sub"
-        }
-      ]
+      "items": []
     },
     {
       "feed_name": "遠見雜誌 - 前進的動力",
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "微塑膠入侵血管跑全身？最新研究：塑膠微粒恐來自食物包裝，自保3原則一次看",
-          "link": "https://www.gvm.com.tw/article/134155",
-          "published": "2026-10-31T07:00:00",
-          "summary": "你以為塑膠很穩定、能安心盛裝水與食物？最新研究顛覆想像：微塑膠遇水竟會活化產出毒性自由基、摧毀紅血球！更驚人的是，我們每天仰賴的食品包裝，正是將塑膠微粒送入人體的最大源頭。各界普遍認為，塑膠具備極高的化學穩定性，不容易和周圍物質產生反應，因而被大量應用在食品包裝與水瓶。然而，由哥倫比亞大學與加州大學團隊近期在頂級期刊《自然》（Nature）發表的最新研究顛覆這項認知。研究團隊表示，當微塑膠接觸到水"
+          "title": "窮人版猛健樂！「吃的瘦瘦針」一週能瘦1公斤？營養師說關鍵在這",
+          "link": "https://www.gvm.com.tw/article/134163",
+          "published": "2026-11-01T07:00:00",
+          "summary": "近期在社群軟體 Threads 有不少網友分享，自己靠著晚餐吃海苔包水煮蛋、小黃瓜、玉米粒、鮪魚罐頭5種平價食材，當晚餐或減脂餐，就好比打了「天然猛健樂」一樣，一個禮拜可以瘦 1 公斤左右。由於食材價格相對便宜，更被網友戲稱是「窮人的猛健樂」讓不少有瘦身需求的人躍躍欲試。但這樣的減重食譜，真的能發揮如「瘦瘦針」般的效果嗎？來看看營養師怎麼說，並同步加碼 2 道做法與食材準備同樣簡單的「變化版減肥料"
         },
         {
-          "title": "買下一座舊廠，人生從此不一樣！ jpp-KY為何能接下AI機櫃大單？",
-          "link": "https://www.gvm.com.tw/article/134188",
-          "published": "2026-10-31T00:48:00",
-          "summary": "泰國第一大精密鈑金廠jpp-KY經寶精密（下稱經寶）今年第二季單季獲利與毛利率雙創新高。受惠AI大單的背後，其實是董事長鍾國松以重資產投資，與精準的眼光，在泰國築起最難以攻破的護城河。相當於2.5個足球場大的工廠廠房，傍晚仍燈火通明，裡頭擺滿了剛組裝好的AI伺服器機櫃、電源櫃，得靜置48至72小時，確保材料平整、不變形後，才能包裝出貨到北美。這裡，是泰國第一大精密鈑金廠jpp-KY經寶精密（下稱經"
+          "title": "從電競到ACGE 新北讓「玩家文化」走向跨域產業",
+          "link": "https://www.gvm.com.tw/article/133858",
+          "published": "2026-11-01T00:00:00",
+          "summary": "當電競走出賽事、走進生活，新的產業版圖也在成形。從效能硬體、遊戲內容、IP與創作者，到品牌體驗，電競成為跨產業連結的平台。台灣憑藉著科技實力與完整產業鏈，具備獨特優勢。新北從電競基地出發，串聯場域、人才與產業資源；新北市政府經濟發展局於2024年輔導推動「新北市電競產業總會」成立，集結企業、政府與學界力量，讓科技找到應用、內容創造體驗、人才接軌產業，也讓品牌與玩家建立更深的連結。從各自發揮到組隊共"
         },
         {
-          "title": "電力就是城市競爭力！台電以提升電網韌性　為AI產業築起供電基石",
-          "link": "https://www.gvm.com.tw/article/134022",
-          "published": "2026-10-31T00:00:00",
-          "summary": "當AI算力成為驅動全球產業的新引擎，電力則是決定國家競爭力的關鍵資源。如今全球正加速邁入「大電力時代」，如何確保電力供應穩定、具備韌性，並兼顧淨零轉型，已不只是能源政策議題，更攸關產業發展與城市競爭力。2026年第24屆遠見高峰會「能源新國力」論壇中，邀請到台灣電力公司副總經理兼輸供電事業部執行長劉建勳，與大家分享台電所擘劃的「穩定供電」具體戰略。國際能源總署（IEA）《Global Energy"
+          "title": "AI愈會回答，領導者愈要會判斷：真正不能外包的是什麼？",
+          "link": "https://www.gvm.com.tw/article/133900",
+          "published": "2026-11-01T00:00:00",
+          "summary": "AI浪潮席捲各大產業，既是技術革命，也像一面鏡子，映照出領導者的真正價值。當預測、分析與執行都能交給AI，領導者的關鍵不再只是績效數字，而是判斷、信任與建立價值觀。當生成式AI能在幾秒鐘內整理出市場分析、產業趨勢甚至商業企劃書，知識與資訊的取得門檻大幅降低，企業領導者真正要學的是什麼？臺大管理學院產學發展副院長謝明慧指出：「最危險的決策盲區，是不知道自己不知道什麼。」AI讓答案唾手可得，領導者更需"
         },
         {
-          "title": "2026雙11電商戰！momo、PChome、蝦皮不只拚低價，優惠一次看",
-          "link": "https://www.gvm.com.tw/article/134186",
-          "published": "2026-10-30T19:15:00",
-          "summary": "從韓流天團、明星代言，到點數生態圈與跨境購物，2026年雙11電商大戰出現新變化。當價格戰難以支撐長期成長，momo、PChome與蝦皮如何把流量轉化為營收，甚至進一步改善獲利，成為今年最值得關注的產業看點。一年一度的雙11購物節開打，台灣電商市場再度進入全年最激烈的促銷戰場。不過，今年除了折扣、免運與高額回饋，各大平台還不約而同打出「明星牌」，結合粉絲經濟、點數生態圈與跨境購物，試圖在高度同質化"
+          "title": "AI用得快也要守得住！Fortinet：CEO應從企業治理看待資安與成長雙軌並進",
+          "link": "https://www.gvm.com.tw/article/133441",
+          "published": "2026-11-01T00:00:00",
+          "summary": "當AI正快速深入公司日常營運與核心的同時，AI Agent失控，自主發出駭客攻擊事件也頻傳。全球網路安全領導商Fortinet台灣區總經理吳章銘強調，AI時代，不是用得快就會贏。當AI導入速度遠大於AI治理的速度，企業真的做好準備了嗎？對於近期頻傳的AI Agent失控事件，Fortinet台灣區總經理吳章銘分析，最主要的盲點就在於，企業應該將AI Agent視為是「獨立的數位工作者」。給予什麼樣"
         },
         {
-          "title": "美國期中選舉震撼彈！堪薩斯94年紅州恐翻藍，川普票倉為何鬆動？",
-          "link": "https://www.gvm.com.tw/article/134185",
-          "published": "2026-10-30T19:02:00",
-          "summary": "最新民調顯示，民主黨牧師漢米爾頓的支持度，超越共和黨現任參議員馬歇爾，可能會改寫堪薩斯州94年未選出民主黨參議員的紀錄。面對川普曾以逾57%得票率勝出的共和黨票倉，漢米爾頓主打中間路線、爭取跨黨支持。柴油價格較戰前上漲七成、農業成本攀升，加上ICE逮捕104人引發民怨，成為選戰變數。11月3日，美國將舉行期中選舉，共和黨（Republican Party）傳統票倉堪薩斯州（Kansas）意外出現激"
+          "title": "百年行庫的敏捷+AI革命！華南銀行走出自己的新世代金融服務",
+          "link": "https://www.gvm.com.tw/article/133392",
+          "published": "2026-11-01T00:00:00",
+          "summary": "當ChatGPT引爆全球AI熱潮、Fintech改寫金融規則，百年公股行庫該如何自處？當外界以為公股只能被動追趕科技浪頭，華南銀行卻選擇以自身步調，悄然完成一場由內而外的蛻變，在穩健與敏捷之間，開闢出一條「創新驅動、永續引領」的破局之道。華南銀行如何激發全員的客戶成功學？2025年，華南銀行成為首家財富管理淨手續費收入突破百億元的公股銀行；2026年前8個月，累計獲利衝破189億元，穩占集團獲利7"
         },
         {
-          "title": "美股重挫、台股失守季線！12月恐升1碼，2027投資怎布局？",
-          "link": "https://www.gvm.com.tw/article/134184",
-          "published": "2026-10-30T18:53:00",
-          "summary": "聯準會（Fed）10月28日未升息，美股卻在短暫上漲後轉跌，台股更接連重挫。當市場原以為升息暫停能讓股市喘口氣，AI投資回報與通膨壓力卻成為新的不確定因素。富達甚至預測，今年12月及明年3月還可能各升息1碼。面對2027年投資布局，股票、債券該如何選擇？美國聯準會（Fed）按兵不動、沒升息，股市卻沒有因此鬆一口氣。美東時間10月28日，聯準會宣布維持聯邦資金利率目標區間在3.75%至4.00%，符"
+          "title": "住戶全同意卻苦等不到開工？胡偉良：從1159件都更案揭老屋重建「時間成本」",
+          "link": "https://www.gvm.com.tw/article/132382",
+          "published": "2026-10-31T22:26:00",
+          "summary": "「苦苦等不到都更。」台北市都更現況成10/31台北市長辯論攻防議題。住在老公寓、老社區的人，多半有同一個疑問：大家都同意改建了，為什麼還要等這麼久？根據內政部國土管理署統計，截至2026年6月30日，台北市有1,159件都更案進行中，其中421件已送件、仍在等待後續程序；而近年每年核定的只有36至40件。兩者一除約為10.5至11.7年——已塞車約11年的案件。這個「11年」是庫存消化年數，不是每"
         }
       ]
     },
@@ -96,40 +59,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "<b>氣候變遷</b>恐加劇抗生素抗藥性！台灣為何無法置身事外？醫：3大因素添挑戰",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.mirrormedia.mg/external/healthnews_70183&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1IIrb5nOcXGZZejEm49a38",
-          "published": "2026-10-31T02:35:23+00:00",
-          "summary": "台灣感染症醫學會王永志秘書長指出，氣候變遷本身不會直接造成細菌產生抗藥性，但高溫、極端降雨、洪水等可能改變病原菌生長與傳播途徑，間接增加抗藥性問題的&nbsp;..."
+          "title": "修理代替丟棄環境部今攜手台南橋南社區體驗修惜綠生活 - 聯合新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7266/9849893&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2cxe9kbpwVP_Bt3nH5yRXh",
+          "published": "2026-11-01T03:31:39+00:00",
+          "summary": "想體驗如何將「淨零轉型」與「惜物永續」融入日常生活嗎？環境部今攜手台南市鹽水區橋南社區，搭配年度盛事「115 年鹽水意麵嘉年華－意暖鹽水光映月津」，&nbsp;..."
         },
         {
-          "title": "超強聖嬰全球極端氣候頻傳10月4強颱創近30年新高乾旱野火豪雨衝擊",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7266/9848264&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0xfs7wb9OQKu2bopqRdBY7",
-          "published": "2026-10-30T23:05:26+00:00",
-          "summary": "回顧今年10月全球極端氣候事件。中央氣象署在「報氣候- 中央氣象署」臉書粉專表示，赤道中東太平洋海溫持續升高，超強聖嬰現象正逐步增強，全球氣候變化備受&nbsp;..."
+          "title": "守護崖壁上的文明史詩（文化中國行·人文觀察）",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=http://cpc.people.com.cn/BIG5/n1/2026/1101/c64387-40825238.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3JiM-xMWFE9HmRe7uP_t3A",
+          "published": "2026-11-01T00:56:41+00:00",
+          "summary": "氣候變化對石窟寺的影響，既有極端氣候引起的暴雨沖刷、洪水侵蝕及引發的滑坡、崩塌、泥石流等地質災害沖擊，也有隱蔽性長期影響：裂隙滲流網絡演化、滲水&nbsp;..."
         },
         {
-          "title": "全球<b>氣候變遷</b>：2026年十月氣溫創歷史新高，厄爾尼諾現象加劇暖化 - 星島日報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.singtaousa.com/2026/10/30/news/world/this-october-is-on-track-to-be-the-hottest-ever-recorded/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1cxl_wn1eTPfzo9FKaw4qd",
-          "published": "2026-10-30T21:29:56+00:00",
-          "summary": "科學家預測，今年十月將成為有記錄以來最熱的十月，全球氣溫較工業化前高出約1.76°C。受「超級厄爾尼諾」影響，2026年恐成史上最熱年份，並可能引發一系列創&nbsp;..."
+          "title": "<b>氣候變遷</b>恐加劇抗生素抗藥性！台灣為何無法置身事外？醫：3大因素添挑戰 - LINE TODAY",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/posts/list/article/oqp78l6&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1EUJeB3ZMJL4e902kSj-Yy",
+          "published": "2026-10-31T23:44:56+00:00",
+          "summary": "0則貼文| 快來參與LINE TODAY討論牆上的討論| 氣候變遷恐加劇抗生素抗藥性！台灣為何無法置身事外？醫：3大因素添挑戰."
         },
         {
-          "title": "<b>碳中和</b>及可持續發展委員會 - Fortune Insight",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://fortuneinsight.com/web/tag/%25E7%25A2%25B3%25E4%25B8%25AD%25E5%2592%258C%25E5%258F%258A%25E5%258F%25AF%25E6%258C%2581%25E7%25BA%258C%25E7%2599%25BC%25E5%25B1%2595%25E5%25A7%2594%25E5%2593%25A1%25E6%259C%2583/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2zH8YbfaME_RloDj_xfjqL",
-          "published": "2026-10-30T21:06:18+00:00",
-          "summary": "恆生指數23,294.42 △ 0.86%恆生科技指數3,754.90 △ 0.00%標普5007,580.07 ▽ 1.82%納斯達克25,437.00 ▽ 2.86%上證指數3,599.02 ▽ 2.24%恆生&nbsp;..."
+          "title": "台東縣表揚民間<b>淨零</b>綠生活夥伴中華紙漿綠色採購2.6億居冠 - 蕃新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20261031717045&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw20zzVHF2NLYqdXQ8qkj-PB",
+          "published": "2026-10-31T22:00:02+00:00",
+          "summary": "報新聞/編輯部為鼓勵民間企業、餐飲業者及民眾以具體行動實踐淨零綠生活，臺東縣環境保護局辦理「115年."
         },
         {
-          "title": "李鴻源赴竹市演講聚焦氣候調適！高虹安：強化綜合治水打造韌性智慧城市 - 風傳媒",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.storm.mg/article/11177208&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3xFkeyO9LXLuiukCp2m6eY",
-          "published": "2026-10-30T19:49:52+00:00",
-          "summary": "為因應氣候變遷及極端氣候帶來的災害風險，提升城市防洪韌性與氣候調適能力，新竹市政府今（30）日舉辦「氣候變遷下的調適與因應」專題演講，&nbsp;..."
+          "title": "全球高溫8年奪300萬命！《刺針》促氣候變化列全球衛生緊急狀態 - 巴士的報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bastillepost.com/hongkong/article/17070550-%25E5%2585%25A8%25E7%2590%2583%25E9%25AB%2598%25E6%25BA%25AB8%25E5%25B9%25B4%25E5%25A5%25AA300%25E8%2590%25AC%25E5%2591%25BD%25EF%25BC%2581%25E3%2580%258A%25E5%2588%25BA%25E9%2587%259D%25E3%2580%258B%25E4%25BF%2583%25E5%2588%2597%25E5%2585%25A8%25E7%2590%2583%25E8%25A1%259B%25E7%2594%259F%25E7%25B7%258A%25E6%2580%25A5&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw36ntYMHmF5eEGnhnHJmUDu",
+          "published": "2026-10-31T20:44:22+00:00",
+          "summary": "在區域分佈上，東南亞及非洲地區成為最大受害者，估算經濟損失分別佔其國內生產總值（GDP）的3.9%及3.2%，遠高於歐洲的0.2%與美洲的1.5%。報告同時指出，化石&nbsp;..."
         },
         {
-          "title": "WMO：2025 年三大溫室氣體濃度創歷史新高，能源轉型藏副作用 - TechNews 科技新報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://technews.tw/2026/10/30/wmo-greenhouse-gas-bulletin-co2/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1tliMCZZ3sM0Pkz8dok4n2",
-          "published": "2026-10-30T19:44:26+00:00",
-          "summary": "... 氣候變遷, 溫室氣體. Categories: 環境科學, 自然科學 &middot; line share ... WMO 提醒，追求淨零道路上必須審慎評估能源轉型可能帶來的非預期後果，尤其&nbsp;..."
+          "title": "馬會撥款8300萬元支持青協賽馬會有機農莊升級 - 新城電台",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.metroradio.com.hk/news/details.aspx%3FNewsId%3D20261031153803%26page%3D0&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1eft8PKj_gSo-GVTmCK5_a",
+          "published": "2026-10-31T19:43:25+00:00",
+          "summary": "馬會慈善信託基金撥捐8300萬元，支持香港青年協會推行「賽馬會氣候智能耕種教育計劃」，並重建及優化位於元朗八鄉大欖郊野公園的「青協賽馬會有機農莊」。"
         }
       ]
     }
