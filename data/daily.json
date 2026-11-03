@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-11-02T07:18:07.439025+00:00",
-    "date": "2026-11-02",
+    "generated_at": "2026-11-03T07:37:06.514877+00:00",
+    "date": "2026-11-03",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "企業 AI 如何建立共同語言？雲馥數位蔡嘉豪：以 Fabric IQ 串起資料語意與業務脈絡",
-          "link": "https://techorange.com/2026/11/02/cloudriches-aiagent-fabric-iq/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-02T04:10:22+00:00",
-          "summary": "同樣是「營收」，財務、業務與 CRM 系統可能各有不同定義，產生的數字也未必一致。雲馥數位技術服務處長蔡嘉豪在科技報橘舉辦的「2026 企業 AI 主權高峰論壇」指出，這些數字在各自的業務情境下或許都合理，但當 AI Agent 開始參與報表分析、客戶服務與營運決策，若缺乏一致的資料定義與業務脈絡，就可能產生錯誤判斷，並隨著自動化流程逐步放大影響。 「我們一直不斷投入這些資源在數據中台，到底缺了什"
+          "title": "Marvell 砸 1,150 億美元收購 Lumentum，下一代光互連為何可能衝擊既有 DSP 生意？",
+          "link": "https://techorange.com/2026/11/03/lumentum-marvell/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-03T03:55:50+00:00",
+          "summary": "美國晶片大廠 Marvell 美國時間 11/2 宣布，以企業價值 1,150 億美元的全股票交易收購光學元件大廠 Lumentum。這起 2026 年規模最大的企業併購案之一，《Reuters》指出是 Marvell 押注 AI 資料中心需求成長、強化與晶片大廠 Broadcom 競爭的重要一步。 不過，這筆收購不只是為了擴大光通訊業務。隨著下一代光互連技術發展，Marvell 原本供應的部分數"
         },
         {
-          "title": "DeepSeek 開源編碼代理 Super-Agent：沒人指派也能接單，預設卻只記錄不出手",
-          "link": "https://techorange.com/2026/11/02/deepseek-super-agent-proactive-coding-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-02T04:07:53+00:00",
-          "summary": "DeepSeek 旗下團隊在 10/31（週六）於微信宣布開源編碼代理（coding agent）Super-Agent，專案以 MIT 授權發布在 GitHub。根據《Bloomberg》報導，這款更具自主性的代理原型，能主動監看開發者群組聊天中關於程式問題的回饋，不必被呼叫就提出解法。不過，DeepSeek 在說明文件中也替這種主動設下前提：代理預設只記錄自己「會接受」的工作，不會真的動手。 "
+          "title": "用 AI 研發 AI 有多快？Anthropic 坦承曾未及時察覺加速，未來模型恐觸及新門檻",
+          "link": "https://techorange.com/2026/11/03/anthropic-s1a-ai-rd-acceleration-safety/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-03T03:55:21+00:00",
+          "summary": "Anthropic 在美國時間 11/2 向美國證券交易委員會（SEC）遞交 S-1 上市申報文件的第一號修正案。市場目光多半落在財務數字上，據《Axios》整理，Anthropic 第三季營收約 170 億美元，較前一季成長近 47%。不過，《TechCrunch》注意到，修正案在風險因素中新增段落，坦言過去曾在研發加速之後才察覺，並表示可能即將觸及自家負責任擴展政策（Responsible S"
         },
         {
-          "title": "【一人公司不再只是副業】創辦人用 AI 工具撐起整個團隊，但最難補的是決策支持系統",
-          "link": "https://techorange.com/2026/11/02/ai-powered-solo-founders/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-02T03:12:24+00:00",
-          "summary": "在 AI 時代一個人經營公司，靠的不再是無止盡的加班，而是一整套 AI 工具了。程式開發、行銷、客服、記帳與銷售，過去需要分別聘人負責，如今有越來越多創辦人改用 AI 應用程式、聊天機器人與自動化平台，讓每項工具各自承擔一個部門的工作。這其中，最常被提起的例子是 Base44。 一人公司正成為可規模化的商業模式 Base44 創辦人 Maor Shlomo 幾乎獨力打造這家 vibe coding"
+          "title": "「主權不是擁有更多工具，而是掌握 AI 行動的邊界與責任。」Rimini Street 資深客戶成功經理高治平點出掌握 AI 主權的五個控制權",
+          "link": "https://techorange.com/2026/11/03/riministreet-aiagent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-03T03:02:26+00:00",
+          "summary": "「大部分企業不是沒有 AI，而是 AI 無法進入核心流程，」Rimini Street 資深客戶成功經理高治平於 TechOrange 科技報橘日前舉辦的「2026 企業 AI 主權高峰論壇」中，指出許多企業面對的處境，企業看不見內部有哪些模型與 Agent，管不住權限與中止機制，算不清成本與成果，流程又被舊整合與供應商路線綁住而走不快。 高治平把企業分成兩種，一種是「自主企業」，能選擇工具、串接"
         },
         {
-          "title": "Meta 聯手傅利葉打造人形機器人，3 個月完成原型、美國政策成潛在挑戰",
-          "link": "https://techorange.com/2026/11/02/meta-fourier-ai-humanoid-robotics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-02T03:09:17+00:00",
-          "summary": "Meta 正加速推進人形機器人研發，根據《The Information》近日報導，Meta 與中國機器人公司傅利葉智能（Fourier Intelligence）合作，只花約 3 個月就完成一款名為 Max 的人形機器人原型，並已著手開發第二代 Max 2。 這不是 Meta 第一次跨足機器人領域，從研究 AI 如何理解物理世界、成立專門的機器人團隊，到今年收購機器人 AI 新創公司，Meta "
+          "title": "【AI 對話框成新貨架】消費者讓 AI 比較完才下單，品牌 4 步驟爭取進入推薦名單",
+          "link": "https://techorange.com/2026/11/03/market-to-machines/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-03T01:45:04+00:00",
+          "summary": "想買新的保養品時，過去多數人會先上 Google 搜尋、看幾篇評比文章、逛幾個品牌官網，再決定買哪一款。企業 20 多年來的數位行銷，也都圍繞這個流程打造，買關鍵字廣告、衝搜尋排名、最佳化網站，想辦法在消費者搜尋時被看見。 但越來越多消費者改用 ChatGPT 這類 AI 工具，直接說出膚質、預算與需求，請 AI 推薦產品。AI 比較完後，消費者心裡往往已有答案，最後才點進網站購買。 於是，不少企"
         },
         {
-          "title": "【AI 代理會被說服，也能說服人】失控代理以假身分施壓開發者，專家：授權不能交給模型判斷",
-          "link": "https://techorange.com/2026/11/02/ai-can-be-persuaded-security-boundary/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-02T02:35:03+00:00",
-          "summary": "研究發現獎勵、威脅、意識形態、自我詮釋等敘事，對於影響 AI 同樣有效，所以駭客可以輕鬆向 AI 建構出「虛假現實」，接受原本拒絕的行為，即 AI 代理可以備說服，造成資安風險。"
+          "title": "【AI 代理行為學實驗】觀察「放假」中的 AI 代理，MIT 發現玩耍練出的技巧能用在後續任務",
+          "link": "https://techorange.com/2026/11/03/ai-agent-eko-built-temple/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-03T01:44:42+00:00",
+          "summary": "麻省理工學院（MIT）研究人員將 Claude Code 控制的 AI 代理 Eko 放進虛擬島嶼，給予每次 30 小時自由時間，觀察到 AI 會帶有目的性做事情，藉此研究 AI 代理行為學。"
         },
         {
-          "title": "【鴻海科技日直擊】AI 機器人如何真正落地？鴻海科技集團 C 事業群總經理李光曜提三大關鍵：場域驗證、系統整合、生態系合作",
-          "link": "https://techorange.com/2026/11/02/hhtd-taiwan-ai-robotics-summit/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-02T02:06:50+00:00",
-          "summary": "為協助台灣在全球 AI 機器人浪潮中搶佔領先角色，鴻海科技集團與 TechOrange 科技報橘日前（10/31）於「HHTD 鴻海科技日」聯合舉辦「台灣 AI 機器人產業開發大會」，共同探討具身智能機器人的工業場域應用、安全可信的機器人發展、代理式 AI 與人機協作，以及台灣在 AI 時代的新經濟定位與 2027 年 AI 機器人的技術突破契機。 鴻海科技集團 C 事業群總經理李光曜在開場致詞中"
+          "title": "Google、微軟、OpenAI、Anthropic 支援網站一次退出 AI 訓練，但只管訓練、不擋爬蟲",
+          "link": "https://techorange.com/2026/11/03/shared-ai-training-opt-out-robots-txt/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-03T00:10:00+00:00",
+          "summary": "美國時間 10/30，Google、微軟與 OpenAI 先後宣布，將支援網站在 robots.txt（網站用來告訴爬蟲哪些頁面可以抓取的設定檔）中使用一組共用設定；據《法新社》報導，Anthropic 也表示已開始推行。過去網站要逐一辨識各家 AI 爬蟲、分別寫規則，往後只要寫一次，就能向多家參與的 AI 業者表達不希望內容被拿去訓練模型。不過，這組設定只管訓練、不擋爬蟲，也還不是正式標準。 四"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "從1999快、準、好的服務，看見新北創新AI城市治理！",
-          "link": "https://www.gvm.com.tw/article/133873",
-          "published": "2026-11-02T00:00:00",
-          "summary": "1999已經成為臺灣城市服務的標配，新北市是臺灣第一大城，更是領航的智慧城市、AI城市，持續為1999導入AI知識庫，串聯跨局處業務，鏈結人機協作優勢，降低民眾等待時間，讓服務快速精準到位。一通通打進1999的電話，可能是路燈不亮、道路積水或深夜噪音，對全臺人口最多的新北市而言，1999不只是客服專線，更像是城市的「聽診器」，每天接住市民的大小問題，即時、精準回應市民大小事，優化城市治理。2019"
+          "title": "當交通安全走進日常 南投如何用一枚平安御守、一堂體驗課改變用路習慣",
+          "link": "https://www.gvm.com.tw/article/134208",
+          "published": "2026-11-03T00:00:00",
+          "summary": "交通安全的道理，人人都懂，但真正走上馬路時，卻未必做得到。趕時間時少看一眼、騎車時貪圖方便，或因為熟悉住家附近的道路而降低警覺，都可能讓日常出門變成一場風險。對幅員遼闊、山區道路與觀光動線交織的南投而言，如何讓不同年齡、不同生活習慣的用路人真正把安全放在心上，不只是交通規則的宣導，更是地方治理必須長期面對的課題。「道路安全不是知道就好，而是要真的做到。」南投縣政府新聞及行政處處長蔡明志觀察，相較都"
         },
         {
-          "title": "從賽道到腕間：RICHARD MILLE × Ferrari 如何以工程突破性能極限",
-          "link": "https://www.gvm.com.tw/article/133862",
-          "published": "2026-11-02T00:00:00",
-          "summary": "在高級製錶的世界，時間的計量已超越刻度，化為對物理極限的無畏挑戰。2021年，瑞士頂級製錶品牌RICHARD MILLE與義大利傳奇超跑巨擘Ferrari（法拉利）宣佈建立長期合作夥伴關係。強強聯手，共譜精密機械與極致美學的交響詩。RICHARD MILLE與法拉利的聯盟，有如一場高科技腕錶結構學與頂級空氣動力學的微觀對話。法拉利在賽車場內外對極致輕量化、抗震動性與動力結構的鑽研，正是RICHAR"
+          "title": "幣安63億美元遭駭！史上最大加密貨幣竊案竟是「一漏洞」導致？",
+          "link": "https://www.gvm.com.tw/article/134224",
+          "published": "2026-11-02T18:49:00",
+          "summary": "全球最大加密貨幣交易所幣安驚傳史上最大竊案！北韓駭客疑似透過工程師電腦入侵，短短20分鐘盜走63億美元。儘管幣安已回補95%受影響資產，這場資安風暴仍暴露加密貨幣交易所的三大風險。全球最大加密貨幣交易所幣安（Binance）驚傳史上最大規模加密資產竊盜事件！10月30日凌晨，幣安多條區塊鏈熱錢包遭駭客入侵，短短20分鐘內，大量加密資產遭非法轉移，損失高達63億美元（約合新台幣2040億元），刷新全"
         },
         {
-          "title": "從 Art Deco 到當代女性　百達翡麗 Gondolo Ladies First 的風格新章",
-          "link": "https://www.gvm.com.tw/article/133795",
-          "published": "2026-11-02T00:00:00",
-          "summary": "風格，始於對自我的理解，更蘊含個人獨有的視野。2026年，百達翡麗以全新Gondolo Ladies First系列，重新演繹2009年Ladies First計時腕錶的精神，以裝飾藝術時期的經典輪廓融入鑽石、彩色寶石與現代色彩，讓經典時計在當代女性腕間與自信魅力的風格輝映。「別人的想法永遠比不上你自己的。因為那是你與生俱來的視界，最終也將是你的全部。」一生堅持無所畏懼、忠於自我，20世紀現代主義"
+          "title": "NET標榜86%棉驗出「0%棉」！消費者自行送驗：完全沒有棉，業者道歉坦承3大疏失",
+          "link": "https://www.gvm.com.tw/article/134222",
+          "published": "2026-11-02T17:50:00",
+          "summary": "台灣知名本土服飾品牌NET因款式多元且價格親民，長期深獲消費者喜愛；不過有消費者指控，買了一件POLO衫「標示含有86％棉、14％聚酯纖維」，沒想到才穿了一天，衣服竟飄出異味，懷疑材質標示不符，自行送SGS檢驗後，結果竟驗出97.6％聚酯纖維、2.4％彈性纖維，完全沒有棉，讓他超傻眼，貼文曝光後引發社群熱議。NET今發布聲明坦承製造、審核與客服三大疏失並公開致歉，宣佈針對該款短袖衫即日起提供消費者"
         },
         {
-          "title": "不只是開發，更是治理！臺中如何用「適地發展」打造永續宜居城市？",
-          "link": "https://www.gvm.com.tw/article/134046",
-          "published": "2026-11-02T00:00:00",
-          "summary": "臺中市人口突破286萬，早已躍居全台第二大城。不過，快速成長帶來一道嚴峻的治理命題，那就是開發的邊界在哪裡？城市擴張，又該如何與環境、文化、居民生活和平共存？對此，臺中市地政局選擇一條清晰的路徑，並非一味向外擴張，而是在開發與秩序之間，找到精準的平衡點，而這就是所謂「適地發展」的邏輯。「土地適合做什麼使用，我們就往那個性質去發展，」地政局專門委員吳志偉提到「適地發展」的核心概念。六大策略區，為土地"
+          "title": "日經亞洲：台日研議經貿協議，防災、數位貿易入列",
+          "link": "https://www.gvm.com.tw/article/134221",
+          "published": "2026-11-02T17:47:00",
+          "summary": "直接掌握磋商情況的消息人士透露，日本與台灣正研擬一項涵蓋廣泛領域的貿易協議，可望成為這兩個亞洲科技強權戰略關係的重要支柱，並打破台灣貿易外交的僵局。根據知情人士，協議最快有望於今年底簽署。「日經亞洲」（Nikkei Asia）報導，兩名身居要職的消息人士表示，日本正與台灣總統賴清德的政府磋商，盼敲定一項全面性經濟協議，形式將類似英國與台灣2023年簽署的「提升貿易夥伴關係協議」（Enhanced "
         },
         {
-          "title": "烏鴉聰明是真的！大腦判斷決策速度比人類快兩倍，研究：複雜智慧不一定需要人腦",
-          "link": "https://www.gvm.com.tw/article/134167",
-          "published": "2026-11-01T11:05:00",
-          "summary": "過去人們常用「鳥腦袋」形容一個人不夠聰明，但對烏鴉的認知則不然，烏鴉不只能辨認人臉、記住威脅，還具備製作及使用工具的能力，展現高度認知智慧。烏鴉還有另一項超能力，刊登在《科學》的研究發現，烏鴉做出視覺判斷的速度比人類和猴子快上近兩倍，而且不只是單純的本能反射，而是經過大腦分析資訊後做出的決策。德國圖賓根大學研究團隊訓練兩隻小嘴烏鴉&nbsp;(Carrion Crow)&nbsp;進行視覺辨識實驗"
+          "title": "斷食就會善終？畢柳鶯否認推斷食：「我在推允許自然死亡運動」",
+          "link": "https://www.gvm.com.tw/article/134218",
+          "published": "2026-11-02T17:27:00",
+          "summary": "「我不是在推斷食，我在推允許自然死亡運動！」復健科醫師畢柳鶯出版《斷食善終》，並自述協助病人撤管、自主斷食，引起美化斷食、協助自殺等質疑。她批評，醫界對「末期」病人的定義至今分歧、《病主法》缺少家屬代簽機制，認為這些問題阻礙自然死亡。她估計台灣每年仍「製造」數千名插管臥床病人，呼籲停止無效醫療。畢柳鶯以「地獄」形容長期插管臥床病人的處境，她表示，在她的母親過世之前，她就已看見這些病人的困境；全民健"
         },
         {
-          "title": "膝關節退化非得換人工關節？有機會真正修復，史丹佛大學找到軟骨再生的新契機",
-          "link": "https://www.gvm.com.tw/article/134166",
-          "published": "2026-11-01T07:20:00",
-          "summary": "年齡增長，膝關節的軟骨（cartilage）會逐漸磨損，導致疼痛與僵硬，嚴重時甚至需要換成人工關節。關節軟骨修復力很差，科學家一直在找讓軟骨真正重新生長的方法。最近史丹佛大學（Stanford University）發現，抑制一種會因年齡增長增加的酵素，竟能讓老年小鼠受損膝軟骨重新生長，且對人類退化軟骨組織也有類似效果。論文刊登於《Science》期刊。膝關節表面軟骨質地非常光滑，因要讓骨頭能順利"
+          "title": "耐特11月19日掛牌，38歲老牌材料廠如何切入BBU風潮？",
+          "link": "https://www.gvm.com.tw/article/134217",
+          "published": "2026-11-02T17:13:00",
+          "summary": "從雪靴固定座材料一路做到AI資料中心，成立38年的耐特（8058）預計11月掛牌上市，暫定每股承銷價80元。競拍時間為11月4日至6日，11月10日開標；11月9日至11日辦理公開申購，11月13日抽籤，預計11月19日掛牌。耐特做什麼？為何夯？它近年搭上AI伺服器BBU商機，台灣多數BBU廠都與它合作。這家老牌複合材料廠，究竟如何從傳統產業跨進AI供應鏈，又為何能提前卡位下一波HVDC商機？「我"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "「永續企業・綠色榮耀」企業共創逾百萬公噸減碳效益",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14407&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1ZGemqxnTeXZkbRbg9V--C",
-          "published": "2026-11-02T06:46:59+00:00",
-          "summary": "... 淨零最堅強的防線。 國家企業環保獎推動35 年來累計獲獎905 家次，近年精進 ... 氣候變遷下的原民力量國際論壇 &middot; 放大太平洋聲音｜臺灣串聯跨國原民氣候&nbsp;..."
+          "title": "刺胳針氣候報告出爐！高溫死亡人數超瘧疾、愛滋病籲列全球公衛緊急事件 - 健康醫療網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.healthnews.com.tw/article/70217&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0J3QL4oeacN78lMeVBPCrC",
+          "published": "2026-11-03T04:07:59+00:00",
+          "summary": "氣候變遷對人體健康的威脅持續升高，國際間雖持續推動減碳行動，但可能仍追不上危害擴大的速度。由英國倫敦大學學院（UCL）主導、與世界衛生組織（WHO）合作&nbsp;..."
         },
         {
-          "title": "彰化縣攜手華碩推動AI 數位<b>淨零</b>轉型六大專業顧問助企業邁向智慧製造 - 中央社",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/postwrite/chi/448653&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw03RdsWOC5D9NJ-WA3kqb99",
-          "published": "2026-11-02T06:19:23+00:00",
-          "summary": "為協助彰化在地企業因應數位轉型、淨零排放等挑戰，彰化縣政府21日於彰化縣農會14樓舉辦「彰化縣AI數位淨零轉型論壇」，攜手華碩科技、緯育TibaM，&nbsp;..."
+          "title": "[HK]中国<b>碳中和</b>(01372):截至二零二六年十月三十一日止股份发行人的证券变动月报表 - 中财网",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cfi.net.cn/p20261102004340.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw31bdlThb01ust0VB_keeOW",
+          "published": "2026-11-03T03:05:48+00:00",
+          "summary": "普通股, 股份類別, 不適用 ; 01372, 說明 ; 法定/註冊股份數目, 面值 ; 10,000,000,000, HKD, 0.01 ; HKD."
         },
         {
-          "title": "總統盼凝聚各界力量讓綠色轉型成臺灣產業新優勢 - MoneyDJ理財網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.moneydj.com/kmdj/news/newsviewer.aspx%3Fa%3De7d91303-6119-411b-8e3d-477f91502916&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1fdYa1lzkr1CYUmgmTwoVe",
-          "published": "2026-11-02T05:59:39+00:00",
-          "summary": "... 氣候變遷及2050淨零轉型的挑戰，政府會持續凝聚產業及社會各界力量，尋找臺灣淨零轉型的解方，協助產業接軌國際及提升產業韌性，期盼大家攜手努力，讓綠色&nbsp;..."
+          "title": "碳費調整拋出三選項|半導體|產業新聞 - IEK產業情報網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D9%26nsl_id%3D993a5b2a52df4c4cbe4a26afe30ea463&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3mLuKO9fiB9If0S0YkSxiP",
+          "published": "2026-11-03T01:39:17+00:00",
+          "summary": "環境部昨（2）日召開第二屆碳費審議會首場會議，原外界認為碳費漲定了，但氣候變遷署會中拋出碳費調整三大方向， ... Net-Zero Sustainability2022｜樂淨零：綠色&nbsp;..."
         },
         {
-          "title": "<b>氣候變遷</b>恐加劇抗生素抗藥性！台灣為何無法置身事外？醫：3大因素添挑戰",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ftvnews.com.tw/news/detail/2026A31W0171&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0Q4A6I82Kn-OZMr_HItV3e",
-          "published": "2026-11-02T05:48:55+00:00",
-          "summary": "台灣感染症醫學會王永志秘書長指出，氣候&nbsp;..."
+          "title": "賴總統：規劃台版CBAM - 日報- 工商時報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20261103700106-439901&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1RDeC81UUg79BOYlfZqgLp",
+          "published": "2026-11-03T01:08:21+00:00",
+          "summary": "他上任後在總統府成立「國家氣候變遷對策委員會」，凝聚政府、產業及社會各界的力量，共同尋找台灣淨零轉型解方。隨著碳費制度正式上路，政府也正審慎規劃「台版&nbsp;..."
         },
         {
-          "title": "「提氣候會掉票」迷思？ 美國期中選舉主打抗通膨陷「氣候沉默」 - 環境資訊中心",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.e-info.org.tw/node/244017&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw04W8NMJjLLWaSV7VythXl9",
-          "published": "2026-11-02T05:46:56+00:00",
-          "summary": "《衛報》分析，美國民眾歷經破紀錄的高溫酷暑、美軍對伊朗軍事行動、對化石燃料依賴等因素衝擊，每戶平均增加約2000美元（約合新台幣6萬5212元）的額外能源與&nbsp;..."
+          "title": "加快構建適應氣候變化的農業保險體系",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=http://theory.people.com.cn/BIG5/n1/2026/1103/c40531-40826608.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1iyD7-EMG6xJnW1pj5jZdD",
+          "published": "2026-11-03T00:41:19+00:00",
+          "summary": "氣候變化對農業生產的影響已不再局限於災害發生后的直接產量損失，而是逐步向生產成本、農產品質量、經營收入和生產經營持續性等多個維度擴散。高溫、干旱和洪澇&nbsp;..."
         },
         {
-          "title": "以科技應對極端高温：善用數碼分身完善城市規劃 - unwire PRO",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://unwire.pro/2026/11/02/tech-against-extreme-heat-digital-twin/columnist/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1P-8hZoX7HL9Qd2GWk25iZ",
-          "published": "2026-11-02T05:45:10+00:00",
-          "summary": "氣候變化的威脅日益嚴峻，全球多地接連遭遇致命熱浪，香港亦創下歷史高溫記錄。面對極端酷熱天氣，單靠傳統方式難以應付。現時各國正積極利用創新科技，&nbsp;..."
+          "title": "大行評級｜瑞銀：上調長建及電能目標價未來五年海外業務迎上升週期 - TradingView",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://fr.tradingview.com/news/gelonghui:c277b679aacdf:0/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3YYaMjgGjZXTXdj_OV4QIR",
+          "published": "2026-11-02T23:38:41+00:00",
+          "summary": "格隆匯3月14日｜瑞銀髮表研究報吿指，長江基建及電能實業的海外業務在未來5年長迎來上升週期，指相關預測是基於氣候變遷下的公用事業基礎設施升級，&nbsp;..."
         }
       ]
     }
