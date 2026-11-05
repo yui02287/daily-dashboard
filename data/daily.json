@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-11-04T07:15:47.864167+00:00",
-    "date": "2026-11-04",
+    "generated_at": "2026-11-05T07:43:43.387574+00:00",
+    "date": "2026-11-05",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "AI 代理失控喊停就夠了嗎？從 CrowdStrike「終止開關」看代理治理四道關卡",
-          "link": "https://techorange.com/2026/11/04/crowdstrike-ai-kill-switch-agent-governance/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-04T04:54:18+00:00",
-          "summary": "7 月由失控的 OpenAI 代理策動的 Hugging Face 入侵事件，讓企業格外警覺；今年夏天，美國眾議員也提出兩黨法案，要求 AI 公司在模型中內建停機能力。CrowdStrike 於 11/3 在巴塞隆納舉行的 Fal.Con Europe 2026 宣布推出「AI 終止開關（AI Kill Switch）」，並表示這項功能讓資安人員能在人為掌控下，從根源終止失控的 AI 代理。 Cr"
+          "title": "美國期中選舉後，德州約 13 GW 資料中心計畫恐延後：緯創等台廠會受波及嗎？",
+          "link": "https://techorange.com/2026/11/05/us-election-ai-data-center-buildout-taiwan-suppliers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-05T04:59:01+00:00",
+          "summary": "美國時間 11/3 的期中選舉，民主黨奪回聯邦參眾兩院，也在德州、俄亥俄、喬治亞拿下州長，三位新州長競選時都主張管制 AI 資料中心。德州州長當選人 Gina Hinojosa 是該州三十多年來首位民主黨州長，曾多次呼籲立即暫停資料中心開發。但德州的審批在選前就已收緊，共和黨籍現任州長 Greg Abbott 9/21 已指示州環境品質委員會，在電網營運商 ERCOT 與州水資源發展委員會（TWD"
         },
         {
-          "title": "Apple 加速 Siri AI Agent 化：開放第三方 App 自訂操作，還能串接多步驟任務",
-          "link": "https://techorange.com/2026/11/04/apple-siri-ai-open-to-all-developers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-04T03:10:58+00:00",
-          "summary": "AI Agent 正逐漸從回答問題，走向替使用者執行任務，手機上的智慧助理也開始扮演不同角色。當 Google 已讓 Gemini 嘗試代替使用者叫車、點餐，Apple 也正擴大 Siri 操作第三方 App 的能力。 根據 Apple 最新開發者公告，Apple 宣布向所有開發者開放新一代 Siri AI 整合，並引入 Skills 機制，讓 Siri 不只能呼叫 App 功能，還能將多個操作串"
+          "title": "自主付款 Agent 列最高風險？美國 OCC 首度發布銀行 AI 監理框架，人工監督成重點",
+          "link": "https://techorange.com/2026/11/05/occ-ai-agent-super-intelligence-supervisory-framework/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-05T04:02:37+00:00",
+          "summary": "當 AI Agent 不只整理文件，還能直接發起付款、修改帳戶資料，銀行該如何判斷風險，並在出錯前介入？美國貨幣監理署（OCC）11/4 發布首份銀行 AI 監理框架，其中一項值得注意的內容，是將自主付款 Agent 列為最高風險等級的示例，並強調 AI 的風險不只取決於技術複雜度，更與實際用途、自主權及出錯後果有關。 根據《Reuters》報導，這份框架主要供銀行檢查人員使用，並未新增強制性監理"
         },
         {
-          "title": "【可靠的代理人懂得暫停】讓 AI 代理行動前先產出計畫，比對權限範圍再決定執行",
-          "link": "https://techorange.com/2026/11/04/designing-ai-agents-to-prevent-mistakes/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-04T02:17:56+00:00",
-          "summary": "AI 代理人能自主執行的任務越來越複雜，做出的決策影響也越來越大，如何降低出錯機率，已成為設計時的優先課題。 代理人是否可靠，不只取決於模型本身有多聰明。對此，來自晶片、金融、資安、網路平台與軟體等領域的專家，分別提出降低代理人出錯的設計做法。 讓推理盡量貼近原始資料 邊緣 AI 晶片公司 Kneron 的全球技術策略與溝通總監 Tiffany Chang 指出，AI 很少一次全面失誤，而是逐步偏"
+          "title": "【工地機器人不必是人形】OG-1 有三輪底座與升降手臂，在雜亂工地自動批土、打磨牆面",
+          "link": "https://techorange.com/2026/11/05/construction-robots/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-05T02:22:12+00:00",
+          "summary": "過去一百年，營建業的機械化幾乎都發生在建築外部。挖地基有怪手，吊鋼筋、吊模板有塔式起重機，灌混凝土有泵浦車；建築內部做法卻沒有太大改變，石膏板的接縫要靠工人一刀一刀抹上批土，等乾了再用砂紙打磨平整，最後一面一面刷上底漆。 這些室內工序占了整個工期的六成五以上，到現在仍然幾乎全靠人工。而 2025 年初成立的美國新創 Origin 想改變這件事。Origin 最近宣布拿到 2,000 萬美元融資，主"
         },
         {
-          "title": "讓 AI 不只回答，而是更會工作：叡揚、Dell、昕力、勤英共探 AI 如何重塑企業智慧決策與工作流程",
-          "link": "https://techorange.com/2026/11/04/2027-ai-innovation-day-workflow/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-04T01:48:54+00:00",
-          "summary": "TechOrange 科技報橘日前舉辦「AI Innovation Day：2027 AI 創新日」論壇，上半場聚焦 AI 如何重塑企業智慧決策與工作流程，下半場由 NVIDIA 協辦，邀請生態系合作夥伴解析自動化視覺 AI Agent如何驅動實體 AI 新紀元，串起「從數位大腦到實體之眼」的主題。 TechOrange 科技報橘社長戴季全在致詞中，將當前 AI 產業發展比擬為 1996 至 20"
+          "title": "【科技早餐】NVIDIA 傳設 51% 非中企門檻！SK 海力士 450 億美元美國建廠案遇阻",
+          "link": "https://techorange.com/2026/11/05/nvidia-china-cloud-restrictions-sk-hynix-us-chip-investment/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-04T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊NVIDIA 傳設 51% 非中企門檻，海外雲端算力業務恐受限 《Financial Times》11 月 3 日引述知情人士報導，NVIDIA 已透過業務團隊向部分資料中心與雲端合作夥伴傳達指引，要求未來至少 51% 的雲端服務業務面向非中國企業。這項要求目前沒有公開書面規則，主要針對未來新合約，不追溯既有租約。《The Information"
         },
         {
-          "title": "Airbus 用 AI 讀取機上餐盤、提前 10 天預警設備異常，航空營運如何改變？",
-          "link": "https://techorange.com/2026/11/04/airbus-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-03T22:20:00+00:00",
-          "summary": "航空公司的營運挑戰，除了維持航班準點，也包括減少機上餐飲浪費，以及避免設備故障影響後續航班。空中巴士（Airbus）將 AI 與數據分析導入機上餐飲管理、飛機預測性維護及地面維修支援，試圖透過更即時的資訊掌握，協助航空公司調整備餐規劃、提前發現設備異常，並加快維修人員取得技術資訊的速度。 AI 追蹤機上餐飲消耗，協助航空公司減少浪費 根據 Airbus 引用國際航空運輸協會（IATA）與航空永續論"
+          "title": "ChatGPT「類搜尋查詢」達 Google 五分之一，Google 查詢成長率卻創 5 年新高？兩組數字為何不矛盾",
+          "link": "https://techorange.com/2026/11/04/chatgpt-search-one-fifth-google-query-growth/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-04T09:21:10+00:00",
+          "summary": "ChatGPT 消費產品負責人 Adam Fry，美國時間 11/2 晚間在 OpenAI 於紐約舉辦的晚宴上，與《Big Technology》的 Alex Kantrowitz 進行簡短的爐邊對談。根據《Big Technology》報導，OpenAI 分析了 ChatGPT 的搜尋量，並與 Google 進行比較。Fry 表示，「ChatGPT 的類搜尋查詢量，目前約為 Google 查詢量"
         },
         {
-          "title": "【科技早餐】Apple 營收創高！新任執行長示警記憶體漲價，旺季毛利率估降至 45%–46%",
-          "link": "https://techorange.com/2026/11/04/apple-memory-price-surge-gross-margin-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-03T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊Apple 營收創高！新任執行長示警記憶體漲價，旺季毛利率估降至 45%–46% 蘋果（Apple）11 月 2 日公布第四季財報，營收達 1,145 億美元、年增 12%，創歷年 9 月季度新高。上一季毛利率為 47.9%，其中約 1 個百分點來自關稅退款；公司預估 12 月旺季毛利率降至 45%–46%。今年 9 月接任的執行長約翰・特努斯（"
+          "title": "AI 代理替客戶動錢，誰來把關？美國大銀行先擋，香港金管局研議身分與授權驗證",
+          "link": "https://techorange.com/2026/11/04/hkma-project-sage-agentic-finance/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-04T08:41:56+00:00",
+          "summary": "香港金融管理局（下稱金管局）11/2 宣布推出 SAGE 項目，成立代理式金融專家小組，和業界探索代理式購物、企業財資管理等應用；同日也發布討論文件，就外部 AI 代理替客戶向認可機構（Authorized Institutions，下稱銀行）下指令時，銀行該怎麼把關，徵詢業界意見。根據金管局說明，認可機構是依香港《銀行業條例》獲認可、可經營接受存款業務的機構，持牌銀行即屬此類。 10 月中旬，摩"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "一間小店，如何成為改變地方的力量？永豐基金會「小店永豐計畫」讓在地力量持續壯大",
-          "link": "https://www.gvm.com.tw/article/134088",
-          "published": "2026-11-04T00:00:00",
-          "summary": "台灣各地有許多默默耕耘的小店，規模雖小，靈活發展出多元型態的交流體驗，串聯社區情感、回應社會需求與傳承在地文化的重要力量。永豐基金會董事長陳思寬表示：「當有人看見、有人回應、有人加入，一間小店的行動，就會慢慢成為一群人的力量。」看見小店蘊藏的社會影響力，永豐基金會透過「小店永豐計畫」，結合金融資源與專業陪伴，支持小店創新轉型與永續經營，讓一間店的力量，逐步擴散為社區共好的行動。目錄一、小店如何帶動"
+          "title": "台股連日跌，向下的刀子要接嗎？法人：先等這3個訊號",
+          "link": "https://www.gvm.com.tw/article/134284",
+          "published": "2026-11-04T21:29:00",
+          "summary": "台股4日開高走低，盤中一度跌破42,000點，重挫逾千點，大盤指數連續破底，到底要跌到什麼時候？法人直言，向下的刀子不要接，先等明確的底部訊號出現，包括底部量縮、下殺過程中連續出現下影線、外資由賣超轉為買超，都是重要的觀察因素。台股4日以43,449.45點開出，上漲141.91點，五大權值股聯袂開高帶動指數一度拉升至43,741.54點，上漲434點，但大盤僅紅不到半小時就翻黑，再度破底，指數下"
         },
         {
-          "title": "網銀App沒登入存款卻遭匯出！永豐銀419帳戶遭盜轉、金額逾4千萬，金管會發聲了",
-          "link": "https://www.gvm.com.tw/article/134247",
-          "published": "2026-11-03T19:15:00",
-          "summary": "11/3 19:00更新：永豐銀行今天發生大批帳戶遭盜轉存款，金管會表示，經永豐銀行比對發現，匯款到同業銀行的一個帳戶，初步調查異常交易有427筆款項，每筆約新台幣10萬元，合計金額超過4000萬元，影響客戶數419人，目前永豐銀已用代墊款返還客戶款項，永豐銀須在11月12日前交重大偶發報告。根據社群網站Threads貼文，多個永豐銀行帳戶今天忽遭盜轉新台幣10萬元到台北富邦銀行特定帳戶，刑事警察"
+          "title": "AI代理改寫企業成本結構！Token不再是唯一成本關鍵",
+          "link": "https://www.gvm.com.tw/article/134283",
+          "published": "2026-11-04T18:37:00",
+          "summary": "編按：AI代理正加速進入企業營運，數量擴張也讓Token、運算、儲存與跨雲資料存取成本同步攀升。企業若只盯著Token帳單，恐怕忽略真正的成本黑洞。如何透過脈絡工程與總持有成本，實現AI規模化與效益最大化？過去30年來，企業科技創新的核心多聚焦於擴展基礎架構，從虛擬機器（Virtual Machines, VMs）、容器（Containers）、大數據到支援網頁與行動應用程式中同時上線的百萬使用者"
         },
         {
-          "title": "歐洲Z世代怒上街頭！高房價、低薪、資源分配不公，引爆跨國抗議潮",
-          "link": "https://www.gvm.com.tw/article/134257",
-          "published": "2026-11-03T18:52:00",
-          "summary": "歐洲Z世代抗議浪潮持續蔓延，近期法國爆發大規模示威，德國也有34座城市抗議，凸顯歐洲青年正面臨高房價、低薪、生活成本攀升與教育資源不足等困境。歐盟房價自2010年以來上漲55.4％，人口高齡化更加劇世代資源分配失衡，讓年輕世代質疑，為何必須承擔上一代留下的社會成本？從法國教育改革到歐洲社會契約危機，青年怒火正在考驗各國政府的政策回應。10月31日，當歐洲各地歡慶萬聖節，德國卻爆發Z世代抗議浪潮。青"
+          "title": "搖擺州台中怎麼選？何欣純提台中版航空城、松菸，拚城市大晉級",
+          "link": "https://www.gvm.com.tw/article/134282",
+          "published": "2026-11-04T18:03:00",
+          "summary": "2026九合一大選，近期台中市長選情也出現改變，部分民調顯示民進黨候選人正逼近，甚至超車。真的會變天嗎？台中市長民進黨參選人何欣純有何特色？外表看似裝檳榔的夾鏈袋，裡頭塞著的卻是喜憨兒烘焙坊的小餅乾；厚紙板組裝的傳統狗皮藥膏盒，裡面裝著的卻是兩個玻璃水杯，這些印有「尚純」的競選小物，提醒選民月底的投票日將至。這股清新的粉紅色浪潮，來自民進黨台中市長候選人何欣純與支持者的創意，她為了這場選戰已默默醞"
         },
         {
-          "title": "無懼AI股亂流，半導體景氣旺到超預期！晶圓女王徐秀蘭釋五大成長亮點",
-          "link": "https://www.gvm.com.tw/article/134256",
-          "published": "2026-11-03T18:45:00",
-          "summary": "台股連跌兩天，這波AI股尤其被明顯修正，全球第三大矽晶圓廠環球晶圓（6488）在3日單日股價也摔9.87%，難道真要泡沫了？今日適逢法說，董事長徐秀蘭秀出亮眼財報，前三季EPS達15元，差點賺贏去年全年。徐秀蘭更透露，半導體應用的趨勢，顯示未來的成長都有結構性支撐；另外董事會通過擬發行上限5億美元、10年期國內無擔保私募可轉換公司債，由美光（Micron）擔任唯一應募人。該怎麼看下一波？一文全解析"
+          "title": "永豐銀「10萬元消失」異常轉帳原因揭曉！董總鞠躬道歉：將對系統商求償",
+          "link": "https://www.gvm.com.tw/article/134281",
+          "published": "2026-11-04T17:52:00",
+          "summary": "永豐銀行昨（3）日爆發多名客戶帳戶異常轉帳事件，引發資安疑慮。永豐銀今（4）日發布新聞稿說明事件原因，表示內部經查為外部駭客利用新網銀交易系統的供應商安全設定（該交易系統目前台灣尚無其他金融業導入），造成客戶帳戶款項遭不明轉出。永豐銀行董事長曹為實和總經理莊銘福在今日傍晚召開記者會，為了此次被駭、錯轉427筆帳的事件，鞠躬道歉。永豐銀行昨（3）日爆發多名客戶帳戶異常轉帳事件，受害者控訴未操作網路銀"
         },
         {
-          "title": "AI衝擊誰？當台大、政大、清大新設學位學程，私校連理工也停招",
-          "link": "https://www.gvm.com.tw/article/134255",
-          "published": "2026-11-03T18:40:00",
-          "summary": "最近中山、高雄大學合併進度引發關注，不過在近年少子化浪潮、AI崛起的持續挑戰之下，除大學合併外，大學個別科系的存廢也是值得關注的重點。根據教育部最新核定資料顯示，政大、清大等頂大竟持續增設人文與跨領域學程，顯然在AI衝擊下仍看好人文跨領域價值？另外政大有一個科系最近更名，藉此對外凸顯校內一直有理工科系，還將進攻硬體。此外，台大、陽明交大今年新開系所有哪些？則可嗅出熱門新趨勢。只可惜，同樣時間點，私"
+          "title": "美國會全面變天！民主黨奪回參眾兩院，川普稱願意合作",
+          "link": "https://www.gvm.com.tw/article/134278",
+          "published": "2026-11-04T17:10:00",
+          "summary": "美國期中選舉3日舉行，民主黨大勝，不僅至少翻轉7席共和黨參議員席次，奪回參議院控制權，也成功拿下眾議院多數席次。美國期中選舉3日登場，根據《美聯社》（Associated Press）在台灣時間4日下午4時30分左右公布的最新結果，民主黨成功翻轉參、眾兩院，重新掌握國會控制權。參議院選舉中，民主黨至少翻轉七席共和黨席次，奪回主導權；眾議院也成功取得多數。州長選舉中，民主黨一舉翻轉喬治亞州、俄亥俄州"
         },
         {
-          "title": "蔡力行談輝達投資聯發科「用錢投票」！賴清德、彭金隆揭資本島願景",
-          "link": "https://www.gvm.com.tw/article/134254",
-          "published": "2026-11-03T18:30:00",
-          "summary": "第二屆「2026台灣週」3日在台北漢來大飯店揭幕！總統賴清德揭示「資本島」願景，金管會主委彭金隆端出金融改革成績單，聯發科執行長蔡力行則以AI兆美元資本支出與輝達投資為例，點出台灣匯聚國際資本的新契機。AI浪潮席捲全球，台灣不只要鞏固科技產業優勢，更要成為國際資本匯聚的重要據點。第二屆「2026台灣週」3日在台北漢來大飯店揭幕，以「從科技島到資本島」為主軸，匯聚國內外金融與產業領袖。總統賴清德揭示"
+          "title": "AI對傳統影視產業的巨大衝擊：當AI短劇瘋狂崛起，真人劇組正面臨生存危機",
+          "link": "https://www.gvm.com.tw/article/134277",
+          "published": "2026-11-04T17:10:00",
+          "summary": "隨著AI技術快速發展，中國AI短劇正以驚人的速度大量湧現，不僅吸引數億觀眾觀看，也對傳統影視產業帶來巨大衝擊。當拍戲不再需要龐大的劇組，甚至連真人演員都能被AI取代，攝影、燈光、服裝與化妝等幕後工作者，也開始面臨生存危機。未來的電影、戲劇產業將如何改變？當AI也能拍戲，真人演員與電影藝術的價值，又該如何延續？試著回想，最近當你滑著Facebook、Instagram、YouTube、TikTok、"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "Fujitsu to present climate-action technologies at COP31 - 亞太商訊 - 華富財經",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.quamnet.com/post/QiNVC50e2Syd-XmkK_ZNl&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2QhuMAGgBZRhi1ChNNTopI",
-          "published": "2026-11-04T06:10:42+00:00",
-          "summary": "... carbon neutrality for both customers and society through climate change mitigation, adaptation, and improved energy efficiency. Specific goals and&nbsp;..."
+          "title": "響應國家<b>淨零</b>政策玉山攜手奇美推動循環雙法金融方案 - 中央社",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/business/chinese/449054&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1f-LbphVc_29PXh3NWWKwI",
+          "published": "2026-11-05T03:29:40+00:00",
+          "summary": "為積極響應國家於2026年6月正式通過「廢棄物清理法」與「資源循環推動法」修正案（以下簡稱「循環雙法」），玉山銀行攜手奇美實業簽訂永續連結貸款，&nbsp;..."
         },
         {
-          "title": "香港聯交所對中國<b>碳中和</b>(01372.HK)及七名董事採取紀律行動",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.finet.hk/newscenter/news_content/6aea9f6d23082905744bbad6&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw34YmGb4KHIJrVZN5k2M5Em",
-          "published": "2026-11-04T05:59:49+00:00",
-          "summary": "【財華社訊】香港聯合交易所有限公司11月3日譴責：中國碳中和發展集團有限公司(01372.HK)；執行董事兼行政總裁邸靈；執行董事魯向勇；非執行董事兼副主席&nbsp;..."
+          "title": "從工業<b>淨零</b>到全民綠生活！TASS2026 拆解循環雙法與AI 永續鏈 - 財經新報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://finance.technews.tw/2026/11/05/green-living-for-all/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Txcrg2mWVUF8K-6XdHpGN",
+          "published": "2026-11-05T03:13:09+00:00",
+          "summary": "企業淨零下一步怎麼走？TASS2026 亞洲永續供應＋循環經濟會展11 月11 日至13 日將在高雄展覽館登場，今年首度擴大綠色生活主題展區，結合一卡通、市民永續等&nbsp;..."
         },
         {
-          "title": "廣編企劃以韌性治理，面對<b>氣候變遷</b>下的水挑戰｜2026水利國際論壇 - YouTube",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.youtube.com/watch%3Fv%3D1k-CqSsXtMY&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0hA4HdqE_5l85kFcIwvjCu",
-          "published": "2026-11-04T04:03:54+00:00",
-          "summary": "面對極端氣候帶來的旱澇挑戰，臺灣如何強化水韌性，走向永續治理？ 2026臺灣國際水週「水利國際論壇」於10月13日在臺北南港展覽館2館舉行，以「智水韌境・永&nbsp;..."
+          "title": "商周-攜手台灣世界展望會啟動「草原小太陽」 守護<b>氣候變遷</b>下的蒙古兒童從尼泊爾、越南開始 ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.businessweekly.com.tw/business/indep/1008140&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3lbsvxXyS3b6yN-LEbkwxA",
+          "published": "2026-11-05T02:27:22+00:00",
+          "summary": "從尼泊爾、越南開始，看見需求、留下能力、驗證成效中醫大附醫的公益永續之道."
         },
         {
-          "title": "翻轉地方！金門公所聚焦社區輔導與<b>淨零</b>新戰略 - 蕃新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20261103339445&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1nL51uaEQg4cQGETbpXmHf",
-          "published": "2026-11-04T04:00:25+00:00",
-          "summary": "勁報記者于郁金/金門報導】金門縣社會處於近日下午假中山林遊客中心荳咖啡辦理「115年度金門縣各鄉."
+          "title": "台灣銲接協會40週年年會攜手產業共創<b>淨零</b>新能源與智慧銲接未來式",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5635/9857975&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0vw4LqxyPHru3GJoguq1kJ",
+          "published": "2026-11-05T02:14:36+00:00",
+          "summary": "中鼎工程總經理李銘賢提出，銲接雖是一項歷史悠久的專業技術，卻正隨著產業變革邁入嶄新時代。面對半導體、人工智慧（AI）資料中心及大型工程建設需求持續提升，&nbsp;..."
         },
         {
-          "title": "英國<b>氣候變遷</b>衝擊稻米供應，家樂氏Rice Krispies改配方停用米粒 - 星島日報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.singtaousa.com/2026/11/03/news/world/no-more-rice-grains-in-kelloggs-rice-krispies-due-to-changing-weather/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Sb8UC1MEDKPFG7meTeGgN",
-          "published": "2026-11-04T03:33:27+00:00",
-          "summary": "因氣候變遷導致亞洲稻米供應中斷，早餐穀物巨頭家樂氏宣布，英國的Rice Krispies和Coco Pops產品將不再使用完整米粒，改以粟米粉和米粉替代。"
+          "title": "中國<b>碳中和</b>(01372)承認資產條件未成即入帳及延誤披露收購，實施4項補救措施 - ETNet",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.etnet.com.hk/www/tc/news/news-article.php%3Fsection%3Dcategorized%26category%3Dlatest%26newsid%3D20261105973&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2KgQBlweiuWa2ZLpfn435d",
+          "published": "2026-11-05T01:01:08+00:00",
+          "summary": "中國碳中和(01372)公布，就聯交所於本周二(3日)刊發的紀律行動，關於碳信用資產「高估」事項，該集團指，並非蓄意高估，而是核證碳標準簽發時序性差異所致，&nbsp;..."
         },
         {
-          "title": "轉知原住民族委員會辦理「115年度原住民族經濟永續發展計畫—公正轉型論壇」 - 彰化縣政府",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.chcg.gov.tw/DTO/education/03bulletin/bulletin04_con.aspx%3Fbull_id%3D440765&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1wRvYMsZEnKO4w2NgKaXre",
-          "published": "2026-11-04T03:05:58+00:00",
-          "summary": "... 淨零排放目標，以「原住民族經濟永續發展計畫(115年至118年)」，協助部落發展綠色產業與自主經濟。 二、本論壇係為因應全球淨零轉型及永續發展趨勢，促進原&nbsp;..."
+          "title": "中國<b>碳中和</b>(01372)主席兼非執董陳永嵐獲邀，將出席聯合國氣候變化大會及主題邊會 - ETNet",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.etnet.com.hk/www/tc/news/news-article.php%3Fsection%3Dcategorized%26category%3Dlatest%26newsid%3D20261105962&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1slGO0uiZ36ckSPgdXwZfo",
+          "published": "2026-11-05T01:01:06+00:00",
+          "summary": "中國碳中和(01372)公布，董事會主席兼非執行董事陳永嵐獲邀及將出席《聯合國氣候變化框架公約》第31次締約方大會，並參與大會期間舉辦之「預警到響應行動：&nbsp;..."
         }
       ]
     }
