@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-11-05T07:43:43.387574+00:00",
-    "date": "2026-11-05",
+    "generated_at": "2026-11-06T07:41:40.955223+00:00",
+    "date": "2026-11-06",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "美國期中選舉後，德州約 13 GW 資料中心計畫恐延後：緯創等台廠會受波及嗎？",
-          "link": "https://techorange.com/2026/11/05/us-election-ai-data-center-buildout-taiwan-suppliers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-05T04:59:01+00:00",
-          "summary": "美國時間 11/3 的期中選舉，民主黨奪回聯邦參眾兩院，也在德州、俄亥俄、喬治亞拿下州長，三位新州長競選時都主張管制 AI 資料中心。德州州長當選人 Gina Hinojosa 是該州三十多年來首位民主黨州長，曾多次呼籲立即暫停資料中心開發。但德州的審批在選前就已收緊，共和黨籍現任州長 Greg Abbott 9/21 已指示州環境品質委員會，在電網營運商 ERCOT 與州水資源發展委員會（TWD"
+          "title": "KPMG：網銀防駭，首要補強交易授權防線",
+          "link": "https://techorange.com/2026/11/06/kpmg-bank-security-incident/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-06T05:41:41+00:00",
+          "summary": "針對近期銀行遭駭事件，KPMG 安侯企業管理董事總經理謝昀澤表示，網銀交易如同銀行臨櫃服務，即使查得帳戶資料，仍須確認客戶是否有權動用存款，並核對客戶是否同意該筆交易的收款對象與金額。謝昀澤指出，攻擊者可能透過反覆試誤找出有效帳戶，而當銀行系統誤認操作者身分、未確實核對交易授權，或將其他程式傳送的指令視為已獲客戶確認，就可能造成非客戶本人意願的交易被放行。 因此，銀行不能只確認前一道程序是否顯示「"
         },
         {
-          "title": "自主付款 Agent 列最高風險？美國 OCC 首度發布銀行 AI 監理框架，人工監督成重點",
-          "link": "https://techorange.com/2026/11/05/occ-ai-agent-super-intelligence-supervisory-framework/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-05T04:02:37+00:00",
-          "summary": "當 AI Agent 不只整理文件，還能直接發起付款、修改帳戶資料，銀行該如何判斷風險，並在出錯前介入？美國貨幣監理署（OCC）11/4 發布首份銀行 AI 監理框架，其中一項值得注意的內容，是將自主付款 Agent 列為最高風險等級的示例，並強調 AI 的風險不只取決於技術複雜度，更與實際用途、自主權及出錯後果有關。 根據《Reuters》報導，這份框架主要供銀行檢查人員使用，並未新增強制性監理"
+          "title": "Agility 成美國首家上市人形機器人專業公司：逾 3 億美元訂單，還得先通過效能驗收",
+          "link": "https://techorange.com/2026/11/06/agility-robotics-nasdaq-humanoid-listing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-06T04:27:31+00:00",
+          "summary": "人形機器人公司 Agility Robotics 於美國時間 11/5 以代號 AGLT 在那斯達克掛牌。《Bloomberg》指出，Agility 是美國第一家上市的人形機器人專業公司，對這個仍待證明的新興產業而言是重要的里程碑；在此之前，中國的宇樹科技（Unitree）已於 8 月在上海掛牌。Agility 透過與特殊目的收購公司（SPAC）Churchill Capital Corp XI "
         },
         {
-          "title": "【工地機器人不必是人形】OG-1 有三輪底座與升降手臂，在雜亂工地自動批土、打磨牆面",
-          "link": "https://techorange.com/2026/11/05/construction-robots/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-05T02:22:12+00:00",
-          "summary": "過去一百年，營建業的機械化幾乎都發生在建築外部。挖地基有怪手，吊鋼筋、吊模板有塔式起重機，灌混凝土有泵浦車；建築內部做法卻沒有太大改變，石膏板的接縫要靠工人一刀一刀抹上批土，等乾了再用砂紙打磨平整，最後一面一面刷上底漆。 這些室內工序占了整個工期的六成五以上，到現在仍然幾乎全靠人工。而 2025 年初成立的美國新創 Origin 想改變這件事。Origin 最近宣布拿到 2,000 萬美元融資，主"
+          "title": "【不做機器人的機器人公司】新創 Destro 用 AI 智慧層協調人機作業，解決倉儲轉運自動化難題",
+          "link": "https://techorange.com/2026/11/06/destro-ai-robot-intelligence-layer/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-06T02:09:35+00:00",
+          "summary": "新創團隊 Destro 瞄準 AI 機器人智慧層，透過自動化方式，統一調度人類與機器人，解決物流倉庫中轉難題，並將其視為全新商機，取代機器人製造參與產業市場。"
         },
         {
-          "title": "【科技早餐】NVIDIA 傳設 51% 非中企門檻！SK 海力士 450 億美元美國建廠案遇阻",
-          "link": "https://techorange.com/2026/11/05/nvidia-china-cloud-restrictions-sk-hynix-us-chip-investment/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-04T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊NVIDIA 傳設 51% 非中企門檻，海外雲端算力業務恐受限 《Financial Times》11 月 3 日引述知情人士報導，NVIDIA 已透過業務團隊向部分資料中心與雲端合作夥伴傳達指引，要求未來至少 51% 的雲端服務業務面向非中國企業。這項要求目前沒有公開書面規則，主要針對未來新合約，不追溯既有租約。《The Information"
+          "title": "耐能衝刺 Nasdaq IPO、營收達去年約 3 倍：從賣 AI 晶片跨足算力服務，瞄準什麼商機？",
+          "link": "https://techorange.com/2026/11/06/kneron-nasdaq-ipo/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-06T01:27:21+00:00",
+          "summary": "台灣 AI 晶片業者耐能智慧（Kneron）正積極推進美國那斯達克（Nasdaq）上市計畫。其創辦人暨執行長劉峻誠近日接受《Bloomberg》專訪時透露，公司今年營收約為去年的 3 倍，並已進入全球大型科技企業供應鏈。不過，耐能接下來的成長策略不只著眼於增加晶片出貨，而是希望將 NPU 技術延伸至企業 AI 推論、邊緣運算與主權 AI 基礎設施，從晶片供應商擴展為整合式 AI 解決方案業者。 根"
         },
         {
-          "title": "ChatGPT「類搜尋查詢」達 Google 五分之一，Google 查詢成長率卻創 5 年新高？兩組數字為何不矛盾",
-          "link": "https://techorange.com/2026/11/04/chatgpt-search-one-fifth-google-query-growth/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-04T09:21:10+00:00",
-          "summary": "ChatGPT 消費產品負責人 Adam Fry，美國時間 11/2 晚間在 OpenAI 於紐約舉辦的晚宴上，與《Big Technology》的 Alex Kantrowitz 進行簡短的爐邊對談。根據《Big Technology》報導，OpenAI 分析了 ChatGPT 的搜尋量，並與 Google 進行比較。Fry 表示，「ChatGPT 的類搜尋查詢量，目前約為 Google 查詢量"
+          "title": "蘋果傳調降工程師每日 AI 額度，從 300 降至 200 美元：企業怎麼控管 AI 成本？",
+          "link": "https://techorange.com/2026/11/06/apple-cuts-employee-ai-budgets/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-06T00:10:00+00:00",
+          "summary": "根據《Bloomberg》引述知情人士報導，蘋果在 10 月悄悄調降部分工程師使用 AI 模型的每日支出上限，從 300 美元降到 200 美元，並計畫再調降部分工程團隊的額度。與此同時，蘋果仍尋求讓 AI 成為營運核心。報導形容，這凸顯蘋果面臨的平衡難題：一邊要控制成本，一邊又要鼓勵員工把 AI 更深入融入日常工作。 AI 帳單的壓力，Gartner 早已提出預警。這家研究機構預測，到 2028"
         },
         {
-          "title": "AI 代理替客戶動錢，誰來把關？美國大銀行先擋，香港金管局研議身分與授權驗證",
-          "link": "https://techorange.com/2026/11/04/hkma-project-sage-agentic-finance/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-04T08:41:56+00:00",
-          "summary": "香港金融管理局（下稱金管局）11/2 宣布推出 SAGE 項目，成立代理式金融專家小組，和業界探索代理式購物、企業財資管理等應用；同日也發布討論文件，就外部 AI 代理替客戶向認可機構（Authorized Institutions，下稱銀行）下指令時，銀行該怎麼把關，徵詢業界意見。根據金管局說明，認可機構是依香港《銀行業條例》獲認可、可經營接受存款業務的機構，持牌銀行即屬此類。 10 月中旬，摩"
+          "title": "中國機器人競爭轉向 AI「大腦」：為何連訓練資料新創都募得 1 億美元？",
+          "link": "https://techorange.com/2026/11/06/china-ai-robotics-brain/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-05T22:04:00+00:00",
+          "summary": "當外界對中國人形機器人的印象，仍停留在機器人展會上的跑步、跳舞、翻筋斗，中國業者的競爭焦點已逐漸轉變。相較於展示靈活的運動能力，越來越多中國企業開始投入讓機器人理解環境、學習新任務的 AI「大腦」，希望讓機器人真正走進工廠與日常工作場域。 據《Reuters》近日報導，研究機構 ITjuzi 統計，中國具身 AI 產業今年上半年完成 322 筆融資，總額達 935 億人民幣，約為去年同期的 5 倍"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "台股連日跌，向下的刀子要接嗎？法人：先等這3個訊號",
-          "link": "https://www.gvm.com.tw/article/134284",
-          "published": "2026-11-04T21:29:00",
-          "summary": "台股4日開高走低，盤中一度跌破42,000點，重挫逾千點，大盤指數連續破底，到底要跌到什麼時候？法人直言，向下的刀子不要接，先等明確的底部訊號出現，包括底部量縮、下殺過程中連續出現下影線、外資由賣超轉為買超，都是重要的觀察因素。台股4日以43,449.45點開出，上漲141.91點，五大權值股聯袂開高帶動指數一度拉升至43,741.54點，上漲434點，但大盤僅紅不到半小時就翻黑，再度破底，指數下"
+          "title": "全家新物流革命！下樓就能寄取包裹，搶進「社區取」迎戰雙11",
+          "link": "https://www.gvm.com.tw/article/134314",
+          "published": "2026-11-06T00:39:00",
+          "summary": "包裹有到店取貨、宅配取貨，但你聽過最新的「社區取」嗎？全家攜手社區服務平台「智生活」推出社區取全新物流服務，讓民眾下樓到社區管理室就能寄取包裹。這個新服務怎麼用？全家剛斥資超過7億元收購的物流股權，又與這個深入社區的新服務有何關聯？《遠見》一文解析。全家宣布與智慧社區服務平台「智生活」合作推出「社區取」，深入全台超過一萬個社區、涵蓋超過 180萬戶家庭。服務涵蓋四種寄取方式，包括「社區寄店」、「社"
         },
         {
-          "title": "AI代理改寫企業成本結構！Token不再是唯一成本關鍵",
-          "link": "https://www.gvm.com.tw/article/134283",
-          "published": "2026-11-04T18:37:00",
-          "summary": "編按：AI代理正加速進入企業營運，數量擴張也讓Token、運算、儲存與跨雲資料存取成本同步攀升。企業若只盯著Token帳單，恐怕忽略真正的成本黑洞。如何透過脈絡工程與總持有成本，實現AI規模化與效益最大化？過去30年來，企業科技創新的核心多聚焦於擴展基礎架構，從虛擬機器（Virtual Machines, VMs）、容器（Containers）、大數據到支援網頁與行動應用程式中同時上線的百萬使用者"
+          "title": "STEM創新紮根新世代！德州儀器科技小學堂十週年，陪伴千位學子啟發探索科技好奇心",
+          "link": "https://www.gvm.com.tw/article/133635",
+          "published": "2026-11-06T00:00:00",
+          "summary": "AI 與數位轉型加速推進，半導體與高科技產業對具備科技素養、創新思維與問題解決能力的人才需求日益提升。面對快速變動的未來，下一代需要的已不只是知識累積，更是保持好奇、主動探索與解決問題的能力。世界經濟論壇（WEF）指出，分析性思考與科技素養已是未來關鍵核心能力，而這些能力的養成，往往始於對未知世界的好奇與探索。這也正是德州儀器（TI）長期深耕 STEM 教育 - 科學（Science）、技術（Te"
         },
         {
-          "title": "搖擺州台中怎麼選？何欣純提台中版航空城、松菸，拚城市大晉級",
-          "link": "https://www.gvm.com.tw/article/134282",
-          "published": "2026-11-04T18:03:00",
-          "summary": "2026九合一大選，近期台中市長選情也出現改變，部分民調顯示民進黨候選人正逼近，甚至超車。真的會變天嗎？台中市長民進黨參選人何欣純有何特色？外表看似裝檳榔的夾鏈袋，裡頭塞著的卻是喜憨兒烘焙坊的小餅乾；厚紙板組裝的傳統狗皮藥膏盒，裡面裝著的卻是兩個玻璃水杯，這些印有「尚純」的競選小物，提醒選民月底的投票日將至。這股清新的粉紅色浪潮，來自民進黨台中市長候選人何欣純與支持者的創意，她為了這場選戰已默默醞"
+          "title": "台股斷頭賣壓浮現，恐回測年線？富邦投顧：4萬點有撐",
+          "link": "https://www.gvm.com.tw/article/134313",
+          "published": "2026-11-05T19:01:00",
+          "summary": "台股近期連續重挫，動輒日跌千點，AI行情是否走到盡頭？富邦投顧總經理陳永俊指出，短線融資尚未充分去化，台股反彈仍有壓力，但AI企業獲利持續優於預期，2027年整體獲利上看9.8兆元。他預估第四季台股將在4萬至5萬點震盪。AI熱潮帶動台股走出罕見的超級多頭行情，但隨著美國期中選舉變天、國際科技股同步修正，台股近期連續重挫，後續行情怎麼看？今（5）日台股重挫1374.19，收在41574.72，上週已"
         },
         {
-          "title": "永豐銀「10萬元消失」異常轉帳原因揭曉！董總鞠躬道歉：將對系統商求償",
-          "link": "https://www.gvm.com.tw/article/134281",
-          "published": "2026-11-04T17:52:00",
-          "summary": "永豐銀行昨（3）日爆發多名客戶帳戶異常轉帳事件，引發資安疑慮。永豐銀今（4）日發布新聞稿說明事件原因，表示內部經查為外部駭客利用新網銀交易系統的供應商安全設定（該交易系統目前台灣尚無其他金融業導入），造成客戶帳戶款項遭不明轉出。永豐銀行董事長曹為實和總經理莊銘福在今日傍晚召開記者會，為了此次被駭、錯轉427筆帳的事件，鞠躬道歉。永豐銀行昨（3）日爆發多名客戶帳戶異常轉帳事件，受害者控訴未操作網路銀"
+          "title": "美國期中選舉黑天鵝盤旋？旺宏吳敏求：記憶體會好到2030年！揭下一波成長看這些",
+          "link": "https://www.gvm.com.tw/article/134311",
+          "published": "2026-11-05T18:40:00",
+          "summary": "隨著美國政局變化與AI股市波動，台灣半導體產業正面臨前所未有的挑戰。然而，旺宏（2337）董事長吳敏求縱橫半導體產業半世紀，仍對AI發展有信心，相信記憶體市場能會好到2030年。吳敏求甚至提出關鍵的策略轉型思維，指出若台灣廠商規模與產能有限，更應在此時拚研發育人才，選對市場、選對客戶。「明年可以拭目以待，會有很多新東西跑出來，」旺宏（2337）董事長吳敏求信心滿滿說，「記憶體會好到2030年！」美"
         },
         {
-          "title": "美國會全面變天！民主黨奪回參眾兩院，川普稱願意合作",
-          "link": "https://www.gvm.com.tw/article/134278",
-          "published": "2026-11-04T17:10:00",
-          "summary": "美國期中選舉3日舉行，民主黨大勝，不僅至少翻轉7席共和黨參議員席次，奪回參議院控制權，也成功拿下眾議院多數席次。美國期中選舉3日登場，根據《美聯社》（Associated Press）在台灣時間4日下午4時30分左右公布的最新結果，民主黨成功翻轉參、眾兩院，重新掌握國會控制權。參議院選舉中，民主黨至少翻轉七席共和黨席次，奪回主導權；眾議院也成功取得多數。州長選舉中，民主黨一舉翻轉喬治亞州、俄亥俄州"
+          "title": "NotebookLM改名Gemini Notebook ！全新教學",
+          "link": "https://www.gvm.com.tw/article/134310",
+          "published": "2026-11-05T18:26:00",
+          "summary": "許多人可能還不知道，Google的AI筆記工具NotebookLM 於今年中改名了！現在叫做Gemini Notebook，近期更陸續更新許多新功能。這些新應用能做什麼？在聽演講時，可以直接錄製演講內容做成筆記本；準備考試時，也能透過短影片摘要快速了解重點；另外也解決了許多網友之前抱怨簡報大綱無法調整的問題，現在能在生成前先調整大綱。本文實測四項堪稱「學習神器」的新功能。讓你可以快速把演講或者會議"
         },
         {
-          "title": "AI對傳統影視產業的巨大衝擊：當AI短劇瘋狂崛起，真人劇組正面臨生存危機",
-          "link": "https://www.gvm.com.tw/article/134277",
-          "published": "2026-11-04T17:10:00",
-          "summary": "隨著AI技術快速發展，中國AI短劇正以驚人的速度大量湧現，不僅吸引數億觀眾觀看，也對傳統影視產業帶來巨大衝擊。當拍戲不再需要龐大的劇組，甚至連真人演員都能被AI取代，攝影、燈光、服裝與化妝等幕後工作者，也開始面臨生存危機。未來的電影、戲劇產業將如何改變？當AI也能拍戲，真人演員與電影藝術的價值，又該如何延續？試著回想，最近當你滑著Facebook、Instagram、YouTube、TikTok、"
+          "title": "全美AI資料中心恐踩煞車？民主黨勝選掀監管風暴，台灣供應鏈受牽動",
+          "link": "https://www.gvm.com.tw/article/134307",
+          "published": "2026-11-05T16:38:00",
+          "summary": "美國民主黨期中選舉大勝，全美41項資料中心地方提案中，已有38項投票結果傾向禁止或暫停開發。AI資料中心擴張面臨更大監管壓力，但未必全面停建。從德州選舉到華府政策轉向，電力、用水與建置成本都可能改變，美國期中選舉3日舉行，民主黨（Democratic Party）大勝，奪回國會兩院控制權，甚至意外翻轉共和黨（Republican Party）傳統票倉德州，該州民主黨候選人以暫停資料中心開發為政見，"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "響應國家<b>淨零</b>政策玉山攜手奇美推動循環雙法金融方案 - 中央社",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/business/chinese/449054&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1f-LbphVc_29PXh3NWWKwI",
-          "published": "2026-11-05T03:29:40+00:00",
-          "summary": "為積極響應國家於2026年6月正式通過「廢棄物清理法」與「資源循環推動法」修正案（以下簡稱「循環雙法」），玉山銀行攜手奇美實業簽訂永續連結貸款，&nbsp;..."
+          "title": "最新公告- 焦點消息- 經濟部投資審議司",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.moea.gov.tw/Mns/dir/news/News.aspx%3Fkind%3D1%26all%3D1%26menu_id%3D42807%26news_id%3D124493&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3gSpH8DzcubKmOf_LKqu21",
+          "published": "2026-11-06T06:46:11+00:00",
+          "summary": "經濟部永續發展政策推動以「打造綠色成長與永續淨零新經濟」為總體願景，呈現經濟部推動雙軸轉型、強化電力韌性與低碳化、以及供水穩定等重要策略。專區內容不僅&nbsp;..."
         },
         {
-          "title": "從工業<b>淨零</b>到全民綠生活！TASS2026 拆解循環雙法與AI 永續鏈 - 財經新報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://finance.technews.tw/2026/11/05/green-living-for-all/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Txcrg2mWVUF8K-6XdHpGN",
-          "published": "2026-11-05T03:13:09+00:00",
-          "summary": "企業淨零下一步怎麼走？TASS2026 亞洲永續供應＋循環經濟會展11 月11 日至13 日將在高雄展覽館登場，今年首度擴大綠色生活主題展區，結合一卡通、市民永續等&nbsp;..."
+          "title": "南華大學攜手嘉義市文化局推動<b>淨零</b>教育深化全民<b>淨零</b>永續素養 - 波新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bo6s.com.tw/news_detail.php%3FNewsID%3D118473&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1hPCEetLGIlcfnsFapzdZh",
+          "published": "2026-11-06T06:45:42+00:00",
+          "summary": "... 碳中和」，攜手嘉義 ... 這次工作坊邀請南華大學永續綠色科技碩士學位學程執行長蕭雅柏以淺顯易懂的方式介紹氣候變遷、溫室氣體、碳盤查及淨零排放等概念。"
         },
         {
-          "title": "商周-攜手台灣世界展望會啟動「草原小太陽」 守護<b>氣候變遷</b>下的蒙古兒童從尼泊爾、越南開始 ...",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.businessweekly.com.tw/business/indep/1008140&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3lbsvxXyS3b6yN-LEbkwxA",
-          "published": "2026-11-05T02:27:22+00:00",
-          "summary": "從尼泊爾、越南開始，看見需求、留下能力、驗證成效中醫大附醫的公益永續之道."
+          "title": "高雄大學聚焦城市<b>淨零</b>轉型產官學共議產業發展與社會公平",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://g15.village.tw/uninews_view.php%3Fnew_sn%3D148604&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0Ziq_wK77Qxoio4F6LYalQ",
+          "published": "2026-11-06T06:39:56+00:00",
+          "summary": "郁道玲指出，市府透過《高雄市淨零城市發展自治條例》，將氣候調適納入都市規劃，包括推動20分鐘生活圈、大眾運輸導向開發（TOD）、綠色交通及增加樹冠覆蓋率等&nbsp;..."
         },
         {
-          "title": "台灣銲接協會40週年年會攜手產業共創<b>淨零</b>新能源與智慧銲接未來式",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5635/9857975&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0vw4LqxyPHru3GJoguq1kJ",
-          "published": "2026-11-05T02:14:36+00:00",
-          "summary": "中鼎工程總經理李銘賢提出，銲接雖是一項歷史悠久的專業技術，卻正隨著產業變革邁入嶄新時代。面對半導體、人工智慧（AI）資料中心及大型工程建設需求持續提升，&nbsp;..."
+          "title": "高雄大學聚焦城市<b>淨零</b>轉型產官學共議產業發展與社會公平 - 視傳媒",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://nvns.net/news_view.php%3Fnew_sn%3D148604%26new_csn%3D1467&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1lBsELaXUWsAXErZj02bYI",
+          "published": "2026-11-06T06:39:38+00:00",
+          "summary": "【視傳媒記者吉雄世／高雄報導】高雄從傳統工業城市邁向淨零轉型，如何在降低碳排放的同時，兼顧產業競爭力、城市發展與社會公平？國立高雄大學大學社會責任&nbsp;..."
         },
         {
-          "title": "中國<b>碳中和</b>(01372)承認資產條件未成即入帳及延誤披露收購，實施4項補救措施 - ETNet",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.etnet.com.hk/www/tc/news/news-article.php%3Fsection%3Dcategorized%26category%3Dlatest%26newsid%3D20261105973&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2KgQBlweiuWa2ZLpfn435d",
-          "published": "2026-11-05T01:01:08+00:00",
-          "summary": "中國碳中和(01372)公布，就聯交所於本周二(3日)刊發的紀律行動，關於碳信用資產「高估」事項，該集團指，並非蓄意高估，而是核證碳標準簽發時序性差異所致，&nbsp;..."
+          "title": "AI幫飯店省下近90萬元！北投麗禧攜手三大夥伴打造智慧<b>淨零</b>新模式 - 商傳媒",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://sunmedia.tw/news/technology/AI%25E5%25B9%25AB%25E9%25A3%25AF%25E5%25BA%2597%25E7%259C%2581%25E4%25B8%258B%25E8%25BF%259190%25E8%2590%25AC%25E5%2585%2583%25EF%25BC%2581%25E5%258C%2597%25E6%258A%2595%25E9%25BA%2597%25E7%25A6%25A7%25E6%2594%259C%25E6%2589%258B%25E4%25B8%2589%25E5%25A4%25A7%25E5%25A4%25A5%25E4%25BC%25B4%25E6%2589%2593%25E9%2580%25A0%25E6%2599%25BA%25E6%2585%25A7%25E6%25B7%25A8%25E9%259B%25B6%25E6%2596%25B0%25E6%25A8%25A1%25E5%25BC%258F-1793942385721&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2DgfCyNquY_NvM0e5WL8lt",
+          "published": "2026-11-06T06:37:57+00:00",
+          "summary": "相較於單純汰換設備，AI智慧節能更著重於如何讓既有設備在不同氣候條件與使用負載下，維持較佳的運轉效率。系統亦具備能源報表、設備監控及異常告警功能，協助&nbsp;..."
         },
         {
-          "title": "中國<b>碳中和</b>(01372)主席兼非執董陳永嵐獲邀，將出席聯合國氣候變化大會及主題邊會 - ETNet",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.etnet.com.hk/www/tc/news/news-article.php%3Fsection%3Dcategorized%26category%3Dlatest%26newsid%3D20261105962&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1slGO0uiZ36ckSPgdXwZfo",
-          "published": "2026-11-05T01:01:06+00:00",
-          "summary": "中國碳中和(01372)公布，董事會主席兼非執行董事陳永嵐獲邀及將出席《聯合國氣候變化框架公約》第31次締約方大會，並參與大會期間舉辦之「預警到響應行動：&nbsp;..."
+          "title": "南華大學攜手嘉義市文化局推動<b>淨零</b>教育深化全民<b>淨零</b>永續素養 - 中央社",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/postwrite/chi/449195&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0GfmafotpFoaOoeqkc22-8",
+          "published": "2026-11-06T06:12:04+00:00",
+          "summary": "... 碳中和」，攜手嘉義 ... 本次工作坊邀請南華大學永續綠色科技碩士學位學程執行長蕭雅柏以淺顯易懂的方式介紹氣候變遷、溫室氣體、碳盤查及淨零排放等概念。"
         }
       ]
     }
