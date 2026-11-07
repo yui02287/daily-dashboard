@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-11-06T07:41:40.955223+00:00",
-    "date": "2026-11-06",
+    "generated_at": "2026-11-07T06:50:55.426391+00:00",
+    "date": "2026-11-07",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
+          "title": "【Anthropic 機器人工作能力報告】技術已能接管全美 34% 工作，但真正「比請人便宜」的不到 1%",
+          "link": "https://techorange.com/2026/11/07/what-work-can-robots-do/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-06T22:29:00+00:00",
+          "summary": "人工智慧研究機構 Anthropic 發布《What work can robots do?》（機器人能做哪些工作？），由學者 Russell Legate-Yang 與 Maxim Massenkoff 共同撰寫。報告內容核心在於建立了一套具備 50 年歷史驗證力的「機器人工作暴露度指標」，透過實際比對當前機器人的能力與部署成本，指出機器人技術上已能勝任許多體力工作，但成本仍高，短期內難以大規模"
+        },
+        {
+          "title": "國際創投與產業領袖齊聚臺北！t.Hub 11/18 國際交流會解析 Digital Twin 與 Physical AI 趨勢",
+          "link": "https://techorange.com/2026/11/06/thub-digital-twin-physical-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-06T09:03:41+00:00",
+          "summary": "生成式 AI 熱潮之後，下一個戰場已不在螢幕裡，而在工廠、設備與營運現場。t.Hub 內科創新育成基地將於 2026 年 11 月 18 日（三）舉辦「Empowering the Future 2026 t.Hub 國際交流會暨投資媒合會」，邀集國際創投合夥人與智慧製造實戰專家，聚焦數位孿生（Digital Twin）與實體 AI（Physical AI）兩大趨勢，直擊 AI 從軟體走進真實場域"
+        },
+        {
+          "title": "連「有腸躁症的網紅」都找得到，AI 讓品牌選網紅更細，最後一關仍得靠人",
+          "link": "https://techorange.com/2026/11/06/marketer-influencer-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-06T08:10:20+00:00",
+          "summary": "當網紅行銷逐漸成為品牌媒體策略的核心，如何精準找到能與目標受眾產生共鳴的創作者，成為行銷團隊面臨的新挑戰。AI 網紅搜尋平台與社群聆聽工具，正協助品牌擴大搜尋範圍、分析受眾特徵並精確評估成效，減少人工篩選的負擔。 超級細緻的條件設定與社群聆聽，精準鎖定利基受眾 傳統的網紅搜尋往往受限於粗略的分類與粉絲數量，而新一代 AI 工具則展現了極高的精準度。 美國濕紙巾品牌 Goodwipes 採用網紅搜尋"
+        },
+        {
+          "title": "美國期中選舉後，加密法案 CLARITY 更難過關？民主黨據報研議新法，擬擴大 SEC 監管權限",
+          "link": "https://techorange.com/2026/11/06/us-midterms-crypto-clarity-act/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-06T07:48:42+00:00",
+          "summary": "據《CBS News》推估，美國時間 11/3 的期中選舉，民主黨將在明年同時掌控參眾兩院。《Decrypt》報導，在 2024 與 2026 兩個選舉週期，加密產業花了超過 3 億美元支持兩黨的親加密貨幣候選人，光今年就有約 1.76 億美元投入 100 多場選戰。但加密產業一直爭取的聯邦市場規則《數位資產市場明確法案》（Digital Asset Market Clarity Act，簡稱 C"
+        },
+        {
+          "title": "以開放架構掌握 AI 主導權──Red Hat 全球巡迴年會揭企業 AI 算力、資安與主權治理新布局",
+          "link": "https://techorange.com/2026/11/06/red-hat-summit-sovereign-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-06T07:10:58+00:00",
+          "summary": "AI 模型、工具、平台更新速度越來越快，既有 IT 架構如何持續因應新技術與風險管理？如何避免被單一供應商綁定（Vendor Lock-in）？Red Hat 台灣區總經理孫媛音在 11 月 3 日 Red Hat 全球巡迴年會致詞中強調，「讓你的資料、基礎架構與決策權真正掌握在自己手上，這才是主權真正的價值。」 針對企業下一階段的 AI 布局，Red Hat 平台能支援「Any Model、An"
+        },
+        {
           "title": "KPMG：網銀防駭，首要補強交易授權防線",
           "link": "https://techorange.com/2026/11/06/kpmg-bank-security-incident/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
           "published": "2026-11-06T05:41:41+00:00",
           "summary": "針對近期銀行遭駭事件，KPMG 安侯企業管理董事總經理謝昀澤表示，網銀交易如同銀行臨櫃服務，即使查得帳戶資料，仍須確認客戶是否有權動用存款，並核對客戶是否同意該筆交易的收款對象與金額。謝昀澤指出，攻擊者可能透過反覆試誤找出有效帳戶，而當銀行系統誤認操作者身分、未確實核對交易授權，或將其他程式傳送的指令視為已獲客戶確認，就可能造成非客戶本人意願的交易被放行。 因此，銀行不能只確認前一道程序是否顯示「"
-        },
-        {
-          "title": "Agility 成美國首家上市人形機器人專業公司：逾 3 億美元訂單，還得先通過效能驗收",
-          "link": "https://techorange.com/2026/11/06/agility-robotics-nasdaq-humanoid-listing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-06T04:27:31+00:00",
-          "summary": "人形機器人公司 Agility Robotics 於美國時間 11/5 以代號 AGLT 在那斯達克掛牌。《Bloomberg》指出，Agility 是美國第一家上市的人形機器人專業公司，對這個仍待證明的新興產業而言是重要的里程碑；在此之前，中國的宇樹科技（Unitree）已於 8 月在上海掛牌。Agility 透過與特殊目的收購公司（SPAC）Churchill Capital Corp XI "
-        },
-        {
-          "title": "【不做機器人的機器人公司】新創 Destro 用 AI 智慧層協調人機作業，解決倉儲轉運自動化難題",
-          "link": "https://techorange.com/2026/11/06/destro-ai-robot-intelligence-layer/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-06T02:09:35+00:00",
-          "summary": "新創團隊 Destro 瞄準 AI 機器人智慧層，透過自動化方式，統一調度人類與機器人，解決物流倉庫中轉難題，並將其視為全新商機，取代機器人製造參與產業市場。"
-        },
-        {
-          "title": "耐能衝刺 Nasdaq IPO、營收達去年約 3 倍：從賣 AI 晶片跨足算力服務，瞄準什麼商機？",
-          "link": "https://techorange.com/2026/11/06/kneron-nasdaq-ipo/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-06T01:27:21+00:00",
-          "summary": "台灣 AI 晶片業者耐能智慧（Kneron）正積極推進美國那斯達克（Nasdaq）上市計畫。其創辦人暨執行長劉峻誠近日接受《Bloomberg》專訪時透露，公司今年營收約為去年的 3 倍，並已進入全球大型科技企業供應鏈。不過，耐能接下來的成長策略不只著眼於增加晶片出貨，而是希望將 NPU 技術延伸至企業 AI 推論、邊緣運算與主權 AI 基礎設施，從晶片供應商擴展為整合式 AI 解決方案業者。 根"
-        },
-        {
-          "title": "蘋果傳調降工程師每日 AI 額度，從 300 降至 200 美元：企業怎麼控管 AI 成本？",
-          "link": "https://techorange.com/2026/11/06/apple-cuts-employee-ai-budgets/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-06T00:10:00+00:00",
-          "summary": "根據《Bloomberg》引述知情人士報導，蘋果在 10 月悄悄調降部分工程師使用 AI 模型的每日支出上限，從 300 美元降到 200 美元，並計畫再調降部分工程團隊的額度。與此同時，蘋果仍尋求讓 AI 成為營運核心。報導形容，這凸顯蘋果面臨的平衡難題：一邊要控制成本，一邊又要鼓勵員工把 AI 更深入融入日常工作。 AI 帳單的壓力，Gartner 早已提出預警。這家研究機構預測，到 2028"
-        },
-        {
-          "title": "中國機器人競爭轉向 AI「大腦」：為何連訓練資料新創都募得 1 億美元？",
-          "link": "https://techorange.com/2026/11/06/china-ai-robotics-brain/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-05T22:04:00+00:00",
-          "summary": "當外界對中國人形機器人的印象，仍停留在機器人展會上的跑步、跳舞、翻筋斗，中國業者的競爭焦點已逐漸轉變。相較於展示靈活的運動能力，越來越多中國企業開始投入讓機器人理解環境、學習新任務的 AI「大腦」，希望讓機器人真正走進工廠與日常工作場域。 據《Reuters》近日報導，研究機構 ITjuzi 統計，中國具身 AI 產業今年上半年完成 322 筆融資，總額達 935 億人民幣，約為去年同期的 5 倍"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "全家新物流革命！下樓就能寄取包裹，搶進「社區取」迎戰雙11",
-          "link": "https://www.gvm.com.tw/article/134314",
-          "published": "2026-11-06T00:39:00",
-          "summary": "包裹有到店取貨、宅配取貨，但你聽過最新的「社區取」嗎？全家攜手社區服務平台「智生活」推出社區取全新物流服務，讓民眾下樓到社區管理室就能寄取包裹。這個新服務怎麼用？全家剛斥資超過7億元收購的物流股權，又與這個深入社區的新服務有何關聯？《遠見》一文解析。全家宣布與智慧社區服務平台「智生活」合作推出「社區取」，深入全台超過一萬個社區、涵蓋超過 180萬戶家庭。服務涵蓋四種寄取方式，包括「社區寄店」、「社"
+          "title": "堅持一習慣，讓他70歲開啟第二人生！82歲跟孫子騎單車橫越澳洲",
+          "link": "https://www.gvm.com.tw/article/134298",
+          "published": "2026-11-07T07:00:00",
+          "summary": "拒絕在養老院躺平，只想活到老、玩到老，被兒孫當成偶像，這是澳洲爺爺蒙哥馬利（Bob Montgomery）的真實人生。他年輕時努力為事業打拚，在70歲才終於圓年少的夢：騎單車橫越澳洲。一個意外，也讓他啟動邊旅行、邊募款、邊交朋友的大計畫，騎單車直到82歲人生終了前一刻。不靠砸錢與超強基因，蒙哥馬利如何活出一路玩到老的晚年？又如何透過年輕時養成的習慣，到了82歲仍能和孫子一起挑戰每天騎超過十小時？一"
         },
         {
-          "title": "STEM創新紮根新世代！德州儀器科技小學堂十週年，陪伴千位學子啟發探索科技好奇心",
-          "link": "https://www.gvm.com.tw/article/133635",
-          "published": "2026-11-06T00:00:00",
-          "summary": "AI 與數位轉型加速推進，半導體與高科技產業對具備科技素養、創新思維與問題解決能力的人才需求日益提升。面對快速變動的未來，下一代需要的已不只是知識累積，更是保持好奇、主動探索與解決問題的能力。世界經濟論壇（WEF）指出，分析性思考與科技素養已是未來關鍵核心能力，而這些能力的養成，往往始於對未知世界的好奇與探索。這也正是德州儀器（TI）長期深耕 STEM 教育 - 科學（Science）、技術（Te"
+          "title": "民主黨重掌美國國會能制衡川普？彈劾、關稅、伊朗戰爭與對台軍售解析",
+          "link": "https://www.gvm.com.tw/article/134346",
+          "published": "2026-11-06T18:37:00",
+          "summary": "民主黨大勝、重新奪回美國國會兩院，川普總統未來兩年將面臨更嚴格的國會監督，但關稅政策、對台軍售與伊朗戰爭未必因此轉向。從第三次彈劾可能性、伊朗戰爭，到140億美元對台軍售案，解析美國權力重組如何牽動全球經貿、地緣政治與台灣安全。這次美國期中選舉結果，反映出選民對川普（Donald Trump）政府施政的不滿，尤其是美伊戰爭推升能源價格、加重生活成本。民主黨大勝、重新掌握國會兩院，意味川普未來兩年將"
         },
         {
-          "title": "台股斷頭賣壓浮現，恐回測年線？富邦投顧：4萬點有撐",
-          "link": "https://www.gvm.com.tw/article/134313",
-          "published": "2026-11-05T19:01:00",
-          "summary": "台股近期連續重挫，動輒日跌千點，AI行情是否走到盡頭？富邦投顧總經理陳永俊指出，短線融資尚未充分去化，台股反彈仍有壓力，但AI企業獲利持續優於預期，2027年整體獲利上看9.8兆元。他預估第四季台股將在4萬至5萬點震盪。AI熱潮帶動台股走出罕見的超級多頭行情，但隨著美國期中選舉變天、國際科技股同步修正，台股近期連續重挫，後續行情怎麼看？今（5）日台股重挫1374.19，收在41574.72，上週已"
+          "title": "國安基金救市！台股史詩級崩跌信心不足，史上第10次進場護盤",
+          "link": "https://www.gvm.com.tw/article/134345",
+          "published": "2026-11-06T18:28:00",
+          "summary": "國安基金今天表示，11月6日台股開盤跌近3800點，盤中最低37837點為近期最低點，收盤39701點，距離今年高點49968點，下跌10267點，跌幅20.55%，且外資持續賣超，顯示市場投資信心明顯不足，開會決議執行市場安定任務，這是史上第10次國安基金護盤，可動用資金最高新台幣5000億元。國安基金表示，今天下午2時30分國安基金召開第131次臨時委員會議，台股集中市場加權指數近日巨幅波動，"
         },
         {
-          "title": "美國期中選舉黑天鵝盤旋？旺宏吳敏求：記憶體會好到2030年！揭下一波成長看這些",
-          "link": "https://www.gvm.com.tw/article/134311",
-          "published": "2026-11-05T18:40:00",
-          "summary": "隨著美國政局變化與AI股市波動，台灣半導體產業正面臨前所未有的挑戰。然而，旺宏（2337）董事長吳敏求縱橫半導體產業半世紀，仍對AI發展有信心，相信記憶體市場能會好到2030年。吳敏求甚至提出關鍵的策略轉型思維，指出若台灣廠商規模與產能有限，更應在此時拚研發育人才，選對市場、選對客戶。「明年可以拭目以待，會有很多新東西跑出來，」旺宏（2337）董事長吳敏求信心滿滿說，「記憶體會好到2030年！」美"
+          "title": "台塑四寶10月營收一表看！南亞寫近55個月新高，台塑化年增76%最猛",
+          "link": "https://www.gvm.com.tw/article/134344",
+          "published": "2026-11-06T18:17:00",
+          "summary": "台塑四寶今天(6月)公布10月合併營收，四大公司合計10月營收共1639億元，比去年同期成長62.5%。其中南亞受惠於人工智慧（AI）相關硬體需求擴張，十月繳出亮眼成績單，合併營收寫下55個月以來的新高。今年AI伺服器算力及功耗持續飆升，在各大雲端巨頭的投資及全速建設之下，高速互連材料用量激增且快速升級，導致供需缺口放大。南亞這樣亮眼成績帶的背後，代表著這間從塑膠加工起家的公司，已經正式轉型，打入"
         },
         {
-          "title": "NotebookLM改名Gemini Notebook ！全新教學",
-          "link": "https://www.gvm.com.tw/article/134310",
-          "published": "2026-11-05T18:26:00",
-          "summary": "許多人可能還不知道，Google的AI筆記工具NotebookLM 於今年中改名了！現在叫做Gemini Notebook，近期更陸續更新許多新功能。這些新應用能做什麼？在聽演講時，可以直接錄製演講內容做成筆記本；準備考試時，也能透過短影片摘要快速了解重點；另外也解決了許多網友之前抱怨簡報大綱無法調整的問題，現在能在生成前先調整大綱。本文實測四項堪稱「學習神器」的新功能。讓你可以快速把演講或者會議"
+          "title": "加持東海大學半導體學程！鄭清和捐1億整建大樓，校長喊話：教育是第二座護國神山",
+          "link": "https://www.gvm.com.tw/article/134343",
+          "published": "2026-11-06T17:56:00",
+          "summary": "面對AI浪潮與半導體人才需求攀升，東海大學積極切入科技教育，並獲大渡山學會理事長鄭清和捐贈1億元，支持半導體大樓整建與學程發展。東海以71年人文底蘊跨足半導體領域，盼透過產官學合作培育跨域人才。原來東海大學機及育才，是希望協助將台中打造為半導體、無人機與智慧機器人重鎮。實際將如何開展？中科、台中工業區與精密機械園區會如何受惠？教育是台灣產業持續躍升的實質後盾，毗鄰中部科學園區以及台中工業園區的東海"
         },
         {
-          "title": "全美AI資料中心恐踩煞車？民主黨勝選掀監管風暴，台灣供應鏈受牽動",
-          "link": "https://www.gvm.com.tw/article/134307",
-          "published": "2026-11-05T16:38:00",
-          "summary": "美國民主黨期中選舉大勝，全美41項資料中心地方提案中，已有38項投票結果傾向禁止或暫停開發。AI資料中心擴張面臨更大監管壓力，但未必全面停建。從德州選舉到華府政策轉向，電力、用水與建置成本都可能改變，美國期中選舉3日舉行，民主黨（Democratic Party）大勝，奪回國會兩院控制權，甚至意外翻轉共和黨（Republican Party）傳統票倉德州，該州民主黨候選人以暫停資料中心開發為政見，"
+          "title": "藍色公路怎麼玩？大稻埕、淡水、八里搭船攻略：航線、票價、包船與煙火一次看",
+          "link": "https://www.gvm.com.tw/article/134332",
+          "published": "2026-11-06T17:54:00",
+          "summary": "隨著台北市長參選人沈伯洋支持者號召「包船」遊行，造成近日藍色公路包船爆紅，而你知道，淡水河藍色公路其實可以怎麼玩嗎？從大稻埕碼頭搭船出發，一路欣賞關渡、淡水河岸風景，再到八里享受悠閒的水岸時光。除了搭船遊覽景點，還能私人包船舉辦派對，甚至在特殊節日欣賞璀璨煙火。本文完整整理藍色公路航線、票價、航程、預約方式及熱門景點，帶你一次掌握最實用的搭船旅遊攻略。對許多生活在台北的人來說，淡水河一直是再熟悉不"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "最新公告- 焦點消息- 經濟部投資審議司",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.moea.gov.tw/Mns/dir/news/News.aspx%3Fkind%3D1%26all%3D1%26menu_id%3D42807%26news_id%3D124493&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3gSpH8DzcubKmOf_LKqu21",
-          "published": "2026-11-06T06:46:11+00:00",
-          "summary": "經濟部永續發展政策推動以「打造綠色成長與永續淨零新經濟」為總體願景，呈現經濟部推動雙軸轉型、強化電力韌性與低碳化、以及供水穩定等重要策略。專區內容不僅&nbsp;..."
+          "title": "聖嬰現象來襲！澎湖面臨高溫、降雨異常風險縣府啟動跨單位應變準備 - PCHOME NEWS",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/living/m00361/20261107/index-79401188538971361009.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3EWdJO7Leg6ApeDHz2heOg",
+          "published": "2026-11-07T01:04:42+00:00",
+          "summary": "WMO指出，聖嬰不僅會改變全球降雨與氣溫分布，也可能放大原已受全球暖化影響的極端氣候風險，並強調各國應立即強化氣候調適與早期預警準備。 環保局也示警，澎湖&nbsp;..."
         },
         {
-          "title": "南華大學攜手嘉義市文化局推動<b>淨零</b>教育深化全民<b>淨零</b>永續素養 - 波新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bo6s.com.tw/news_detail.php%3FNewsID%3D118473&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1hPCEetLGIlcfnsFapzdZh",
-          "published": "2026-11-06T06:45:42+00:00",
-          "summary": "... 碳中和」，攜手嘉義 ... 這次工作坊邀請南華大學永續綠色科技碩士學位學程執行長蕭雅柏以淺顯易懂的方式介紹氣候變遷、溫室氣體、碳盤查及淨零排放等概念。"
+          "title": "誰享紅利？逾半碳費補助企業環團反彈| 聯合新聞網 - LINE TODAY",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/yzGWKx1&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0dPxL5NTPfG2CrafUF7FMr",
+          "published": "2026-11-06T23:20:52+00:00",
+          "summary": "今年碳費共收取四十九點七億元，雖納入溫室氣體管理基金，專款專用於氣候變遷因應及淨零轉型，卻有一半以上規畫用於補助企業。環保團體認為，碳費用途..."
         },
         {
-          "title": "高雄大學聚焦城市<b>淨零</b>轉型產官學共議產業發展與社會公平",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://g15.village.tw/uninews_view.php%3Fnew_sn%3D148604&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0Ziq_wK77Qxoio4F6LYalQ",
-          "published": "2026-11-06T06:39:56+00:00",
-          "summary": "郁道玲指出，市府透過《高雄市淨零城市發展自治條例》，將氣候調適納入都市規劃，包括推動20分鐘生活圈、大眾運輸導向開發（TOD）、綠色交通及增加樹冠覆蓋率等&nbsp;..."
+          "title": "歐盟監測機構：聖嬰影響2026年恐成史上第二熱年度",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.worldjournal.com/wj/amp/story/121480/9863122&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1GM-yrinUmNTeISAN2OgP0",
+          "published": "2026-11-06T20:47:44+00:00",
+          "summary": "法新社報導，哥白尼氣候變化服務（Copernicus Climate Change Service）在月度公報中指出，今年仍有「20%的機率追平或超越」2024年，成為有紀錄以來最熱的一年。"
         },
         {
-          "title": "高雄大學聚焦城市<b>淨零</b>轉型產官學共議產業發展與社會公平 - 視傳媒",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://nvns.net/news_view.php%3Fnew_sn%3D148604%26new_csn%3D1467&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1lBsELaXUWsAXErZj02bYI",
-          "published": "2026-11-06T06:39:38+00:00",
-          "summary": "【視傳媒記者吉雄世／高雄報導】高雄從傳統工業城市邁向淨零轉型，如何在降低碳排放的同時，兼顧產業競爭力、城市發展與社會公平？國立高雄大學大學社會責任&nbsp;..."
+          "title": "歐盟監測機構：聖嬰影響2026年恐成史上第二熱年度| 世界新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.worldjournal.com/wj/story/121480/9863122%3Ffrom%3Dwj_rankbreaknews&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3o3SFFgE1o_Ff7eK6baCa8",
+          "published": "2026-11-06T20:47:41+00:00",
+          "summary": "法新社報導，哥白尼氣候變化服務（Copernicus Climate Change Service）在 ... 這是巴黎協定（Paris Agreement）為避免氣候變遷造成嚴重衝擊所設定的努力目標。"
         },
         {
-          "title": "AI幫飯店省下近90萬元！北投麗禧攜手三大夥伴打造智慧<b>淨零</b>新模式 - 商傳媒",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://sunmedia.tw/news/technology/AI%25E5%25B9%25AB%25E9%25A3%25AF%25E5%25BA%2597%25E7%259C%2581%25E4%25B8%258B%25E8%25BF%259190%25E8%2590%25AC%25E5%2585%2583%25EF%25BC%2581%25E5%258C%2597%25E6%258A%2595%25E9%25BA%2597%25E7%25A6%25A7%25E6%2594%259C%25E6%2589%258B%25E4%25B8%2589%25E5%25A4%25A7%25E5%25A4%25A5%25E4%25BC%25B4%25E6%2589%2593%25E9%2580%25A0%25E6%2599%25BA%25E6%2585%25A7%25E6%25B7%25A8%25E9%259B%25B6%25E6%2596%25B0%25E6%25A8%25A1%25E5%25BC%258F-1793942385721&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2DgfCyNquY_NvM0e5WL8lt",
-          "published": "2026-11-06T06:37:57+00:00",
-          "summary": "相較於單純汰換設備，AI智慧節能更著重於如何讓既有設備在不同氣候條件與使用負載下，維持較佳的運轉效率。系統亦具備能源報表、設備監控及異常告警功能，協助&nbsp;..."
+          "title": "「氣象冷知識」： 雲寶寶身世之謎（下）｜香港天文台(HKO)",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hko.gov.hk/tc/%25E6%259C%2580%25E6%2596%25B0%25E6%25B6%2588%25E6%2581%25AF/111089/%25E3%2580%258C%25E6%25B0%25A3%25E8%25B1%25A1%25E5%2586%25B7%25E7%259F%25A5%25E8%25AD%2598%25E3%2580%258D%25EF%25BC%259A-%25E9%259B%25B2%25E5%25AF%25B6%25E5%25AF%25B6%25E8%25BA%25AB%25E4%25B8%2596%25E4%25B9%258B%25E8%25AC%258E%25EF%25BC%2588%25E4%25B8%258B%25EF%25BC%2589&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw12MMHTNTNn_eeO5koUnW8f",
+          "published": "2026-11-06T20:29:51+00:00",
+          "summary": "千姿百態的雲究竟是如何分類與命名？氣象學上，除了按雲底高度分為高雲族、中雲族及低雲族外，亦會根據雲的特徵形態分成十個雲屬。"
         },
         {
-          "title": "南華大學攜手嘉義市文化局推動<b>淨零</b>教育深化全民<b>淨零</b>永續素養 - 中央社",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/postwrite/chi/449195&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0GfmafotpFoaOoeqkc22-8",
-          "published": "2026-11-06T06:12:04+00:00",
-          "summary": "... 碳中和」，攜手嘉義 ... 本次工作坊邀請南華大學永續綠色科技碩士學位學程執行長蕭雅柏以淺顯易懂的方式介紹氣候變遷、溫室氣體、碳盤查及淨零排放等概念。"
+          "title": "彭啓明：<b>淨零</b>幣減碳效益難評估 - 聯合新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7314/9862948&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1tf8KLSl1upkraVIqCHsxC",
+          "published": "2026-11-06T19:42:57+00:00",
+          "summary": "環境部氣候變遷署長蔡玲儀補充，氣候變遷因應法已明定碳費收入的用途與項目，必須以減量、調適規畫為主，現行已經有協助弱勢群體的空調設備汰換、節能設備納入等&nbsp;..."
         }
       ]
     }
