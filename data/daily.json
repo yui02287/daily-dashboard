@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-11-07T06:50:55.426391+00:00",
-    "date": "2026-11-07",
+    "generated_at": "2026-11-08T06:56:39.095336+00:00",
+    "date": "2026-11-08",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -10,84 +10,47 @@
     {
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
-      "items": [
-        {
-          "title": "【Anthropic 機器人工作能力報告】技術已能接管全美 34% 工作，但真正「比請人便宜」的不到 1%",
-          "link": "https://techorange.com/2026/11/07/what-work-can-robots-do/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-06T22:29:00+00:00",
-          "summary": "人工智慧研究機構 Anthropic 發布《What work can robots do?》（機器人能做哪些工作？），由學者 Russell Legate-Yang 與 Maxim Massenkoff 共同撰寫。報告內容核心在於建立了一套具備 50 年歷史驗證力的「機器人工作暴露度指標」，透過實際比對當前機器人的能力與部署成本，指出機器人技術上已能勝任許多體力工作，但成本仍高，短期內難以大規模"
-        },
-        {
-          "title": "國際創投與產業領袖齊聚臺北！t.Hub 11/18 國際交流會解析 Digital Twin 與 Physical AI 趨勢",
-          "link": "https://techorange.com/2026/11/06/thub-digital-twin-physical-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-06T09:03:41+00:00",
-          "summary": "生成式 AI 熱潮之後，下一個戰場已不在螢幕裡，而在工廠、設備與營運現場。t.Hub 內科創新育成基地將於 2026 年 11 月 18 日（三）舉辦「Empowering the Future 2026 t.Hub 國際交流會暨投資媒合會」，邀集國際創投合夥人與智慧製造實戰專家，聚焦數位孿生（Digital Twin）與實體 AI（Physical AI）兩大趨勢，直擊 AI 從軟體走進真實場域"
-        },
-        {
-          "title": "連「有腸躁症的網紅」都找得到，AI 讓品牌選網紅更細，最後一關仍得靠人",
-          "link": "https://techorange.com/2026/11/06/marketer-influencer-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-06T08:10:20+00:00",
-          "summary": "當網紅行銷逐漸成為品牌媒體策略的核心，如何精準找到能與目標受眾產生共鳴的創作者，成為行銷團隊面臨的新挑戰。AI 網紅搜尋平台與社群聆聽工具，正協助品牌擴大搜尋範圍、分析受眾特徵並精確評估成效，減少人工篩選的負擔。 超級細緻的條件設定與社群聆聽，精準鎖定利基受眾 傳統的網紅搜尋往往受限於粗略的分類與粉絲數量，而新一代 AI 工具則展現了極高的精準度。 美國濕紙巾品牌 Goodwipes 採用網紅搜尋"
-        },
-        {
-          "title": "美國期中選舉後，加密法案 CLARITY 更難過關？民主黨據報研議新法，擬擴大 SEC 監管權限",
-          "link": "https://techorange.com/2026/11/06/us-midterms-crypto-clarity-act/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-06T07:48:42+00:00",
-          "summary": "據《CBS News》推估，美國時間 11/3 的期中選舉，民主黨將在明年同時掌控參眾兩院。《Decrypt》報導，在 2024 與 2026 兩個選舉週期，加密產業花了超過 3 億美元支持兩黨的親加密貨幣候選人，光今年就有約 1.76 億美元投入 100 多場選戰。但加密產業一直爭取的聯邦市場規則《數位資產市場明確法案》（Digital Asset Market Clarity Act，簡稱 C"
-        },
-        {
-          "title": "以開放架構掌握 AI 主導權──Red Hat 全球巡迴年會揭企業 AI 算力、資安與主權治理新布局",
-          "link": "https://techorange.com/2026/11/06/red-hat-summit-sovereign-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-06T07:10:58+00:00",
-          "summary": "AI 模型、工具、平台更新速度越來越快，既有 IT 架構如何持續因應新技術與風險管理？如何避免被單一供應商綁定（Vendor Lock-in）？Red Hat 台灣區總經理孫媛音在 11 月 3 日 Red Hat 全球巡迴年會致詞中強調，「讓你的資料、基礎架構與決策權真正掌握在自己手上，這才是主權真正的價值。」 針對企業下一階段的 AI 布局，Red Hat 平台能支援「Any Model、An"
-        },
-        {
-          "title": "KPMG：網銀防駭，首要補強交易授權防線",
-          "link": "https://techorange.com/2026/11/06/kpmg-bank-security-incident/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-06T05:41:41+00:00",
-          "summary": "針對近期銀行遭駭事件，KPMG 安侯企業管理董事總經理謝昀澤表示，網銀交易如同銀行臨櫃服務，即使查得帳戶資料，仍須確認客戶是否有權動用存款，並核對客戶是否同意該筆交易的收款對象與金額。謝昀澤指出，攻擊者可能透過反覆試誤找出有效帳戶，而當銀行系統誤認操作者身分、未確實核對交易授權，或將其他程式傳送的指令視為已獲客戶確認，就可能造成非客戶本人意願的交易被放行。 因此，銀行不能只確認前一道程序是否顯示「"
-        }
-      ]
+      "items": []
     },
     {
       "feed_name": "遠見雜誌 - 前進的動力",
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "堅持一習慣，讓他70歲開啟第二人生！82歲跟孫子騎單車橫越澳洲",
-          "link": "https://www.gvm.com.tw/article/134298",
-          "published": "2026-11-07T07:00:00",
-          "summary": "拒絕在養老院躺平，只想活到老、玩到老，被兒孫當成偶像，這是澳洲爺爺蒙哥馬利（Bob Montgomery）的真實人生。他年輕時努力為事業打拚，在70歲才終於圓年少的夢：騎單車橫越澳洲。一個意外，也讓他啟動邊旅行、邊募款、邊交朋友的大計畫，騎單車直到82歲人生終了前一刻。不靠砸錢與超強基因，蒙哥馬利如何活出一路玩到老的晚年？又如何透過年輕時養成的習慣，到了82歲仍能和孫子一起挑戰每天騎超過十小時？一"
+          "title": "巴菲特每天喝5罐可樂，48年不碰白開水？醫點破「倖存者偏差」：長壽不代表健康",
+          "link": "https://www.gvm.com.tw/article/134320",
+          "published": "2026-11-08T07:00:00",
+          "summary": "每天喝 5 罐可樂、48 年不碰白開水，96 歲股神巴菲特的長壽是真奇蹟還是能模仿？周宗翰中醫師示警，這屬極端「倖存者偏差」！巴菲特一天從可樂攝取的糖分，直逼建議上限 4 倍，恐引爆脂肪肝、糖尿病、心血管疾病等代謝危機。本文拆解巴菲特的基因耐受力真相，點名４大高風險族群切勿盲從，教你正確飲水顧好代謝健康。每天喝 5 罐可樂，48 年不碰白開水， 96 歲「股神」巴菲特驚人的飲食習慣再度引爆話題。一"
         },
         {
-          "title": "民主黨重掌美國國會能制衡川普？彈劾、關稅、伊朗戰爭與對台軍售解析",
-          "link": "https://www.gvm.com.tw/article/134346",
-          "published": "2026-11-06T18:37:00",
-          "summary": "民主黨大勝、重新奪回美國國會兩院，川普總統未來兩年將面臨更嚴格的國會監督，但關稅政策、對台軍售與伊朗戰爭未必因此轉向。從第三次彈劾可能性、伊朗戰爭，到140億美元對台軍售案，解析美國權力重組如何牽動全球經貿、地緣政治與台灣安全。這次美國期中選舉結果，反映出選民對川普（Donald Trump）政府施政的不滿，尤其是美伊戰爭推升能源價格、加重生活成本。民主黨大勝、重新掌握國會兩院，意味川普未來兩年將"
+          "title": "房市冷清了，你買得起了嗎？專家胡偉良神比喻：牛肉麵太貴不准吃",
+          "link": "https://www.gvm.com.tw/article/134210",
+          "published": "2026-11-07T21:42:00",
+          "summary": "房地產、都更專家胡偉良以「牛肉麵價格」比喻房市政策，指出政府打房若盲目緊縮資金，恐誤傷都更危老與合理建案。打房不能只靠「煞車」，更需要方向盤精準導引資金，以維持正常供給並保障居住安全。若只管需求、不顧供給，尤其都市更新與危老重建若面臨資金瓶頸，恐怕讓老屋繼續老、營建成本持續累積，最終付出代價的仍是購屋者。假設有一天，政府覺得牛肉麵太貴，決定出手整頓。第一招，限制客人借錢吃麵，讓大家少吃幾碗。第二招"
         },
         {
-          "title": "國安基金救市！台股史詩級崩跌信心不足，史上第10次進場護盤",
-          "link": "https://www.gvm.com.tw/article/134345",
-          "published": "2026-11-06T18:28:00",
-          "summary": "國安基金今天表示，11月6日台股開盤跌近3800點，盤中最低37837點為近期最低點，收盤39701點，距離今年高點49968點，下跌10267點，跌幅20.55%，且外資持續賣超，顯示市場投資信心明顯不足，開會決議執行市場安定任務，這是史上第10次國安基金護盤，可動用資金最高新台幣5000億元。國安基金表示，今天下午2時30分國安基金召開第131次臨時委員會議，台股集中市場加權指數近日巨幅波動，"
+          "title": "為何富人家的孩子比一般人更敢追夢？從小養成的「這種思維」是關鍵",
+          "link": "https://www.gvm.com.tw/article/134237",
+          "published": "2026-11-07T21:37:00",
+          "summary": "想想梅克爾、凱特王妃和德國前衛生部長卡爾．勞特巴赫，這三個人就像你我一樣，他們的人生都是從「半山腰」、甚至「山腳下」出發，一步步走到今天。早在公眾輿論將他們推上高處與顛峰之前，這三個人就已經一步步為自己打下成功的基礎、相信自己的抱負，並且無視旁人的冷嘲熱諷。（本文節錄自《向上流動》一書，作者：朵莉絲．馬爾汀／先覺出版，以下為摘文。）難道他們只是運氣好嗎？當然，也有運氣成分。但決定性的成功要素，其實"
         },
         {
-          "title": "台塑四寶10月營收一表看！南亞寫近55個月新高，台塑化年增76%最猛",
-          "link": "https://www.gvm.com.tw/article/134344",
-          "published": "2026-11-06T18:17:00",
-          "summary": "台塑四寶今天(6月)公布10月合併營收，四大公司合計10月營收共1639億元，比去年同期成長62.5%。其中南亞受惠於人工智慧（AI）相關硬體需求擴張，十月繳出亮眼成績單，合併營收寫下55個月以來的新高。今年AI伺服器算力及功耗持續飆升，在各大雲端巨頭的投資及全速建設之下，高速互連材料用量激增且快速升級，導致供需缺口放大。南亞這樣亮眼成績帶的背後，代表著這間從塑膠加工起家的公司，已經正式轉型，打入"
+          "title": "機械式滑手機30分鐘，耗腦程度堪比連解3道微積分？難怪愈休息愈累",
+          "link": "https://www.gvm.com.tw/article/134238",
+          "published": "2026-11-07T21:33:00",
+          "summary": "當你摸出手機，本想設置備忘錄，卻被推送的熱門新聞吸引了半小時；工作時剛打開文件，社群訊息和E-mail提示音輪番轟炸；吃完晚飯準備讀一下書，短影音卻像永動機般滾動播放。我們總在疑惑時間去了哪裡，卻很少意識到，注意力正在被無數隱形鉤索悄悄分解。這不是簡單的分心問題，而是每個現代人必須直面的生存課題。（本文節錄自《奧卡姆剃刀法則》一書，作者：何聖君／高寶出版，以下為摘文。）你知道嗎？我們每天被耗散掉的"
         },
         {
-          "title": "加持東海大學半導體學程！鄭清和捐1億整建大樓，校長喊話：教育是第二座護國神山",
-          "link": "https://www.gvm.com.tw/article/134343",
-          "published": "2026-11-06T17:56:00",
-          "summary": "面對AI浪潮與半導體人才需求攀升，東海大學積極切入科技教育，並獲大渡山學會理事長鄭清和捐贈1億元，支持半導體大樓整建與學程發展。東海以71年人文底蘊跨足半導體領域，盼透過產官學合作培育跨域人才。原來東海大學機及育才，是希望協助將台中打造為半導體、無人機與智慧機器人重鎮。實際將如何開展？中科、台中工業區與精密機械園區會如何受惠？教育是台灣產業持續躍升的實質後盾，毗鄰中部科學園區以及台中工業園區的東海"
+          "title": "2027台海危機倒數？台美日頂尖國防專家：「兵棋推演」3大目的",
+          "link": "https://www.gvm.com.tw/article/134236",
+          "published": "2026-11-07T21:26:00",
+          "summary": "2021年，美軍印太司令戴維森向全球發出警訊：中共極有可能在6年內具備全面侵台能力。此後，2027成為全球地緣政治中令人窒息的關鍵字，而兩岸之間持續疊加的灰色挑釁與軍事風險，更讓台海局勢一步步推向臨界點。面對迫在眉睫的危機，台灣已經沒有逃避的餘裕；唯有看清現實，才能在動盪中找到生存的韌性。（本文節錄自《台海防衛兵推入門》一書，作者：馬振坤，台北政經學院基金會和平與安全中心／有理文化出版。）為了替這"
         },
         {
-          "title": "藍色公路怎麼玩？大稻埕、淡水、八里搭船攻略：航線、票價、包船與煙火一次看",
-          "link": "https://www.gvm.com.tw/article/134332",
-          "published": "2026-11-06T17:54:00",
-          "summary": "隨著台北市長參選人沈伯洋支持者號召「包船」遊行，造成近日藍色公路包船爆紅，而你知道，淡水河藍色公路其實可以怎麼玩嗎？從大稻埕碼頭搭船出發，一路欣賞關渡、淡水河岸風景，再到八里享受悠閒的水岸時光。除了搭船遊覽景點，還能私人包船舉辦派對，甚至在特殊節日欣賞璀璨煙火。本文完整整理藍色公路航線、票價、航程、預約方式及熱門景點，帶你一次掌握最實用的搭船旅遊攻略。對許多生活在台北的人來說，淡水河一直是再熟悉不"
+          "title": "父親交代身後別「瞻仰遺容」：可是阿爸，我還是看見了蓋棺前的你",
+          "link": "https://www.gvm.com.tw/article/134232",
+          "published": "2026-11-07T21:22:00",
+          "summary": "很愛的人死掉是什麼感覺？葉揚書寫與父告別的路程與回憶：你會有一種戴面具的感覺，出門戴著，在家戴著，你知道正常社會不能接受你綿長的痛苦，所以無論做什麼事情，都要先把面具戴上去，才開始動作。拿掉面具的時候，你只剩下自己一個人，會覺得很多的部分都是空的，沒有意思，沒有動力，有點無法相信自己獨留在這個世界。（本文節錄自《謝謝你，我愛你》一書，作者：葉揚／重版文化出版。）好幾次打算來寫這段，卻很難真的寫出來"
         }
       ]
     },
@@ -96,40 +59,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "聖嬰現象來襲！澎湖面臨高溫、降雨異常風險縣府啟動跨單位應變準備 - PCHOME NEWS",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/living/m00361/20261107/index-79401188538971361009.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3EWdJO7Leg6ApeDHz2heOg",
-          "published": "2026-11-07T01:04:42+00:00",
-          "summary": "WMO指出，聖嬰不僅會改變全球降雨與氣溫分布，也可能放大原已受全球暖化影響的極端氣候風險，並強調各國應立即強化氣候調適與早期預警準備。 環保局也示警，澎湖&nbsp;..."
+          "title": "《通網股》從畫筆到AI科技！遠傳推永續教育、攜手下一代守護地球 - 永豐金證券",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/6af00fe036ff4992b1a4ffcf&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2p2dM_pLs1sr6fuFFOh9pt",
+          "published": "2026-11-08T06:09:14+00:00",
+          "summary": "【時報記者王逸芯台北報導】面對氣候變遷與生物多樣性流失，永續教育從下一代扎根！遠傳（4904）旗下遠傳電信基金會與台灣永..."
         },
         {
-          "title": "誰享紅利？逾半碳費補助企業環團反彈| 聯合新聞網 - LINE TODAY",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/yzGWKx1&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0dPxL5NTPfG2CrafUF7FMr",
-          "published": "2026-11-06T23:20:52+00:00",
-          "summary": "今年碳費共收取四十九點七億元，雖納入溫室氣體管理基金，專款專用於氣候變遷因應及淨零轉型，卻有一半以上規畫用於補助企業。環保團體認為，碳費用途..."
+          "title": "COP31將登場環境部同步啟動論壇掌握資訊- 生活- 華視新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.cts.com.tw/cna/life/202611/202611083098636.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw02oIwIUDrL7H1D8xmIvpVH",
+          "published": "2026-11-08T04:28:41+00:00",
+          "summary": "2026年第31屆聯合國氣候變化綱要公約締約方大會（UNFCCC COP31）將於11月9日至20日在土耳其安塔利亞舉行。 環境部表示，COP31以「從承諾走向落實」為核心，提出&nbsp;..."
         },
         {
-          "title": "歐盟監測機構：聖嬰影響2026年恐成史上第二熱年度",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.worldjournal.com/wj/amp/story/121480/9863122&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1GM-yrinUmNTeISAN2OgP0",
-          "published": "2026-11-06T20:47:44+00:00",
-          "summary": "法新社報導，哥白尼氣候變化服務（Copernicus Climate Change Service）在月度公報中指出，今年仍有「20%的機率追平或超越」2024年，成為有紀錄以來最熱的一年。"
+          "title": "面對全球極端氣候桃園都市規劃導入「熱島、風廊分析」 - 台灣好新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.taiwanhot.net/news/1153397/%25E9%259D%25A2%25E5%25B0%258D%25E5%2585%25A8%25E7%2590%2583%25E6%25A5%25B5%25E7%25AB%25AF%25E6%25B0%25A3%25E5%2580%2599%2B%25E6%25A1%2583%25E5%259C%2592%25E9%2583%25BD%25E5%25B8%2582%25E8%25A6%258F%25E5%258A%2583%25E5%25B0%258E%25E5%2585%25A5%25E3%2580%258C%25E7%2586%25B1%25E5%25B3%25B6%25E3%2580%2581%25E9%25A2%25A8%25E5%25BB%258A%25E5%2588%2586%25E6%259E%2590%25E3%2580%258D&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3Smcwf8Lb0oC84C9T_flrD",
+          "published": "2026-11-08T04:11:56+00:00",
+          "summary": "面對都市開發可能帶來的熱島效應，桃園市政府都市發展局將氣候調適與淨零思維提前納入都市規劃，選定中路站及平鎮站周邊整體開發區作為示範地區，透過「熱島&nbsp;..."
         },
         {
-          "title": "歐盟監測機構：聖嬰影響2026年恐成史上第二熱年度| 世界新聞網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.worldjournal.com/wj/story/121480/9863122%3Ffrom%3Dwj_rankbreaknews&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3o3SFFgE1o_Ff7eK6baCa8",
-          "published": "2026-11-06T20:47:41+00:00",
-          "summary": "法新社報導，哥白尼氣候變化服務（Copernicus Climate Change Service）在 ... 這是巴黎協定（Paris Agreement）為避免氣候變遷造成嚴重衝擊所設定的努力目標。"
+          "title": "竹市115年度社區規劃師計畫報名開跑高虹安市長：串聯在地力量共築<b>淨零</b>綠生活 - 新竹市政府",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hccg.gov.tw/hccg/app/data/view%3Fmodule%3Dmunicipalnews%26id%3D30122%26serno%3De42be3b2-5548-45b7-8b40-e90ab721d43e&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3QbFDxWSAejxUgiOr1Wzsy",
+          "published": "2026-11-08T03:48:50+00:00",
+          "summary": "為持續深化社區營造、改善城鎮風貌，落實市長高虹安「宜居永續、美感新竹」施政理念，新竹市政府推動115年度社區規劃師駐地輔導實施計畫，以「淨零綠生活－&nbsp;..."
         },
         {
-          "title": "「氣象冷知識」： 雲寶寶身世之謎（下）｜香港天文台(HKO)",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hko.gov.hk/tc/%25E6%259C%2580%25E6%2596%25B0%25E6%25B6%2588%25E6%2581%25AF/111089/%25E3%2580%258C%25E6%25B0%25A3%25E8%25B1%25A1%25E5%2586%25B7%25E7%259F%25A5%25E8%25AD%2598%25E3%2580%258D%25EF%25BC%259A-%25E9%259B%25B2%25E5%25AF%25B6%25E5%25AF%25B6%25E8%25BA%25AB%25E4%25B8%2596%25E4%25B9%258B%25E8%25AC%258E%25EF%25BC%2588%25E4%25B8%258B%25EF%25BC%2589&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw12MMHTNTNn_eeO5koUnW8f",
-          "published": "2026-11-06T20:29:51+00:00",
-          "summary": "千姿百態的雲究竟是如何分類與命名？氣象學上，除了按雲底高度分為高雲族、中雲族及低雲族外，亦會根據雲的特徵形態分成十個雲屬。"
+          "title": "<b>氣候變遷</b>如何影響健康？家庭準備5重點",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.top1health.com/Article/232/98733&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2YgSRXyadcHrutKXF2OOPM",
+          "published": "2026-11-08T02:59:46+00:00",
+          "summary": "氣候變遷可能透過高溫、飲水不安全及空氣污染影響健康。家庭可以先確認預警、準備安全飲水、落實清潔、改善烹調環境，並安排脆弱家人的聯絡方式。"
         },
         {
-          "title": "彭啓明：<b>淨零</b>幣減碳效益難評估 - 聯合新聞網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/7314/9862948&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1tf8KLSl1upkraVIqCHsxC",
-          "published": "2026-11-06T19:42:57+00:00",
-          "summary": "環境部氣候變遷署長蔡玲儀補充，氣候變遷因應法已明定碳費收入的用途與項目，必須以減量、調適規畫為主，現行已經有協助弱勢群體的空調設備汰換、節能設備納入等&nbsp;..."
+          "title": "陳椒華呼籲牛肉等高碳排肉類與豆類的碳排對比數據應儘速上線 - PeoPo 公民新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.peopo.org/news/863146&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1G97OTdv-IlvENUNLZsC99",
+          "published": "2026-11-08T02:58:46+00:00",
+          "summary": "曾於立法院參與通過《氣候變遷因應法》的台灣水資源保育聯盟理事長陳椒華（前立法委員）也在現場重砲轟擊環境部。陳椒華指出，2050淨零碳排是法規目標，但&nbsp;..."
         }
       ]
     }
