@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-11-09T07:40:46.386325+00:00",
-    "date": "2026-11-09",
+    "generated_at": "2026-11-10T08:00:58.602929+00:00",
+    "date": "2026-11-10",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "【劉永信專欄】AI 讓產出變多了，但公司的決定有因此變好嗎？",
-          "link": "https://techorange.com/2026/11/09/cloudmile-aiagent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-09T06:12:56+00:00",
-          "summary": "這幾個月，我們應該也用 AI 做了不少事，寫報告、整理會議紀錄等，但產出變多了，有沒有哪一次停下來問過自己，這些東西有沒有讓公司的任何一個決定變得更好？ 我會這樣問，是因為數學界其實也在發生一樣的事，當 AI 可以大量產出，原本用來衡量好壞的標準，突然就不準了。 2026 年 9 月，OpenAI 的一萬個 AI Agents 花了 88 小時，解開一道困擾數學界一個世紀的難題，過程燒掉大約一千五"
+          "title": "日月光攜手 SAS 建構 Agentic AI 智慧營運中樞",
+          "link": "https://techorange.com/2026/11/10/asegroup-sas-viya-agenticai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-10T07:07:54+00:00",
+          "summary": "推進「全員 AI」規模化，打造可治理、可協作的數位勞動力 半導體製造講求高精度、高一致性與即時反應，任何製程偏差、設備異常或排程失準，都可能影響品質與產能表現。隨著 AI 模型從單點部署朝向規模化與 Agent 協作，日月光以「全員 AI」為策略，攜手 SAS 導入 SAS Viya 平台，建構 Agentic AI 智慧營運中樞，串接既有資料、模型、演算法與 AI Agent，強化模型生命週期管"
         },
         {
-          "title": "台達助蔡司台灣先進封裝設備升級，建立可複製的 Fab 自動化能力",
-          "link": "https://techorange.com/2026/11/09/delta-zeiss-fab-diasecs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-09T05:54:50+00:00",
-          "summary": "近年來，半導體設備商導入 SECS/GEM 全球標準時，不只是設備與上位系統基礎連線，晶圓廠自動化設備必須深度融入整體製程流程，透過即時的資料收集、事件回報與流程控制，讓 Fab 自動化系統能精準掌握設備狀態。 台達機電事業群產品管理資深課長陳敬中指出，設備商通常專注於自身工藝與機台控制邏輯，「真正的挑戰，在於如何將嚴謹的規格文件，轉化為設備端可開發、可測試、可驗證的自動化功能。」陳敬中分析，當設"
+          "title": "從缺 GPU 到缺電：專訪亞灣超算姚延宗、耐能劉峻誠，企業 AI 算力上雲還是留地端？",
+          "link": "https://techorange.com/2026/11/10/visionbay-kneron-ai-power-compute/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-10T06:59:24+00:00",
+          "summary": "專訪：戴季全撰稿：張哲瑋 過去大家問的是買不買得到 GPU，現在愈來愈常問的是電夠不夠用。《全新一週》主持人戴季全在節目開場點出這個轉變。根據 Gartner 預測，全球資料中心用電量將從 2025 年的 447 太瓦時（TWh），成長到 2026 年的 565 太瓦時，年增 26%。 本集在 2026 鴻海科技日現場，邀請鴻海集團亞灣超算（Visionbay.ai）創辦人暨執行長姚延宗、耐能智慧"
         },
         {
-          "title": "NVIDIA 董事會啟動調查、華爾街憂經營風險，台經院張建一：AI 供應鏈影響有限",
-          "link": "https://techorange.com/2026/11/09/nvidia-initiates-independent-investigation/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-09T04:44:13+00:00",
-          "summary": "NVIDIA 董事會因外國情報活動疑慮宣布獨立調查，正值全球 AI 科技股劇烈震盪之際。這起事件是否會進一步影響 NVIDIA 營運與台灣供應鏈？台灣經濟研究院院長張建一在 11/9 接受媒體訪問時表示，相關國安問題仍有待釐清，但他認為事件對 NVIDIA 未來發展及整體 AI 供應鏈的影響有限，不至於因此阻礙 AI 產業發展。 根據 NVIDIA 聲明，董事會將由獨立董事組成委員會，並委託外部律"
+          "title": "Google 推 TPU 8tx、8i Max，一年推出四款系統：為何不必重新設計晶片？",
+          "link": "https://techorange.com/2026/11/10/google-tpu-8tx-8i-max/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-10T04:19:47+00:00",
+          "summary": "Google 正在加快自研 AI 晶片系統的更新腳步，繼今年 4 月推出第八代 TPU 8t、8i 後，Google 再發表 TPU 8tx、8i Max，首度在一年內推出四款 TPU 系統，分別鎖定模型訓練、低延遲推論、機密運算與超長上下文處理，也進一步擴大與 NVIDIA 在 AI 運算市場的競爭。 為什麼 Google 加快產品更新速度？Google Cloud AI 與運算基礎架構副總裁暨"
         },
         {
-          "title": "AI 白領浩劫還沒來？美國顧問、法律、會計 10 月齊增人力，但客服、文件處理仍在萎縮",
-          "link": "https://techorange.com/2026/11/09/ai-white-collar-jobs-october-jobs-report/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-09T04:01:13+00:00",
-          "summary": "顧問公司、律師事務所與會計事務所，常被視為 AI 最可能縮減人力的行業，但美國最新數據顯示，這三個行業 10 月都在增加人力。美國勞工統計局（BLS）美國時間 11/6 公布 10 月就業報告，非農就業增加 16.5 萬個工作，高於過去 12 個月平均每月 4.8 萬個，8、9 月的整體非農就業增幅也合計上修 8.4 萬個；失業率為 4.1%，變化不大。 《華爾街日報》指出，這份報告讓「AI 將成"
+          "title": "行銷科技平台 Brevo 後台遭刑事局封鎖，寄信 API、表單仍正常",
+          "link": "https://techorange.com/2026/11/10/brevo-has-been-blocked-by-taiwans-cib/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-10T04:00:00+00:00",
+          "summary": "行銷科技平台 Brevo 今（10）日在台灣出現管理後台無法登入的情況。《科技報橘》團隊上午嘗試進入 Brevo 後台時，發現網站顯示遭刑事警察局封鎖的訊息。經測試，目前郵件寄送 API、線上表單等服務仍可正常使用，封鎖原因則有待說明。Brevo 客服下午回覆《科技報橘》，目前已將此情形轉給內部技術與法務團隊處理；刑事警察局則在下午表示，封鎖預計在今日解除。 Brevo 是一家提供電子郵件行銷、客"
         },
         {
-          "title": "【AI 代理開始自己付錢】AWS、Visa 搶先布局穩定幣支付，打通「機器對機器」經濟模式",
-          "link": "https://techorange.com/2026/11/09/ai-agent-stablecoin-payment-layer/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-09T03:22:26+00:00",
-          "summary": "當 AI 代理可以獨立行動，那 AI 該如何主動替使用者支付費用？專家認為區塊鏈與穩定幣（Stablecoin）將有機會成為新的支付系統，打通機器對機器、機器原生經濟的發展之路。"
+          "title": "Claude Fable 5.2 單價降 20%，企業就能省錢？推理設定讓每項程式任務成本差近 6 倍",
+          "link": "https://techorange.com/2026/11/10/anthropic-claude-fable-5-2-mythos-5-2/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-10T03:40:06+00:00",
+          "summary": "Anthropic 在美國時間 11/9 發布 Claude Fable 5.2 與 Claude Mythos 5.2，宣稱新模型在幾乎所有評測過的能力上，都比自家的 Opus 5.5 略勝一籌；標準 API 價格也從前一代 5.1 版的每百萬輸入／輸出 token 10 美元、50 美元，降到 8 美元、40 美元。不過，在同一份官方公告裡，Anthropic 仍建議多數編碼與知識工作先從 O"
         },
         {
-          "title": "【每個產業都在變成半導體產業】從汽車到醫材，運算能力正成為產品差異化的關鍵",
-          "link": "https://techorange.com/2026/11/09/becoming-a-semiconductor-industry/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-09T03:22:02+00:00",
-          "summary": "對多數企業來說，晶片向來是工程與技術團隊才需要關心的事，其他高階主管很容易忽略這一層。但如今形塑企業經營的各項技術，從 AI、自動化到連網產品與智慧基礎設施，全都建立在越來越精密的晶片之上。 大多數企業這輩子都不會自己設計晶片，但半導體技術的進展，正越來越直接地決定企業能做出什麼產品、如何創新與競爭。不論企業是否察覺，每個產業都正在變成半導體產業。 晶片能力正在決定產品本身 這個轉變的關鍵，在於 "
+          "title": "第一線資訊科技榮獲第 24 屆金峰獎「十大傑出企業」　以「雲、網、安」整合服務助攻企業 AI 轉型",
+          "link": "https://techorange.com/2026/11/10/dyxnet-24-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-10T02:27:59+00:00",
+          "summary": "新加坡商第一線資訊科技有限公司台灣分公司（以下簡稱「第一線資訊科技」）於 10 月 30 日出席第 24 屆金峰獎頒獎典禮，獲頒「中小企業組十大傑出企業」殊榮。第一線資訊科技深耕企業 ICT 市場，以網路、雲端與資安整合服務協助企業穩固數位營運基礎。此次獲獎，不僅對其專業實力給予肯定，也彰顯公司在 AI 時代持續強化整合服務的發展方向。 金峰獎由中華民國傑出企業管理人協會主辦，自 1996 年首屆"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "2026職安法修法：職場霸凌納入防護，企業如何從源頭守護員工身心健康？",
-          "link": "https://www.gvm.com.tw/article/132968",
-          "published": "2026-11-09T00:00:00",
-          "summary": "工作，是每個人日常的一部分，而職業安全衛生守護的，從來不只是在工作場所裡的幾個小時。從踏進職場到平安下班，從看得見的事故風險，到不易察覺的心理壓力，當我們安心投入工作的時候，背後其實有許多人，正努力讓每一個工作環境變得更安全、更健康，而這份「守護」的內涵，也正在改變。2025年底《職業安全衛生法》（後稱職安法）完成修法，並於2026年7月正式上路，進一步強化工程源頭防災、職場霸凌防治等制度。這次職"
+          "title": "2026新北兒少心理健康國際研討會 圓滿落幕",
+          "link": "https://www.gvm.com.tw/article/134353",
+          "published": "2026-11-10T00:00:00",
+          "summary": "在數位社群與大時代的變遷下，兒少的成長旅程正面臨前所未有的未知與挑戰；而如何賦予孩子心理韌性，是我們共同的課題。大人們的用心傾聽、陪伴引導與理解更是安定心靈的關鍵。新北市政府衛生局邀集國內外專家學者，舉辦「2026新北兒少心理健康國際研討會」，透過澳洲、日本、新加坡及國內專家學者交流政策與實務經驗，凝聚教育、心理與醫療等各領域專業力量，溫柔陪伴每位兒少，踏上專屬的『心』旅程！本次研討會匯聚數百位來"
         },
         {
-          "title": "有制度，真的就安全？《企業職安衛治理與永續韌性調查報告》揭台灣職場安全真實現況",
-          "link": "https://www.gvm.com.tw/article/132954",
-          "published": "2026-11-09T00:00:00",
-          "summary": "在全球永續發展的浪潮席捲下，企業的職場安全的要求也正在改變，已不只是預防工安事故。在ESG（環境保護、社會責任與公司治理）的架構中，職業安全衛生（後稱職安衛）過去多聚焦於法規遵循與工安防護；如今，企業除須持續落實職業安全衛生法相關要求，管理範圍也逐步延伸至員工健康、職場心理健康、職場霸凌與不法侵害，以及承攬商與供應鏈安全，成為企業推動永續治理、維護健康勞動力及提升營運韌性的重要議題。目錄● 企業真"
+          "title": "嘉義市陪孩子探索、發現，勇敢奠基也走向未來",
+          "link": "https://www.gvm.com.tw/article/134321",
+          "published": "2026-11-10T00:00:00",
+          "summary": "如果學習不只是在教室裡讀課本，還能走進自然、動手做實驗、站上表演舞台，甚至用外語向世界介紹自己的家鄉，孩子的每一天，會有多少新的發現？嘉義市政府持續推動特色課程、數位學習、藝術體育與國際教育，就是要讓教育不只是傳授知識，更希望陪伴孩子認識自己、發展興趣，從生活中學會思考、合作與勇敢嘗試。學習不只有一種模樣，每個孩子都能發現自己的長處有些孩子喜歡追問「為什麼」，有些孩子擅長用畫筆表達想法，也有人只要"
         },
         {
-          "title": "工作步步高陞卻活得有體無魂：他被「這4個字」點醒，決心裸辭百萬年薪",
-          "link": "https://www.gvm.com.tw/article/134350",
-          "published": "2026-11-08T21:53:00",
-          "summary": "一名台積電員工工作2年8個月後決定離職，一句「到極限了」，讓不少上班族產生共鳴。一份薪水不錯、說出公司名稱人人稱羨的工作，如果每天醒來只剩「再撐一下」，究竟還算不算一份好工作？真正讓人難以割捨的往往不只是薪水，而是害怕離開之後會後悔、下一步沒有著落，也擔心別人不理解。於是明明已經不快樂，還是不斷告訴自己，再忍一下就好。（本文節錄自《冬日朝聖之路》一書，作者：黃國瑋（小黃），時報出版，以下為摘文。）"
+          "title": "CINDY CHAO 以藝術見證跨世代美學",
+          "link": "https://www.gvm.com.tw/article/134285",
+          "published": "2026-11-10T00:00:00",
+          "summary": "Cindy 曾如是說：「真正能稱之為藝術，除了作品兼具創作者獨有的美學視角與精湛工藝技術，更必須“專家鼓掌、百姓點頭”。在CINDY CHAO裡的每一次創作，我從未背離過初衷，但是否真能以“藝術”定義？仍須由世人檢視。」這段話道出了 Cindy 對藝術的堅持，也展現她對創作始終保持的謙遜態度。無論時代如何變遷，她始終相信，藝術除了忠於創作者的理念，也需要經得起時間與世人的檢視。多年來，Cindy "
         },
         {
-          "title": "車市純電車銷量重挫、油電車暴增！擺脫「充電焦慮」，專家揭純電5大關卡",
-          "link": "https://www.gvm.com.tw/article/134324",
-          "published": "2026-11-08T11:00:00",
-          "summary": "2026年全球車市迎來轉折，補助退場讓純電動車狂熱冷卻，「油電混合車」強勢崛起，為何代表汽車產業正回歸理性，油電與燃油車仍將穩健主導未來數十年版圖？加州早晨的陽光，灑進洛杉磯車展展間，幾款純電動車靜靜躺在角落。少了政府補助，價格牌上的數字顯得有些刺眼，讓消費者望之卻步。與此情此景大相逕庭的是，隔壁的中古車區人聲鼎沸，幾位買家正為了一台開過兩年的油電混合車爭相競標，成交價竟比新車高出不少。引擎啟動瞬"
+          "title": "「這樣的第三者」頂尖如黃仁勳也中招？心理師分析12種「地表最強小三」",
+          "link": "https://www.gvm.com.tw/article/134384",
+          "published": "2026-11-09T23:00:00",
+          "summary": "當婚姻關係中襲來婚外情風暴，即使站在科技巔峰、掌控兆億帝國的頂尖企業家黃仁勳，面對人性最複雜的感情試煉也無法豁免。名利與事業的成功，往往掩蓋不了婚姻基底的脆弱；再強大的理性與邏輯，在感情的盲點與錯綜複雜的第三者心理面前，也可能瞬間失算。（本文節錄自《從外遇洞察人心》一書，作者：林萃芬，時報出版，以下為摘文。）當婚姻遭遇外遇風暴，受傷者最迫切想知道的往往是：如何應對第三者，才能讓外遇伴侶回歸家庭？以"
         },
         {
-          "title": "瑪利歐為何有八字鬍？任天堂把限制變成創新利器的祕密",
-          "link": "https://www.gvm.com.tw/article/133718",
-          "published": "2026-11-08T09:00:00",
-          "summary": "編按：從京都紙牌店到遊戲帝國，任天堂避開規格競賽，以水平思考重組成熟技術，造就瑪利歐、Wii與Switch等經典，串起4代童年。《哈佛商業評論》全球繁體中文版探討指出，任天堂也曾有失敗產品，成敗關鍵在於從試錯中修正方向，並有把判斷執行到底的勇氣。企業談創新，常把焦點放在最新技術與龐大資源；任天堂的故事卻提供另一種思路。從京都紙牌店到全球遊戲帝國，任天堂靠「水平思考」重新組合有限技術，打造花札、Ga"
+          "title": "真正的成功其實不必等100分！心理學「51分原則」教你擺脫完美主義",
+          "link": "https://www.gvm.com.tw/article/134382",
+          "published": "2026-11-09T22:02:00",
+          "summary": "在真實的競爭中，只要你佔據的優勢是大於50％的任意數值，你就贏了。人想成功，不需要好的開始。只要開始做，就成功了一半。「好的開始」並不比「開始」高貴。不是先做好才能開始，而是堅定地執行51分原則，推自己去開始，才有可能做好。（本文節錄自《你的人生需要新收入！》一書，作者：錢婧／幸福文化出版，以下為摘文。）大部分人的求學體系清晰而單一，就是考試考好，然後一路升學。在這個過程中，規則明確，優中選優，分"
         },
         {
-          "title": "巴菲特每天喝5罐可樂，48年不碰白開水？醫點破「倖存者偏差」：長壽不代表健康",
-          "link": "https://www.gvm.com.tw/article/134320",
-          "published": "2026-11-08T07:00:00",
-          "summary": "每天喝 5 罐可樂、48 年不碰白開水，96 歲股神巴菲特的長壽是真奇蹟還是能模仿？周宗翰中醫師示警，這屬極端「倖存者偏差」！巴菲特一天從可樂攝取的糖分，直逼建議上限 4 倍，恐引爆脂肪肝、糖尿病、心血管疾病等代謝危機。本文拆解巴菲特的基因耐受力真相，點名４大高風險族群切勿盲從，教你正確飲水顧好代謝健康。每天喝 5 罐可樂，48 年不碰白開水， 96 歲「股神」巴菲特驚人的飲食習慣再度引爆話題。一"
+          "title": "台灣正用800年等一場不會來的重建？胡偉良：都更問題不是速度而是「這危機」",
+          "link": "https://www.gvm.com.tw/article/134381",
+          "published": "2026-11-09T21:21:00",
+          "summary": "2026年，台灣的都市更新正經歷一場安靜的崩塌。不是戲劇性的政策轉彎，也不是街頭的抗爭，而是一組一組數字的無聲下墜：危老申請量前7月僅249案，不到2025年全年的35%；都更核定案從去年同期的90件驟降至10件，台北市從36件掉到4件，新竹、台中、高雄直接掛零。這不是「降溫」，而是「急凍」。更令人不安的是，這場急凍並非來自地主反對或整合失敗的舊問題，而是制度本身正在系統性地懲罰合作、獎勵拖延，讓"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "新北拚2050<b>淨零</b>讓減碳成為市民生活日常",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.chinatimes.com/realtimenews/20261109001546-260405&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2oDxpHy_P8bXFFMmJ7r7SA",
-          "published": "2026-11-09T02:17:11+00:00",
-          "summary": "邁向2050淨零排放，新北市政府持續推動環境治理「∞（無限）」計畫，8年來透過黃金資收站、不塑市場、reBAG平台、節能E管家及國際青年氣候行動論壇等行動，&nbsp;..."
+          "title": "再生能源使用與伊朗戰爭推升油價化石燃料排放量預估下降 - 淨零碳排- 中央社",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://netzero.cna.com.tw/news/202611100162/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1UmSYekycr7AJPleysgVuI",
+          "published": "2026-11-10T07:04:55+00:00",
+          "summary": "聯合國氣候變遷綱要公約（UNFCCC） &middot; 聯合國政府間氣候變化專門委員會（IPCC） &middot; 歐盟氣候監測機構哥白尼氣候變遷服務（Copernicus Climate Change Service, C3S&nbsp;..."
         },
         {
-          "title": "台灣鋼聯榮獲SGS 永續環境獎深化減碳與資源循環布局",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/6af1222736ff4992b13f5277&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2c2bYODedWMl0Bkc0JJGoB",
-          "published": "2026-11-09T01:39:16+00:00",
-          "summary": "面對全球供應鏈重組與數位轉型加速的挑戰，SGS 強調，企業應透過國際標準建立值得信賴的治理機制，以因應氣候變遷並強化營運韌性。這次獲得ESG Awards 的企業，&nbsp;..."
+          "title": "氣候峰會登場歐盟指德義等9國恐難達成2030減排目標 - 中央廣播電臺",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rti.org.tw/news%3Fuid%3D3%26pid%3D1050506&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2CTvR2gyj0guHubZqA38UW",
+          "published": "2026-11-10T06:23:56+00:00",
+          "summary": "... 淨零排放。 不過，環保團體指控歐盟過去兩年開倒車，一再放寬對企業的氣候法規。 延伸閱讀. 碳排放 COP31 聯合國氣候變化綱要公約 聯合國氣候峰會 歐盟. 全球&nbsp;..."
         },
         {
-          "title": "暖化威脅氣候峰會土國登場蒙陰影|半導體|產業新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D5%26nsl_id%3D55fa6bd219d84725a67b9659f24f889d&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1cgic6akU7E9S3w1YVKDAC",
-          "published": "2026-11-08T23:05:05+00:00",
-          "summary": "近兩百個國家代表今天齊聚土耳其，參加第卅一屆聯合國氣候變化綱要公約締約方會議（COP31） ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
+          "title": "AI<b>淨零</b>／環團要求改善三接藻礁淤泥污染經部承諾1週內回應 - 中央社",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/news/afe/202611100103.aspx&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0ZwzTJOPB-6th6zSsjB2cd",
+          "published": "2026-11-10T06:18:11+00:00",
+          "summary": "中油第三座液化天然氣接收站（三接）引發環保團體關注，搶救大潭藻礁行動聯盟召集人潘忠政今天表示，經濟部與中油應正視三接造成大潭藻礁淤泥污染問題，&nbsp;..."
         },
         {
-          "title": "暖化帳單遞眼前逼各國回應|半導體|產業新聞|產科國際所【IEK產業情報網】",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D5%26nsl_id%3Daf0062eb29c445d68a8462e561883fbc&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw39qot5TtdNyKzVGRCTP1SV",
-          "published": "2026-11-08T23:05:04+00:00",
-          "summary": "今年八月，尼泊爾冰川崩塌釀成超大洪災，造成一千四百人死亡，再次喚起全球對氣候變遷的警覺。 ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
+          "title": "COP31 氣候峰會土耳其登場旗艦話題竟然是它 - 經濟日報- 聯合新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5599/9867758&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Ru3DPsCWP1mCRfOFn_3O3",
+          "published": "2026-11-10T05:49:07+00:00",
+          "summary": "氣候行動最昂貴的帳單之一就是拖延。」第31屆聯合國氣候變化綱要公約締約方會議（COP31）9日在土耳其安塔利亞展開，雙主席國澳洲與土耳其都在開幕式上拋出&nbsp;..."
         },
         {
-          "title": "氣候假訊息不是只否認暖化，台灣更常見的是「拖延戰術」",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://csrone.com/topics/10200&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0sfx1a167G9aRko-vbUojG",
-          "published": "2026-11-08T23:04:39+00:00",
-          "summary": "碳費 CBAM ESG報告 淨零排放 TCFD 永續報告書 GRI準則 碳中和 &middot; CSRone ... climate change and health &middot; APnews &middot; Frontiers in Communication &middot; 收藏. 分享."
+          "title": "【李貴敏專欄】能源進口吞掉6.7%的GDP <b>淨零</b>跳票代價高",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/living/imedia/20261110/index-79428134061017287009.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2uwXPewmkbjbTOaJiCNFQL",
+          "published": "2026-11-10T04:30:24+00:00",
+          "summary": "李貴敏/現任律師當政府為高速的經濟成長喝采，卻有一筆能源帳單不容忽視。彭博新能源財經（BNEF）最新台灣展望指出，2025年能源進口支出相當於GDP的6.7%。"
         },
         {
-          "title": "COP31／危機如此迫切！峰會所在地才剛遭野火肆虐 - 聯合新聞網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://udn.com/news/story/6809/9865694&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2SRGt0UMq6yS2relI6dE4P",
-          "published": "2026-11-08T22:15:19+00:00",
-          "summary": "氣候峰會如何拯救地球？塞倫吉爾強調，大氣二氧化碳濃度和全球氣溫持續上升，凸顯全球邁向淨零碳排的進展遠遠落後。他認為&nbsp;..."
+          "title": "臺北市再創全國政府先例！率先取得永續發展連結債券資格認可結合財政創新與減碳治理以永 ...",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gov.taipei/News_Content.aspx%3Fn%3DF0DDAF49B89E9413%26sms%3D72544237BBE4C5F6%26s%3D395B5F83F5F88919&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1kj-xGit6qs7NxTJ1QYHzU",
+          "published": "2026-11-10T03:38:38+00:00",
+          "summary": "為進一步結合財政管理與氣候治理，財政局攜手環保局，依據臺北市淨零排放路徑，共同完成SLB計畫書，將溫室氣體減量納入債券關鍵績效指標（KPI），並設定永續績效&nbsp;..."
         }
       ]
     }
