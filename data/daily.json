@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-11-10T08:00:58.602929+00:00",
-    "date": "2026-11-10",
+    "generated_at": "2026-11-11T07:30:24.808800+00:00",
+    "date": "2026-11-11",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "日月光攜手 SAS 建構 Agentic AI 智慧營運中樞",
-          "link": "https://techorange.com/2026/11/10/asegroup-sas-viya-agenticai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-10T07:07:54+00:00",
-          "summary": "推進「全員 AI」規模化，打造可治理、可協作的數位勞動力 半導體製造講求高精度、高一致性與即時反應，任何製程偏差、設備異常或排程失準，都可能影響品質與產能表現。隨著 AI 模型從單點部署朝向規模化與 Agent 協作，日月光以「全員 AI」為策略，攜手 SAS 導入 SAS Viya 平台，建構 Agentic AI 智慧營運中樞，串接既有資料、模型、演算法與 AI Agent，強化模型生命週期管"
+          "title": "AI 預算還要加碼，投資報酬卻說不清：38% 受訪者曾因超支延後、縮減或取消專案",
+          "link": "https://techorange.com/2026/11/11/ai-project-cost-overruns-vb-pulse/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-11T07:00:55+00:00",
+          "summary": "企業 AI 專案推不動，最常被點名的原因是成本，而不是算力。VentureBeat 的 VB Pulse 系列調查在 10 月訪問 156 位任職或服務於百人以上組織的 AI 從業者與顧問，38% 表示過去 12 個月，所屬組織曾因成本超出預期，延後、縮減或取消原定的 AI 專案；指稱運算容量不足的只有 12%。 儘管成本超支，79% 受訪者仍預期所屬組織未來一年的 AI 預算會增加；但只有 26"
         },
         {
-          "title": "從缺 GPU 到缺電：專訪亞灣超算姚延宗、耐能劉峻誠，企業 AI 算力上雲還是留地端？",
-          "link": "https://techorange.com/2026/11/10/visionbay-kneron-ai-power-compute/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-10T06:59:24+00:00",
-          "summary": "專訪：戴季全撰稿：張哲瑋 過去大家問的是買不買得到 GPU，現在愈來愈常問的是電夠不夠用。《全新一週》主持人戴季全在節目開場點出這個轉變。根據 Gartner 預測，全球資料中心用電量將從 2025 年的 447 太瓦時（TWh），成長到 2026 年的 565 太瓦時，年增 26%。 本集在 2026 鴻海科技日現場，邀請鴻海集團亞灣超算（Visionbay.ai）創辦人暨執行長姚延宗、耐能智慧"
+          "title": "Google Gemini Robotics 2.5 進賓士產線：人形機器人自主揀料，概念驗證成功率 96%",
+          "link": "https://techorange.com/2026/11/11/google-gemini-robotics-2-5-mercedes-kitting/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-11T04:07:23+00:00",
+          "summary": "Google DeepMind 在 11/10 發表機器人 AI 模型 Gemini Robotics 2.5，同時公布一項在賓士（Mercedes-Benz）汽車產線進行的概念驗證：美國德州機器人公司 Apptronik 的人形機器人 Apollo 2，自主完成零件的配料、分揀，DeepMind 稱成功率達 96%。對照《Reuters》去年 3 月的報導，當時賓士工廠裡的少數幾台 Apollo"
         },
         {
-          "title": "Google 推 TPU 8tx、8i Max，一年推出四款系統：為何不必重新設計晶片？",
-          "link": "https://techorange.com/2026/11/10/google-tpu-8tx-8i-max/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-10T04:19:47+00:00",
-          "summary": "Google 正在加快自研 AI 晶片系統的更新腳步，繼今年 4 月推出第八代 TPU 8t、8i 後，Google 再發表 TPU 8tx、8i Max，首度在一年內推出四款 TPU 系統，分別鎖定模型訓練、低延遲推論、機密運算與超長上下文處理，也進一步擴大與 NVIDIA 在 AI 運算市場的競爭。 為什麼 Google 加快產品更新速度？Google Cloud AI 與運算基礎架構副總裁暨"
+          "title": "【別只看 token 單價】從支出追到成果，看懂 AI 代理人的經濟效益將成為管理優勢",
+          "link": "https://techorange.com/2026/11/11/token-spend-management/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-11T02:42:52+00:00",
+          "summary": "企業每個月都收得到 AI 模型的帳單，卻未必說得出這筆錢換來了什麼。隨著 AI 代理人在企業內負責研究、分析、開發與溝通，逐漸成為日常工作的一部分，它們的運作也開始影響團隊如何分配時間、資源與注意力。 在這樣的情況下，討論 AI 成本時，支出只是起點；更值得追問的是，這筆支出讓代理人完成了什麼，它原本想達成什麼目標，以及成果是否值得投入的資源。 帳單只說明花了多少，無法說明換來什麼 多數企業已經能"
         },
         {
-          "title": "行銷科技平台 Brevo 後台遭刑事局封鎖，寄信 API、表單仍正常",
-          "link": "https://techorange.com/2026/11/10/brevo-has-been-blocked-by-taiwans-cib/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-10T04:00:00+00:00",
-          "summary": "行銷科技平台 Brevo 今（10）日在台灣出現管理後台無法登入的情況。《科技報橘》團隊上午嘗試進入 Brevo 後台時，發現網站顯示遭刑事警察局封鎖的訊息。經測試，目前郵件寄送 API、線上表單等服務仍可正常使用，封鎖原因則有待說明。Brevo 客服下午回覆《科技報橘》，目前已將此情形轉給內部技術與法務團隊處理；刑事警察局則在下午表示，封鎖預計在今日解除。 Brevo 是一家提供電子郵件行銷、客"
+          "title": "Anthropic IPO 前推出 AI 辦公套件：從試算表到會議協作，為何開始挑戰 Microsoft、Google？",
+          "link": "https://techorange.com/2026/11/11/anthropic-unveils-office-tools-ahead-of-ipo/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-11T02:37:50+00:00",
+          "summary": "AI 公司與傳統辦公軟體巨頭的競爭，正在從模型技術延伸到企業日常工作。正準備上市的 Anthropic，美國時間 11/10 宣布推出一系列 AI 辦公工具，涵蓋試算表、資料分析、數位白板與視訊會議，讓使用者不只能向 Claude 提問，還能直接與 AI 共同建立、修改工作成果。 根據《Bloomberg》報導，這項布局讓 Anthropic 與 Microsoft、Google 展開更直接的競爭"
         },
         {
-          "title": "Claude Fable 5.2 單價降 20%，企業就能省錢？推理設定讓每項程式任務成本差近 6 倍",
-          "link": "https://techorange.com/2026/11/10/anthropic-claude-fable-5-2-mythos-5-2/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-10T03:40:06+00:00",
-          "summary": "Anthropic 在美國時間 11/9 發布 Claude Fable 5.2 與 Claude Mythos 5.2，宣稱新模型在幾乎所有評測過的能力上，都比自家的 Opus 5.5 略勝一籌；標準 API 價格也從前一代 5.1 版的每百萬輸入／輸出 token 10 美元、50 美元，降到 8 美元、40 美元。不過，在同一份官方公告裡，Anthropic 仍建議多數編碼與知識工作先從 O"
+          "title": "聯合利華再部署 40 多套 AI 數位分身：數百座工廠中，怎麼挑出值得導入的據點？",
+          "link": "https://techorange.com/2026/11/11/unilever-digital-twins-manufacturing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-11T00:10:00+00:00",
+          "summary": "快速消費品巨頭聯合利華（Unilever）於 2026 年 6 月宣布，計畫在接下來 18 個月內新增 40 多套結合人工智慧（AI）的數位分身（Digital Twins）系統，擴大這項技術在全球製造網路中的應用。 目前，聯合利華已在美國、波蘭、越南及印度的 5 個製造據點導入數位分身，並累積減少生產廢料、提升產能及降低產品缺陷等成果。接下來，公司將以既有導入經驗為基礎，建立可供全球營運複製的應"
         },
         {
-          "title": "第一線資訊科技榮獲第 24 屆金峰獎「十大傑出企業」　以「雲、網、安」整合服務助攻企業 AI 轉型",
-          "link": "https://techorange.com/2026/11/10/dyxnet-24-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-10T02:27:59+00:00",
-          "summary": "新加坡商第一線資訊科技有限公司台灣分公司（以下簡稱「第一線資訊科技」）於 10 月 30 日出席第 24 屆金峰獎頒獎典禮，獲頒「中小企業組十大傑出企業」殊榮。第一線資訊科技深耕企業 ICT 市場，以網路、雲端與資安整合服務協助企業穩固數位營運基礎。此次獲獎，不僅對其專業實力給予肯定，也彰顯公司在 AI 時代持續強化整合服務的發展方向。 金峰獎由中華民國傑出企業管理人協會主辦，自 1996 年首屆"
+          "title": "【科技早餐】Anthropic IPO 260 億美元認購草案曝光又撤回！台積電、NVIDIA 列名單",
+          "link": "https://techorange.com/2026/11/11/anthropic-ipo-tsmc-nvidia-investment-draft-withdrawn/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-10T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊Anthropic IPO 693 億美元發售草案撤回，台積電列入 260 億美元認購名單 美國 AI 公司 Anthropic 10 月 26 日已向美國證券交易委員會（SEC）提交首次公開募股（IPO）申請，計畫以 ANT 為股票代號在那斯達克上市。《Reuters》11 月 10 日報導，Anthropic 曾向承銷銀行流通一份上市文件，提"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "2026新北兒少心理健康國際研討會 圓滿落幕",
-          "link": "https://www.gvm.com.tw/article/134353",
-          "published": "2026-11-10T00:00:00",
-          "summary": "在數位社群與大時代的變遷下，兒少的成長旅程正面臨前所未有的未知與挑戰；而如何賦予孩子心理韌性，是我們共同的課題。大人們的用心傾聽、陪伴引導與理解更是安定心靈的關鍵。新北市政府衛生局邀集國內外專家學者，舉辦「2026新北兒少心理健康國際研討會」，透過澳洲、日本、新加坡及國內專家學者交流政策與實務經驗，凝聚教育、心理與醫療等各領域專業力量，溫柔陪伴每位兒少，踏上專屬的『心』旅程！本次研討會匯聚數百位來"
+          "title": "全球AI供應鏈拉抬貨運需求！國泰貨運如何用數位創新，助台灣產業實現「運送無盡可能」？",
+          "link": "https://www.gvm.com.tw/article/134084",
+          "published": "2026-11-11T00:00:00",
+          "summary": "全球 AI 伺服器與高階晶片訂單大熱，讓台灣在這波潮流中居於戰略核心地位，並且改寫航空貨運的運作模式，掀起一場前所未見的「搶艙」趨勢。面對日益吃緊的航網運力與時效挑戰，國泰貨運（Cathay Cargo）如何憑藉全球網絡的靈活調度與專業後盾，成為台灣企業搶攻全球產業商機的堅實夥伴？根據國際航空運輸協會（IATA）分析，2025年在其統計的42國樣本中，AI貨物雖僅佔全球空運量 7%，卻貢獻多達53"
         },
         {
-          "title": "嘉義市陪孩子探索、發現，勇敢奠基也走向未來",
-          "link": "https://www.gvm.com.tw/article/134321",
-          "published": "2026-11-10T00:00:00",
-          "summary": "如果學習不只是在教室裡讀課本，還能走進自然、動手做實驗、站上表演舞台，甚至用外語向世界介紹自己的家鄉，孩子的每一天，會有多少新的發現？嘉義市政府持續推動特色課程、數位學習、藝術體育與國際教育，就是要讓教育不只是傳授知識，更希望陪伴孩子認識自己、發展興趣，從生活中學會思考、合作與勇敢嘗試。學習不只有一種模樣，每個孩子都能發現自己的長處有些孩子喜歡追問「為什麼」，有些孩子擅長用畫筆表達想法，也有人只要"
+          "title": "為什麼我們如此懷念唱片行？玫瑰唱片最後一家門市熄燈，帶走無數人的青春回憶",
+          "link": "https://www.gvm.com.tw/article/134420",
+          "published": "2026-11-10T19:33:00",
+          "summary": "曾經陪伴無數人成長的玫瑰唱片，最後一家實體門市即將熄燈，喚醒許多人的青春回憶。從放學後逛唱片行、存零用錢買CD，到與朋友約會、參加偶像簽唱會，唱片行曾是1990、2000年代最具代表性的青春場所。如今，隨著串流音樂興起，實體唱片行逐漸消失，為什麼我們依然如此懷念那個年代？你還記得上一次走進唱片行，是什麼時候的事嗎？對許多七、八年級生來說，1990年代至2000年代的唱片行，幾乎就是學生時代最熟悉的"
         },
         {
-          "title": "CINDY CHAO 以藝術見證跨世代美學",
-          "link": "https://www.gvm.com.tw/article/134285",
-          "published": "2026-11-10T00:00:00",
-          "summary": "Cindy 曾如是說：「真正能稱之為藝術，除了作品兼具創作者獨有的美學視角與精湛工藝技術，更必須“專家鼓掌、百姓點頭”。在CINDY CHAO裡的每一次創作，我從未背離過初衷，但是否真能以“藝術”定義？仍須由世人檢視。」這段話道出了 Cindy 對藝術的堅持，也展現她對創作始終保持的謙遜態度。無論時代如何變遷，她始終相信，藝術除了忠於創作者的理念，也需要經得起時間與世人的檢視。多年來，Cindy "
+          "title": "前IMF首席經濟學家羅格夫首度訪台！為何他直言「美元霸權非永恆」？",
+          "link": "https://www.gvm.com.tw/article/134419",
+          "published": "2026-11-10T19:20:00",
+          "summary": "前IMF首席經濟學家羅格夫首度訪台，今（10日）參與由遠見·天下文化與兆豐證券共同主辦的「2026國際大師論壇」，他打破「美元無敵」迷思，示警美國赤字惡化與中國「日本式」衰退，也提到美國期中選舉後的經濟風險。面對全球金融秩序洗牌與美元動盪，身處供應鏈樞紐且高度倚賴美元的台灣，該如何控管風險、掌握突圍契機？在全球地緣政治震盪、美國期中選舉剛落幕之際，全球金融秩序正站在歷史的十字路口。由遠見·天下文化"
         },
         {
-          "title": "「這樣的第三者」頂尖如黃仁勳也中招？心理師分析12種「地表最強小三」",
-          "link": "https://www.gvm.com.tw/article/134384",
-          "published": "2026-11-09T23:00:00",
-          "summary": "當婚姻關係中襲來婚外情風暴，即使站在科技巔峰、掌控兆億帝國的頂尖企業家黃仁勳，面對人性最複雜的感情試煉也無法豁免。名利與事業的成功，往往掩蓋不了婚姻基底的脆弱；再強大的理性與邏輯，在感情的盲點與錯綜複雜的第三者心理面前，也可能瞬間失算。（本文節錄自《從外遇洞察人心》一書，作者：林萃芬，時報出版，以下為摘文。）當婚姻遭遇外遇風暴，受傷者最迫切想知道的往往是：如何應對第三者，才能讓外遇伴侶回歸家庭？以"
+          "title": "台灣出口創新高，像「雞蛋分裝好幾籃，母雞卻仍是同一隻」",
+          "link": "https://www.gvm.com.tw/article/134413",
+          "published": "2026-11-10T19:10:00",
+          "summary": "台灣半導體和AI出口，真的只靠美國嗎？2026年前9月出口6615.5億美元，再創新高，但其實賣到美國的不到1/3，近七成出口的第一站是東協、墨西哥與歐洲。外貿不倚賴單一市場，意味著「裝雞蛋的籃子變多了」，只不過，下蛋的母雞仍是美國的AI投資。一台AI伺服器、顯示卡或主機板，自台灣裝上貨櫃船出發，終點站未必只去美國。2026年前九個月，台灣出口6615.5億美元（約新台幣21.7兆元），再創新高，"
         },
         {
-          "title": "真正的成功其實不必等100分！心理學「51分原則」教你擺脫完美主義",
-          "link": "https://www.gvm.com.tw/article/134382",
-          "published": "2026-11-09T22:02:00",
-          "summary": "在真實的競爭中，只要你佔據的優勢是大於50％的任意數值，你就贏了。人想成功，不需要好的開始。只要開始做，就成功了一半。「好的開始」並不比「開始」高貴。不是先做好才能開始，而是堅定地執行51分原則，推自己去開始，才有可能做好。（本文節錄自《你的人生需要新收入！》一書，作者：錢婧／幸福文化出版，以下為摘文。）大部分人的求學體系清晰而單一，就是考試考好，然後一路升學。在這個過程中，規則明確，優中選優，分"
+          "title": "劍指錢都、築間加盟主，聯發國際個人鍋物品牌「小滿上鍋」插旗板橋",
+          "link": "https://www.gvm.com.tw/article/134418",
+          "published": "2026-11-10T18:56:00",
+          "summary": "火鍋市場新玩家+1！旗下擁有歇腳亭、UG等手搖品牌的聯發國際（2756）推出「小滿上鍋」板橋旗艦店，主打亞洲口味的個人鍋，客單價約500元到700元。這也是旗下聯發國際目前唯一的餐廳品牌，為何從手搖跨足餐廳？又將如何搶下築間與錢都的加盟主，《遠見》一文看。聯發國際（2756）推出「小滿上鍋」板橋旗艦店於11月11日試營運，該店占地超過百坪，有100個座位，主打亞洲風味的個人鍋物，有吉隆坡、檳城、曼"
         },
         {
-          "title": "台灣正用800年等一場不會來的重建？胡偉良：都更問題不是速度而是「這危機」",
-          "link": "https://www.gvm.com.tw/article/134381",
-          "published": "2026-11-09T21:21:00",
-          "summary": "2026年，台灣的都市更新正經歷一場安靜的崩塌。不是戲劇性的政策轉彎，也不是街頭的抗爭，而是一組一組數字的無聲下墜：危老申請量前7月僅249案，不到2025年全年的35%；都更核定案從去年同期的90件驟降至10件，台北市從36件掉到4件，新竹、台中、高雄直接掛零。這不是「降溫」，而是「急凍」。更令人不安的是，這場急凍並非來自地主反對或整合失敗的舊問題，而是制度本身正在系統性地懲罰合作、獎勵拖延，讓"
+          "title": "核一標案涉洩密圖利！北院裁定經理、廠商2人羈押禁見",
+          "link": "https://www.gvm.com.tw/article/134416",
+          "published": "2026-11-10T18:22:00",
+          "summary": "台電核一廠標案涉洩密、圖利廠商，北檢昨天約談9人，經漏夜複訊，向法院聲請羈押修配組謝姓經理及呂姓廠商。北院今天裁定2人羈押禁見。檢廉獲報，核一廠民國113年辦理「ESWP Top Bowl」採購案，修配組謝姓經理涉指示高姓工程師，將標案規格洩露給勤業公司許姓負責人。另家聯沂企業有限公司負責人呂姓父子，以利潤3%為交換條件，要求勤業公司退出標案。該標案最終由聯沂公司以新台幣376萬9500元得標。此"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "再生能源使用與伊朗戰爭推升油價化石燃料排放量預估下降 - 淨零碳排- 中央社",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://netzero.cna.com.tw/news/202611100162/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1UmSYekycr7AJPleysgVuI",
-          "published": "2026-11-10T07:04:55+00:00",
-          "summary": "聯合國氣候變遷綱要公約（UNFCCC） &middot; 聯合國政府間氣候變化專門委員會（IPCC） &middot; 歐盟氣候監測機構哥白尼氣候變遷服務（Copernicus Climate Change Service, C3S&nbsp;..."
+          "title": "韓正會古特瑞斯陸承諾穩定全球氣候治理 - 翻爆",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://turnnewsapp.com/livenews/chinav3/20261111002029-260409&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1s9c3k7yf_nuNXM5MrHKjc",
+          "published": "2026-11-11T04:09:20+00:00",
+          "summary": "大陸國家主席習近平主席特別代表、國家副主席韓正表示，大陸今年提出2030年非化石能源發電量占比達到50％、電能占終端能源消費比重達到35％等目標；中方將&nbsp;..."
         },
         {
-          "title": "氣候峰會登場歐盟指德義等9國恐難達成2030減排目標 - 中央廣播電臺",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rti.org.tw/news%3Fuid%3D3%26pid%3D1050506&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2CTvR2gyj0guHubZqA38UW",
-          "published": "2026-11-10T06:23:56+00:00",
-          "summary": "... 淨零排放。 不過，環保團體指控歐盟過去兩年開倒車，一再放寬對企業的氣候法規。 延伸閱讀. 碳排放 COP31 聯合國氣候變化綱要公約 聯合國氣候峰會 歐盟. 全球&nbsp;..."
+          "title": "謝展寰土耳其出席聯合國氣候變化大會中國角邊會論壇- 香港文匯報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.wenweipo.com/a/202611/11/AP6af3dde7e4b028ec01937ad6.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw07JxqUQwYHDivo03ER1aPe",
+          "published": "2026-11-11T03:18:59+00:00",
+          "summary": "與高峰期比較，2024年的碳排放量減少27%，去年的減幅更進一步擴大至32%。他並提及實現碳中和與建設氣候韌性需要投入財政資源，而香港在這部分獨具優勢。而去年在&nbsp;..."
         },
         {
-          "title": "AI<b>淨零</b>／環團要求改善三接藻礁淤泥污染經部承諾1週內回應 - 中央社",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cna.com.tw/news/afe/202611100103.aspx&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0ZwzTJOPB-6th6zSsjB2cd",
-          "published": "2026-11-10T06:18:11+00:00",
-          "summary": "中油第三座液化天然氣接收站（三接）引發環保團體關注，搶救大潭藻礁行動聯盟召集人潘忠政今天表示，經濟部與中油應正視三接造成大潭藻礁淤泥污染問題，&nbsp;..."
+          "title": "市政新聞-新北綠色旅遊地圖再擴張！環保局輔導鴻獅旅行社、大板根酒店榮獲環保標章認證",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ntpc.gov.tw/ch/home.jsp%3Fid%3De8ca970cde5c00e1%26dataserno%3Dd1d6cfbebed7137fb61fcef82c0774d2&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0qOAOGk_4enQbHPv_b2APX",
+          "published": "2026-11-11T03:16:52+00:00",
+          "summary": "【新北市訊】為響應2050淨零碳排趨勢，新北市環保局持續從食、衣、住、行、育、樂、購等面項推動全民淨零生活，並積極拓展綠色旅遊版圖。"
         },
         {
-          "title": "COP31 氣候峰會土耳其登場旗艦話題竟然是它 - 經濟日報- 聯合新聞網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5599/9867758&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2Ru3DPsCWP1mCRfOFn_3O3",
-          "published": "2026-11-10T05:49:07+00:00",
-          "summary": "氣候行動最昂貴的帳單之一就是拖延。」第31屆聯合國氣候變化綱要公約締約方會議（COP31）9日在土耳其安塔利亞展開，雙主席國澳洲與土耳其都在開幕式上拋出&nbsp;..."
+          "title": "謝展寰赴土耳其出席聯合國氣候變化大會稱會協助綠色科企以港作跳板擴國際市場(10:26)",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.mingpao.com/ins/%25E6%25B8%25AF%25E8%2581%259E/article/20261111/s00001/1794363874258/%25E8%25AC%259D%25E5%25B1%2595%25E5%25AF%25B0%25E8%25B5%25B4%25E5%259C%259F%25E8%2580%25B3%25E5%2585%25B6%25E5%2587%25BA%25E5%25B8%25AD%25E8%2581%25AF%25E5%2590%2588%25E5%259C%258B%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E5%258C%2596%25E5%25A4%25A7%25E6%259C%2583-%25E7%25A8%25B1%25E6%259C%2583%25E5%258D%2594%25E5%258A%25A9%25E7%25B6%25A0%25E8%2589%25B2%25E7%25A7%2591%25E4%25BC%2581%25E4%25BB%25A5%25E6%25B8%25AF%25E4%25BD%259C%25E8%25B7%25B3%25E6%259D%25BF%25E6%2593%25B4%25E5%259C%258B%25E9%259A%259B%25E5%25B8%2582%25E5%25A0%25B4&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2euc2KTYw1Tp36WaL8p-Tm",
+          "published": "2026-11-11T02:32:05+00:00",
+          "summary": "... 氣候變化方面的角色、進展和成果，並討論香港如何配合國家「十五五」規劃，深化與鄰近地區及國際社會的合作。 謝展寰致開幕辭時表示，實現碳中和與建設氣候&nbsp;..."
         },
         {
-          "title": "【李貴敏專欄】能源進口吞掉6.7%的GDP <b>淨零</b>跳票代價高",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/living/imedia/20261110/index-79428134061017287009.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2uwXPewmkbjbTOaJiCNFQL",
-          "published": "2026-11-10T04:30:24+00:00",
-          "summary": "李貴敏/現任律師當政府為高速的經濟成長喝采，卻有一筆能源帳單不容忽視。彭博新能源財經（BNEF）最新台灣展望指出，2025年能源進口支出相當於GDP的6.7%。"
+          "title": "環境及生態局局長在土耳其出席聯合國氣候變化大會中國角邊會論壇（附圖） - 香港政府",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.info.gov.hk/gia/general/202611/11/P2026111100042.htm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3lurGEYSj2R4wfhSneQFit",
+          "published": "2026-11-11T02:05:11+00:00",
+          "summary": "行政會議成員兼碳中和及可持續發展委員會主席林正財醫生、政府間氣候變化專門委員會第六次評估報告第二工作組聯合主席Debra Roberts教授及宜可城—地方政府可&nbsp;..."
         },
         {
-          "title": "臺北市再創全國政府先例！率先取得永續發展連結債券資格認可結合財政創新與減碳治理以永 ...",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gov.taipei/News_Content.aspx%3Fn%3DF0DDAF49B89E9413%26sms%3D72544237BBE4C5F6%26s%3D395B5F83F5F88919&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1kj-xGit6qs7NxTJ1QYHzU",
-          "published": "2026-11-10T03:38:38+00:00",
-          "summary": "為進一步結合財政管理與氣候治理，財政局攜手環保局，依據臺北市淨零排放路徑，共同完成SLB計畫書，將溫室氣體減量納入債券關鍵績效指標（KPI），並設定永續績效&nbsp;..."
+          "title": "中國碳排放出現歷史性轉折，燃煤發電占比首度跌破五成 - TechNews 科技新報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://technews.tw/2026/11/11/chinas-carbon-emissions-reach-a-historic-turning-point-with-the-share-of-coal-fired-power-falling-below-50-for-the-first-time/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw21wfk5QYQC7kIzdquDpCh4",
+          "published": "2026-11-11T02:05:09+00:00",
+          "summary": "... 氣候變遷帶來重要轉機。 過去 ... 中國原本承諾 2030 年前達到碳排放高峰，並在 2060 年前實現碳中和。然而，氣候行動追蹤組織 (Climate Action&nbsp;..."
         }
       ]
     }
