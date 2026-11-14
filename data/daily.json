@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-11-13T07:37:31.482875+00:00",
-    "date": "2026-11-13",
+    "generated_at": "2026-11-14T07:23:34.287897+00:00",
+    "date": "2026-11-14",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -11,6 +11,18 @@
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
       "items": [
+        {
+          "title": "【Gartner 2027 十大科技趨勢報告】AI 開發工具引爆軟體極度豐富，2030 年 80% 新軟體將轉為「用完即拋」",
+          "link": "https://techorange.com/2026/11/14/gartner-trends-for-2027/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-13T22:29:00+00:00",
+          "summary": "顧問機構 Gartner 發布《2027 年十大戰略科技趨勢》報告，內容著重在協助企業為自主 AI 與機器人劃定控制界限，建立兼具效率與技術主權的營運架構。 過去企業 IT 受限於開發成本高昂的「軟體稀缺」思維；如今在生成式 AI 與氛圍編碼（vibe coding）推動下，企業正式迎來「軟體極度豐富」時代。與此同時，面對昂貴且僵化的「SaaS 訂閱疲勞」，Gartner 預測到 2030 年，領"
+        },
+        {
+          "title": "鴻海怎麼讓人形機器人進工廠？郭柳宗：先拆任務，再決定哪一段需要 AI",
+          "link": "https://techorange.com/2026/11/13/foxconn-humanoid-robotics-leo-kuo/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-13T07:34:37+00:00",
+          "summary": "人形機器人進工廠，不一定得先學會雙足走路，也不一定每項工作都需要靈巧手。鴻海科技集團機器人事業處總經理郭柳宗在近日舉辦的 333 Robots Community Meetup 分享，目前團隊把不少心力放在 SMT 產線、倉儲等既有製造場景，希望先把特定任務做成熟，再往更多相似場域延伸。對工廠來說，機器人不只是要能完成動作，速度、定位精度、力控與穩定性，也都會影響它能不能真正進入產線。 從陪伴機器"
+        },
         {
           "title": "摩根大通：美國人形機器人 2030 年產量上看 40 萬台，近期最大機會在零組件商",
           "link": "https://techorange.com/2026/11/13/jp-morgan-us-humanoid-robot-production-2030/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -34,18 +46,6 @@
           "link": "https://techorange.com/2026/11/13/amazon-ai-robot-and-future-human-work/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
           "published": "2026-11-13T02:11:51+00:00",
           "summary": "物流龍頭亞馬遜（Amazon）已擁有超過百萬台機器人於倉庫中全天候運作，但 AI 所驅動的機器人與自動化倉儲，卻可能是人類員工出現身體受傷、精神消耗與失去工作職位的元兇。"
-        },
-        {
-          "title": "Helsing 推 Clarity 挑戰 Palantir，稱數百個 AI 代理交叉比對情報、交戰仍由人類授權",
-          "link": "https://techorange.com/2026/11/13/helsing-clarity-palantir-maven-rival/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-13T00:10:00+00:00",
-          "summary": "德國國防科技公司 Helsing 11/11 在柏林發表軍用情報平台 Clarity，協助軍隊消化現代戰爭產生的大量戰場資訊，進軍由美國數據分析與國防軟體公司 Palantir 領先的市場。Helsing 在發表會邀請函中寫道，關鍵在於能精準偵察、在不確定中做出正確決策，並在戰場上精準行動，而且「具備自主性且沒有依賴：來自歐洲、為了歐洲」。 根據《Reuters》報導，Helsing 希望從歐洲政"
-        },
-        {
-          "title": "【科技早餐】北京拚年產 20 萬台機器人！三星 HBM 新廠動工、規劃投資 46 兆韓元",
-          "link": "https://techorange.com/2026/11/13/beijing-humanoid-robots-samsung-hbm-investment/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-12T21:30:00+00:00",
-          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊北京具身智慧三年計畫出爐！拚年產 20 萬台機器人、培育 5 家國際級企業 北京市經濟和資訊化局 11 月 11 日公布《具身智慧機器人產業高品質發展行動方案（2026–2028 年）》，目標在 2028 年形成每年 20 萬台機器人整機產能，培育至少 5 家國際一流、10 家國內領先的人形機器人企業。這項政策不只扶植機器人品牌，也將 AI 模型"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "婚外情終結33年掌舵生涯！黃仁勳突辭輝達執行長、退出董事會，財務長克瑞斯接任臨時執行長",
-          "link": "https://www.gvm.com.tw/article/134472",
-          "published": "2026-11-12T22:40:00",
-          "summary": "11/12 22:30更新：輝達（Nvidia）執行長黃仁勳近日深陷兩段婚外情風暴。輝達董事會12日宣布，黃仁勳即日起辭去輝達執行長職務，並且不再擔任董事會成員，即刻生效。輝達財務長克瑞斯（Colette Kress）將擔任臨時執行長，同時保留其現有職位。董事會將尋找正式接班的執行長。此外，輝達宣布，長期擔任公司董事的瓊斯（Harvey C. Jones）將出任輝達董事會史上首位董事長。黃仁勳宣布"
+          "title": "看電視常打瞌睡是大腦生病了？最新研究揭失智前兆：小心「這型態」最危險",
+          "link": "https://www.gvm.com.tw/article/134496",
+          "published": "2026-11-14T07:00:00",
+          "summary": "許多民眾常認為「年紀大了白天愛睏、打瞌睡很正常」或習慣靠午睡來補眠。然而，一篇發表於國際期刊《老年學期刊：A輯》（The Journals of Gerontology：Series A）的最新長達 10 年的追蹤研究指出，高齡者日間小睡的「頻率」與「型態」可能是大腦健康的重要指標。研究發現，若白天頻繁午睡，或常在不知不覺中打瞌睡（非自願性午睡），未來罹患失智症的風險比一般人高出近四至五成！上年紀"
         },
         {
-          "title": "AI撐起鴻海半壁江山！劉揚偉：這類產品占比未來上看六成",
-          "link": "https://www.gvm.com.tw/article/134490",
-          "published": "2026-11-12T18:44:00",
-          "summary": "AI需求持續強勁，帶動鴻海（2317）營收結構出現轉變。鴻海董事長劉揚偉表示，今年雲端網路這一類產品營收占比已超過五成，預期未來三至五年將進一步提高至六成以上，成為集團最主要的成長動能！展望2027年，儘管全球產業可能呈現「K型發展」，但受惠AI基礎設施投資持續擴大，鴻海對明年營運維持審慎樂觀，預期集團將維持雙位數成長。至於期中選舉，將對訂單有影響嗎？劉揚偉這麼說。鴻海今（12）日舉行疫情以來首度"
+          "title": "差點去台積電上班！38歲農家子弟靠30萬創業，帶保健品牌騰勢上櫃「打造亞洲P&G;」",
+          "link": "https://www.gvm.com.tw/article/134524",
+          "published": "2026-11-14T00:45:00",
+          "summary": "走進藥局，只見架上擺滿了苦瓜胜肽、高濃度深海魚油、益生菌、速效藍莓精華...等產品，另一旁的櫃位，還陳列了各式的寵物保健品。而它們的共同點，是他們都是由一間台灣在地保健公司「騰勢」所生產。攤開財報，騰勢今年第3季單季營收達2.14億元，年增5.5％，營業利益達0.29億元，稅後歸屬於母公司淨利新台幣0.23億元， EPS為1.11元。而該公司也預計在今年12月1日正式掛牌上櫃。很難想像，靠著達摩本"
         },
         {
-          "title": "蔣萬安專訪》換上運動服全力衝選戰，他用「生活感」瞄準中間選民",
-          "link": "https://www.gvm.com.tw/article/134489",
-          "published": "2026-11-12T18:37:00",
-          "summary": "暫時褪下標誌性的合身深藍西裝，換上彈性運動服、牛仔褲與球鞋，台北市長蔣萬安正式切換進選戰模式，每天十多個行程起跳，在緊繃喧囂的選戰倒數時刻，他選擇走進基層，透過一次次沉穩有力的握手，聆聽每位市民的建議，勾勒台北市下一步的施政願景。在請假投入選戰前夕，蔣萬安接受《遠見》專訪，揭開他衝刺最後一哩路的選戰節奏。過往大家想到蔣萬安，總是一身修身剪裁的深藍色西裝，透過俐落線條展現穩重與具親和力的專業形象，但"
+          "title": "AI時代下點子容易複製怎辦？YC合夥人：理解問題比寫程式更重要",
+          "link": "https://www.gvm.com.tw/article/134523",
+          "published": "2026-11-14T00:35:00",
+          "summary": "AI讓寫程式的門檻大幅降低，連不懂程式的人都能開發軟體，過去靠技術建立優勢的新創，還能憑什麼建立護城河？Y Combinator（YC）客座合夥人傑布斯（Boris Jabes）接受《遠見》專訪指出，即使給兩個人同樣的AI工具與無限Token，做出來的產品仍有高下之分。他認為，關鍵在於創辦人是否真正理解客戶的問題，以及能否把功能整合成客戶願意付費的產品。「如果隨便找兩個人，給他們24小時和無限量的"
         },
         {
-          "title": "油價漲也擋不住！華航前三季營收創歷年同期新高，長程線載客率破9成喜迎交機潮",
-          "link": "https://www.gvm.com.tw/article/134488",
-          "published": "2026-11-12T18:17:00",
-          "summary": "國際油價持續攀升，但華航營運仍繳出亮眼成績單，今年前三季營收和獲利皆刷新歷年同期最高紀錄。而華航也表示，隨著A350-900、A321neo等客機陸續引進，加上波音787客機也即將交付，可望大幅提升運能及消費者體驗。根據華航最新財報，今年前三季，華航合併營收達1,859.40億元、歸屬母公司淨利110.02億元、每股盈餘（EPS）1.80元，營收與淨利雙雙刷新歷年同期最高紀錄；第三季單季營收651"
+          "title": "AI聊天機器人再進化！從客服工具變身品牌關係伙伴",
+          "link": "https://www.gvm.com.tw/article/134522",
+          "published": "2026-11-13T18:15:00",
+          "summary": "過去，企業靠CRM系統蒐集顧客資料，建立品牌忠誠度；如今，AI聊天機器人透過同理心與個人化互動，讓顧客產生情感連結。當AI從客服工具變成信任伙伴，企業如何掌握親密感，又避免信任反噬？研究發現，使用陪伴型聊天機器人的民眾，對AI的親密感甚至可能超越與好友、同事的連結。另一項針對1479人的研究也顯示，具同理心、能展現理解力的AI，比單純執行任務的助理，更能降低使用者的孤獨感。這代表AI不只是回答問題"
         },
         {
-          "title": "女性回歸家庭「穩賠不賺」？從黃仁勳另一半Lori的故事談起",
-          "link": "https://www.gvm.com.tw/article/134486",
-          "published": "2026-11-12T17:48:00",
-          "summary": "近期，網路社群Threads上掀起一場關於全職媽媽價值與風險的討論。起因是輝達（NVIDIA）執行長黃仁勳（Jensen Huang）的感情風波傳聞，讓不少網友把目光投向他的妻子Lori。因為Lori曾經是優秀的工程師，當年是因另一半創業才離開職場。如今婚姻遭到背叛，許多人也開始替Lori感到不值。最近一個朋友也問我，做全職媽媽還是繼續工作好，回歸家庭真的會「穩賠不賺」嗎？就來說一下我周遭的真實經"
+          "title": "微軟大當機！Outlook、微軟365等服務中斷，亞太企業及政府機關受影響",
+          "link": "https://www.gvm.com.tw/article/134497",
+          "published": "2026-11-13T18:00:00",
+          "summary": "微軟（Microsoft）旗下Outlook、Teams及Copilot等服務發生當機，影響美國大量用戶後，今天亞太地區上班時間仍未恢復正常。微軟表示，雖已調整受影響伺服器，但服務僅部分恢復，狀況尚未完全排除。路透社報導，這次故障波及澳洲、日本及美國政府機關，以及OpenAI、Anthropic等企業，這也是微軟365服務今年第2度中斷，引發企業對其服務可靠性的疑慮。服務中斷追蹤網站Downdet"
         },
         {
-          "title": "為什麼不該用生育定義女性的價值？5個值得深思的觀念：每個人都有權選擇自己的人生",
-          "link": "https://www.gvm.com.tw/article/134485",
-          "published": "2026-11-12T17:06:00",
-          "summary": "女性的價值，真的需要透過結婚、生孩子來證明嗎？在傳統社會的期待下，女性似乎總被認為應該成為妻子、母親，即使時代不斷進步，這樣的刻板印象依然存在。然而，生不生孩子，本來就是每個人都應該擁有的自由，女性的社會價值也不該由生育能力決定。透過5個值得深思的觀念，重新理解女性的生育自主權，以及每一種人生選擇都值得被尊重的理由。為什麼女性的價值，總要透過婚姻與生孩子來證明？試著回想，在逢年過節的家庭聚會中，你"
+          "title": "AI提前「造王」！創投資金創新高，新創卻更難募資？",
+          "link": "https://www.gvm.com.tw/article/134521",
+          "published": "2026-11-13T17:54:00",
+          "summary": "編按：全球創投資金創新高，AI新創卻出現冰火兩極！有團隊產品尚未成熟，就能募得數億美元；卻也有更多早期新創苦等資金。創投市場正興起「造王」現象，投資人為何愈來愈早押寶？巨額融資究竟是在創造下一個AI霸主，還是在提前吹大泡沫？過去兩年，台灣資本市場聊AI，話題總繞著相關供應鏈轉。最近台美科技股大幅震盪，投資人開始重新計算：砸進資料中心和算力的錢，到底什麼時候能變成真的營收與獲利？創投市場也有一筆類似"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "【COP31直擊】安塔利亞AI承諾怎麼實踐？中鼎何麗嫻：用「設計」讓綠色工程真正落地",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://csr.cw.com.tw/article/44911&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw22GcJ-9p366dVt3_a_yFDp",
-          "published": "2026-11-13T05:14:59+00:00",
-          "summary": "2026年的COP也被稱為是「未來的COP」，指的應對氣候變遷減緩、調適等的新技術。新技術包括AI，所以土耳其提出《安塔利亞AI 承諾》（Antalya AI Pledge）。"
+          "title": "光伏羊全球走紅、風電太陽能裝機超火電：中國綠色生活，助力全球應對氣候變化 - 巴士的報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bastillepost.com/nls/article/17168900/%25E5%2585%2589%25E4%25BC%258F%25E7%25BE%258A%25E5%2585%25A8%25E7%2590%2583%25E8%25B5%25B0%25E7%25B4%2585%25E3%2580%2581%25E9%25A2%25A8%25E9%259B%25BB%25E5%25A4%25AA%25E9%2599%25BD%25E8%2583%25BD%25E8%25A3%259D%25E6%25A9%259F%25E8%25B6%2585%25E7%2581%25AB%25E9%259B%25BB%25EF%25BC%259A%25E4%25B8%25AD%25E5%259C%258B%25E7%25B6%25A0%25E8%2589%25B2%25E7%2594%259F%25E6%25B4%25BB%25EF%25BC%258C%25E5%258A%25A9%25E5%258A%259B%25E5%2585%25A8%25E7%2590%2583%25E6%2587%2589%25E5%25B0%258D%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E5%258C%2596/%3Fms_cat%3D37&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1PcRRUo0g6ZtBI-2ycacNy",
+          "published": "2026-11-14T02:59:45+00:00",
+          "summary": "... 氣候變化. 2026年11月14日. 青海省塔拉 ... 這背後是明確的國家路線圖：2030年非化石能源消費比重達25%左右，2060年達80%以上——碳中和不只是承諾，是日程表。"
         },
         {
-          "title": "公股首家！兆豐金參與COP31會議登國際舞台分享台灣金融業<b>淨零</b>轉型實戰經驗 - 工商時報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctee.com.tw/news/20261113700896-430304&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0Ixkk824VNXAkBK94UCrnr",
-          "published": "2026-11-13T04:01:19+00:00",
-          "summary": "第三十一屆聯合國氣候變遷大會（COP31）11月9日在土耳其安塔利亞舉行，本屆大會的核心主軸定位為「從承諾走向落實」，致力於終結空泛的政治宣言。兆豐金控身&nbsp;..."
+          "title": "微軟助新創公司運用AI 加速碎石化碳吸附以對抗<b>氣候變遷</b> - PCHOME NEWS",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.m.pchome.com.tw/finance/sunmedia/20261113/index-79458336875385329003.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1O5EA-BM-JI1WhCMf_3IcL",
+          "published": "2026-11-14T02:25:49+00:00",
+          "summary": "圖／本報資料庫商傳媒｜葉安庭／綜合外電報導為對抗氣候變遷，新創公司Terradot Soil, Inc. 正與微軟（Microsoft）合作，運用人工智慧開發新的模型，&nbsp;..."
         },
         {
-          "title": "公股金控第一棒！ 兆豐金參與COP31會議、談臺灣金融業<b>淨零</b>轉型經驗 - 太報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.taisounds.com/news/content/79/309567&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0lD0-s9Y1ncCEKJOmYwYLm",
-          "published": "2026-11-13T03:56:38+00:00",
-          "summary": "第31屆聯合國氣候變遷大會（COP31）11月9日起在土耳其安塔利亞舉行，本屆大會的核心主軸定位為「從承諾走向落實」，致力於終結空泛的政治宣言。"
+          "title": "全臺首例「竹林經營碳匯」專案過審中華電信創企業<b>淨零</b>ｘ部落共榮典範 - 睿傳媒",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.right-media.news/archives/244739&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0Tl1lwsGhLi5yJejw-fkTS",
+          "published": "2026-11-14T00:08:40+00:00",
+          "summary": "圖:中華電信「泰舊換新・竹構未來」計畫，創下全臺首例以「竹林經營自願減量方法學」通過環境部註冊審查的里程碑。（"
         },
         {
-          "title": "公股第一家兆豐金控首次參與COP31會議 - 國泰證券",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cathaysec.com.tw/cathaysec/News/nContent.aspx%3FNewsDate%3D20261113%26CSeqNO%3DE9876286&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2xzmxBSiUrsWC_18LV-WCf",
-          "published": "2026-11-13T03:56:29+00:00",
-          "summary": "面對極端氣候、供應鏈重組及全球淨零政策加速推進，金融業的角色已不再只是提供資金，更要協助企業辨識轉型路徑、管理氣候風險，並將減碳與調適需求轉化為具可行&nbsp;..."
+          "title": "全臺首例「竹林經營碳匯」專案過審中華電信創企業<b>淨零</b>ｘ部落共榮典範 - 民眾新聞網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://mypeoplevol.com/2026/life/120333/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3-R8uMf1WjeCUeCxjunaMe",
+          "published": "2026-11-13T23:32:36+00:00",
+          "summary": "竹子生長極為快速，若放任生長會互相遮蔽陽光，減弱吸碳與固碳能力，定期疏伐能增進林相健康；而生質竹材的多元循環利用，也兼顧了生態永續與部落綠色生計，開創&nbsp;..."
         },
         {
-          "title": "衛報：中國拒辦2028聯合國氣候變化大會 - etnet 經濟通",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.etnet.com.hk/www/tc/news/news-article.php%3Fsection%3Dcategorized%26category%3Dlatest%26newsid%3D20261113761&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0T8Hsm1kHHBuL4ya604LXn",
-          "published": "2026-11-13T03:46:49+00:00",
-          "summary": "衛報報道稱，中國已排除在2028年承辦第33節聯合國氣候變化大會(COP33)的可能性。根據《聯合國氣候變化框架公約》的規則，該年度的峰會應在一個亞洲國家舉行&nbsp;..."
+          "title": "中國決定不爭取主辦2028年的聯合國氣候峰會 - RFI",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rfi.fr/tw/%25E5%259C%258B%25E9%259A%259B/20261113-%25E4%25B8%25AD%25E5%259C%258B%25E6%25B1%25BA%25E5%25AE%259A%25E4%25B8%258D%25E7%2588%25AD%25E5%258F%2596%25E4%25B8%25BB%25E8%25BE%25A62028%25E5%25B9%25B4%25E7%259A%2584%25E8%2581%25AF%25E5%2590%2588%25E5%259C%258B%25E6%25B0%25A3%25E5%2580%2599%25E5%25B3%25B0%25E6%259C%2583&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1dV8fy2Kc_j2Eg81lBbO4i",
+          "published": "2026-11-13T23:15:55+00:00",
+          "summary": "聯合國氣候變化大會（COP31）在土耳其安塔利亞舉行。 AP Photo/Khalil Hamra - Khalil Hamra. 作者&nbsp;..."
         },
         {
-          "title": "謝展寰於土耳其出席聯合國氣候變化大會與各方交流減碳策略意見- RTHK - 香港電台",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.rthk.hk/rthk/ch/component/k2/1877666-20261113.htm&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1BqgUuKhiLIl7OsIu6nqfO",
-          "published": "2026-11-13T03:39:58+00:00",
-          "summary": "他表示，工程師是推動減碳及綠色轉型的核心力量，在綠色科技、淨零發電、可持續航空燃料發展、落實「零廢堆填」等範疇發揮著關鍵作用。 謝展寰亦與宜可城的地方&nbsp;..."
+          "title": "響應<b>淨零</b>綠生活臺南推出「環保標章旅宿x環保集點」活動 - 蕃新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20261113895220&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3VRXmaeO2UnnO4lC1ZBiNG",
+          "published": "2026-11-13T20:59:35+00:00",
+          "summary": "記者莊漢昌／台南報導為鼓勵民眾落實淨零綠生活理念，將環保行動轉化為實質優惠，臺南市政府環保局結合環."
         }
       ]
     }
