@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-11-14T07:23:34.287897+00:00",
-    "date": "2026-11-14",
+    "generated_at": "2026-11-15T07:35:12.860857+00:00",
+    "date": "2026-11-15",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -10,84 +10,47 @@
     {
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
-      "items": [
-        {
-          "title": "【Gartner 2027 十大科技趨勢報告】AI 開發工具引爆軟體極度豐富，2030 年 80% 新軟體將轉為「用完即拋」",
-          "link": "https://techorange.com/2026/11/14/gartner-trends-for-2027/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-13T22:29:00+00:00",
-          "summary": "顧問機構 Gartner 發布《2027 年十大戰略科技趨勢》報告，內容著重在協助企業為自主 AI 與機器人劃定控制界限，建立兼具效率與技術主權的營運架構。 過去企業 IT 受限於開發成本高昂的「軟體稀缺」思維；如今在生成式 AI 與氛圍編碼（vibe coding）推動下，企業正式迎來「軟體極度豐富」時代。與此同時，面對昂貴且僵化的「SaaS 訂閱疲勞」，Gartner 預測到 2030 年，領"
-        },
-        {
-          "title": "鴻海怎麼讓人形機器人進工廠？郭柳宗：先拆任務，再決定哪一段需要 AI",
-          "link": "https://techorange.com/2026/11/13/foxconn-humanoid-robotics-leo-kuo/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-13T07:34:37+00:00",
-          "summary": "人形機器人進工廠，不一定得先學會雙足走路，也不一定每項工作都需要靈巧手。鴻海科技集團機器人事業處總經理郭柳宗在近日舉辦的 333 Robots Community Meetup 分享，目前團隊把不少心力放在 SMT 產線、倉儲等既有製造場景，希望先把特定任務做成熟，再往更多相似場域延伸。對工廠來說，機器人不只是要能完成動作，速度、定位精度、力控與穩定性，也都會影響它能不能真正進入產線。 從陪伴機器"
-        },
-        {
-          "title": "摩根大通：美國人形機器人 2030 年產量上看 40 萬台，近期最大機會在零組件商",
-          "link": "https://techorange.com/2026/11/13/jp-morgan-us-humanoid-robot-production-2030/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-13T06:41:26+00:00",
-          "summary": "摩根大通（J.P. Morgan）美國時間 11/12 發布研究，估計美國人形機器人產量到 2030 年可達 30 萬至 40 萬台、2035 年約 150 萬台，產業正從展示轉向商業部署。不過，這份研究同樣強調供應端的限制，根據《Reuters》報導，摩根大通表示：「近期進展仍受供應限制，有幾個關鍵瓶頸：手部、致動器、大腦，以及產能。」 這份研究同時指出，近期最大的機會在零組件供應商。當勞動力短"
-        },
-        {
-          "title": "黃仁勳辭任後的 NVIDIA：供應鏈合作能否延續？華府對中晶片管制恐再收緊",
-          "link": "https://techorange.com/2026/11/13/nvidia-after-jensen-huang-governance-export-controls/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-13T05:09:06+00:00",
-          "summary": "NVIDIA 董事會美國時間 11 月 12 日宣布，黃仁勳辭去總裁、執行長與董事職務，即刻生效，由財務長柯蕾絲（Colette Kress）暫代執行長。此前，《紐約時報》等媒體報導黃仁勳與一名被美方懷疑替中國從事間諜活動的女商人有婚外情；董事會先前曾表示「沒有理由相信」國安或公司機密外洩，調查尚無公開結論。據《Reuters Breakingviews》估算，從 10 月 29 日首波報導到辭任"
-        },
-        {
-          "title": "AI Agent 不必被單一模型綁死！Google 推 Gemini 4 Hydrogen，動態分工節省 24% 配額",
-          "link": "https://techorange.com/2026/11/13/google-gemini-4-hydrogen-antigravity-orchestrator/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-13T04:29:11+00:00",
-          "summary": "Google 在美國時間 11/12 推出新一代 AI 模型 Gemini 4 Hydrogen，但這次發表亮點不只有模型效能提升。Google 同步在 AI 開發工具 Antigravity 推出 Orchestrator，讓 AI Agent 在執行任務時，能依照工作複雜度動態切換不同模型，不必從頭到尾使用同一款 AI。Google 宣稱，在程式開發基準測試中，這套機制能維持接近高階模型的任務"
-        },
-        {
-          "title": "亞馬遜擁超過 100 萬名機器人員工，AI 調度推升倉儲效率，重複性工傷卻成隱憂",
-          "link": "https://techorange.com/2026/11/13/amazon-ai-robot-and-future-human-work/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-13T02:11:51+00:00",
-          "summary": "物流龍頭亞馬遜（Amazon）已擁有超過百萬台機器人於倉庫中全天候運作，但 AI 所驅動的機器人與自動化倉儲，卻可能是人類員工出現身體受傷、精神消耗與失去工作職位的元兇。"
-        }
-      ]
+      "items": []
     },
     {
       "feed_name": "遠見雜誌 - 前進的動力",
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "看電視常打瞌睡是大腦生病了？最新研究揭失智前兆：小心「這型態」最危險",
-          "link": "https://www.gvm.com.tw/article/134496",
-          "published": "2026-11-14T07:00:00",
-          "summary": "許多民眾常認為「年紀大了白天愛睏、打瞌睡很正常」或習慣靠午睡來補眠。然而，一篇發表於國際期刊《老年學期刊：A輯》（The Journals of Gerontology：Series A）的最新長達 10 年的追蹤研究指出，高齡者日間小睡的「頻率」與「型態」可能是大腦健康的重要指標。研究發現，若白天頻繁午睡，或常在不知不覺中打瞌睡（非自願性午睡），未來罹患失智症的風險比一般人高出近四至五成！上年紀"
+          "title": "氣炸鍋少油但有致癌風險？拆解增大腸癌、肺癌危害迷思，專家授4守則安心用",
+          "link": "https://www.gvm.com.tw/article/134505",
+          "published": "2026-11-15T07:00:00",
+          "summary": "氣炸鍋與微波烤盤主打少油、快速，是現代許多家庭與租屋族的料理好幫手。然而，坊間頻傳「常吃氣炸料理容易得大腸癌」、「氣炸鍋排氣如同吸入致癌油煙增肺癌風險」等疑慮。毒理學與胸腔科內科醫師指出，不當高溫使用與通風不良確實會產生異環胺、丙烯醯胺、多環芳香族碳氫化合物（PAHs）及 PM2.5 懸浮微粒等危害。但日常偶爾烹調無須恐慌，只要掌握降溫、抽油煙機排氣與良好清潔 4 招，就能阻斷「食入」與「吸入」的"
         },
         {
-          "title": "差點去台積電上班！38歲農家子弟靠30萬創業，帶保健品牌騰勢上櫃「打造亞洲P&G;」",
-          "link": "https://www.gvm.com.tw/article/134524",
-          "published": "2026-11-14T00:45:00",
-          "summary": "走進藥局，只見架上擺滿了苦瓜胜肽、高濃度深海魚油、益生菌、速效藍莓精華...等產品，另一旁的櫃位，還陳列了各式的寵物保健品。而它們的共同點，是他們都是由一間台灣在地保健公司「騰勢」所生產。攤開財報，騰勢今年第3季單季營收達2.14億元，年增5.5％，營業利益達0.29億元，稅後歸屬於母公司淨利新台幣0.23億元， EPS為1.11元。而該公司也預計在今年12月1日正式掛牌上櫃。很難想像，靠著達摩本"
+          "title": "九合一選戰》「洋流祭」登場！政策島平台實體化，沈伯洋再翻新造勢模式",
+          "link": "https://www.gvm.com.tw/article/134527",
+          "published": "2026-11-14T19:05:00",
+          "summary": "選戰進入最後衝刺，民進黨台北市長候選人沈伯洋競選團隊今（14）日於二二八和平紀念公園盛大舉辦「洋流祭」。這場活動打破傳統造勢旗海與單向演說模式，將線上「HEART，政策島」平台轉化為實體闖關遊戲，並結合獨立音樂祭。活動吸引大批支持者湧入二二八公園露天音樂台與國立台灣博物館前廣場，掀起兼具文化共創與政策思辨的選戰浪潮。雖然從約莫2點多開始下起雨來，忽大忽小的雨勢，仍澆不熄支持者的熱情，無論是體驗活動"
         },
         {
-          "title": "AI時代下點子容易複製怎辦？YC合夥人：理解問題比寫程式更重要",
-          "link": "https://www.gvm.com.tw/article/134523",
-          "published": "2026-11-14T00:35:00",
-          "summary": "AI讓寫程式的門檻大幅降低，連不懂程式的人都能開發軟體，過去靠技術建立優勢的新創，還能憑什麼建立護城河？Y Combinator（YC）客座合夥人傑布斯（Boris Jabes）接受《遠見》專訪指出，即使給兩個人同樣的AI工具與無限Token，做出來的產品仍有高下之分。他認為，關鍵在於創辦人是否真正理解客戶的問題，以及能否把功能整合成客戶願意付費的產品。「如果隨便找兩個人，給他們24小時和無限量的"
+          "title": "九合一選戰》「安心大遊行」逾八萬人上街！蔣萬安：希望大家站出來，別讓我孤軍奮戰",
+          "link": "https://www.gvm.com.tw/article/134526",
+          "published": "2026-11-14T18:47:00",
+          "summary": "台北市長蔣萬安日前請假全力衝選情，首個週六就在台北舉辦「安心大遊行」，遊行當天天公雖不作美，但仍澆不息支持者的熱情。兩條遊行路線的沿途，均有大批支持者手比五號、綁著「台北安可飄帶」站出來，高呼「凍蒜」「會做事的人，市民不會讓他孤單」。活動在兩支隊伍於台北市政府前會師達到高潮，最終共超過八萬人挺身前行，大雨淋濕的台北，脈搏跳著選戰的激情與悸動。這場安心大遊行共分南、北二路，北路從蔣萬安競總出發，行經"
         },
         {
-          "title": "AI聊天機器人再進化！從客服工具變身品牌關係伙伴",
-          "link": "https://www.gvm.com.tw/article/134522",
-          "published": "2026-11-13T18:15:00",
-          "summary": "過去，企業靠CRM系統蒐集顧客資料，建立品牌忠誠度；如今，AI聊天機器人透過同理心與個人化互動，讓顧客產生情感連結。當AI從客服工具變成信任伙伴，企業如何掌握親密感，又避免信任反噬？研究發現，使用陪伴型聊天機器人的民眾，對AI的親密感甚至可能超越與好友、同事的連結。另一項針對1479人的研究也顯示，具同理心、能展現理解力的AI，比單純執行任務的助理，更能降低使用者的孤獨感。這代表AI不只是回答問題"
+          "title": "台男為何愛娶越南老婆？「花70萬」找漂亮顧家的？12.8萬越配只排第2，6427人揭婚姻變局",
+          "link": "https://www.gvm.com.tw/article/132924",
+          "published": "2026-11-14T16:00:00",
+          "summary": "「越南老婆」「台越夫妻」近年頻頻出現在YouTube、Facebook、TikTok等社群平台，不少台灣人甚至產生一種印象：台灣男性迎娶的外籍配偶中，是不是越南人最多？答案其實不是。根據內政部移民署最新統計，截至2026年7月，台灣共有約62.1萬名外籍及大陸、港澳配偶，其中越南籍配偶12萬7958人，占20.58％，雖然人數相當龐大，仍僅排名第2；第一名依然是大陸地區配偶36萬9616人，占59"
         },
         {
-          "title": "微軟大當機！Outlook、微軟365等服務中斷，亞太企業及政府機關受影響",
-          "link": "https://www.gvm.com.tw/article/134497",
-          "published": "2026-11-13T18:00:00",
-          "summary": "微軟（Microsoft）旗下Outlook、Teams及Copilot等服務發生當機，影響美國大量用戶後，今天亞太地區上班時間仍未恢復正常。微軟表示，雖已調整受影響伺服器，但服務僅部分恢復，狀況尚未完全排除。路透社報導，這次故障波及澳洲、日本及美國政府機關，以及OpenAI、Anthropic等企業，這也是微軟365服務今年第2度中斷，引發企業對其服務可靠性的疑慮。服務中斷追蹤網站Downdet"
+          "title": "食物放進去就無敵？冰箱不是防腐殺菌箱，醫揭長者「三大致命飲食習慣」",
+          "link": "https://www.gvm.com.tw/article/134504",
+          "published": "2026-11-14T11:00:00",
+          "summary": "食品業者發布樂齡族餐食營養調查問卷，發現許多長者保存食物觀念不足，營養師提醒掌握冰箱「熟上生下、七分滿、先進先出、定期清查」原則，避免食物交叉污染及變質。這份2026樂齡族群餐食營養調查問卷，調查對象涵蓋全台19縣市529名第一線照顧者，提供其所觸及5000名樂齡長者飲食習慣，發現93%認為長者正確保存食物的觀念仍有不足、91.9%認為日常營養知識仍有不足、92.2%指出牙口與吞嚥問題影響長者飲食"
         },
         {
-          "title": "AI提前「造王」！創投資金創新高，新創卻更難募資？",
-          "link": "https://www.gvm.com.tw/article/134521",
-          "published": "2026-11-13T17:54:00",
-          "summary": "編按：全球創投資金創新高，AI新創卻出現冰火兩極！有團隊產品尚未成熟，就能募得數億美元；卻也有更多早期新創苦等資金。創投市場正興起「造王」現象，投資人為何愈來愈早押寶？巨額融資究竟是在創造下一個AI霸主，還是在提前吹大泡沫？過去兩年，台灣資本市場聊AI，話題總繞著相關供應鏈轉。最近台美科技股大幅震盪，投資人開始重新計算：砸進資料中心和算力的錢，到底什麼時候能變成真的營收與獲利？創投市場也有一筆類似"
+          "title": "運動不是愈多愈好！過量擾亂大腦化學平衡，研究：禍首就是多巴胺",
+          "link": "https://www.gvm.com.tw/article/134498",
+          "published": "2026-11-14T07:30:00",
+          "summary": "近年來，馬拉松、鐵人三項、越野跑等耐力運動蔚為風潮，愈來愈多人熱衷挑戰體能極限，甚至投入長時間、高強度的訓練。然而，運動真的愈多愈好嗎？巴西聖保羅大學最新研究發現，過度運動不只會造成肌肉疲勞，還可能改變大腦的化學平衡，使原本應在休息時降低的多巴胺濃度持續偏高。研究人員認為，這項發現可能有助於解釋部分運動員為何在過度訓練後，出現失眠、焦慮與慢性疲勞等問題。巴西聖保羅大學研究團隊利用老鼠進行實驗，模擬"
         }
       ]
     },
@@ -96,40 +59,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "光伏羊全球走紅、風電太陽能裝機超火電：中國綠色生活，助力全球應對氣候變化 - 巴士的報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.bastillepost.com/nls/article/17168900/%25E5%2585%2589%25E4%25BC%258F%25E7%25BE%258A%25E5%2585%25A8%25E7%2590%2583%25E8%25B5%25B0%25E7%25B4%2585%25E3%2580%2581%25E9%25A2%25A8%25E9%259B%25BB%25E5%25A4%25AA%25E9%2599%25BD%25E8%2583%25BD%25E8%25A3%259D%25E6%25A9%259F%25E8%25B6%2585%25E7%2581%25AB%25E9%259B%25BB%25EF%25BC%259A%25E4%25B8%25AD%25E5%259C%258B%25E7%25B6%25A0%25E8%2589%25B2%25E7%2594%259F%25E6%25B4%25BB%25EF%25BC%258C%25E5%258A%25A9%25E5%258A%259B%25E5%2585%25A8%25E7%2590%2583%25E6%2587%2589%25E5%25B0%258D%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E5%258C%2596/%3Fms_cat%3D37&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1PcRRUo0g6ZtBI-2ycacNy",
-          "published": "2026-11-14T02:59:45+00:00",
-          "summary": "... 氣候變化. 2026年11月14日. 青海省塔拉 ... 這背後是明確的國家路線圖：2030年非化石能源消費比重達25%左右，2060年達80%以上——碳中和不只是承諾，是日程表。"
+          "title": "COP31的制度困境與臺灣的永續戰略",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.anntw.com/articles/20261115-8poB&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3mVS_BbNEhBcPAOKLU4RyH",
+          "published": "2026-11-15T05:07:58+00:00",
+          "summary": "COP31所承擔的使命，是延續《巴黎氣候協定》的目標，致力將全球升溫控制在工業化為準的1.5℃之內，同時推動各國加速減碳、發展再生能源、保護森林及協助脆弱國家&nbsp;..."
         },
         {
-          "title": "微軟助新創公司運用AI 加速碎石化碳吸附以對抗<b>氣候變遷</b> - PCHOME NEWS",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.m.pchome.com.tw/finance/sunmedia/20261113/index-79458336875385329003.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1O5EA-BM-JI1WhCMf_3IcL",
-          "published": "2026-11-14T02:25:49+00:00",
-          "summary": "圖／本報資料庫商傳媒｜葉安庭／綜合外電報導為對抗氣候變遷，新創公司Terradot Soil, Inc. 正與微軟（Microsoft）合作，運用人工智慧開發新的模型，&nbsp;..."
+          "title": "高雄前進土耳其COP31聯合國氣候峰會分享城市<b>淨零</b>治理經驗 - 【飛揚新聞】",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://fion.news/%3Fpn%3Dvw%26id%3Dqn63qjyf3x9w&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2ajKnlT-DlkVCrz-AKkdDD",
+          "published": "2026-11-15T05:06:12+00:00",
+          "summary": "高雄前進土耳其COP31聯合國氣候峰會分享城市淨零治理經驗. 李舜田、李嘉興／高雄. 來源：飛揚新聞| 日期：2026/11/15 | 瀏覽次數：202."
         },
         {
-          "title": "全臺首例「竹林經營碳匯」專案過審中華電信創企業<b>淨零</b>ｘ部落共榮典範 - 睿傳媒",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.right-media.news/archives/244739&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0Tl1lwsGhLi5yJejw-fkTS",
-          "published": "2026-11-14T00:08:40+00:00",
-          "summary": "圖:中華電信「泰舊換新・竹構未來」計畫，創下全臺首例以「竹林經營自願減量方法學」通過環境部註冊審查的里程碑。（"
+          "title": "碳費<b>淨零</b>全入題！全國環境知識競賽盼培養綠色種子冠軍出爐！ - Yahoo股市",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.stock.yahoo.com/news/%25E7%25A2%25B3%25E8%25B2%25BB-%25E6%25B7%25A8%25E9%259B%25B6%25E5%2585%25A8%25E5%2585%25A5%25E9%25A1%258C-%25E5%2585%25A8%25E5%259C%258B%25E7%2592%25B0%25E5%25A2%2583%25E7%259F%25A5%25E8%25AD%2598%25E7%25AB%25B6%25E8%25B3%25BD%25E7%259B%25BC%25E5%259F%25B9%25E9%25A4%258A%25E7%25B6%25A0%25E8%2589%25B2%25E7%25A8%25AE%25E5%25AD%2590-%25E5%2586%25A0%25E8%25BB%258D%25E5%2587%25BA%25E7%2588%2590-223624099.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1dzApotJNbZw2MCNgj6ld-",
+          "published": "2026-11-15T04:54:30+00:00",
+          "summary": "... 淨零排放、氣候變遷、循環經濟、綠色能源、環境倫理、化學品環境風險外，更緊扣最新政策時事，納入碳費徵收以及今年立法院三讀通過《資源循環推動法》及&nbsp;..."
         },
         {
-          "title": "全臺首例「竹林經營碳匯」專案過審中華電信創企業<b>淨零</b>ｘ部落共榮典範 - 民眾新聞網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://mypeoplevol.com/2026/life/120333/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3-R8uMf1WjeCUeCxjunaMe",
-          "published": "2026-11-13T23:32:36+00:00",
-          "summary": "竹子生長極為快速，若放任生長會互相遮蔽陽光，減弱吸碳與固碳能力，定期疏伐能增進林相健康；而生質竹材的多元循環利用，也兼顧了生態永續與部落綠色生計，開創&nbsp;..."
+          "title": "謝展寰出席聯合國氣候大會交流減碳等策略- 香港文匯報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.wenweipo.com/s/202611/14/AP6af77902e4b028ec0193d585.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2GQc77cCuREsPKbv8FPIii",
+          "published": "2026-11-15T04:46:46+00:00",
+          "summary": "安塔利亞時間11日，謝展寰與韓國仁川廣域市氣候與能源局氣候行動實踐課課長文真會面，就能源轉型、氫能發展、綠色運輸等議題交換意見。"
         },
         {
-          "title": "中國決定不爭取主辦2028年的聯合國氣候峰會 - RFI",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.rfi.fr/tw/%25E5%259C%258B%25E9%259A%259B/20261113-%25E4%25B8%25AD%25E5%259C%258B%25E6%25B1%25BA%25E5%25AE%259A%25E4%25B8%258D%25E7%2588%25AD%25E5%258F%2596%25E4%25B8%25BB%25E8%25BE%25A62028%25E5%25B9%25B4%25E7%259A%2584%25E8%2581%25AF%25E5%2590%2588%25E5%259C%258B%25E6%25B0%25A3%25E5%2580%2599%25E5%25B3%25B0%25E6%259C%2583&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1dV8fy2Kc_j2Eg81lBbO4i",
-          "published": "2026-11-13T23:15:55+00:00",
-          "summary": "聯合國氣候變化大會（COP31）在土耳其安塔利亞舉行。 AP Photo/Khalil Hamra - Khalil Hamra. 作者&nbsp;..."
+          "title": "聯合國氣候機構促COP31加快談判聚焦核心難題- 新城電台",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.metroradio.com.hk/news/details.aspx%3FNewsId%3D20261115113634%26page%3D0&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3F7iQTdFFZQoGln2NrjysR",
+          "published": "2026-11-15T03:40:03+00:00",
+          "summary": "為期兩周的《聯合國氣候變化框架公約》第三十一次締約方大會(COP31)在土耳其安塔利亞舉行。 《公約》秘書處執行秘書斯蒂爾表示，本次大會已過半程，&nbsp;..."
         },
         {
-          "title": "響應<b>淨零</b>綠生活臺南推出「環保標章旅宿x環保集點」活動 - 蕃新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://n.yam.com/Article/20261113895220&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3VRXmaeO2UnnO4lC1ZBiNG",
-          "published": "2026-11-13T20:59:35+00:00",
-          "summary": "記者莊漢昌／台南報導為鼓勵民眾落實淨零綠生活理念，將環保行動轉化為實質優惠，臺南市政府環保局結合環."
+          "title": "【國際能源署署長：中國清潔能源發展助力全球能源轉型】11月1 - 群益期貨",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.capitalfutures.com.tw/zh-tw/Financial/BreakingNewsArticle%3FContentId%3DC26111500093&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0trbjaupp5jcclQ17TlzPv",
+          "published": "2026-11-15T03:31:11+00:00",
+          "summary": "【國際能源署署長：中國清潔能源發展助力全球能源轉型】11月15日訊，《聯合國氣候變化框架公約》第三十一次締約方大會期間，能源轉型成爲各國代表關注的一大&nbsp;..."
         }
       ]
     }
