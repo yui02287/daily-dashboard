@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-11-16T07:40:58.059924+00:00",
-    "date": "2026-11-16",
+    "generated_at": "2026-11-17T08:50:22.511775+00:00",
+    "date": "2026-11-17",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "聯準會盤點 AI 資料中心融資：發債 3 年增至 5 倍，風險落在誰身上？",
-          "link": "https://techorange.com/2026/11/16/fed-financial-stability-report-ai-data-center-debt/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-16T07:36:35+00:00",
-          "summary": "美國聯準會（Fed）美國時間 11/13 發布半年一度的《金融穩定報告》（Financial Stability Report）。紐約聯準銀行 9 至 10 月向券商、銀行、投資基金等 23 位市場人士徵詢風險看法，AI 是被點名最多的風險：依報告圖表，近 9 成受訪者均提到 AI，春季那次調查（20 位受訪者）約為五成。報告也註明，這部分是受訪者的看法，不代表聯準會立場。 受訪者的擔憂包括股票估"
+          "title": "機器人規格尚未定型，台廠如何搶得話語權？鴻海、華碩、Google 談場域新機會",
+          "link": "https://techorange.com/2026/11/17/hhtd-2026-taiwan-robot-panel/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-17T08:13:05+00:00",
+          "summary": "兩台不同品牌的機器人在一家醫療業者的走道上卡住，因為彼此不會溝通。這是 Google Cloud AI 解決方案資深協理李浩賓於 10/31，在「台灣在 AI 時代的新經濟定位」座談中分享的海外案例。這場座談屬於 2026 鴻海科技日週六場的「台灣 AI 機器人產業開發大會」（由鴻海科技集團與《科技報橘》合辦），由科技報橘社長戴季全主持，與談的還有鴻海科技集團機器人事業處總經理郭柳宗，以及華碩電腦"
         },
         {
-          "title": "讓 AI Agent 代刷信用卡！OpenAI 推 ChatGPT Wallet，與先前 Instant Checkout 有何不同？",
-          "link": "https://techorange.com/2026/11/16/openai-chatgpt-wallet-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-16T06:32:38+00:00",
-          "summary": "OpenAI 再度推進 AI 購物布局。繼今年 3 月縮減 ChatGPT 內建結帳功能 Instant Checkout 後，OpenAI 於近日推出 ChatGPT Wallet，讓 AI Agent 能使用信用卡，代替使用者在商家網站完成購物付款。這次 OpenAI 不再要求商家整合專用的對話內結帳功能，而是讓 Agent 使用網站既有的支付流程，試圖降低 AI 購物的導入門檻。 根據 Op"
+          "title": "阿里巴巴稱 Qwen4-Max 任務成本降約六成，分析師：企業還要算重試與人工驗收",
+          "link": "https://techorange.com/2026/11/17/alibaba-qwen4-max-cost-per-task-enterprise/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-17T08:00:09+00:00",
+          "summary": "阿里巴巴 11/16 發表新旗艦模型 Qwen4-Max，稱它是千問（Qwen）家族迄今能力最強的模型。阿里巴巴依自家測試指出，和前代 Qwen3.8-Max 相比，Qwen4-Max 每項任務的平均成本降低約六成；官方也拿它和 Anthropic、OpenAI 的旗艦模型比較，16 項測試中有 6 項領先 Claude Opus 5.5。 阿里巴巴主打的，不只是每百萬 token 的單價，而是完"
         },
         {
-          "title": "Apple 智慧眼鏡傳 2027 年 WWDC 亮相：不必另寫 App，靠 Siri 串起 iPhone 生態系挑戰 Meta",
-          "link": "https://techorange.com/2026/11/16/apple-smart-glasses-flagship-product-2027-wwdc-unveil/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-16T04:42:43+00:00",
-          "summary": "Apple 傳聞已久的智慧眼鏡，可能在 2027 年亮相。《Bloomberg》記者 Mark Gurman 近日在《Power On》電子報中指出，Apple 計畫在 2027 年 6 月的全球開發者大會（WWDC）上發表首款智慧眼鏡，並在同年底前開始出貨，希望這款眼鏡成為 Apple「2027 年的旗艦新品」。 《Forbes》指出，這是相當大膽的說法，因為 Apple 在 2027 年還將推"
+          "title": "美國堵中國企業遠端租 GPU：AI 晶片出口新加坡、馬來西亞等 5 國改採許可制",
+          "link": "https://techorange.com/2026/11/17/us-curbs-remote-access-ai-chips/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-17T04:55:42+00:00",
+          "summary": "美國商務部產業與安全局（BIS）美國時間 11/16 公布一項暫行最終規則（interim final rule），先進 AI 晶片出口到新加坡、馬來西亞、泰國、印尼與巴西，改為需要許可證；服務中國企業、算力規模龐大的資料中心，也被納入許可管理。商務部表示，規則是要確保美國敏感技術的既有限制，「不會透過涉及第三國資料中心的遠端運算安排被規避」。 據《Bloomberg》報導，新規在 NVIDIA "
         },
         {
-          "title": "美日英印等 9 國簽《舊金山宣言》，矽和平從結盟走向列清單、防 AI 技術外流",
-          "link": "https://techorange.com/2026/11/16/us-allies-san-francisco-declaration-pax-silica-ai-supply-chain/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-16T04:23:21+00:00",
-          "summary": "美國與日本、澳洲、以色列、英國、韓國、印度、卡達、阿聯等 8 個夥伴政府，美國時間 11 月 15 日（台灣時間 11 月 16 日）簽署《舊金山永續繁榮安全基礎宣言》（San Francisco Declaration on the Secure Foundations of Enduring Prosperity，下稱舊金山宣言）。據《金融時報》報導，簽署方承諾共同辨識並保護被視為易受中國威脅"
+          "title": "Google 首度發現 AI 自動化攻擊：無人介入就能從修補程式反推漏洞、發動攻擊",
+          "link": "https://techorange.com/2026/11/17/threat-intelligence-agentic-threat-activity-crosses-significant/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-17T04:17:48+00:00",
+          "summary": "Google 旗下威脅情報小組（Google Threat Intelligence Group，GTIG）近日發布最新一期 AI 威脅追蹤報告（GTIG AI Threat Tracker），指出該小組首度觀察到，攻擊者在完全無人介入的情況下，利用 AI 框架從軟體安全修補程式反推出漏洞攻擊程式。GTIG 表示，越來越多攻擊者從單純對 AI 下指令，轉向部署自主多代理框架與自動化漏洞利用流程，A"
         },
         {
-          "title": "【AI 人人都有，情境才稀缺】專屬資料、機構知識、治理與夥伴關係，決定企業長期 AI 優勢",
-          "link": "https://techorange.com/2026/11/16/context-is-the-competitive-advantage/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-16T02:50:18+00:00",
-          "summary": "當每家企業都能透過雲端供應商、軟體平台與企業生態系，取得越來越相近的 AI 能力，真正拉開差距的，將是 AI 是否理解企業自身的狀況。 過去外界談論大型語言模型（LLM）時，焦點多半放在能力，包括哪些模型最先進、哪些實證最重要，以及哪些公司走得太快。這些問題仍然重要，但企業內部正在發生更根本的轉變。AI 本身越來越普及，具備情境的 AI 卻仍然稀缺。 AI 日益普及，帶情境的 AI 才稀缺 對多數"
+          "title": "【AI 擅長新增，還不擅長刪除】工程師提醒，清理 AI 生成的程式碼仍需人類判斷",
+          "link": "https://techorange.com/2026/11/17/coding-ai-agent-terrible-at-deleting/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-17T01:40:57+00:00",
+          "summary": "雖然 AI 擅長撰寫程式碼，卻不擅長刪除程式碼。當 AI 代理不斷處理軟體開發過程中的改變，AI 生成的程式碼也開始變得令工程師難以掌握，導致人類面對多種處理邏輯花費更多心力。"
         },
         {
-          "title": "【比特幣成新型抵押品】從證券化交易到銀行推出服務，比特幣借貸越來越像傳統金融",
-          "link": "https://techorange.com/2026/11/16/bitcoin-backed-loan-btc-explained/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-16T02:16:57+00:00",
-          "summary": "比特幣抵押貸款（Bitcoin-Backed Loan）」在經歷低谷之後，市場終於邁向成熟，它允許持有者將加密貨幣作為抵押品，以此借入美元或其他穩定幣，目前市場總額已突破 550 億美元，並獲得傳統金融機構注意。"
+          "title": "【別期待 AI 上線就完美】把 AI 代理當新人，企業須指定負責人、培養主管的管理能力",
+          "link": "https://techorange.com/2026/11/17/ai-agent-like-a-new-hire/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-17T01:40:47+00:00",
+          "summary": "多數企業導入 AI 時，仍沿用採購軟體的邏輯，完成安裝與設定後就預期系統從上線第一天起能依指令穩定運作；當輸出結果與預期有落差，或在特定流程中出現斷點，團隊的挫折感便迅速累積，對新系統的投入意願也隨之降低。 結果導入專案還沒進入實際應用階段，採用率就已經開始下滑。 生命科學品質與法規合規解決方案商 Dot Compliance 的創辦人暨執行長 Doron Sitbon 認為，這種挫敗感多半來自期"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "九合一選戰》沈伯洋台北大洋流最終場！42艘船、10萬人水陸會師擠爆關渡",
-          "link": "https://www.gvm.com.tw/article/134529",
-          "published": "2026-11-15T23:03:00",
-          "summary": "九合一選舉倒數13日，民進黨台北市長參選人沈伯洋最後一場市政開講「台北大洋流：士林北投場」盛況空前。高雄市長陳其邁、總統賴清德更為其站台，現場參與人數破10萬，淡水河上還有42艘民眾自發性的「洋流號」船艇，形成「水陸會師」的熱鬧場面。沈伯洋選前最後的車隊掃街「台北大洋流」今（15）日下午5時於士林、北投起步。沈伯洋由陳其邁陪同，與士林、北投選區議員候選人陳慈慧、林世宗、鍾佩玲、林延鳳及陳賢蔚掃街拜"
+          "title": "臺北大學商學院碩士在職專班 引領各界菁英跟上變革腳步",
+          "link": "https://www.gvm.com.tw/article/134464",
+          "published": "2026-11-17T00:00:00",
+          "summary": "產業演進的巨浪，從不等人。當生成式AI全面滲透、商業模式與法規日趨複雜，昨日引以為傲的成功經驗，明日可能瞬間驟變。矽谷知名的傳奇天使投資人、連續創業家納瓦爾（Naval Ravikant）認為「成為持續學習的人，是累積財富、掌握自由與獲得獨特知識最重要的底層技能。」重新踏入校園進修，是許多企業家與高階經理人跳脫思維盲區、重整戰略底氣的最佳路徑。上課地點（民生校區）坐落於素有「臺北華爾街」之稱的市中"
         },
         {
-          "title": "多數人第一步就錯了！白飯怎麼煮才香Q？《黑白大廚2》冠軍教美味關鍵",
-          "link": "https://www.gvm.com.tw/article/134430",
-          "published": "2026-11-15T13:39:00",
-          "summary": "一個人做飯吃，但小菜沒什麼選擇的時候、感覺有點憂鬱寂寞的時候、在外面遇到不好的事情的時候，用心煮一碗飯吧。為辛苦了一天的自己煮一碗美味的白飯，意外地能帶來很大的安慰。不光是為了一頓飯而洗米、泡米、煮飯的過程很美好，煮出來的白飯很美味時，也能開心地感受那股香氣。（本文節錄自《寂寞的時候，就用心煮一碗白飯吧》一書，作者：崔康祿／皇冠出版。）白飯是韓國人的主食，那些以美味而聞名的韓式餐廳，重點都不是擺在"
+          "title": "不是不努力、不是頭腦差：為何許多人到中年才驚覺自己有「成人ADHD」？",
+          "link": "https://www.gvm.com.tw/article/134567",
+          "published": "2026-11-16T19:11:00",
+          "summary": "台灣成人ADHD盛行率長期被低估（推估約4.4%～10%），而ADHD患者實際就醫率卻不到10%。這也意味著，許多直到成年仍未察覺自己有ADHD特質的人，即使擁有亮眼學歷與出色能力，也可能因為長期用不適合自己的方式工作與生活，讓才華難以真正發揮，在職場、人際與日常生活中反覆受挫。（本文節錄自《搭上從專注力到執行力的子彈列車》一書，作者：劉鴻徽／商周出版。）診間裡的嘆息：那道看不見的牆「醫師，我知道"
         },
         {
-          "title": "嘴饞想暴食快這樣做！研究實證：輕敲額頭30秒「食慾直接砍半」",
-          "link": "https://www.gvm.com.tw/article/134267",
-          "published": "2026-11-15T13:34:00",
-          "summary": "當人們感到飢餓時，血清素會減少，這就是讓我們感到煩躁的原因。曾經有項研究顯示，只要咚咚咚地輕敲額頭，就可以消除高漲的食慾，這是一種被稱為「EFT（情緒釋放技術）」的減壓方法。（本文節錄自《科學實證最強習慣大百科》一書，作者：堀田秀吾／三采出版。）曾經有項研究顯示，只要咚咚咚地輕敲額頭，就可以消除高漲的食慾，當作防止暴飲暴食的技巧很值得參考。紐約市聖路加醫院的威爾（Richard Weil）等人進行"
+          "title": "黃仁勳想重返輝達？馬斯克力挺、貝森特反對，三大變數一次看",
+          "link": "https://www.gvm.com.tw/article/134566",
+          "published": "2026-11-16T18:47:00",
+          "summary": "黃仁勳傳出有意重返輝達執行長職位，並獲得馬斯克、矽谷科技巨頭及投資人聲援，更有逾16萬人連署支持，但美國財政部長貝森特公開反對，華府對中鷹派也質疑其晶片出口立場。加上國會追查與中國情報人員往來及國安疑雲，黃仁勳能否重掌輝達，仍充滿變數。黃仁勳近期深陷婚外情風暴，12日辭去一手創立的輝達（NVIDIA）執行長職務。自10月下旬醜聞曝光以來，輝達市值已蒸發逾1.2兆美元。近日，要求他重返執行長職位的聲"
         },
         {
-          "title": "安海瑟薇讀到天黑：神作諷6寶媽網紅「歲月靜好、完美人設」真相",
-          "link": "https://www.gvm.com.tw/article/134404",
-          "published": "2026-11-15T13:32:00",
-          "summary": "娜塔莉是社群媒體上最受歡迎的生活風格網紅，她擁有人人稱羨的人生：來自政治世家的英俊丈夫、六個可愛的孩子、夢幻農場與完美廚房。她歌頌幸福的傳統生活，成為數百萬人眼中的「理想女性」。但她比任何人都清楚——這份完美背後，藏著多少偽裝。（本文節錄自《昨年》一書，作者：卡蘿．克萊兒．柏克／皇冠出版。）我叫做娜塔莉．海勒．米爾斯（Natalie Heller Mills），我的生活完美無比。小男孩的笑聲從臥房"
+          "title": "聲援黃仁勳！台灣科技界集資，今晚點燈台北101秀暖心標語",
+          "link": "https://www.gvm.com.tw/article/134565",
+          "published": "2026-11-16T18:36:00",
+          "summary": "黃仁勳日前辭去輝達（NVIDIA）執行長等職務，震撼全球科技圈。除了美國矽谷傳出推動黃仁勳復職的聲音之外，台灣科技業人士也共同出資，今晚6時在台北101大樓外牆點亮跑馬燈聲援黃仁勳。此次點燈由台灣產業界一些重要成員，包括台北市電腦公會、零組件公會、台灣玉山科技協會理事們發起，與台北101董事長賈永婕共商。據了解，今晚點燈文字共有4組，包括「台灣AI共創未來」、「Thrive Together」、「"
         },
         {
-          "title": "老闆拍桌發飆千萬別急著解釋？中階主管分享他「職場生存鐵律」",
-          "link": "https://www.gvm.com.tw/article/134400",
-          "published": "2026-11-15T13:25:00",
-          "summary": "面對情緒化老闆、動輒當眾斥責的主管，許多上班族只能默默忍耐，甚至懷疑是不是自己做得不夠好。但老闆脾氣差，真的只能接受嗎？從拚命三郎型老闆到犯錯不認帳的主管，職場專家分享人際應對技巧，教你調整溝通方式、劃清心理界線，必要時勇敢離開，別讓別人的情緒成為自己的壓力。（本文節錄自《想法一改變，壓力就不見》一書，作者：吳娟瑜／時報出版。）當你看到老闆在摔電話，當你聽到老闆在會議室怒罵經理，沒錯，其實老闆的人"
+          "title": "COP31直擊》島國為何被高電價困住？帛琉總統：排除台灣是全地球的損失",
+          "link": "https://www.gvm.com.tw/article/134564",
+          "published": "2026-11-16T17:51:00",
+          "summary": "面臨家園遭海水吞噬，帛琉總統惠恕仁在COP31不再只是控訴，更帶著具體解方而來。從守護海洋、力推潔淨電氣化，到攜手台灣展現綠能與藍碳實力，他在現場接受《遠見》採訪，親解太平洋島國如何扭轉氣候宿命。第31屆聯合國氣候變遷大會（COP31），被太平洋島國與環保團體高度期待，並希望將其推動為「藍色COP」，把水資源、海洋韌性、海洋保育置於核心議程。主辦國土耳其也表態將推動《安塔利亞海洋宣言》（Antal"
         },
         {
-          "title": "4個字毀掉內心安全感？心理師：別再對哭鬧的孩子說出「這句話」",
-          "link": "https://www.gvm.com.tw/article/134399",
-          "published": "2026-11-15T13:21:00",
-          "summary": "當孩子被情緒淹沒時，大腦的理性腦失去連線，啟動了「警報模式」，這時候掌控孩子的是情緒腦，而不是理性腦，所以我們常會看到孩子大哭、大叫、打人、亂丟東西，也聽不進任何話。大人也必須了解，原來那些看似最混亂、最失控的時刻，也是孩子的大腦在「長大」。（本文節錄自《孩子失控時，大人別抓狂》一書，作者：蘇鈺茹／寶瓶文化出版。）當孩子情緒失控時，很多大人的第一個反應，往往是：「趕快讓孩子冷靜下來」，或「要讓孩子"
+          "title": "直擊COP31》台灣紀錄片《藍色邊界》首映！帛琉要從小島國變「大海洋國家」",
+          "link": "https://www.gvm.com.tw/article/134562",
+          "published": "2026-11-16T17:24:00",
+          "summary": "當COP31談判陷入僵局，一部來自台灣的紀錄片《藍色邊界》震撼安塔利亞。它顛覆「脆弱小島國」刻板印象，揭露帛琉捍衛廣袤海洋的韌性與融資困境，並見證台灣以綠能科技與青年人才，攜手友邦守住文明的生存防線。第31屆聯合國氣候峰會（COP31）的第三天清晨，走進藍區海洋館，深邃的湛藍與流動的洋流圖騰在眼前鋪展，海龜與魚群剪影穿梭在如珊瑚繁衍般微光閃爍的橙紅光點間，彷彿把整個展區都沉入浩瀚大海，數十位來自台"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "櫃買中心響應WFE氣候倡議赴白沙灣造林實踐永續<b>淨零</b> - MoneyDJ理財網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://m.moneydj.com/f1a.aspx%3Fa%3D50ac71e9-fcf1-4dc1-ba78-d97c64c379f1&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw23zJF8rS3458K7XTdlJZvU",
-          "published": "2026-11-16T00:37:35+00:00",
-          "summary": "... 淨零轉型的決心。 櫃買中心多年來持續將ESG 理念落實於營運與市場機制，2025 年順利通過ISO 14068-1 碳中和標準查證，首度宣告達成2024 年度組織碳中和，並&nbsp;..."
+          "title": "日本鹿島建設無人機具進駐新加坡打造首座<b>淨零</b>耗能建築示範 - 行銷人",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.marketersgo.com/%25E5%25AA%2592%25E9%25AB%2594%25E6%2596%25B0%25E8%2581%259E/202611/%25E6%2597%25A5%25E6%259C%25AC%25E9%25B9%25BF%25E5%25B3%25B6%25E5%25BB%25BA%25E8%25A8%25AD%25E7%2584%25A1%25E4%25BA%25BA%25E6%25A9%259F%25E5%2585%25B7%25E9%2580%25B2%25E9%25A7%2590%25E6%2596%25B0%25E5%258A%25A0%25E5%259D%25A1-%25E6%2589%2593%25E9%2580%25A0%25E9%25A6%2596%25E5%25BA%25A7%25E6%25B7%25A8%25E9%259B%25B6%25E8%2580%2597/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1fmkrUNqPNf5ssg8bUoRf0",
+          "published": "2026-11-17T08:07:12+00:00",
+          "summary": "面對營造業缺工與淨零轉型雙重挑戰，日本工程技術正加速在東南亞智慧城市建設中落地。日本五大建設巨頭之一的鹿島建設，近年攜手新加坡推動智慧工地與綠建築專案&nbsp;..."
         },
         {
-          "title": "英國支持全球潔淨電氣化倡議並推動能源轉型... | 經貿透視雙周刊",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.trademag.org.tw/page/newsid1/%3Fid%3D7932139%26iz%3D2&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0qsKu3RNSCH-DTQhfjVHs3",
-          "published": "2026-11-16T00:24:45+00:00",
-          "summary": "英國政府認為，推動潔淨電氣化是落實聯合國既有氣候承諾的重要途徑，包括將再生能源裝置容量提高至三倍、能源效率提高一倍，以及逐步轉型遠離化石燃料。由於全球&nbsp;..."
+          "title": "南韓加入碳排放權交易市場開放聯盟 - 韓聯社",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://cb.yna.co.kr/gate/big5/cn.yna.co.kr/view/ACK20261117001500881&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1gTdHSDWmvnG_kHaMFDcLj",
+          "published": "2026-11-17T06:32:01+00:00",
+          "summary": "韓聯社首爾11月17日電南韓正式加入國際碳市場合作機制——碳排放權交易市場開放聯盟（OCCCM，簡稱“聯盟”），成為該聯盟新成員。南韓氣候能源環境部長官金星&nbsp;..."
         },
         {
-          "title": "為COP31揭幕李長庚發表演講|半導體|產業新聞|產科國際所【IEK產業情報網】",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/ieknews/news_more.aspx%3Factiontype%3Dieknews%26indu_idno%3D5%26nsl_id%3D9746f302f5cf4897807705820116e425&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2uVkEAYRxdS70QzHz2iv4J",
-          "published": "2026-11-15T22:52:24+00:00",
-          "summary": "聯合國第31屆氣候變遷大會（COP31）正於土耳其安塔利亞（Antalya）舉行， ... Net-Zero Sustainability2022｜樂淨零：綠色生活你我同行2021&nbsp;..."
+          "title": "用鏡頭記錄你的綠色選擇！ 「第二屆綠影創作獎」開放報名總獎金50萬元",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14519&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3aRgPi96Wf52ugJ4vsH6om",
+          "published": "2026-11-17T06:04:26+00:00",
+          "summary": "環境部表示，淨零綠生活要從食、衣、住、行、育樂、購的日常做起，第二屆延續「把永續活成日常」的核心理念，把範圍從減廢擴大到生活的各個面向，期待透過創作者&nbsp;..."
         },
         {
-          "title": "建請縣府研擬制定「永續<b>淨零</b>地方自治條例」，以建立明確減碳路徑、整合跨局處資源 - 新竹縣政府",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.hsinchu.gov.tw/News_Content.aspx%3Fn%3D3652%26s%3D357187&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0AZBcqw7oxqWSuA3VDL0vC",
-          "published": "2026-11-15T21:51:05+00:00",
-          "summary": "在淨零排放方面，「氣候變遷因應法」已有溫室氣體盤查登錄、溫室氣體減量目標、建築能效標準等規範。 在再生能源及節能管理方面，「能源管理法」及「再生&nbsp;..."
+          "title": "COP31／領袖峰會美、中元首都缺席中國放棄2028主辦申請 - 余紀忠文教基金會",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.yucc.org.tw/info/8797&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw19fycYafQ9wzH5tCPwo9Rk",
+          "published": "2026-11-17T06:00:06+00:00",
+          "summary": "聯合國氣候變化大會（COP31）11日起由各國領袖輪番發表談話，卻不見多名重量級大國領袖身影，7大工業國集團（G7）當中僅英國首相柏南出席，美國與中國元首均&nbsp;..."
         },
         {
-          "title": "【國合三十共創新局】財團法人國際合作發展基金會30周年官方紀念影片形象版 - TaiwanICDF",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.icdf.org.tw/wSite/ct%3FctNode%3D31967%26xItem%3D75123%26mp%3D3&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2ifRFLClorsQ8S_FYCSlyB",
-          "published": "2026-11-15T19:42:06+00:00",
-          "summary": "面對全球氣候變遷與科技浪潮，國合會自2025年起推動前瞻變革，將臺灣的 ... In response to global climate change and the tech wave, the TaiwanICDF&nbsp;..."
+          "title": "友達首度運用國際碳權擴大建物<b>碳中和</b>成果四據點通過ISO 14068查證 - 知新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.knews.com.tw/news/E640E5994F7DE198F42A073FCABB3158&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1xmOPDVtHMPSC9sUvYwIUO",
+          "published": "2026-11-17T05:50:25+00:00",
+          "summary": "【記者李宜儒／台北報導】為響應第31屆聯合國氣候變遷大會（COP31）聚焦氣候行動落實（From Commitment to Implementation）之全球趨勢，友達持續將淨零承諾&nbsp;..."
         },
         {
-          "title": "櫃買支持<b>淨零</b>引入永續工具｜新聞快訊 - 永豐金證券",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.sinotrade.com.tw/richclub/news/6afa013571992d574559cb66&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0RO1CbhItkuuIgvaFKAdxf",
-          "published": "2026-11-15T19:11:13+00:00",
-          "summary": "面對全球淨零碳排趨勢，論壇壓軸的綜合座談聚焦「永續發展債券與轉型金融：引導資金支持淨零未來」，由櫃買中心總經理陳麗卿主持..."
+          "title": "【2026六都市長選舉政見觀察】天災來時能撐多久？從治水與能源看城市韌性",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://csrone.com/news/10221&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3hfFP32q1pW81-wz4DCo5r",
+          "published": "2026-11-17T05:39:43+00:00",
+          "summary": "面對極端氣候，2026六都選戰聚焦城市韌性。候選人從提升排水標準、推動都市滯洪空間，到建置偏鄉微電網與弱勢家庭不斷電設備，主張將防災延伸至土地規劃、&nbsp;..."
         }
       ]
     }
