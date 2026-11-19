@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-11-18T08:13:57.118425+00:00",
-    "date": "2026-11-18",
+    "generated_at": "2026-11-19T08:25:46.890701+00:00",
+    "date": "2026-11-19",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "「蒸餾」還是竊取智財？《路透》審閱逾 300 份文件：中國已把美國 AI 的答案做成產業流程",
-          "link": "https://techorange.com/2026/11/18/china-distills-us-ai-models/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-18T06:36:13+00:00",
-          "summary": "《Reuters》11/17 獨家報導，該社審閱逾 300 份中國學術論文、專利、企業揭露資料、徵才公告與政府文件後發現，中國機構正以愈來愈精細的方式，用美國領先 AI 模型的輸出訓練本土的競爭模型；這種稱為蒸餾（distillation）的做法，已從學術實驗擴大為主流產業應用。《Reuters》分析，這可能削弱美國晶片出口管制的效果，而華府在美國時間 11/16 才表示，將進一步限制中國取得 N"
+          "title": "Gemini 4 Neon 程式評測逼近 Opus 5.5，API 標價卻比 Anthropic、OpenAI 中階模型貴 5 成：企業該怎麼算？",
+          "link": "https://techorange.com/2026/11/19/google-ai-models-gemini-4-neon/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-19T04:39:05+00:00",
+          "summary": "Google 近日推出新款中階 AI 模型 Gemini 4 Neon。Google 表示，這款模型能在複雜軟體工程、知識工作與科學研究流程中，「以前沿等級的智慧，快速完成端到端任務」。《The Decoder》指出，這是 Google 四週內推出的第四款 Gemini 4 新模型。 Neon 已在 Google AI Studio 與 Android Studio 的付費 Gemini API "
         },
         {
-          "title": "「AI 要能跨部門複製與持續營運。」Dell AI 服務助企業打破 POC 負循環",
-          "link": "https://techorange.com/2026/11/18/dell-ai-advisory-workshop/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-18T06:34:30+00:00",
-          "summary": "企業陸續建置的內部知識庫、Chatbot 或 AI Agent 等應用，如何順利融入日常工作流程並創造實際價值？Dell Technologies 服務銷售部服務業務協理劉芷伶日前在 TechOrange 科技報橘舉辦的「AI Innovation Day：2027 AI 創新日」論壇中指出，2026 年 AI 競爭的焦點，正由單點 POC 轉向平台化與持續營運，企業導入 AI 不只要證明模型做得"
+          "title": "不禁用、改點名：川普政府研議要求美企揭露使用中國 AI 模型，能降低依賴嗎？",
+          "link": "https://techorange.com/2026/11/19/us-chinese-ai-disclosure/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-19T04:23:37+00:00",
+          "summary": "據《Reuters》11/18 獨家報導，川普政府正考慮要求美國企業公開揭露使用了哪些中國 AI 模型。3 名知情人士指出，美國財政部與白宮科技政策辦公室（OSTP）已討論過這項方案，適用對象包括以阿里巴巴千問（Qwen）驅動 AI 客服的 Airbnb；依方案構想，這類企業須在官網公布相關資訊。不過，方案是否在政府內部獲得支持、推進後是否會走正式的規則制定程序，目前都還不清楚。 《Reuters"
         },
         {
-          "title": "黃仁勳請辭後，NVIDIA 新設國安與出口管制委員會：美方追查的新加坡轉運漏洞怎麼來？",
-          "link": "https://techorange.com/2026/11/18/nvidia-export-control-committee/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-18T04:47:13+00:00",
-          "summary": "NVIDIA 共同創辦人黃仁勳因私人關係引發國安疑慮後，於美國時間 11/12 辭去總裁、執行長與董事職務。不到一週，NVIDIA 董事會 11/17 宣布成立常設的「國家安全與出口管制監督委員會」。《Reuters》指出，這是黃仁勳離職後，NVIDIA 的第一項重大治理調整；國會議員也準備詢問曾力推擴大對中國出口晶片的黃仁勳。 不過據《CNN》報導，也有官員認為外界聚焦黃仁勳與中國政府的關係，反"
+          "title": "摩根大通攜手韓國現代信用卡完成 AI 自主換匯測試，商用前仍須跨過「治理高牆」",
+          "link": "https://techorange.com/2026/11/19/ai-agent-autonomous-payments/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-19T03:09:50+00:00",
+          "summary": "全球金融業正迎來一場「無人工參與」的支付革命。美國銀行巨頭摩根大通與韓國現代信用卡近期完成一項概念驗證，讓雙方的 AI 代理人在沒有人員直接介入下，獨立完成跨國企業的模擬外匯交易。摩根大通旗下區塊鏈部門 Kinexys 洞察全球主管 Wee Kee Toh 更預告，雙方將於 2027 年上半年把測試範圍擴大，並推進至更複雜的「多代理人自主協商與議價」階段。 在這場模擬交易中，韓國現代信用卡的 AI"
         },
         {
-          "title": "微軟押注「小而專」AI 模型，稱 MAI Code 2 以 5% 成本達 Claude Opus 5.5 的 96% 效能",
-          "link": "https://techorange.com/2026/11/18/microsoft-ignite-2026-building-frontier-ecosystem/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-18T03:58:40+00:00",
-          "summary": "微軟（Microsoft）近日在年度技術大會 Ignite 上，發表一系列專用 AI 模型，涵蓋程式開發、資安與影像生成，《Decrypt》形容這是直接向 Anthropic 與 OpenAI 叫陣。微軟並非要打造一款樣樣都贏的聊天機器人，而是主打針對特定工作訓練的模型，以大幅降低的成本完成任務。 微軟董事長暨執行長納德拉（Satya Nadella）在開幕演講中表示：「對我們來說，重點是以最佳的"
+          "title": "【Toyota 規劃 40 萬台機器人進工廠】起步晚於現代與特斯拉，強項在整合 AI 與生產流程",
+          "link": "https://techorange.com/2026/11/19/toyota-humanoid-robot-race/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-19T01:55:22+00:00",
+          "summary": "今年 4 月，東京豐田體育館（Toyota Arena Tokyo）的職籃賽事中場，一台黑紅配色的人形機器人走上球場，運球、出手，球應聲入網。這是豐田 AI 籃球機器人 CUE 的第 7 代 Cue7。 不過，會投籃的機器人並不稀奇，中國製人形機器人早已會跳舞、打拳。Cue7 的意義在於出場時機。 差不多同一時間，豐田高層正向全球投資人推銷一套機器人戰略，包括部署 40 萬台機器人、每年 64 億"
         },
         {
-          "title": "【個人 AI 代理還進不了公司】資安與成本風險未解，企業版代理人才是可行路徑",
-          "link": "https://techorange.com/2026/11/18/personal-agents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-18T02:34:14+00:00",
-          "summary": "AI 代理人已經能替使用者處理生活瑣事，甚至代為議價、談方案。但當員工想把同樣的工具帶進公司，連上工作信箱與企業系統，問題就沒那麼簡單。 個人代理人與聊天機器人有本質差異 Muse、Instinct，以及 ChatGPT 開發商 OpenAI 推出的 Dots 等個人代理人，有潛力徹底改變人們與各種系統互動的方式，不論是消費或商業用途。 客服軟體公司 Zendesk 執行長 Tom Eggemei"
+          "title": "AI Agent 搶走購物入口：Airbnb、The RealReal 如何守住流量與交易秩序？",
+          "link": "https://techorange.com/2026/11/19/ai-agents-shopping-airbnb-the-realreal/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-19T00:10:00+00:00",
+          "summary": "當科技公司將 AI Agent 推向市場，主打能為數十億用戶排定會議、籌辦派對與購買商品時，網路購物迅速成為這些代理人的熱門應用。以 Meta 推出的 Muse 為例，該軟體在美國上線 40 天內即突破 1,000 萬次下載，Meta 在第三季財報電話會議中更透露「購物」是目前最常出現的使用情境，平均交易金額超過 200 美元。這股趨勢顯示 AI Agent 逐漸成為消費者取得商品與服務的新介面，"
         },
         {
-          "title": "ChatGPT 推薦後的品牌造訪，僅 8.8% 從 AI 點擊進站：IAB「歸因藍圖」先定義誰能爭功",
-          "link": "https://techorange.com/2026/11/18/iab-ai-era-attribution-blueprint/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-18T01:30:29+00:00",
-          "summary": "美國互動廣告局（IAB）於美國時間 11/12 發布《AI 時代歸因藍圖》（AI-Era Attribution Blueprint），指出 AI 涉入的成交沒有從報表上消失，而是常被記到錯的來源。IAB 在報告中引用 Similarweb 的追蹤數據，收到 ChatGPT 品牌推薦的美國桌機用戶，之後 7 天內造訪該品牌網站的流量，只有 8.8% 是從 AI 點擊進站，過半仍來自搜尋。 歸因（a"
+          "title": "【科技早餐】黃仁勳卸任後 NVIDIA 營收飆 1,158 億美元！上修成長預測、台積電等供應鏈擴產",
+          "link": "https://techorange.com/2026/11/19/nvidia-earnings-jensen-huang-tsmc-ai-supply-chain/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-18T21:30:00+00:00",
+          "summary": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊黃仁勳卸任後 NVIDIA 營收年增 103%！上修 2028 財年預測，擴大台積電供應鏈產能 NVIDIA 11 月 17 日公布 2027 財年第三季財報，單季營收達 1,158 億美元，年增 103%、季增 20%，再次創下歷史新高。其中，資料中心業務營收達 1,076 億美元，年增 110%，占整體營收超過九成，顯示大型雲端業者、AI 模"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "台中交鋒〉何欣純要對手承諾「家屬不接市府標案」，江啟臣抗議中央對台中不公",
-          "link": "https://www.gvm.com.tw/article/134605",
-          "published": "2026-11-18T00:37:00",
-          "summary": "台灣政界有一個「得台中者得天下」的說法，描述台中作為台灣指標性「搖擺州」的關鍵地位。2026九合一大選白熱化，台中藍綠陣營今（17）日在電視政見辯論會交鋒，民進黨台中市長候選人何欣純在開頭就要求對手承諾，當選後家屬不接市府標案；國民黨台中市長候選人江啟臣則暗諷中央這幾年對台中不公，兩人更在結尾時，描繪自己對於未來台中的城市願景，力拚市長寶座。17日晚間，臺中選舉委員會舉辦「臺中市第5屆市長選舉候選"
+          "title": "房價變立體了！臺中市首創「3D實價登錄」，連樓層差異與日照時間都能「一鍵」看到",
+          "link": "https://www.gvm.com.tw/article/134576",
+          "published": "2026-11-19T00:00:00",
+          "summary": "「這個地方的房價到底合不合理？」這是所有購屋者最常問，也最難得到答案的問題。過去，民眾查詢實價登錄，面對的往往是難懂的2D表格與平面地圖；尤其在查詢公寓、大樓等垂直型建物時，根本無從辨識不同樓層、戶別與景觀對價格的影響。「民眾非常重視房地產，市府有責任讓資訊公開透明、減少紛爭，並促進居住正義。」臺中市長盧秀燕曾多次在市政會議上強調地政業務的重要性，並鼓勵團隊持續創新來優化市政服務。因此，地政局選擇"
         },
         {
-          "title": "告別「請假排隊」！臺中市政府地政局推動雙軌服務：線上申辦秒過關，專人到府送溫暖",
-          "link": "https://www.gvm.com.tw/article/134548",
-          "published": "2026-11-18T00:00:00",
-          "summary": "「辦理地政業務，還得向公司請假去排隊。」這曾是許多市民的共同經驗。過去民眾申領謄本或辦理土地登記，往往得跑地政事務所抽號碼牌、等叫號，也讓行政機關容易給人「被動服務」的距離感。不過，隨著數位科技躍進，臺中市政府地政局正全面翻轉公部門給人的刻板印象。臺中市長盧秀燕強調「簡政便民、以人為本」的施政理念下，地政局將服務核心轉向「顧客導向」，也就是民眾的需求在哪裡，服務就主動延伸到哪裡。透過跨部門合作，地"
+          "title": "臺中市「SAFETY安全網」，如何打造租賃雙贏市場？租屋安心有保障！",
+          "link": "https://www.gvm.com.tw/article/134569",
+          "published": "2026-11-19T00:00:00",
+          "summary": "隨著臺中市居住人口突破286萬，外來就業、就學與跨區移動人潮，讓「租屋」成為關鍵的城市居住議題。根據統計，臺中市目前申請租金補貼的戶數高達21萬戶；截至114年底，實價登錄的租約有效件數更已逾2.4萬件。然而，龐大市場背後，租屋族與房東卻常有各自的苦水。過去租屋市場長期存在資訊不對稱，從假照片詐騙、不平等契約，到退租時的押金爭議，無論房客或房東都常感到心力交瘁。而在臺中市長盧秀燕「簡政便民、以人為"
         },
         {
-          "title": "科技業串聯「點亮101」力挺黃仁勳！台灣絕不能少了他？專家這樣看",
-          "link": "https://www.gvm.com.tw/article/134600",
-          "published": "2026-11-17T18:54:00",
-          "summary": "輝達（NVIDIA）創辦人黃仁勳過去幾年到訪台灣，總像搖滾巨星般引發眾人簇擁追隨。如今，黃仁勳因婚外情與國安疑雲閃辭輝達執行長，但台灣科技界依舊力挺，讓101大樓特別亮燈為他跨海打氣，顯然「仁來瘋」仍未停歇。究竟科技界為何如此力挺黃仁勳？未來若少了黃仁勳，台灣AI與半導體供應鏈會受重創嗎？昨（16）日晚間6時許，台北101大樓的外牆燈上，接連打出「台灣共創未來」、「Thrive Together（"
+          "title": "一機在手也能沉浸走讀！智慧觀光開啟「跟風玩新竹」的科技與人文漫遊",
+          "link": "https://www.gvm.com.tw/article/134552",
+          "published": "2026-11-19T00:00:00",
+          "summary": "現代旅遊型態除了紙本手冊外，更邁入一機在手、說走就走的數位輕旅行時代。最懂科技的新竹市，順勢將數位優勢化為城市漫遊的助力。褪去外界對科技園區忙碌日常的刻板印象，這座三百年古城中，錯落著密集的國定古蹟，近郊更坐擁香山濕地與十七公里海岸線的壯麗風光。面對旅遊市場的轉型浪潮，新竹市政府推出全新改版的新竹市觀光旅遊網與數位觀光導覽地圖，以跟風玩新竹為主軸，讓智慧科技成為貼心導航，帶領旅人深度探索風城的人文"
         },
         {
-          "title": "中美俄元首歷史性會晤48小時！俄方如何否認是雅爾達密約？",
-          "link": "https://www.gvm.com.tw/article/134599",
-          "published": "2026-11-17T18:31:00",
-          "summary": "習近平、川普、普丁三位國家領導人，圍坐在同一張桌子進行會談，為史上頭一遭。2026年11月19日下午兩點半，深圳。APEC經濟領袖會議閉幕當日，一場獨立於議程之外的三國元首會晤即將登場。中國外交部11月16日宣布，國家主席習近平將同俄羅斯總統普丁（Vladimir Putin）、美國總統川普（Donald Trump）在深圳舉行中俄美元首會晤，三人首次面對面。消息一出，國際輿論出現了「新雅爾達密約"
+          "title": "企業如何轉型、投資如何布局？兆豐證券攜手產官學掌握下一個十年投資新局",
+          "link": "https://www.gvm.com.tw/article/134491",
+          "published": "2026-11-19T00:00:00",
+          "summary": "震盪頻繁的資本市場，如何為投資建構安心防護網？答案在永續！台灣躍居全球第四大股市，國際以同一把尺檢視台企的永續作為，加上今年碳費開徵，也讓減碳從自願行動轉為經營成本，凸顯永續金融的焦點從支持「綠色」邁向「轉型」。兆豐證券舉辦「2026兆豐證券永續金融論壇」，邀集產官學界從政策、產業與投資面向解析永續新局，協助企業化轉型壓力為成長動能，也讓投資人洞察長線價值。面對氣候變遷與產業變化，兆豐證券暨兆豐期"
         },
         {
-          "title": "餐飲業開店不能只看營業額：掌握2數字，算出每月「不賠錢」來客數",
-          "link": "https://www.gvm.com.tw/article/134595",
-          "published": "2026-11-17T17:27:00",
-          "summary": "開店做生意，營業額高不代表真的賺錢！每個月究竟要有多少客人上門，才能支付食材、人事、租金等成本，不再陷入虧損？其實不必每次都翻閱複雜的損益表，只要掌握固定成本總額與每位顧客平均帶來的利潤，就能快速算出損益平衡點的來客數，甚至進一步推算每月營收目標，讓店面經營更有方向。（本文節錄自《餐飲業獲利聖經》一書，作者：東海林健太郎，山川博史(監修)／台灣東販出版。）重新整理損益表，以便更清晰易懂為了讓損益表"
+          "title": "百大青農新典範 左詮以FreshLock微波滅菌技術，淬鍊鮮果永續新價值",
+          "link": "https://www.gvm.com.tw/article/133875",
+          "published": "2026-11-19T00:00:00",
+          "summary": "台灣水果享譽國際，然而盛產期的滯銷與高昂的冷凍倉儲成本，始終是農業現場的痛點。來自屏東里港青農楊岳翰，從返鄉種檸檬起步，投入數年研發微波滅菌技術，實現果汁常溫保存，並透過全果利用與回饋地方，為過剩農產開拓更多元、永續的利用方式。看天吃飯的農人不怕流汗，最怕的是心血找不到出路。尤其是每逢盛產期，農產價格劇烈波動，若想延長保存期限，又得面對高昂的冷凍倉儲與冷鏈物流成本。農產加工如何兼顧低碳與純粹風味？"
         },
         {
-          "title": "讓女兒負傷在大雨中完成比賽：親子教養最難的一課是「這2個字」",
-          "link": "https://www.gvm.com.tw/article/134597",
-          "published": "2026-11-17T17:22:00",
-          "summary": "當父母總是走在孩子前面，替他避開每一個困難，孩子也可能在無意間接收到一個訊息：你還不行，所以必須照我的方法做。真正的陪伴，不是讓孩子永遠不遇到風雨，是在安全的界線裡，相信他有能力走過一段屬於自己的路。（本文節錄自《接住孩子，也接住自己》一書，作者：呂家慧Cherry／商周出版。）陪伴，不是控制，而是一起走一段路成為父母之後，我們很自然地想保護孩子。孩子年幼時，替他準備衣物、收拾物品、安排生活，看他"
+          "title": "百年藥行新風貌！博仁堂用一碗藥膳串聯中藥文化與在地永續食材",
+          "link": "https://www.gvm.com.tw/article/133447",
+          "published": "2026-11-19T00:00:00",
+          "summary": "當全台傳統中藥房快速消逝之際，台南百年藥房「博仁堂」成功轉型為養生藥膳餐廳，博仁堂執行長周建文從一碗美味的藥膳出發，將中藥文化與在地農產連結，走出一條傳統產業與永續食農共好的新路。走進台南市中西區西門路二段的巷弄裡，一股濃郁的中藥清香撲鼻而來。這間由傳統中藥鋪轉型為藥膳餐廳的「博仁堂」，執行長周建文正熟練地在藥櫃前抓藥、準備起鍋熬湯。每個面臨接班的後代，心裡都曾有過掙扎。不接，老店將面臨熄燈；接了"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "全球<b>淨零</b>轉型帶動綠色金融需求天逸集團創辦人温峰泰關注新能源供應鏈金融發展",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.yesmedia.com.tw/%25E5%2585%25A8%25E7%2590%2583%25E6%25B7%25A8%25E9%259B%25B6%25E8%25BD%2589%25E5%259E%258B%25E5%25B8%25B6%25E5%258B%2595%25E7%25B6%25A0%25E8%2589%25B2%25E9%2587%2591%25E8%259E%258D%25E9%259C%2580%25E6%25B1%2582%25E3%2580%2580%25E5%25A4%25A9%25E9%2580%25B8%25E9%259B%2586%25E5%259C%2598%25E5%2589%25B5%25E8%25BE%25A6%25E4%25BA%25BA/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0p7zVjPgkEk7Upz1afP0Sz",
-          "published": "2026-11-18T01:58:38+00:00",
-          "summary": "全球淨零排放與能源轉型趨勢持續推進，綠色金融與永續供應鏈逐漸成為國際金融市場關注的焦點。隨著太陽光電等再生能源產業發展，企業除了面臨技術升級與環境管理&nbsp;..."
+          "title": "環境部COP31 論壇聚焦公正轉型，強化勞工保障與綠能開發社會溝通 - TechNews 科技新報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://technews.tw/2026/11/19/environment-ministry-cop31-forum-just-transition-worker-protection-green-energy-social-communication/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3A1vrh7Ud6T3J24LlAbUJi",
+          "published": "2026-11-19T03:01:48+00:00",
+          "summary": "隨著碳費制度上路，環境部也已於溫室氣體管理基金編列專款預算，協助中央相關機關推動公正轉型工作，降低淨零政策對產業及社會帶來的影響。 台灣氣候行動網絡&nbsp;..."
         },
         {
-          "title": "COP31 AI 減碳承諾遇冷！僅9 國簽署，美中未加入 - TechNews 科技新報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://technews.tw/2026/11/17/cop31-ai-decarbonization-pledge-cold-reception-9-nations-signed-us-china-absent/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2C0TDo7rAotg5Oqir5JtYV",
-          "published": "2026-11-18T00:49:33+00:00",
-          "summary": "隨著AI 資料中心用電需求持續攀升，能源消耗與碳排放問題受到國際關注。第31 屆聯合國氣候變遷大會（COP31）主席國土耳其與國際電信聯盟（ITU）共同推出《安&nbsp;..."
+          "title": "聚焦主權AI、智慧醫療、低碳交通與<b>淨零</b>科技掌握高雄與南臺灣智慧科技商機| 徐炳文 - 風傳媒",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.storm.mg/article/11182990&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1eaomcFWvRqniHVdCEoNpa",
+          "published": "2026-11-19T02:55:23+00:00",
+          "summary": "2027高雄智慧城市展即日起開放報名南臺灣年度智慧產業盛會「第六屆高雄智慧城市展」將於2027年3月18日至3月20日假高雄展覽館登場，由高雄市政府、台灣智慧&nbsp;..."
         },
         {
-          "title": "英國傳擬放寬電動車銷售目標氣候顧問示警恐難達<b>淨零</b>| 民視新聞網 - LINE TODAY",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/vXLD2qQ&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3xIKCjrX_w38B2_AcnxnpG",
-          "published": "2026-11-18T00:47:42+00:00",
-          "summary": "CCC進一步表示，根據政府自身的影響評估顯示，調降零排放車輛目標將導致英國到2030年時，每年燃油消耗量增加1500萬桶石油。以當前價格計算，這將使全國每年增加&nbsp;..."
+          "title": "國泰金控COP31安塔利亞國際圓桌會議共探引導氣候金融與自然資本落地 - 經濟日報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5613/9887279&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2xl_BHjMAHkFWyW2YynESb",
+          "published": "2026-11-18T22:42:37+00:00",
+          "summary": "針對如何突破資金瓶頸，與談領袖從「政策架構」與「機構投資人回應保戶需求」兩端提出關鍵解方。氣候債券倡議組織（Climate Bonds Initiative,&nbsp;..."
         },
         {
-          "title": "全球<b>淨零</b>轉型帶動綠色金融需求天逸集團創辦人温峰泰關注新能源供應鏈金融發展 - 觀傳媒",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.watchmedia01.com/archives/570983&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2RwA67WjcN1q8Tipi5HZPw",
-          "published": "2026-11-18T00:44:26+00:00",
-          "summary": "在全球淨零排放目標與企業永續經營趨勢下，再生能源產業持續發展，相關供應鏈也面臨新的資金管理挑戰。 從原物料供應、生產製造到終端設備建置，不同環節的企業&nbsp;..."
+          "title": "2026年上半年及全年我國新興能源產業回顧與展望|<b>淨零</b>永續能源供應 - IEK產業情報網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ieknet.iek.org.tw/iekrpt/rpt_more.aspx%3Factiontype%3Drpt%26domain%3D28%26rpt_idno%3D398864654&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1p3UBZTRAyK9qMnXIvGLeL",
+          "published": "2026-11-18T21:18:27+00:00",
+          "summary": "... 淨零需求引發的商機. The Review and Outlook for Taiwan Fuel Cell Industry in 2026: Opportunities Driven by AI Data Centers and Net-Zero Demand &middot; 蘋果&nbsp;..."
         },
         {
-          "title": "COP31首份全球AI氣候承諾出爐！台灣企業為何觀望？美中歐盟與科技巨頭都缺席",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://esg.businesstoday.com.tw/article/category/180687/post/202611170034/COP31%25E9%25A6%2596%25E4%25BB%25BD%25E5%2585%25A8%25E7%2590%2583AI%25E6%25B0%25A3%25E5%2580%2599%25E6%2589%25BF%25E8%25AB%25BE%25E5%2587%25BA%25E7%2588%2590%25EF%25BC%2581%25E5%258F%25B0%25E7%2581%25A3%25E4%25BC%2581%25E6%25A5%25AD%25E7%2582%25BA%25E4%25BD%2595%25E8%25A7%2580%25E6%259C%259B%25EF%25BC%259F%25E7%25BE%258E%25E4%25B8%25AD%25E6%25AD%2590%25E7%259B%259F%25E8%2588%2587%25E7%25A7%2591%25E6%258A%2580%25E5%25B7%25A8%25E9%25A0%25AD%25E9%2583%25BD%25E7%25BC%25BA%25E5%25B8%25AD&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2be282r5cKZ3Upgt7Pz0Ct",
-          "published": "2026-11-17T21:27:35+00:00",
-          "summary": "阿里雲副總裁暨全球資料中心總經理王朝陽強調，阿里雲2026財年自建資料中心的清潔電力占比已達73.6%，目標2030年達成自身營運碳中和 ... 淨零承諾回到正軌」。"
+          "title": "COP31推AI減碳承諾美科技巨頭缺席、大廠目前僅阿里巴巴簽署| TVBS - LINE TODAY",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/vXLDaJ5&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3zIU4sZt07ADosyJufmsx2",
+          "published": "2026-11-18T20:41:23+00:00",
+          "summary": "... 氣候變遷大會（COP31）的土耳其於16 日 ... 科技業過去曾是歷屆聯合國氣候峰會能見度最高的企業參與者之一，推動負碳排營運與淨零&nbsp;..."
         },
         {
-          "title": "【都大探索】動態評估氣候變化提升沿海基建韌性- 香港文匯報",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.wenweipo.com/a/202611/18/AP6afcb75be4b028ec019460b8.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0nzbbz_ZGV5aLCUXZcRXOp",
-          "published": "2026-11-17T20:22:43+00:00",
-          "summary": "因此，沿海基建管理必須回答兩個相互關聯的問題：其一，當極端災害來臨時，設施會受到多大影響？其二，隨着氣候與設施狀況改變，應在什麼時候維修、加固或&nbsp;..."
+          "title": "聯合國COP31推綠色AI倡議美國科技巨頭集體缺席| 民視新聞網 - LINE TODAY",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://today.line.me/tw/v3/article/GgNa5E7&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0MmAMAJlDR3ZVeaBw8qCql",
+          "published": "2026-11-18T20:21:20+00:00",
+          "summary": "聯合國氣候峰會COP31推出呼籲減少人工智慧環境衝擊的綠色倡議，然而美國科技巨頭集體冷處理，僅有中國阿里巴巴一家大型科技公司簽署，凸顯AI資..."
         }
       ]
     }
