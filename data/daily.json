@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-11-25T09:35:16.462368+00:00",
-    "date": "2026-11-25",
+    "generated_at": "2026-11-26T09:11:36.424659+00:00",
+    "date": "2026-11-26",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -12,40 +12,40 @@
       "feed_url": "https://techorange.com/feed/",
       "items": [
         {
-          "title": "穩定幣市值持平，業者仍搶築「圍牆花園」：Payoneer 籌設信託銀行、Visa 開放穩定幣預先撥款",
-          "link": "https://techorange.com/2026/11/25/stablecoins-walled-gardens/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-25T06:55:49+00:00",
-          "summary": "美國時間 11/20，跨境支付業者 Payoneer 宣布取得美國貨幣監理署（OCC）初步有條件核准，籌設全國性信託銀行 PAYO Digital Bank，定位是「支援全球商業的穩定幣功能」。美國支付產業媒體《PYMNTS》分析，圍繞數位美元，一種新型金融中介正在出現，商業目標卻和傳統金融業者相似：獲取客戶、保管客戶的錢、協助取得信貸，並對周邊服務收費。 據聯準會統計，穩定幣市值過去一年相對持平"
+          "title": "【Google Cloud 林書平專欄】企業部署 AI，如何兼顧數位主權與技術創新？",
+          "link": "https://techorange.com/2026/11/26/ai-digital-sovereignty-google-cloud/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-26T06:50:47+00:00",
+          "summary": "文 / Google Cloud 台灣技術總經理 林書平 數位主權是近年全球產業關注的焦點之一，而八月底台灣剛落幕的 2026 科技主權高峰論壇中，在探討如何守護 AI 與數位主權之際，許多企業領導者也正面臨著相同的技術焦慮。這份焦慮源自於一個看似矛盾的營運兩難，多數組織仍受限於舊有思維，誤將「資料控管」與「創新技術」視為一場零和遊戲。就我觀察，數位主權早已不再單純作為國家層級的戰略議題，更是企業"
         },
         {
-          "title": "前 xAI 共同創辦人成立新創 Epochal，推「時間傳送門」訓練 AI 預測未來",
-          "link": "https://techorange.com/2026/11/25/ex-xai-founders-launch-epochal-time-portal/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-25T06:48:28+00:00",
-          "summary": "三位前 xAI 共同創辦人張國棟（Guodong Zhang）、戴子航（Zihang Dai）與曼努埃爾·克羅伊斯（Manuel Kroiss），近日宣布成立全新 AI 新創公司 Epochal，並推出首款產品 Time Portal（時間傳送門）。據《Bloomberg》報導，張國棟已個人注資 1 億美元，目前尚未公布其他投資人名單。除馬斯克（Elon Musk）外，xAI 其餘共同創辦人均已相"
+          "title": "測 AI 代理預測力，先別讓它偷看答案：Perplexity 推「時光機」，搜尋只看指定時間點前的網頁",
+          "link": "https://techorange.com/2026/11/26/perplexity-time-machine-ai-agents-past-web/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-26T04:35:40+00:00",
+          "summary": "美國時間 11/25，AI 搜尋公司 Perplexity 為開發者的 Search API 與 Context API 推出 Time Machine 功能：在請求中指定一個時間點，AI 代理（AI agent）就只能搜尋、讀取 Perplexity 在該時點以前存下的網頁副本。Perplexity 說明推出的原因：即時網路總是知道事情的結局，今天問 AI 代理在選舉或財報電話會議前已知哪些資訊"
         },
         {
-          "title": "OpenAI、Anthropic 未發布模型強到難以控制？知情人士：許多員工不信能安全發布",
-          "link": "https://techorange.com/2026/11/25/anthropic-openai-unreleased-ai-safety-risks/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-25T04:46:42+00:00",
-          "summary": "《Axios》近日引述二十多名熟悉內部討論的知情人士報導，Anthropic 與 OpenAI 正面臨日益急迫的問題：兩家公司尚未發布的內部模型愈來愈強大，許多員工已不再相信這些模型能安全發布。知情人士表示，研究人員尚未找到控制最先進模型的技術方法，而 AI 系統的能力與人類控制能力之間的落差持續擴大，可能大幅拖慢 AI 熱潮。 根據知情人士的說法，模型在數學、科學、資安與 AI 研究等領域的推理"
+          "title": "美 301 新關稅點名台灣等 14 個經濟體，台灣政府：有信心維持 15%、協議不重談",
+          "link": "https://techorange.com/2026/11/26/new-tariffs-14-trading-partners-fight-excess-factory-capacity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-26T04:04:30+00:00",
+          "summary": "美國總統川普的共和黨雖在期中選舉失利，川普政府仍再度祭出新一波關稅。美國貿易代表署（Office of the United States Trade Representative，USTR）近日針對中國、日本、歐盟、台灣等 14 個主要貿易夥伴，提出最高潛在稅率 20% 至 40% 的新關稅，以對抗美方指這些國家助長的工業產能過剩。不過，USTR 表示，打算將新關稅上限控制在已完成或仍在協商中的"
         },
         {
-          "title": "Anthropic 實測新版 Claude 仍有 2～3 成情境越出沙箱，導入 AI 代理還能加哪些防線？",
-          "link": "https://techorange.com/2026/11/25/anthropic-siren-ai-agent-honeypot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-25T04:22:43+00:00",
-          "summary": "AI 代理（AI agent）通常在沙箱（sandbox）中工作，也就是限制它能存取哪些檔案、工具與網路的隔離環境。如果沙箱設定留了漏洞，代理會不會自己走出去？Anthropic 美國時間 11/24 公布新評估 Siren，在 26 個刻意留下弱點的沙箱中，讓 Claude 代理執行例行維運任務，再於沙箱外放置憑證、重要檔案等誘餌（honeypot），而且題目從不授權它離開，藉此觀察它怎麼做。 "
+          "title": "OpenAI 以 AI 設計電路、亞馬遜收購跨晶片最佳化技術，為半導體設計與軟體競爭帶來哪些新變數？",
+          "link": "https://techorange.com/2026/11/26/ai-chip-design-software-optimization/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-26T02:52:24+00:00",
+          "summary": "對於特殊應用積體電路（ASIC）設計服務、雲端服務供應商（CSP）晶片部門與電子設計自動化（EDA）業者而言，科技巨頭透過自研晶片分散硬體供應風險，已是近年業界熟知的趨勢。 然而，綜觀近期浮現的多項產業動態——包括微軟（Microsoft）公布 Maia 晶片部署藍圖、OpenAI 揭露自研晶片「Jalapeño」的研發進展，以及與超微（AMD）改良旗艦 GPU IP 的合作成果、亞馬遜（Amaz"
         },
         {
-          "title": "只做身體、大腦讓客戶自己裝，Booster Robotics 想成為人形機器人界的 Android",
-          "link": "https://techorange.com/2026/11/25/booster-robotics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-25T01:24:07+00:00",
-          "summary": "要讓人形機器人上工，多數業者會同時自研機器人本體、控制機器人的 AI 與整合軟體，成本高、難度大，失敗的機會也多。中國人形機器人新創 Booster Robotics 則反其道而行，只做身體，「大腦」交給客戶自己挑選或開發。 只做身體，目標是當人形機器人界的 Android Booster Robotics 執行長 Clarence Huang 在里斯本科技大會 Web Summit 上表示，他們"
+          "title": "IT 維運如何跟上 AI 應用迭代速度？HPE 和凌羣攜手合作推廣標準化託管服務，釋放企業 IT 創新潛能",
+          "link": "https://techorange.com/2026/11/26/hpe-syscom-mananged-service/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-26T02:30:00+00:00",
+          "summary": "企業導入 AI 的速度正在加快，當所有目光都集中在前端應用成果時，往往容易忽略後端基礎架構（Infrastructure）所承受的維運壓力。AI 開發團隊可能每三、四個月就要測試新專案，傳統 IT 部門首要任務則是確保系統每天穩定運作、不能當機。隨著新應用持續增加，既有基礎架構的管理複雜度與維運負擔也隨之提升。 面對「前端求快、後端求穩」的矛盾，凌羣電腦總經理劉瑞隆認為，企業需要重新檢視既有模式。"
         },
         {
-          "title": "誰在用 AI、Token 花多少都不清楚？極風雲創主張先做入口、控管與知識庫，Elastic 提醒資料先分類",
-          "link": "https://techorange.com/2026/11/25/twister5-elastic-enterprise-ai-governance/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-25T00:10:00+00:00",
-          "summary": "專訪：沈貝怡撰稿：張哲瑋 企業導入 AI 的腳步很快，管理卻常常跟不上。《全新一週》主持人沈貝怡觀察，不少企業一開始以「野生式」的方式導入，鼓勵各部門自己想想 AI 能怎麼用，到後來才發現「搞不清楚、管不了」，還潛藏許多風險。她借用台灣製造業常說的缺水、缺電、缺工、缺地、缺人「五缺」，形容 AI 時代也出現了「新 AI 五缺」。 本集邀請極風雲創（Twister5）創辦人暨董事長張紘綱，與 Ela"
+          "title": "【室內燈光也能發電】美國新創 RadianX 用新型太陽能板，延長感測器、穿戴裝置的續航",
+          "link": "https://techorange.com/2026/11/26/radianx/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-26T00:59:25+00:00",
+          "summary": "電子閱讀器、穿戴裝置與工廠感測器，都需要穩定的電力才能運作，目前這類裝置多仰賴充電式或可更換電池，使用者必須定期充電或換電池，才能避免設備中斷運作。不過，當企業部署大量感測器，或將設備安裝在不易接近的位置時，電池維護也會帶來額外的人力與成本負擔，而美國新創 RadianX 就想嘗試透過「光能採集」降低這項負擔。 鈣鈦礦模組，靠室內燈光發電 RadianX 開發的鈣鈦礦太陽能模組，能將戶外陽光或室內"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "川普力促黃仁勳復職，共和黨、民主黨員齊聲抨擊！美國會將擴大調查",
-          "link": "https://www.gvm.com.tw/article/134788",
-          "published": "2026-11-25T10:36:00",
-          "summary": "在美國總統川普強力介入下，涉及多起婚外情的輝達共同創辦人黃仁勳短短11天就戲劇性回鍋擔任執行長。美媒指出，川普這項做法在國會調查中開啟新戰線，使川普本人和這位極具影響力的科技巨頭都成為國會議員鎖定的調查目標。人工智慧（AI）晶片大廠輝達（NVIDIA）共同創辦人黃仁勳先前因媒體披露涉及多起婚外情，包括與一名疑似中國間諜的女子有染，12日辭去輝達執行長等職務。輝達董事會主席瓊斯（Harvey C. "
+          "title": "治水思維再升級　彰化以多元水利建設提升城市韌性",
+          "link": "https://www.gvm.com.tw/article/134481",
+          "published": "2026-11-26T00:00:00",
+          "summary": "「即使今天天氣預報說，彰化也無風雨也無晴，結果下午突然一個雷雨細胞形成，瞬間降下暴雨，很多時候已經防不勝防。」彰化縣政府水利資源處處長湯國榮用現場觀察，點出極端天候對現代治水帶來的嚴峻挑戰。彰化沿海地勢低平，老城區道路狹窄、管線容量受限，治水格外棘手，因此縣府從城市蓄洪、地下排水到污水再生利用多管齊下，因地制宜，逐步打造更具韌性的城市。一地多用，以系統蓄洪守護歷史街區走進鹿港舊城區，古蹟與民宅依傍"
         },
         {
-          "title": "意在牽制中國？索羅門群島、澳洲簽的「全面性條約」是什麼？",
-          "link": "https://www.gvm.com.tw/article/134785",
-          "published": "2026-11-25T10:20:00",
-          "summary": "索羅門群島與澳洲今天簽署一項全面性條約，重申這座太平洋島國境內不會設立外國軍事基地。這項協議被視為意在阻撓中國。法新社報導，索羅門群島總理瓦爾（Matthew Wale）與15名部長正在訪問澳洲，就安全、基礎建設、教育與衛生等領域舉行會談，並正式簽署澳洲－索羅門群島條約（Australia-Solomon Islands Treaty）。兩國發表聯合聲明指出：「澳洲－索羅門群島條約將讓澳洲、索羅門"
+          "title": "NB代工大廠中傑Q3逆風轉虧！董座劉安哲：不要浪費不景氣",
+          "link": "https://www.gvm.com.tw/article/134833",
+          "published": "2026-11-25T18:42:00",
+          "summary": "製鞋大廠中傑集團今天舉辦法說會，董事長劉安哲樂觀表示，受終端消費景氣疲弱影響，公司今年第三季由盈轉虧，預估今年第四季營收仍偏保守，但不景氣就是逆風練功的好時機，目標2027年集團東南亞加上印度的產能將超過六成。發跡於台中的中傑集團，有超過40年歷史，是知名運動鞋品牌New Balance前三大代工廠，生產基地橫跨中國大陸、越南、印尼和印度。客戶下單謹慎，中傑Q3由盈轉虧 第4季營收偏保守根據中傑財"
         },
         {
-          "title": "中教大學生持美工刀威脅教師！全教產：屬職場不法侵害",
+          "title": "2026好市多黑五起跑！要買什麼？回饋優惠多少？特價商品一次看（不斷更新）",
+          "link": "https://www.gvm.com.tw/article/134556",
+          "published": "2026-11-25T18:30:00",
+          "summary": "一年一度的購物盛事「好市多2026黑色星期五（Black Friday）」11月23日開跑，今年首度從7天拉長到14天，一路到12月6日，無論想入手聖誕禮物、添購家電，黑五都是最佳時機。黑鑽會員每天上午7點30分就能入場，比金星和商業會員早1小時，這項新安排在社群上引發兩派討論：有人算出搭配回饋能把會費賺回來，也有人認為與其提早入場，不如放寬限購數量；好市多將自11月22日（日）起，連續 14 天"
+        },
+        {
+          "title": "演場會經濟新幫手！廣達能否切入AI-RAN？",
+          "link": "https://www.gvm.com.tw/article/134832",
+          "published": "2026-11-25T18:29:00",
+          "summary": "繼AI資料中心之後，電信基地台會是伺服器大廠的下一個戰場嗎？隨著諾基亞（Nokia）攜手輝達（NVIDIA）推動AI-RAN，廣達也躋身合作伙伴之列。從伺服器如何導入電信網路，到電信商何時願意埋單，台灣諾基亞總經理許佳樹揭開合作模式與商用進度，一窺台廠搶進電信市場的新契機。當台灣近年演唱會經濟成為熱門議題，除了藝人、場館，其實還有這個重要的技術也是關鍵。想像一場數萬人湧入的演唱會，當觀眾同時拿起手"
+        },
+        {
+          "title": "沒花錢，LINE Pay、全支付竟出現扣款通知？行動支付盜刷自救一次看",
+          "link": "https://www.gvm.com.tw/article/134831",
+          "published": "2026-11-25T18:17:00",
+          "summary": "近期台灣金融與數位資安事件頻傳，不僅多家銀行接連傳出客戶存款於凌晨遭異常轉出、甚至流向電子支付帳戶的「盜刷潮」，刑事警察局最新統計也顯示，釣魚連結詐騙案件正急速攀升。當手機突然跳出一筆非本人操作的行動支付扣款通知，該如何處理？本文針對台灣人最常用的全支付、街口支付、LINE Pay，整理第一時間的止損 SOP、客服窗口、與免費申訴流程，在關鍵時刻守住血汗錢。【目錄】 • 發現不明扣款別慌！第一時間"
+        },
+        {
+          "title": "中教大學生持美工刀威脅教師！校方：已禁該生進入校園",
           "link": "https://www.gvm.com.tw/article/134791",
-          "published": "2026-11-25T10:06:00",
-          "summary": "編按：台教育大學一名學生24日疑與教師在報告方式有不同想法，持美工刀上前，遭壓制並送法辦。全國教育產業總工會今天表示，此行為屬職場不法侵害，學校應立即執行風險評估等步驟。全國教育產業總工會（全教產）今天發布新聞稿指出，教師和校安人員因執行職務於勞動場所遭受學生侵害，造成身體或精神傷害，就是屬於職場不法侵害，教師可依法提出告訴，而學校必須立即做風險評估，並提出實質的因應作為，避免教師及校安人員再次受"
-        },
-        {
-          "title": "黃仁勳重返輝達後首場員工大會！曝正接受心理治療、復職非川普施壓",
-          "link": "https://www.gvm.com.tw/article/134783",
-          "published": "2026-11-25T10:06:00",
-          "summary": "黃仁勳今天在輝達全體員工大會為自己違反公司行為準則向員工道歉，透露目前每天接受心理治療，同時表示自己並非是「科技圈大佬」能夠凌駕法律之上，也否認自己的復職是川普向輝達董事會施壓的結果。黃仁勳昨天回鍋擔任輝達（NVIDIA）執行長，今天在加州聖克拉拉（Santa Clara）輝達總部召開為時1小時的全體員工大會。綜合美國媒體報導，黃仁勳談話內容觸及個人層面、公司治理、政府關係。他開場即向財務長克瑞斯"
-        },
-        {
-          "title": "川普又有「新關稅」？台股早盤重挫逾2000點，失守4萬點關卡",
-          "link": "https://www.gvm.com.tw/article/134782",
-          "published": "2026-11-25T09:55:00",
-          "summary": "雖然黃仁勳回任輝達（NVIDIA）執行長，但AI熱潮前景不明，加上川普政府新關稅措施雜音，美股多收跌，費城半導體指數重挫。台股今天早盤低點38061.05點，下跌2061.3點，4萬點大關失守，跌破年線約39554點，隨後跌勢稍微收斂至約1500點，加權指數來到38600點附近。權值股台積電早盤低點2090元，大跌140元，跌幅6.28%。聯發科達3875元，下挫175元；台達電相對強勢，最高達1"
-        },
-        {
-          "title": "遠見獨家調查／逾八成受訪機構憂地緣政治，52.6％預期景氣轉弱",
-          "link": "https://www.gvm.com.tw/article/134775",
-          "published": "2026-11-25T08:00:00",
-          "summary": "━━ 關鍵洞察 ━━●全球風險：逾八成憂地緣政治，52.6％預期景氣轉弱。●資產配置：84.2％建議加碼投資股票，94.7％海外投資首選美國。●產業題材：94.7％看好半導體業，75.4％青睞AI概念股。●個股排行：台積電、聯發科穩居前2名。站在邁向2027年的交會點，全球經濟正一步步走向「裂變」。11月，輝達（NVIDIA）上演一場戲劇性的人事轉折：黃仁勳閃電請辭執行長，事隔11天，輝達又在11"
+          "published": "2026-11-25T18:16:00",
+          "summary": "台中教育大學昨天有學生持美工刀威脅授課教師。校方禁止該生進入校園，授課改遠距方式進行，並調派校安人員，針對該生原修習課程及相關教學活動場域，實施定時定點安全巡查。國立台中教育大學今天發布聲明稿指出，該生持美工刀威脅授課教師的行為，涉學生獎懲辦法規定的退學事由。學校刻正辦理學生事務會議相關程序，將依規定完成事實審議及後續處理，對於危害師生人身安全的重大違規行為，秉持嚴正立場依法處理，絕不寬貸。校園安"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "榮成紙業加速2050<b>淨零</b>布局減碳、循環經濟雙軌並進勇奪TCSA三大獎 - PeoPo 公民新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.peopo.org/news/865135&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2535DLKvtK2lL6V8I_XzXA",
-          "published": "2026-11-25T07:14:10+00:00",
-          "summary": "藉由擴大再生能源佈局與極大化能源效率，榮成不僅能有效降低未來碳費及氣候變遷帶來的營運風險，更將透過低碳包裝解決方案的競爭優勢，積極搶攻國際綠色供應鏈&nbsp;..."
+          "title": "臺南因應<b>氣候變遷</b>成果受肯定氣候與能源治理評比全國第一 - LIFE 生活網",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://life.tw/article/%25E8%2587%25BA%25E5%258D%2597%25E5%259B%25A0%25E6%2587%2589%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E9%2581%25B7%25E6%2588%2590%25E6%259E%259C%25E5%258F%2597%25E8%2582%25AF%25E5%25AE%259A-%25E6%25B0%25A3%25E5%2580%2599%25E8%2588%2587%25E8%2583%25BD%25E6%25BA%2590%25E6%25B2%25BB%25E7%2590%2586%25E8%25A9%2595%25E6%25AF%2594%25E5%2585%25A8%25E5%259C%258B%25E7%25AC%25AC%25E4%25B8%2580-3235773&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2dVrDGrxVGzqWPq7TUmZnV",
+          "published": "2026-11-26T05:16:28+00:00",
+          "summary": "市長黃偉哲表示，面對全球氣候變遷與淨零轉型挑戰，臺南以「2050淨零排放 ... 面對2050碳中和目標，中鋼務實面對技術、資源、資本等三大挑戰，未來將&nbsp;..."
         },
         {
-          "title": "2026<b>淨零</b>產業競爭力暨永續農業獎頒獎首納封測、67單位獲肯定 - Yahoo新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/2026%25E6%25B7%25A8%25E9%259B%25B6%25E7%2594%25A2%25E6%25A5%25AD%25E7%25AB%25B6%25E7%2588%25AD%25E5%258A%259B%25E6%259A%25A8%25E6%25B0%25B8%25E7%25BA%258C%25E8%25BE%25B2%25E6%25A5%25AD%25E7%258D%258E%25E9%25A0%2592%25E7%258D%258E-%25E9%25A6%2596%25E7%25B4%258D%25E5%25B0%2581%25E6%25B8%25AC-67%25E5%2596%25AE%25E4%25BD%258D%25E7%258D%25B2%25E8%2582%25AF%25E5%25AE%259A-044406150.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1hqhd8iR8JmLCXRUHzZcvf",
-          "published": "2026-11-25T06:46:48+00:00",
-          "summary": "臺北市副市長林奕華致詞時提到，面對歐盟碳邊境調整機制（CBAM）與國際供應鏈減碳要求，淨零已攸關企業營運與國際競爭力；北市府從節能轉型、多元綠能及氣候調適&nbsp;..."
+          "title": "臺中首創醫療機構低碳認證！公衛體系全面推動<b>淨零</b>打造永續健康城市 - 民視新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ftvnews.com.tw/news/detail/2026B26W0343&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2LQCA0N697Bpa-IEhMIxzz",
+          "published": "2026-11-26T05:09:41+00:00",
+          "summary": "面對全球氣候變遷與淨零轉型趨勢，醫療體&nbsp;..."
         },
         {
-          "title": "溫室氣體排放量占全球8.8%...觀光業既是<b>氣候變遷</b>受害者也是碳排大戶 - 倡議家- 聯合新聞網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://ubrand.udn.com/ubrand/story/123647/9896375%3Fform%3Dudn_ch2_common3_cate&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0eUkLEqdXmUIh28WpFC6QM",
-          "published": "2026-11-25T06:23:30+00:00",
-          "summary": "文章摘要整理：. COP31聚焦觀光業減碳落差，全球910個簽署者僅交381份計畫；從尚比亞乾旱、加勒比海依賴觀光到土耳其熱浪風險&nbsp;..."
+          "title": "氣候變化讓香莢蘭提早採收 - Yahoo新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://tw.news.yahoo.com/%25E6%25B0%25A3%25E5%2580%2599%25E8%25AE%258A%25E5%258C%2596%25E8%25AE%2593%25E9%25A6%2599%25E8%258E%25A2%25E8%2598%25AD%25E6%258F%2590%25E6%2597%25A9%25E6%258E%25A1%25E6%2594%25B6-043253018.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw18S2IX9MrilupI56yYNrlC",
+          "published": "2026-11-26T04:44:59+00:00",
+          "summary": "尤建驊表示，香草因所處環境的土壤、氣候和周圍植物等不同，所呈現出來的味道也會有差異，所以他特別營造自己蘭園內的植栽，並以草生種植，同時也因玉井所在的&nbsp;..."
         },
         {
-          "title": "在土耳其舉行的COP31高峰會徹底破局：資本主義阻礙了氣候危機的任何解決方案",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.wsws.org/zh/articles/2026/11/24/iget-n24.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0goYyWvk8THhxX3izaO9sT",
-          "published": "2026-11-25T05:35:01+00:00",
-          "summary": "Climate changeWorld economyCapitalism and inequality. Error. © 1998-2026 World Socialist Web Site. All rights reserved. HomeAboutContactPrivacy&nbsp;..."
+          "title": "玉山金控黃男州揭金融業三大轉型方案，呼應COP31讓<b>淨零</b>承諾落地 - 遠見雜誌",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.gvm.com.tw/article/134857&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw35USibNKx3JNaPTdcm2-sl",
+          "published": "2026-11-26T04:40:02+00:00",
+          "summary": "玉山金控董事長黃男州在COP31期間舉辦的世界氣候高峰會上，以台灣半導體產業優勢為起點，分享金融業如何透過AI、轉型授信與市場機制，協助企業邁向低碳&nbsp;..."
         },
         {
-          "title": "Meta為什麼修正2030<b>淨零</b>目標？解析AI算力擴張引爆的伺服器隱含碳排危機 - Mashdigi",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://mashdigi.com/meta-net-zero-ai-data-center-2030/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2OoMa2nDZbt1ES4k1yMKpj",
-          "published": "2026-11-25T04:54:13+00:00",
-          "summary": "Meta發布2026年永續發展報告正式鬆口，成為首家重新評估2030年淨零排放目標的科技巨頭。面對AI資料中心規模以吉瓦擴張、伺服器採購帶動年排碳量飆升4成&nbsp;..."
+          "title": "全球暖化被忽略的威脅，研究：本世紀末全球落地雷擊恐翻倍",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://technews.tw/2026/11/26/the-overlooked-threat-of-global-warming-study-finds-global-lightning-strikes-could-double-by-the-end-of-the-century/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2H1uyZRC97sF_rQRo4ucbh",
+          "published": "2026-11-26T04:30:55+00:00",
+          "summary": "... ，人們首先想到的往往是極端高溫、暴雨、洪水及海平面上升，但科學家發現，氣候變遷 ... 2021 年發表於《Nature Climate Change》的研究已提出類似警告，預測在高&nbsp;..."
         },
         {
-          "title": "永豐餘永續治理報捷獲BSI及<b>淨零</b>競爭力獎項肯定- 股市爆料同學會 - 理財寶",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/article/189817334&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0hwvtCJF3A7wz6_tWhPlfl",
-          "published": "2026-11-25T04:22:14+00:00",
-          "summary": "內文連結."
+          "title": "產發署<b>淨零</b>成果發表389廠通過碳費自主減量審查 - 報新聞",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.contentplatform.info/articles/592137/%25E7%2594%25A2%25E7%2599%25BC%25E7%25BD%25B2%25E6%25B7%25A8%25E9%259B%25B6%25E6%2588%2590%25E6%259E%259C%25E7%2599%25BC%25E8%25A1%25A8%25E3%2580%2580389%25E5%25BB%25A0%25E9%2580%259A%25E9%2581%258E%25E7%25A2%25B3%25E8%25B2%25BB%25E8%2587%25AA%25E4%25B8%25BB%25E6%25B8%259B%25E9%2587%258F%25E5%25AF%25A9%25E6%259F%25A5/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw28zet2720tK72jgj9_RfPx",
+          "published": "2026-11-26T04:29:16+00:00",
+          "summary": "面對國內碳費制度上路與國際綠色供應鏈要求，產發署展現具體轉型成績單：近10年製造業二氧化碳排放量已下降9.6%、碳密集度大幅下降41.3%，且已成功協助389廠通過&nbsp;..."
         }
       ]
     }
