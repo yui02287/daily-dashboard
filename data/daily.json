@@ -1,7 +1,7 @@
 {
   "meta": {
-    "generated_at": "2026-11-27T09:27:12.433998+00:00",
-    "date": "2026-11-27",
+    "generated_at": "2026-11-28T08:41:27.880953+00:00",
+    "date": "2026-11-28",
     "version": "1.0"
   },
   "notion_todos": [],
@@ -11,6 +11,24 @@
       "feed_name": "TechOrange 科技報橘",
       "feed_url": "https://techorange.com/feed/",
       "items": [
+        {
+          "title": "【Google Cloud 2027 資安展望報告】勒索集團轉向盜用算力，「LLMJacking」數小時內讓企業雲端帳單暴增",
+          "link": "https://techorange.com/2026/11/28/cloud-ciso-perspectives/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-27T22:29:00+00:00",
+          "summary": "雲端服務業者 Google Cloud 發布《雲端首席資訊安全長展望：2027 年資安預測》（Cloud CISO Perspectives: Our security forecast for 2027），由 Google Cloud 資安長 Chris Betz 彙整 Google、Google Cloud 與 Mandiant（Google 旗下網路安全與威脅情報公司）團隊高階主管的最新威脅"
+        },
+        {
+          "title": "美國算力管制與反蒸餾雙重夾擊：傳中國 AI 旗艦模型恐延宕，月之暗面取消印尼交易轉向歐洲租算力",
+          "link": "https://techorange.com/2026/11/27/us-curbs-delay-china-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-27T11:02:42+00:00",
+          "summary": "美國商務部工業暨安全局（BIS）於 2026 年 11 月 19 日正式發布並實施臨時最終規則（Interim Final Rule, IFR）《Addressing Remote Access to Advanced Semiconductors》，將算力管制延伸至海外資料中心。與此同時，綜合《Reuters》與相關外媒報導，OpenAI 與 Anthropic 也同步收緊針對「模型蒸餾（Dis"
+        },
+        {
+          "title": "Volvo 首度在工廠導入人形機器人：比利時廠訓練 AEON，2027 年中拚投產",
+          "link": "https://techorange.com/2026/11/27/volvo-cars-trains-hexagon-robotics-humanoids-manufacturing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+          "published": "2026-11-27T10:33:08+00:00",
+          "summary": "Volvo Cars 近日宣布，已在比利時根特（Ghent）工廠導入瑞典科技集團 Hexagon 旗下機器人部門 Hexagon Robotics 的人形機器人 AEON，在真實工業任務中進行訓練與驗證，希望協助員工處理重複性高、不符人體工學的工作。根特是 Volvo Cars 第一座試用人形機器人的工廠，AEON 目前與員工及既有自動化設備一起學習，2027 年上半年將展開工廠試行，目標是從 2"
+        },
         {
           "title": "機器人 ChatGPT 時刻何時爆發？工研院、微軟、NVIDIA 深度拆解三個關鍵",
           "link": "https://techorange.com/2026/11/27/hhtd26-foxconn-itri-microsoft-nvidia/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -28,24 +46,6 @@
           "link": "https://techorange.com/2026/11/27/europe-satellite-factory-iris2-starlink/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
           "published": "2026-11-27T06:12:08+00:00",
           "summary": "為了不再過度依賴美國的太空與網路設施，歐洲正加快腳步建立自己的衛星通訊網。11 月 24 日，歐洲規模最大的衛星製造工廠在比利時正式開幕。這家工廠的營運商 Aerospacelab 已在今年 9 月拿下歐盟「IRIS²」計畫高達 24 億歐元的衛星製造合約，準備打造歐盟版本的衛星網路，為低軌衛星市場帶來星鏈（Starlink）以外的歐洲方案。 每年可望生產 500 顆衛星！歐洲「超級工廠」正式亮相"
-        },
-        {
-          "title": "AI 購物助理迎假期大考：Google、Meta、OpenAI 搶進，Amazon 築牆護今年逾 800 億美元廣告事業",
-          "link": "https://techorange.com/2026/11/27/holidays-to-test-ai-shopping-bots-from-google-amazon-meta-openai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-27T05:04:07+00:00",
-          "summary": "Google、Amazon、Meta 與 OpenAI 都想幫消費者挑選節慶禮物。《Bloomberg》近日報導，今年美國假期購物季將是 AI 購物助理的一次考驗，檢驗購物者最終會採納誰的建議；另一篇報導則指出，顧客與雇主都把 AI 帶進實體門市，讓零售員工面臨新的挑戰。 馬里蘭大學 42 歲的行銷學教授 Daniel McCarthy 熱愛跑步，某天滑 Instagram 時，看到鎖定腳踝無力運"
-        },
-        {
-          "title": "NVIDIA 暫停東南亞四國伺服器出貨，美國新規把「算力給誰用」納入許可審查",
-          "link": "https://techorange.com/2026/11/27/nvidia-halts-southeast-asia-servers-export-controls/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-27T03:57:29+00:00",
-          "summary": "據《金融時報》與《華爾街日報》報導，NVIDIA 已要求製造夥伴，暫停把搭載其晶片的伺服器出貨到馬來西亞、新加坡、泰國與印尼，期限未定。這一步發生在美國商務部新規於美國時間 11/19 生效之後：新規除了管制晶片運送到哪裡，也把海外資料中心替哪些企業提供算力，明確納入許可審查。 台灣 AI 伺服器供應鏈也可能受到波及。集邦科技（TrendForce）評估，短期內台廠出到東南亞的伺服器，客戶會更集中"
-        },
-        {
-          "title": "美國 7-Eleven 把 AI 用進招募、結帳到設備維修，招人時間從 10 天縮到不到 3 天",
-          "link": "https://techorange.com/2026/11/27/7-eleven-ai-data-automation-convenience/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-          "published": "2026-11-27T02:46:37+00:00",
-          "summary": "在數位優先的零售環境下，美國連鎖便利商店巨頭 7-Eleven 透過人工智慧、數據整合與自動化技術全面改造門市與後勤營運，致力於大規模提升便利零售的服務水準。 導入電腦視覺與無摩擦結帳，優化門市結帳效率 在門市消費體驗方面，7-Eleven 已導入手機掃描付款、自助結帳，以及 AI 驅動的 Quick Checkout（QCO）等技術，讓顧客能透過不同方式完成購物，減少櫃檯排隊時間。 7-Elev"
         }
       ]
     },
@@ -54,40 +54,40 @@
       "feed_url": "https://www.gvm.com.tw/rss",
       "items": [
         {
-          "title": "美國感恩節遇風暴襲擊！美東航班大亂、逾83萬戶停電",
-          "link": "https://www.gvm.com.tw/article/134894",
-          "published": "2026-11-27T11:02:00",
-          "summary": "強烈風暴在感恩節襲擊美國東岸大部分地區，狂風吹倒樹木與電線，超過83萬戶停電，數百航班取消，紐約知名的梅西感恩節大遊行，首度因惡劣天氣延期。路透社報導，強烈風暴今天打亂美國東岸大部分地區的感恩節假期，高達每小時112公里的強陣風吹倒樹木與電線，造成數十萬用戶無電可用。根據航班追蹤網站FlightAware通報，截至今天下午，全美相關航班累計約417架次取消、1800架次延誤。華盛頓與紐約市主要機場"
+          "title": "天冷身體變遲鈍易疲倦？中醫授「4招養生」顧好3部位：別盲目進補",
+          "link": "https://www.gvm.com.tw/article/134889",
+          "published": "2026-11-28T07:00:00",
+          "summary": "節氣進入「小雪」，天氣一冷就手腳冰冷、早上起不來、容易疲倦、身體遲鈍、反應變慢，彷彿進入「冬季省電模式」？頤鳴堂中醫診所宋宛蓁中醫師提醒，低溫易使末梢血管收縮、氣血運行受阻，但並非所有疲倦都要盲目吃薑母鴨、麻油雞等食補藥膳進補！本文解析小雪養生４招與３部位保暖秘訣，並教你看懂疾病異常警訊，天冷照樣活力滿滿。隨著節氣進入小雪，氣溫逐漸下降，早晚溫差也愈來愈明顯。不少人開始發現，天氣一冷，身體好像也跟"
         },
         {
-          "title": "備孕只做婚前健檢還不夠？醫師建議以「帶因篩檢」找出健康夫妻的未知遺傳風險",
-          "link": "https://www.gvm.com.tw/article/134804",
-          "published": "2026-11-27T10:48:00",
-          "summary": "近幾年，愈來愈多新婚夫妻還沒懷孕，就先擔心孩子會不會有遺傳疾病。茂盛醫院基因遺傳主任李俊逸醫師提醒，身體健康的爸媽，也可能帶有會遺傳給孩子的疾病基因，最好在懷孕前就先做帶因篩檢，提早了解風險，才有時間和醫師討論生育計劃。「醫師，我這個狀況，會不會生出異常的小孩？」近幾年，走進茂盛醫院基因遺傳主任李俊逸醫師診間的新婚夫妻，愈來愈多人一開口，就是這個問題。原來，他們在進診間前，就先在網路上查過一輪資訊"
+          "title": "台中選前之夜》何欣純串聯「洋流」，江啟臣喊話延續8年市政",
+          "link": "https://www.gvm.com.tw/article/134924",
+          "published": "2026-11-27T23:59:00",
+          "summary": "2026九合一大選明（28）日即將投票，台中市長選戰白熱化。民進黨台中市長參選人何欣純與國民黨參選人江啟臣今（27）日晚間分別舉辦選前之夜，藍綠重量級政治人物齊聚台中助選。何欣純串聯「洋流」聲援沈伯洋，喊話開創城市新未來；江啟臣則強調延續盧秀燕八年市政，兩人皆把握選前最後一夜全力催票，向市民闡述未來的城市願景。2026年九合一大選將於11月28日登場，台中市長選戰也迎來最後的關鍵時刻。隨著現任市長"
         },
         {
-          "title": "新北「敏金護理之家」超收詐領逾億安置費！「設鐵柵、餐食如廚餘」現場照曝光",
-          "link": "https://www.gvm.com.tw/article/134891",
-          "published": "2026-11-27T10:38:00",
-          "summary": "新北敏金、家妘護理之家涉超收、拘禁逾百住民，還詐領逾億安置費，負責人、員工等6人收押禁見。檢方更公布現場照片不僅空間擁擠、餐食惡劣，更設鐵柵欄限制住民自由，宛如狗籠。新北地檢署凌晨發布新聞稿指出，今年10月新北市政府社會局安置在敏金精神護理之家的住民，疑未獲適當照護感染肺炎死亡，新北檢察官楊皓勻相驗時，家屬透露該住民生前曾說實際居住處所非敏金精神護理之家。今年11月19日，敏金精神護理之家又有1名"
+          "title": "整個台北都是舞台！沈伯洋市民之夜直播破50萬人觀看，曝上任百日3大任務",
+          "link": "https://www.gvm.com.tw/article/134921",
+          "published": "2026-11-27T23:28:00",
+          "summary": "2026九合一大選投票就在明（28）日。民進黨台北市長參選人沈伯洋今（27）晚進行「市民之夜線上直播」，並於官網公布「應援地圖」邀請市民揪團看直播，線上觀看人數最高達50萬人，而「應援地圖」亦有9.7萬人上線。沈伯洋表示，若順利當選，上任前100天將首要處理兒虐、種樹、營養午餐三大議題。民進黨立委、台北市長候選人沈伯洋原訂於台北市仁愛路舉行的選前之夜實體活動緊急取消後，改為線上直播形式進行。競選團"
         },
         {
-          "title": "美商務部大幅上修第3季GDP，川普控「選前數據造假」要求調查",
-          "link": "https://www.gvm.com.tw/article/134888",
-          "published": "2026-11-27T10:07:00",
-          "summary": "美國商務部例行修正經濟數據，大幅上修第3季國內生產毛額（GDP）成長率，總統川普今天指控選前公布的是「假數據」，要求立即調查，延續他對期中選舉遭干預的無據指控。法新社報導，美國商務部（Department of Commerce）昨天將第3季GDP成長率從先前預估的3.4%大幅上修至4.3%。川普隨即對他所謂的「假」數據猛烈抨擊。川普在自家社群平台「真實社群」（Truth Social）發文說：「"
+          "title": "李四川選前之夜飆6萬人，蔣萬安喊一通電話雙北接軌！川嫂獻花，川伯「親一個」方式大家笑了",
+          "link": "https://www.gvm.com.tw/article/134920",
+          "published": "2026-11-27T23:17:00",
+          "summary": "2026九合一大選進入最後倒數！國民黨新北市長候選人李四川今（27）日晚間在板橋第一運動場舉辦選前之夜，主辦單位喊出現場湧入約六萬名支持者；從空拍影像俯瞰，全場旗海飄揚，而台上更是藍營大咖雲集——台北市長蔣萬安、前新北市長朱立倫、新北市長侯友宜、立法院長韓國瑜等人相繼登台助講，台中市長盧秀燕也透過影片隔空力挺老戰友。今天晚間9時左右，國民黨新北市長參選人李四川與新北市長侯友宜在支持者夾道歡迎下進場"
         },
         {
-          "title": "九合一大選》沈伯洋點亮星星地圖、蔣萬安凱道造勢！六都市長候選人選前之夜拚場，地點、活動資訊一次看",
-          "link": "https://www.gvm.com.tw/article/134829",
-          "published": "2026-11-27T09:50:00",
-          "summary": "11/27 09:30更新：2026九合一大選11月28日週六登場，選舉前最後一晚也進入最後衝刺階段，藍綠候選人沈伯洋與蔣萬安今（27）日全力衝刺。沈伯洋取消實體造勢，改為線上「市民之夜」，並推出星星地圖揪團觀看直播，同時臨時加開全市大車掃；蔣萬安則於凱達格蘭大道舉辦「勝選之夜」，邀請重量級大咖助講，同時也調整車掃路線，藍綠從白天車掃一路拚場到晚間選前之夜，決戰首都。《遠見》整理目前已確定的六都市"
+          "title": "新北蘇巧慧選前之夜，賴清德、蔡英文到場力挺！現場逾5萬人",
+          "link": "https://www.gvm.com.tw/article/134919",
+          "published": "2026-11-27T23:13:00",
+          "summary": "2026九合一大選進入決戰倒數時刻，民進黨新北市長候選人蘇巧慧於11月27日晚間，在板橋第二運動場隆重舉行「新時代新市長｜選前之夜」造勢晚會，超過五萬名支持者湧入，總統賴清德、前總統蔡英文也都前來助陣。同時，全場也為取消選前之夜的台北市長候選人沈伯洋助威高喊「凍蒜」聲援。在最後衝刺的選前之夜，新北市長候選人蘇巧慧除了有蔡英文、賴清德兩位前後任總統到場力挺之外，也找來三屆金曲台語歌后黃妃、「保庇天后"
         },
         {
-          "title": "美AI伺服器出口管制成法說焦點！神達何繼武這樣估影響",
-          "link": "https://www.gvm.com.tw/article/134879",
-          "published": "2026-11-26T18:46:00",
-          "summary": "美國對AI伺服器的出口管制，會不會影響神達的生意？神達控股（3706）與神達數位（7821）今（26）日舉辦聯合法說會，由神達控股總經理暨神達數位董事長何繼武主持。何繼武直言，神達在受管制措施影響的東南亞市場，AI伺服器業務比重低，預估衝擊有限，同時他也看好2027年成長，表示台灣、越南與美國廠區已陸續擴充設備，液冷產能與電力足以支應明年需求。「我們現在看到AI伺服器禁令影響不大。」神雲科技總經理"
+          "title": "蔣萬安選前之夜湧進15萬人！與支持者相約投票所見「明天會更好」",
+          "link": "https://www.gvm.com.tw/article/134918",
+          "published": "2026-11-27T23:11:00",
+          "summary": "2026九合一大選投票倒數，今（27）晚各陣營舉辦選前之夜，台北市長蔣萬安的主場辦在凱達格蘭大道，主辦單位宣稱現場湧入15萬人。藍營的國民黨大咖包括「禿子」韓國瑜、「燕子」盧秀燕、「漢子」侯友宜等「三子」都站台向支持者喊話，連白營的民眾黨六位市議員候選人也同台助陣，現場展現藍白大團結氣勢。蔣萬安則壓軸現身，呼籲不讓過去四年努力歸零，與支持者相約明天投票所見。台北市長蔣萬安拚連任，選前倒數一天行程滿"
         }
       ]
     },
@@ -96,40 +96,40 @@
       "feed_url": "https://www.google.com/alerts/feeds/16794236986060524975/13355507360328919855",
       "items": [
         {
-          "title": "從知識到行動！環境部攜手亞太夥伴將永續理念轉化為具體區域行動",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://enews.moenv.gov.tw/moenv-news/zh-tw/News/14597&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3Q378py0wO8Z8Seh0yrprR",
-          "published": "2026-11-27T07:35:55+00:00",
-          "summary": "... 淨零轉型最重要的力量。彭部長指出，循環經濟在聯合國氣候變化綱要公約（UNFCCC）中，已從早期的廢棄物排放議題，逐步走向物料與資源轉型；2023 年COP28 首&nbsp;..."
+          "title": "超強聖嬰持續發威！鄭明典示警全球海溫異常：氣候變化速度太快 - CTWANT",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.ctwant.com/article/508888/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw1JkigAE8OWVg5ZcfpA22ib",
+          "published": "2026-11-28T01:57:14+00:00",
+          "summary": "前氣象局長鄭明典今天（28日）上午在社群平台分享全球海溫距平圖，指出聖嬰指標區的海溫仍處於觀測史上前所未見的高溫狀態，大西洋與印度洋海溫也普遍偏高，&nbsp;..."
         },
         {
-          "title": "工研院跨國拚<b>淨零</b>攜英攻風電、聯日增產53%",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.twjinmedia.com/uncategorized/%25E5%25B7%25A5%25E7%25A0%2594%25E9%2599%25A2%25E8%25B7%25A8%25E5%259C%258B%25E6%258B%259A%25E6%25B7%25A8%25E9%259B%25B6-%25E6%2594%259C%25E8%258B%25B1%25E6%2594%25BB%25E9%25A2%25A8%25E9%259B%25BB%25E3%2580%2581%25E8%2581%25AF%25E6%2597%25A5%25E5%25A2%259E%25E7%2594%25A2-53/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0C8H7z4jKgsmsa_Okpvd-u",
-          "published": "2026-11-27T07:33:59+00:00",
-          "summary": "面對全球氣候變遷、淨零碳排與糧食安全等多重挑戰，工研院正加速透過跨國科研合作，將臺灣綠色科技推向國際舞台。近日工研院宣布與英國離岸風電創新中心（OREC）&nbsp;..."
+          "title": "MEPC 85會議開幕在即驗船中心關注IMO<b>淨零</b>框架協商進展 - 中華日報",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cdns.com.tw/articles/1497376&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw226RFkzPPtuFJHyx4jU8Il",
+          "published": "2026-11-28T00:23:25+00:00",
+          "summary": "記者陳瓊如／台北報導國際海事組織（IMO）將於11月30日至12月3日在倫敦舉行海洋環境保護委員會第85次會議（MEPC 85），驗船中心（CR）彙整本次會議關注重點&nbsp;..."
         },
         {
-          "title": "沒有共識，也沒有更好的出路 - Plataforma Media",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.plataformamedia.com/zh-hant/2026/11/27/%25E6%25B2%2592%25E6%259C%2589%25E5%2585%25B1%25E8%25AD%2598%25EF%25BC%258C%25E4%25B9%259F%25E6%25B2%2592%25E6%259C%2589%25E6%259B%25B4%25E5%25A5%25BD%25E7%259A%2584%25E5%2587%25BA%25E8%25B7%25AF/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3u3_lMvFPRojWJwrkx_mgi",
-          "published": "2026-11-27T06:38:17+00:00",
-          "summary": "經過額外逾44小時的談判，各方在化石燃料、氣候融資及應對氣候變化所需的力度等問題上，仍存在重大分歧，無法達成共識。 氣候政治的矛盾，恐怕沒有比這更&nbsp;..."
+          "title": "「AI低碳餐盤大作戰」經發局引領青年實踐永續<b>淨零</b>新生活 - 新媒體經紀人",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://media.posu.tw/uninews_view.php%3Fnew_sn%3D151133&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw2nmb80qw1hxiR5D25Tn7Bj",
+          "published": "2026-11-27T21:20:55+00:00",
+          "summary": "活動結合AI影像辨識科技、在地當季食材及趣味競賽，透過互動課程與手作體驗，引導民眾認識食物碳足跡與惜食觀念，將減碳理念轉化為具體生活行動。 △「AI低碳餐&nbsp;..."
         },
         {
-          "title": "COP31產油國反彈致成果破局日本企業海外減碳商機仍有斬獲- 財經新聞",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://news.pchome.com.tw/finance/sunmedia/20261127/index-79575176703814329003.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw20MmYCrbSsyD2FZB2JuKLp",
-          "published": "2026-11-27T06:35:42+00:00",
-          "summary": "商傳媒｜吳承岳／台北報導第31屆聯合國氣候變化大會（COP31，即聯合國氣候變遷架構公約締約國會議）因化石燃料與氣候資金議題爆發嚴重分歧，各國談判陷入&nbsp;..."
+          "title": "實踐社會共好與<b>淨零</b>願景！施耐德電機攜手Xpark、網寮國小參與嘉義沿海海草復育",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://life.tw/article/%25E5%25AF%25A6%25E8%25B8%2590%25E7%25A4%25BE%25E6%259C%2583%25E5%2585%25B1%25E5%25A5%25BD%25E8%2588%2587%25E6%25B7%25A8%25E9%259B%25B6%25E9%25A1%2598%25E6%2599%25AF-%25E6%2596%25BD%25E8%2580%2590%25E5%25BE%25B7%25E9%259B%25BB%25E6%25A9%259F%25E6%2594%259C%25E6%2589%258B-xpark-%25E7%25B6%25B2%25E5%25AF%25AE%25E5%259C%258B%25E5%25B0%258F-3238646&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0I2bTxc9n-KJi8QL6z_Kwj",
+          "published": "2026-11-27T19:30:05+00:00",
+          "summary": "... 碳中和目標的藍碳轉型新模式，讓臺灣沿海魚塭不僅能生產漁獲，也能成為守護海洋生態與因應氣候變遷的重要力量。（相片來源/高科大提供）. 下一篇. 嘉義市推動&nbsp;..."
         },
         {
-          "title": "與英國OREC續約五年工研院深化前瞻技術並攜手拓展亞太風電市場 - 太平洋新聞網",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=http://www.pacificnews.com.tw/shownews.php%3Fpostnewsid%3D17%26titleid%3D105153&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw00bDDdazquwgMCNbhUY8Aq",
-          "published": "2026-11-27T05:10:44+00:00",
-          "summary": "【記者林富貴／綜合報導】全球氣候變遷與淨零碳排的迫切挑戰，臺灣的綠能發展正迎來關鍵的國際升級。 工研院與英國離岸風電創新中心（&nbsp;..."
+          "title": "氣候危機正侵蝕經濟競爭力| 社論| 專欄",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://money.udn.com/money/story/5628/9906795/&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3_DeWUh--9gEOmmPGGfdU3",
+          "published": "2026-11-27T19:24:21+00:00",
+          "summary": "2026年聯合國氣候變遷大會（COP31）已在土耳其落幕，卻未能達成全球氣候行動的整體共識。就在各國爭論減碳責任之際，超級聖嬰現象正加劇全球氣候異常，&nbsp;..."
         },
         {
-          "title": "國際稅務新知2026年11月號 - KPMG International",
-          "link": "https://www.google.com/url?rct=j&sa=t&url=https://kpmg.com/tw/zh/insights/tax/international-tax-news-update/202611.html&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw0XYIoDXTjcwxGiK3fixWrm",
-          "published": "2026-11-27T05:04:42+00:00",
-          "summary": "印度強化出口款項管理、菲律賓推CWT發票新規、馬來西亞2027財政預算案！跨境遵循與投資布局如何因應？"
+          "title": "暖秋暖冬機會提高，這和長期降雨型態變化之間有何關聯？ - 股市爆料同學會",
+          "link": "https://www.google.com/url?rct=j&sa=t&url=https://www.cmoney.tw/forum/readmo/bc790856-146d-4988-818f-18cb95c3360a&ct=ga&cd=CAIyHTNhODQ3ZmY0OGJiMWY4ZTc6Y29tOnpoLVRXOlVT&usg=AOvVaw3HGtBGClKWx4pPW4Bzl7L4",
+          "published": "2026-11-27T18:49:06+00:00",
+          "summary": "暖秋暖冬通常反映海氣系統的短期變化，但在氣候變遷背景下，乾季可能變長、連續不降雨日數增加，這會讓水庫補注與土壤含水量更不穩定。若降雨集中在少數幾次事件&nbsp;..."
         }
       ]
     }
